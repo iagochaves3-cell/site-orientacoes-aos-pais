@@ -1,0 +1,225 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T15:33:56.942Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_99d2f164d6af2bac",
+      "label": "Angioedema — registro no PPS",
+      "entity": "Angioedema",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"normalized_entity\":\"Angioedema\",\"assessment\":\"Entidade reconhecida; confirmar mecanismo, exposição e gravidade individual. Não pressupõe alta ou equivalência com angioedema hereditário.\",\"pediatric_scope\":\"Sintomas e urgência pediátricos; no IECA requer exposição real, sem extrapolar incidência/fatores adultos para crianças.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Angioedema é inchaço mais profundo da pele ou das mucosas, muitas vezes nos lábios, pálpebras, mãos ou pés. Pode ocorrer com ou sem urticária. O nome sozinho não revela a causa.",
+          "Cuidados em casa são apenas após avaliação e plano seguro. Observe respiração, voz, capacidade de engolir e evolução do inchaço. Fotografe se possível sem atrasar socorro e registre alimentos, remédios e infecções recentes."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não teste novamente um alimento ou medicamento suspeito para comprovar a causa. Leve lista de produtos usados, horário de cada exposição e episódios anteriores.",
+          "Compartilhe o plano com cuidadores e escola. Em suspeita de anafilaxia, não deixe caminhar: mantenha deitado; se respirar melhor sentado, pernas estendidas; com vômitos, de lado. Acione ajuda."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o tratamento orientado para a causa confirmada. Antialérgicos podem ajudar alguns tipos, mas não resolvem todos; não aumente, combine ou troque medicamentos por conta própria.",
+          "Com sinais de anafilaxia, use a adrenalina previamente prescrita conforme o plano e acione 192. Não espere antialérgico fazer efeito. O dispositivo não substitui avaliação hospitalar; sem dispositivo, peça socorro imediatamente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se consegue engolir normalmente e não há sinais graves, mantenha alimentação e líquidos habituais adequados à idade. Não retire vários alimentos, altere fórmula ou suspenda amamentação só pelo nome angioedema.",
+          "Se houver língua/garganta inchada, dificuldade para engolir, vômitos com sonolência ou falta de ar importante, não ofereça alimentos, bebidas ou remédios por boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Língua, boca ou garganta inchada, mudança de voz, dificuldade para engolir, saliva escorrendo ou respiração ruidosa/difícil: ligue 192. Não espere faltar ar ou aparecer urticária. Inchaço súbito dos lábios que progride também exige socorro imediato.",
+          "Desmaio, confusão, lábios azulados/cinzentos ou criança muito mole/pouco responsiva são emergência. Dor abdominal forte ou vômitos repetidos com outros sinais de reação também exigem atendimento.",
+          "Não atribua automaticamente todo inchaço à alergia: febre com prostração, dor intensa, vermelhidão crescente ou alteração visual exige avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Primeiro episódio ou novo inchaço sem causa/plano definido precisa de avaliação rápida, no mesmo dia. Se piorar ou não evoluir como a equipe explicou, volte; sinais de via aérea não aguardam consulta.",
+          "Em quadros avaliados e leves, o inchaço pode levar alguns dias para desaparecer, mas esse tempo não autoriza esperar diante de piora. Recorrência, episódios sem coceira/urticária, dor abdominal repetida ou familiares afetados justificam investigação especializada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço em bebê pequeno precisa de avaliação; má sucção, choro diferente, pouca reação ou respiração alterada exige socorro imediato.",
+        "3a5m": "Menores de 6 meses merecem avaliação pediátrica; não iniciar antialérgico ou mudar fórmula sem orientação.",
+        "6a11m": "Observe relação com exposições reais e sinais de via aérea; não atribua qualquer edema à introdução alimentar.",
+        "1a": "Um adulto deve observar a evolução e seguir o plano; não permitir acesso a remédios ou repetir exposições para testar.",
+        "2a5": "Combine com creche os sinais de perigo, contatos e plano prescrito; criança pode não conseguir descrever garganta apertada.",
+        "6a11": "Ensine a avisar cedo sobre voz diferente, inchaço ou dificuldade para engolir; o plano de resgate fica acessível ao adulto treinado.",
+        "12a17": "Inclua adolescente no plano e no registro de medicamentos, suplementos e exposições; não esconder sintomas ou ir sozinho se houver reação importante.",
+        "unknown": "Confirmar idade, exposição, sintomas e evolução; não escolher medicamento ou dose apenas pelo nome do cadastro."
+      },
+      "refs": [
+        {
+          "id": "pais165_op504_1",
+          "name": "Clinical Practice Guidelines: Urticaria",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urticaria/"
+        },
+        {
+          "id": "pais165_op504_2",
+          "name": "Angioedema FAQ",
+          "url": "https://www.allergy.org.au/patients/skin-allergy/angioedema"
+        },
+        {
+          "id": "pais165_op504_3",
+          "name": "Angioedema",
+          "url": "https://www.nhs.uk/conditions/angioedema/"
+        },
+        {
+          "id": "pais165_op504_4",
+          "name": "Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_a80752dc2c43d329",
+      "label": "Angioedema alérgico — registro no PPS",
+      "entity": "Angioedema alérgico",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"normalized_entity\":\"Angioedema alérgico\",\"assessment\":\"Entidade reconhecida; confirmar mecanismo, exposição e gravidade individual. Não pressupõe alta ou equivalência com angioedema hereditário.\",\"pediatric_scope\":\"Sintomas e urgência pediátricos; no IECA requer exposição real, sem extrapolar incidência/fatores adultos para crianças.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "No angioedema alérgico, uma exposição pode provocar inchaço de pele ou mucosas, às vezes com urticária. A suspeita precisa ser avaliada: ocorrer durante uma virose ou uso de antibiótico não comprova alergia ao medicamento.",
+          "Cuidados em casa são apenas após avaliação e plano seguro. Observe respiração, voz, capacidade de engolir e evolução do inchaço. Fotografe se possível sem atrasar socorro e registre alimentos, remédios e infecções recentes."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se um gatilho foi confirmado, siga o plano de evitá-lo e revisar rótulos/contato cruzado. A intensidade de uma reação anterior não prevê com segurança a próxima; não faça provocação em casa.",
+          "Não teste novamente um alimento ou medicamento suspeito para comprovar a causa. Leve lista de produtos usados, horário de cada exposição e episódios anteriores.",
+          "Compartilhe o plano com cuidadores e escola. Em suspeita de anafilaxia, não deixe caminhar: mantenha deitado; se respirar melhor sentado, pernas estendidas; com vômitos, de lado. Acione ajuda."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o tratamento orientado para a causa confirmada. Antialérgicos podem ajudar alguns tipos, mas não resolvem todos; não aumente, combine ou troque medicamentos por conta própria.",
+          "Com sinais de anafilaxia, use a adrenalina previamente prescrita conforme o plano e acione 192. Não espere antialérgico fazer efeito. O dispositivo não substitui avaliação hospitalar; sem dispositivo, peça socorro imediatamente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se consegue engolir normalmente e não há sinais graves, mantenha alimentação e líquidos habituais adequados à idade. Não retire vários alimentos, altere fórmula ou suspenda amamentação só pelo nome angioedema.",
+          "Se houver língua/garganta inchada, dificuldade para engolir, vômitos com sonolência ou falta de ar importante, não ofereça alimentos, bebidas ou remédios por boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Língua, boca ou garganta inchada, mudança de voz, dificuldade para engolir, saliva escorrendo ou respiração ruidosa/difícil: ligue 192. Não espere faltar ar ou aparecer urticária. Inchaço súbito dos lábios que progride também exige socorro imediato.",
+          "Desmaio, confusão, lábios azulados/cinzentos ou criança muito mole/pouco responsiva são emergência. Dor abdominal forte ou vômitos repetidos com outros sinais de reação também exigem atendimento.",
+          "Não atribua automaticamente todo inchaço à alergia: febre com prostração, dor intensa, vermelhidão crescente ou alteração visual exige avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Primeiro episódio ou novo inchaço sem causa/plano definido precisa de avaliação rápida, no mesmo dia. Se piorar ou não evoluir como a equipe explicou, volte; sinais de via aérea não aguardam consulta.",
+          "Em quadros avaliados e leves, o inchaço pode levar alguns dias para desaparecer, mas esse tempo não autoriza esperar diante de piora. Recorrência, episódios sem coceira/urticária, dor abdominal repetida ou familiares afetados justificam investigação especializada.",
+          "Depois de reação suspeita, combine investigação com alergista e atualização do plano de emergência. Inchaço recorrente por semanas sem relação clara com exposição também pede considerar outras causas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço em bebê pequeno precisa de avaliação; má sucção, choro diferente, pouca reação ou respiração alterada exige socorro imediato.",
+        "3a5m": "Menores de 6 meses merecem avaliação pediátrica; não iniciar antialérgico ou mudar fórmula sem orientação.",
+        "6a11m": "Observe relação com exposições reais e sinais de via aérea; não atribua qualquer edema à introdução alimentar.",
+        "1a": "Um adulto deve observar a evolução e seguir o plano; não permitir acesso a remédios ou repetir exposições para testar.",
+        "2a5": "Combine com creche os sinais de perigo, contatos e plano prescrito; criança pode não conseguir descrever garganta apertada.",
+        "6a11": "Ensine a avisar cedo sobre voz diferente, inchaço ou dificuldade para engolir; o plano de resgate fica acessível ao adulto treinado.",
+        "12a17": "Inclua adolescente no plano e no registro de medicamentos, suplementos e exposições; não esconder sintomas ou ir sozinho se houver reação importante.",
+        "unknown": "Confirmar idade, exposição, sintomas e evolução; não escolher medicamento ou dose apenas pelo nome do cadastro."
+      },
+      "refs": [
+        {
+          "id": "pais165_op505_1",
+          "name": "Clinical Practice Guidelines: Urticaria",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urticaria/"
+        },
+        {
+          "id": "pais165_op505_2",
+          "name": "Angioedema FAQ",
+          "url": "https://www.allergy.org.au/patients/skin-allergy/angioedema"
+        },
+        {
+          "id": "pais165_op505_3",
+          "name": "Angioedema",
+          "url": "https://www.nhs.uk/conditions/angioedema/"
+        },
+        {
+          "id": "pais165_op505_4",
+          "name": "Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_09167c5037f38db9",
+      "label": "Angioedema induzido por inibidor da ECA — registro no PPS",
+      "entity": "Angioedema induzido por inibidor da ECA",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"normalized_entity\":\"Angioedema induzido por inibidor da ECA\",\"assessment\":\"Entidade reconhecida; confirmar mecanismo, exposição e gravidade individual. Não pressupõe alta ou equivalência com angioedema hereditário.\",\"pediatric_scope\":\"Sintomas e urgência pediátricos; no IECA requer exposição real, sem extrapolar incidência/fatores adultos para crianças.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Este quadro pode ocorrer em quem usa um inibidor da ECA, mesmo após longo período sem reação. Pode envolver um mecanismo diferente da alergia comum e aparecer sem coceira ou urticária; ausência desses sinais não significa segurança.",
+          "Com suspeita de reação atual, procure atendimento urgente e informe o medicamento à equipe. Leve embalagem, lista de remédios e horário da última dose. O cadastro não confirma que qualquer inchaço seja causado pelo remédio."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não teste novamente um alimento ou medicamento suspeito para comprovar a causa. Leve lista de produtos usados, horário de cada exposição e episódios anteriores.",
+          "Compartilhe o plano com cuidadores e escola. Em suspeita de anafilaxia, não deixe caminhar: mantenha deitado; se respirar melhor sentado, pernas estendidas; com vômitos, de lado. Acione ajuda."
+        ],
+        "MEDICAMENTOS": [
+          "Se há suspeita de angioedema enquanto usa um inibidor da ECA, não dê novas doses desse medicamento e procure orientação médica imediata. Não troque por outro produto da mesma classe ou escolha substituto em casa.",
+          "Se a reação por inibidor da ECA for confirmada, a equipe deve registrar a contraindicação a novos usos dessa classe e planejar alternativa para a condição de base. Informe o antecedente em toda consulta.",
+          "O mecanismo por bradicinina pode não responder a antialérgico, corticoide ou adrenalina. Não espere resposta desses medicamentos para buscar socorro. Se houver suspeita de anafilaxia concomitante, siga o plano de adrenalina já prescrito; a avaliação do mecanismo pertence à equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se consegue engolir normalmente e não há sinais graves, mantenha alimentação e líquidos habituais adequados à idade. Não retire vários alimentos, altere fórmula ou suspenda amamentação só pelo nome angioedema.",
+          "Se houver língua/garganta inchada, dificuldade para engolir, vômitos com sonolência ou falta de ar importante, não ofereça alimentos, bebidas ou remédios por boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Língua, boca ou garganta inchada, mudança de voz, dificuldade para engolir, saliva escorrendo ou respiração ruidosa/difícil: ligue 192. Não espere faltar ar ou aparecer urticária. Inchaço súbito dos lábios que progride também exige socorro imediato.",
+          "Desmaio, confusão, lábios azulados/cinzentos ou criança muito mole/pouco responsiva são emergência. Dor abdominal forte ou vômitos repetidos com outros sinais de reação também exigem atendimento.",
+          "Não atribua automaticamente todo inchaço à alergia: febre com prostração, dor intensa, vermelhidão crescente ou alteração visual exige avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reação atual exige avaliação urgente. Após atendimento, confirme o plano para a doença de base e a lista de medicamentos que devem ser evitados; não volte a usar o medicamento por ter melhorado.",
+          "Pode haver novo episódio mesmo após suspensão. Se o inchaço reaparecer, procure avaliação imediata, com 192 diante de língua/garganta ou respiração afetada. O retorno ambulatorial é definido pela equipe responsável."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço em bebê pequeno precisa de avaliação; má sucção, choro diferente, pouca reação ou respiração alterada exige socorro imediato. Confirmar se existe exposição real ao medicamento; idade não comprova causa.",
+        "3a5m": "Menores de 6 meses merecem avaliação pediátrica; não iniciar antialérgico ou mudar fórmula sem orientação. Confirmar se existe exposição real ao medicamento; idade não comprova causa.",
+        "6a11m": "Observe relação com exposições reais e sinais de via aérea; não atribua qualquer edema à introdução alimentar. Confirmar se existe exposição real ao medicamento; idade não comprova causa.",
+        "1a": "Um adulto deve observar a evolução e seguir o plano; não permitir acesso a remédios ou repetir exposições para testar. Confirmar se existe exposição real ao medicamento; idade não comprova causa.",
+        "2a5": "Combine com creche os sinais de perigo, contatos e plano prescrito; criança pode não conseguir descrever garganta apertada. Confirmar se existe exposição real ao medicamento; idade não comprova causa.",
+        "6a11": "Ensine a avisar cedo sobre voz diferente, inchaço ou dificuldade para engolir; o plano de resgate fica acessível ao adulto treinado. Confirmar se existe exposição real ao medicamento; idade não comprova causa.",
+        "12a17": "Inclua adolescente no plano e no registro de medicamentos, suplementos e exposições; não esconder sintomas ou ir sozinho se houver reação importante. Confirmar se existe exposição real ao medicamento; idade não comprova causa.",
+        "unknown": "Confirmar idade, exposição, sintomas e evolução; não escolher medicamento ou dose apenas pelo nome do cadastro. Confirmar se existe exposição real ao medicamento; idade não comprova causa."
+      },
+      "refs": [
+        {
+          "id": "pais165_op506_1",
+          "name": "Clinical Practice Guidelines: Urticaria",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urticaria/"
+        },
+        {
+          "id": "pais165_op506_2",
+          "name": "Angioedema FAQ",
+          "url": "https://www.allergy.org.au/patients/skin-allergy/angioedema"
+        },
+        {
+          "id": "pais165_op506_3",
+          "name": "Angioedema",
+          "url": "https://www.nhs.uk/conditions/angioedema/"
+        },
+        {
+          "id": "pais165_op506_4",
+          "name": "Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        },
+        {
+          "id": "pais165_op506_5",
+          "name": "ACE inhibitors: mechanisms and angioedema safety update",
+          "url": "https://www.gov.uk/drug-safety-update/ace-inhibitors-be-aware-of-the-distinction-between-bradykinin-and-histamine-mediated-angioedema-as-treatment-strategies-differ-significantly"
+        },
+        {
+          "id": "pais165_op506_6",
+          "name": "ACE inhibitor-induced angioedema can be fatal",
+          "url": "https://www.medsafe.govt.nz/profs/PUArticles/June2023/Reminder-ACE-inhibitor-induced-angioedema-can-be-fatal.html"
+        },
+        {
+          "id": "pais165_op506_7",
+          "name": "ACE inhibitor-induced angioedema",
+          "url": "https://dermnetnz.org/topics/ace-inhibitor-induced-angioedema"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

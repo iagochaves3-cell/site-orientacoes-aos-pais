@@ -1,0 +1,616 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T08:12:47.929Z",
+  "records": [
+    {
+      "jobId": "OP-2194",
+      "specific": true,
+      "key": "pdf1500_235",
+      "label": "Comunicação interatrial",
+      "entity": "Comunicação interatrial congênita em criança ou adolescente, isto é, abertura verdadeira no septo entre os átrios, com anatomia, fluxo e repercussão a confirmar por ecocardiograma",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CONGENITAL_ENTITY_REQUIRING_ANATOMIC_AND_HEMODYNAMIC_SUBTYPE_CONFIRMATION\",\"normalized_entity\":\"Comunicação interatrial (CIA; atrial septal defect, ASD)\",\"assessment\":\"CIA é uma abertura congênita no septo que separa os átrios. Em geral, o sangue passa do átrio esquerdo para o direito e aumenta o fluxo para o lado direito do coração e para os pulmões. Muitas crianças não apresentam sintomas. Defeitos pequenos podem diminuir ou fechar espontaneamente; defeitos com sobrecarga de volume do ventrículo direito podem precisar de fechamento por cateter ou cirurgia. O diagnóstico e a decisão dependem do ecocardiograma, do subtipo anatômico, do tamanho, das bordas, da repercussão nas câmaras direitas, da pressão pulmonar, de sintomas e de anomalias associadas.\",\"alias_resolution\":[{\"term\":\"Defeito do septo atrial / atrial septal defect / ASD\",\"relationship\":\"TRUE_SYNONYM\",\"note\":\"Equivalente quando descreve uma abertura congênita verdadeira entre os átrios.\"},{\"term\":\"CIA ostium secundum\",\"relationship\":\"MOST_COMMON_SUBTYPE_NOT_UNIVERSAL\",\"note\":\"É o subtipo abordado pelo algoritmo pediátrico do ACC e costuma ser o candidato anatômico ao fechamento por dispositivo quando há indicação; não deve ser presumido pelo rótulo amplo.\"},{\"term\":\"CIA ostium primum, seio venoso ou seio coronário\",\"relationship\":\"VALID_DISTINCT_ANATOMIC_SUBTYPES\",\"note\":\"Podem estar associados a valvas ou veias pulmonares e têm avaliação/intervenção diferente; não devem herdar automaticamente o algoritmo de CIA secundum isolada.\"},{\"term\":\"Forame oval patente (FOP/PFO)\",\"relationship\":\"DISTINCT_FETAL_REMAINDER_NOT_AUTOMATIC_SYNONYM\",\"note\":\"É remanescente da circulação fetal e costuma ser benigno na infância; não deve ser convertido em CIA verdadeira sem descrição ecocardiográfica.\"}],\"not_automatically_equivalent_to\":[\"Forame oval patente\",\"Defeito do septo atrioventricular ou canal atrioventricular\",\"Comunicação interventricular\",\"CIA grande, sintomática ou com dilatação do coração direito\",\"Hipertensão pulmonar ou síndrome de Eisenmenger\",\"Cianose causada por CIA isolada\",\"Arritmia, insuficiência cardíaca ou risco de AVC em toda criança\",\"Indicação automática de cateterismo, cirurgia, medicamento, antibiótico preventivo ou restrição esportiva\",\"Cura definitiva e ausência de seguimento após qualquer fechamento\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente. CIA secundum isolada costuma ser silenciosa na infância, enquanto sintomas importantes em bebê pequeno, cianose, hipertensão pulmonar precoce ou dificuldade acentuada para ganhar peso exigem procurar cardiopatia associada, doença pulmonar, prematuridade ou outra causa. O planejamento muda após fechamento por dispositivo ou cirurgia e na transição para cardiologia de cardiopatias congênitas do adulto.\",\"critical_context_to_confirm\":[\"Ecocardiograma confirmando CIA verdadeira, subtipo, tamanho, número de aberturas, bordas e direção do fluxo\",\"Dilatação de átrio e ventrículo direitos e estimativa da pressão pulmonar\",\"Veias pulmonares, valvas atrioventriculares e outras cardiopatias associadas\",\"Idade ao diagnóstico, prematuridade, síndrome genética ou doença pulmonar\",\"Respiração, mamadas, crescimento, infecções respiratórias, tolerância ao esforço, palpitação, dor torácica ou desmaio\",\"Fechamento prévio por dispositivo ou cirurgia, data, shunt residual e protocolo do centro\",\"Medicamentos atuais, alergias, sangramento, saúde bucal e procedimentos planejados\",\"Plano de atividade física, retorno e transição definido pela cardiologia pediátrica\"],\"counting_rule\":\"Contar pdf1500_235 como uma orientação clínica específica para o guarda-chuva Comunicação interatrial após integração e testes. Não contar separadamente FOP, subtipos anatômicos ou qualificadores de gravidade sem registro próprio e evidência correspondente.\",\"inferences\":[\"Como ACC e AHA separam FOP de CIA e o algoritmo pediátrico do ACC inclui apenas CIA secundum isolada, é necessário exigir confirmação do subtipo antes de aplicar prazos ou técnica de fechamento.\",\"Cianose intensa ou colapso não são a apresentação esperada de CIA isolada com fluxo habitual esquerda-direita; em criança com esse rótulo, esses sinais devem acionar busca urgente de outra lesão associada ou descompensação, sem tentar explicá-los em casa.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Comunicação interatrial (CIA) é uma abertura entre as duas câmaras de cima do coração. Muitas crianças ficam bem e não sentem nada, mas o acompanhamento mostra se há passagem importante de sangue e aumento do lado direito do coração.",
+          "Leve às consultas o laudo do ecocardiograma e informe se a CIA já foi fechada por cateter ou cirurgia. O nome sozinho não diz o tamanho, o tipo, a gravidade nem se precisa de procedimento.",
+          "Observe o padrão habitual de respiração, mamadas, ganho de peso, disposição para brincar ou fazer exercício, palpitação, dor no peito e desmaio. Anote quando acontece e o que a criança estava fazendo.",
+          "Em CIA pequena e sem repercussão, ou depois de reparo bem cicatrizado, a criança geralmente pode brincar, ir à escola e participar de atividades. Use somente as restrições temporárias ou permanentes dadas pela cardiologia.",
+          "Mantenha boa higiene da boca e consultas odontológicas. Avise dentista e outros profissionais sobre o defeito e qualquer dispositivo ou cirurgia; antibiótico antes de procedimento não é necessário para toda CIA.",
+          "CIA não é contagiosa e não foi causada por esforço, alimento ou atitude da família. Irmãos e colegas não precisam de afastamento por causa desse diagnóstico."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra consultas, eletrocardiogramas e ecocardiogramas no intervalo definido. Uma criança sem sintomas ainda pode precisar de exame para verificar o tamanho do coração direito.",
+          "Não existe posição, massagem, exercício respiratório ou treino físico que feche a comunicação. Atividade ajuda a saúde geral, mas não substitui a avaliação da anatomia e do fluxo.",
+          "Se houver liberação, deixe a criança participar de atividades adequadas à idade. Interrompa o esforço e peça avaliação se aparecer falta de ar fora do esperado, palpitação sustentada, dor no peito, tontura ou desmaio.",
+          "Não use oxigênio, relógio com saturação ou aparelho de pressão para decidir tratamento por conta própria. Se a equipe pediu medidas em casa, use equipamento adequado e registre valor, horário, sintomas e situação.",
+          "Após fechamento por cateter ou cirurgia, siga exatamente os cuidados da ferida e o limite de esforço entregues pelo centro. Não antecipe natação, esporte, bicicleta, peso ou banho de imersão apenas porque a criança parece bem.",
+          "Informe a escola sobre cuidados realmente necessários e contatos de emergência. Evite proibições gerais que isolem a criança quando a cardiologia liberou atividade normal."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum remédio fecha a CIA ou faz a abertura diminuir mais rápido. Medicamentos podem ser usados para sintomas ou por um período após o procedimento, sempre conforme prescrição individual.",
+          "Depois de fechamento com dispositivo, algumas crianças recebem medicamento para reduzir a formação de coágulos. Dê somente o produto, apresentação, horário e duração prescritos; não inicie, interrompa ou substitua por conta própria.",
+          "Antibiótico antes de tratamento dentário não é automático para CIA sem reparo nem para toda criança já operada. A equipe pode indicá-lo por tempo limitado após uso de dispositivo ou material de reparo, ou se houver defeito residual; confirme antes do procedimento.",
+          "Não ofereça medicamento de adulto, sobra de receita, descongestionante, estimulante, energético ou suplemento sem conferir com a equipe, principalmente se houver palpitação, pressão pulmonar elevada ou tratamento cardíaco.",
+          "Se uma dose prescrita for esquecida, vomitada ou dada em duplicidade, contate o serviço ou farmacêutico; não dobre nem repita automaticamente.",
+          "Sangramento que não para, fezes pretas, vômito com sangue, manchas roxas extensas, falta de ar, inchaço de face ou desmaio durante uso de medicamento após fechamento exigem avaliação urgente e a embalagem deve acompanhar a criança."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "CIA isolada não exige dieta, fórmula, vitamina, sal extra ou restrição de líquidos. Mantenha leite e alimentação adequados à idade, salvo plano individual da cardiologia ou nutrição.",
+          "Em bebês, observe se a mamada ficou muito longa, com respiração rápida, suor, pausas frequentes, cansaço ou dificuldade para ganhar peso. Esses sinais não devem ser tratados apenas aumentando o volume.",
+          "Não concentre fórmula, acrescente suplemento nem reduza água por conta própria. Mudanças de calorias e líquidos em lactentes precisam de orientação para evitar desidratação ou sobrecarga.",
+          "Crianças maiores podem seguir alimentação variada. Evite energéticos e excesso de cafeína, sobretudo se houver palpitação; nenhum alimento substitui o acompanhamento ou fecha o defeito.",
+          "Após cateterismo ou cirurgia, respeite o plano de alimentação e líquidos da alta. Se houver vômitos repetidos, dificuldade para engolir, barriga muito inchada ou falta de ar, não force grandes volumes e procure orientação.",
+          "Recusa persistente, menos urina, boca seca, sonolência fora do habitual, perda de peso ou inchaço precisam de reavaliação antes da consulta marcada."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito difícil ou rápida em repouso, afundamento entre as costelas, incapacidade de falar ou mamar por falta de ar, lábios/pele azulados ou acinzentados, ou criança difícil de acordar. Esses sinais não são esperados em CIA isolada simples.",
+          "Desmaio durante exercício, dor forte no peito, palpitação rápida ou irregular que não passa e vem com falta de ar, palidez, tontura ou desmaio.",
+          "Fraqueza ou dormência súbita de um lado, boca torta, fala diferente, perda súbita de visão, convulsão, confusão ou dor de cabeça abrupta e muito intensa.",
+          "Bebê que não consegue completar mamadas, sua e respira rápido, fica muito pálido/cinzento, faz bem menos xixi ou se torna muito sonolento, especialmente se a piora foi rápida.",
+          "Após fechamento por cateter: sangramento ativo no local da virilha que não para com pressão firme, inchaço que aumenta, ou perna/pé que fica frio, pálido, arroxeado, dormente ou muito doloroso.",
+          "Após cirurgia ou dispositivo: falta de ar nova, dor forte ou crescente, febre com prostração, secreção ou vermelhidão que se espalha na ferida, desmaio ou piora rápida. Contate o centro e procure emergência conforme o plano de alta."
+        ],
+        "QUANDO REAVALIAR": [
+          "CIA recém-suspeita ou vista no ecocardiograma deve ser avaliada pela cardiologia pediátrica para confirmar que é CIA verdadeira, identificar o subtipo e medir a repercussão; sopro ou o nome do exame, sozinhos, não definem conduta.",
+          "Para CIA secundum isolada diagnosticada antes dos 6 meses e criança bem, o algoritmo ACC usa revisão por volta de 1 ano de idade; se persistir, costuma reavaliar entre 3 e 5 anos. O cardiologista pode antecipar ou mudar esse intervalo.",
+          "Dos 5 aos 18 anos, CIA secundum simples sem indicação de fechamento pode ter consulta, eletrocardiograma e ecocardiograma a cada 2 a 3 anos. Sintomas, dilatação do coração direito, hipertensão pulmonar ou outra cardiopatia exigem plano diferente.",
+          "CIA moderada ou grande com dilatação das câmaras direitas costuma ser discutida para fechamento na idade pré-escolar, em geral entre 3 e 5 anos. A decisão não deve ser feita em casa nem apenas pelo diâmetro escrito no laudo.",
+          "Após cirurgia, o algoritmo usa retorno com exame entre 2 semanas e 3 meses. Após fechamento por cateter, usa retorno por volta de 1 mês e novamente entre 6 e 12 meses; depois, se estiver tudo bem, o seguimento pode ser espaçado para cada 2 a 5 anos.",
+          "Antecipe a consulta se houver piora das mamadas ou crescimento, falta de ar, queda da tolerância ao esforço, infecções respiratórias repetidas, palpitação, dor torácica, tontura, desmaio ou inchaço. Na adolescência, organize a transição para cardiologia de cardiopatias congênitas do adulto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em recém-nascido e lactente pequeno, confirme no ecocardiograma se é CIA verdadeira ou forame oval patente e procure lesões associadas. CIA secundum isolada costuma não causar cianose ou colapso; respiração difícil, cor azul/cinza, mamada fraca ou sonolência exige avaliação imediata.",
+        "3a5m": "Muitas crianças permanecem sem sintomas. Observe ritmo e duração das mamadas, suor, respiração, peso e urina. Não mude fórmula ou volume para compensar cansaço sem avaliação.",
+        "6a11m": "Defeitos pequenos podem diminuir no início da infância. Mantenha o retorno definido mesmo se o bebê estiver bem; atividade no chão e brincadeiras são permitidas conforme tolerância e orientação.",
+        "1a": "Acompanhe crescimento, desenvolvimento e disposição. O cardiologista verifica se a comunicação está diminuindo e se o lado direito do coração permanece normal; ausência de sintomas não substitui o ecocardiograma programado.",
+        "2a5": "É a faixa em que CIA secundum com sobrecarga do coração direito costuma ser discutida para fechamento. Criança estável geralmente pode brincar e frequentar escola enquanto aguarda, seguindo limites individuais e sem criar restrição universal.",
+        "6a11": "Em escolar, observe falta de ar desproporcional, queda de rendimento, palpitação, dor torácica ou desmaio. Esporte costuma ser possível em CIA pequena ou reparada e sem complicações, mas competição e esforço intenso devem seguir a liberação cardiológica.",
+        "12a17": "O adolescente deve entender o subtipo, reparo, medicamentos e sinais de alerta. Avalie palpitação, síncope e tolerância ao exercício, planeje transição para cardiologia congênita do adulto e evite energéticos, vape e estimulantes.",
+        "unknown": "Antes de personalizar, confirmar idade, subtipo, ecocardiograma, repercussão no coração direito, pressão pulmonar, sintomas, comorbidades, reparo prévio e medicamentos. Sem isso, não definir retorno, fechamento, esporte, antibiótico ou remédio."
+      },
+      "refs": [
+        {
+          "id": "pais236_op2194_1",
+          "name": "Clinical Practice Algorithm for the Follow-up of Unrepaired and Repaired Secundum Atrial Septal Defects",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2022/03/08/19/34/Clinical-Practice-Algorithm-For-the-Follow-up-of-Unrepaired-and-Repaired-SASD"
+        },
+        {
+          "id": "pais236_op2194_2",
+          "name": "CHD Clinical Practice Algorithm: PFO/Atrial Septal Defect",
+          "url": "https://www.acc.org/-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Latest-in-Cardiology/Articles/2022/ASD-Algorithm.pdf"
+        },
+        {
+          "id": "pais236_op2194_3",
+          "name": "Atrial Septal Defect",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/atrial-septal-defect-asd"
+        },
+        {
+          "id": "pais236_op2194_4",
+          "name": "Atrial Septal Defect (ASD)",
+          "url": "https://www.cdc.gov/heart-defects/about/atrial-septal-defect.html"
+        },
+        {
+          "id": "pais236_op2194_5",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais236_op2194_6",
+          "name": "Atrial Septal Defects (ASD): Symptoms, Diagnosis & Treatment",
+          "url": "https://www.cincinnatichildrens.org/health/a/asd"
+        },
+        {
+          "id": "pais236_op2194_7",
+          "name": "After your child has had cardiac catheterisation",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/procedures-and-treatments/after-your-child-has-had-cardiac-catheterisation/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2195",
+      "specific": false,
+      "key": "pdf1500_236",
+      "label": "Comunicação interatrial agudo",
+      "entity": "Comunicação interatrial congênita (defeito do septo atrial), cuja avaliação exige definir tipo anatômico, magnitude do fluxo, repercussão nas câmaras direitas, lesões associadas e situação antes ou depois do reparo; 'agudo' não é subtipo nosológico reconhecido",
+      "assessment": "{\"classification\":\"VALID_BASE_DISEASE_WITH_UNSUPPORTED_ACUTE_QUALIFIER\",\"normalized_entity\":\"Comunicação interatrial\",\"normalized_key\":\"pdf1500_235\",\"invalid_or_unsupported_qualifier\":\"agudo\",\"assessment\":\"A comunicação interatrial é um defeito congênito entre os átrios. O termo 'agudo' não descreve tipo anatômico, mecanismo ou estágio validado e ainda aparece com discordância gramatical no label. Fontes de cardiologia classificam as comunicações por anatomia, fluxo, tamanho e repercussão. Uma criança com dispneia, cianose, síncope, palpitação sustentada, déficit neurológico, má alimentação importante ou piora após cirurgia/cateterismo precisa de avaliação urgente, porque esses sinais podem indicar repercussão, arritmia, complicação do procedimento, cardiopatia associada ou outra doença; eles não confirmam uma suposta forma aguda da CIA.\",\"reconciliation\":{\"base_key\":\"pdf1500_235\",\"base_label\":\"Comunicação interatrial\",\"relationship\":\"ACUTE_PRESENTATION_OR_COMPLICATION_NOT_SEPARATE_DISEASE\",\"content_rule\":\"Usar a orientação da comunicação interatrial confirmada, individualizada pelo subtipo, tamanho, repercussão, sintomas, lesões associadas e estado do reparo. Se houver manifestação aguda, priorizar avaliação presencial e investigação da causa; não presumir que a CIA isolada explica o quadro nem indicar procedimento ou medicamento pelo label.\",\"difference_retained\":\"O nome cadastral permanece pesquisável e aciona portões de segurança para sintomas agudos e pós-procedimento, mas não conta como cardiopatia adicional nem recebe história natural própria.\"},\"not_automatically_equivalent_to\":[\"Comunicação interatrial adquirida de início súbito\",\"Defeito tipo ostium secundum confirmado\",\"Forame oval patente\",\"Defeito do septo atrioventricular tipo primum\",\"Defeito do seio venoso ou do seio coronário\",\"Comunicação grande ou hemodinamicamente significativa\",\"Insuficiência cardíaca, hipertensão pulmonar ou arritmia atribuíveis à CIA\",\"Complicação confirmada de dispositivo, cirurgia ou cateterismo\",\"Indicação automática de fechamento, medicamento, restrição de atividade ou internação\",\"Quadro seguro para observação domiciliar quando há sintomas agudos\"],\"pediatric_scope\":\"Inclui recém-nascidos, lactentes, crianças e adolescentes com suspeita ou diagnóstico confirmado de comunicação interatrial, antes ou depois de fechamento. O algoritmo pediátrico do ACC aplica-se especificamente à CIA isolada tipo secundum e exclui outros tipos, prematuridade relevante, síndromes genéticas e comorbidades importantes; esses grupos exigem plano individual. Muitas crianças com CIA isolada não têm sintomas, mas tamanho, sobrecarga de ventrículo direito, hipertensão pulmonar, arritmia, outras cardiopatias e estado pós-procedimento mudam o seguimento.\",\"critical_context_to_confirm\":[\"Idade, sintomas atuais, velocidade de início e se a criança está estável ou em sofrimento\",\"Confirmação por ecocardiograma e subtipo anatômico: secundum, primum, seio venoso, seio coronário ou outro\",\"Diferença entre comunicação interatrial verdadeira e forame oval patente\",\"Tamanho, número de orifícios, direção e magnitude do fluxo e repercussão em átrio/ventrículo direitos\",\"Pressão pulmonar, saturação, função ventricular e presença de arritmia\",\"Conexões venosas pulmonares e outras cardiopatias ou síndromes associadas\",\"Prematuridade, doença pulmonar, síndrome genética e outras comorbidades que excluem aplicação automática de algoritmo isolado\",\"Se houve fechamento por cirurgia ou dispositivo, data, tipo, shunt residual, ferida/local de punção e plano de medicamentos\",\"Plano escrito de atividade, odontologia, escola, retorno, transição e sinais de emergência\"],\"counting_rule\":\"Preservar pdf1500_236 para rastreabilidade, reconciliar com pdf1500_235 e contar zero entidade clínica adicional. Somente a ficha-base, após validação, integração e testes próprios, pode contar como cobertura clínica específica.\",\"inference\":\"A classificação como problema de termo é uma inferência documental: CDC, AHA e Ministério da Saúde descrevem a CIA como cardiopatia congênita, e ASE/SCAI e diretrizes ACC/AHA classificam as comunicações pela anatomia e repercussão. Nenhuma das fontes abertas consultadas reconhece 'comunicação interatrial aguda' como subtipo pediátrico separado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "'Comunicação interatrial aguda' não é uma doença diferente. A comunicação interatrial é uma abertura congênita entre as câmaras superiores do coração; o que precisa ser definido é o tipo, o tamanho, o efeito sobre o coração e os pulmões e se houve reparo.",
+          "Muitas crianças com uma comunicação pequena ou mesmo moderada parecem bem. Ausência de sintomas não confirma que o orifício fechou e não substitui o ecocardiograma ou o retorno com cardiologia pediátrica.",
+          "Guarde o relatório do ecocardiograma e anote o nome correto do defeito, lesões associadas, data e tipo de cirurgia ou dispositivo, medicamentos, alergias e contato da cardiologia. Leve essas informações a urgências, procedimentos, anestesias e novas prescrições.",
+          "Observe respiração, cor, mamadas, suor, crescimento, disposição, tolerância ao esforço, palpitações, tontura, desmaio e inchaço. Registre mudanças, mas não use sintomas isolados para estimar o tamanho do defeito nem para decidir fechamento.",
+          "Se a criança estiver com falta de ar, arroxeada, desmaiada, confusa ou piorando rapidamente, não permaneça em observação em casa e não espere consulta marcada. Esses sinais não são uma evolução normal de CIA assintomática.",
+          "Após cirurgia ou fechamento por cateter, siga o plano escrito do serviço para ferida ou local de punção, banho, escola, atividade e retorno. Não aplique pomada, retire curativo ou antecipe esforço sem a orientação recebida."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Compareça às consultas e aos exames definidos pela cardiologia. A periodicidade depende da idade, do subtipo, da repercussão, do fechamento e de achados residuais; não adote um intervalo genérico apenas porque a criança está bem.",
+          "Atividade habitual costuma ser possível em CIA pequena ou após cicatrização bem-sucedida, mas restrições temporárias depois de cirurgia/cateterismo e limitações por hipertensão pulmonar, arritmia ou outra lesão são individualizadas.",
+          "Mantenha saúde bucal com escovação, fio dental quando apropriado e avaliação odontológica. Antibiótico antes de procedimento dentário não é automático para toda CIA; confirme se há indicação específica, sobretudo no período após reparo ou se existe defeito residual.",
+          "A comunicação interatrial não é contagiosa. Escola e creche não precisam afastar a criança pelo diagnóstico isolado; entregue à instituição apenas as restrições e o plano de emergência realmente fornecidos pela equipe.",
+          "Não use oxímetro, relógio, ausculta caseira ou capacidade de brincar como teste para declarar o defeito fechado ou sem repercussão. Valores anormais ou sintomas precisam de avaliação clínica, não de repetição indefinida em casa.",
+          "Adolescentes com defeito não fechado, shunt residual ou história de evento embólico devem perguntar à cardiologia sobre mergulho com cilindro e atividades de pressão; não presumir liberação por estarem assintomáticos."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que feche uma comunicação interatrial. A decisão entre observar, fechar por cateter ou operar depende da anatomia e da repercussão avaliadas pela cardiologia.",
+          "Dê somente os medicamentos prescritos para esta criança, na apresentação, horário e duração registrados. Não inicie diurético, remédio para ritmo, anticoagulante, antiplaquetário ou oxigênio por causa do label.",
+          "Após dispositivo ou cirurgia, algumas crianças recebem medicamento para reduzir risco de coágulos por tempo definido. Não suspenda, dobre, compartilhe ou substitua por conta própria; dose esquecida, vômito após a dose ou sangramento devem seguir a orientação do serviço.",
+          "Antibiótico preventivo antes de tratamento dentário não é necessário para toda criança com CIA e não deve ser iniciado com sobras. O cardiologista e o dentista definem a indicação conforme reparo, tempo decorrido, material e defeito residual.",
+          "Informe à equipe todos os medicamentos, suplementos, descongestionantes, estimulantes e energéticos usados. Palpitação, desmaio ou dor no peito não devem ser tratados em casa com dose extra de remédio.",
+          "Esta ficha não fornece fármaco, concentração, dose, intervalo ou duração. Qualquer esquema depende de diagnóstico real, peso, comorbidades, procedimento e prescrição individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está estável e sem restrição prescrita, mantenha alimentação e hidratação habituais, adequadas à idade. Não faça restrição de sal ou líquidos nem concentre fórmula por conta própria.",
+          "Em lactentes, observe duração da mamada, pausas, suor, respiração, volume aceito, vômitos, fraldas molhadas e ganho de peso. Cansaço crescente ou dificuldade para alimentar-se precisa de avaliação e não deve ser tratado apenas oferecendo mamadas maiores.",
+          "Ofereça porções menores e frequentes somente se isso fizer parte do plano recebido e a criança respirar e engolir com segurança. Fórmula hipercalórica, sonda ou suplemento são decisões da equipe e da nutrição.",
+          "Se houver dificuldade importante para respirar, coloração azulada/cinza, desmaio, rebaixamento ou dificuldade para engolir, não force alimento, líquido ou medicamento pela boca; acione o SAMU 192.",
+          "Antes de ecocardiograma com sedação, cateterismo ou cirurgia, siga exatamente o jejum informado pelo serviço. Não prolongue jejum por conta própria nem esconda alimento oferecido.",
+          "Depois de procedimento, retome líquidos e alimentos somente conforme a liberação recebida. Vômitos repetidos, incapacidade de beber, pouca urina ou inchaço novo exigem contato com a equipe ou reavaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade importante para respirar, lábios ou pele azulados/cinzentos, pausas respiratórias, desmaio, confusão, convulsão, criança muito mole ou difícil de acordar: chame o SAMU 192.",
+          "Dor no peito acompanhada de falta de ar, palidez, suor, palpitação sustentada, tontura intensa ou desmaio, especialmente durante esforço, exige avaliação imediata.",
+          "Fraqueza ou dormência de um lado, rosto torto, fala alterada, perda súbita de visão, desequilíbrio novo ou cefaleia súbita muito intensa pode indicar evento neurológico; acione o SAMU 192.",
+          "Em bebê, respiração rápida ou trabalhosa, suor e cansaço para mamar, recusa importante, coloração anormal, pouca urina, prostração ou piora rápida exige pronto atendimento; não atribua automaticamente à CIA isolada.",
+          "Após cateterismo, sangramento do local que não para com a compressão ensinada pelo serviço, aumento rápido do inchaço, perna fria ou pálida, dor intensa, fraqueza ou perda de sensibilidade exige emergência e contato com a cardiologia.",
+          "Após cirurgia ou dispositivo, febre com prostração, falta de ar, palpitação com mal-estar, ferida muito vermelha ou com pus, dor crescente, desmaio ou piora rápida exige retorno imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita nova, sopro ou ecocardiograma sugerindo comunicação interatrial deve ser avaliado por cardiologia pediátrica para confirmar o diagnóstico e o subtipo; o termo 'agudo' não define gravidade nem tratamento.",
+          "Se a criança está estável, cumpra o retorno definido pela cardiologia. Para CIA secundum isolada, defeitos pequenos podem ter controles espaçados, enquanto defeitos com dilatação do ventrículo direito exigem planejamento de fechamento; outros tipos e comorbidades não seguem automaticamente o mesmo algoritmo.",
+          "Contate a equipe no mesmo dia se surgirem falta de ar nova, palpitações recorrentes, queda de rendimento, cansaço progressivo, dificuldade de alimentação, inchaço ou ganho de peso inadequado, mesmo que ainda não haja sinal de emergência.",
+          "Depois de cirurgia ou cateterismo, mantenha os retornos precoces da alta e os exames solicitados. Não espere o retorno programado se houver sangramento, febre com piora, problema na ferida/local de punção, perna fria, falta de ar, dor torácica ou desmaio.",
+          "Mesmo após fechamento, pode ser necessário acompanhamento periódico para verificar shunt residual, tamanho e função das câmaras, ritmo e pressão pulmonar. O ACC admite espaçar controles em pacientes sem lesão residual ou preocupação clínica, mas esse intervalo é decidido pelo cardiologista.",
+          "Na adolescência, confirme se é necessário seguimento em cardiologia de cardiopatias congênitas do adulto e leve um resumo da anatomia e do reparo. Não interrompa o acompanhamento apenas porque a criança cresceu ou está sem sintomas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "CIA secundum isolada costuma não explicar colapso neonatal. Recém-nascido ou lactente pequeno com cianose, respiração trabalhosa, suor/cansaço nas mamadas, pouca urina, sonolência ou má perfusão precisa de emergência e investigação de cardiopatia associada, infecção, doença pulmonar ou outra causa; não aplicar observação domiciliar pelo label.",
+        "3a5m": "Acompanhar mamadas, respiração, suor, crescimento e fraldas molhadas. Dificuldade progressiva para alimentar-se, respiração rápida, coloração alterada ou baixo ganho exige avaliação antes do retorno; não concentrar fórmula nem iniciar medicamento por conta própria.",
+        "6a11m": "Muitas crianças permanecem assintomáticas, e o seguimento depende do ecocardiograma. Manter cardiologia e curva de crescimento; recusa alimentar importante, falta de ar, cianose, prostração ou palpitação com mal-estar requer reavaliação.",
+        "1a": "Observar energia, crescimento e tolerância às refeições e brincadeiras. Não usar desenvolvimento aparentemente normal como prova de fechamento; o cardiologista define quando repetir exame e se há sobrecarga de câmaras direitas.",
+        "2a5": "É a faixa em que a equipe pode planejar fechamento de CIA secundum moderada/grande com dilatação do ventrículo direito. A decisão não depende do adjetivo 'agudo' nem apenas de sintomas; escola e atividade seguem a liberação individual.",
+        "6a11": "Perguntar sobre cansaço, falta de ar ao esforço, palpitações, tontura, desmaio e queda de rendimento. Participação em esporte costuma ser possível quando a cardiologia libera, mas sintomas durante esforço exigem interrupção e avaliação.",
+        "12a17": "O adolescente deve conhecer o tipo de CIA, reparo, medicamentos e alertas, evitar energéticos/estimulantes sem avaliação, discutir mergulho com cilindro quando houver defeito ou shunt residual e planejar transição para cardiologia congênita do adulto quando indicada.",
+        "unknown": "Confirmar idade, sintomas, subtipo, tamanho/repercussão, lesões associadas, reparo e medicamentos antes de orientar. Sem esses dados, não definir prognóstico, atividade, retorno, tratamento nem segurança para alta a partir de 'agudo'."
+      },
+      "refs": [
+        {
+          "id": "pais236_op2195_1",
+          "name": "Clinical Practice Algorithm For the Follow-up of Unrepaired and Repaired Secundum Atrial Septal Defects",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2022/03/08/19/34/Clinical-Practice-Algorithm-For-the-Follow-up-of-Unrepaired-and-Repaired-SASD"
+        },
+        {
+          "id": "pais236_op2195_2",
+          "name": "Guidelines for the Echocardiographic Assessment of Atrial Septal Defect and Patent Foramen Ovale",
+          "url": "https://www.asecho.org/wp-content/uploads/2025/04/2015_ASD-PFO.pdf"
+        },
+        {
+          "id": "pais236_op2195_3",
+          "name": "Atrial Septal Defect (ASD)",
+          "url": "https://www.cdc.gov/heart-defects/about/atrial-septal-defect.html"
+        },
+        {
+          "id": "pais236_op2195_4",
+          "name": "Atrial Septal Defect",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/atrial-septal-defect-asd"
+        },
+        {
+          "id": "pais236_op2195_5",
+          "name": "Atrial Septal Defect in children",
+          "url": "https://www.leedsth.nhs.uk/patients/resources/atrial-septal-defect-in-children/"
+        },
+        {
+          "id": "pais236_op2195_6",
+          "name": "Home Care Instructions After Cardiac Catheterization",
+          "url": "https://extapps.childrenshospital.org/EFPEC/Home/Sheet/3079"
+        },
+        {
+          "id": "pais236_op2195_7",
+          "name": "Insuficiência Cardíaca na Criança — Guia Prático de Atualização nº 158",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/agosto/14/24449f-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        },
+        {
+          "id": "pais236_op2195_8",
+          "name": "Fechamento da comunicação interatrial: opção de tratamento é incorporada ao SUS",
+          "url": "https://www.gov.br/conitec/pt-br/assuntos/noticias/2018/dezembro/fechamento-da-comunicacao-interatrial-opcao-de-tratamento-e-incorporada-ao-sus"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2196",
+      "specific": false,
+      "key": "pdf1500_237",
+      "label": "Comunicação interatrial bilateral",
+      "entity": "Comunicação interatrial congênita; o qualificador anatômico 'bilateral' é inadequado para uma comunicação através do septo compartilhado entre os átrios",
+      "assessment": "{\"classification\":\"VALID_BASE_DISEASE_WITH_INVALID_BILATERAL_QUALIFIER\",\"normalized_entity\":\"Comunicação interatrial\",\"normalized_key\":\"pdf1500_235\",\"invalid_or_unsupported_qualifier\":\"bilateral\",\"qualifier_assessment\":\"'Bilateral' não é subtipo reconhecido de comunicação interatrial. A lesão estabelece uma passagem entre o átrio esquerdo e o átrio direito através ou ao redor do septo interatrial; descrever o fluxo da esquerda para a direita não cria uma lesão de cada lado. A IPCCC organiza as comunicações interatriais por morfologia e localização, e o ACC distingue secundum de seio venoso, primum e seio coronário, sem categoria bilateral.\",\"assessment\":\"A entidade de base é uma cardiopatia congênita válida. Muitas crianças, inclusive com defeitos relevantes, podem estar assintomáticas. Tamanho isolado não basta: tipo anatômico, repercussão hemodinâmica, dilatação do ventrículo direito, sintomas, pressão pulmonar, lesões associadas e estado pós-fechamento orientam acompanhamento e intervenção. O termo bilateral não informa nenhum desses elementos e não reduz nem aumenta risco por si só.\",\"reconciliation\":{\"base_key\":\"pdf1500_235\",\"base_label\":\"Comunicação interatrial\",\"relationship\":\"INVALID_LATERALITY_QUALIFIER_NOT_A_SEPARATE_ENTITY\",\"content_rule\":\"Usar somente a orientação da comunicação interatrial confirmada, com triagem de repercussão, alertas e seguimento por cardiologia. Não gerar orientação, prognóstico, atividade, medicamento ou procedimento específicos para 'bilateral'.\",\"difference_retained\":\"O nome original permanece pesquisável para auditoria. O qualificador é rejeitado e não conta como doença, subtipo, segunda lesão ou marcador de gravidade.\"},\"not_automatically_equivalent_to\":[\"Duas comunicações interatriais\",\"Comunicação interatrial fenestrada ou múltipla\",\"Defeito secundum, primum, de seio venoso ou de seio coronário\",\"Átrio comum\",\"Dilatação biatrial\",\"Sobrecarga das duas câmaras atriais\",\"Shunt bidirecional\",\"Síndrome de heterotaxia ou isomerismo atrial\",\"Cardiopatia bilateral\",\"Comunicação interventricular ou defeito do septo atrioventricular\"],\"pediatric_scope\":\"Abrange recém-nascidos, lactentes, crianças e adolescentes com comunicação interatrial confirmada ou após fechamento. A maioria dos defeitos isolados causa poucos ou nenhum sintoma no início; prematuridade, doença pulmonar, síndrome genética, outra cardiopatia, hipertensão pulmonar, arritmia, insuficiência cardíaca ou lesão residual mudam o risco e exigem plano individual.\",\"critical_context_to_confirm\":[\"Ecocardiograma confirmando se há comunicação interatrial verdadeira, sua localização, tipo, tamanho e número\",\"Se o achado é forame oval patente, defeito secundum, primum, seio venoso, seio coronário, átrio comum ou outra anatomia\",\"Direção e magnitude do shunt e presença de dilatação/sobrecarga do ventrículo direito\",\"Pressão pulmonar, função ventricular e sinais de insuficiência cardíaca\",\"Conexões venosas pulmonares, valvas e outras cardiopatias associadas\",\"Idade, prematuridade, doença pulmonar crônica, síndrome genética, crescimento e tolerância alimentar/ao esforço\",\"Palpitações, síncope, dor torácica, cianose, infecções respiratórias e sintomas neurológicos\",\"Cirurgia ou fechamento por cateter prévios, dispositivo, shunt residual, arritmia e plano de alta\"],\"counting_rule\":\"Preservar pdf1500_237 como termo cadastral inadequado, reconciliar com pdf1500_235 e contar zero entidade clínica adicional e zero ficha específica nova.\",\"inference\":\"A conclusão de que 'bilateral' é inadequado é uma inferência nosológica conservadora: as fontes definem uma única comunicação entre os átrios e classificam as variantes por morfologia/localização, sem categoria bilateral. A ausência dessa categoria não impede que um paciente tenha múltiplos defeitos ou outros achados dos dois lados, mas esses achados só podem ser registrados se o exame os documentar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O cadastro contém um qualificador inadequado: comunicação interatrial é uma passagem entre os dois átrios pelo septo compartilhado e não é classificada como unilateral ou bilateral. Use o plano da ficha principal de comunicação interatrial.",
+          "Mantenha as consultas e os ecocardiogramas solicitados mesmo quando a criança parece bem. Muitas crianças não apresentam sintomas, e a repercussão é avaliada pela anatomia, pelo fluxo e pelo tamanho das câmaras direitas.",
+          "Observe respiração, cansaço para mamar ou brincar, crescimento, inchaço, palpitações, tontura e desmaio. Registre quando começaram, duração, relação com esforço e recuperação.",
+          "Atividade habitual costuma ser possível quando a cardiologia não indicou restrição. Não imponha repouso permanente nem teste esforço intenso em casa; após cirurgia ou cateterismo, siga os limites temporários da alta.",
+          "Leve às consultas o laudo do ecocardiograma, relatórios de cateterismo/cirurgia, lista de medicamentos e histórico de outras cardiopatias ou síndromes. O nome 'bilateral' não substitui esses dados.",
+          "Cuide diariamente dos dentes e mantenha acompanhamento odontológico. Antibiótico antes de procedimentos não é necessário para toda criança com comunicação interatrial; siga apenas orientação individual da cardiologia."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Compare a disposição e a tolerância às mamadas, brincadeiras, aulas e exercícios com o habitual da própria criança; piora progressiva merece reavaliação.",
+          "Mantenha rotina de sono, atividade e vacinação conforme orientação da equipe. Essas medidas apoiam a saúde geral, mas não fecham o defeito nem substituem o seguimento cardiológico.",
+          "Não use oxímetro, relógio, ausculta caseira ou aparência isolada para medir tamanho, direção do fluxo ou pressão pulmonar. O ecocardiograma e a avaliação clínica definem a repercussão.",
+          "A escola ou creche deve conhecer sintomas relevantes, contatos da família e restrições realmente prescritas. Uma criança estável não deve ser excluída de atividades apenas pelo rótulo 'bilateral'.",
+          "Após fechamento por cateter, cuide do local da punção e das atividades exatamente conforme a alta; após cirurgia, observe a ferida sem aplicar pomadas ou curativos não orientados.",
+          "Não tente 'corrigir o fluxo' com posições, exercícios respiratórios, massagem, compressão do tórax ou manipulação da ferida."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que feche ou faça a comunicação interatrial diminuir mais rápido. Medicamentos, quando usados, tratam sintomas, complicações ou o período após um procedimento.",
+          "Não iniciar, suspender ou ajustar diurético, antiarrítmico, anticoagulante, antiplaquetário ou qualquer outro produto com base no termo 'bilateral'.",
+          "Depois de fechamento por dispositivo, algumas crianças recebem antiplaquetário por período definido pelo serviço. Use somente a prescrição individual e não prolongue, reduza ou repita dose por conta própria.",
+          "Profilaxia antibiótica odontológica não é automática para comunicação interatrial não reparada nem para toda criança reparada. A indicação e a duração dependem do procedimento, do material e de eventual defeito residual.",
+          "Antes de dar qualquer medicamento, confira nome, concentração, dose, horário e alergias. Esta ficha não prescreve fármaco, dose, intervalo ou duração.",
+          "Sangramento incomum, reação alérgica, desmaio, falta de ar ou batimento muito rápido/irregular após medicamento exige orientação urgente; leve a embalagem e os horários administrados."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno, fórmula preparada corretamente e alimentação habitual adequada à idade, salvo plano específico da cardiologia ou nutrição.",
+          "Em bebês, observe mamada muito demorada, pausas frequentes, suor, respiração rápida, cansaço ou incapacidade de completar o volume habitual. Esses sinais precisam de avaliação e não devem ser atribuídos a 'bilateralidade'.",
+          "Acompanhe peso e crescimento nas consultas. Baixo ganho de peso, perda de peso, redução persistente do apetite ou cansaço para comer deve ser comunicado à equipe.",
+          "Não concentre fórmula, adicione sal/açúcar, ofereça suplemento ou restrinja água para tratar a cardiopatia sem prescrição. Tanto excesso quanto restrição inadequada podem causar dano.",
+          "Se houver falta de ar ou sonolência importante, não force alimentos ou líquidos; procure atendimento para reduzir risco de aspiração.",
+          "Após procedimento, retome alimentação e líquidos segundo as instruções da alta. Vômitos persistentes, recusa de líquidos ou pouca urina exigem contato com o serviço."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "A criança apresenta dificuldade para respirar, lábios/pele azulados ou acinzentados, fica muito pálida, mole, confusa, muito sonolenta ou não responde como de costume.",
+          "Há dor forte no peito, desmaio, convulsão, palpitação rápida ou irregular com mal-estar, ou falta de ar importante durante ou após esforço.",
+          "Surge fraqueza em um lado do corpo, alteração da fala ou visão, desequilíbrio súbito ou dor de cabeça abrupta e muito intensa.",
+          "Após cirurgia, há sangramento, abertura, pus ou dor crescente na ferida, febre com prostração ou piora respiratória.",
+          "Após cateterismo, o local da virilha sangra e não cessa com a medida de compressão ensinada na alta, surge inchaço rápido, ou a perna fica fria, pálida, arroxeada, dolorosa ou dormente.",
+          "O bebê não consegue mamar, respira com esforço, sua muito, apresenta pouca urina ou fica progressivamente menos ativo, sobretudo se houver prematuridade, doença pulmonar ou outra cardiopatia."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o termo 'bilateral' veio de laudo, receita ou resumo de alta, peça esclarecimento ao cardiologista: confirmar tipo, localização, número de orifícios, repercussão e se o autor pretendia dizer 'múltipla', 'fenestrada', 'biatrial' ou outro achado. Não faça essa conversão por suposição.",
+          "Comunicação interatrial recém-suspeita ou confirmada deve ser avaliada por cardiologia pediátrica com ecocardiograma e prazo definido conforme anatomia, repercussão, idade e sintomas.",
+          "No defeito secundum pequeno e estável, o ACC admite acompanhamento espaçado, em geral a cada 3 a 5 anos; esse intervalo não se aplica automaticamente a outros tipos, comorbidades, sintomas ou dilatação do ventrículo direito.",
+          "Defeitos secundum moderados ou grandes com sobrecarga/dilatação do ventrículo direito devem ser reavaliados para fechamento, em geral na idade pré-escolar; não espere a criança ficar sintomática nem use o tamanho sem a repercussão para decidir.",
+          "Após fechamento cirúrgico ou por cateter, cumpra a consulta e o ecocardiograma do serviço. Na ausência de lesão residual ou preocupação clínica, o seguimento de longo prazo pode ser espaçado; shunt residual, arritmia, hipertensão pulmonar ou disfunção exigem retornos mais frequentes.",
+          "Antecipe o retorno se surgirem piora do cansaço, falta de ar, dificuldade alimentar, crescimento inadequado, inchaço, palpitações, tontura, desmaio, dor torácica ou queda da tolerância ao esforço."
+        ]
+      },
+      "ageMap": {
+        "u3m": "CIA isolada costuma não causar instabilidade neonatal. Mamada fraca, taquipneia, suor, cianose, palidez, sonolência ou pouca urina exige avaliação imediata de outras cardiopatias e causas graves; não explicar o quadro apenas pela CIA nem por 'bilateralidade'.",
+        "3a5m": "Observe duração das mamadas, pausas para respirar, suor, infecções respiratórias e ganho de peso. Sintomas relevantes são menos usuais na CIA isolada e justificam revisão da anatomia e de comorbidades, especialmente prematuridade ou doença pulmonar.",
+        "6a11m": "Acompanhe crescimento, respiração e disposição ao brincar. Defeitos pequenos podem diminuir ou fechar, mas somente o ecocardiograma confirma evolução; 'bilateral' não prevê fechamento nem necessidade de intervenção.",
+        "1a": "Mantenha o seguimento mesmo sem sintomas. Cansaço para comer/brincar, respiração rápida, baixo ganho de peso ou infecções respiratórias frequentes devem ser relatados antes do retorno programado.",
+        "2a5": "É a faixa em que defeito secundum hemodinamicamente importante costuma ser avaliado para fechamento antes da idade escolar. A decisão depende de sobrecarga do coração direito e anatomia, não do qualificador 'bilateral'.",
+        "6a11": "Observe falta de ar, cansaço desproporcional, palpitações, dor torácica ou desmaio em atividade. Participação escolar e esportiva segue liberação individual; não restringir automaticamente uma criança estável.",
+        "12a17": "Reforce adesão ao seguimento, reconhecimento de palpitações/síncope e transição do cuidado. Revise defeito não fechado, lesão residual, pressão pulmonar e histórico do dispositivo antes de esporte competitivo, mergulho ou outras exposições específicas.",
+        "unknown": "Confirmar idade, tipo de comunicação, ecocardiograma, repercussão, sintomas, comorbidades e estado pós-reparo. Sem esses dados, não gerar prazo, liberação esportiva, medicamento ou procedimento automático."
+      },
+      "refs": [
+        {
+          "id": "pais236_op2196_1",
+          "name": "IPCCC ICD-11 Congenital Heart Atlas — Interatrial communication",
+          "url": "https://ipccc.net/congenital-heart-atlas/?ipccc_code=05.04.01"
+        },
+        {
+          "id": "pais236_op2196_2",
+          "name": "Atrial Septal Defect (ASD)",
+          "url": "https://www.cdc.gov/heart-defects/about/atrial-septal-defect.html"
+        },
+        {
+          "id": "pais236_op2196_3",
+          "name": "Clinical Practice Algorithm for the Follow-up of Unrepaired and Repaired Secundum Atrial Septal Defects",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2022/03/08/19/34/Clinical-Practice-Algorithm-For-the-Follow-up-of-Unrepaired-and-Repaired-SASD"
+        },
+        {
+          "id": "pais236_op2196_4",
+          "name": "Atrial Septal Defect",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/atrial-septal-defect-asd"
+        },
+        {
+          "id": "pais236_op2196_5",
+          "name": "Congenital heart disease — septal defects factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/congenital-heart-disease-septal-defects"
+        },
+        {
+          "id": "pais236_op2196_6",
+          "name": "Atrial septal defect — transcatheter device closure factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/atrial-septal-defect-transcatheter-device-closure"
+        },
+        {
+          "id": "pais236_op2196_7",
+          "name": "Guia prático: diagnóstico de anomalias congênitas no pré-natal e ao nascimento",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/anomalias-congenitas/guia-pratico-diagnostico-de-anomalias-congenitas-no-pre-natal-e-ao-nascimento.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2197",
+      "specific": false,
+      "key": "pdf1500_238",
+      "label": "Comunicação interatrial crônico",
+      "entity": "Comunicação interatrial — defeito não reparado, reparado ou residual (qualificador 'crônico' não padronizado)",
+      "assessment": "{\"classification\":\"SOURCE_TERM_ISSUE_NONSTANDARD_CHRONIC_QUALIFIER\",\"normalized_entity\":\"Comunicação interatrial\",\"normalized_key\":\"pdf1500_235\",\"qualifier_assessment\":\"'Crônico' não é subtipo de comunicação interatrial e ainda apresenta discordância de gênero com 'comunicação'. A palavra pode estar tentando indicar defeito persistente não reparado, diagnóstico tardio, seguimento após fechamento ou comunicação residual; esses contextos têm prognóstico e acompanhamento diferentes e precisam ser declarados explicitamente.\",\"assessment\":\"A comunicação interatrial é uma abertura congênita no septo entre os átrios. As categorias anatômicas reconhecidas incluem ostium secundum, ostium primum, seio venoso e seio coronário; forame oval patente não deve ser tratado automaticamente como comunicação interatrial. Muitas crianças não têm sintomas. Pequenos defeitos ostium secundum podem diminuir ou fechar espontaneamente, enquanto defeitos com repercussão e dilatação do ventrículo direito podem necessitar fechamento. Após cirurgia ou dispositivo, o seguimento depende de comunicação residual, repercussão, ritmo, pressão pulmonar e outros achados.\",\"not_automatically_equivalent_to\":[\"Um subtipo independente chamado comunicação interatrial crônica\",\"Comunicação interatrial ostium secundum, ostium primum, seio venoso e seio coronário como se fossem a mesma anatomia\",\"Forame oval patente, que é uma entidade distinta e frequentemente benigna na infância\",\"Defeito não reparado, defeito já fechado e comunicação residual como se fossem o mesmo estado clínico\",\"Cardiopatia estável ou sem repercussão apenas porque a criança está sem sintomas\",\"Indicação automática de cirurgia, cateterismo, medicamento, profilaxia de endocardite ou restrição de atividade\"],\"pediatric_scope\":\"Recém-nascidos e lactentes com comunicação interatrial isolada costumam ter poucos ou nenhum sintoma, mas dificuldade para mamar, taquipneia, sudorese, baixo ganho de peso ou cianose exigem avaliação para repercussão importante, lesões associadas ou outro diagnóstico. Em pré-escolares, escolares e adolescentes, a decisão de observar ou fechar depende sobretudo da anatomia e da repercussão, não da duração do rótulo. O seguimento após reparo deve considerar comunicação residual, dilatação/disfunção direita, pressão pulmonar e arritmias.\",\"critical_context_to_confirm\":[\"Idade, momento e método de confirmação do diagnóstico\",\"Tipo anatômico da comunicação interatrial e distinção de forame oval patente\",\"Tamanho do defeito, direção e importância do fluxo e presença de dilatação das câmaras direitas\",\"Pressão pulmonar, função cardíaca, ritmo e outras cardiopatias ou síndromes associadas\",\"Estado não reparado, reparado por cirurgia, fechado por cateter ou com comunicação residual\",\"Data do procedimento, tipo de dispositivo ou patch e complicações do acesso, ferida ou ritmo\",\"Mamada, crescimento, infecções respiratórias, falta de ar, tolerância ao esforço, palpitações, dor torácica, tontura, desmaio, inchaço ou cianose\",\"Medicamentos atuais, restrições temporárias e cronograma individual de cardiologia e ecocardiograma\"],\"counting_rule\":\"Resolver como alias ou qualificador inadequado da entidade canônica 'Comunicação interatrial'. Não contar como nova entidade clínica nem como subtipo específico validado; preservar o ID e registrar a anatomia e o estado real quando disponíveis.\",\"inference\":\"A conclusão nosológica é uma inferência sustentada pela nomenclatura convergente das fontes oficiais: o relatório da Conitec enumera os tipos anatômicos, e ACC, CDC e AHA organizam o manejo por tamanho, repercussão, idade e estado não reparado ou pós-intervenção. Nenhuma fonte consultada reconhece 'comunicação interatrial crônica' como subtipo independente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Comunicação interatrial é uma abertura congênita entre as câmaras superiores do coração. O termo 'crônico' não informa tipo, tamanho, repercussão nem se o defeito está aberto, foi fechado ou deixou comunicação residual; confirme esses dados com a cardiologia.",
+          "Muitas crianças parecem bem, especialmente quando o defeito é pequeno. Ausência de sintomas não substitui os retornos e o ecocardiograma solicitados, e também não significa que todo defeito precise de procedimento.",
+          "Observe mamada, ganho de peso, respiração, frequência de infecções respiratórias, tolerância para brincar ou fazer exercício, palpitações, tontura, desmaio e inchaço. Registre mudanças e leve as informações à consulta.",
+          "Mantenha um resumo com tipo da comunicação, tamanho e repercussão descritos no último ecocardiograma, outras cardiopatias, procedimentos, dispositivo ou patch, medicamentos, alergias e contatos da equipe.",
+          "Após fechamento por cateter ou cirurgia, siga os cuidados escritos do serviço para punção ou incisão, banho, atividade e medicamentos. Não conclua que o acompanhamento terminou apenas porque a criança recebeu alta do procedimento.",
+          "Se houver piora súbita da respiração, coloração arroxeada, desmaio, déficit neurológico, palpitação com mal-estar ou dor importante no peito, procure atendimento imediato; esses sinais não são uma evolução esperada de uma comunicação interatrial estável."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Compareça às consultas e exames definidos pela cardiologia pediátrica. O acompanhamento costuma considerar exame clínico, ecocardiograma e, quando indicado, eletrocardiograma ou monitorização do ritmo.",
+          "Atividade não deve ser proibida automaticamente. Crianças com defeito pequeno ou reparado e cicatrizado geralmente podem participar de atividades habituais, mas restrições temporárias após procedimento ou limites por hipertensão pulmonar, arritmia ou outra lesão devem seguir orientação individual.",
+          "Na escola, informe apenas cuidados e restrições documentados. Garanta que responsáveis saibam interromper a atividade e pedir ajuda diante de falta de ar desproporcional, palpitação com mal-estar, dor torácica, tontura ou desmaio.",
+          "Mantenha higiene bucal e acompanhamento odontológico. Antibiótico antes de procedimento dentário não é automático para toda comunicação interatrial; confirme com a cardiologia, sobretudo nos primeiros meses após fechamento ou se houver defeito residual.",
+          "Evite exposição ao tabaco e à nicotina. Adolescentes devem evitar energéticos e estimulantes, principalmente se houver palpitações, arritmia, hipertensão pulmonar ou orientação cardiológica específica.",
+          "Não use mergulho autônomo, esforço competitivo intenso ou treino de força como teste caseiro de estabilidade. Atividades especiais e esportes competitivos devem ser discutidos conforme anatomia, repercussão e estado pós-reparo."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que feche a comunicação interatrial. Medicamentos podem ser usados para sintomas, complicações ou por tempo definido após procedimento, sempre conforme prescrição individual.",
+          "Não comece, interrompa ou prolongue diurético, medicamento para ritmo, antiagregante ou anticoagulante por causa da palavra 'crônico'. Confirme nome, dose, duração e motivo no plano da criança.",
+          "Depois de fechamento com dispositivo ou patch, algumas crianças recebem medicamento para prevenir coágulos ou outra orientação temporária. Não suspenda quando a criança parece bem nem use o esquema de outro paciente.",
+          "Profilaxia antibiótica de endocardite não é indicada automaticamente para toda comunicação interatrial. A necessidade depende do tipo e tempo do reparo e de possível defeito residual; peça confirmação antes de procedimentos dentários.",
+          "Em caso de dose esquecida, vômito logo após a tomada ou dúvida de duplicação, não dobre a próxima dose. Consulte a orientação escrita, o prescritor ou o farmacêutico.",
+          "Procure atendimento diante de falta de ar, desmaio, inchaço de face, chiado, sangramento importante, sonolência intensa ou outra reação relevante após medicamento; não tente compensar com dose extra."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos adequados à idade, salvo plano individual por outra condição. Comunicação interatrial ou o adjetivo 'crônico' não define dieta especial, restrição de líquidos ou de sal por conta própria.",
+          "Antes dos 6 meses, mantenha leite materno ou fórmula indicada. Não substitua mamadas por água ou chás e não concentre fórmula sem orientação profissional.",
+          "Em lactentes, observe mamadas progressivamente mais longas, pausas frequentes, suor, respiração rápida, cansaço, menor volume ingerido ou baixo ganho de peso. Esses sinais precisam de avaliação e não devem ser atribuídos apenas ao calor, cólica ou idade.",
+          "Em crianças maiores, falta de ar ou cansaço para comer, brincar, correr ou subir escadas, perda de apetite persistente e queda de crescimento justificam contato com a equipe.",
+          "Após cirurgia ou cateterismo, siga o plano de alta para alimentação e hidratação. Vômitos repetidos, incapacidade de beber, pouca urina ou piora geral pedem reavaliação, principalmente se interferirem nos medicamentos prescritos.",
+          "Não force alimento ou líquido durante dificuldade respiratória importante, desmaio, convulsão ou rebaixamento de consciência. Posicione com segurança e acione atendimento de emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Há dificuldade respiratória importante, costelas marcando, incapacidade de mamar ou falar por falta de ar, lábios ou língua arroxeados, palidez fria, baixa resposta ou piora rápida. Acione emergência/SAMU 192 em situação grave.",
+          "O bebê cansa ou sua intensamente para mamar, respira rápido, faz pausas repetidas, fica muito sonolento, urina pouco ou apresenta piora do ganho de peso junto de abatimento ou desconforto respiratório.",
+          "Ocorre desmaio, dor torácica forte ou persistente, palpitação sustentada com tontura ou mal-estar, convulsão ou dificuldade para despertar.",
+          "Surge fraqueza ou dormência de um lado, rosto torto, alteração súbita da fala ou visão, confusão ou dor de cabeça muito intensa. Acione o SAMU 192 por possível evento neurológico; não espere melhorar em casa.",
+          "Após cateterismo, o local da punção sangra apesar da compressão orientada, o inchaço aumenta rapidamente ou o membro fica frio, pálido, muito doloroso ou com mudança importante de pulso.",
+          "Após cirurgia ou fechamento, aparecem falta de ar nova, febre com piora geral, secreção ou abertura da ferida, dor crescente, sangramento, inchaço súbito ou batimento muito acelerado/irregular com mal-estar."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o contexto ainda não estiver definido, marque cardiologia pediátrica para esclarecer tipo anatômico, tamanho, repercussão, estado não reparado/reparado/residual e presença de outras lesões. 'Crônico' sozinho não orienta seguimento.",
+          "Mantenha o retorno na frequência indicada, mesmo sem sintomas. Pequenos defeitos ostium secundum podem fechar ou diminuir, enquanto defeitos com dilatação das câmaras direitas podem exigir discussão de fechamento; a decisão depende do ecocardiograma e da avaliação cardiológica.",
+          "Após cirurgia ou cateter, cumpra as revisões precoces do serviço e o seguimento periódico de longo prazo. O intervalo pode ser maior quando não há lesão residual nem preocupação clínica, mas não deve ser decidido apenas pelo tempo transcorrido.",
+          "Antecipe a consulta se surgirem cansaço crescente, falta de ar ao esforço, palpitações, tontura, desmaio, dor torácica, inchaço, infecções respiratórias repetidas ou queda do crescimento.",
+          "Reavalie rapidamente lactentes com dificuldade para mamar, suor, taquipneia, baixo ganho de peso ou pouca urina. Comunicação interatrial isolada costuma ser pouco sintomática nessa idade; sintomas relevantes exigem procurar repercussão, lesões associadas ou outra causa.",
+          "Na adolescência, revise atividade física, adesão, tabaco/nicotina, energéticos, plano de transição e necessidade de seguimento em cardiopatia congênita do adulto, sobretudo se houver defeito não reparado, residual, hipertensão pulmonar ou arritmia."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não classifique como cardiopatia crônica estável apenas pelo rótulo. Comunicação interatrial isolada costuma causar poucos sintomas no recém-nascido; cianose, dificuldade para mamar, taquipneia, suor, palidez, sonolência, pouca urina ou má perfusão exige avaliação imediata para lesão associada, insuficiência cardíaca ou outro diagnóstico.",
+        "3a5m": "Acompanhe mamadas, respiração, suor e ganho de peso. Pequenos defeitos ostium secundum podem diminuir, mas somente ecocardiograma e cardiologia confirmam anatomia e repercussão; não adie avaliação de sintomas por supor curso benigno.",
+        "6a11m": "Observe crescimento, energia, infecções respiratórias, respiração e alimentação. Não concentre fórmula nem restrinja líquidos para 'poupar o coração' sem plano. Mantenha retorno para verificar se o defeito fechou, diminuiu ou causa dilatação direita.",
+        "1a": "Valorize cansaço para comer, engatinhar, andar ou brincar, pausas frequentes, suor, respiração rápida e crescimento insuficiente. A criança pequena não descreve palpitações ou tontura; mudanças de atividade devem ser relatadas à equipe.",
+        "2a5": "Nesta faixa pode ser discutido fechamento de defeitos moderados ou grandes com repercussão, sobretudo ostium secundum com dilatação direita. Não transforme a idade ou o adjetivo 'crônico' em indicação automática; anatomia e ecocardiograma orientam a decisão.",
+        "6a11": "Pergunte sobre falta de ar, palpitações, tontura, desmaio, dor torácica e rendimento nas brincadeiras e educação física. A maioria com defeito pequeno ou reparado e cicatrizado não precisa exclusão automática, mas a escola deve seguir restrições documentadas.",
+        "12a17": "Inclua o adolescente no conhecimento do tipo de defeito, reparo, medicamentos e sinais de alerta. Revise esporte competitivo, mergulho, energéticos, nicotina, contracepção/gravidez quando pertinente e transição para seguimento de cardiopatia congênita do adulto.",
+        "unknown": "Confirmar idade, anatomia, tamanho e repercussão, câmaras direitas, pressão pulmonar, lesões associadas, estado não reparado/reparado/residual, procedimentos, medicamentos, sintomas e plano de retorno. Sem isso, não gerar alta, procedimento, profilaxia ou restrição de atividade pelo termo 'crônico'."
+      },
+      "refs": [
+        {
+          "id": "pais236_op2197_1",
+          "name": "Relatório de Recomendação nº 390 — Procedimento para fechamento percutâneo de comunicação interatrial septal com dispositivo intracardíaco",
+          "url": "https://www.gov.br/conitec/pt-br/midias/relatorios/2018/relatorio_oclusores_fechamentopercutaneo.pdf/@@display-file/file"
+        },
+        {
+          "id": "pais236_op2197_2",
+          "name": "Clinical Practice Algorithm For the Follow-up of Unrepaired and Repaired Secundum Atrial Septal Defects",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2022/03/08/19/34/Clinical-Practice-Algorithm-For-the-Follow-up-of-Unrepaired-and-Repaired-SASD"
+        },
+        {
+          "id": "pais236_op2197_3",
+          "name": "Atrial Septal Defect (ASD)",
+          "url": "https://www.cdc.gov/heart-defects/about/atrial-septal-defect.html"
+        },
+        {
+          "id": "pais236_op2197_4",
+          "name": "Atrial Septal Defect",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/atrial-septal-defect-asd"
+        },
+        {
+          "id": "pais236_op2197_5",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2198",
+      "specific": false,
+      "key": "pdf1500_239",
+      "label": "Comunicação interatrial de origem infecciosa",
+      "entity": "Comunicação interatrial congênita; eventual endocardite infecciosa ou infecção de dispositivo de fechamento é condição adicional e distinta a confirmar",
+      "assessment": "{\"classification\":\"ETIOLOGICALLY_INCOMPATIBLE_QUALIFIER\",\"normalized_entity\":\"Comunicação interatrial congênita\",\"normalized_key\":\"pdf1500_235\",\"qualifier_assessment\":\"'De origem infecciosa' não é uma variante nosológica válida de CIA. O defeito do septo atrial é congênito; infecção pode coexistir, precipitar descompensação ou acometer endocárdio/material implantado, mas precisa de avaliação própria.\",\"assessment\":\"A resolução segura separa a anatomia congênita de qualquer síndrome infecciosa. O cuidado da CIA depende de tipo, tamanho, repercussão sobre câmaras direitas e pulmões, sintomas e estado após fechamento. Febre ou sinais sistêmicos devem ser avaliados por foco e gravidade, sem serem atribuídos ao orifício nem usados para presumir endocardite.\",\"reconciliation\":{\"base_key\":\"pdf1500_235\",\"base_label\":\"Comunicação interatrial\",\"relationship\":\"INVALID_INFECTIOUS_ETIOLOGY_WITH_POSSIBLE_DISTINCT_COMPLICATION\",\"content_rule\":\"Usar a orientação da CIA congênita para o defeito estrutural. Se houver suspeita infecciosa, interromper qualquer fluxo de alta automática e seguir a via clínica correspondente ao foco, à sepse, à endocardite ou à infecção de dispositivo conforme avaliação presencial.\",\"difference_retained\":\"O nome original permanece rastreado para que a inconsistência seja corrigida e para impedir que uma infecção verdadeira seja confundida com a história natural da CIA.\"},\"reason_for_source_term_issue\":\"O rótulo não informa infecção materna documentada, síndrome congênita infecciosa, febre, bacteremia, hemoculturas, vegetação, dispositivo de fechamento, tempo desde o implante, foco infeccioso ou critérios de endocardite. Não há base para afirmar causalidade infecciosa nem para selecionar tratamento.\",\"not_automatically_equivalent_to\":[\"Endocardite infecciosa\",\"Infecção de dispositivo oclusor ou patch do septo atrial\",\"Bacteremia ou sepse\",\"Miocardite ou pericardite infecciosa\",\"Infecção respiratória, pneumonia ou bronquiolite\",\"Síndrome de rubéola congênita ou outra infecção congênita\",\"Exposição materna a infecção durante a gestação\",\"Forame oval patente\",\"Defeito do septo atrioventricular\",\"Descompensação cardíaca precipitada por infecção\"],\"pediatric_scope\":\"Muitas crianças com CIA estão assintomáticas; defeitos maiores podem aumentar o fluxo pulmonar e causar cansaço, falta de ar, dificuldade para alimentar-se ou repercussão cardíaca ao longo do tempo. Em recém-nascido ou lactente com cianose, choque ou desconforto respiratório importante, não atribuir o quadro automaticamente a uma CIA isolada: procurar outra cardiopatia, doença pulmonar, sepse ou complicação associada.\",\"counting_rule\":\"Classificar pdf1500_239 como SOURCE_TERM_ISSUE e contar zero entidade clínica adicional. Manter pdf1500_235 como entidade-base. Contar uma infecção somente se houver diagnóstico separado e documentado.\",\"critical_context_to_confirm\":[\"Idade, tipo de defeito septal, tamanho, direção e importância do fluxo, dilatação de câmaras direitas e pressão pulmonar\",\"Sintomas basais, crescimento, tolerância às mamadas/atividade, frequência respiratória, saturação e outros defeitos cardíacos\",\"Fechamento prévio por cateter ou cirurgia, tipo de dispositivo/patch, data do procedimento e presença de fluxo residual\",\"Febre medida, duração, calafrios, prostração, sudorese, perda de peso e foco aparente\",\"Hemoculturas, ecocardiograma e outros exames já realizados quando houver suspeita de endocardite ou infecção de dispositivo\",\"Ferida recente, acesso vascular, procedimento cardíaco ou dentário, infecção de pele/dente e uso prévio de antibiótico\",\"Falta de ar, dor torácica, palpitação, desmaio, cianose, edema, sinais neurológicos, choque ou sepse\",\"Medicamentos atuais, alergias, função renal/hepática, vacinação e plano de cardiologia pediátrica\"],\"inference\":\"A classificação decorre da concordância entre CDC, Ministério da Saúde/Conitec e AHA de que a CIA é cardiopatia congênita, somada à distinção explícita da AHA entre CIA e endocardite ou infecção rara de dispositivo. As fontes não sustentam uma entidade denominada 'CIA de origem infecciosa'.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome do cadastro mistura situações diferentes. A comunicação interatrial é uma abertura congênita entre os átrios; infecção do coração ou de um dispositivo de fechamento é outro diagnóstico e precisa ser confirmada.",
+          "Mantenha o acompanhamento com cardiologia pediátrica e leve aos atendimentos o laudo do ecocardiograma, o tipo de CIA e informações sobre cirurgia, cateterismo ou dispositivo, se houver.",
+          "Observe respiração, cor, mamadas/alimentação, suor, cansaço, crescimento, palpitações, desmaio, inchaço, temperatura e nível de atividade. Uma criança pode parecer bem apesar de uma CIA, por isso o retorno programado continua importante.",
+          "Febre não é manifestação esperada da CIA. Meça a temperatura e procure avaliação conforme a idade e o estado geral, sobretudo se houver material implantado, procedimento recente, calafrios, prostração ou febre persistente.",
+          "Mantenha vacinas e higiene das mãos e da boca em dia. Trate problemas dentários e feridas com orientação profissional; isso ajuda a prevenir infecções, mas não significa que antibiótico preventivo seja necessário para toda criança com CIA.",
+          "Não use esta ficha para liberar cuidado domiciliar quando houver suspeita de sepse, endocardite, infecção de dispositivo ou descompensação cardíaca."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita atividade compatível com a idade e com a orientação da cardiologia. Muitas crianças com CIA pequena não precisam de restrição, mas após fechamento recente ou se houver hipertensão pulmonar os limites são individuais.",
+          "Interrompa esforço se surgirem falta de ar desproporcional, dor no peito, palpitação sustentada, tontura, desmaio ou cansaço incomum e procure orientação.",
+          "Escove os dentes e cuide das gengivas diariamente, mantenha consultas odontológicas e informe ao dentista a CIA, a data do reparo e a presença de dispositivo ou fluxo residual.",
+          "Após cateterismo ou cirurgia, siga os cuidados do local de punção ou ferida. Vermelhidão crescente, calor, pus, abertura, dor em piora ou febre exigem contato no mesmo dia.",
+          "Não tente avaliar o tamanho da CIA por sintomas, ausculta doméstica, oxímetro isolado ou frequência de resfriados. Ecocardiograma e avaliação cardiológica definem a repercussão.",
+          "Evite fumaça de cigarro e vape. Escola, creche, viagens e esportes devem seguir o plano individual, sem isolamento por um suposto caráter contagioso: a CIA não é transmissível."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie antibiótico por causa do rótulo 'de origem infecciosa'. Antibiótico não fecha a CIA e não deve ser usado sem diagnóstico de infecção e prescrição direcionada.",
+          "Não use sobras de antibiótico. Quando há suspeita de endocardite ou infecção de dispositivo, culturas e avaliação especializada podem ser necessárias antes de definir o medicamento.",
+          "Não existe remédio que faça uma CIA fechar mais rápido. Medicamentos podem ser prescritos para sintomas, arritmia, pressão pulmonar ou período após o fechamento, mas não corrigem o orifício por si só.",
+          "Dê apenas os remédios do plano atual. Não suspenda, dobre ou compense dose esquecida sem orientação; após vômito, confirme com a equipe se a dose deve ou não ser repetida.",
+          "A CIA isolada não autoriza profilaxia antibiótica automática antes de procedimento dentário. Após reparo com material ou se houver defeito residual, cardiologista e dentista devem decidir a necessidade e o período; esta ficha não define esquema ou dose.",
+          "Após fechamento, antiagregante ou outro remédio pode ser temporariamente indicado. Não iniciar, trocar ou interromper por conta própria e avise antes de cirurgia ou procedimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e adequada à idade, salvo plano específico de cardiologia ou nutrição. CIA não exige fórmula, suplemento, chá ou dieta especial por rotina.",
+          "Em bebês, observe mamadas muito longas, suor, respiração rápida, pausas frequentes, cansaço, engasgos ou baixo ganho de peso. Esses achados precisam de avaliação e não devem ser tratados apenas aumentando a concentração da fórmula.",
+          "Não concentre fórmula, acrescente sal/açúcar, restrinja líquidos nem ofereça volume extra sem orientação. Necessidades mudam se houver insuficiência cardíaca, febre, vômitos ou diarreia.",
+          "Ofereça líquidos conforme a tolerância durante doenças comuns. Procure avaliação se a criança não consegue beber, vomita repetidamente, urina pouco, fica muito sonolenta ou apresenta boca seca e prostração.",
+          "Se houver falta de ar importante, rebaixamento de consciência ou engasgos repetidos, não force comida, bebida ou remédio pela boca; busque atendimento imediato."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Há dificuldade intensa para respirar, retrações, gemência, lábios ou língua azulados/cinzentos, pausa respiratória, incapacidade de falar ou mamar por falta de ar.",
+          "A criança desmaia, convulsiona, fica confusa, muito mole ou difícil de acordar. Acione o SAMU 192 se o transporte não for seguro ou a resposta estiver reduzida.",
+          "Febre vem com calafrios intensos, pele manchada, extremidades frias, respiração muito rápida, pouca urina, prostração extrema ou piora rápida, sugerindo sepse.",
+          "Após fechamento da CIA, surge febre persistente ou recorrente, especialmente com mal-estar, falta de ar, dor no peito, ferida inflamada ou local de punção com secreção.",
+          "Surge palpitação sustentada com tontura, dor no peito, falta de ar, desmaio ou quase desmaio.",
+          "Há fraqueza de um lado, assimetria da face, fala alterada, perda visual, dificuldade súbita para andar ou dor de cabeça abrupta e intensa."
+        ],
+        "QUANDO REAVALIAR": [
+          "O termo 'de origem infecciosa' precisa ser corrigido no cadastro. Continue o seguimento da comunicação interatrial como cardiopatia congênita e registre qualquer infecção confirmada separadamente.",
+          "Cumpra o retorno definido pela cardiologia mesmo sem sintomas. O intervalo depende do tipo e tamanho da CIA, repercussão no coração e pulmões, idade e situação após fechamento.",
+          "Contate a equipe no mesmo dia se houver febre persistente ou sem foco, cansaço novo, respiração mais rápida, piora das mamadas, baixo ganho de peso, palpitações, edema ou queda de atividade.",
+          "Após cateterismo ou cirurgia, confirme por escrito cuidados do curativo/punção, atividade, medicamentos, sinais de infecção e data do retorno. Não espere o retorno programado se houver piora.",
+          "Se houver suspeita de endocardite ou infecção do dispositivo, a equipe poderá colher culturas e solicitar ecocardiograma ou outra imagem. Não tente confirmar ou excluir em casa e não atrase o atendimento para testar antibiótico restante.",
+          "Antes de procedimento dentário ou invasivo, informe o histórico cardíaco e confirme com a cardiologia se existe indicação de profilaxia; a decisão não deve ser inferida apenas do nome CIA."
+        ]
+      },
+      "ageMap": {
+        "u3m": "CIA isolada costuma não explicar choque ou cianose intensa no recém-nascido. Temperatura alta ou baixa, sucção fraca, respiração difícil, palidez/cianose, pouca urina ou sonolência exige avaliação imediata para infecção, outra cardiopatia ou doença pulmonar.",
+        "3a5m": "Observe tendência de mamadas, suor, respiração, peso e urina. Cansaço progressivo ou febre com prostração requer avaliação precoce; não atribua automaticamente a dentição nem à CIA.",
+        "6a11m": "Maior atividade pode tornar cansaço mais visível. Mantenha alimentação e vacinas e procure avaliação se houver respiração rápida, mamadas piores, baixo ganho de peso, palidez ou febre persistente.",
+        "1a": "A criança pequena não descreve palpitação, dor ou calafrios; observe interrupção de brincadeiras, respiração acelerada, suor, irritabilidade, recusa alimentar e redução de urina.",
+        "2a5": "Creche e pré-escola devem conhecer apenas os limites e contatos necessários. A CIA não é contagiosa; febre ou infecção comum segue avaliação própria, com atenção adicional após procedimento cardíaco recente.",
+        "6a11": "Escolares podem relatar falta de ar, palpitação, tontura ou dor no peito. Atividade costuma ser possível conforme cardiologia; após fechamento recente ou com pressão pulmonar elevada, respeite limites individualizados.",
+        "12a17": "Inclua o adolescente no conhecimento do diagnóstico, reparo e medicamentos. Reforce adesão, saúde bucal e transição do cuidado; síncope, palpitação sustentada ou déficit neurológico exige avaliação urgente.",
+        "unknown": "Confirmar idade, anatomia, repercussão, procedimento/material, sintomas, febre e evidência microbiológica antes de orientar. Sem esses dados, não classificar a CIA como infecciosa nem presumir estabilidade."
+      },
+      "refs": [
+        {
+          "id": "pais236_op2198_1",
+          "name": "Atrial Septal Defect (ASD)",
+          "url": "https://www.cdc.gov/heart-defects/about/atrial-septal-defect.html"
+        },
+        {
+          "id": "pais236_op2198_2",
+          "name": "Atrial Septal Defect",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/atrial-septal-defect-asd"
+        },
+        {
+          "id": "pais236_op2198_3",
+          "name": "Fechamento da comunicação interatrial: opção de tratamento é incorporada ao SUS",
+          "url": "https://www.gov.br/conitec/pt-br/assuntos/noticias/2018/dezembro/fechamento-da-comunicacao-interatrial-opcao-de-tratamento-e-incorporada-ao-sus"
+        },
+        {
+          "id": "pais236_op2198_4",
+          "name": "Infective Endocarditis",
+          "url": "https://www.heart.org/en/health-topics/infective-endocarditis"
+        },
+        {
+          "id": "pais236_op2198_5",
+          "name": "Top Things to Know: Infections of Selected Nonvalvular Cardiovascular Devices",
+          "url": "https://professional.heart.org/en/science-news/infections-of-selected-nonvalvular-cardiovascular-devices/top-things-to-know"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2199",
+      "specific": false,
+      "key": "pdf1500_240",
+      "label": "Comunicação interatrial grave",
+      "entity": "Comunicação interatrial com possível repercussão hemodinâmica importante; o qualificador ‘grave’ depende do subtipo anatômico, magnitude do shunt, dilatação das câmaras direitas, pressão/resistência pulmonar, sintomas e lesões associadas",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_NONSTANDARD_HEMODYNAMIC_SEVERITY_QUALIFIER\",\"normalized_entity\":\"Comunicação interatrial (CIA); confirmar subtipo anatômico e repercussão hemodinâmica\",\"assessment\":\"‘Comunicação interatrial grave’ não é uma categoria nosológica autônoma. Diretrizes pediátricas descrevem CIA ostium secundum, ostium primum, seio venoso e seio coronário, distinguem forame oval patente e baseiam seguimento/fechamento na repercussão hemodinâmica. Em CIA secundum, shunt significativo e/ou dilatação do ventrículo direito sustentam intervenção; anatomia, bordas e tamanho do paciente influenciam a via. Hipertensão pulmonar avançada pode exigir estudo de operabilidade e pode contraindicar fechamento. Portanto, ‘grave’ só pode resumir um conjunto de achados já demonstrados, nunca substituí-los.\",\"reconciliation\":{\"relationship\":\"SEVERITY_QUALIFIER_OF_pdf1500_235\",\"canonical_key\":\"pdf1500_235\",\"canonical_label\":\"Comunicação interatrial\",\"content_rule\":\"Usar a orientação canônica da CIA e acrescentar prioridade/alertas conforme achados concretos. Não criar ficha autônoma, não inferir instabilidade e não aplicar o algoritmo de CIA secundum isolada a primum, seio venoso, seio coronário, forame oval patente ou cardiopatia complexa.\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\",\"difference_retained\":\"Se houver shunt importante, dilatação direita, insuficiência cardíaca, hipertensão pulmonar, arritmia, dessaturação/cianose ou complicação pós-procedimento, esses achados mudam prioridade, investigação e tratamento e devem ser registrados separadamente.\"},\"not_automatically_equivalent_to\":[\"CIA ostium secundum isolada\",\"CIA ostium primum, defeito do septo atrioventricular, CIA do seio venoso ou do seio coronário\",\"Forame oval patente\",\"Orifício grande sem repercussão hemodinâmica demonstrada\",\"Insuficiência cardíaca, hipertensão pulmonar ou síndrome de Eisenmenger já confirmadas\",\"Cianose neonatal ou cardiopatia congênita crítica\",\"Indicação automática de fechamento por cateter ou cirurgia\",\"Indicação automática de diurético, vasodilatador pulmonar, antiarrítmico, antiagregante, anticoagulante, antibiótico ou oxigênio\"],\"pediatric_scope\":\"A maioria das crianças com CIA isolada, inclusive algumas com defeito grande, permanece assintomática nos primeiros anos. CIA secundum pequena pode reduzir ou fechar espontaneamente; CIA com sobrecarga direita costuma ser planejada para fechamento na idade pré-escolar. Insuficiência cardíaca ou hipertensão pulmonar na infância é incomum e exige avaliação precoce de repercussão, prematuridade/doença pulmonar, síndrome genética e outras lesões. Adolescentes precisam de avaliação de arritmia, tolerância ao esforço, pressão pulmonar e transição para cardiologia de cardiopatias congênitas quando pertinente.\",\"critical_context_to_confirm\":[\"Subtipo da CIA, número/localização dos defeitos e distinção de forame oval patente\",\"Direção e magnitude do shunt, dilatação de átrio/ventrículo direitos e função ventricular\",\"Pressão pulmonar estimada, suspeita de doença vascular pulmonar e necessidade de avaliação de operabilidade\",\"Drenagem venosa pulmonar, válvulas atrioventriculares e outras cardiopatias associadas\",\"Idade, prematuridade, doença pulmonar crônica, síndrome genética e crescimento\",\"Taquipneia, sudorese ou fadiga às mamadas, baixo ganho de peso, dispneia ao esforço, palpitação, dor torácica ou síncope\",\"Fechamento prévio, técnica/dispositivo, shunt residual, derrame, arritmia e plano de antiagregação/profilaxia\",\"Data do último ecocardiograma/ECG e prazo definido pela cardiologia pediátrica\"],\"counting_rule\":\"Manter o nome e ID originais para busca e auditoria, mas contar apenas a entidade canônica pdf1500_235. O adjetivo ‘grave’ não aumenta cobertura clínica nem comprova urgência ou indicação de intervenção.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Comunicação interatrial é uma abertura entre as duas câmaras superiores do coração. A palavra ‘grave’ no cadastro não define sozinha o estado da criança: o cardiologista precisa confirmar o tipo da abertura, quanto sangue passa por ela e se o lado direito do coração ou a circulação pulmonar estão sobrecarregados.",
+          "Muitas crianças não apresentam sintomas, mesmo quando a abertura é grande. Não use aparência bem-disposta como motivo para abandonar consultas ou ecocardiogramas; o objetivo do seguimento é reconhecer repercussão antes de complicações tardias.",
+          "Observe respiração, mamadas, suor, ganho de peso, disposição para brincar, cansaço em escadas/esporte, palpitações, tontura e desmaio. Registre quando acontecem e procure avaliação mais cedo se forem novos ou progressivos.",
+          "Leve às consultas laudos de ecocardiograma, ECG, resumo de cirurgia/cateterismo, cartão do dispositivo e lista de medicamentos. Informe sempre se há síndrome genética, prematuridade, doença pulmonar, outra cardiopatia ou fechamento anterior.",
+          "Depois de cateterismo ou cirurgia, siga as instruções do centro para curativo, banho, atividade, medicamentos e retorno. Não compare o prazo de recuperação com o de outra criança, pois técnica, anatomia e achados residuais variam.",
+          "A CIA não é contagiosa. Escola e cuidadores devem conhecer apenas as limitações e sinais relevantes definidos pela equipe; a criança não precisa ser isolada por causa do diagnóstico."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Atividade física costuma ser permitida em CIA pequena ou após correção sem repercussão, mas a liberação deve considerar dilatação cardíaca, pressão pulmonar, arritmia, sintomas e fase pós-procedimento. Não imponha repouso absoluto nem libere esforço intenso apenas pelo nome do cadastro.",
+          "Interrompa atividade se houver falta de ar fora do habitual, dor no peito, palpitação persistente, tontura, desmaio ou coloração azulada. A criança deve ser avaliada antes de voltar ao esforço se esses sinais ocorrerem.",
+          "Mantenha vacinas e higiene das mãos conforme orientação pediátrica, especialmente em prematuros e crianças com doença pulmonar ou insuficiência cardíaca. Essas medidas reduzem intercorrências respiratórias, mas não fecham a comunicação.",
+          "Mantenha higiene bucal, escovação e consultas odontológicas. Antibiótico antes de procedimento dentário não é automático para CIA não corrigida; após fechamento com material, o cardiologista define o período e situações em que há indicação.",
+          "Não use oxímetro, relógio ou aplicativo doméstico para classificar gravidade ou decidir que a criança está segura. Saturação normal não mede o tamanho do shunt nem a dilatação do ventrículo direito, e leitura isolada anormal precisa ser confirmada no contexto clínico.",
+          "Em viagens, leve resumo clínico, contatos da cardiologia e medicamentos suficientes. Mergulho com cilindro e atividade de alta intensidade merecem orientação individual quando há comunicação residual, hipertensão pulmonar ou risco de embolia."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que faça uma CIA estrutural fechar mais rápido. Quando há indicação de correção, a escolha entre acompanhamento, dispositivo por cateter ou cirurgia depende de repercussão e anatomia.",
+          "Não inicie diurético, remédio para pressão pulmonar, antiarrítmico, antiagregante, anticoagulante ou oxigênio por conta própria. Esses tratamentos se destinam a situações específicas e podem ser inadequados ou perigosos sem diagnóstico completo.",
+          "Após fechamento por dispositivo, pode haver prescrição temporária de antiagregante. Use exatamente o produto, apresentação e horário do centro; não dobre dose esquecida, não interrompa antes do retorno e avise antes de cirurgia ou procedimento dentário.",
+          "Antibiótico preventivo para endocardite não é rotina em toda CIA. Pode ser indicado por período limitado após fechamento com material ou em situações residuais selecionadas; confirme com a cardiologia em vez de reutilizar receita antiga.",
+          "Se a criança já usa medicamento cardíaco, informe vômitos persistentes, pouca urina, sangramento incomum, manchas roxas, desmaio, palpitação ou piora da respiração. Não compense dose vomitada ou esquecida sem orientação.",
+          "Descongestionantes, estimulantes, energéticos, fitoterápicos e suplementos podem alterar frequência ou pressão e interagir com o tratamento. Confirme segurança com pediatra/cardiologista, sobretudo se houver arritmia ou hipertensão pulmonar."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "A CIA, por si só, não exige dieta, fórmula, vitamina ou suplemento especial. Ofereça alimentação adequada à idade e acompanhe peso e crescimento nas consultas.",
+          "Mantenha aleitamento materno quando possível. Se o bebê cansa, sua ou respira rápido durante a mamada, faça pausas e procure avaliação; não prolongue nem force a alimentação para cumprir um volume.",
+          "Refeições menores podem ser melhor toleradas por criança sintomática, mas concentração de fórmula, calorias extras, sal e volume de líquidos devem seguir plano individual. Não faça restrição nem sobrecarga de líquidos por conta própria.",
+          "Observe mamadas muito demoradas, interrupções repetidas, vômitos frequentes, recusa alimentar e ganho de peso insuficiente. Esses achados não provam que a CIA é ‘grave’, mas justificam reavaliação de insuficiência cardíaca e outras causas.",
+          "Após cirurgia ou cateterismo, siga o plano de hidratação e alimentação do serviço. Vômitos persistentes, dificuldade para beber, pouca urina ou sangramento com uso de antiagregante exigem contato antecipado.",
+          "Se houver falta de ar importante, lábios azulados, desmaio, confusão ou dificuldade para acordar, não force alimento, líquido ou medicamento pela boca; procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Falta de ar intensa ou em repouso, respiração com esforço, dificuldade para falar ou mamar, lábios/rosto azulados ou palidez acinzentada exige atendimento imediato; acione o SAMU 192 se houver instabilidade ou transporte inseguro.",
+          "Desmaio, dificuldade para acordar, confusão, convulsão, fraqueza súbita ou resposta muito reduzida é emergência e não deve ser atribuída apenas à CIA.",
+          "Dor forte no peito, palpitação muito rápida ou irregular que não cede, palpitação com falta de ar, tontura intensa ou desmaio precisa de avaliação urgente por possível arritmia ou outra complicação.",
+          "Em bebê: respiração cada vez mais rápida, suor/frio durante mamadas, incapacidade de alimentar, prostração, menos fraldas molhadas ou piora rápida pode indicar insuficiência cardíaca, infecção ou outra doença e requer urgência.",
+          "Após cateterismo, sangramento que não para com a orientação recebida, aumento rápido de inchaço, dor intensa, pé/mão fria ou pálida, perda de movimento ou sensibilidade exige retorno imediato ao serviço.",
+          "Após cirurgia ou fechamento por dispositivo, falta de ar nova, desmaio, dor torácica intensa, febre com prostração, secreção/vermelhidão progressiva da ferida ou piora rápida exige contato urgente ou pronto atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o único registro é ‘Comunicação interatrial grave’, marque cardiologia pediátrica para confirmar subtipo, shunt, câmaras direitas, pressão pulmonar e lesões associadas. Criança estável não deve ser declarada em emergência só pelo adjetivo, mas também não deve ficar sem caracterização objetiva.",
+          "Em CIA secundum com repercussão hemodinâmica, o fechamento costuma ser planejado na idade pré-escolar; sintomas, doença pulmonar, crescimento ruim, pressão pulmonar ou outra lesão podem antecipar a decisão. O prazo é individual e não deve ser adiado até aparecer sintoma.",
+          "Procure avaliação no mesmo dia se surgir cansaço importante, respiração mais rápida, piora de mamadas, suor excessivo, inchaço, palpitação persistente, tontura, queda de rendimento ou ganho de peso insuficiente, mesmo sem sinal de emergência.",
+          "Após fechamento, compareça aos controles precoces definidos pelo centro e mantenha seguimento periódico conforme shunt residual, dilatação, pressão pulmonar, ritmo e tipo de reparo. Melhora aparente não substitui ECG/ecocardiograma programados.",
+          "Antecipe retorno após dose esquecida repetidamente, sangramento em uso de antiagregante, infecção de ferida, intolerância ao medicamento ou dúvida sobre antibiótico antes de procedimento; não ajuste o esquema em casa.",
+          "Na adolescência, revise esporte, mergulho, substâncias estimulantes, saúde reprodutiva e transição para cardiologia de cardiopatias congênitas quando indicada. Entregue ao adolescente um resumo do subtipo e do reparo realizado."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Forame oval patente é comum no recém-nascido e não deve ser confundido automaticamente com CIA importante. Mesmo CIA grande isolada costuma não causar colapso neonatal; cianose, prostração, respiração difícil ou mamada impossível exige urgência e investigação de outra/mais complexa cardiopatia, doença pulmonar, infecção ou insuficiência cardíaca.",
+        "3a5m": "Observe mamadas, suor, respiração, fraldas e ganho de peso. Sintomas nesta idade são incomuns na CIA isolada e pedem ecocardiograma detalhado, avaliação de pressão pulmonar, drenagem venosa pulmonar, outras lesões, prematuridade e doença pulmonar.",
+        "6a11m": "Acompanhe crescimento, desenvolvimento, tolerância a mamadas e brincadeiras e infecções respiratórias. Não iniciar remédio nem antecipar procedimento só porque o laudo usa ‘grande/grave’; confirmar repercussão e plano com cardiologia pediátrica.",
+        "1a": "A criança pode não verbalizar falta de ar ou palpitação. Observe pausas frequentes, suor, irritabilidade, respiração rápida, cansaço para andar/brincar e baixo ganho de peso; piora progressiva merece retorno antecipado.",
+        "2a5": "É a faixa em que frequentemente se planeja fechamento da CIA secundum com sobrecarga direita. Confirmar anatomia e método; manter escola e brincadeira conforme liberação, com restrição temporária individual após procedimento.",
+        "6a11": "Investigue cansaço em corrida/escadas, palpitação, dor torácica, tontura, desmaio e queda de rendimento. Diagnóstico tardio ainda pode ser assintomático; a decisão depende da repercussão, não de a criança conseguir acompanhar colegas.",
+        "12a17": "Inclua o adolescente na revisão do subtipo, reparo, medicamentos e sinais de arritmia/hipertensão pulmonar. Discuta esporte, mergulho, energéticos, tabaco/vape, contracepção/gestação futura e transição de cuidado sem presumir cura pelo fechamento.",
+        "unknown": "Confirmar idade, subtipo, direção/magnitude do shunt, dilatação direita, pressão pulmonar, sintomas, crescimento, comorbidades, reparo prévio e medicações. Sem esses dados, ‘grave’ não autoriza prognóstico, urgência, tratamento ou alta."
+      },
+      "refs": [
+        {
+          "id": "pais236_op2199_1",
+          "name": "Clinical Practice Algorithm for the Follow-up of Unrepaired and Repaired Secundum Atrial Septal Defects",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2022/03/08/19/34/Clinical-Practice-Algorithm-For-the-Follow-up-of-Unrepaired-and-Repaired-SASD"
+        },
+        {
+          "id": "pais236_op2199_2",
+          "name": "CHD Clinical Practice Algorithm: PFO/Atrial Septal Defect and Atrial Septal Defect Post-Intervention",
+          "url": "https://www.acc.org/-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Latest-in-Cardiology/Articles/2022/ASD-Algorithm.pdf"
+        },
+        {
+          "id": "pais236_op2199_3",
+          "name": "Atrial Septal Defect",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/atrial-septal-defect-asd"
+        },
+        {
+          "id": "pais236_op2199_4",
+          "name": "Indian guidelines for indications and timing of intervention for common congenital heart diseases: Revised and updated consensus statement",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6716301/"
+        },
+        {
+          "id": "pais236_op2199_5",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

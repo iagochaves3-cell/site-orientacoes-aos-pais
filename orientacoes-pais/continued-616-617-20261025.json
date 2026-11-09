@@ -1,0 +1,150 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T19:37:36.828Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "ext_sapinho",
+      "label": "Candidíase oral (monilíase / sapinho)",
+      "entity": "Candidíase oral (sapinho)",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Candidíase oral confirmada clinicamente; língua branca isolada após leite não confirma sapinho.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "É uma infecção por fungos Candida, diferente de herpes, enterovírus e aftas recorrentes.",
+          "Sapinho pode causar placas claras aderidas na boca e desconforto para mamar. Uma língua branca apenas após a mamada pode ser resíduo de leite. Não raspe nem esfregue as placas para tentar confirmar ou remover.",
+          "Observe mamadas, dor, urina e estado geral. Avise se também houver assadura importante; não aplique na boca produtos feitos para a pele."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos e higienize utensílios de alimentação e chupetas conforme orientação da equipe e do fabricante, respeitando idade e condições do bebê. Não compartilhe esses objetos.",
+          "Se a pessoa que amamenta tiver dor ou vermelhidão nos mamilos, peça avaliação da dupla e da pega. Nem toda dor no peito é candidíase; não comece tratamento de ambos automaticamente."
+        ],
+        "MEDICAMENTOS": [
+          "Se foi prescrito antifúngico, confirme o produto, a forma de aplicar e o tempo de uso para esta idade. Não troque apresentações, não repita receitas antigas nem coloque gel no fundo da boca do bebê. Não passe gel no mamilo para dar o remédio ao bebê.",
+          "Não use receitas caseiras ou pomadas de pele dentro da boca. Informe antibióticos e corticoides inalatórios; não suspenda tratamento prescrito por conta própria.",
+          "Não inicie antibiótico nem corticoide por conta própria. Se usa corticoide inalatório, confira com a equipe a técnica e a higiene da boca após o uso, conforme a idade."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha aleitamento ou alimentação habitual adequada à idade, conforme tolerado. Dor que atrapalha a mamada precisa de ajuda; não limite o tempo de mamar por uma regra geral para tratar sapinho.",
+          "Não dilua fórmula nem introduza sucos, iogurte ou suplementos como tratamento automático. Se a criança não consegue mamar ou beber, procure atendimento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se houver prostração, dificuldade para respirar ou engolir, incapacidade de mamar ou beber, boca muito seca ou redução importante da urina.",
+          "Bebê pequeno com febre ou aparência doente precisa de avaliação rápida; não atribua isso apenas ao sapinho. Em criança com imunidade baixa, siga o plano de urgência da equipe diante de febre ou piora."
+        ],
+        "QUANDO REAVALIAR": [
+          "Solicite avaliação para confirmar suspeita, especialmente em menores de quatro meses. Antecipe o retorno se houver sangue na boca, febre, piora da dor ou redução das mamadas.",
+          "Se não houver melhora durante o tratamento ou as placas persistirem após cerca de uma semana, procure a equipe. Recorrência ou candidíase em criança maior exige investigar fatores associados, sem presumir automaticamente uma doença da imunidade."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Avaliação médica antes de qualquer produto; febre, piora ou dificuldade para mamar exigem atendimento rápido.",
+        "3a5m": "Não usar gel por conta própria; confirme segurança da apresentação e observe mamadas.",
+        "6a11m": "Mantenha alimentação apropriada e higiene dos utensílios; não acrescente alimentos como remédio.",
+        "1a": "Acompanhe ingestão e urina; não raspe placas nem force alimentação dolorosa.",
+        "2a5": "Persistência ou repetição deve ser avaliada; mantenha higiene oral suave adequada à idade.",
+        "6a11": "Informe uso de inaladores e antibióticos; revisão não significa suspender tratamento necessário.",
+        "12a17": "Lesão persistente ou recorrente requer avaliação; candidíase oral não permite inferir transmissão sexual.",
+        "unknown": "Confirme idade, diagnóstico e tratamento; sinais de perigo têm prioridade."
+      },
+      "refs": [
+        {
+          "id": "pais216_op616_1",
+          "name": "Oral thrush",
+          "url": "https://www.nhs.uk/conditions/oral-thrush-mouth-thrush/"
+        },
+        {
+          "id": "pais216_op616_2",
+          "name": "Thrush symptom checker",
+          "url": "https://www.healthychildren.org/English/tips-tools/symptom-checker/Pages/symptomviewer.aspx?symptom=Thrush"
+        },
+        {
+          "id": "pais216_op616_3",
+          "name": "Thrush and Other Candida Infections",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Thrush-and-Other-Candida-Infections.aspx"
+        },
+        {
+          "id": "pais216_op616_4",
+          "name": "Oral Thrush",
+          "url": "https://kidshealth.org/en/parents/thrush.html"
+        },
+        {
+          "id": "pais216_op616_5",
+          "name": "Daktarin Oral Gel: SmPC",
+          "url": "https://www.medicines.org.uk/emc/product/14746/smpc"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pdf1500_199",
+      "label": "Candidíase oral (Sapo)",
+      "entity": "Candidíase oral (sapinho)",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Candidíase oral confirmada clinicamente; língua branca isolada após leite não confirma sapinho.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Sapinho pode causar placas claras aderidas na boca e desconforto para mamar. Uma língua branca apenas após a mamada pode ser resíduo de leite. Não raspe nem esfregue as placas para tentar confirmar ou remover.",
+          "Observe mamadas, dor, urina e estado geral. Avise se também houver assadura importante; não aplique na boca produtos feitos para a pele."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos e higienize utensílios de alimentação e chupetas conforme orientação da equipe e do fabricante, respeitando idade e condições do bebê. Não compartilhe esses objetos.",
+          "Se a pessoa que amamenta tiver dor ou vermelhidão nos mamilos, peça avaliação da dupla e da pega. Nem toda dor no peito é candidíase; não comece tratamento de ambos automaticamente."
+        ],
+        "MEDICAMENTOS": [
+          "Se foi prescrito antifúngico, confirme o produto, a forma de aplicar e o tempo de uso para esta idade. Não troque apresentações, não repita receitas antigas nem coloque gel no fundo da boca do bebê. Não passe gel no mamilo para dar o remédio ao bebê.",
+          "Não use receitas caseiras ou pomadas de pele dentro da boca. Informe antibióticos e corticoides inalatórios; não suspenda tratamento prescrito por conta própria."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha aleitamento ou alimentação habitual adequada à idade, conforme tolerado. Dor que atrapalha a mamada precisa de ajuda; não limite o tempo de mamar por uma regra geral para tratar sapinho.",
+          "Não dilua fórmula nem introduza sucos, iogurte ou suplementos como tratamento automático. Se a criança não consegue mamar ou beber, procure atendimento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se houver prostração, dificuldade para respirar ou engolir, incapacidade de mamar ou beber, boca muito seca ou redução importante da urina.",
+          "Bebê pequeno com febre ou aparência doente precisa de avaliação rápida; não atribua isso apenas ao sapinho. Em criança com imunidade baixa, siga o plano de urgência da equipe diante de febre ou piora."
+        ],
+        "QUANDO REAVALIAR": [
+          "Solicite avaliação para confirmar suspeita, especialmente em menores de quatro meses. Antecipe o retorno se houver sangue na boca, febre, piora da dor ou redução das mamadas.",
+          "Se não houver melhora durante o tratamento ou as placas persistirem após cerca de uma semana, procure a equipe. Recorrência ou candidíase em criança maior exige investigar fatores associados, sem presumir automaticamente uma doença da imunidade."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Avaliação médica antes de qualquer produto; febre, piora ou dificuldade para mamar exigem atendimento rápido.",
+        "3a5m": "Não usar gel por conta própria; confirme segurança da apresentação e observe mamadas.",
+        "6a11m": "Mantenha alimentação apropriada e higiene dos utensílios; não acrescente alimentos como remédio.",
+        "1a": "Acompanhe ingestão e urina; não raspe placas nem force alimentação dolorosa.",
+        "2a5": "Persistência ou repetição deve ser avaliada; mantenha higiene oral suave adequada à idade.",
+        "6a11": "Informe uso de inaladores e antibióticos; revisão não significa suspender tratamento necessário.",
+        "12a17": "Lesão persistente ou recorrente requer avaliação; candidíase oral não permite inferir transmissão sexual.",
+        "unknown": "Confirme idade, diagnóstico e tratamento; sinais de perigo têm prioridade."
+      },
+      "refs": [
+        {
+          "id": "pais216_op617_1",
+          "name": "Oral thrush",
+          "url": "https://www.nhs.uk/conditions/oral-thrush-mouth-thrush/"
+        },
+        {
+          "id": "pais216_op617_2",
+          "name": "Thrush symptom checker",
+          "url": "https://www.healthychildren.org/English/tips-tools/symptom-checker/Pages/symptomviewer.aspx?symptom=Thrush"
+        },
+        {
+          "id": "pais216_op617_3",
+          "name": "Thrush and Other Candida Infections",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Thrush-and-Other-Candida-Infections.aspx"
+        },
+        {
+          "id": "pais216_op617_4",
+          "name": "Oral Thrush",
+          "url": "https://kidshealth.org/en/parents/thrush.html"
+        },
+        {
+          "id": "pais216_op617_5",
+          "name": "Daktarin Oral Gel: SmPC",
+          "url": "https://www.medicines.org.uk/emc/product/14746/smpc"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

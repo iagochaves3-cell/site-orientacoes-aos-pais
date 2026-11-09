@@ -1,0 +1,67 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T17:57:38.113Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pdf1500_116",
+      "label": "Ascaridíase",
+      "entity": "Ascaridíase",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Infecção por Ascaris, não diagnosticar toda dor abdominal como verminose.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Ascaridíase é a infecção por um verme conhecido como lombriga. Pode causar poucos sintomas, mas precisa de diagnóstico e tratamento orientados; dor abdominal também pode ter outras causas.",
+          "Siga a coleta de fezes solicitada. Se notar verme nas fezes ou no vômito, informe a equipe e peça orientação para identificação segura; não atrase socorro para coletar material."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos com água e sabão após usar o banheiro, trocar fraldas e brincar na terra, e antes de comer ou preparar alimentos. Ajude as crianças pequenas.",
+          "Use água segura e lave bem frutas e verduras; descasque ou cozinhe quando indicado. Evite contato com solo ou água contaminados por fezes e descarte as fezes em instalação sanitária adequada."
+        ],
+        "MEDICAMENTOS": [
+          "O tratamento usa antiparasitário escolhido pela equipe conforme idade, situação clínica e possíveis complicações. Esta ficha não escolhe fármaco, dose nem repetição.",
+          "Cumpra a receita e avise se vomitar ou não conseguir tomar. Não use sobras, receitas de outra criança, purgantes ou misturas caseiras para tentar expulsar vermes. Dor intensa com vômitos exige avaliação, não nova dose em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está bem e tolera alimentação, mantenha refeições e líquidos adequados à idade. Não faça jejum para “matar o verme”.",
+          "Observe apetite e crescimento. Vômitos persistentes ou dificuldade para beber precisam avaliação; não force alimentação em criança com dor abdominal forte e barriga distendida."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento com dor abdominal forte ou crescente, barriga muito distendida, vômitos repetidos ou de cor verde-escura, sangue nas fezes ou incapacidade de beber. Pode haver obstrução ou outra doença que precisa de avaliação urgente.",
+          "Dificuldade para respirar, prostração intensa, desmaio ou dificuldade para acordar exigem socorro imediato; acione 192 se houver instabilidade. Não atribua esses sinais apenas à verminose."
+        ],
+        "QUANDO REAVALIAR": [
+          "Combine retorno para conferir resposta ao tratamento, resultados solicitados e crescimento. Informe sintomas persistentes ou novos, perda de peso e dificuldade para completar a receita.",
+          "A equipe decide se é necessário repetir exames ou tratamento. Mantenha higiene e água/alimentos seguros após melhorar, pois tratar a infecção não impede nova exposição."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebê pequeno com vômitos, distensão ou recusa de mamadas precisa avaliação imediata; não dê vermífugo por conta própria.",
+        "3a5m": "Confirme o diagnóstico e a prescrição pediátrica; não use dose de criança maior. Observe mamadas e urina.",
+        "6a11m": "Mantenha alimentação apropriada à idade e higiene das mãos dos cuidadores. Não atribua toda alteração das fezes a vermes.",
+        "1a": "Supervisione mãos levadas à boca após brincar e ajude na higiene. Medicamento apenas conforme prescrição para esta criança.",
+        "2a5": "Ensine lavagem das mãos com supervisão. Avise sobre dor, vômitos ou perda do apetite; não use purgantes.",
+        "6a11": "Reforce higiene antes das refeições e após banheiro. Acompanhe peso, apetite e cumprimento da receita.",
+        "12a17": "Combine o tratamento e o retorno; mantenha acesso à água segura e informe sintomas persistentes sem constrangimento.",
+        "unknown": "Confirmar idade e plano individual; sinais de obstrução ou doença importante exigem atendimento."
+      },
+      "refs": [
+        {
+          "id": "pais192_op567_1",
+          "name": "About Ascariasis",
+          "url": "https://www.cdc.gov/sth/about/ascariasis.html"
+        },
+        {
+          "id": "pais192_op567_2",
+          "name": "Ascariasis — Symptoms and causes",
+          "url": "https://www.mayoclinic.org/diseases-conditions/ascariasis/symptoms-causes/syc-20369593"
+        },
+        {
+          "id": "pais192_op567_3",
+          "name": "Vomiting",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

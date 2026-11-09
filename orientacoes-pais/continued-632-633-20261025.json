@@ -1,0 +1,142 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T20:01:25.768Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_28dfc9ec153b87b3",
+      "label": "Mononucleose infecciosa — registro no PPS",
+      "entity": "Mononucleose infecciosa",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Mononucleose é geralmente causada por EBV; o rótulo geral não confirma a etiologia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Mononucleose pode provocar dor de garganta, febre, gânglios aumentados e cansaço. O vírus Epstein-Barr é a causa mais comum, mas há outras causas; confirme a avaliação da equipe.",
+          "A melhora costuma levar duas a quatro semanas, e a fadiga pode durar mais. Permita repouso conforme o cansaço e organize retorno gradual às rotinas, sem obrigar a criança a acompanhar o ritmo habitual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite esportes de contato, brincadeiras com impacto, quedas, levantamento de peso e esforço intenso até liberação médica. O baço pode permanecer aumentado mesmo quando a febre e o cansaço melhoram; sentir-se bem não libera esporte.",
+          "Não aperte a barriga para tentar verificar o baço. A volta à escola pode ocorrer quando estiver bem para participar, mas isso não significa liberação para educação física.",
+          "Não compartilhe copos, garrafas, talheres ou escova de dentes; evite beijo e contato com saliva. O vírus pode continuar presente na saliva após a melhora, sem que isso exija meses de afastamento escolar."
+        ],
+        "MEDICAMENTOS": [
+          "Antibióticos não tratam a mononucleose viral. Amoxicilina e ampicilina podem causar manchas durante a doença; não inicie sobras de antibiótico para a garganta. Se já estiver tomando medicamento, informe à equipe e confirme a indicação.",
+          "Use somente remédio para dor ou febre já orientado para a idade. Não acrescente corticoide, antiviral ou aspirina por conta própria. Se aparecer erupção após remédio, procure orientação; não conclua sozinho se é alergia ou apenas manifestação da infecção."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça pequenas quantidades de líquidos e alimentos macios conforme a aceitação se a garganta doer. Mantenha mamadas habituais nos bebês; não force alimentação se há dificuldade para engolir.",
+          "Pouca urina, recusa de líquidos ou vômitos repetidos exigem reavaliação. Não deixe o cansaço impedir a observação da hidratação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte ou súbita, sobretudo com palidez, tontura ou desmaio, pode indicar complicação no baço e exige emergência. Não espere melhorar com repouso ou analgésico.",
+          "Incapacidade de engolir saliva, baba, dificuldade importante para respirar, confusão ou dificuldade de despertar exige atendimento imediato; acione 192 se necessário."
+        ],
+        "QUANDO REAVALIAR": [
+          "Confirme retorno para avaliar recuperação e decidir quando voltar a esforço e esportes. Não use um prazo fixo ou a resolução da febre como liberação automática.",
+          "Procure antes se a febre persistir ou voltar, a garganta piorar, houver dor abdominal, pele ou olhos amarelados, manchas após medicamento ou cansaço que impede alimentação e atividades básicas.",
+          "Se a recuperação não progride, volte à equipe para reavaliar diagnóstico e complicações; não atribua indefinidamente todos os sintomas à mononucleose."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Febre ou recusa de mamadas no bebê pequeno exige avaliação pronta; não atribuir a um diagnóstico de mononucleose sem revisão.",
+        "3a5m": "Priorize mamadas e avaliação da febre/estado geral; cuidado domiciliar depende da avaliação da equipe.",
+        "6a11m": "Mantenha leite habitual; incapacidade de engolir ou pouca urina requer avaliação.",
+        "1a": "Evite brincadeiras com risco de impacto abdominal e respeite o cansaço.",
+        "2a5": "Adapte brincadeiras e avise creche/escola sobre restrição de impacto até liberação.",
+        "6a11": "Retorno à aula não libera educação física, jogos de contato ou esforço.",
+        "12a17": "Esporte e musculação precisam de liberação explícita; não compartilhar garrafas e escovas ou minimizar cansaço.",
+        "unknown": "Confirme idade, hidratação, avaliação do baço e plano de retorno."
+      },
+      "refs": [
+        {
+          "id": "pais223_op632_1",
+          "name": "About Infectious Mononucleosis",
+          "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+        },
+        {
+          "id": "pais223_op632_2",
+          "name": "Glandular fever",
+          "url": "https://www.nhs.uk/conditions/glandular-fever/"
+        },
+        {
+          "id": "pais223_op632_3",
+          "name": "Mononucleosis (Mono)",
+          "url": "https://kidshealth.org/en/parents/mono.html"
+        },
+        {
+          "id": "pais223_op632_4",
+          "name": "Glandular fever: children & teenagers",
+          "url": "https://raisingchildren.net.au/guides/a-z-health-reference/glandular-fever"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_d2e4cdc58c3bc512",
+      "label": "Mononucleose Infecciosa (Vírus Epstein-Barr) — registro no PPS",
+      "entity": "Mononucleose infecciosa",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Mononucleose é geralmente causada por EBV; o rótulo geral não confirma a etiologia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Esta ficha se refere à mononucleose atribuída ao vírus Epstein-Barr pela equipe. Pode causar dor de garganta, febre, gânglios aumentados e cansaço; o nome no catálogo sozinho não comprova o resultado de exames.",
+          "A melhora costuma levar duas a quatro semanas, e a fadiga pode durar mais. Permita repouso conforme o cansaço e organize retorno gradual às rotinas, sem obrigar a criança a acompanhar o ritmo habitual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite esportes de contato, brincadeiras com impacto, quedas, levantamento de peso e esforço intenso até liberação médica. O baço pode permanecer aumentado mesmo quando a febre e o cansaço melhoram; sentir-se bem não libera esporte.",
+          "Não aperte a barriga para tentar verificar o baço. A volta à escola pode ocorrer quando estiver bem para participar, mas isso não significa liberação para educação física.",
+          "Não compartilhe copos, garrafas, talheres ou escova de dentes; evite beijo e contato com saliva. O vírus pode continuar presente na saliva após a melhora, sem que isso exija meses de afastamento escolar."
+        ],
+        "MEDICAMENTOS": [
+          "Antibióticos não tratam a mononucleose viral. Amoxicilina e ampicilina podem causar manchas durante a doença; não inicie sobras de antibiótico para a garganta. Se já estiver tomando medicamento, informe à equipe e confirme a indicação.",
+          "Use somente remédio para dor ou febre já orientado para a idade. Não acrescente corticoide, antiviral ou aspirina por conta própria. Se aparecer erupção após remédio, procure orientação; não conclua sozinho se é alergia ou apenas manifestação da infecção."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça pequenas quantidades de líquidos e alimentos macios conforme a aceitação se a garganta doer. Mantenha mamadas habituais nos bebês; não force alimentação se há dificuldade para engolir.",
+          "Pouca urina, recusa de líquidos ou vômitos repetidos exigem reavaliação. Não deixe o cansaço impedir a observação da hidratação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte ou súbita, sobretudo com palidez, tontura ou desmaio, pode indicar complicação no baço e exige emergência. Não espere melhorar com repouso ou analgésico.",
+          "Incapacidade de engolir saliva, baba, dificuldade importante para respirar, confusão ou dificuldade de despertar exige atendimento imediato; acione 192 se necessário."
+        ],
+        "QUANDO REAVALIAR": [
+          "Confirme retorno para avaliar recuperação e decidir quando voltar a esforço e esportes. Não use um prazo fixo ou a resolução da febre como liberação automática.",
+          "Procure antes se a febre persistir ou voltar, a garganta piorar, houver dor abdominal, pele ou olhos amarelados, manchas após medicamento ou cansaço que impede alimentação e atividades básicas.",
+          "Se a recuperação não progride, volte à equipe para reavaliar diagnóstico e complicações; não atribua indefinidamente todos os sintomas à mononucleose."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Febre ou recusa de mamadas no bebê pequeno exige avaliação pronta; não atribuir a um diagnóstico de mononucleose sem revisão.",
+        "3a5m": "Priorize mamadas e avaliação da febre/estado geral; cuidado domiciliar depende da avaliação da equipe.",
+        "6a11m": "Mantenha leite habitual; incapacidade de engolir ou pouca urina requer avaliação.",
+        "1a": "Evite brincadeiras com risco de impacto abdominal e respeite o cansaço.",
+        "2a5": "Adapte brincadeiras e avise creche/escola sobre restrição de impacto até liberação.",
+        "6a11": "Retorno à aula não libera educação física, jogos de contato ou esforço.",
+        "12a17": "Esporte e musculação precisam de liberação explícita; não compartilhar garrafas e escovas ou minimizar cansaço.",
+        "unknown": "Confirme idade, hidratação, avaliação do baço e plano de retorno."
+      },
+      "refs": [
+        {
+          "id": "pais223_op633_1",
+          "name": "About Infectious Mononucleosis",
+          "url": "https://www.cdc.gov/epstein-barr/about/mononucleosis.html"
+        },
+        {
+          "id": "pais223_op633_2",
+          "name": "Glandular fever",
+          "url": "https://www.nhs.uk/conditions/glandular-fever/"
+        },
+        {
+          "id": "pais223_op633_3",
+          "name": "Mononucleosis (Mono)",
+          "url": "https://kidshealth.org/en/parents/mono.html"
+        },
+        {
+          "id": "pais223_op633_4",
+          "name": "Glandular fever: children & teenagers",
+          "url": "https://raisingchildren.net.au/guides/a-z-health-reference/glandular-fever"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

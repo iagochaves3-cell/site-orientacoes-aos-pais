@@ -1,0 +1,67 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:32:49.592Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "ext_versicolor",
+      "label": "Pitiríase versicolor",
+      "entity": "Pitiríase versicolor por crescimento excessivo de Malassezia",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Pitiríase versicolor não é pitiríase rósea, vitiligo ou dermatofitose contagiosa. Não diagnosticar qualquer mancha clara como pano branco.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pitiríase versicolor, também chamada pano branco, ocorre quando uma levedura que normalmente vive na pele cresce em excesso. Não é sinal de falta de higiene nem passa de uma pessoa para outra.",
+          "Confirme o diagnóstico: outras causas de manchas claras ou escuras podem parecer iguais. A equipe pode examinar a pele e solicitar raspado quando houver dúvida."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Faça higiene suave, sem esfregar para tirar a mancha. Não use clareadores, receitas irritantes ou bronzeamento para tentar igualar a cor.",
+          "Proteja-se do sol com sombra e roupas; use protetor adequado à idade conforme orientação. Não é preciso afastar da escola ou tratar contatos por medo de contágio desta condição confirmada."
+        ],
+        "MEDICAMENTOS": [
+          "O tratamento costuma ser aplicado na pele. Use somente o produto indicado para a idade e região, seguindo modo de uso e tempo de contato da receita; esta ficha não define concentração ou frequência.",
+          "Comprimidos podem ser necessários em situações selecionadas, mas dependem de prescrição e avaliação de riscos e interações. Não tome antifúngico por conta própria nem repita o tratamento só porque a cor ainda não normalizou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais adequados à idade. Não é preciso retirar alimentos com fermento: a levedura da pele não significa alergia ou intolerância alimentar.",
+          "Dietas restritivas e suplementos não substituem o tratamento orientado."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Febre com criança abatida, dor forte, pus, bolhas extensas ou feridas nas mucosas não são esperados de pitiríase versicolor simples. Procure avaliação urgente, em vez de atribuir tudo às manchas.",
+          "Se um produto causar falta de ar, inchaço da língua ou garganta, desmaio ou dificuldade para acordar, procure socorro imediato; acione 192 se houver instabilidade."
+        ],
+        "QUANDO REAVALIAR": [
+          "A cor pode levar semanas ou meses para voltar ao habitual, mesmo após controlar a levedura. Cor residual isolada não prova falha do tratamento.",
+          "Retorne se aparecerem novas áreas, descamação ou coceira persistentes, irritação pelo produto ou dúvida sobre a resposta. Recorrências são possíveis; combine prevenção individual com a equipe, sem esquema automático para a família."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, confirme a causa das manchas antes de aplicar produto; febre ou recusa de mamadas exige avaliação imediata.",
+        "3a5m": "Evite produtos de adulto; mantenha proteção solar por sombra e roupa e peça orientação pediátrica.",
+        "6a11m": "Não aplique produtos perto de olhos ou boca; confirme a indicação para a idade.",
+        "1a": "Um adulto deve administrar o tratamento e guardar produtos fora do alcance.",
+        "2a5": "Explique sem culpa que a condição confirmada não é contagiosa nem sujeira.",
+        "6a11": "Evite constrangimento na escola e bronzeamento para disfarçar manchas.",
+        "12a17": "Inclua o adolescente no plano e esclareça interações e possibilidade de gestação antes de qualquer medicamento oral.",
+        "unknown": "Confirme idade, localização e diagnóstico antes de personalizar o tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais200_op582_1",
+          "name": "Pityriasis versicolor",
+          "url": "https://www.nhs.uk/conditions/pityriasis-versicolor/"
+        },
+        {
+          "id": "pais200_op582_2",
+          "name": "Tinea versicolor: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/tinea-versicolor-treatment"
+        },
+        {
+          "id": "pais200_op582_3",
+          "name": "Pityriasis versicolor",
+          "url": "https://www.bad.org.uk/pils/pityriasis-versicolor"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

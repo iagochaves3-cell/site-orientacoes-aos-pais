@@ -1,0 +1,104 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T15:54:37.430Z",
+  "records": [
+    {
+      "jobId": "OP-3077",
+      "specific": true,
+      "key": "pps_catalog_74eb25427769d30f",
+      "label": "Bloqueio atrioventricular de primeiro grau — registro no PPS",
+      "entity": "Atraso da condução elétrica entre átrios e ventrículos, documentado no eletrocardiograma por intervalo PR acima do limite esperado para a idade e a frequência cardíaca, com cada onda P ainda conduzida a um complexo QRS; achado que pode ser fisiológico, transitório, medicamentoso ou associado a doença cardíaca/sistêmica e que não equivale a bloqueio avançado",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ECG_FINDING_REQUIRING_AGE_RATE_AND_CONTEXT_INTERPRETATION\",\"normalized_entity\":\"Bloqueio atrioventricular de primeiro grau (prolongamento do intervalo PR) em criança ou adolescente\",\"assessment\":\"O termo é válido, mas o nome pode causar a impressão errada de que batimentos estão sendo interrompidos. No primeiro grau, o estímulo elétrico atrial chega aos ventrículos em todos os ciclos observados; o que está prolongado é o tempo PR entre a onda P e o início do QRS. Em pediatria, o limite normal muda com idade e frequência cardíaca, e a medida automática do aparelho deve ser conferida no traçado e no contexto clínico. O sufixo ‘registro no PPS’ é administrativo e não altera a entidade.\",\"ecg_boundary\":\"Um PR prolongado isolado não informa sozinho onde ocorre o atraso, sua causa, duração ou risco. Não é sinônimo de bradicardia, pulso lento, pausa, QRS perdido, Mobitz I/II, bloqueio 2:1, bloqueio avançado ou completo. Comparar ECG anterior, repetir traçado quando necessário e correlacionar sintomas, exame, QRS, resposta ao exercício e monitorização são decisões clínicas, não domiciliares.\",\"physiologic_boundary\":\"Em criança/adolescente sem sintomas, sem cardiopatia, sem história familiar preocupante e com restante do ECG normal, o achado pode ser variação benigna. Aumento do tônus vagal durante repouso, sono e treinamento pode prolongar a condução; em atletas, primeiro grau assintomático em repouso pode ser adaptação. Prolongamento muito marcado, persistência com exercício leve, alteração do QRS, sintomas ou antecedentes cardíacos exigem investigação e não devem ser atribuídos automaticamente ao esporte.\",\"causes_and_context\":\"As possibilidades incluem variação fisiológica/vagal; miocardite ou outra inflamação/infecção do coração; febre reumática no contexto clínico adequado; distúrbios de potássio e outras alterações metabólicas; toxicidade ou efeito de medicamentos que reduzem a condução; cardiopatia congênita; período após cirurgia/procedimento cardíaco; e doença do sistema de condução, inclusive condições neuromusculares/genéticas selecionadas. Doença de Lyme é contexto epidemiológico específico e não deve ser presumida no Brasil; quando compatível, PR muito prolongado pode progredir rapidamente e requer monitorização hospitalar.\",\"progression_boundary\":\"Primeiro grau isolado não significa que haverá progressão. A preocupação aumenta se o ECG passa a mostrar ondas P não conduzidas, bloqueio de segundo/terceiro grau, QRS largo/novo, bradicardia importante, piora durante exercício, PR progressivamente maior ou se surgem síncope, pré-síncope, intolerância ao esforço, palpitação, dor torácica, dispneia, edema ou sinais de baixo débito. Essa distinção depende de avaliação médica e, quando indicada, ECG seriado, monitorização, ecocardiograma ou teste de esforço.\",\"treatment_boundary\":\"Não existe medicamento doméstico para ‘encurtar o PR’. Primeiro grau assintomático isolado não é indicação de marca-passo permanente nas recomendações pediátricas PACES. Tratamento, quando necessário, é dirigido à causa e aos sintomas; não se deve interromper, iniciar, repetir ou ajustar medicamento, eletrólito, antibiótico, anti-inflamatório ou suplemento por conta própria. Marca-passo é decisão especializada para situações diferentes, sobretudo bloqueio avançado/sintomático ou condições específicas.\",\"pediatric_scope\":\"Aplica-se do período neonatal à adolescência, sempre com limites de PR por idade e frequência. Em bebês, baixo débito pode aparecer como mamada fraca, suor, cansaço, respiração rápida, palidez, pouca reatividade ou poucas fraldas. Em crianças maiores, queda de disposição, tontura, síncope e intolerância ao exercício ganham importância. Em adolescentes atletas, o contexto de treinamento é relevante, mas não neutraliza sintomas, história familiar ou alteração marcada/persistente.\",\"critical_context_to_confirm\":[\"Idade, frequência cardíaca e medida manual do PR no traçado, além de escala, posição dos eletrodos e qualidade do ECG\",\"Se cada onda P conduz a QRS, se há batimentos bloqueados, QRS largo, outras alterações e comparação com ECG anterior\",\"Sintomas atuais ou anteriores: síncope/pré-síncope, palpitação, dor torácica, falta de ar, edema, fadiga, intolerância ao esforço, convulsão ou episódios de palidez/moleza\",\"Em lactentes: padrão de mamada, suor/cansaço, respiração, cor, ganho de peso, reatividade e fraldas molhadas\",\"Cardiopatia congênita, cirurgia/cateterismo cardíaco recente ou remoto, miocardite/pericardite, doença neuromuscular, autoimune ou genética\",\"Febre/doença recente, dor torácica, falta de ar, edema, erupção, exposição a carrapato/viagem a área endêmica, faringite recente com febre/dor articular ou sinais inflamatórios\",\"Todos os medicamentos, fitoterápicos, suplementos, substâncias recreativas e possibilidade de erro de dose, ingestão acidental ou intoxicação\",\"Eletrólitos, função renal/metabólica e outras causas reversíveis quando o quadro clínico indicar\",\"Treinamento esportivo, resposta dos sintomas ao exercício e história familiar de bloqueio, marca-passo, cardiomiopatia ou morte súbita precoce\"],\"not_automatically_equivalent_to\":[\"Pulso lento ou bradicardia\",\"Batimento perdido, pausa ou assistolia\",\"Bloqueio atrioventricular de segundo grau Mobitz I ou II, bloqueio 2:1, avançado ou completo\",\"Cardiopatia estrutural, miocardite, febre reumática, doença de Lyme ou distúrbio eletrolítico já confirmados\",\"Toxicidade por medicamento ou necessidade automática de suspender uma prescrição\",\"Proibição automática de brincar, fazer educação física ou praticar esporte\",\"Indicação automática de Holter, ecocardiograma, teste de esforço, internação ou marca-passo\",\"Achado definitivamente benigno apenas porque a criança está sem sintomas no momento\"],\"urgency_rule\":\"Primeiro grau isolado, estável e assintomático costuma permitir avaliação programada, mas o laudo precisa ser revisto por profissional com os limites pediátricos. Síncope, alteração de consciência, bradicardia com má perfusão, dificuldade respiratória, dor torácica importante, piora aguda, suspeita de intoxicação, miocardite ou progressão do bloqueio exigem atendimento imediato; febre/doença inflamatória com sintomas cardíacos e lactente com má alimentação ou baixo débito também mudam a prioridade.\",\"resolution\":\"Entidade válida e específica como achado de condução no ECG, com explicação de que todos os impulsos ainda conduzem, causas/contextos e sinais de progressão/baixo débito explicitados; validada por duas revisões sequenciais de IA, sem homologação humana, integração ou publicação por este trabalhador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "No bloqueio atrioventricular de primeiro grau, o sinal elétrico passa dos átrios para os ventrículos em cada batimento observado, mas leva mais tempo. No ECG isso aparece como intervalo PR prolongado antes de cada QRS; não significa, por si só, que um batimento parou ou foi perdido.",
+          "Em crianças, o PR normal varia com a idade e a frequência do coração. Não interprete somente o número ou a frase automática do aparelho: peça que o traçado seja conferido por profissional e leve ECGs anteriores para comparação.",
+          "Observe o padrão habitual da criança: cor, respiração, disposição, mamadas/alimentação, tolerância a brincadeiras e exercícios, tontura, palpitação e desmaio. Anote horário, duração, atividade e recuperação de qualquer episódio; não tente provocar sintomas.",
+          "Mantenha as consultas combinadas mesmo se a criança estiver bem. Primeiro grau isolado pode ser uma variação sem repercussão, inclusive com repouso, sono ou treinamento, mas também pode acompanhar inflamação do coração, alterações de eletrólitos, cardiopatia, cirurgia ou efeito/toxicidade de substâncias.",
+          "Informe escola e cuidadores apenas sobre o plano necessário: sintomas que exigem parar a atividade, contato da família e quando acionar emergência. O achado não é contagioso e não justifica estigma ou vigilância excessiva."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Enquanto a criança estiver sem sintomas e a equipe não tiver imposto limite, mantenha rotina e atividade habitual compatíveis com a idade. Não prescreva repouso permanente nem libere competição intensa por conta própria; sintomas no esforço ou alteração marcada exigem avaliação antes de continuar.",
+          "Interrompa exercício e sente/deite a criança com segurança se surgir tontura, sensação de desmaio, palpitação persistente, dor no peito, falta de ar fora do esperado, palidez ou fraqueza. Síncope, piora rápida ou sinais de baixo débito são emergência.",
+          "Não faça massagem no peito, manobra vagal, tosse forçada ou técnica da internet para ‘corrigir o ritmo’. Não use relógio, celular ou oxímetro doméstico para excluir progressão; esses aparelhos não medem o intervalo PR nem substituem ECG.",
+          "Sono adequado e hidratação habitual ajudam o bem-estar, mas não tratam uma causa do bloqueio. Febre, vômitos, desidratação, doença recente ou novo sintoma devem ser comunicados porque podem mudar frequência, eletrólitos e avaliação.",
+          "Guarde foto ou cópia legível do laudo/traçado, lista de medicamentos e antecedentes cardíacos. Para cada retorno, registre se houve síncope, pré-síncope, queda de rendimento, palpitação, dor torácica, falta de ar, edema ou mudança do pulso."
+        ],
+        "MEDICAMENTOS": [
+          "Não há remédio caseiro para encurtar o PR. Primeiro grau isolado e assintomático não indica automaticamente medicamento nem marca-passo; a conduta depende da causa, dos sintomas, do restante do ECG e da saúde do coração.",
+          "Não inicie, suspenda, reduza, dobre ou troque medicamento prescrito por causa do laudo. Alguns produtos podem reduzir a condução, mas parar de repente também pode causar dano; o prescritor deve revisar nome, apresentação, dose realmente usada, horários, função renal e possíveis interações.",
+          "Leve uma lista completa de remédios, gotas, xaropes, fitoterápicos, suplementos, descongestionantes e substâncias usadas em esporte ou lazer. Informe dose duplicada, acesso acidental, produto de outra pessoa ou mudança recente.",
+          "Se houver sonolência incomum, vômitos, confusão, pulso muito lento, desmaio, dificuldade para respirar ou suspeita de ingestão/erro de dose, procure emergência e leve a embalagem. Não provoque vômito e não administre ‘antídoto’ caseiro.",
+          "Antibiótico, anti-inflamatório, eletrólito ou suplemento só é usado quando uma causa específica foi diagnosticada e com esquema individual. Esta ficha não indica produto, concentração, via, intervalo ou duração."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está bem, mantenha alimentação variada e líquidos adequados à idade, clima e atividade. Não existe dieta, chá, vitamina ou suplemento que normalize o intervalo PR.",
+          "Não force água, sal, açúcar, bebidas esportivas, potássio ou magnésio para ‘corrigir o coração’. Alterações de eletrólitos podem prolongar a condução, mas reposição sem exame pode ser perigosa, sobretudo em doença renal ou cardíaca.",
+          "Em bebês, observe tempo de mamada, pausas para respirar, suor, cansaço, cor e fraldas molhadas. Mamar muito menos, não conseguir completar a mamada, respirar rápido, ficar pálido/cinzento ou produzir pouca urina exige avaliação rápida.",
+          "Vômitos ou diarreia repetidos, recusa de líquidos, boca seca, poucas fraldas/urina ou prostração precisam de orientação, pois desidratação e alterações metabólicas podem agravar um quadro cardíaco. Sinais de choque são emergência.",
+          "Evite energéticos e estimulantes em crianças e adolescentes. Cafeína, suplementos pré-treino e outras substâncias podem provocar palpitação ou confundir a avaliação; informe o uso sem julgamento à equipe."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Desmaio, quase desmaio com fraqueza intensa, convulsão, confusão, dificuldade para acordar ou episódio durante exercício. Acione o SAMU 192 se não houver recuperação rápida, se a criança estiver instável ou se houver risco de vida.",
+          "Pele muito pálida, cinzenta, azulada, fria ou manchada; pulso muito lento ou irregular junto de moleza; dificuldade para respirar; pressão baixa; mãos/pés frios; dor torácica forte; ou pouca urina são sinais de possível baixo débito/choque.",
+          "Palpitação persistente, falta de ar, dor no peito, intolerância súbita ao esforço, edema ou piora rápida, especialmente após febre/infecção, pode acompanhar miocardite ou outra doença cardíaca e precisa de emergência.",
+          "Novo ECG/monitor mostrando batimentos não conduzidos, bloqueio de segundo ou terceiro grau, pausas, bradicardia importante ou piora do bloqueio deve ser avaliado imediatamente, sobretudo se houver sintomas; não espere a consulta de rotina.",
+          "Lactente que mama muito menos, sua ou fica exausto para mamar, respira rápido, fica pouco reativo, muda de cor ou tem poucas fraldas molhadas precisa de avaliação urgente; dificuldade respiratória, cianose ou prostração é emergência.",
+          "Suspeita de dose duplicada, ingestão acidental ou intoxicação com sonolência, vômitos, confusão, pulso lento, desmaio ou falta de ar exige emergência; leve a embalagem e não provoque vômito.",
+          "Se houver contexto compatível com doença transmitida por carrapato em área endêmica e surgirem tontura, síncope, palpitação, falta de ar, dor torácica ou PR muito prolongado informado pela equipe, procure urgência porque o bloqueio pode progredir rapidamente nesse cenário específico."
+        ],
+        "QUANDO REAVALIAR": [
+          "Todo laudo novo de primeiro grau em criança deve ser revisto por profissional que considere idade, frequência, medida manual do PR, restante do ECG, sintomas e antecedentes. Se a criança está bem e o achado é isolado, combine avaliação programada; não há um intervalo único válido para todos.",
+          "Leve ECGs anteriores, lista completa de medicamentos/substâncias e relato de sintomas. A equipe decide se basta observação ou se precisa repetir ECG, monitorar por período, avaliar estrutura cardíaca, eletrólitos, inflamação ou resposta ao exercício; nenhum desses exames é automático pelo rótulo.",
+          "Antecipe o retorno se surgir tontura, palpitação, dor torácica, falta de ar, edema, queda de rendimento, fadiga nova, mamada pior, pulso mais lento/irregular ou episódio de palidez/moleza, mesmo sem desmaio.",
+          "Reavaliação mais próxima é necessária após cirurgia/procedimento cardíaco, em cardiopatia congênita, durante/apos suspeita de miocardite, com eletrólitos alterados, doença neuromuscular/genética relevante ou mudança de medicamento que afete condução.",
+          "Febre e dor articular após infecção de garganta/pele, movimentos involuntários, sopro novo ou falta de ar pedem avaliação por possível febre reumática; erupção/exposição a carrapato em viagem ou residência de risco com sintomas cardíacos pede avaliação epidemiológica específica. PR prolongado sozinho não confirma nenhuma dessas doenças.",
+          "Antes de esporte competitivo ou retorno após síncope/doença cardíaca, confirme liberação individual. Atleta assintomático com primeiro grau em repouso pode ter adaptação vagal, mas PR muito prolongado, que não encurta com exercício leve, alteração de QRS, sintomas ou história familiar exige investigação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "O PR esperado é curto e depende da frequência; não aplique corte de adulto. Um laudo anormal precisa de revisão pediátrica, especialmente com cardiopatia, cirurgia, doença materna autoimune/anticorpos conhecidos ou medicamento. Mamar pouco, suar/cansar, respirar rápido, ficar pálido/cinzento/azulado, pouco reativo ou com poucas fraldas é urgência; dificuldade respiratória, cianose ou prostração é emergência.",
+        "3a5m": "A criança não relata tontura; observe mamadas, cor, respiração, suor, disposição e ganho ponderal. Não medir gravidade pelo número impresso no laudo sem idade/frequência. Mamada muito reduzida, respiração rápida, mudança de cor, moleza ou pouca urina exige avaliação rápida.",
+        "6a11m": "Compare alimentação, energia para brincar, respiração, cor e fraldas com o habitual. Leve ECG anterior e lista de medicamentos. Episódio de palidez/moleza, perda de consciência, cansaço súbito ou respiração difícil deve ser tratado como sintoma cardíaco potencial até avaliação.",
+        "1a": "A criança pode mostrar baixo débito como parar de brincar, irritabilidade ou moleza súbita, palidez, suor, recusa alimentar ou respiração rápida. Não pedir que faça esforço para testar. Desmaio, dificuldade para acordar, mudança de cor ou falta de ar é emergência.",
+        "2a5": "Pergunte sobre cansaço fora do padrão, pausas nas brincadeiras, dor no peito, coração ‘batendo estranho’, palidez ou quedas sem explicação. Creche/escola deve permitir parar e avisar o responsável. Febre/doença recente com falta de ar, palpitação ou prostração exige reavaliação rápida.",
+        "6a11": "Revise sintomas no esforço, ECG anterior, cardiopatia/cirurgia, medicamentos e história familiar. Febre e dor articular após infecção de garganta/pele, falta de ar ou sopro novo mudam o contexto e exigem avaliação. Síncope no exercício, dor torácica com esforço ou queda súbita de desempenho é urgência.",
+        "12a17": "Inclua o adolescente em conversa privada sobre síncope, palpitação, dor torácica, treino, energéticos, suplementos, medicamentos e outras substâncias, sem julgamento. Primeiro grau pode refletir adaptação ao treino, mas sintomas, PR muito prolongado/persistente, QRS alterado ou história familiar não devem ser atribuídos ao esporte.",
+        "unknown": "Antes de personalizar, confirme idade, frequência, PR medido no traçado, condução de todas as ondas P, QRS e demais alterações; sintomas; cardiopatia/cirurgia; febre/doença recente; medicamentos/toxinas; eletrólitos; treino e história familiar. Sem isso, não classificar como benigno, proibir atividade, pedir exame específico, tratar ou indicar marca-passo."
+      },
+      "refs": [
+        {
+          "id": "pais263_op3077_1",
+          "name": "Clinical Practice Guidelines: Basic paediatric ECG interpretation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Basic_paediatric_ECG_interpretation/"
+        },
+        {
+          "id": "pais263_op3077_2",
+          "name": "2021 PACES Expert Consensus Statement on the Indications and Management of Cardiovascular Implantable Electronic Devices in Pediatric Patients",
+          "url": "https://www.heartrhythmjournal.com/article/S1547-5271%2821%2901916-0/fulltext"
+        },
+        {
+          "id": "pais263_op3077_3",
+          "name": "Part 8: Pediatric Advanced Life Support — 2025 American Heart Association and American Academy of Pediatrics Guidelines for CPR and Emergency Cardiovascular Care",
+          "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-advanced-life-support"
+        },
+        {
+          "id": "pais263_op3077_4",
+          "name": "AAN/ACR/IDSA 2020 Guidelines for the Prevention, Diagnosis and Treatment of Lyme Disease",
+          "url": "https://www.idsociety.org/practice-guideline/lyme-disease/"
+        },
+        {
+          "id": "pais263_op3077_5",
+          "name": "WHO guideline on the prevention and diagnosis of rheumatic fever and rheumatic heart disease",
+          "url": "https://www.who.int/publications/i/item/9789240100077"
+        },
+        {
+          "id": "pais263_op3077_6",
+          "name": "2024 HRS expert consensus statement on arrhythmias in the athlete: Evaluation, treatment, and return to play",
+          "url": "https://www.heartrhythmjournal.com/article/S1547-5271%2824%2902560-8/fulltext"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,1313 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-29T07:02:40.776Z",
+  "records": [
+    {
+      "jobId": "OP-3315",
+      "specific": true,
+      "key": "pps_62",
+      "label": "Dermatite das Fraldas Irritativa Simples",
+      "entity": "Dermatite irritativa primária da área da fralda em lactentes e crianças dependentes de fralda",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CLINICAL_PHENOTYPE\",\"normalized_entity\":\"Dermatite irritativa simples da área da fralda\",\"assessment\":\"O termo é válido. Umidade, oclusão, fricção e contato prolongado com urina e enzimas fecais prejudicam a barreira cutânea. A apresentação típica predomina nas superfícies convexas em contato direto com a fralda e costuma poupar as dobras. O diagnóstico continua provisório se houver pústulas satélites, envolvimento intenso das dobras, pus, bolhas, febre, dor importante, lesões fora da fralda, falha de crescimento ou ausência de resposta.\",\"reconciliation\":{\"related_core\":\"pdf1500_350\",\"candida_core\":\"pps_63\",\"catalog_alias\":\"pps_catalog_dbdf1ef17e864c88\",\"relationship\":\"SPECIFIC_IRRITANT_PHENOTYPE_DISTINCT_FROM_SECONDARY_CANDIDA\",\"counting_effect\":\"ONE_CLINICAL_ENTITY_IN_THIS_CORE; exact administrative alias counts as a record, not another disease\",\"publication_boundary\":\"Pesquisa e duas revisões automatizadas por IA concluídas; integração, testes do gerador, commit, deployment e publicação não foram realizados.\"},\"irritant_boundary\":\"Vermelhidão, ressecamento, descamação ou erosão leve nas superfícies de contato, com relativo respeito às dobras, favorecem irritação simples. A aparência isolada não substitui exame quando o quadro é extenso, atípico ou refratário.\",\"candida_boundary\":\"Vermelhidão intensa envolvendo dobras com pápulas ou pústulas satélites favorece Candida secundária e bloqueia a ficha irritativa como resposta única. Antifúngico não é automático sem avaliação.\",\"bacterial_boundary\":\"Calor, edema, dor crescente, pus, crostas, bolhas, mau cheiro importante, eritema em expansão, fissura perianal dolorosa, febre ou prostração sugerem infecção bacteriana ou outra complicação e exigem avaliação.\",\"systemic_boundary\":\"Diarreia persistente, falha de crescimento, alopecia, lesões periorais/acrais, púrpura, hepatoesplenomegalia, infecções recorrentes ou erupção resistente levantam deficiência de zinco, má absorção, histiocitose, imunodeficiência ou outra doença.\",\"medication_boundary\":\"A ficha não seleciona barreira, corticoide, potência, concentração, quantidade, frequência ou duração. Não autoriza antifúngico, antibiótico, associação fixa ou corticoide potente sob oclusão.\",\"transmission_boundary\":\"Dermatite irritativa simples não é contagiosa e não exige afastamento automático de creche. Febre, diarreia transmissível, infecção associada ou incapacidade de participar seguem avaliação própria.\",\"not_automatically_equivalent_to\":[\"Dermatite da fralda com candidíase secundária\",\"Impetigo, celulite, abscesso ou dermatite perianal estreptocócica\",\"Dermatite alérgica de contato\",\"Dermatite seborreica, psoríase, eczema atópico, escabiose ou herpes\",\"Deficiência de zinco, má absorção, histiocitose de células de Langerhans ou imunodeficiência\",\"Autorização para corticoide, antifúngico, antibiótico ou associação medicamentosa\"],\"pediatric_scope\":\"Principalmente lactentes e crianças pequenas. Em criança maior ou adolescente dependente de fralda, revisar incontinência, mobilidade, pressão, higiene, diarreia, medicamentos, diabetes e imunossupressão.\",\"critical_context_to_confirm\":[\"Idade, uso de fralda, duração, extensão, dor ou coceira\",\"Distribuição nas superfícies convexas versus dobras e presença de lesões satélites\",\"Frequência de trocas, diarreia, tipo de fralda, lenços, sabonetes, talco, óleos e cremes\",\"Febre, pus, bolhas, crostas, calor, edema, mau cheiro, fissura, sangramento ou piora rápida\",\"Crescimento, lesões fora da fralda, infecções recorrentes e imunossupressão\",\"Tratamentos já prescritos, técnica e resposta\"],\"counting_rule\":\"Contar uma entidade clínica preparada neste núcleo pps_62. Não somar novamente o alias administrativo exato.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dermatite irritativa da fralda é uma inflamação causada principalmente por umidade, urina, fezes, atrito e oclusão. Em geral fica nas áreas que encostam na fralda e poupa as dobras; não é contagiosa.",
+          "Troque a fralda assim que estiver molhada ou suja e lave as mãos antes e depois da troca.",
+          "Limpe com água morna e algodão ou pano muito macio, sem esfregar. Lenço deve ser sem perfume e sem álcool; suspenda se arder ou piorar.",
+          "Seque encostando o pano ou deixe secar ao ar. Ofereça períodos curtos sem fralda em local seguro, protegido e sempre supervisionado.",
+          "Aplique uma camada generosa da barreira já indicada a cada troca. Retire apenas fezes e sujeira visível; não raspe toda a camada e não traumatize a pele.",
+          "Use fralda absorvente do tamanho correto, sem apertar. Observe se a vermelhidão começa a atingir as dobras, surgem pontos ao redor, pus, bolhas, febre ou dor crescente."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite capa plástica, roupa muito quente e fralda apertada, que aumentam suor, atrito e oclusão.",
+          "Não use sabonete perfumado, banho de espuma, talco, amido, antisséptico, álcool, vinagre, bicarbonato, óleo essencial ou receita caseira na pele lesionada.",
+          "Se usar fralda de pano, lave e enxágue completamente; evite amaciante e fragrância e considere fralda mais absorvente durante a recuperação, conforme orientação.",
+          "Durante diarreia, intensifique trocas, limpeza suave e barreira e acompanhe hidratação; não use antidiarreico ou receita caseira sem orientação.",
+          "Na creche, deixe a barreira identificada, peça troca rápida após evacuação e materiais individuais. A dermatite irritativa simples não exige afastamento automático.",
+          "Fotografe a evolução somente para comparação e para mostrar à equipe; não use imagem isolada para escolher medicamento."
+        ],
+        "MEDICAMENTOS": [
+          "A barreira protege a pele, mas o produto deve ser o já recomendado para a criança. Não misture produtos dentro do pote e não compartilhe embalagem.",
+          "Use anti-inflamatório tópico apenas se foi prescrito para esta criança, na área, quantidade e tempo definidos. A fralda aumenta a absorção de medicamentos.",
+          "Não use corticoide potente, pomada combinada, anestésico, antibiótico, antifúngico ou produto de outra pessoa por conta própria.",
+          "Não aplique medicamento oral, vaginal, veterinário ou comprimido triturado sobre a pele.",
+          "Se aparecerem dobras intensamente vermelhas com lesões satélites, pus, bolhas, crostas ou febre, não aumente a frequência do produto: peça reavaliação do diagnóstico.",
+          "Ardor intenso, inchaço, urticária, bolhas ou piora rápida após um produto exigem suspensão do produto suspeito e avaliação; falta de melhora não autoriza prolongar tratamento sozinho."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno, fórmula, alimentação e líquidos habituais para a idade. Dermatite irritativa não exige retirar leite, frutas, açúcar ou outro alimento.",
+          "Não troque fórmula nem faça dieta de exclusão para tratar a pele sem avaliação; restrições podem prejudicar nutrição e crescimento.",
+          "Se houver diarreia, ofereça líquidos habituais e solução de reidratação conforme orientação apropriada à idade; não substitua por refrigerante, chá ou bebida esportiva.",
+          "Observe mamadas, aceitação e fraldas molhadas. Pouca urina, boca seca, ausência de lágrimas, olhos fundos ou sonolência sugerem desidratação.",
+          "Fezes mais frequentes ou ácidas podem irritar a pele; proteja com trocas e barreira, sem suspender alimentos importantes apenas por coincidência temporal.",
+          "Recusa persistente, vômitos repetidos, diarreia importante, perda de peso ou falha de crescimento exigem avaliação pediátrica e não devem ser atribuídos apenas à assadura."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Febre com prostração, dificuldade para acordar, recusa importante, pele fria ou manchada, ou aparência muito doente, especialmente em recém-nascido ou lactente pequeno.",
+          "Vermelhidão quente, inchada, muito dolorosa e em expansão, listras vermelhas, pus, abscesso ou mau cheiro intenso.",
+          "Bolhas grandes, pele descolando, áreas arroxeadas ou escuras, feridas extensas, sangramento importante ou piora em poucas horas.",
+          "Pouca urina, boca seca, ausência de lágrimas, olhos fundos, vômitos repetidos, sonolência ou incapacidade de beber.",
+          "Imunossupressão, prematuridade importante ou doença crônica grave com lesão extensa, febre ou piora rápida.",
+          "Falta de ar, chiado, inchaço de língua ou rosto, urticária disseminada ou desmaio após produto: acione o SAMU 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie no prazo combinado se a pele não estiver claramente menos vermelha, dolorosa e extensa com trocas frequentes, limpeza suave e barreira.",
+          "Antecipe o retorno se a erupção atingir as dobras, surgirem pontos ou pústulas satélites, pus, bolhas, crostas, febre, dor crescente ou diarreia importante.",
+          "Se o quadro não responder, a equipe deve revisar Candida, bactéria, alergia de contato, psoríase, dermatite seborreica, deficiência nutricional e outras causas; não apenas repetir pomadas.",
+          "Lesão persistente ou recorrente com falha de crescimento, diarreia crônica, alopecia, lesões ao redor da boca ou nas mãos/pés, púrpura ou infecções repetidas merece avaliação especializada.",
+          "Em criança maior dependente de fralda, revisar incontinência, mobilidade, lesão por pressão, diabetes, imunidade, medicamentos e privacidade no cuidado.",
+          "Após a melhora, mantenha trocas rápidas, limpeza suave e barreira. Não mantenha corticoide, antifúngico ou antibiótico indefinidamente."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Febre de 38 °C ou mais, alteração de temperatura, recusa de mamar, flacidez, sonolência, bolhas, pústulas extensas ou piora rápida exige avaliação imediata; não presumir assadura simples nem iniciar pomada medicamentosa sem prescrição.",
+        "3a5m": "Trocas frequentes, barreira e monitoramento de mamadas e urina são centrais. Lesões nas dobras, pontos satélites, placas na boca ou dor para mamar mudam o diagnóstico provável.",
+        "6a11m": "Introdução alimentar e mobilidade podem mudar fezes e atrito. Não excluir alimentos por assadura; intensificar trocas na diarreia e vigiar hidratação.",
+        "1a": "Use fralda do tamanho correto e evite oclusão. Inicie desfralde sem pressão quando houver prontidão, não durante crise dolorosa.",
+        "2a5": "Se ainda usa fralda, revisar constipação, diarreia, incontinência, produtos e desfralde. Lesão persistente ou fora do padrão exige diagnóstico diferencial.",
+        "6a11": "Uso de fralda nessa idade pede avaliação de incontinência, mobilidade e doença de base. Preservar privacidade e examinar pressão, trauma e infecção.",
+        "12a17": "Combinar autonomia possível, consentimento e privacidade; revisar diabetes, imunossupressão, antibióticos, mobilidade e risco de lesão por pressão.",
+        "unknown": "Confirmar idade, uso de fralda, extensão, distribuição nas dobras, dor, febre, diarreia, produtos, imunidade e tratamento atual antes de orientar medicamento."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3315_1",
+          "name": "Dermatite de fraldas: diagnósticos diferenciais",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23551c-GPA_DermatiteFraldas_DiagnosticosDiferenciais.pdf"
+        },
+        {
+          "id": "pais269_op3315_2",
+          "name": "Documentos Científicos — Dermatologia",
+          "url": "https://www.sbp.com.br/departamentos/documentos-cientificos/"
+        },
+        {
+          "id": "pais269_op3315_3",
+          "name": "Clinical Practice Guidelines: Nappy rash",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Nappy_rash/"
+        },
+        {
+          "id": "pais269_op3315_4",
+          "name": "Nappy rash",
+          "url": "https://www.nhs.uk/baby/caring-for-a-newborn/nappy-rash/"
+        },
+        {
+          "id": "pais269_op3315_5",
+          "name": "Clinical Practice Guidelines: Cellulitis and other bacterial skin infections",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cellulitis_and_Skin_Infections/"
+        },
+        {
+          "id": "pais269_op3315_6",
+          "name": "Infecções Bacterianas Superficiais Cutâneas",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23597c-DC_Infeccoes_Bacterianas_Superficiais_Cutaneas.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3316",
+      "specific": false,
+      "key": "pps_catalog_dbdf1ef17e864c88",
+      "label": "Dermatite das Fraldas Irritativa Simples — registro no PPS",
+      "entity": "Dermatite irritativa primária da área coberta pela fralda, causada por umidade, contato prolongado com urina e fezes, enzimas fecais, oclusão e atrito",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_CORE_WITH_EXACT_ADMINISTRATIVE_ALIAS_AND_UNSAFE_SYNTHETIC_QUALIFIERS\",\"normalized_entity\":\"Dermatite das fraldas irritativa simples\",\"administrative_suffix\":\"‘registro no PPS’ identifica a origem do cadastro e não altera doença, gravidade, população, tratamento ou prognóstico.\",\"assessment\":\"A forma irritativa simples costuma causar vermelhidão e ardor nas superfícies convexas que ficam em contato com a fralda, frequentemente poupando as dobras. Resulta da combinação de umidade, fezes, urina, oclusão e atrito. A melhora depende de reduzir esses contatos e restaurar a barreira; ausência de melhora ou padrão atípico exige reavaliação.\",\"reconciliation\":{\"canonical_core_key\":\"pps_62\",\"canonical_core_label\":\"Dermatite das Fraldas Irritativa Simples\",\"relationship\":\"EXACT_ADMINISTRATIVE_ALIAS_OF_EXISTING_CLINICAL_CORE\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY_ONE_ALIAS_RECORD_PRESERVED\",\"resolution\":\"Fazer esta key resolver para o conteúdo canônico de pps_62. Preservar seleção por ambos os IDs sem duplicar contagem, evidência ou manutenção.\",\"publication_boundary\":\"Este resultado comprova pesquisa e duas revisões automatizadas por IA. Não comprova integração, testes do gerador, commit, deployment ou publicação.\"},\"irritant_boundary\":\"Vermelhidão em áreas convexas expostas à fralda, com dobras relativamente poupadas, favorece irritação simples. Diarreia, trocas infrequentes, fralda apertada, sabonete, perfume e atrito podem agravar.\",\"candida_boundary\":\"Vermelhidão viva que envolve as dobras, com pontos ou pústulas satélites, especialmente após antibiótico ou diarreia, sugere candidíase secundária e não deve herdar automaticamente o manejo de irritação simples.\",\"bacterial_boundary\":\"Bolhas, pústulas, pus, crostas extensas, calor, inchaço, dor crescente, vermelhidão que se espalha, fissura perianal dolorosa, febre ou prostração sugerem infecção bacteriana e exigem avaliação.\",\"alternative_diagnosis_boundary\":\"Erupção persistente ou incomum, acometimento fora da fralda, petéquias/púrpura, alopecia, lesões ao redor da boca/mãos/pés, diarreia crônica, baixo ganho de peso ou infecções recorrentes exigem investigar psoríase, dermatite seborreica/contato, deficiência de zinco, histiocitose, má absorção ou imunodeficiência.\",\"medication_boundary\":\"A ficha não escolhe corticoide, potência, antifúngico, antibiótico, concentração, quantidade, frequência ou duração. A área ocluída aumenta absorção e risco de efeitos adversos; pomadas combinadas e produtos fortes não devem ser usados por conta própria.\",\"transmission_boundary\":\"A dermatite irritativa simples não é contagiosa. Higiene de mãos e da superfície de troca reduz transmissão de microrganismos presentes nas fezes; afastamento de creche depende de febre, diarreia, infecção transmissível associada ou incapacidade de participar.\",\"synthetic_alias_resolution\":[{\"alias\":\"Dermatite das Fraldas Irritativa Simples — apresentação pediátrica aguda\",\"resolution\":\"‘Aguda’ não confirma irritação simples. Verificar dor, bolhas, pus, febre, envolvimento das dobras e exposição a produto novo antes de resolver.\"},{\"alias\":\"Dermatite das Fraldas Irritativa Simples — evolução complicada/refratária\",\"resolution\":\"Não resolver automaticamente para a forma simples. Reavaliar técnica, diarreia, Candida, bactéria, alergia de contato e diagnósticos sistêmicos.\"},{\"alias\":\"Dermatite das Fraldas Irritativa Simples — forma grave/crítica\",\"resolution\":\"Qualificador incompatível com ‘simples’. Bloquear alta e procurar avaliação urgente conforme dor, extensão, descolamento, febre, toxicidade, desidratação ou infecção.\"}],\"not_automatically_equivalent_to\":[\"Dermatite das fraldas por Candida\",\"Impetigo, celulite perianal estreptocócica, abscesso ou sepse\",\"Herpes simples na área da fralda\",\"Dermatite de contato alérgica\",\"Psoríase, dermatite seborreica ou eczema atópico\",\"Acrodermatite enteropática, má absorção, histiocitose ou imunodeficiência\",\"Autorização para corticoide forte, antibiótico, antifúngico ou pomada combinada\"],\"pediatric_scope\":\"Principalmente lactentes e crianças pequenas que usam fralda, mas o cuidado de barreira também pode ser pertinente a crianças maiores e adolescentes com incontinência. Recém-nascido, prematuro, criança imunossuprimida ou com doença extensa/atípica requer limiar mais baixo para avaliação.\",\"counting_rule\":\"Zero nova entidade clínica. Registrar uma resolução terminológica/alias administrativo, preservando a key, sem somar outra doença ou orientação publicada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dermatite irritativa das fraldas é uma inflamação da pele por umidade, contato com urina e fezes, oclusão e atrito. Geralmente aparece nas partes mais salientes sob a fralda e poupa as dobras; não é contagiosa.",
+          "Troque a fralda assim que estiver molhada ou suja e sempre após evacuação. Use tamanho adequado, sem apertar, para reduzir atrito e permitir circulação de ar.",
+          "Em cada troca, remova as fezes com água morna e pano macio ou lenço sem álcool e sem fragrância. Não esfregue; encoste suavemente para secar ou deixe secar ao ar.",
+          "Deixe períodos curtos sem fralda em local seguro e aquecido. Proteja superfícies e nunca deixe o bebê sozinho em trocador ou cama.",
+          "Aplique uma camada generosa da barreira já orientada em todas as trocas. Se a camada anterior estiver limpa, retire apenas a sujeira visível e reponha por cima, evitando fricção repetida.",
+          "Lave as mãos antes e depois da troca, descarte a fralda com segurança e higienize a superfície para reduzir a circulação de germes das fezes."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Prefira água morna e limpeza suave. Evite sabonete comum, banho de espuma, perfume, óleo essencial, álcool, antisséptico e lenço perfumado na área irritada.",
+          "Não use talco ou pó: o bebê pode aspirar as partículas. Não aplique amido, farinha, pasta de dente, vinagre, ervas ou receitas caseiras.",
+          "Se usar fralda de pano, enxágue bem para retirar detergente e troque com frequência. Evite capa plástica oclusiva sobre a fralda.",
+          "Observe o padrão: irritação simples tende a poupar dobras; vermelhidão brilhante nas dobras com pontos satélites sugere Candida; bolhas, pus, crostas ou dor crescente sugerem outra causa.",
+          "Durante diarreia, intensifique trocas, limpeza suave e barreira. Não interrompa a alimentação habitual nem use antidiarreico por conta própria.",
+          "Na creche, mantenha fraldas, barreira identificada e plano de troca. A forma irritativa isolada não exige afastamento, mas febre, diarreia infecciosa ou infecção de pele pode mudar essa orientação."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o creme ou pasta de barreira já orientado para a criança. A função é formar uma película protetora entre a pele e a fralda.",
+          "Não inicie corticoide, antifúngico, antibiótico, anestésico, antisséptico ou pomada combinada por conta própria. A região da fralda é ocluída e pode absorver mais medicamento.",
+          "Não use corticoide forte, produto de adulto, sobra de receita nem medicamento de outra criança. A escolha depende da idade, extensão, dobras, aparência e suspeita de infecção.",
+          "Se houver suspeita de Candida ou bactéria, a equipe deve confirmar o padrão e prescrever tratamento específico quando necessário; irritação simples não precisa automaticamente de antimicrobiano.",
+          "Suspenda apenas o produto novo suspeito de causar ardor intenso, inchaço ou piora imediata e procure orientação. Leve a embalagem ou uma foto do rótulo.",
+          "Se o plano prescrito não estiver melhorando, não aumente potência, quantidade ou duração em casa; reavalie o diagnóstico e a técnica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno, fórmula e alimentação habitual conforme idade e aceitação. Dermatite das fraldas isolada não indica alergia alimentar nem dieta de exclusão.",
+          "Não retire leite, ovo, trigo ou outro alimento por conta própria. Mudanças alimentares sem diagnóstico podem prejudicar crescimento e nutrição.",
+          "Se houver diarreia, ofereça os líquidos e alimentos habituais em pequenas quantidades e com maior frequência, conforme tolerância. Não dilua fórmula e não ofereça solução caseira improvisada.",
+          "Observe hidratação: menos urina, boca seca, ausência de lágrimas, olhos fundos, sonolência, recusa persistente ou vômitos repetidos exigem avaliação.",
+          "Diarreia com sangue, muco importante, febre, dor abdominal forte ou duração prolongada não deve ser atribuída apenas à dentição ou à dermatite.",
+          "Baixo ganho de peso, diarreia crônica e erupção persistente ao redor da boca, mãos ou pés podem indicar deficiência nutricional ou má absorção e precisam de investigação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bebê menor de 3 meses com temperatura de 38 °C ou mais, recusa de mamar, flacidez, sonolência fora do habitual ou respiração diferente: procure avaliação imediata.",
+          "Febre com prostração, dificuldade para acordar, pele fria/manchada, confusão ou aparência muito doente: emergência para descartar infecção grave.",
+          "Vermelhidão que se espalha rapidamente, pele quente e inchada, dor crescente, listras vermelhas, pus, mau cheiro ou crostas extensas: avaliação urgente para infecção bacteriana/celulite.",
+          "Bolhas agrupadas dolorosas, feridas profundas, descolamento de pele, áreas arroxeadas, pretas ou com sangramento: emergência; não aplicar novos produtos enquanto busca ajuda.",
+          "Sinais de desidratação importante, como pouca ou nenhuma urina, olhos fundos, ausência de lágrimas, boca muito seca, vômitos persistentes ou criança difícil de acordar: atendimento imediato.",
+          "Inchaço de língua/garganta, falta de ar, chiado súbito, lábios arroxeados ou desmaio após alimento ou produto: acione o SAMU 192 e siga apenas plano de anafilaxia já prescrito."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie se não houver melhora clara após dois a três dias de trocas frequentes, limpeza suave, tempo sem fralda e barreira adequada, ou antes se houver piora.",
+          "Procure a equipe se a irritação envolver as dobras, surgirem pontos ou pústulas satélites, ou se a criança estiver usando antibiótico; pode haver candidíase secundária.",
+          "Antecipe o retorno se houver dor importante, bolhas, pus, crostas, fissuras perianais dolorosas, febre, mau cheiro ou vermelhidão em expansão.",
+          "Erupção persistente, recorrente ou fora da área da fralda exige rever produtos, fricção, diarreia, dermatite de contato, psoríase, eczema e infecção.",
+          "Falha de crescimento, diarreia crônica, alopecia, lesões ao redor da boca/mãos/pés, petéquias/púrpura ou infecções recorrentes exigem avaliação pediátrica para causas sistêmicas.",
+          "Leve fotos da evolução, lista de produtos, frequência das trocas, padrão das fezes, medicamentos recentes e resposta às medidas. Isso ajuda a evitar antimicrobiano ou corticoide desnecessário."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Use limpeza muito suave e barreira já liberada para a idade. Febre de 38 °C ou mais, bolhas, sonolência, recusa de mamar, flacidez ou piora rápida exige avaliação imediata; não presumir irritação simples.",
+        "3a5m": "Troque após cada evacuação, proteja a pele e acompanhe mamadas e urina. Vermelhidão nas dobras, pontos satélites, febre ou redução das mamadas pede reavaliação.",
+        "6a11m": "Alimentos novos e diarreia podem mudar frequência e irritação das fezes, mas não justificam exclusão alimentar automática. Reduza umidade e atrito e investigue sinais de Candida ou infecção.",
+        "1a": "A criança pode demonstrar dor ao sentar, andar ou durante a troca. Fralda correta, trocas frequentes e períodos sem fralda ajudam; dor crescente, fissura perianal ou recusa de evacuar requer avaliação.",
+        "2a5": "Não force desfralde durante dor ou diarreia. Combine higiene e barreira com a creche e ensine lavagem das mãos; afastamento depende de doença associada, não da irritação simples.",
+        "6a11": "Em criança maior que usa fralda por incontinência, revisar ajuste, frequência de trocas, autonomia, privacidade, constipação/diarreia e equipamentos. Rash recorrente merece avaliação de causa e cuidado individual.",
+        "12a17": "Preserve privacidade e participação do adolescente no plano. Irritação recorrente pode refletir incontinência, equipamento, mobilidade ou infecção; não tratar indefinidamente com produtos infantis sem avaliação.",
+        "unknown": "Confirmar idade, prematuridade, fralda/incontinência, duração, dobras, dor, bolhas, pus, febre, diarreia, hidratação, crescimento, produtos e medicamentos antes de confirmar forma simples ou orientar tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3316_1",
+          "name": "Dermatologia na Atenção Básica de Saúde — Dermatite das Fraldas",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/guiafinal9.pdf"
+        },
+        {
+          "id": "pais269_op3316_2",
+          "name": "Clinical Practice Guidelines: Nappy rash",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Nappy_rash/"
+        },
+        {
+          "id": "pais269_op3316_3",
+          "name": "Nappy rash",
+          "url": "https://www.nhs.uk/baby/caring-for-a-newborn/nappy-rash/"
+        },
+        {
+          "id": "pais269_op3316_4",
+          "name": "Common Diaper Rashes & Treatments",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Diaper-Rash.aspx"
+        },
+        {
+          "id": "pais269_op3316_5",
+          "name": "Healthy Habits: Diaper Changing at Home",
+          "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-changing-steps-at-home.html"
+        },
+        {
+          "id": "pais269_op3316_6",
+          "name": "Napkin dermatitis",
+          "url": "https://dermnetnz.org/topics/napkin-dermatitis"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3317",
+      "specific": false,
+      "key": "pps_catalog_d745e3211f2ce20d",
+      "label": "Dermatite de contato — registro no PPS",
+      "entity": "Dermatite de contato pediátrica, termo guarda-chuva que inclui a forma irritativa por dano direto à barreira e a forma alérgica tardia após sensibilização",
+      "assessment": "{\"classification\":\"VALID_UMBRELLA_ENTITY_WITH_EXACT_ADMINISTRATIVE_DUPLICATE_AND_UNSAFE_SYNTHETIC_QUALIFIERS\",\"normalized_entity\":\"Dermatite de contato irritativa ou alérgica\",\"administrative_suffix\":\"‘registro no PPS’ identifica a origem cadastral e não modifica diagnóstico, mecanismo, população, gravidade ou tratamento.\",\"assessment\":\"Dermatite de contato é inflamação da pele após exposição externa. Na forma irritativa, água, saliva, fricção, sabonete, detergente, solvente ou outro agente lesa diretamente a barreira e pode causar ardor, dor, ressecamento e fissuras já na primeira exposição. Na forma alérgica, a criança previamente sensibilizada desenvolve reação imunológica tardia, muitas vezes pruriginosa, horas ou dias após contato com metal, fragrância, conservante, cosmético, adesivo, borracha, planta ou medicamento tópico. As duas formas podem parecer semelhantes, coexistir com dermatite atópica e complicar por infecção, mas não são mecanicamente idênticas.\",\"reconciliation\":{\"canonical_core_key\":\"pps_60\",\"canonical_core_label\":\"Dermatite de Contato (Irritativa e Alérgica)\",\"allergic_subtype_key\":\"pdf1500_349\",\"related_administrative_key\":\"pps_catalog_14cd9d5e21f7d7b3\",\"relationship\":\"ADMINISTRATIVE_ALIAS_OF_EXISTING_COMBINED_CANONICAL\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY_ONE_ALIAS_RECORD_PRESERVED\",\"resolution\":\"Fazer esta key resolver para pps_60 e preservar a diferenciação entre os ramos irritativo e alérgico. Manter pdf1500_349 como seleção específica do ramo alérgico, sem duplicar entidade, evidência ou manutenção.\",\"publication_boundary\":\"Este resultado registra pesquisa e duas revisões automatizadas por IA. Não comprova integração, teste do gerador, commit, deployment ou publicação.\"},\"irritant_boundary\":\"Dano direto por água, saliva, urina/fezes, fricção, sabonete, detergente, solvente, desinfetante ou outro agente costuma permanecer na área exposta e pode predominar com ardor, dor, ressecamento ou fissuras. Pode surgir na primeira exposição e não exige sensibilização.\",\"allergic_boundary\":\"Reação tardia após sensibilização costuma coçar mais, pode formar vesículas e pode ultrapassar a área inicial. Níquel, fragrâncias, conservantes, cosméticos, adesivos, borrachas, plantas e medicamentos tópicos são exemplos, mas lista e rótulo não confirmam causalidade.\",\"atopic_boundary\":\"Dermatite atópica é doença crônica e recidivante distinta, embora aumente a vulnerabilidade a irritantes e possa coexistir com alergia de contato. Falha de tratamento, distribuição incomum ou piora com produto tópico justificam revisar contato alérgico.\",\"infection_boundary\":\"Pus, crosta amarelada extensa, dor crescente, calor, inchaço, vermelhidão em expansão, listras, febre ou mal-estar sugerem infecção secundária e não devem ser tratados como simples alergia de contato.\",\"severe_reaction_boundary\":\"Bolhas extensas, pele dolorosa ou descolando, feridas em boca/olhos/genitais ou erupção disseminada após medicamento novo sugerem reação cutânea grave e exigem hospital. Urticária rápida com edema de língua/garganta, chiado, dispneia, palidez, desmaio ou flacidez é possível anafilaxia e segue fluxo emergencial, não esta ficha.\",\"patch_testing_boundary\":\"Teste de contato é o padrão para investigar alergia cutânea tardia quando o diagnóstico é suspeito, recorrente, persistente ou não responde. Deve ser indicado e interpretado por profissional, considerando relevância clínica; não é teste de puntura, teste alimentar nem desafio caseiro.\",\"medication_boundary\":\"A ficha não escolhe corticoide tópico, potência, quantidade, frequência, área ou duração; não indica antibiótico, antifúngico, anti-histamínico, corticoide oral ou imunomodulador. Face, pálpebras, dobras e genitais exigem atenção especial ao plano individual.\",\"synthetic_alias_resolution\":[{\"alias\":\"Dermatite de contato — apresentação pediátrica aguda\",\"resolution\":\"‘Aguda’ descreve tempo, não mecanismo. Confirmar exposição recente, irritação, alergia tardia, queimadura química, infecção, urticária imediata e reação medicamentosa antes de resolver.\"},{\"alias\":\"Dermatite de contato — evolução complicada/refratária\",\"resolution\":\"Não é nova doença. Revisar exposição persistente, diagnóstico, técnica/adesão, produto tópico sensibilizante, dermatite atópica, infecção, micose, escabiose e necessidade de teste de contato.\"},{\"alias\":\"Dermatite de contato — forma grave/crítica\",\"resolution\":\"‘Crítica’ não é classificação padrão. Extensão importante, dor, bolhas, mucosas, pele descolando, sintomas sistêmicos, anafilaxia ou queimadura química bloqueiam orientação domiciliar e exigem avaliação urgente.\"}],\"not_automatically_equivalent_to\":[\"Dermatite atópica ou eczema atópico\",\"Urticária de contato, angioedema ou anafilaxia\",\"Queimadura química\",\"Impetigo, celulite, eczema herpético, micose ou escabiose\",\"Síndrome de Stevens-Johnson ou necrólise epidérmica tóxica\",\"Alergia alimentar ou indicação de dieta de exclusão\",\"Toda vermelhidão, coceira, descamação ou bolha após um produto\",\"Autorização para teste caseiro, reexposição deliberada ou automedicação\"],\"pediatric_scope\":\"Lactentes, crianças e adolescentes. Exposições mudam com idade: saliva e fraldas em lactentes; sabonetes, brinquedos, slime, plantas, adesivos e materiais escolares em crianças; cosméticos, fragrâncias, esmaltes, metais, tatuagens temporárias, equipamentos esportivos e trabalho em adolescentes. Recém-nascido, quadro extenso, face/olhos/genitais, dor importante, febre, bolhas ou falha de crescimento exigem avaliação precoce.\",\"counting_rule\":\"Zero nova entidade clínica. Registrar uma resolução terminológica/alias administrativo do canônico pps_60, preservando as keys e os ramos irritativo/alérgico sem inflar contagem.\",\"critical_context_to_confirm\":[\"Idade, início, distribuição, extensão, coceira, ardor, dor, bolhas, secreção, febre e sintomas gerais\",\"Produto, planta, metal, adesivo, roupa, calçado, brinquedo, medicamento tópico, ocupação ou atividade antes da erupção\",\"Tempo entre exposição e sintomas, melhora ao afastar e recidiva com reexposição não deliberada\",\"Dermatite atópica, alergia imediata, asma/rinite, infecção, medicamento novo e produtos usados por familiares\",\"Rótulos, ingredientes e fotos da evolução, sem testar o produto novamente na pele\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Dermatite de contato é uma inflamação da pele provocada por algo que tocou a região. Pode ser irritativa, por dano direto, ou alérgica, por reação tardia após sensibilização. Não é contagiosa.",
+          "Afaste o produto ou material suspeito sem fazer nova prova na pele. Guarde nome, embalagem, lista de ingredientes e fotos da evolução para levar à consulta.",
+          "Se o contato foi recente e não há queimadura química, retire roupa ou acessório contaminado e enxágue suavemente a pele com água em temperatura confortável. Não esfregue e não use álcool, vinagre, solvente ou neutralizante caseiro.",
+          "Lave roupas, brinquedos, ferramentas ou objetos que possam manter planta, resina, detergente ou outro agente. Em exposição a planta, o líquido da bolha não transmite a erupção, mas óleo ainda presente na pele ou em objetos pode alcançar outras pessoas.",
+          "Use hidratante sem fragrância já tolerado para proteger a barreira, especialmente após lavar. Suspenda somente o produto que claramente piorou a área e avise a equipe.",
+          "Mantenha unhas curtas e evite coçar. Observe se a erupção está se espalhando, ficando dolorosa, quente, com pus, febre, bolhas extensas ou mucosas atingidas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Prefira banho curto e morno, limpador suave sem fragrância e roupa macia. Evite água quente, bucha, perfume, óleo essencial, cosmético novo e contato repetido com água ou detergente.",
+          "Compressa limpa e fresca por poucos minutos pode aliviar ardor ou coceira. Não aplique gelo direto e não cubra hermeticamente pele inflamada ou úmida sem orientação.",
+          "Use luva ou roupa protetora somente quando apropriado ao agente e à atividade; retire periodicamente se houver suor e use forro macio quando a própria luva irritar. Proteção inadequada não substitui afastar o agente.",
+          "Não faça teste caseiro com cosmético, metal, tinta, planta, adesivo, medicamento ou alimento na pele. Reexposição pode piorar a reação e não substitui teste de contato profissional.",
+          "A palavra ‘hipoalergênico’, ‘natural’ ou ‘sem perfume’ não garante ausência do alérgeno individual. Compare ingredientes e siga a lista de evitação fornecida após avaliação.",
+          "Informe escola, creche, esporte ou trabalho sobre o agente confirmado e as medidas de proteção. Afastamento não é automático se a criança estiver bem e não houver infecção transmissível."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o medicamento tópico já prescrito para esta criança, na região, quantidade e duração orientadas. Esta ficha não escolhe corticoide, potência, frequência ou tempo de uso.",
+          "Face, pálpebras, dobras e genitais têm pele mais sensível; não reutilize receita de outra área nem medicamento de familiar.",
+          "Não aplique antibiótico, antifúngico, anestésico, pomada combinada, fitoterápico ou óleo essencial por conta própria. Alguns produtos tópicos podem irritar ou provocar nova alergia de contato.",
+          "Não inicie anti-histamínico sedativo, corticoide oral/injetável ou imunomodulador sem avaliação. Não interrompa de repente tratamento sistêmico prescrito; peça orientação à equipe.",
+          "Se o produto prescrito causar ardor intenso persistente, inchaço, bolhas ou piora nítida logo após cada aplicação, suspenda o produto suspeito, preserve a embalagem e procure orientação.",
+          "Antibiótico só é usado quando há infecção avaliada; crosta ou líquido claro isolado não comprovam bactéria. Bolhas dolorosas, febre ou piora rápida exigem reavaliação antes de acrescentar remédio."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos habituais para a idade. Dermatite de contato não exige retirar leite, ovo, trigo ou outro alimento.",
+          "Vermelhidão localizada ao redor da boca após alimento ácido pode ser irritação de contato e não confirma alergia alimentar. Limpe suavemente, proteja a barreira conforme orientação e registre o contexto.",
+          "Não faça dieta de exclusão nem reintrodução provocativa para investigar uma erupção de contato. Suspeita de reação alimentar imediata deve seguir avaliação própria.",
+          "Se surgirem urticária disseminada, inchaço de boca/língua, vômitos repetidos, tosse, chiado, falta de ar, palidez, desmaio ou flacidez logo após alimento, medicamento ou látex, acione o SAMU 192 e siga o plano de anafilaxia já prescrito.",
+          "Em lactentes, mantenha leite materno ou fórmula habitual se o bebê estiver alerta, respirando bem e aceitando. Recusa persistente, pouca urina, boca seca ou sonolência exige avaliação.",
+          "Não passe alimento, leite, farinha, limão, pasta de dente ou óleo de cozinha na pele. Essas substâncias podem irritar, contaminar ou dificultar o diagnóstico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade para respirar ou engolir, voz rouca, chiado, inchaço súbito de língua/garganta, lábios arroxeados, palidez, confusão, desmaio ou criança flácida: use adrenalina somente se já prescrita e acione o SAMU 192.",
+          "Erupção disseminada dolorosa, grandes bolhas, pele descolando ou feridas em boca, olhos ou genitais, especialmente após medicamento novo ou infecção: hospital imediatamente por possível reação cutânea grave.",
+          "Pus, crosta amarelada extensa, dor crescente, calor, inchaço, vermelhidão em expansão, listras vermelhas, febre, calafrios ou prostração: avaliação urgente por possível infecção.",
+          "Produto químico corrosivo na pele ou nos olhos, dor intensa imediata, branqueamento/escurecimento da pele ou bolhas após químico: retire roupa contaminada, irrigue com água corrente e busque emergência/CIATox; não neutralize em casa.",
+          "Olho vermelho ou doloroso, inchaço importante das pálpebras, sensibilidade à luz, alteração visual ou substância química no olho: irrigação imediata e emergência oftalmológica.",
+          "Lactente menor de 3 meses com temperatura de 38 °C ou mais, recusa de mamar, flacidez, dificuldade para acordar ou respiração diferente: avaliação imediata, sem atribuir a febre à dermatite."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a erupção for persistente, recorrente, extensa, muito pruriginosa, atingir face/mãos/genitais, atrapalhar sono/escola ou não melhorar após afastar o agente e seguir o plano.",
+          "Retorne no prazo definido pela equipe para conferir melhora, técnica, produtos usados e prevenção. Leve rótulos, embalagens, fotos e uma linha do tempo das exposições.",
+          "Antecipe a avaliação se surgirem dor, bolhas, secreção, crostas, febre ou piora rápida; esses sinais mudam o diagnóstico e a urgência.",
+          "Se a causa permanecer incerta, a dermatite voltar no mesmo local ou falhar ao tratamento, dermatologia/alergia pode indicar teste de contato. O resultado precisa ser relacionado às exposições reais.",
+          "Dermatite atópica que piora com produtos, medicamentos tópicos ou curativos merece revisão de alergia de contato associada, sem abandonar automaticamente o tratamento da doença de base.",
+          "Após identificar o agente, peça nomes alternativos e uma lista de produtos seguros. Reavalie se a evitação for impraticável na escola, esporte ou trabalho, para adaptar proteção sem nova exposição."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Erupção extensa ou bolhosa nesta idade exige confirmação diagnóstica. Febre de 38 °C ou mais, recusa de mamar, sonolência, flacidez ou respiração alterada é urgência imediata; não presumir dermatite de contato nem usar medicamento sem prescrição específica.",
+        "3a5m": "Revisar lenços, sabonetes, detergente, fragrâncias, adesivos, pomadas, saliva e produtos usados pelo cuidador. Manter alimentação habitual e avaliar cedo face/olhos, bolhas, febre ou redução de mamadas.",
+        "6a11m": "Contato com saliva, alimento, brinquedo, tapete e produto de limpeza pode irritar. Limpar sem esfregar, não restringir alimento por vermelhidão local isolada e impedir acesso a químicos.",
+        "1a": "A criança pode não explicar ardor ou dor. Observar mudança de comportamento e guardar produtos fora do alcance; exposição química, olho atingido, bolhas ou dor intensa exige atendimento imediato.",
+        "2a5": "Revisar tinta, massinha, slime, cola, adesivo, fantasia, planta, protetor e material escolar. Escola deve conhecer o agente confirmado e evitar reexposição, sem afastamento automático quando a criança está bem.",
+        "6a11": "Metais, relógio, eletrônico, equipamento esportivo, calçado, fragrância e produto artesanal podem reproduzir a erupção. Ensinar leitura de rótulo sem permitir teste caseiro; considerar impacto em sono, concentração e bullying.",
+        "12a17": "Revisar cosméticos, fragrâncias, tintura, unha em gel, tatuagem temporária, piercing, adesivo, luva e exposição ocupacional. Incluir o adolescente no plano e investigar automedicação e impacto psicossocial.",
+        "unknown": "Confirmar idade, exposição, tempo até a erupção, local, extensão, coceira versus dor, bolhas, mucosas, febre, medicamento novo e tratamento usado. Sem esses dados, não escolher mecanismo, potência ou duração."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3317_1",
+          "name": "Dermatite de contato",
+          "url": "https://www.sbd.org.br/doencas/dermatite-de-contato/"
+        },
+        {
+          "id": "pais269_op3317_2",
+          "name": "Dermatite atópica: abordagem global atualizada — diferenciais dermatológicos pediátricos",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/marco/07/23462h-Pronap_cXXIV_n1_SITE.pdf"
+        },
+        {
+          "id": "pais269_op3317_3",
+          "name": "European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing—Recommendations on Best Practice (Update 2026)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13441402/"
+        },
+        {
+          "id": "pais269_op3317_4",
+          "name": "Contact dermatitis",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/"
+        },
+        {
+          "id": "pais269_op3317_5",
+          "name": "Eczema types: Contact dermatitis diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/eczema/types/contact-dermatitis/treatment"
+        },
+        {
+          "id": "pais269_op3317_6",
+          "name": "Poison Ivy, Poison Oak & Poison Sumac Rash: How to Avoid or Treat It",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Poison-Ivy-Treatment.aspx"
+        },
+        {
+          "id": "pais269_op3317_7",
+          "name": "Stevens-Johnson syndrome",
+          "url": "https://www.nhs.uk/conditions/stevens-johnson-syndrome/"
+        },
+        {
+          "id": "pais269_op3317_8",
+          "name": "Anaphylaxis",
+          "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3318",
+      "specific": true,
+      "key": "pps_60",
+      "label": "Dermatite de Contato (Irritativa e Alérgica)",
+      "entity": "Dermatite de contato irritativa ou alérgica em lactentes, crianças e adolescentes",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_UMBRELLA_ENTITY_WITH_TWO_DISTINCT_MECHANISMS\",\"normalized_entity\":\"Dermatite de contato irritativa ou alérgica\",\"assessment\":\"Dermatite de contato é inflamação da pele provocada por exposição externa. A forma irritativa resulta de dano direto à barreira por água, saliva, fricção, sabão, detergente, solvente ou químico e pode ocorrer na primeira exposição. A forma alérgica é reação imunológica tardia após sensibilização, frequentemente pruriginosa e relacionada a níquel, fragrâncias, conservantes, cosméticos, adesivos, borracha, plantas ou medicamentos tópicos. As duas formas podem coexistir e não devem receber automaticamente o mesmo diagnóstico causal.\",\"reconciliation\":{\"canonical_core_key\":\"pps_60\",\"administrative_aliases\":[\"pps_catalog_d745e3211f2ce20d\",\"pps_catalog_14cd9d5e21f7d7b3\"],\"allergic_subtype_key\":\"pdf1500_349\",\"relationship\":\"CANONICAL_COMBINED_CORE_WITH_PRESERVED_SUBTYPE_AND_ADMINISTRATIVE_ALIASES\",\"counting_effect\":\"ONE_CLINICAL_ENTITY_CORE_ALIASES_ZERO_ADDITIONAL\",\"resolution\":\"Manter pps_60 como conteúdo canônico combinado. As keys administrativas resolvem para a mesma ficha; pdf1500_349 preserva a seleção específica do ramo alérgico sem duplicar a entidade.\"},\"irritant_boundary\":\"Dano direto costuma permanecer na área exposta e pode predominar com ardor, dor, secura, aspereza ou fissuras. Pode surgir na primeira exposição e não exige sensibilização.\",\"allergic_boundary\":\"Alergia de contato é tardia, depende de sensibilização, costuma coçar mais, pode formar vesículas e ultrapassar a área inicial. História, distribuição e teste de contato profissional ajudam a confirmar relevância.\",\"atopic_boundary\":\"Dermatite atópica é doença crônica distinta, embora aumente a vulnerabilidade a irritantes e possa coexistir com alergia de contato. Falha com produto tópico ou distribuição incomum exige revisão diagnóstica.\",\"infection_boundary\":\"Pus, crosta amarelada extensa, dor crescente, calor, edema, expansão, listras, febre ou mal-estar sugerem infecção secundária e bloqueiam tratamento como simples dermatite.\",\"immediate_allergy_boundary\":\"Urticária rápida, angioedema, rouquidão, chiado, falta de ar, palidez, confusão, desmaio ou flacidez sugerem anafilaxia e exigem emergência, não a ficha de alergia cutânea tardia.\",\"severe_reaction_boundary\":\"Erupção disseminada dolorosa, grandes bolhas, pele descolando ou feridas em boca, olhos ou genitais, sobretudo após medicamento novo ou infecção, exige hospital por possível reação cutânea grave.\",\"medication_boundary\":\"A ficha não escolhe corticoide tópico, potência, quantidade, frequência, região ou duração; também não inicia antibiótico, antifúngico, anti-histamínico, corticoide sistêmico ou imunomodulador.\",\"synthetic_alias_resolution\":[{\"alias\":\"Dermatite de contato — apresentação pediátrica aguda\",\"resolution\":\"Aguda descreve tempo, não mecanismo. Confirmar irritante, alergia tardia, queimadura química, infecção, urticária imediata e reação medicamentosa.\"},{\"alias\":\"Dermatite de contato — evolução complicada/refratária\",\"resolution\":\"Revisar exposição persistente, técnica, produto tópico sensibilizante, dermatite atópica, infecção, micose, escabiose e indicação de teste de contato; não criar nova doença.\"},{\"alias\":\"Dermatite de contato — forma grave/crítica\",\"resolution\":\"Crítica não é classificação padrão. Dor, extensão, bolhas, mucosas, descolamento, sintomas sistêmicos, anafilaxia ou químico corrosivo exigem urgência.\"}],\"not_automatically_equivalent_to\":[\"Dermatite atópica\",\"Urticária de contato, angioedema ou anafilaxia\",\"Queimadura química\",\"Impetigo, celulite, micose, escabiose ou eczema herpético\",\"Síndrome de Stevens-Johnson ou necrólise epidérmica tóxica\",\"Alergia alimentar ou indicação de dieta de exclusão\",\"Autorização para teste caseiro ou reexposição deliberada\"],\"pediatric_scope\":\"Lactentes, crianças e adolescentes. Exposições variam com idade: saliva, fraldas e produtos de cuidadores em lactentes; sabonetes, brinquedos, slime, plantas e adesivos em crianças; cosméticos, metais, esmaltes, tinturas, tatuagens temporárias, equipamentos e trabalho em adolescentes.\",\"counting_rule\":\"Uma entidade clínica canônica. Os aliases administrativos e o subtipo alérgico preservam rastreabilidade sem inflar a contagem.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Dermatite de contato é inflamação causada por algo que tocou a pele. Pode ser irritativa, por dano direto, ou alérgica, por reação tardia após sensibilização. Não é contagiosa.",
+          "Afaste o produto ou material suspeito sem testá-lo novamente. Guarde embalagem, ingredientes e fotos para a consulta.",
+          "Após contato recente não corrosivo, retire roupa ou acessório contaminado e enxágue suavemente com água em temperatura confortável. Não esfregue nem use álcool, vinagre, solvente ou neutralizante.",
+          "Lave objetos, roupas e brinquedos que possam manter o agente. Em contato com planta, o líquido da bolha não transmite a erupção, mas resíduo no objeto pode provocar nova exposição.",
+          "Use somente hidratante sem fragrância já tolerado para proteger a barreira. Observe expansão, dor, calor, pus, febre, bolhas extensas ou feridas em mucosas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Prefira banho curto e morno, limpador suave sem fragrância e roupa macia. Evite água quente, bucha, perfume, óleo essencial e produto novo durante a crise.",
+          "Compressa limpa e fresca por poucos minutos pode aliviar ardor ou coceira. Não aplique gelo direto nem cubra hermeticamente a área.",
+          "Use proteção adequada à atividade somente se ela não aumentar suor ou irritação; luva úmida ou material sensibilizante pode piorar o quadro.",
+          "Não faça teste caseiro com cosmético, metal, planta, adesivo, medicamento ou alimento. O teste de contato deve ser indicado e interpretado por profissional.",
+          "Informe escola, creche, esporte ou trabalho sobre o agente confirmado. Afastamento não é automático quando a criança está bem e não há infecção transmissível."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o medicamento tópico prescrito para esta criança, na região, quantidade e duração indicadas. Esta ficha não escolhe corticoide nem potência.",
+          "Face, pálpebras, dobras e genitais têm pele mais sensível; não reutilize receita de outra área ou de outra pessoa.",
+          "Não aplique antibiótico, antifúngico, anestésico, pomada combinada, fitoterápico ou óleo essencial por conta própria; o próprio produto pode irritar ou sensibilizar.",
+          "Não inicie anti-histamínico sedativo, corticoide oral/injetável ou imunomodulador sem avaliação.",
+          "Se um produto prescrito causar ardor intenso persistente, inchaço, bolhas ou piora repetida, suspenda o produto suspeito, preserve a embalagem e procure orientação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos habituais. Dermatite de contato não exige retirar leite, ovo, trigo ou outro alimento.",
+          "Vermelhidão localizada ao redor da boca após alimento ácido pode ser irritação e não confirma alergia alimentar.",
+          "Não faça dieta de exclusão nem reintrodução provocativa em casa para investigar erupção cutânea.",
+          "Urticária disseminada, edema de boca/língua, vômitos repetidos, tosse, chiado, dispneia, palidez, desmaio ou flacidez logo após alimento, medicamento ou látex exige SAMU 192 e plano de anafilaxia já prescrito.",
+          "Em lactentes, mantenha leite materno ou fórmula habitual se estiverem alertas, respirando bem e aceitando; recusa persistente, pouca urina ou sonolência exige avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade para respirar ou engolir, voz rouca, chiado, inchaço súbito de língua/garganta, cianose, palidez, confusão, desmaio ou flacidez: acione o SAMU 192 e use adrenalina somente se já prescrita.",
+          "Erupção disseminada dolorosa, grandes bolhas, pele descolando ou feridas em boca, olhos ou genitais, especialmente após medicamento novo: hospital imediatamente.",
+          "Pus, crosta extensa, dor crescente, calor, inchaço, vermelhidão em expansão, listras, febre, calafrios ou prostração: avaliação urgente por possível infecção.",
+          "Produto químico corrosivo na pele ou olhos, dor intensa imediata, branqueamento/escurecimento ou bolhas: retire roupa contaminada, irrigue com água corrente e busque emergência/CIATox; não neutralize.",
+          "Olho vermelho ou doloroso, fotofobia, alteração visual ou edema palpebral importante exige emergência oftalmológica.",
+          "Menor de 3 meses com temperatura de 38 °C ou mais, recusa de mamar, flacidez, dificuldade para acordar ou respiração diferente exige avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a erupção for persistente, recorrente, extensa, atingir face, mãos ou genitais, atrapalhar sono/escola ou não melhorar após afastar o agente.",
+          "Leve embalagens, ingredientes, fotos e uma linha do tempo das exposições e sintomas.",
+          "Antecipe a avaliação diante de dor, bolhas, secreção, crostas, febre ou piora rápida.",
+          "Se a causa permanecer incerta ou o tratamento falhar, dermatologia/alergia pode indicar teste de contato; o resultado deve ser relacionado às exposições reais.",
+          "Dermatite atópica que piora com produtos, medicamentos tópicos ou curativos merece investigação de alergia de contato associada.",
+          "Após identificar o agente, peça nomes alternativos e uma lista de produtos seguros; reavalie se a evitação for impraticável."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Erupção extensa ou bolhosa exige confirmação diagnóstica. Febre de 38 °C ou mais, recusa, sonolência, flacidez ou respiração alterada é urgência imediata.",
+        "3a5m": "Revisar lenço, sabonete, detergente, fragrância, adesivo, pomada, saliva e produtos do cuidador; avaliar cedo face/olhos, bolhas, febre ou redução de mamadas.",
+        "6a11m": "Saliva, alimento, brinquedo, piso e produto de limpeza podem irritar. Limpe sem esfregar e não restrinja alimentos por vermelhidão local isolada.",
+        "1a": "A criança pode não explicar ardor ou dor. Mudança de comportamento, olho atingido, bolhas ou dor intensa exige atendimento.",
+        "2a5": "Revisar tinta, massinha, slime, cola, adesivo, fantasia, planta e material escolar; a escola deve evitar o agente confirmado.",
+        "6a11": "Metais, relógio, eletrônico, equipamento esportivo, calçado e fragrância podem reproduzir a erupção. Ensine leitura de rótulo sem teste caseiro.",
+        "12a17": "Revisar cosméticos, esmalte, unha em gel, tintura, tatuagem temporária, piercing, adesivo, luva e exposição ocupacional; investigar automedicação.",
+        "unknown": "Confirmar idade, exposição, tempo, local, extensão, coceira versus dor, bolhas, mucosas, febre, medicamento novo e produtos usados antes de escolher mecanismo ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3318_1",
+          "name": "Dermatite de contato",
+          "url": "https://www.sbd.org.br/doencas/dermatite-de-contato/"
+        },
+        {
+          "id": "pais269_op3318_2",
+          "name": "Contact dermatitis",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/"
+        },
+        {
+          "id": "pais269_op3318_3",
+          "name": "Contact dermatitis diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/eczema/types/contact-dermatitis/treatment"
+        },
+        {
+          "id": "pais269_op3318_4",
+          "name": "Clinical Practice Guidelines: Eczema",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/"
+        },
+        {
+          "id": "pais269_op3318_5",
+          "name": "Stevens-Johnson syndrome",
+          "url": "https://www.nhs.uk/conditions/stevens-johnson-syndrome/"
+        },
+        {
+          "id": "pais269_op3318_6",
+          "name": "Anaphylaxis",
+          "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3319",
+      "specific": false,
+      "key": "pps_catalog_14cd9d5e21f7d7b3",
+      "label": "Dermatite de Contato (Irritativa e Alérgica) — registro no PPS",
+      "entity": "Dermatite de contato pediátrica, termo guarda-chuva que inclui a forma irritativa por dano direto à barreira e a forma alérgica tardia após sensibilização",
+      "assessment": "{\"classification\":\"VALID_COMBINED_CLINICAL_CORE_WITH_EXACT_ADMINISTRATIVE_DUPLICATE_AND_UNSAFE_SYNTHETIC_QUALIFIERS\",\"normalized_entity\":\"Dermatite de contato irritativa ou alérgica\",\"administrative_suffix\":\"‘registro no PPS’ identifica a origem cadastral e não modifica diagnóstico, mecanismo, população, gravidade ou tratamento.\",\"assessment\":\"Dermatite de contato é inflamação da pele após exposição externa. Na forma irritativa, água, saliva, fricção, sabonete, detergente, solvente ou outro agente lesa diretamente a barreira e pode causar ardor, dor, ressecamento e fissuras já na primeira exposição. Na forma alérgica, a criança previamente sensibilizada desenvolve reação imunológica tardia, muitas vezes pruriginosa, horas ou dias após contato com metal, fragrância, conservante, cosmético, adesivo, borracha, planta ou medicamento tópico. As duas formas podem parecer semelhantes, coexistir com dermatite atópica e complicar por infecção, mas não são mecanicamente idênticas.\",\"reconciliation\":{\"canonical_core_key\":\"pps_60\",\"canonical_core_label\":\"Dermatite de Contato (Irritativa e Alérgica)\",\"allergic_subtype_key\":\"pdf1500_349\",\"related_administrative_key\":\"pps_catalog_d745e3211f2ce20d\",\"relationship\":\"EXACT_ADMINISTRATIVE_ALIAS_OF_EXISTING_COMBINED_CANONICAL\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY_ONE_ALIAS_RECORD_PRESERVED\",\"resolution\":\"Fazer esta key resolver exatamente para pps_60 e preservar a diferenciação entre os ramos irritativo e alérgico. Manter pdf1500_349 como seleção específica do ramo alérgico e pps_catalog_d745e3211f2ce20d como alias guarda-chuva, sem duplicar entidade, evidência ou manutenção.\",\"publication_boundary\":\"Este resultado registra pesquisa e duas revisões automatizadas por IA. Não comprova integração, teste do gerador, commit, deployment ou publicação.\"},\"irritant_boundary\":\"Dano direto por água, saliva, urina/fezes, fricção, sabonete, detergente, solvente, desinfetante ou outro agente costuma permanecer na área exposta e pode predominar com ardor, dor, ressecamento ou fissuras. Pode surgir na primeira exposição e não exige sensibilização.\",\"allergic_boundary\":\"Reação tardia após sensibilização costuma coçar mais, pode formar vesículas e pode ultrapassar a área inicial. Níquel, fragrâncias, conservantes, cosméticos, adesivos, borrachas, plantas e medicamentos tópicos são exemplos, mas lista e rótulo não confirmam causalidade.\",\"atopic_boundary\":\"Dermatite atópica é doença crônica e recidivante distinta, embora aumente a vulnerabilidade a irritantes e possa coexistir com alergia de contato. Falha de tratamento, distribuição incomum ou piora com produto tópico justificam revisar contato alérgico.\",\"infection_boundary\":\"Pus, crosta amarelada extensa, dor crescente, calor, inchaço, vermelhidão em expansão, listras, febre ou mal-estar sugerem infecção secundária e não devem ser tratados como simples alergia de contato.\",\"severe_reaction_boundary\":\"Bolhas extensas, pele dolorosa ou descolando, feridas em boca/olhos/genitais ou erupção disseminada após medicamento novo sugerem reação cutânea grave e exigem hospital. Urticária rápida com edema de língua/garganta, chiado, dispneia, palidez, desmaio ou flacidez é possível anafilaxia e segue fluxo emergencial, não esta ficha.\",\"patch_testing_boundary\":\"Teste de contato é o padrão para investigar alergia cutânea tardia quando o diagnóstico é suspeito, recorrente, persistente ou não responde. Deve ser indicado e interpretado por profissional, considerando relevância clínica; não é teste de puntura, teste alimentar nem desafio caseiro.\",\"medication_boundary\":\"A ficha não escolhe corticoide tópico, potência, quantidade, frequência, área ou duração; não indica antibiótico, antifúngico, anti-histamínico, corticoide oral ou imunomodulador. Face, pálpebras, dobras e genitais exigem atenção especial ao plano individual.\",\"synthetic_alias_resolution\":[{\"alias\":\"Dermatite de contato — apresentação pediátrica aguda\",\"resolution\":\"‘Aguda’ descreve tempo, não mecanismo. Confirmar exposição recente, irritação, alergia tardia, queimadura química, infecção, urticária imediata e reação medicamentosa antes de resolver.\"},{\"alias\":\"Dermatite de contato — evolução complicada/refratária\",\"resolution\":\"Não é nova doença. Revisar exposição persistente, diagnóstico, técnica/adesão, produto tópico sensibilizante, dermatite atópica, infecção, micose, escabiose e necessidade de teste de contato.\"},{\"alias\":\"Dermatite de contato — forma grave/crítica\",\"resolution\":\"‘Crítica’ não é classificação padrão. Extensão importante, dor, bolhas, mucosas, pele descolando, sintomas sistêmicos, anafilaxia ou queimadura química bloqueiam orientação domiciliar e exigem avaliação urgente.\"}],\"not_automatically_equivalent_to\":[\"Dermatite atópica ou eczema atópico\",\"Urticária de contato, angioedema ou anafilaxia\",\"Queimadura química\",\"Impetigo, celulite, eczema herpético, micose ou escabiose\",\"Síndrome de Stevens-Johnson ou necrólise epidérmica tóxica\",\"Alergia alimentar ou indicação de dieta de exclusão\",\"Toda vermelhidão, coceira, descamação ou bolha após um produto\",\"Autorização para teste caseiro, reexposição deliberada ou automedicação\"],\"pediatric_scope\":\"Lactentes, crianças e adolescentes. Exposições mudam com idade: saliva e fraldas em lactentes; sabonetes, brinquedos, slime, plantas, adesivos e materiais escolares em crianças; cosméticos, fragrâncias, esmaltes, metais, tatuagens temporárias, equipamentos esportivos e trabalho em adolescentes. Recém-nascido, quadro extenso, face/olhos/genitais, dor importante, febre, bolhas ou falha de crescimento exigem avaliação precoce.\",\"counting_rule\":\"Zero nova entidade clínica. Registrar uma resolução terminológica/alias administrativo exato do canônico pps_60, preservando todas as keys e os ramos irritativo/alérgico sem inflar contagem.\",\"critical_context_to_confirm\":[\"Idade, início, distribuição, extensão, coceira, ardor, dor, bolhas, secreção, febre e sintomas gerais\",\"Produto, planta, metal, adesivo, roupa, calçado, brinquedo, medicamento tópico, ocupação ou atividade antes da erupção\",\"Tempo entre exposição e sintomas, melhora ao afastar e recidiva com reexposição não deliberada\",\"Dermatite atópica, alergia imediata, asma/rinite, infecção, medicamento novo e produtos usados por familiares\",\"Rótulos, ingredientes e fotos da evolução, sem testar o produto novamente na pele\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Dermatite de contato é uma inflamação da pele provocada por algo que tocou a região. Pode ser irritativa, por dano direto, ou alérgica, por reação tardia após sensibilização. Não é contagiosa.",
+          "Afaste o produto ou material suspeito sem fazer nova prova na pele. Guarde nome, embalagem, lista de ingredientes e fotos da evolução para levar à consulta.",
+          "Se o contato foi recente e não há queimadura química, retire roupa ou acessório contaminado e enxágue suavemente a pele com água em temperatura confortável. Não esfregue e não use álcool, vinagre, solvente ou neutralizante caseiro.",
+          "Lave roupas, brinquedos, ferramentas ou objetos que possam manter planta, resina, detergente ou outro agente. Em exposição a planta, o líquido da bolha não transmite a erupção, mas óleo ainda presente na pele ou em objetos pode alcançar outras pessoas.",
+          "Use hidratante sem fragrância já tolerado para proteger a barreira, especialmente após lavar. Suspenda somente o produto que claramente piorou a área e avise a equipe.",
+          "Mantenha unhas curtas e evite coçar. Observe se a erupção está se espalhando, ficando dolorosa, quente, com pus, febre, bolhas extensas ou mucosas atingidas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Prefira banho curto e morno, limpador suave sem fragrância e roupa macia. Evite água quente, bucha, perfume, óleo essencial, cosmético novo e contato repetido com água ou detergente.",
+          "Compressa limpa e fresca por poucos minutos pode aliviar ardor ou coceira. Não aplique gelo direto e não cubra hermeticamente pele inflamada ou úmida sem orientação.",
+          "Use luva ou roupa protetora somente quando apropriado ao agente e à atividade; retire periodicamente se houver suor e use forro macio quando a própria luva irritar. Proteção inadequada não substitui afastar o agente.",
+          "Não faça teste caseiro com cosmético, metal, tinta, planta, adesivo, medicamento ou alimento na pele. Reexposição pode piorar a reação e não substitui teste de contato profissional.",
+          "A palavra ‘hipoalergênico’, ‘natural’ ou ‘sem perfume’ não garante ausência do alérgeno individual. Compare ingredientes e siga a lista de evitação fornecida após avaliação.",
+          "Informe escola, creche, esporte ou trabalho sobre o agente confirmado e as medidas de proteção. Afastamento não é automático se a criança estiver bem e não houver infecção transmissível."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o medicamento tópico já prescrito para esta criança, na região, quantidade e duração orientadas. Esta ficha não escolhe corticoide, potência, frequência ou tempo de uso.",
+          "Face, pálpebras, dobras e genitais têm pele mais sensível; não reutilize receita de outra área nem medicamento de familiar.",
+          "Não aplique antibiótico, antifúngico, anestésico, pomada combinada, fitoterápico ou óleo essencial por conta própria. Alguns produtos tópicos podem irritar ou provocar nova alergia de contato.",
+          "Não inicie anti-histamínico sedativo, corticoide oral/injetável ou imunomodulador sem avaliação. Não interrompa de repente tratamento sistêmico prescrito; peça orientação à equipe.",
+          "Se o produto prescrito causar ardor intenso persistente, inchaço, bolhas ou piora nítida logo após cada aplicação, suspenda o produto suspeito, preserve a embalagem e procure orientação.",
+          "Antibiótico só é usado quando há infecção avaliada; crosta ou líquido claro isolado não comprovam bactéria. Bolhas dolorosas, febre ou piora rápida exigem reavaliação antes de acrescentar remédio."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos habituais para a idade. Dermatite de contato não exige retirar leite, ovo, trigo ou outro alimento.",
+          "Vermelhidão localizada ao redor da boca após alimento ácido pode ser irritação de contato e não confirma alergia alimentar. Limpe suavemente, proteja a barreira conforme orientação e registre o contexto.",
+          "Não faça dieta de exclusão nem reintrodução provocativa para investigar uma erupção de contato. Suspeita de reação alimentar imediata deve seguir avaliação própria.",
+          "Se surgirem urticária disseminada, inchaço de boca/língua, vômitos repetidos, tosse, chiado, falta de ar, palidez, desmaio ou flacidez logo após alimento, medicamento ou látex, acione o SAMU 192 e siga o plano de anafilaxia já prescrito.",
+          "Em lactentes, mantenha leite materno ou fórmula habitual se o bebê estiver alerta, respirando bem e aceitando. Recusa persistente, pouca urina, boca seca ou sonolência exige avaliação.",
+          "Não passe alimento, leite, farinha, limão, pasta de dente ou óleo de cozinha na pele. Essas substâncias podem irritar, contaminar ou dificultar o diagnóstico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade para respirar ou engolir, voz rouca, chiado, inchaço súbito de língua/garganta, lábios arroxeados, palidez, confusão, desmaio ou criança flácida: use adrenalina somente se já prescrita e acione o SAMU 192.",
+          "Erupção disseminada dolorosa, grandes bolhas, pele descolando ou feridas em boca, olhos ou genitais, especialmente após medicamento novo ou infecção: hospital imediatamente por possível reação cutânea grave.",
+          "Pus, crosta amarelada extensa, dor crescente, calor, inchaço, vermelhidão em expansão, listras vermelhas, febre, calafrios ou prostração: avaliação urgente por possível infecção.",
+          "Produto químico corrosivo na pele ou nos olhos, dor intensa imediata, branqueamento/escurecimento da pele ou bolhas após químico: retire roupa contaminada, irrigue com água corrente e busque emergência/CIATox; não neutralize em casa.",
+          "Olho vermelho ou doloroso, inchaço importante das pálpebras, sensibilidade à luz, alteração visual ou substância química no olho: irrigação imediata e emergência oftalmológica.",
+          "Lactente menor de 3 meses com temperatura de 38 °C ou mais, recusa de mamar, flacidez, dificuldade para acordar ou respiração diferente: avaliação imediata, sem atribuir a febre à dermatite."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a erupção for persistente, recorrente, extensa, muito pruriginosa, atingir face/mãos/genitais, atrapalhar sono/escola ou não melhorar após afastar o agente e seguir o plano.",
+          "Retorne no prazo definido pela equipe para conferir melhora, técnica, produtos usados e prevenção. Leve rótulos, embalagens, fotos e uma linha do tempo das exposições.",
+          "Antecipe a avaliação se surgirem dor, bolhas, secreção, crostas, febre ou piora rápida; esses sinais mudam o diagnóstico e a urgência.",
+          "Se a causa permanecer incerta, a dermatite voltar no mesmo local ou falhar ao tratamento, dermatologia/alergia pode indicar teste de contato. O resultado precisa ser relacionado às exposições reais.",
+          "Dermatite atópica que piora com produtos, medicamentos tópicos ou curativos merece revisão de alergia de contato associada, sem abandonar automaticamente o tratamento da doença de base.",
+          "Após identificar o agente, peça nomes alternativos e uma lista de produtos seguros. Reavalie se a evitação for impraticável na escola, esporte ou trabalho, para adaptar proteção sem nova exposição."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Erupção extensa ou bolhosa nesta idade exige confirmação diagnóstica. Febre de 38 °C ou mais, recusa de mamar, sonolência, flacidez ou respiração alterada é urgência imediata; não presumir dermatite de contato nem usar medicamento sem prescrição específica.",
+        "3a5m": "Revisar lenços, sabonetes, detergente, fragrâncias, adesivos, pomadas, saliva e produtos usados pelo cuidador. Manter alimentação habitual e avaliar cedo face/olhos, bolhas, febre ou redução de mamadas.",
+        "6a11m": "Contato com saliva, alimento, brinquedo, tapete e produto de limpeza pode irritar. Limpar sem esfregar, não restringir alimento por vermelhidão local isolada e impedir acesso a químicos.",
+        "1a": "A criança pode não explicar ardor ou dor. Observar mudança de comportamento e guardar produtos fora do alcance; exposição química, olho atingido, bolhas ou dor intensa exige atendimento imediato.",
+        "2a5": "Revisar tinta, massinha, slime, cola, adesivo, fantasia, planta, protetor e material escolar. Escola deve conhecer o agente confirmado e evitar reexposição, sem afastamento automático quando a criança está bem.",
+        "6a11": "Metais, relógio, eletrônico, equipamento esportivo, calçado, fragrância e produto artesanal podem reproduzir a erupção. Ensinar leitura de rótulo sem permitir teste caseiro; considerar impacto em sono, concentração e bullying.",
+        "12a17": "Revisar cosméticos, fragrâncias, tintura, unha em gel, tatuagem temporária, piercing, adesivo, luva e exposição ocupacional. Incluir o adolescente no plano e investigar automedicação e impacto psicossocial.",
+        "unknown": "Confirmar idade, exposição, tempo até a erupção, local, extensão, coceira versus dor, bolhas, mucosas, febre, medicamento novo e tratamento usado. Sem esses dados, não escolher mecanismo, potência ou duração."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3319_1",
+          "name": "Dermatite de contato",
+          "url": "https://www.sbd.org.br/doencas/dermatite-de-contato/"
+        },
+        {
+          "id": "pais269_op3319_2",
+          "name": "Dermatite atópica: abordagem global atualizada — diferenciais dermatológicos pediátricos",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/marco/07/23462h-Pronap_cXXIV_n1_SITE.pdf"
+        },
+        {
+          "id": "pais269_op3319_3",
+          "name": "European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing—Recommendations on Best Practice (Update 2026)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13441402/"
+        },
+        {
+          "id": "pais269_op3319_4",
+          "name": "Contact dermatitis",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/"
+        },
+        {
+          "id": "pais269_op3319_5",
+          "name": "Eczema types: Contact dermatitis diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/eczema/types/contact-dermatitis/treatment"
+        },
+        {
+          "id": "pais269_op3319_6",
+          "name": "Poison Ivy, Poison Oak & Poison Sumac Rash: How to Avoid or Treat It",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Poison-Ivy-Treatment.aspx"
+        },
+        {
+          "id": "pais269_op3319_7",
+          "name": "Stevens-Johnson syndrome",
+          "url": "https://www.nhs.uk/conditions/stevens-johnson-syndrome/"
+        },
+        {
+          "id": "pais269_op3319_8",
+          "name": "Anaphylaxis",
+          "url": "https://www.nhs.uk/conditions/anaphylaxis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3320",
+      "specific": false,
+      "key": "pps_catalog_4cd87ea4d657a12d",
+      "label": "Dermatite de contato aguda — registro no PPS",
+      "entity": "Dermatite de contato pediátrica em apresentação aguda, irritativa ou alérgica, após exposição cutânea externa",
+      "assessment": "{\"classification\":\"VALID_ACUTE_PRESENTATION_QUALIFIER_WITH_ADMINISTRATIVE_SUFFIX_NOT_A_DISTINCT_ENTITY\",\"normalized_entity\":\"Dermatite de contato irritativa ou alérgica — apresentação aguda\",\"assessment\":\"Dermatite de contato aguda é uma inflamação eczematosa que surge após contato com agente externo. A forma irritativa resulta de dano direto à barreira e pode aparecer já na primeira exposição, com ardor, dor, ressecamento, fissuras ou bolhas conforme concentração e tempo. A forma alérgica é uma hipersensibilidade tardia após sensibilização, costuma coçar e pode surgir horas ou dias depois, ultrapassando a área de contato. ‘Aguda’ não permite escolher o mecanismo apenas pelo tempo.\",\"reconciliation\":{\"canonical_core_key\":\"pps_60\",\"canonical_core_label\":\"Dermatite de Contato (Irritativa e Alérgica)\",\"related_generic_alias\":\"pps_catalog_d745e3211f2ce20d\",\"allergic_subtype_key\":\"pdf1500_349\",\"relationship\":\"ACUTE_PRESENTATION_OVERLAY_OF_EXISTING_COMBINED_CANONICAL\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY_ONE_QUALIFIER_RECORD_PRESERVED\",\"resolution\":\"Manter esta key selecionável e fazer o gerador usar o conteúdo canônico de pps_60 com ênfase em remoção da exposição, cronologia e triagem de urgência. Não duplicar entidade, evidência ou manutenção.\",\"publication_boundary\":\"Este resultado comprova pesquisa e duas revisões automatizadas por IA. Não comprova integração, testes do gerador, commit, deployment ou publicação.\"},\"acute_boundary\":\"Apresentação aguda pode ocorrer tanto na dermatite irritativa quanto na alérgica. Uma única exposição intensa favorece dano irritativo; exposição previamente tolerada seguida de reação tardia pruriginosa favorece alergia, mas história, distribuição e evolução precisam ser avaliadas.\",\"irritant_boundary\":\"Contato com detergente, solvente, ácido, álcali, desinfetante, saliva, fricção ou água repetida pode causar dano direto. Dor/ardor e limites próximos à exposição favorecem o mecanismo irritativo, mas agente corrosivo, dor intensa imediata, alteração de cor ou bolha deve ser tratado como possível queimadura química.\",\"allergic_boundary\":\"A forma alérgica exige sensibilização prévia e pode surgir 24–48 horas ou alguns dias após níquel, fragrância, conservante, cosmético, adesivo, borracha, planta ou medicamento tópico. Pode coçar muito, formar vesículas e se estender além do contato. Teste de contato é indicado e interpretado por profissional quando recorrente, persistente ou incerto.\",\"infection_boundary\":\"Pus, dor crescente, calor, edema, crosta amarelada extensa, vermelhidão em expansão, listras, febre ou prostração sugerem infecção secundária e não devem ser tratados como simples crise aguda.\",\"immediate_allergy_boundary\":\"Urticária disseminada, angioedema, vômitos repetidos, chiado, dispneia, palidez, síncope ou flacidez logo após exposição sugerem reação imediata/anafilaxia, não dermatite alérgica tardia.\",\"severe_cutaneous_reaction_boundary\":\"Erupção disseminada dolorosa, bolhas extensas, descolamento da pele ou feridas em boca, olhos ou genitais, especialmente após medicamento novo, exige hospital por possível reação cutânea grave.\",\"medication_boundary\":\"A ficha não escolhe corticoide tópico, potência, quantidade, frequência, área ou duração e não inicia antimicrobiano, anti-histamínico, corticoide sistêmico ou imunomodulador. Face, pálpebras, dobras e genitais exigem plano individual.\",\"not_automatically_equivalent_to\":[\"Dermatite atópica agudizada\",\"Urticária de contato, angioedema ou anafilaxia\",\"Queimadura química\",\"Impetigo, celulite, eczema herpético, micose ou escabiose\",\"Síndrome de Stevens-Johnson ou necrólise epidérmica tóxica\",\"Alergia alimentar ou indicação de dieta de exclusão\",\"Autorização para teste caseiro, reexposição deliberada ou automedicação\"],\"pediatric_scope\":\"Lactentes, crianças e adolescentes. Exposições variam com idade: saliva, lenços e produtos do cuidador em lactentes; slime, tinta, cola, planta e material escolar em crianças; cosméticos, tintura, unhas, metais, luvas e trabalho em adolescentes. Recém-nascido, quadro extenso, olhos/mucosas, dor intensa, bolhas ou febre exigem avaliação precoce.\",\"counting_rule\":\"Zero nova entidade clínica. Contar uma resolução terminológica de qualificador agudo e manter a key rastreável como overlay do canônico pps_60.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Dermatite de contato aguda é uma inflamação da pele após contato com algo irritante ou alergênico. ‘Aguda’ informa que começou recentemente, mas não distingue irritação, alergia tardia, queimadura química ou reação imediata.",
+          "Afaste o produto ou material suspeito e não faça teste de reexposição. Guarde embalagem, rótulo, ingredientes e fotos e anote o intervalo entre contato e sintomas.",
+          "Se foi contato recente com produto não corrosivo, retire roupa ou acessório contaminado e enxágue suavemente a pele com água em temperatura confortável. Não esfregue nem use neutralizante caseiro.",
+          "Use somente hidratante sem fragrância já tolerado para proteger a barreira, conforme orientação. Suspenda o produto que piorou claramente a região e leve-o à consulta.",
+          "Mantenha unhas curtas, roupas macias e ambiente fresco. Não rompa bolhas e não cubra hermeticamente área úmida ou dolorosa sem orientação.",
+          "Observe extensão, dor versus coceira, febre, secreção, bolhas, olhos e mucosas. Piora rápida ou sintomas gerais mudam a urgência."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Faça banho curto e morno, com limpador suave sem fragrância apenas onde necessário. Evite bucha, água quente, perfume, óleo essencial e cosmético novo.",
+          "Compressa limpa e fresca por poucos minutos pode aliviar ardor ou coceira quando não há exposição química ativa. Não use gelo direto.",
+          "Lave objetos e roupas que possam manter planta, resina, adesivo, detergente ou outro agente. O líquido de bolhas não transmite dermatite, mas resíduo do agente pode contaminar outras pessoas.",
+          "Não faça teste caseiro com cosmético, metal, planta, cola, medicamento ou alimento na pele. Reexposição pode agravar a reação.",
+          "Proteção com luva ou roupa só deve ser usada se adequada ao agente; retire se houver suor e considere forro macio. A proteção não substitui afastar a exposição.",
+          "Informe escola, creche, esporte ou trabalho sobre o agente confirmado. Dermatite de contato não é contagiosa e não exige afastamento automático quando a criança está bem."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o medicamento tópico já prescrito para esta criança, na região, quantidade e duração definidas pela equipe. Esta ficha não escolhe corticoide nem potência.",
+          "Não reutilize receita de outra área ou pessoa. Face, pálpebras, dobras e genitais podem exigir tratamento diferente.",
+          "Não aplique antibiótico, antifúngico, anestésico, pomada combinada, fitoterápico ou óleo essencial por conta própria; alguns produtos tópicos também provocam irritação ou alergia.",
+          "Não inicie anti-histamínico sedativo, corticoide oral/injetável ou imunomodulador sem avaliação. Dermatite alérgica tardia não é tratada como anafilaxia.",
+          "Se o produto prescrito causar ardor intenso persistente, inchaço, bolha ou piora repetida logo após aplicar, suspenda somente o produto suspeito, preserve a embalagem e procure orientação.",
+          "Antibiótico depende de infecção avaliada. Crosta ou líquido claro isolado não comprova bactéria; febre, pus, dor crescente ou expansão exigem reavaliação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos habituais para a idade. Dermatite de contato não exige retirar leite, ovo, trigo ou outro alimento.",
+          "Vermelhidão localizada ao redor da boca após alimento ácido pode ser irritação de contato e não confirma alergia alimentar. Limpe suavemente e registre o contexto.",
+          "Não faça dieta de exclusão, teste cutâneo caseiro ou reintrodução provocativa para investigar essa erupção.",
+          "Urticária disseminada, inchaço de boca/língua, vômitos repetidos, tosse, chiado, falta de ar, palidez, desmaio ou flacidez logo após alimento, medicamento ou látex é possível anafilaxia: acione o SAMU 192 e siga plano já prescrito.",
+          "Em lactentes, mantenha leite materno ou fórmula habitual se o bebê estiver alerta, respirando bem e aceitando. Recusa persistente, pouca urina ou sonolência exige avaliação.",
+          "Não passe alimento, leite, farinha, limão, pasta de dente ou óleo de cozinha na pele; podem irritar, contaminar e dificultar o diagnóstico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade para respirar ou engolir, voz rouca, chiado, inchaço súbito de língua/garganta, lábios arroxeados, palidez, confusão, desmaio ou flacidez: acione o SAMU 192 e use adrenalina somente conforme plano já prescrito.",
+          "Erupção disseminada dolorosa, grandes bolhas, pele descolando ou feridas em boca, olhos ou genitais, especialmente após medicamento novo: hospital imediatamente.",
+          "Pus, crosta amarelada extensa, dor crescente, calor, edema, vermelhidão em expansão, listras, febre, calafrios ou prostração: avaliação urgente por possível infecção.",
+          "Produto químico corrosivo na pele ou olhos, dor intensa imediata, branqueamento/escurecimento ou bolhas: retire roupa contaminada, irrigue com água corrente e procure emergência/CIATox; não neutralize em casa.",
+          "Olho vermelho ou doloroso, edema palpebral importante, fotofobia, alteração visual ou produto químico no olho: irrigação imediata e emergência oftalmológica.",
+          "Lactente menor de 3 meses com temperatura de 38 °C ou mais, recusa de mamar, flacidez, dificuldade para acordar ou respiração diferente: avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure consulta se a erupção persistir, voltar, for extensa, muito pruriginosa, atingir face/mãos/genitais, atrapalhar sono/escola ou não melhorar após afastar o agente e seguir o plano.",
+          "Retorne no prazo definido pela equipe para conferir melhora, técnica e prevenção. Leve rótulos, embalagens, fotos e linha do tempo das exposições.",
+          "Antecipe a avaliação diante de dor, bolhas, secreção, crostas, febre ou rápida expansão; esses sinais podem indicar outro diagnóstico ou complicação.",
+          "Quando a causa for incerta, recorrente ou resistente, dermatologia/alergia pode indicar teste de contato. O resultado precisa ser relacionado à exposição real.",
+          "Dermatite atópica que piora com produto tópico, curativo ou cosmético merece revisão de alergia de contato associada, sem abandonar automaticamente o tratamento de base.",
+          "Depois de identificar o agente, peça nomes alternativos e plano de evitação para casa, escola, esporte ou trabalho. Reavalie se evitar a exposição for impraticável."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Erupção extensa ou bolhosa nesta idade exige confirmação diagnóstica. Febre de 38 °C ou mais, recusa de mamar, sonolência, flacidez ou respiração alterada é urgência; não presumir dermatite de contato.",
+        "3a5m": "Revisar lenços, sabonetes, detergente, fragrâncias, adesivos, pomadas e produtos do cuidador. Manter alimentação habitual e avaliar cedo face/olhos, bolhas, febre ou redução de mamadas.",
+        "6a11m": "Saliva, alimento, brinquedo, tapete e produto de limpeza podem irritar. Limpar sem esfregar, não restringir alimento por vermelhidão local isolada e impedir acesso a químicos.",
+        "1a": "A criança pode não explicar ardor ou dor. Observar mudança de comportamento e manter químicos fora do alcance; olho atingido, bolhas ou dor intensa exige atendimento imediato.",
+        "2a5": "Revisar tinta, massinha, slime, cola, adesivo, fantasia, planta, protetor e material escolar. A escola deve evitar o agente confirmado sem afastamento automático quando a criança está bem.",
+        "6a11": "Metais, relógio, eletrônico, equipamento esportivo, calçado e produto artesanal podem reproduzir a erupção. Ensinar leitura de rótulo sem permitir teste caseiro.",
+        "12a17": "Revisar cosméticos, fragrâncias, tintura, unha em gel, tatuagem temporária, piercing, adesivo, luva e exposição ocupacional; incluir o adolescente no plano.",
+        "unknown": "Confirmar idade, exposição, tempo até erupção, local, extensão, coceira versus dor, bolhas, mucosas, febre, medicamento novo e tratamento usado antes de definir mecanismo ou terapia."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3320_1",
+          "name": "Dermatite de contato",
+          "url": "https://www.sbd.org.br/doencas/dermatite-de-contato/"
+        },
+        {
+          "id": "pais269_op3320_2",
+          "name": "Dermatite de Contato",
+          "url": "https://www.medicina.ufmg.br/observaped/dermatite-de-contato/"
+        },
+        {
+          "id": "pais269_op3320_3",
+          "name": "Contact dermatitis",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/"
+        },
+        {
+          "id": "pais269_op3320_4",
+          "name": "Allergic contact dermatitis in children",
+          "url": "https://dermnetnz.org/topics/allergic-contact-dermatitis-in-children"
+        },
+        {
+          "id": "pais269_op3320_5",
+          "name": "Patch testing can find what's causing your rash",
+          "url": "https://www.aad.org/public/diseases/eczema/types/contact-dermatitis/patch-testing-rash"
+        },
+        {
+          "id": "pais269_op3320_6",
+          "name": "Primeiros socorros",
+          "url": "https://ciatox.saude.sc.gov.br/index.php/servicos/primeiros-socorros"
+        },
+        {
+          "id": "pais269_op3320_7",
+          "name": "2024 American Heart Association and American Red Cross Guidelines for First Aid",
+          "url": "https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3321",
+      "specific": false,
+      "key": "pps_catalog_c4a4c2343ff63124",
+      "label": "Dermatite de Contato Agudizada — registro no PPS",
+      "entity": "Dermatite de contato irritativa ou alérgica em apresentação aguda/exacerbada, sem mecanismo, causa ou gravidade definidos pelo qualificador",
+      "assessment": "{\"classification\":\"VALID_ACUTE_FLARE_QUALIFIER_OF_EXISTING_CONTACT_DERMATITIS_CORE_WITH_ADMINISTRATIVE_SUFFIX\",\"normalized_entity\":\"Dermatite de contato irritativa ou alérgica em apresentação aguda\",\"administrative_suffix\":\"‘registro no PPS’ indica origem cadastral e não altera diagnóstico, população, mecanismo, risco ou tratamento.\",\"assessment\":\"O termo é clinicamente interpretável apenas como dermatite de contato atualmente ativa ou piorada. ‘Agudizada’ não distingue dano irritativo direto de hipersensibilidade alérgica tardia, não identifica o agente e não significa, por si, quadro grave. Uma erupção aguda após contato ainda pode ser queimadura química, urticária/anafilaxia, infecção, exacerbação de dermatite atópica ou reação cutânea grave, exigindo reclassificação conforme história e sinais.\",\"reconciliation\":{\"canonical_core_key\":\"pps_60\",\"canonical_core_label\":\"Dermatite de Contato (Irritativa e Alérgica)\",\"relationship\":\"ACUTE_MANIFESTATION_ALIAS_OF_EXISTING_CLINICAL_CORE\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY_ONE_QUALIFIED_ALIAS_RECORD_PRESERVED\",\"resolution\":\"Preservar a key e o label como alias qualificado; resolver para pps_60 com flag de apresentação aguda. Manter os ramos irritativo e alérgico distinguíveis e bloquear a ficha comum quando houver emergência ou diagnóstico alternativo provável.\",\"publication_boundary\":\"Resultado pesquisado e revisado por IA. Não comprova integração no gerador, revisão humana, commit, deployment ou publicação.\"},\"irritant_boundary\":\"Dermatite irritativa decorre de dano direto à barreira por água, saliva, urina/fezes, fricção, sabonete, detergente, desinfetante, solvente ou outro agente. Pode surgir na primeira exposição, costuma predominar na área tocada e pode causar ardor, dor, ressecamento e fissuras.\",\"allergic_boundary\":\"Dermatite alérgica é reação tardia após sensibilização. Coceira e vesículas podem predominar e a erupção pode ultrapassar a área inicial. Metais, fragrâncias, conservantes, cosméticos, adesivos, borracha, plantas e medicamentos tópicos são possibilidades; rótulo ou coincidência temporal não confirmam causalidade.\",\"chemical_burn_boundary\":\"Dor intensa imediata, aspecto esbranquiçado ou escurecido, corrosivo conhecido, bolhas rápidas ou olho atingido sugerem queimadura química, não simples dermatite. Remover contaminação, irrigar com água e buscar emergência/CIATox; não neutralizar com outro produto.\",\"infection_boundary\":\"Pus, crosta amarelada extensa, calor, inchaço, dor crescente, vermelhidão em expansão, listras, febre ou prostração sugerem infecção secundária/celulite e exigem avaliação, em vez de intensificar tratamento de eczema por conta própria.\",\"anaphylaxis_boundary\":\"Urticária de início rápido com edema de língua/garganta, rouquidão, chiado, falta de ar, vômitos repetidos, palidez, desmaio ou flacidez é possível anafilaxia. É emergência sistêmica e não deve resolver para dermatite de contato tardia.\",\"atopic_boundary\":\"Dermatite atópica é doença crônica recidivante distinta, embora aumente vulnerabilidade a irritantes e possa coexistir com alergia de contato. Distribuição típica, história prévia e resposta ao plano ajudam; piora com produto tópico ou refratariedade justificam investigar contato associado.\",\"severe_cutaneous_reaction_boundary\":\"Erupção disseminada dolorosa, bolhas extensas, pele descolando ou feridas em boca, olhos ou genitais, sobretudo após medicamento novo, sugerem reação cutânea grave como síndrome de Stevens-Johnson/necrólise epidérmica tóxica e exigem hospital imediato.\",\"patch_testing_boundary\":\"Teste de contato pode ser indicado por dermatologia/alergia em doença persistente, recorrente ou com alérgeno incerto. Deve ser aplicado e interpretado por profissional com relevância clínica; não é teste de puntura, teste alimentar nem reexposição caseira.\",\"medication_boundary\":\"Esta ficha não escolhe corticoide tópico, potência, quantidade, frequência, área ou duração e não indica antibiótico, antifúngico, anti-histamínico, corticoide sistêmico ou imunomodulador. Face, pálpebras, dobras e genitais exigem plano individual.\",\"not_automatically_equivalent_to\":[\"Dermatite atópica ou eczema atópico\",\"Urticária de contato, angioedema ou anafilaxia\",\"Queimadura química ou lesão ocular química\",\"Impetigo, celulite, eczema herpético, micose ou escabiose\",\"Síndrome de Stevens-Johnson ou necrólise epidérmica tóxica\",\"Alergia alimentar ou indicação de dieta de exclusão\",\"Toda erupção aguda após produto, planta, metal ou medicamento\",\"Autorização para reexposição, teste caseiro ou automedicação\"],\"pediatric_scope\":\"Lactentes, crianças e adolescentes. Exposições e riscos variam: saliva, fraldas e produtos do cuidador em lactentes; sabonetes, brinquedos, slime, plantas, cola e materiais escolares em crianças; cosméticos, fragrâncias, tinturas, unhas, piercings, metais, equipamento esportivo e trabalho em adolescentes. Recém-nascido, menor de 3 meses com febre, quadro extenso, face/olhos/genitais, dor, bolhas ou sintomas sistêmicos exigem avaliação precoce.\",\"counting_rule\":\"Zero nova entidade clínica. Contar uma resolução terminológica/alias de apresentação aguda do canônico pps_60, preservando a key original e sem duplicar cobertura.\",\"critical_context_to_confirm\":[\"Idade, início, progressão, distribuição, extensão, coceira, ardor, dor, bolhas, secreção, febre e sintomas gerais\",\"Produto, planta, metal, adesivo, roupa, calçado, brinquedo, cosmético, medicamento tópico ou atividade antes da erupção\",\"Tempo entre contato e sintomas e melhora após afastamento, sem reexposição deliberada\",\"Contato corrosivo ou ocular, medicamento novo, dermatite atópica, alergia imediata e sinais de infecção\",\"Rótulo, ingredientes, embalagem e fotos da evolução para avaliação profissional\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "‘Agudizada’ significa que a dermatite está ativa ou piorou; não informa sozinha se é irritativa ou alérgica. Dermatite de contato comum não é contagiosa, mas primeiro é preciso excluir químico corrosivo, infecção e reação grave.",
+          "Afaste o produto ou material suspeito sem fazer nova prova na pele. Guarde embalagem, lista de ingredientes, fotos e uma linha do tempo para a consulta.",
+          "Se houve contato recente não corrosivo, retire roupa ou acessório contaminado e lave suavemente a pele com água em temperatura confortável. Não esfregue nem use álcool, vinagre, solvente ou neutralizante caseiro.",
+          "Use hidratante sem fragrância já tolerado para proteger a barreira, sobretudo após lavar. Se o próprio produto piorar a área de modo repetido, suspenda-o e mostre a embalagem à equipe.",
+          "Mantenha unhas curtas e evite coçar. Observe dor crescente, calor, pus, febre, bolhas extensas, pele descolando, mucosas atingidas ou sintomas respiratórios.",
+          "Lave roupas e objetos que possam manter o agente. Se foi planta, o líquido das bolhas não transmite a erupção, mas resíduo em pele, roupa ou utensílio pode causar novo contato."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Prefira banho curto e morno, limpador suave sem fragrância e roupa macia. Evite água quente, bucha, perfume, óleo essencial, cosmético novo e contato repetido com água ou detergente.",
+          "Compressa limpa e fresca por poucos minutos pode aliviar coceira ou ardor. Não aplique gelo direto e não cubra hermeticamente pele úmida ou inflamada sem orientação.",
+          "Proteção com luva ou roupa só ajuda quando apropriada ao agente; suor, borracha, adesivo ou atrito também podem piorar. A proteção não substitui afastar a exposição.",
+          "Não faça teste caseiro com cosmético, metal, tinta, planta, adesivo, medicamento ou alimento. Reexposição pode piorar e não substitui teste de contato profissional.",
+          "‘Natural’, ‘hipoalergênico’ ou ‘sem perfume’ não garante segurança para um alérgeno individual. Use a lista de evitação fornecida após avaliação.",
+          "Informe escola, creche, esporte ou trabalho sobre o agente confirmado e as medidas de proteção. Afastamento não é automático se a criança está bem e não há infecção transmissível."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas medicamento já prescrito para esta criança, no local, quantidade e período orientados. Esta ficha não escolhe corticoide, potência, frequência ou duração.",
+          "Face, pálpebras, dobras e genitais têm pele mais sensível. Não reutilize receita de outra área, de episódio antigo ou de outra pessoa.",
+          "Não aplique antibiótico, antifúngico, anestésico, pomada combinada, fitoterápico ou óleo essencial por conta própria; produtos tópicos também podem irritar ou causar alergia.",
+          "Não inicie anti-histamínico sedativo, corticoide oral/injetável ou imunomodulador sem avaliação. Não interrompa abruptamente tratamento sistêmico prescrito; contate a equipe.",
+          "Ardor intenso persistente, inchaço, bolhas ou piora nítida após cada aplicação exige suspender o produto suspeito, preservar a embalagem e procurar orientação.",
+          "Antibiótico só é usado quando infecção é avaliada. Pus, dor crescente, calor, vermelhidão em expansão, febre ou prostração pedem reavaliação urgente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos habituais para a idade. Dermatite de contato não exige retirar leite, ovo, trigo ou outro alimento.",
+          "Vermelhidão localizada ao redor da boca após alimento ácido pode ser irritação de contato e não confirma alergia alimentar. Limpe suavemente e registre o contexto.",
+          "Não faça dieta de exclusão, teste alimentar ou reintrodução provocativa para investigar esta erupção; suspeita de reação alimentar imediata segue avaliação própria.",
+          "Urticária disseminada, inchaço de boca/língua, vômitos repetidos, tosse, chiado, falta de ar, palidez, desmaio ou flacidez logo após alimento, medicamento ou látex: acione o SAMU 192 e siga o plano de anafilaxia já prescrito.",
+          "Em lactentes, mantenha leite materno ou fórmula habitual se o bebê está alerta, respirando bem e aceitando. Recusa persistente, pouca urina, boca seca ou sonolência exige avaliação.",
+          "Não passe alimento, leite, farinha, limão, pasta de dente ou óleo de cozinha na pele; podem irritar, contaminar e dificultar o diagnóstico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade para respirar ou engolir, voz rouca, chiado, inchaço súbito de língua/garganta, lábios arroxeados, palidez, confusão, desmaio ou flacidez: use adrenalina somente se já prescrita e acione o SAMU 192.",
+          "Erupção disseminada dolorosa, grandes bolhas, pele descolando ou feridas em boca, olhos ou genitais, especialmente após medicamento novo: hospital imediatamente por possível reação cutânea grave.",
+          "Produto químico corrosivo na pele/olhos, dor intensa imediata, branqueamento/escurecimento ou bolhas: retire roupa contaminada, remova pó seco sem espalhar, irrigue com água e procure emergência/CIATox 0800 722 6001; não neutralize.",
+          "Olho vermelho ou doloroso, inchaço importante da pálpebra, sensibilidade à luz, alteração visual ou químico no olho: irrigue imediatamente e procure emergência oftalmológica.",
+          "Pus, crosta amarelada extensa, dor crescente, calor, inchaço, vermelhidão em expansão, listras, febre, calafrios ou prostração: avaliação urgente por possível infecção.",
+          "Menor de 3 meses com temperatura de 38 °C ou mais, recusa de mamar, flacidez, dificuldade para acordar ou respiração diferente: avaliação imediata, sem atribuir a febre à dermatite."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a erupção for persistente, recorrente, extensa, muito pruriginosa, atingir face/mãos/genitais, atrapalhar sono/escola ou não melhorar após afastar o agente e seguir o plano.",
+          "Retorne no prazo definido pela equipe para conferir melhora, técnica, produtos e prevenção. Leve rótulos, embalagens, fotos e a linha do tempo das exposições.",
+          "Antecipe a avaliação se surgirem dor, bolhas, secreção, crostas, febre ou piora rápida; esses sinais mudam o diagnóstico e a urgência.",
+          "Se a causa continuar incerta, a dermatite voltar no mesmo local ou falhar ao tratamento, dermatologia/alergia pode indicar teste de contato profissional.",
+          "Dermatite atópica que piora com produtos, medicamentos tópicos ou curativos merece revisão de alergia de contato associada, sem abandonar automaticamente o tratamento da doença de base.",
+          "Após identificar o agente, peça nomes alternativos e uma lista de produtos seguros. Reavalie se a evitação for impraticável na escola, esporte ou trabalho para adaptar proteção."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Erupção extensa, dolorosa ou bolhosa nesta idade exige confirmação. Temperatura de 38 °C ou mais, recusa de mamar, sonolência, flacidez ou respiração alterada é urgência; não presumir dermatite de contato nem usar medicamento sem prescrição específica.",
+        "3a5m": "Revisar lenços, sabonetes, detergente, fragrâncias, adesivos, pomadas, saliva e produtos do cuidador. Manter alimentação habitual e avaliar cedo face/olhos, bolhas, febre ou redução de mamadas.",
+        "6a11m": "Saliva, alimento, brinquedo, tapete e produto de limpeza podem irritar. Limpar sem esfregar, não excluir alimento por vermelhidão local isolada e manter químicos fora do alcance.",
+        "1a": "A criança pode não explicar ardor ou dor. Observar comportamento e guardar produtos no alto e trancados; químico, olho atingido, bolhas ou dor intensa exige atendimento imediato.",
+        "2a5": "Revisar tinta, massinha, slime, cola, adesivo, fantasia, planta, protetor e material escolar. Escola deve evitar o agente confirmado sem fazer teste de reexposição.",
+        "6a11": "Metais, relógio, eletrônico, equipamento esportivo, calçado, fragrância e produto artesanal podem reproduzir a erupção. Ensinar leitura de rótulo, sem teste caseiro, e avaliar sono, concentração e bullying.",
+        "12a17": "Revisar cosméticos, fragrâncias, tintura, unha em gel, tatuagem temporária, piercing, adesivo, luva e exposição ocupacional. Incluir o adolescente no plano e perguntar sobre automedicação e impacto psicossocial.",
+        "unknown": "Confirmar idade, agente, tempo até a erupção, local, extensão, coceira versus dor, bolhas, mucosas, febre, medicamento novo e tratamento usado. Sem esses dados, não escolher mecanismo, potência ou duração."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3321_1",
+          "name": "Dermatite de contato",
+          "url": "https://www.sbd.org.br/doencas/dermatite-de-contato/"
+        },
+        {
+          "id": "pais269_op3321_2",
+          "name": "Contact Dermatitis in Children",
+          "url": "https://www.chop.edu/conditions-diseases/contact-dermatitis-children"
+        },
+        {
+          "id": "pais269_op3321_3",
+          "name": "Contact Dermatitis in Children",
+          "url": "https://www.nationwidechildrens.org/conditions/health-library/contact-dermatitis-in-children"
+        },
+        {
+          "id": "pais269_op3321_4",
+          "name": "Contact dermatitis — Symptoms",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/symptoms/"
+        },
+        {
+          "id": "pais269_op3321_5",
+          "name": "Contact dermatitis — Treatment",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/treatment/"
+        },
+        {
+          "id": "pais269_op3321_6",
+          "name": "Contact dermatitis: Treatment and management",
+          "url": "https://www.aad.org/public/diseases/eczema/types/contact-dermatitis/treatment"
+        },
+        {
+          "id": "pais269_op3321_7",
+          "name": "About Getting Clean",
+          "url": "https://www.cdc.gov/chemical-emergencies/response/get-clean.html"
+        },
+        {
+          "id": "pais269_op3321_8",
+          "name": "Disque-Intoxicação",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/agrotoxicos/disque-intoxicacao"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3322",
+      "specific": false,
+      "key": "pps_catalog_53aa2d9b2730da5c",
+      "label": "Dermatite de contato irritativa — registro no PPS",
+      "entity": "Dermatite de contato irritativa",
+      "assessment": "{\"classification\":\"VALID_SUBTYPE_WITH_ADMINISTRATIVE_QUALIFIER\",\"normalized_entity\":\"Dermatite de contato irritativa\",\"canonical_core\":\"pps_60\",\"relationship_to_core\":\"VALID_SUBTYPE_OF_PPS_60\",\"catalog_qualifier\":\"registro no PPS\",\"qualifier_assessment\":\"administrativo, sem significado nosológico\",\"counting_rule\":\"preservar um registro nominal rastreável; contar zero entidades adicionais\",\"mechanism\":\"inflamação por dano direto e cumulativo ou agudo à barreira cutânea após contato com irritante; não exige sensibilização imunológica prévia\",\"boundaries\":[\"Dermatite de contato alérgica é reação de hipersensibilidade tardia a alérgeno específico e pode exigir investigação com teste de contato; não é sinônimo.\",\"Dermatite atópica é doença inflamatória crônica com padrão e história próprios; pode coexistir e aumentar a vulnerabilidade a irritantes, mas não deve ser reclassificada automaticamente.\",\"Queimadura química, especialmente por cáusticos, exposição ocular, dor intensa ou bolhas extensas, é emergência e não deve ser tratada como dermatite domiciliar comum.\",\"Impetiginização, celulite ou outra infecção secundária requerem avaliação clínica; secreção, dor progressiva e sintomas sistêmicos não são evolução habitual simples.\",\"Urticária generalizada, edema de língua/lábios e dificuldade respiratória sugerem reação imediata/anafilaxia, não dermatite irritativa isolada.\",\"Bolhas disseminadas, descolamento de pele, lesões em boca/olhos/genitais ou quadro após medicamento novo levantam reação cutânea grave e exigem urgência.\",\"A distribuição, o tempo e a exposição ajudam, mas irritação e alergia podem se sobrepor; recorrência ou dúvida diagnóstica justificam dermatologia/dermatoalergologia.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Interrompa o contato com o produto ou atividade suspeita. A dermatite irritativa ocorre por dano direto à pele; não é contagiosa.",
+          "Se a exposição acabou de acontecer, retire com cuidado roupa, luva, relógio ou adorno contaminado e enxágue a pele com bastante água corrente em temperatura ambiente. Não esfregue.",
+          "Lave suavemente apenas quando necessário e seque encostando uma toalha macia, sem fricção. Evite água muito quente, buchas, álcool, perfumes e lenços umedecidos perfumados na área.",
+          "Aplique hidratante simples, sem perfume, já tolerado pela criança, especialmente após lavar as mãos ou tomar banho. Suspenda se arder muito ou piorar.",
+          "Fotografe a pele e guarde o nome, rótulo, ingredientes e horário do contato. Em exposição ocupacional ou industrial, leve a embalagem ou ficha de segurança ao atendimento, sem transportar recipiente vazando.",
+          "Não fure bolhas nem use pasta de dente, plantas, óleos essenciais, álcool, receitas caseiras ou produto de limpeza para 'neutralizar' outro produto."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Reduza ciclos de molhar e secar a pele. Para higiene, prefira água morna e produto suave, sem fragrância, somente onde necessário.",
+          "Use proteção adequada à tarefa: luvas compatíveis com o produto e, quando possível, forro de algodão. Faça pausas para secar suor e não mantenha luva úmida por longos períodos.",
+          "Troque temporariamente sabonete, detergente, cosmético, cola, tinta ou material esportivo suspeito por alternativa simples e sem fragrância; introduza um produto por vez para identificar piora.",
+          "Em lactentes, troque fraldas com frequência, limpe sem esfregar e observe possível irritação por fezes, urina, saliva, lenços ou cosméticos; isso não confirma alergia.",
+          "Na escola, creche ou trabalho, combine acesso a sabonete suave, hidratante individual e afastamento da atividade irritante. A condição não exige isolamento por contágio.",
+          "Evite sol direto sobre área inflamada e sobre pele que teve contato com cítricos ou plantas, pois luz solar pode transformar algumas exposições em reação dolorosa com bolhas."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o que foi prescrito para esta criança e para esta área do corpo. Não copie corticoide, antibiótico ou antialérgico de outra pessoa.",
+          "A potência e o veículo do corticoide tópico dependem da idade, da gravidade e do local; face, pálpebras, dobras e genitais exigem cautela especial. Não invente potência, frequência ou duração.",
+          "Hidratante sem perfume pode ajudar a reparar a barreira, mas produtos com fragrância, conservantes ou muitos ingredientes também podem irritar ou causar alergia de contato.",
+          "Antibiótico não trata irritação simples e só deve ser usado quando houver diagnóstico de infecção. Antifúngico também não deve ser iniciado apenas porque a pele está vermelha.",
+          "Se um produto tópico prescrito piorar rapidamente a vermelhidão, ardor ou coceira, suspenda o produto suspeito e contate o serviço que prescreveu; pode haver irritação ou alergia ao componente.",
+          "Não há cálculo de dose neste registro. Qualquer medicamento sistêmico, dose ou duração depende de avaliação e prescrição individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha a alimentação habitual e líquidos conforme a idade. Dermatite irritativa de contato não é, por si só, alergia alimentar.",
+          "Não retire leite, ovo, trigo ou outros alimentos para tratar a pele sem diagnóstico e orientação profissional; restrições desnecessárias podem prejudicar o crescimento.",
+          "Se a região ao redor da boca irrita após saliva ou alimento ácido, lave suavemente com água, seque sem esfregar e proteja a pele conforme orientação; isso não prova alergia ao alimento.",
+          "Procure urgência se, logo após comer, houver urticária generalizada, inchaço de lábios ou língua, voz alterada, vômitos repetidos, chiado ou dificuldade para respirar; esse quadro é diferente de dermatite irritativa localizada."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Exposição a produto cáustico, queimadura química, contato com olhos, face ou genitais, área extensa, dor intensa, pele branca/escura ou bolhas grandes: continue irrigando com água corrente e procure urgência; não tente neutralizar.",
+          "Dificuldade para respirar, chiado, desmaio, voz rouca, inchaço de língua/lábios ou urticária pelo corpo: acione emergência imediatamente; isso pode ser anafilaxia.",
+          "Bolhas espalhadas, pele descolando, feridas em boca, olhos ou genitais, febre e prostração, especialmente após medicamento novo: procure emergência por possível reação cutânea grave.",
+          "Vermelhidão que aumenta rapidamente, pus ou secreção, crostas extensas, dor crescente, listras vermelhas, febre, calafrios ou criança muito abatida: pode haver infecção.",
+          "Dor muito forte, perda de sensibilidade, inchaço importante, dificuldade de mexer dedos ou membro, ou lesão circular apertando mão, pé ou membro.",
+          "Em recém-nascido ou lactente pequeno, febre, recusa alimentar, sonolência anormal, irritabilidade inconsolável ou lesões extensas exigem avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie se não houver melhora clara após retirar o irritante e proteger a pele, se a lesão se espalhar, voltar repetidamente ou atrapalhar sono, escola ou atividades.",
+          "Procure consulta se a dermatite for persistente, recorrente, intensa ou acometer face, pálpebras, mãos, genitais ou grande área; esses locais podem precisar de diagnóstico e tratamento específicos.",
+          "Se não estiver claro qual produto causou a reação, leve fotos e uma lista de sabonetes, cosméticos, medicamentos tópicos, metais, luvas, colas, materiais escolares, esportivos e ocupacionais usados antes da piora.",
+          "Coceira tardia, recorrência com pequena quantidade do mesmo produto ou lesão que ultrapassa a área de contato sugerem dermatite alérgica; dermatologista pode indicar teste de contato quando apropriado.",
+          "Criança com dermatite atópica previamente controlada que piora após produto tópico, ou apresenta eczema persistente de mãos, face ou pálpebras, deve ser avaliada para alergia de contato associada.",
+          "Retorne no prazo dado pelo profissional que examinou a criança; não prolongue nem repita corticoide tópico por conta própria."
+        ]
+      },
+      "ageMap": {
+        "u3m": "A pele neonatal é mais permeável e a margem para erro é menor. Evitar produtos não essenciais, fragrâncias, lenços e pomadas múltiplas; revisar fralda, saliva, detergente de roupas e produto aplicado. Febre, bolhas, descamação extensa, recusa alimentar ou prostração exigem avaliação imediata. Qualquer corticoide ou outro medicamento tópico depende de prescrição explícita para idade e local.",
+        "3a5m": "Priorizar identificação de irritantes em fralda, saliva, banho, roupas e superfícies. Manter unhas curtas e roupas macias. Como dermatite atópica pode surgir nessa fase, não presumir que toda lesão seja de contato; reavaliar lesões extensas, persistentes ou com infecção.",
+        "6a11m": "Considerar novos alimentos em contato com a pele, saliva, engatinhar sobre piso/produtos de limpeza e brinquedos. Irritação localizada ao redor da boca não prova alergia alimentar; sinais sistêmicos após ingestão são outra emergência. Evitar acesso da criança a produtos de limpeza.",
+        "1a": "Observar contato com tintas, massas, areia, piscinas, plantas, cosméticos e limpeza doméstica. Ensinar lavagem suave após exposição e impedir que coce ou manipule produto suspeito. Preservar avaliação de dermatite atópica e infecção quando o padrão não corresponder ao contato.",
+        "2a5": "Alinhar com creche/escola quais materiais e sabonetes desencadeiam ardor, vermelhidão ou fissuras. Fornecer hidratante individual já tolerado e proteção adequada às atividades. Não afastar por contágio; afastar apenas da exposição irritante ou se o estado clínico exigir.",
+        "6a11": "Investigar lavagem repetida das mãos, álcool gel, cola, slime, tinta, material esportivo, piscina e produtos de limpeza. Ensinar a relatar ardor precoce, retirar o produto e enxaguar. Para trabalho escolar com químicos, usar proteção e supervisão compatíveis.",
+        "12a17": "Perguntar de forma não punitiva sobre cosméticos, maquiagem, skincare, perfumes, tintura capilar, descolorantes, unhas artificiais/acrilatos, tatuagem temporária, trabalho e hobbies. Diferenciar dano irritativo por excesso de produtos de alergia de contato. Respeitar privacidade e reforçar segurança ocupacional.",
+        "unknown": "Aplicar orientação conservadora, sem medicamento, potência, dose ou duração. Confirmar idade, peso apenas se houver futura prescrição, local, extensão, produto, tempo de contato, sintomas sistêmicos, comorbidades e tratamentos já usados antes de individualizar."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3322_1",
+          "name": "Contact dermatitis",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/"
+        },
+        {
+          "id": "pais269_op3322_2",
+          "name": "Contact dermatitis - Symptoms",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/symptoms/"
+        },
+        {
+          "id": "pais269_op3322_3",
+          "name": "Contact dermatitis - Treatment",
+          "url": "https://www.nhs.uk/conditions/contact-dermatitis/treatment/"
+        },
+        {
+          "id": "pais269_op3322_4",
+          "name": "Atopic eczema in under 12s: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/cg57/chapter/Recommendations"
+        },
+        {
+          "id": "pais269_op3322_5",
+          "name": "Contact dermatitis: Overview",
+          "url": "https://www.aad.org/public/diseases/eczema/types/contact-dermatitis"
+        },
+        {
+          "id": "pais269_op3322_6",
+          "name": "Contact dermatitis: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/eczema/types/contact-dermatitis/treatment"
+        },
+        {
+          "id": "pais269_op3322_7",
+          "name": "Queimaduras: prevenção e cuidados",
+          "url": "https://www.saude.mg.gov.br/queimaduras/"
+        },
+        {
+          "id": "pais269_op3322_8",
+          "name": "First aid: Act fast!",
+          "url": "https://www.poison.org/first-aid-for-poisonings"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3323",
+      "specific": true,
+      "key": "pps_catalog_f04b91b745d69cf5",
+      "label": "Dermatite herpetiforme — registro no PPS",
+      "entity": "Dermatite herpetiforme (manifestação cutânea da doença celíaca)",
+      "assessment": "{\"original_term\":\"Dermatite herpetiforme — registro no PPS\",\"normalized_term\":\"dermatite herpetiforme\",\"valid_clinical_entity\":true,\"administrative_qualifier\":\"registro no PPS\",\"preferred_name_pt_br\":\"Dermatite herpetiforme\",\"aliases\":[\"Dermatite herpetiforme de Duhring\",\"Doença de Duhring\",\"Dermatitis herpetiformis\"],\"alias_reconciliation\":\"Os aliases acima podem apontar para a mesma ficha quando usados como sinônimos da erupção cutânea associada à sensibilidade ao glúten. O sufixo administrativo deve continuar rastreado, mas não cria nova doença.\",\"meaning\":\"Dermatose inflamatória autoimune, intensamente pruriginosa e com pequenas pápulas/vesículas agrupadas, considerada manifestação cutânea da enteropatia sensível ao glúten/doença celíaca.\",\"pediatric_scope\":\"Pode ocorrer em crianças e adolescentes, mas é incomum nas primeiras idades e mais típica a partir da infância maior/adolescência. Em lactentes, um quadro bolhoso exige forte cautela diagnóstica e avaliação especializada.\",\"not_equivalent_to\":[{\"entity\":\"Doença celíaca sem dermatite herpetiforme\",\"distinction\":\"A associação é estreita, mas nem toda criança com doença celíaca tem a erupção. A dermatite herpetiforme exige confirmação cutânea e avaliação celíaca; sintomas intestinais podem faltar.\"},{\"entity\":\"Eczema herpético\",\"distinction\":\"É infecção pelo vírus herpes simples, geralmente com vesículas/erosões dolorosas, monomórficas, rápida disseminação, febre ou prostração. É urgência; o termo ‘herpetiforme’ não significa herpes.\"},{\"entity\":\"Impetigo\",\"distinction\":\"É infecção bacteriana contagiosa, frequentemente com secreção, pus e crosta amarelada cor de mel; não é manifestação da doença celíaca.\"},{\"entity\":\"Escabiose\",\"distinction\":\"É infestação contagiosa por ácaros, com prurido especialmente noturno, contatos afetados e distribuição típica como espaços entre os dedos; não é doença autoimune associada ao glúten.\"},{\"entity\":\"Dermatite atópica ou de contato\",\"distinction\":\"Eczemas são causas comuns de coceira, mas não têm como marcador diagnóstico o depósito granular de IgA na imunofluorescência direta da pele perilesional.\"},{\"entity\":\"Dermatose bolhosa por IgA linear, penfigoide bolhoso e epidermólise bolhosa adquirida\",\"distinction\":\"São dermatoses bolhosas distintas que podem imitar a apresentação. Distribuição, idade, mucosas, histologia e padrão de imunofluorescência orientam a diferenciação especializada.\"}],\"diagnostic_boundary\":\"A aparência isolada não confirma o diagnóstico. A confirmação costuma exigir dermatologista, biópsia de pele clinicamente normal junto a uma lesão para imunofluorescência direta e investigação de doença celíaca. Retirar glúten antes da investigação pode tornar exames negativos e dificultar a confirmação.\",\"counting_rule\":\"Contar como uma entidade clínica específica. Não contar separadamente aliases nem o qualificador administrativo; não fundir com doença celíaca sem lesão cutânea, eczema herpético, impetigo, escabiose ou outras dermatoses bolhosas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dermatite herpetiforme causa coceira muito intensa e pequenas bolhas ou feridas agrupadas, muitas vezes dos dois lados do corpo, sobretudo em cotovelos, joelhos, nádegas, couro cabeludo e costas. As bolhas podem não estar visíveis porque a criança as coça rapidamente.",
+          "O nome ‘herpetiforme’ descreve o aspecto agrupado das lesões; não quer dizer que seja herpes e, depois de confirmada, a dermatite herpetiforme não é contagiosa.",
+          "Mantenha as unhas curtas, lave as mãos, evite coçar e cubra suavemente áreas escoriadas com roupa ou curativo limpo que não grude. Não estoure bolhas, não raspe crostas e não compartilhe pomadas.",
+          "Banho morno e curto, sabonete suave e roupa leve podem reduzir irritação. Suspenda produto novo que piorou a pele até orientação, sem retirar medicamentos prescritos por conta própria.",
+          "Observe e anote onde surgem as lesões, intensidade da coceira, sono, febre, dor, secreção, sintomas digestivos, peso/crescimento e relação temporal com tratamentos. Fotografias seriadas, sem expor a criança, podem ajudar na consulta.",
+          "Mesmo sem dor abdominal ou diarreia, pode existir doença celíaca associada. Não use a ausência de sintomas intestinais para descartar a condição.",
+          "Até confirmação, não presuma dermatite herpetiforme: eczema, escabiose, impetigo, eczema herpético e outras doenças bolhosas podem parecer semelhantes e têm condutas diferentes."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Procure avaliação com pediatra/dermatologista; a investigação pode incluir biópsia de pele aparentemente normal ao lado de uma lesão para imunofluorescência direta e exames de sangue para doença celíaca. Gastroenterologia pediátrica e nutrição podem participar depois da confirmação.",
+          "Não inicie dieta sem glúten antes de o plano diagnóstico ser definido pelo especialista: reduzir glúten pode alterar biópsia e sorologias e dificultar a confirmação.",
+          "Use compressa fria por poucos minutos sobre pele íntegra ou protegida por tecido limpo para aliviar a coceira. Não aplique gelo diretamente nem substâncias caseiras irritantes.",
+          "Lave delicadamente escoriações com água e sabonete suave e mantenha-as limpas e secas. Se houver pus, crosta amarelada, calor, dor ou vermelhidão em expansão, procure avaliação porque pode haver infecção bacteriana.",
+          "A criança com diagnóstico confirmado pode frequentar escola se estiver bem, pois a dermatite herpetiforme não é transmitida pelo contato. Antes da confirmação, febre, secreção ou suspeita de impetigo/escabiose exigem avaliação e regras próprias de afastamento.",
+          "Após diagnóstico, combine com escola e cuidadores medidas de proteção da pele e, quando indicado pela equipe, alimentação segura sem glúten e prevenção de contaminação cruzada."
+        ],
+        "MEDICAMENTOS": [
+          "Não comece, repita ou interrompa pomadas, antibióticos, antivirais, corticoides, anti-histamínicos, dapsona ou sulfas por conta própria. A escolha depende de confirmação diagnóstica, idade, peso, exames e condições associadas.",
+          "A dapsona pode aliviar rapidamente coceira e bolhas, mas não trata a enteropatia celíaca e pode causar anemia, alteração do transporte de oxigênio, queda de células do sangue, reação alérgica e outros efeitos importantes. Deve ser prescrita e monitorada por especialista, com exames antes e durante o uso.",
+          "Se a criança já usa dapsona, siga exatamente a receita e o calendário de exames. Não dobre dose esquecida e informe todos os outros medicamentos e doenças ao prescritor.",
+          "Lábios ou pele azulados/cinzentos, falta de ar, cansaço incomum, palidez intensa, urina escura, olhos amarelados, febre, dor de garganta, aftas, manchas roxas, sangramento ou nova erupção enquanto usa dapsona exigem contato médico urgente; sinais respiratórios, desmaio ou prostração importante exigem pronto atendimento imediato.",
+          "Cremes prescritos podem aliviar inflamação ou coceira, mas não substituem confirmação nem tratamento da doença associada. Não aplique corticoide sobre infecção suspeita sem orientação.",
+          "Esta ficha não define fármaco, dose ou duração. Leve a receita e os exames à reavaliação para conferência individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Enquanto o diagnóstico está sendo investigado, mantenha a alimentação habitual com glúten, salvo orientação médica diferente por motivo individual. Não faça teste caseiro retirando glúten, porque isso pode alterar os exames.",
+          "Depois de dermatite herpetiforme/doença celíaca confirmada, a equipe costuma indicar dieta estrita sem glúten, de longo prazo, com acompanhamento de gastroenterologista e nutricionista. A dieta trata a causa associada, mas a pele pode demorar a responder.",
+          "Não retire leite, ovo, corantes, iodo ou outros grupos alimentares sem indicação específica. Restrições adicionais podem prejudicar energia, crescimento, ferro, cálcio, vitaminas e vida escolar.",
+          "Após confirmação, aprenda com a equipe a ler rótulos, reconhecer trigo, centeio e cevada e evitar contaminação cruzada em utensílios e alimentos. Verifique medicamentos e suplementos com profissional/farmacêutico, sem suspender nenhum por conta própria.",
+          "Ofereça água e alimentação variada adequada à idade. Procure reavaliação se houver perda de peso, crescimento lento, diarreia persistente, vômitos, distensão abdominal, fadiga ou sinais de anemia."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Febre, prostração ou criança muito doente com bolhas/feridas que se espalham rapidamente, especialmente se forem dolorosas e agrupadas, pois pode ser eczema herpético ou outra infecção grave.",
+          "Vermelhidão que aumenta rapidamente, pele quente e muito dolorosa, inchaço, pus, listras vermelhas, mau cheiro ou febre, sugerindo infecção bacteriana/celulite.",
+          "Bolhas extensas, pele descolando, feridas na boca, olhos ou genitais, dor ocular, dificuldade para abrir os olhos, ou erupção nova após medicamento.",
+          "Falta de ar, lábios/pele azulados ou cinzentos, desmaio, confusão, sonolência incomum, palidez intensa, urina escura ou olhos amarelados, principalmente se estiver usando dapsona.",
+          "Inchaço de língua/lábios, chiado, dificuldade para respirar ou engolir, ou sinais de reação alérgica importante.",
+          "Vômitos repetidos, incapacidade de beber, pouca urina, boca muito seca ou outros sinais de desidratação."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque avaliação breve se o diagnóstico ainda não foi confirmado, se a coceira atrapalha sono/escola, se surgem novas bolhas ou se as medidas prescritas não controlam o quadro.",
+          "Retorne no prazo definido por dermatologia e gastroenterologia para revisar biópsia, sorologias, crescimento, estado nutricional e doenças associadas. Não interprete um exame isolado nem inicie a dieta antes dessa orientação.",
+          "Se estiver em tratamento com dapsona ou outro medicamento sistêmico, cumpra rigorosamente os exames e consultas marcados; sintomas novos ou exame perdido justificam contato antecipado com a equipe.",
+          "Depois do diagnóstico, reavalie adesão alimentar, contaminação cruzada, crescimento, ferro/vitaminas quando indicados e resposta da pele. Persistência ou retorno das lesões não deve ser tratada apenas com restrições adicionais por conta própria.",
+          "Procure no mesmo dia se houver secreção, crostas amareladas, dor crescente, febre, contatos com coceira noturna ou lesões diferentes do padrão habitual, pois pode ser impetigo, escabiose ou outra condição coexistente."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Dermatite herpetiforme é excepcional nesta idade. Qualquer bolha, ferida extensa, febre, recusa alimentar ou sonolência deve ser avaliada urgentemente para infecção, doença bolhosa neonatal, reação medicamentosa ou outra causa. Não iniciar dieta de exclusão nem produto tópico sem pediatra.",
+        "3a5m": "Priorizar avaliação pediátrica rápida e diagnóstico diferencial. Registrar mamadas, diurese, febre e progressão das lesões; proteger a pele sem estourar bolhas. Alimentação do lactente e da pessoa que amamenta não deve ser restringida por suspeita não confirmada.",
+        "6a11m": "Bolhas e prurido nesta faixa são mais frequentemente explicados por outras condições. Avaliar alimentação, crescimento e sinais infecciosos; não retirar glúten após sua introdução apenas como teste caseiro, pois isso pode prejudicar a investigação.",
+        "1a": "Exige confirmação especializada e diferenciação de impetigo, escabiose, eczema e dermatose bolhosa por IgA linear. Observar crescimento, fezes, distensão abdominal, palidez e integridade da pele, sem automedicação.",
+        "2a5": "Além da pele, revisar crescimento, anemia, sintomas digestivos e esmalte dentário. Impetigo e escabiose são diferenciais frequentes; crosta cor de mel, contatos com coceira noturna ou secreção mudam a prioridade e a conduta.",
+        "6a11": "Explicar que a condição não é herpes nem contagiosa. Ajudar a criança a evitar coçar, manter sono/escola e participar do plano. Se confirmada a doença celíaca associada, combinar com nutricionista e escola alimentação sem glúten segura, sem estigma e com atenção ao crescimento.",
+        "12a17": "Incluir o adolescente nas decisões, privacidade, autocuidado da pele, leitura de rótulos e adesão ao seguimento. Avaliar impacto no sono, imagem corporal, escola e alimentação social. Reforçar que dapsona e dieta não devem ser alteradas sem a equipe.",
+        "unknown": "Confirmar idade, peso, início/distribuição das lesões, febre/dor, mucosas, sintomas digestivos, crescimento, medicamentos, dieta atual e exposições. Até lá, aplicar os sinais de alarme e evitar dieta ou medicamento iniciados por conta própria."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3323_1",
+          "name": "Dermatitis Herpetiformis",
+          "url": "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/digestive-diseases/dermatitis-herpetiformis"
+        },
+        {
+          "id": "pais269_op3323_2",
+          "name": "Dermatitis herpetiformis (gluten sensitivity)",
+          "url": "https://www.bad.org.uk/pils/dermatitis-herpetiformis-gluten-sensitivity"
+        },
+        {
+          "id": "pais269_op3323_3",
+          "name": "Coeliac disease: recognition, assessment and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        },
+        {
+          "id": "pais269_op3323_4",
+          "name": "European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31568151/"
+        },
+        {
+          "id": "pais269_op3323_5",
+          "name": "Dermatitis Herpetiformis: An Update on Diagnosis, Disease Monitoring, and Management",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8400185/"
+        },
+        {
+          "id": "pais269_op3323_6",
+          "name": "About Impetigo",
+          "url": "https://www.cdc.gov/group-a-strep/about/impetigo.html"
+        },
+        {
+          "id": "pais269_op3323_7",
+          "name": "Scabies",
+          "url": "https://www.nhs.uk/conditions/scabies/"
+        },
+        {
+          "id": "pais269_op3323_8",
+          "name": "Eczema — Infection / eczema herpeticum",
+          "url": "https://www.sheffieldchildrens.nhs.uk/services/dermatology/eczema/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3324",
+      "specific": true,
+      "key": "ext_perianal",
+      "label": "Dermatite perianal estreptocócica",
+      "entity": "Dermatite/doença perianal estreptocócica pediátrica confirmada ou clinicamente suspeita",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_INFECTIOUS_CLINICAL_ENTITY\",\"normalized_entity\":\"Dermatite perianal estreptocócica pediátrica\",\"assessment\":\"O termo é válido e designa uma infecção superficial perianal, mais frequentemente por estreptococo beta-hemolítico do grupo A, predominante na infância. O padrão clássico é eritema vermelho vivo ou brilhante, bem delimitado ao redor do ânus, com prurido, dor, evacuação dolorosa, retenção/constipação, fissura, exsudato ou sangue em estrias; manifestações sistêmicas costumam faltar. A aparência levanta suspeita, mas não confirma etiologia: swab da área/exsudato para cultura e, quando validado no serviço, teste rápido para estreptococo sustentam o diagnóstico. Outros estreptococos beta-hemolíticos e outras bactérias podem causar dermatite perianal infecciosa, portanto o rótulo estreptocócico não deve ser aplicado a toda vermelhidão perianal.\",\"aliases\":[{\"term\":\"Perianite estreptocócica\",\"relationship\":\"CLINICAL_SYNONYM\"},{\"term\":\"Doença estreptocócica perianal\",\"relationship\":\"CLINICAL_SYNONYM\"},{\"term\":\"Dermatite estreptocócica perianal\",\"relationship\":\"ORTHOGRAPHIC_SYNONYM\"},{\"term\":\"Celulite perianal estreptocócica\",\"relationship\":\"HISTORICAL_NEAR_SYNONYM; may overstate depth and must not imply invasive cellulitis\"},{\"term\":\"Dermatite perianal infecciosa\",\"relationship\":\"BROADER_CATEGORY; may include non-group-A streptococci or other bacteria and is not always an exact synonym\"}],\"reconciliation\":{\"relationship\":\"ONE_DISTINCT_PEDIATRIC_INFECTIOUS_ENTITY_WITH_MULTIPLE_ALIASES\",\"counting_effect\":\"Count one clinical entity for this key; aliases and the broader infectious-dermatitis label do not create additional diseases.\",\"publication_boundary\":\"Pesquisa e duas revisões automatizadas por IA concluídas. Integração no gerador, testes de produção, commit, deployment e publicação não foram realizados por este trabalhador.\"},\"diagnostic_boundary\":\"Suspeitar diante de eritema perianal bem delimitado, brilhante ou vermelho vivo com dor, prurido, fissura, sangue em estrias, secreção, evacuação dolorosa ou retenção. Confirmar com avaliação clínica e coleta perianal adequada; sorologia antiestreptocócica não confirma este diagnóstico local.\",\"irritant_boundary\":\"Dermatite irritativa por fralda ou limpeza excessiva costuma se relacionar a umidade, fezes, produtos e atrito; na área da fralda frequentemente predomina nas superfícies de contato e poupa dobras. Não explica automaticamente placa perianal circular bem delimitada, fissuras dolorosas, sangue ou exsudato.\",\"candida_boundary\":\"Candidíase tende a envolver dobras e apresentar pápulas ou pústulas satélites. Pode coexistir com irritação ou antibiótico prévio; aparência isolada não autoriza antifúngico nem exclui estreptococo.\",\"fissure_boundary\":\"Fissura por fezes duras pode causar dor e sangue vivo ao evacuar, mas não explica por si só eritema perianal típico ou exsudato. A infecção estreptocócica pode causar fissura e retenção; constipação e infecção devem ser avaliadas em conjunto.\",\"pinworm_boundary\":\"Oxiuríase causa sobretudo prurido anal noturno, inquietação e sono ruim. Coçar pode irritar ou infectar secundariamente a pele; o padrão noturno ou visualização de vermes não confirma nem exclui infecção bacteriana concomitante.\",\"ibd_boundary\":\"Diarreia crônica, dor abdominal, sangue ou muco persistentes, perda de peso, crescimento insuficiente, tags, fístula, abscesso ou doença perianal recorrente levantam doença inflamatória intestinal, especialmente Crohn, e não devem ser atribuídos apenas ao estreptococo.\",\"trauma_safeguarding_boundary\":\"Fissura, sangramento, escoriação ou dor podem ter causas infecciosas, constipação, limpeza vigorosa ou trauma acidental. Um achado perianal inespecífico não prova abuso. Lesão incompatível com a história, revelação da criança ou preocupação de segurança exige avaliação especializada, acolhedora e com proteção imediata, sem interrogatório repetitivo pela família.\",\"invasive_infection_boundary\":\"Febre, prostração, eritema que se expande rapidamente, calor/edema importantes, dor intensa ou desproporcional, bolhas, pele arroxeada/escura, abscesso, vômitos, confusão ou piora em horas não são o curso local típico e exigem avaliação emergencial para celulite, abscesso, infecção necrosante ou sepse.\",\"medication_boundary\":\"Esta ficha não seleciona antibiótico, via, dose, concentração, intervalo ou duração. Antibiótico sistêmico é componente do tratamento quando o diagnóstico é confirmado/sustentado, mas deve ser o já prescrito para esta criança. Não reutilizar sobras, não compartilhar e não substituir por pomada isolada, corticoide ou antifúngico sem reavaliação.\",\"transmission_boundary\":\"Pode ocorrer disseminação por mãos e entre contatos próximos. Higiene das mãos, unhas curtas e toalhas individuais reduzem transmissão. Investigação ou tratamento de garganta, irmãos, cuidadores ou contatos só deve ocorrer por orientação clínica; não medicar toda a casa por conta própria.\",\"pediatric_scope\":\"Mais comum entre lactentes maiores e crianças pré-púberes, sobretudo em idade pré-escolar, mas pode ocorrer em outras idades. Em recém-nascido, lactente pequeno, adolescente, imunossuprimido ou quadro sistêmico, ampliar diferenciais e urgência.\",\"critical_context_to_confirm\":[\"Idade, duração, dor, prurido, febre e velocidade de progressão\",\"Aspecto e extensão do eritema, fissura, edema, calor, secreção, pus, bolhas, necrose ou sangramento\",\"Dor ao evacuar, retenção, fezes duras, diarreia, dor abdominal e crescimento\",\"Prurido noturno, contato com oxiuríase, sintomas de garganta e casos semelhantes em casa ou creche\",\"Fralda, produtos, limpeza vigorosa, trauma acidental e qualquer preocupação de segurança\",\"Imunossupressão, diabetes, doença inflamatória intestinal ou infecções recorrentes\",\"Resultado e local da coleta perianal, cultura/antibiograma e teste rápido quando aplicável\",\"Antibiótico já prescrito, adesão, tolerância, resposta e recorrência\"],\"not_automatically_equivalent_to\":[\"Dermatite irritativa da fralda ou por higiene vigorosa\",\"Candidíase perianal\",\"Fissura anal isolada por constipação\",\"Oxiuríase\",\"Doença perianal de Crohn ou outra doença inflamatória intestinal\",\"Abuso sexual ou trauma intencional\",\"Celulite invasiva, abscesso, fasciíte necrosante ou sepse\",\"Autorização para iniciar, trocar, prolongar ou compartilhar antibiótico\"],\"counting_rule\":\"Uma entidade clínica preparada para ext_perianal; não somar aliases como doenças separadas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dermatite perianal estreptocócica é uma infecção da pele ao redor do ânus, geralmente causada por estreptococo do grupo A. Costuma formar vermelhidão viva e bem delimitada e pode causar coceira, dor, fissura, sangue em estrias, secreção, dor para evacuar e retenção das fezes.",
+          "Siga o plano prescrito e observe se dor, vermelhidão, sangramento e evacuação começam a melhorar. Como a infecção pode voltar, não considere curada apenas porque a cor clareou por um dia.",
+          "Lave as mãos com água e sabão antes e depois de higiene, troca de fralda, aplicação do produto prescrito e uso do banheiro. Mantenha as unhas curtas e desencoraje coçar.",
+          "Limpe a região com água morna e pano muito macio, sem esfregar. Seque por toques leves. Troque fralda ou roupa íntima suja rapidamente e mantenha a área limpa e seca.",
+          "Use toalha, pano de higiene e roupa íntima individuais; lave os itens usados e não compartilhe. Limpe superfícies de troca e banheiro conforme rotina doméstica segura.",
+          "Observe garganta dolorida, febre ou lesão parecida em irmãos e cuidadores e informe à equipe. Não examine nem trate contatos por conta própria."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite lenço perfumado, álcool, sabonete forte, banho de espuma, talco, desodorante íntimo, antisséptico caseiro, vinagre, bicarbonato, óleo essencial e fricção vigorosa.",
+          "Não force evacuação dolorosa nem repreenda a criança por reter fezes. Apoie os pés no vaso ou penico quando apropriado e comunique fezes duras, fissura ou medo de evacuar.",
+          "Não cubra a área com curativo oclusivo e não esprema fissura, bolha ou coleção. Não introduza cotonete, termômetro ou produto no ânus sem orientação.",
+          "Prurido principalmente à noite, sono inquieto ou vermes visíveis sugerem oxiuríase; dobras muito vermelhas com pústulas satélites sugerem Candida. Mostre esses sinais à equipe em vez de trocar o tratamento sozinho.",
+          "Diarreia persistente, dor abdominal, perda de peso, crescimento insuficiente, fístula, caroço com pus ou doença recorrente pedem investigação além de dermatite estreptocócica.",
+          "Creche ou escola deve ser avisada de forma discreta quando necessário. O retorno depende de a criança estar bem, conseguir participar, manter higiene e cumprir a orientação clínica e sanitária local; esta ficha não fixa um intervalo universal."
+        ],
+        "MEDICAMENTOS": [
+          "Dê o antibiótico somente se já foi prescrito para esta criança e exatamente na via, quantidade, horários e duração definidos. Não interrompa, prolongue ou troque por conta própria quando a pele melhora ou se a dose foi esquecida.",
+          "Não use antibiótico guardado, de irmão, de adulto ou comprado sem avaliação. Não compartilhe o medicamento e não escolha dose pela idade aparente ou pelo peso antigo.",
+          "Pomada isolada não substitui o tratamento sistêmico quando a equipe diagnosticou infecção estreptocócica. Use produto local apenas se também foi prescrito e somente na área e pelo tempo indicados.",
+          "Não aplique corticoide, antifúngico, anestésico, antibiótico tópico, combinação fixa, medicamento vaginal/retal ou receita caseira sem orientação; esses produtos podem mascarar o quadro ou tratar a causa errada.",
+          "Para dor ou febre, use apenas o medicamento já orientado para a criança, respeitando contraindicações e o plano individual. Não ofereça aspirina e não alterne remédios sem instrução.",
+          "Urticária disseminada, inchaço de face/língua, falta de ar, desmaio, bolhas ou pele descolando após medicamento exige emergência. Vômitos repetidos, diarreia intensa ou piora durante o antibiótico exigem contato clínico sem automedicação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno, fórmula, alimentação e líquidos habituais para a idade. Esta infecção não exige retirar leite, açúcar, frutas ou outro alimento.",
+          "Ofereça água e alimentos com fibras adequados à idade se a criança já os consome, pois fezes macias podem reduzir dor e retenção. Não use laxante, enema, supositório ou chá sem orientação.",
+          "Não faça dieta de exclusão para tratar a vermelhidão. Alergia alimentar e doença inflamatória intestinal só devem ser investigadas quando a história e o exame sustentarem essa hipótese.",
+          "Se houver dor para evacuar, ofereça refeições e líquidos em pequenas quantidades regulares, sem forçar. Informe à equipe se a criança evita comer ou beber por medo da evacuação.",
+          "Observe urina, sede, boca seca, lágrimas e nível de atividade. Pouca urina, incapacidade de beber, olhos fundos, sonolência ou vômitos repetidos sugerem desidratação.",
+          "Perda de peso, crescimento insuficiente, diarreia ou sangue persistentes, dor abdominal recorrente ou recusa alimentar não devem ser atribuídos somente à pele perianal."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Febre com prostração, confusão, dificuldade para acordar, pele fria/manchada, respiração difícil, recusa importante ou aparência muito doente.",
+          "Vermelhidão, calor ou inchaço que se espalham rapidamente; dor intensa ou muito maior que o aspecto da pele; bolhas, pele arroxeada/escura ou piora em poucas horas.",
+          "Caroço doloroso, pus em grande quantidade, abscesso, listras vermelhas, sangramento importante ou incapacidade de sentar, andar ou evacuar por dor.",
+          "Vômitos repetidos, incapacidade de beber, pouca urina, boca seca, ausência de lágrimas, olhos fundos, desmaio ou sonolência fora do habitual.",
+          "Recém-nascido ou lactente pequeno com febre de 38 °C ou mais, alteração de temperatura, recusa de mamar, flacidez, irritabilidade inconsolável ou lesão em rápida progressão.",
+          "Revelação de agressão, lesão incompatível com a história ou risco atual de violência: garanta segurança e procure atendimento/proteção imediatamente, sem culpar nem interrogar repetidamente a criança.",
+          "Falta de ar, chiado, inchaço de língua ou rosto, urticária disseminada ou desmaio após medicamento: acione o SAMU 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Compareça ao retorno definido para conferir resposta e necessidade de nova coleta. A cultura perianal e a evolução clínica orientam o diagnóstico; não use apenas a aparência ou sorologia para decidir que a bactéria foi eliminada.",
+          "Contate a equipe antes do retorno se não houver melhora clara após iniciar o tratamento prescrito, se houver piora, dose perdida repetidamente, vômitos do medicamento ou reação adversa.",
+          "Reavalie se dor ao evacuar, retenção, fissura, sangue ou secreção persistirem. Pode ser necessário tratar constipação e revisar fissura, abscesso ou outro diagnóstico.",
+          "Se a lesão voltar, não repita receita antiga. A equipe deve confirmar recorrência, adesão, coleta, possíveis contatos, sintomas de garganta e diagnósticos alternativos.",
+          "Prurido noturno, pústulas satélites nas dobras, diarreia crônica, dor abdominal, perda de peso, crescimento insuficiente, fístula ou lesão atípica exigem reavaliação para oxiuríase, Candida, doença inflamatória intestinal ou outra causa.",
+          "Achados de trauma ou preocupação de segurança devem ser avaliados por equipe treinada; vermelhidão, fissura ou sangramento isolados são inespecíficos e não permitem concluir abuso.",
+          "Após a melhora, mantenha higiene das mãos e itens individuais. Não mantenha antibiótico, pomada ou restrição escolar além do plano indicado."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Dermatite estreptocócica perianal é menos típica nesta idade. Febre de 38 °C ou mais, alteração de temperatura, recusa de mamar, flacidez, sonolência, irritabilidade inconsolável ou progressão rápida exige avaliação imediata; não iniciar antibiótico ou pomada por conta própria.",
+        "3a5m": "Monitorar mamadas, urina e estado geral. Confirmar diagnóstico com avaliação e coleta; irritação, Candida e outras infecções podem parecer semelhantes. Qualquer febre, prostração ou piora rápida antecipa atendimento.",
+        "6a11m": "Trocar fraldas rapidamente, limpar sem atrito e observar choro ao evacuar, fissura, sangue, retenção e hidratação. Não atribuir toda vermelhidão à fralda nem escolher antifúngico automaticamente.",
+        "1a": "Reforçar lavagem de mãos e unhas curtas. Dor pode levar a reter fezes; não forçar o desfralde nem punir. Siga somente o antibiótico já prescrito e retorne se não houver melhora clara.",
+        "2a5": "Esta é a faixa mais típica. Observar placa perianal bem delimitada, prurido, dor, fissura, sangue e constipação. Avisar sobre casos semelhantes ou garganta dolorida em casa/creche e seguir orientação local de retorno, sem tratar contatos por conta própria.",
+        "6a11": "Preservar privacidade e perguntar diretamente, de modo acolhedor, sobre dor, coceira noturna, evacuação e bullying/trauma. Prurido noturno favorece oxiuríase; sintomas intestinais crônicos, perda de peso ou fístula pedem investigação de DII.",
+        "12a17": "A apresentação é menos típica; ampliar diagnóstico diferencial, inclusive Candida, dermatite de contato, Crohn, abscesso, hidradenite, trauma e infecções sexualmente transmissíveis conforme história. Garantir conversa privada, consentimento e proteção, sem presumir abuso pelo aspecto isolado.",
+        "unknown": "Confirmar idade, duração, febre, aspecto, dor, prurido noturno, evacuação, crescimento, imunidade, coleta perianal e prescrição atual antes de orientar tratamento; sinais sistêmicos ou progressão rápida têm prioridade."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3324_1",
+          "name": "Infecções Bacterianas Superficiais Cutâneas — Dermatite estreptocócica perianal",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23597c-DC_Infeccoes_Bacterianas_Superficiais_Cutaneas.pdf"
+        },
+        {
+          "id": "pais269_op3324_2",
+          "name": "Perianal streptococcal disease in childhood: systematic literature review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8105195/"
+        },
+        {
+          "id": "pais269_op3324_3",
+          "name": "A retrospective analysis of clinical characteristics and management of perianal streptococcal dermatitis in children and adults",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34565124/"
+        },
+        {
+          "id": "pais269_op3324_4",
+          "name": "Isolation of group A beta-hemolytic Streptococcus in children with perianal dermatitis",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16527068/"
+        },
+        {
+          "id": "pais269_op3324_5",
+          "name": "Randomized, comparative efficacy trial of oral penicillin versus cefuroxime for perianal streptococcal dermatitis in children",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18692203/"
+        },
+        {
+          "id": "pais269_op3324_6",
+          "name": "Clinical Practice Guidelines: Nappy rash",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Nappy_rash/"
+        },
+        {
+          "id": "pais269_op3324_7",
+          "name": "Preventing Group A Strep Infection",
+          "url": "https://www.cdc.gov/group-a-strep/prevention/index.html"
+        },
+        {
+          "id": "pais269_op3324_8",
+          "name": "Group A Streptococcus — Infection Control",
+          "url": "https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/group-a-streptococcus.html"
+        },
+        {
+          "id": "pais269_op3324_9",
+          "name": "About Pinworm Infection",
+          "url": "https://www.cdc.gov/pinworm/about/"
+        },
+        {
+          "id": "pais269_op3324_10",
+          "name": "Kids Health Info: Inflammatory bowel disease — Crohn disease and ulcerative colitis",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Inflammatory_bowel_disease/"
+        },
+        {
+          "id": "pais269_op3324_11",
+          "name": "Responding to children and adolescents who have been sexually abused: WHO clinical guidelines",
+          "url": "https://www.who.int/publications/i/item/9789241550147"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3325",
+      "specific": true,
+      "key": "pps_catalog_fb92a8d4f3b1c4e6",
+      "label": "Dermatite periorificial — registro no PPS",
+      "entity": "Dermatite periorificial pediátrica",
+      "assessment": "{\"original_term\":\"Dermatite periorificial — registro no PPS\",\"normalized_term\":\"dermatite periorificial\",\"valid_clinical_entity\":true,\"administrative_qualifier\":\"registro no PPS\",\"preferred_name_pt_br\":\"Dermatite periorificial\",\"aliases\":[\"Dermatite perioral\",\"Dermatite peri-orificial\",\"Dermatite periorificial pediátrica\",\"Periorificial dermatitis\"],\"alias_reconciliation\":\"‘Dermatite perioral’ é o nome histórico mais usado quando a erupção predomina ao redor da boca; ‘periorificial’ é mais abrangente porque inclui áreas ao redor do nariz e dos olhos. Os aliases podem apontar para a mesma ficha quando descrevem essa entidade. O qualificador administrativo deve permanecer rastreado, mas não cria outra doença.\",\"meaning\":\"Erupção inflamatória com pequenas pápulas, às vezes pústulas ou descamação, agrupadas ao redor da boca, nariz e/ou olhos. Pode arder, coçar ou ficar sensível; não é acne e não é contagiosa.\",\"pediatric_scope\":\"Pode ocorrer desde a lactância até a adolescência; séries pediátricas incluíram crianças a partir de 6 meses, e revisão pediátrica registra casos a partir de 3 meses. O diagnóstico é clínico, mas lactentes pequenos, acometimento ocular, bolhas, crostas, febre ou criança doente exigem cautela e diferenciação de causas infecciosas ou outras dermatoses.\",\"not_equivalent_to\":[{\"entity\":\"Dermatite por lambedura dos lábios\",\"distinction\":\"É irritação causada por saliva e hábito de lamber, em geral alcança o limite vermelho dos lábios e acompanha o trajeto da língua. Na dermatite periorificial, costuma haver uma estreita faixa poupada junto ao vermelhão e pequenas pápulas agrupadas.\"},{\"entity\":\"Dermatite atópica ou de contato\",\"distinction\":\"Pode causar placas eczematosas, coceira e descamação relacionadas à barreira cutânea ou a um produto. A distribuição, morfologia e história de exposição ajudam a separar; teste de contato pode ser necessário quando houver suspeita alérgica.\"},{\"entity\":\"Impetigo\",\"distinction\":\"É infecção bacteriana contagiosa, frequentemente com secreção e crostas amareladas/cor de mel, podendo espalhar. Isso muda orientação escolar e necessidade de avaliação.\"},{\"entity\":\"Herpes simples ou eczema herpético\",\"distinction\":\"Costuma causar vesículas/erosões dolorosas, muitas vezes monomórficas, e pode vir com febre, mal-estar, dor ocular ou rápida disseminação. É situação de avaliação urgente, não dermatite periorificial simples.\"},{\"entity\":\"Acne\",\"distinction\":\"Acne costuma apresentar cravos (comedões); estes não são característica da dermatite periorificial.\"},{\"entity\":\"Rosácea\",\"distinction\":\"Pode se parecer clinicamente, sobretudo em adolescentes, mas tem padrão e curso próprios; em crianças, a avaliação especializada evita rotular incorretamente.\"},{\"entity\":\"Celulite periorbitária/orbitária ou doença ocular\",\"distinction\":\"Inchaço doloroso ao redor dos olhos, febre, dor ao mover os olhos, alteração visual, fotofobia ou prostração não são quadro domiciliar de dermatite periorificial e exigem avaliação urgente.\"}],\"diagnostic_boundary\":\"Não há exame de sangue confirmatório rotineiro. O diagnóstico costuma se apoiar na história e no padrão das lesões. Quando a apresentação é atípica, o médico pode solicitar cultura/raspado, teste de contato ou, raramente, biópsia para excluir infecção, alergia ou outra dermatose.\",\"counting_rule\":\"Contar como uma entidade clínica específica. Não contar separadamente os aliases nem o qualificador administrativo; não fundir com dermatite por lambedura, dermatite de contato/atópica, impetigo, herpes, acne ou rosácea.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dermatite periorificial causa pequenas bolinhas ao redor da boca, nariz e/ou olhos, às vezes com vermelhidão, descamação, ardor ou coceira. Em peles negras ou pardas, a mudança pode parecer mais escura, arroxeada ou da cor da pele, sem vermelho evidente.",
+          "Ela não é contagiosa. Se houver pus, crosta amarelada, bolhas dolorosas, febre ou outros familiares com lesões, não presuma que seja a mesma condição: pode haver infecção ou outro diagnóstico.",
+          "Lave o rosto com água morna e, se necessário, produto suave, sem perfume; seque encostando a toalha, sem esfregar. Evite esfoliante, ácido, retinoide cosmético, maquiagem pesada, óleo essencial, receita caseira e produto novo sobre a área até avaliação.",
+          "Não esprema nem raspe as bolinhas. Mantenha unhas curtas e mãos limpas para diminuir feridas e infecção secundária.",
+          "Observe e fotografe de forma privada a evolução. Anote produtos usados na face e boca, protetor solar, maquiagem, pasta dental, hábito de lamber, máscaras, chupeta, corticoide em creme, spray nasal, inalador ou medicamento sistêmico.",
+          "A melhora costuma ser gradual e pode levar semanas a meses. A erupção pode piorar temporariamente quando um corticoide facial é retirado; não reinicie por conta própria apenas porque houve alívio curto."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Suspenda cosméticos e produtos faciais irritantes ou muito oclusivos enquanto a pele está inflamada. Reintroduza um de cada vez, conforme orientação, para reconhecer piora.",
+          "Se a criança usa corticoide inalatório ou spray nasal prescrito, não interrompa o tratamento da asma/rinite. Revise a técnica com a equipe, use espaçador quando indicado, limpe o dispositivo e lave suavemente o rosto e a região ao redor da boca após o uso.",
+          "Se usa chupeta, máscara ou equipamento que mantém saliva/umidade no rosto, faça higiene regular e mantenha a pele seca sem fricção. Não atribua automaticamente a causa ao objeto; a avaliação deve considerar todo o padrão.",
+          "Proteja do sol com sombra, chapéu e produto tolerado orientado para a idade. Se um protetor arder ou piorar claramente, suspenda esse produto e peça alternativa à equipe.",
+          "A criança pode frequentar escola/creche se estiver bem, porque dermatite periorificial não passa para outras pessoas. Suspeita de impetigo, herpes ou outra infecção exige avaliação e regras próprias de afastamento.",
+          "Procure pediatra ou dermatologista se o quadro persistir, se espalhar, envolver os olhos ou se o diagnóstico não estiver claro. Não faça teste caseiro com vários produtos ao mesmo tempo."
+        ],
+        "MEDICAMENTOS": [
+          "Não comece corticoide, antibiótico, antifúngico, antiviral, pomada para acne ou imunomodulador por conta própria. Produtos diferentes podem piorar a erupção, mascarar infecção ou dificultar o diagnóstico.",
+          "Corticoide aplicado no rosto é um desencadeante ou agravante frequente. Se foi prescrito, converse com quem prescreveu antes de parar ou reduzir; a retirada pode exigir plano individual e pode causar piora transitória.",
+          "Corticoide inalatório, nasal ou oral não deve ser interrompido sem o prescritor. A indicação e a técnica devem ser revisadas, especialmente se houver contato repetido do medicamento com a pele.",
+          "Quando necessário, o médico pode escolher tratamento tópico ou oral conforme idade, gravidade, local das lesões e diagnósticos alternativos. Esta ficha não define medicamento, dose nem duração.",
+          "Use somente o que foi prescrito para esta criança e nesta área. Não compartilhe receita, não use sobra de tratamento e não aplique perto dos olhos sem orientação específica.",
+          "Se houver piora importante, irritação intensa, inchaço, urticária, falta de ar ou nova erupção após medicamento, suspenda apenas o produto suspeito não essencial e busque orientação; falta de ar ou inchaço de boca/olhos exige emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos habituais adequados à idade. Dermatite periorificial isolada não exige retirar leite, glúten, corantes ou outro alimento.",
+          "Não faça dieta de exclusão como teste caseiro. Restrições sem diagnóstico podem prejudicar energia, ferro, cálcio, vitaminas e crescimento.",
+          "Se comida, saliva ou pasta dental fica sobre a pele, enxágue suavemente e seque sem esfregar; isso reduz irritação, mas não prova alergia alimentar.",
+          "Procure avaliação específica se houver reação imediata repetida após alimento com urticária disseminada, inchaço de boca/língua, vômitos repetidos, chiado ou dificuldade para respirar. Isso não é evolução esperada da dermatite periorificial.",
+          "Lactentes devem manter leite materno ou fórmula habitual, salvo orientação individual. Não troque fórmula nem restrinja a dieta da pessoa que amamenta apenas por causa das bolinhas ao redor da boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade para respirar ou engolir, chiado, desmaio, ou inchaço rápido de língua, lábios ou olhos.",
+          "Dor forte no olho, sensibilidade à luz, visão embaçada/reduzida, incapacidade de abrir o olho ou dor ao mover os olhos.",
+          "Febre, prostração, inchaço doloroso ao redor do olho, olho projetado para frente, dor ao movimentá-lo ou alteração visual.",
+          "Bolhas ou feridas dolorosas que se espalham rapidamente, especialmente com febre, mal-estar ou acometimento perto dos olhos, por possível herpes/eczema herpético.",
+          "Vermelhidão que aumenta rápido, pele quente e dolorosa, pus, crostas extensas, listras vermelhas ou criança muito abatida, por possível infecção bacteriana/celulite.",
+          "Erupção extensa com bolhas, pele descolando ou feridas em boca, olhos ou genitais, sobretudo após iniciar medicamento.",
+          "Lactente pequeno com febre, recusa alimentar, pouca urina, sonolência incomum ou piora rápida junto com a erupção."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta breve para confirmar o diagnóstico se for a primeira crise, se as lesões atingirem pálpebras, se houver dúvida com acne, eczema, impetigo ou dermatite por lambedura, ou se o quadro estiver se espalhando.",
+          "Retorne no prazo combinado pelo prescritor para conferir resposta e tolerância. A melhora pode levar semanas; não aumente, troque nem prolongue tratamento por conta própria.",
+          "Procure reavaliação no mesmo dia se surgirem secreção, crosta cor de mel, dor crescente, calor, inchaço, febre ou piora rápida, porque pode haver infecção.",
+          "Reavalie antes do previsto se a retirada orientada de corticoide causar piora difícil de controlar, se a criança não consegue dormir/ir à escola ou se voltar repetidamente após aparente melhora.",
+          "Se usa corticoide inalatório/nasal necessário, leve o dispositivo e a lista de medicamentos para revisar técnica, higiene e alternativas seguras sem comprometer o controle respiratório.",
+          "Após melhora, peça orientação para reintroduzir hidratante, protetor solar e cosméticos de forma simples e gradual, evitando recaída por muitos produtos ao mesmo tempo."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não assumir dermatite periorificial. Qualquer erupção ao redor de boca/olhos com febre, bolhas, secreção, recusa alimentar ou sonolência exige avaliação pediátrica rápida. Não aplicar corticoide, antibiótico ou produto cosmético por conta própria.",
+        "3a5m": "Priorizar confirmação pediátrica e diferenciação de dermatite irritativa por saliva, eczema, impetigo e herpes. Manter leite habitual e não trocar fórmula nem restringir a dieta da pessoa que amamenta por suspeita não confirmada.",
+        "6a11m": "Revisar saliva, chupeta, alimentos sobre a pele, produtos e exposições a corticoide sem presumir causalidade. Em menores de 12 meses, crostas, bolhas, febre ou piora merecem avaliação no mesmo dia.",
+        "1a": "Usar higiene suave, impedir manipulação e revisar produtos faciais. Não usar sobras de pomadas. Se frequenta creche, só aplicar a regra de afastamento se houver diagnóstico contagioso, como impetigo, não pela dermatite periorificial isolada.",
+        "2a5": "Observar hábito de lamber, uso de corticoide facial/inalatório e irritantes. Ensinar a não coçar nem espremer. Lesões granulomatosas da cor da pele podem ocorrer e precisam de avaliação quando persistentes ou atípicas.",
+        "6a11": "Explicar que não é falta de higiene nem contagiosa. Simplificar cuidados faciais, reduzir manipulação e registrar impacto no sono/escola. Diferenciar de acne pela ausência de cravos e reavaliar se houver olhos vermelhos ou sintomas visuais.",
+        "12a17": "Incluir o adolescente na escolha de cuidados e discutir maquiagem, cosméticos, produtos para acne e uso oculto de corticoide. Avaliar impacto na autoestima sem prometer melhora imediata; não compartilhar antibiótico ou receita.",
+        "unknown": "Confirmar idade, início, distribuição, dor/coceira, febre, olhos, bolhas/crostas, produtos, medicamentos e exposições a corticoide. Até lá, aplicar sinais de alarme e evitar medicamento ou dieta iniciados por conta própria."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3325_1",
+          "name": "Red rash around your mouth could be perioral dermatitis",
+          "url": "https://www.aad.org/public/diseases/a-z/perioral-dermatitis"
+        },
+        {
+          "id": "pais269_op3325_2",
+          "name": "Peri-oral dermatitis",
+          "url": "https://www.bad.org.uk/pils/peri-oral-dermatitis"
+        },
+        {
+          "id": "pais269_op3325_3",
+          "name": "Periorificial dermatitis in children",
+          "url": "https://dermnetnz.org/topics/periorificial-dermatitis-in-children"
+        },
+        {
+          "id": "pais269_op3325_4",
+          "name": "Periorificial dermatitis in children and adolescents",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17052482/"
+        },
+        {
+          "id": "pais269_op3325_5",
+          "name": "Pediatric periorificial dermatitis: clinical course and treatment outcomes in 222 patients",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25847356/"
+        },
+        {
+          "id": "pais269_op3325_6",
+          "name": "Clinical Practice Guidelines: Acute red eye",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/acute_red_eye/"
+        },
+        {
+          "id": "pais269_op3325_7",
+          "name": "Impetigo",
+          "url": "https://www.nhs.uk/conditions/impetigo/"
+        },
+        {
+          "id": "pais269_op3325_8",
+          "name": "Signs your rash needs medical attention",
+          "url": "https://www.aad.org/news/signs-your-rash-needs-medical-attention"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3326",
+      "specific": true,
+      "key": "pps_catalog_d8e0d10ef0af765d",
+      "label": "Dermatite plantar juvenil — registro no PPS",
+      "entity": "Dermatite plantar juvenil (dermatose eczematosa/fissurária recorrente das áreas plantares de apoio na infância)",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CLINICAL_ENTITY_WITH_ADMINISTRATIVE_SUFFIX\",\"normalized_entity\":\"Dermatite plantar juvenil\",\"preferred_name_pt_br\":\"Dermatite plantar juvenil\",\"aliases\":[\"Dermatose plantar juvenil\",\"Dermatite do antepé juvenil\",\"Síndrome do pé suado e seco\",\"Juvenile plantar dermatosis\"],\"administrative_suffix\":\"‘registro no PPS’ identifica a origem cadastral e não cria outra doença, gravidade ou tratamento.\",\"assessment\":\"É uma dermatose recorrente da infância, mais comum entre aproximadamente 3 e 14–15 anos, caracterizada por pele vermelha, seca, lisa/brilhante, descamativa e por vezes fissurada nas áreas de apoio, sobretudo polpas dos dedos e antepé, geralmente bilateral. Os espaços entre os dedos e o arco costumam ser poupados. Atrito, calçado oclusivo, suor e alternância rápida entre umidade e secagem podem agravar, mas a causa não se resume a suor excessivo e a associação com atopia não é obrigatória.\",\"diagnostic_boundary\":\"A aparência típica orienta o diagnóstico, mas não o confirma em todo pé descamativo. Micose, dermatite alérgica do calçado, dermatite atópica, psoríase, queratólise esfoliativa, eczema disidrótico e infecção bacteriana precisam ser considerados conforme distribuição, coceira, secreção, contato, idade e evolução. Raspado micológico ou teste de contato pode ser indicado pela equipe.\",\"tinea_boundary\":\"Tinea pedis costuma envolver espaços interdigitais, pode ser úmida/pruriginosa e é mais comum em adolescentes; na dermatite plantar juvenil, os espaços entre os dedos e o arco geralmente ficam poupados. Antifúngico não deve ser iniciado apenas pelo rótulo ‘pé descamando’ quando o diagnóstico é incerto.\",\"contact_allergy_boundary\":\"Dermatite alérgica ao calçado pode envolver áreas correspondentes ao material do sapato e requer história de exposição e, em casos selecionados, teste de contato interpretado por especialista. Estudo pediátrico de pés encaminhados para teste encontrou múltiplos diagnósticos, reforçando que dermatite plantar juvenil não substitui investigação de alergia quando o padrão é atípico ou refratário.\",\"infection_boundary\":\"Calor, edema, dor crescente, pus, crosta extensa, mau cheiro novo importante, vermelhidão que se espalha, listras, febre ou prostração sugerem infecção secundária/celulite e bloqueiam manejo domiciliar isolado.\",\"medication_boundary\":\"A ficha não escolhe corticoide, queratolítico, ureia, concentração, curativo medicado, antibiótico ou antifúngico. Emoliente simples já tolerado e proteção de fissuras podem ser discutidos; qualquer medicamento deve seguir diagnóstico, área, idade e prescrição individual.\",\"transmission_boundary\":\"A dermatite plantar juvenil não é contagiosa e não exige afastamento escolar automático. Micose ou infecção bacteriana, se diagnosticadas, seguem orientações próprias de transmissão e tratamento.\",\"pediatric_scope\":\"Típica em pré-escolares, escolares e adolescentes jovens. É muito atípica em lactentes; nessa idade, ou em criança imunossuprimida, diabética, com alteração de sensibilidade/circulação, lesão extensa ou dificuldade para andar, a avaliação deve ser precoce.\",\"natural_history\":\"O curso pode recidivar por anos e muitas vezes melhora na puberdade, mas fissuras podem levar semanas para cicatrizar. Persistência na adolescência ou vida adulta não é impossível e exige rever o diagnóstico.\",\"not_automatically_equivalent_to\":[\"Tinea pedis (pé de atleta)\",\"Dermatite alérgica de contato ao calçado\",\"Dermatite atópica dos pés\",\"Psoríase palmoplantar\",\"Queratólise esfoliativa ou eczema disidrótico\",\"Impetigo, celulite ou outra infecção bacteriana\",\"Pé diabético, lesão por pressão ou queimadura\",\"Autorização para corticoide, antifúngico, antibiótico ou cola em fissuras\"],\"critical_context_to_confirm\":[\"Idade, duração, recorrência, bilateralidade, dor, coceira e limitação para caminhar\",\"Distribuição nas áreas de apoio versus espaços entre os dedos, arco, dorso, unhas e mãos\",\"Calçado, palmilha, meias, esporte, suor, piscina e ciclos de molhar/secar\",\"Fissuras, sangramento, pus, crosta, calor, edema, vermelhidão crescente, febre ou prostração\",\"Atopia, psoríase, diabetes, imunossupressão, alteração de sensibilidade/circulação e tratamentos prévios\",\"Possibilidade de raspado micológico, teste de contato ou avaliação dermatológica se padrão atípico/refratário\"],\"counting_rule\":\"Contar uma entidade clínica específica preparada. Não somar novamente os sinônimos nem o sufixo administrativo ‘registro no PPS’.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dermatite plantar juvenil causa pele vermelha, seca, lisa/brilhante e às vezes rachada nas áreas que suportam o peso, geralmente nos dois pés. Não é contagiosa e pode melhorar e voltar por meses ou anos.",
+          "Observe onde a lesão aparece: polpas dos dedos e antepé com espaços entre os dedos poupados favorecem este diagnóstico. Pele úmida/descamativa entre os dedos, unha alterada ou lesão apenas de um lado merece reavaliação para micose ou outra causa.",
+          "Mantenha os pés limpos e seque com delicadeza, sem esfregar. Troque meia úmida e deixe o calçado secar completamente antes de reutilizar.",
+          "Use calçado bem ajustado, ventilado e que não deslize no pé. Alterne pares quando possível; evite calçado apertado, oclusivo ou com costura/palmilha que roce a área.",
+          "Se já foi orientado um hidratante simples sem perfume, aplique conforme o plano recebido, principalmente após banho e à noite. Não coloque produto novo entre os dedos ou sobre fissura infectada sem avaliação.",
+          "A condição não exige afastamento automático da escola. Para educação física, adapte temporariamente a atividade se fissuras doerem ou sangrarem e mantenha o pé protegido e seco."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Reduza atrito e ciclos repetidos de molhar e secar: após piscina, esporte ou suor, lave quando necessário, seque por pressão suave e troque a meia/calçado úmido.",
+          "Prefira meias absorventes e confortáveis; troque quando estiverem úmidas. O melhor material varia, mas a meia não deve reter suor, apertar ou formar dobras que friccionem.",
+          "Permita períodos de repouso e menos caminhada/corrida quando fissuras estiverem dolorosas. Retome gradualmente conforme a dor e a pele melhorarem.",
+          "Uma fissura limpa e superficial pode ser protegida com curativo simples não aderente orientado pela equipe. Não use supercola, cola de unha, ácido, lixa, lâmina ou curativo medicado por conta própria.",
+          "Não compartilhe calçado e mantenha higiene habitual, mas não trate a família como se fosse contagioso sem diagnóstico de micose ou infecção.",
+          "Não faça teste caseiro com material do calçado. Se houver suspeita de alergia, leve fotos e informações sobre sapato, cola, borracha, couro, meia e palmilha para avaliação especializada."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o produto prescrito para esta criança, na área, quantidade, frequência e duração indicadas. Esta ficha não escolhe corticoide, antifúngico, antibiótico, queratolítico nem concentração de ureia.",
+          "Não use antifúngico apenas porque o pé descama: micose e dermatite plantar juvenil podem se parecer, e um raspado pode ser necessário quando o padrão não é típico.",
+          "Não reutilize corticoide, pomada combinada, antibiótico, ácido ou produto de calo de outra pessoa. A planta do pé e fissuras exigem escolha individual e produtos irritantes podem piorar.",
+          "Se o produto prescrito causar ardor intenso persistente, bolhas, inchaço ou piora repetida, suspenda o produto suspeito, guarde a embalagem e procure orientação.",
+          "Dor, pus, calor, vermelhidão que se espalha ou febre não devem ser tratados aumentando pomada por conta própria; precisam de avaliação para infecção.",
+          "Nenhum medicamento, dose ou duração é iniciado neste resultado. Emolientes e barreiras podem aliviar, mas a resposta é variável e não confirmam o diagnóstico."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e hidratação habitual para a idade. Dermatite plantar juvenil não exige retirar leite, ovo, trigo, glúten ou outro alimento.",
+          "Não faça dieta de exclusão para tentar secar a pele; não há evidência de que alimentos comuns causem este padrão plantar.",
+          "Em dias de esporte ou calor, ofereça líquidos adequados à idade e troque meia/calçado úmido; beber mais água sozinho não corrige a dermatite.",
+          "Se houver diabetes, doença renal, restrição de líquidos ou dieta prescrita, mantenha o plano da equipe e não o modifique por causa da pele.",
+          "Em lactentes, este diagnóstico é muito incomum. Mantenha leite materno ou fórmula habitual e procure avaliação em vez de mudar alimentação por lesão nos pés.",
+          "Febre, prostração, vômitos, recusa persistente ou pouca urina indicam doença além de uma dermatite plantar simples e exigem avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento no mesmo dia se houver dor forte ou crescente, incapacidade de apoiar/caminhar, inchaço importante, calor, pus, crosta extensa, mau cheiro novo intenso ou sangramento que não cessa.",
+          "Vermelhidão que se espalha para o dorso do pé ou perna, listras vermelhas, febre, calafrios, prostração ou criança muito abatida pode indicar infecção; não espere o retorno marcado.",
+          "Bolhas extensas, pele descolando, manchas roxas, feridas em boca/olhos/genitais ou erupção disseminada, especialmente após medicamento novo, exige hospital imediatamente.",
+          "Pé frio, pálido/arroxeado, perda de sensibilidade, dor desproporcional, trauma importante ou queimadura química não combina com dermatite plantar juvenil e exige urgência.",
+          "Em criança com diabetes, imunossupressão, má circulação ou perda de sensibilidade, qualquer fissura profunda, úlcera, secreção, calor ou vermelhidão requer avaliação precoce no mesmo dia.",
+          "Ligue 192 se houver dificuldade para respirar, desmaio, confusão importante, lábios arroxeados ou dificuldade para acordar; esses sinais não são explicados por dermatite plantar simples."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se for a primeira ocorrência, se o diagnóstico não foi confirmado, se houver dor para caminhar, fissura recorrente ou se o cuidado com atrito/umidade não trouxer melhora progressiva.",
+          "Reavalie antes se a lesão atingir os espaços entre os dedos, for só de um lado, mudar unhas, coçar muito à noite, formar vesículas, pus/crostas ou aparecer também em mãos e outras áreas.",
+          "Se persistir ou voltar, leve fotos da evolução e os calçados, meias, palmilhas e produtos usados. A equipe pode considerar raspado para fungo, teste de contato ou dermatologia.",
+          "Fissuras podem levar semanas para cicatrizar; piora, dor crescente ou sinais de infecção não devem aguardar esse prazo.",
+          "Muitas crianças melhoram na puberdade, mas isso não garante resolução imediata. Persistência na adolescência ou vida adulta exige revisar micose, contato alérgico, psoríase e outras dermatoses.",
+          "Após melhora, mantenha calçado ajustado/ventilado, troca de meias úmidas e proteção da barreira conforme orientação; retorno ao esporte deve acompanhar ausência de dor e fissura aberta."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Dermatite plantar juvenil é extremamente atípica. Bolha, fissura, vermelhidão extensa, febre de 38 °C ou mais, recusa, sonolência ou alteração de cor/perfusão exige avaliação imediata; não aplicar antifúngico, corticoide ou queratolítico por conta própria.",
+        "3a5m": "Priorizar avaliação pediátrica para dermatite irritativa/alérgica, infecção, doença bolhosa ou alteração congênita. Rever produtos do cuidador, meia e calçado, sem dieta de exclusão nem automedicação.",
+        "6a11m": "Lesão plantar nessa idade não deve ser rotulada automaticamente. Observar pressão/atrito ao engatinhar ou iniciar apoio, mas avaliar bolhas, dor, lesão unilateral, febre e infecção.",
+        "1a": "A criança pode não localizar a dor. Recusa para apoiar, choro ao calçar, pé quente/inchado ou fissura profunda precisa de avaliação; revisar tamanho do calçado e pontos de atrito.",
+        "2a5": "Faixa em que a entidade começa a ser típica. Rever sapato, meia, suor, piscina e esporte; espaços entre os dedos afetados, unilateralidade ou secreção exigem considerar micose/contato/infecção.",
+        "6a11": "Faixa mais característica. Adaptar esporte quando fissuras doerem, trocar meias úmidas, alternar calçados ventilados e informar escola sem estigma; não há contágio nem afastamento automático.",
+        "12a17": "Pode persistir no início da adolescência, mas micose torna-se mais provável. Rever vestiário, esporte, calçado, unhas e espaços interdigitais; persistência após puberdade pede confirmação diagnóstica.",
+        "unknown": "Confirmar idade, distribuição, bilateralidade, dor/coceira, fissuras, espaços entre os dedos, calçado/suor/esporte, febre, diabetes/imunossupressão e tratamentos usados antes de resolver ou medicar."
+      },
+      "refs": [
+        {
+          "id": "pais269_op3326_1",
+          "name": "Juvenile plantar dermatosis",
+          "url": "https://dermnetnz.org/topics/juvenile-plantar-dermatosis"
+        },
+        {
+          "id": "pais269_op3326_2",
+          "name": "Juvenile plantar dermatosis",
+          "url": "https://www.pcds.org.uk/clinical-guidance/juvenile-plantar-dermatosis"
+        },
+        {
+          "id": "pais269_op3326_3",
+          "name": "Juvenile Plantar Dermatosis",
+          "url": "https://www.dermcoll.edu.au/wp-content/uploads/2022/02/Juvenile-Plantar-Dermatosis.pdf"
+        },
+        {
+          "id": "pais269_op3326_4",
+          "name": "12 Common Summertime Skin Rashes in Children — Juvenile plantar dermatosis",
+          "url": "https://www.healthychildren.org/english/health-issues/conditions/skin/pages/common-summertime-skin-rashes-in-children.aspx"
+        },
+        {
+          "id": "pais269_op3326_5",
+          "name": "Juvenile plantar dermatosis. A clinicopathologic study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/3977336/"
+        },
+        {
+          "id": "pais269_op3326_6",
+          "name": "Juvenile Plantar Dermatosis (JPD)",
+          "url": "https://www.medicaljournals.se/acta/download/10.2340/00015555144153154/"
+        },
+        {
+          "id": "pais269_op3326_7",
+          "name": "Dermatitis of the Foot: Epidemiologic and Clinical Features in 389 Children",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28730653/"
+        },
+        {
+          "id": "pais269_op3326_8",
+          "name": "Kids Health Info: Ringworm",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Ringworm/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

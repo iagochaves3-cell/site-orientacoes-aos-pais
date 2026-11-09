@@ -1,0 +1,69 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T17:07:47.669Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_df5dc757b0d29eb2",
+      "label": "Apendicite Aguda Complicada / Peritonite Difusa — registro no PPS",
+      "entity": "Apendicite complicada, incluindo peritonite difusa",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Complicação cirúrgica reconhecida; peritonite difusa não é sinônimo de toda apendicite complicada. O relatório assistencial define perfuração, abscesso e extensão da inflamação.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Apendicite complicada pode envolver perfuração do apêndice, acúmulo de pus ou inflamação na barriga. Peritonite difusa significa inflamação espalhada no revestimento do abdome. Suspeita ou diagnóstico atual exige atendimento hospitalar imediato; esta ficha não autoriza permanecer em casa.",
+          "Os cuidados em casa só se aplicam após tratamento e alta autorizada pela equipe. Um abscesso localizado e uma peritonite espalhada podem exigir estratégias diferentes; o nome nesta lista não escolhe o tratamento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Procure atendimento sem demora. Informe início e evolução dos sintomas, última alimentação e medicamentos usados. Não aperte repetidamente a barriga nem force a criança a caminhar para testar a dor.",
+          "Depois da alta, siga o plano individual de ferida, banho, escola e esforço. Não manipule drenos nem retire pontos. A recuperação pode ser mais demorada após complicações; não use o prazo de outra criança."
+        ],
+        "MEDICAMENTOS": [
+          "O hospital define antibióticos, controle da dor e necessidade de cirurgia ou drenagem. Não tente substituir esse cuidado por antibiótico guardado em casa.",
+          "Após a alta, siga a receita e não mude duração ou horários por conta própria. Avise a equipe se não consegue tomar o tratamento ou vomita as doses; dor que piora precisa reavaliação, não apenas mais analgésico."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na situação aguda, vá ao hospital e siga a orientação assistencial sobre alimentação e jejum. Não espere em casa em jejum prolongado. Se houver necessidade de jejum, a equipe deve cuidar também da hidratação.",
+          "Após alta, siga a alimentação liberada e observe ingestão, urina e funcionamento do intestino. Barriga inchando, vômitos repetidos ou verdes e dor crescente exigem retorno; não tente resolver esses sinais com laxante ou mudança de dieta."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se este é um diagnóstico atual ainda sem tratamento concluído, procure atendimento agora. Dor forte espalhada pela barriga ou piora para se movimentar são sinais de urgência; melhora passageira da dor não garante que o problema passou.",
+          "Durante a recuperação, volte imediatamente se a dor aumenta, surge febre com mal-estar, vômito verde, barriga muito inchada ou incapacidade de beber. Complicações como infecção interna ou obstrução precisam exame.",
+          "Dificuldade para acordar ou respirar, desmaio, confusão ou pele muito pálida/manchada: acione 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Antes da alta, confirme o retorno cirúrgico, o contato do serviço e o plano de medicação e alimentação. Se o tratamento foi iniciado sem retirada do apêndice, confirme como será o acompanhamento; uma operação posterior não é automática.",
+          "Vermelhidão crescente, calor, secreção ou dor na ferida pedem contato no mesmo dia. Se houver febre ou piora geral, vá ao pronto atendimento. Não espere o retorno marcado diante dos sinais de perigo.",
+          "Mesmo depois da recuperação inicial, dor em cólicas com vômito verde pode indicar obstrução e exige avaliação imediata."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nesta idade é rara, mas recusa alimentar, prostração, distensão ou vômito verde exigem avaliação urgente de outras causas graves também. Não espere localização da dor.",
+        "3a5m": "O bebê não consegue apontar a dor. Alteração importante do comportamento, vômitos ou distensão precisam exame; não use este cadastro para concluir a causa.",
+        "6a11m": "Não espere a descrição clássica de dor. Prostração, recusa alimentar ou vômito verde são sinais para atendimento imediato.",
+        "1a": "Diarreia não exclui apendicite. Piora do estado geral com dor ou vômitos pede avaliação urgente.",
+        "2a5": "Crianças pequenas podem ter sintomas pouco típicos e evoluir com complicações. Não espere a dor mudar para o lado direito.",
+        "6a11": "Explique os cuidados de forma simples e observe dor ao movimentar, vômitos e febre. Suspeita atual exige atendimento hospitalar.",
+        "12a17": "Dor abdominal pode ter outras causas urgentes, inclusive genitais ou relacionadas à gravidez. Informe os sintomas à equipe com privacidade; o nome no cadastro não confirma a causa.",
+        "unknown": "Confirmar idade, início dos sintomas e se é episódio atual ou recuperação após alta. Suspeita atual requer avaliação urgente."
+      },
+      "refs": [
+        {
+          "id": "pais180_op549_1",
+          "name": "Appendicitis",
+          "url": "https://www.nhs.uk/conditions/appendicitis/"
+        },
+        {
+          "id": "pais180_op549_2",
+          "name": "Appendicitis in children – information for parents and carers",
+          "url": "https://www.cuh.nhs.uk/patient-information/appendicitis-in-children-information-for-parents-and-carers/"
+        },
+        {
+          "id": "pais180_op549_3",
+          "name": "Abdominal pain - acute",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain_-_acute/"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T16:56:15.957Z",
+  "records": [
+    {
+      "jobId": "OP-2451",
+      "specific": false,
+      "key": "pdf1500_487",
+      "label": "Drenagem anômala total das veias pulmonares refratário",
+      "entity": "Drenagem anômala total das veias pulmonares (DATVP), cardiopatia congênita crítica; o qualificador cadastral \"refratário\" não constitui entidade autônoma nem demonstra falha de tratamento",
+      "assessment": "{\"classification\":\"INAPPROPRIATE_REFRACTORY_QUALIFIER_ON_VALID_CONGENITAL_MALFORMATION\",\"normalized_entity\":\"Drenagem anômala total das veias pulmonares (DATVP)\",\"assessment\":\"A entidade-base é válida e corresponde a uma malformação presente desde o nascimento, na qual todas as veias pulmonares não se conectam normalmente ao átrio esquerdo. \\\"Refratário\\\" pressuporia alvo clínico definido, tratamento adequado realmente realizado, tempo suficiente e resposta persistentemente inadequada; nada disso é informado pelo rótulo. A anatomia congênita não se torna um subtipo refratário. Depois de reparo podem existir problemas distintos, como obstrução venosa pulmonar, mas eles exigem diagnóstico próprio e documentação de anatomia, intervenção e evolução. O rótulo pdf1500_487 não prova tratamento prévio, falha terapêutica, reparo, obstrução, reestenose, reintervenção ou gravidade atual.\",\"source_label_preservation\":\"Conservar literalmente o rótulo cadastral e o ID pdf1500_487 para rastreabilidade, mas não apresentar \\\"DATVP refratário\\\" às famílias como entidade nosológica distinta, falha terapêutica comprovada ou indicação de intensificação do tratamento.\",\"reconciliation\":{\"with_key\":\"pdf1500_475\",\"with_label\":\"Drenagem anômala total das veias pulmonares\",\"relationship\":\"SAME_VALID_BASE_ENTITY_WITH_UNSUPPORTED_QUALIFIER\",\"rule\":\"Reutilizar integralmente as orientações clínicas seguras da entidade-base pdf1500_475. Não duplicar a malformação como nova doença, não reduzir os alertas da ficha-base e acrescentar apenas a guarda de que \\\"refratário\\\" não informa o que teria falhado nem autoriza tratamento. Complicação ou resposta inadequada só pode ser exibida quando houver documentação clínica própria.\",\"difference_to_preserve\":\"A ficha pdf1500_487 deve acionar reconciliação terminológica e revisão do cadastro; não pode converter o qualificador em terapia prévia, falha terapêutica, história cirúrgica, complicação, gravidade, prognóstico ou conduta.\"},\"synonyms_and_acronyms\":[\"DATVP\",\"Conexão anômala total das veias pulmonares\",\"CATVP\",\"Total anomalous pulmonary venous return\",\"TAPVR\",\"Total anomalous pulmonary venous connection\",\"TAPVC\"],\"not_synonyms\":[\"DATVP refratário como entidade autônoma\",\"DATVP resistente a tratamento sem alvo e tratamento documentados\",\"Obstrução venosa pulmonar pós-operatória\",\"Reestenose de veia pulmonar\",\"Estenose pulmonar venosa primária\",\"Drenagem ou conexão anômala parcial das veias pulmonares\",\"Falha do reparo cirúrgico\",\"Insuficiência cardíaca ou hipertensão pulmonar refratárias\",\"Necessidade de reoperação, cateterismo ou terapia de resgate\"],\"not_automatically_equivalent_to\":[\"DATVP obstruída ou não obstruída\",\"Qualquer subtipo anatômico específico de DATVP\",\"DATVP reparada, não reparada, curada ou liberada de seguimento\",\"Obstrução residual, nova obstrução ou reestenose após reparo\",\"Sintoma persistente apesar de tratamento adequado\",\"Falha de medicamento, oxigênio, cateterismo, cirurgia ou suporte intensivo\",\"Hipertensão pulmonar, insuficiência cardíaca, arritmia, infecção, baixo débito ou choque confirmados\",\"Heterotaxia, isomerismo, fisiologia univentricular ou outra cardiopatia associada\",\"Indicação de medicamento, oxigênio, dieta, procedimento, reintervenção, duração de internação ou alta\"],\"pediatric_scope\":\"A DATVP costuma manifestar-se no período neonatal ou nos primeiros meses. Crianças maiores e adolescentes podem estar em seguimento após reparo ou, raramente, ter diagnóstico tardio. Em qualquer idade, a prioridade depende da anatomia, do estado de reparo e do estado cardiorrespiratório atuais documentados. Persistência ou piora de sintomas exige avaliação urgente conforme a manifestação, mas não prova refratariedade, causa específica nem falha de uma terapia.\",\"critical_context_to_confirm\":[\"Idade, peso, prematuridade, sintomas atuais, início e evolução\",\"Relatório de ecocardiograma ou outro exame que confirme a DATVP e descreva anatomia e obstrução, se houver\",\"Se houve correção, data, técnica, centro responsável, resumo de alta e exames de seguimento\",\"O que exatamente foi chamado de refratário, por quem, com qual objetivo terapêutico e quais critérios de resposta\",\"Tratamentos e intervenções realmente realizados, adequação, duração, adesão, contraindicações e resposta documentada, sem preencher lacunas por inferência\",\"Se algum especialista documentou obstrução residual, pós-operatória ou reestenose; local, extensão e repercussão\",\"Cor, esforço e frequência respiratória, nível de alerta, pulsos, perfusão e urina\",\"Saturação habitual definida pela equipe e mudança em relação a ela, quando houver plano de monitorização\",\"Capacidade de mamar ou comer, suor, fadiga, vômitos, hidratação e evolução do peso\",\"Cardiopatias e condições extracardíacas associadas e tipo de circulação\",\"Medicamentos, oxigênio e equipamentos realmente prescritos, sem dedução a partir do rótulo\",\"Plano individual de retornos, atividade, escola, odontologia e transição de cuidado\"],\"counting_rule\":\"Manter pdf1500_487 como registro com problema de termo, vinculado à mesma entidade-base de pdf1500_475. Não contar \\\"DATVP refratário\\\" como doença pediátrica distinta e não agrupá-lo automaticamente com obstrução, reestenose, insuficiência cardíaca, hipertensão pulmonar ou falha terapêutica. Uma complicação documentada deve receber identificação clínica própria sem apagar o ID de origem.\",\"reason\":\"Fontes abertas oficiais definem DATVP como cardiopatia congênita estrutural presente ao nascimento. Fontes de seguimento e coortes cirúrgicas descrevem complicações específicas após reparo, não uma entidade denominada \\\"DATVP refratário\\\". Sem alvo, tratamento, adequação, tempo e resposta documentados, refratariedade não pode ser afirmada; nenhum desses dados individuais foi fornecido.\",\"next_action\":\"Remapear o conteúdo clínico para pdf1500_475, preservando ID e rótulo literal. Exigir que eventual falha terapêutica seja registrada como cenário separado com problema-alvo, tratamento realmente realizado, adequação, resposta e avaliação especializada; até lá, não sugerir medicamento, dose, oxigênio, procedimento ou reintervenção.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A DATVP é uma cardiopatia presente desde o nascimento. Nela, as veias que trazem sangue oxigenado dos pulmões não chegam ao átrio esquerdo pela conexão habitual. A palavra \"refratário\" no cadastro não cria outro tipo de DATVP e não prova que algum tratamento falhou.",
+          "Se o diagnóstico é novo, a correção não foi feita ou não se sabe se houve correção, contate imediatamente cardiologia pediátrica ou o hospital que acompanha a criança. Mudança de cor, falta de ar, dificuldade para mamar, sonolência anormal ou pulso fraco exige emergência, sem esperar consulta.",
+          "Se houve operação, qualquer complicação só pode ser confirmada pela equipe com histórico e exames apropriados. Respiração pior, cansaço novo, menor tolerância para mamar ou se exercitar, alteração de cor ou queda do estado geral devem motivar avaliação; não conclua em casa que a doença é \"refratária\" nem repita ou aumente tratamento.",
+          "Cuidados domiciliares após operação só valem depois de alta formal. Siga exatamente o plano individual de ferida, alimentação, atividade, medicamentos, equipamentos, retornos e contatos; o rótulo desta ficha não cria uma alta nem um plano pós-operatório.",
+          "Observe mudanças em relação ao habitual: cor dos lábios e pele, respiração, energia, suor, alimentação, vômitos, urina, inchaço, febre e, quando existir, a ferida. Mudança importante vale mais que um número isolado do oxímetro.",
+          "A DATVP não é contagiosa. Mantenha casa e carro sem fumaça, vape, narguilé ou maconha. Creche, escola, educação física, esporte e viagem dependem do estado atual e da liberação cardiológica, não das palavras \"refratário\" ou \"corrigida\" isoladamente.",
+          "Não interrompa seguimento porque a criança parece bem. Após reparo, controles acompanham veias pulmonares, ritmo, função cardíaca e capacidade de exercício; vigilância não significa que exista reestenose."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acessíveis o relatório cardiológico, o resumo de alta se houver, a lista atual de medicamentos e equipamentos, a saturação habitual se definida, alergias e contatos do centro. Não atrase uma emergência para procurar documentos.",
+          "Se houver dificuldade respiratória, deixe a criança na posição em que respira melhor, geralmente com o tronco elevado, mantenha-a acompanhada e acione ajuda. Não force caminhada, banho, alimentação ou posição deitada.",
+          "Não inicie oxigênio, não mude fluxo ou alvo de saturação e não ajuste monitor, sonda ou equipamento sem plano escrito. A equipe interpreta saturação junto com anatomia, valor habitual, cor, esforço, consciência e perfusão.",
+          "Se houve cirurgia, cuide de cada incisão ou local de dreno apenas como orientado na alta. Não retire curativo, fita, ponto ou crosta e não aplique creme, óleo, antisséptico ou receita caseira por conta própria.",
+          "Atividade deve ser individualizada. Interrompa exercício ou brincadeira se surgir falta de ar, dor no peito, palpitação, tontura, desmaio, mudança de cor ou queda clara de desempenho e comunique a equipe.",
+          "Mantenha higiene oral e acompanhamento odontológico. Informe a história cardíaca e eventual reparo; a necessidade de antibiótico antes de procedimentos não decorre do rótulo e deve ser definida pela cardiologia.",
+          "Não use sintomas ou oxímetro doméstico para declarar falha terapêutica, obstrução ou reestenose. Essas possibilidades, quando pertinentes, são avaliadas pelo serviço cardíaco com histórico, exame e métodos escolhidos para a anatomia individual."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, oxigênio, dose, via, horário, duração, cirurgia, cateterismo, reintervenção ou alta. O qualificador \"refratário\" não autoriza iniciar, repetir, intensificar ou trocar tratamento.",
+          "Use somente medicamentos e equipamentos da prescrição individual vigente. Não inicie, suspenda, troque, reduza, aumente, triture, dilua ou prolongue algo porque outra criança com DATVP ou estenose venosa pulmonar usou.",
+          "Confira nome, apresentação, concentração, volume e horário em cada administração. Se a criança vomitar, cuspir ou perder uma dose, não repita nem dobre automaticamente; contate a equipe ou o farmacêutico responsável.",
+          "Não dê descongestionante, xarope, anti-inflamatório, produto herbal, suplemento ou remédio de venda livre sem confirmar compatibilidade com cardiologista ou pediatra.",
+          "Antibiótico antes de tratamento dentário não é automático para toda pessoa com DATVP. A decisão depende da anatomia e do reparo documentados e deve ser individualizada.",
+          "Dificuldade para obter ou administrar prescrição, efeito inesperado, sonolência incomum, piora da respiração, desmaio, inchaço, pouca urina ou incapacidade de manter doses exige contato imediato; sinais graves exigem pronto atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga o método, textura, volume e frequência definidos pela equipe. Não presuma que DATVP ou o adjetivo \"refratário\" exige restrição de líquido, sal, fórmula especial, fortificante, espessante, sonda ou suplemento.",
+          "Em bebês, observe respiração muito rápida, costelas afundando, suor intenso, mudança de cor, pausas, engasgo, exaustão ou incapacidade de terminar a mamada. Interrompa a oferta se houver falta de ar importante ou alteração de consciência e procure emergência.",
+          "Não force alimento ou líquido durante falta de ar, cianose, sonolência, desmaio ou vômitos repetidos. A criança pode aspirar e precisar de avaliação urgente.",
+          "Quando estiver estável e liberada para alimentar, use apenas o plano adequado à idade. Não altere diluição de fórmula, não acrescente pó ou cereal e não substitua leite por água, chá ou suco por conta própria.",
+          "Acompanhe ingestão, urina ou fraldas, cansaço e peso conforme o centro orientou. Menor volume, menos urina, suor ou exaustão para comer e peso parado ou caindo devem ser comunicados antes do retorno previsto.",
+          "Após operação, via e ritmo de alimentação podem mudar, mas precisam constar do plano individual. Tosse, engasgo, voz molhada, vômitos, distensão, dor ou dificuldade nova para engolir requer avaliação; não improvise textura ou sonda."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios, língua, rosto ou pele mais azulados, arroxeados, cinzentos ou muito pálidos que o habitual, principalmente com fraqueza, sonolência ou falta de ar. Se a mudança for intensa, rápida ou persistente, acione a emergência.",
+          "Respiração muito rápida ou difícil, gemido, batimento das asas do nariz, costelas afundando, incapacidade de falar ou mamar, pausas respiratórias, exaustão ou piora súbita. Não espere um valor específico de saturação.",
+          "Desmaio, convulsão, confusão, dificuldade para acordar, flacidez, pulso muito fraco, pele fria ou manchada, extremidades muito frias ou piora rápida pode indicar baixa oxigenação ou choque e exige emergência.",
+          "Recusa ou incapacidade de mamar ou beber, suor e cansaço marcantes na alimentação, vômitos repetidos com pouca urina, boca muito seca ou sonolência incomum exige avaliação urgente, sobretudo em bebês.",
+          "Palpitação persistente com tontura, desmaio, dor no peito, falta de ar, palidez ou mudança de cor; ou dor no peito forte ou nova acompanhada de dificuldade respiratória exige avaliação imediata.",
+          "Depois de operação, falta de ar crescente, mudança de cor, extremo cansaço, inchaço novo, pouca urina, febre com aparência doente, sangramento persistente, abertura da ferida ou secreção com piora geral exige pronto atendimento e contato com a equipe cardíaca. Esses sinais não confirmam reestenose e não devem ser investigados apenas em casa."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita ou diagnóstico novo de DATVP, ou estado de correção desconhecido, exige avaliação imediata por cardiologia pediátrica. Em recém-nascido ou lactente, o hospital deve ter capacidade de estabilização e articulação com centro cardíaco; não aguarde retorno de rotina.",
+          "Peça à equipe para esclarecer o que \"refratário\" pretendia registrar. Se houver alegação de falha, confirme qual problema persistiu, qual tratamento foi realmente feito, se foi adequado, por quanto tempo e qual resposta foi medida. Confirme separadamente DATVP não corrigida, reparo e complicações; não use o rótulo como diagnóstico ou prescrição.",
+          "Após alta documentada, cumpra exatamente o retorno escrito com cardiologia e cirurgia cardíaca, quando aplicável. Se faltarem data, contatos ou plano de ferida, alimentação, atividade e medicamentos, procure o centro; esta ficha não cria intervalo, tratamento ou alta.",
+          "Antecipe o contato por aumento do cansaço ou suor, respiração mais rápida, mudança de cor, piora de alimentação, vômitos, queda de peso, menos urina, inchaço, febre, tosse persistente, queda de rendimento, palpitações, tontura ou dor no peito.",
+          "Mesmo sem sintomas, mantenha seguimento ao longo da vida. Se houve correção, a equipe pode acompanhar estreitamento das veias pulmonares, alterações do ritmo, função e pressão pulmonar e decidir exames ou intervenção; isso não presume que qualquer complicação exista.",
+          "Acompanhe crescimento, alimentação e desenvolvimento com pediatria. Na adolescência, planeje transição para cardiologia de cardiopatias congênitas do adulto e discuta atividade, trabalho, contracepção e futura gestação antes de decisões relevantes."
+        ]
+      },
+      "ageMap": {
+        "u3m": "DATVP suspeita ou confirmada sem estado de correção conhecido exige avaliação hospitalar e cardiologia neonatal imediatas. Cianose ou palidez, respiração rápida ou difícil, pausas, sucção fraca, suor ou exaustão na mamada, pulso fraco, pouca resposta e pouca urina são alarmes. Não interpretar \"refratário\" como prova de tratamento prévio, falha ou reparo.",
+        "3a5m": "Se não houve correção documentada ou a história é desconhecida, contatar imediatamente cardiologia pediátrica. Observar cor, esforço respiratório, suor, pausas e fadiga na mamada, ingestão, fraldas e peso. Depois de operação, piora exige avaliação, mas reestenose só pode ser afirmada com documentação.",
+        "6a11m": "Confirmar relatório anatômico e cirúrgico, saturação habitual se definida, alimentação e retornos. Menor interação, respiração ofegante, mudança de cor, suor, engasgo, peso parado e menos fraldas requerem contato; sinais intensos são emergência. Não alterar dieta, oxigênio ou atividade sozinho nem chamar sintomas persistentes de refratariedade sem avaliação.",
+        "1a": "A criança pode mostrar piora parando de brincar, pedindo colo, respirando mais rápido, ficando pálida ou azulada, suando, comendo menos ou urinando pouco. Diagnóstico não corrigido exige avaliação especializada imediata. Após cirurgia, usar o plano individual e investigar piora sem presumir reestenose.",
+        "2a5": "Observar tolerância para brincar, fala interrompida por falta de ar, cor, palpitação, tontura, desmaio, alimentação, crescimento e desenvolvimento. Escola e atividade dependem de liberação cardiológica. O rótulo \"refratário\" não deve limitar atividade nem indicar tratamento sem avaliação.",
+        "6a11": "Ensinar a relatar falta de ar, dor no peito, palpitação, tontura, cansaço novo ou queda de rendimento. Manter seguimento mesmo assintomática e ajustar educação física pela cardiologia. Sintomas justificam avaliação, mas não confirmam refratariedade, obstrução ou falha de tratamento.",
+        "12a17": "O adolescente deve conhecer a cardiopatia, anatomia e reparo documentados, medicamentos reais, sinais de urgência e contatos. Planejar transição para cardiologia congênita do adulto. Síncope, cianose, palpitação persistente, dor no peito ou dispneia exige avaliação rápida; \"refratário\" deve ser esclarecido no registro, não assumido como falha terapêutica.",
+        "unknown": "Sem idade e história documentada, não presumir bebê, subtipo, reparo, tratamento prévio, falha, obstrução, estabilidade ou alta. Confirmar documentação e avaliar cor, respiração, consciência, perfusão, pulso, alimentação e urina. Comprometimento cardiorrespiratório ativa emergência; se estável, contatar cardiologia congênita no mesmo dia para definir o fluxo."
+      },
+      "refs": [
+        {
+          "id": "pais246_op2451_1",
+          "name": "Total Anomalous Pulmonary Venous Return (TAPVR)",
+          "url": "https://www.cdc.gov/heart-defects/about/tapvr.html"
+        },
+        {
+          "id": "pais246_op2451_2",
+          "name": "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/total-anomalous-pulmonary-venous-connection-tapvc"
+        },
+        {
+          "id": "pais246_op2451_3",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais246_op2451_4",
+          "name": "Drenagem anômala total das veias pulmonares: 29 anos de experiência em uma única instituição",
+          "url": "https://www.scielo.br/j/abc/a/gHY85GMfhLNhhvQ96kJwC6H/?lang=pt"
+        },
+        {
+          "id": "pais246_op2451_5",
+          "name": "Total Anomalous Pulmonary Venous Connection: Surgical Outcomes and Risk Factors for Postoperative Pulmonary Vein Obstruction",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36911544/"
+        },
+        {
+          "id": "pais246_op2451_6",
+          "name": "Repair of Total Anomalous Pulmonary Venous Connection: Risk Factors for Postoperative Obstruction",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30885849/"
+        },
+        {
+          "id": "pais246_op2451_7",
+          "name": "Total anomalous pulmonary venous connection: outcome of postoperative pulmonary venous obstruction",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22892140/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2452",
+      "specific": false,
+      "key": "pdf1500_488",
+      "label": "Drenagem anômala total das veias pulmonares unilateral",
+      "entity": "Termo anatômico ambíguo: pode pretender DATVP, cardiopatia congênita crítica, ou conexão anômala unilateral de todas as veias de um pulmão, pertencente ao espectro de drenagem/conexão anômala parcial",
+      "assessment": "{\"classification\":\"AMBIGUOUS_INADEQUATE_UNILATERAL_QUALIFIER_REQUIRING_ANATOMIC_RECLASSIFICATION\",\"normalized_entity\":\"Conexão anômala das veias pulmonares, extensão total versus parcial a confirmar por imagem\",\"invalid_or_unsupported_qualifier\":\"unilateral associado a ‘total’ sem descrição anatômica\",\"qualifier_assessment\":\"‘Total’ deve referir-se à totalidade das veias pulmonares do paciente para DATVP. ‘Unilateral total’ é usado de modo inconsistente para todas as veias de um único pulmão; nessa anatomia, se o pulmão oposto drena normalmente ao átrio esquerdo, a lesão é parcial no conjunto do paciente. O qualificador não informa lado, número de veias, pulmão contralateral, sítio de conexão, shunt, obstrução ou repercussão.\",\"assessment\":\"A entrada não é uma entidade independente confiável. DATVP verdadeira é cardiopatia congênita crítica e costuma exigir correção precoce; conexão anômala parcial/unilateral tem espectro de repercussão e manejo diferente. Aplicar automaticamente o conteúdo urgente da DATVP ou, no sentido oposto, tranquilizar como forma parcial pode causar dano. O cadastro deve acionar confirmação anatômica e portões clínicos, sem decidir tratamento pelo nome.\",\"synonyms_and_ambiguous_usage\":[\"Unilateral anomalous pulmonary venous connection (UAPVC)\",\"Unilateral total anomalous pulmonary venous connection/return\",\"Total left or right anomalous pulmonary venous connection\",\"Conexão anômala de todas as veias pulmonares de um pulmão\"],\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_475\",\"canonical_label\":\"Drenagem anômala total das veias pulmonares\",\"canonical_result\":\"references/orientacoes-validadas/parallel-results/OP-2439-pdf1500_475.json\",\"relationship\":\"DO_NOT_MERGE_UNTIL_ANATOMY_CONFIRMS_ALL_PULMONARY_VEINS_OF_THE_PATIENT_ARE_ANOMALOUS\",\"decision\":\"Reutilizar integralmente pdf1500_475 somente se documentação confirmar DATVP verdadeira. Se o achado envolver todas as veias de apenas um pulmão com retorno normal do outro, classificar no espectro parcial/unilateral e definir conduta pela anatomia e repercussão documentadas.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_AMBIGUOUS_CATALOG_ID_PENDING_RECLASSIFICATION\"},\"not_automatically_equivalent_to\":[\"DATVP confirmada de ambos os pulmões\",\"Conexão anômala parcial confirmada\",\"Tipo supracardíaco, cardíaco, infracardíaco ou misto\",\"Síndrome da cimitarra ou veia pulmonar única anômala\",\"Agenesia, aplasia ou hipoplasia pulmonar contralateral\",\"Obstrução venosa pulmonar, hipertensão pulmonar, insuficiência cardíaca, arritmia ou choque\",\"Indicação automática de cirurgia, medicamento, oxigênio, restrição, internação ou alta\",\"Estado reparado, estável, curado ou dispensado de seguimento\"],\"pediatric_scope\":\"Em recém-nascidos e lactentes, uma DATVP não corrigida pode se apresentar de forma crítica; formas unilaterais/parciais podem ser assintomáticas por mais tempo ou causar sobrecarga direita, sintomas e hipertensão pulmonar conforme o shunt. Crianças maiores e adolescentes podem estar em seguimento após reparo ou receber diagnóstico incidental. Idade não resolve a anatomia.\",\"critical_context_to_confirm\":[\"Idade, peso, prematuridade, sintomas e momento do diagnóstico\",\"Quais veias de cada pulmão conectam-se ao átrio esquerdo e quais têm conexão anômala\",\"Lado envolvido, destino e trajeto de cada conexão e presença de um ou dois pulmões funcionantes\",\"Obstrução documentada, dimensões e função das câmaras direitas, estimativa de shunt e pressão pulmonar\",\"Defeitos associados, inclusive comunicação interatrial, heterotaxia e alterações pulmonares\",\"Cor, esforço respiratório, nível de alerta, pulsos, perfusão, ingestão e urina atuais\",\"Saturação habitual somente se definida pela equipe e mudança em relação ao habitual\",\"Se houve reparo, data, técnica, complicações, exames de controle e resumo de alta\",\"Medicamentos, oxigênio, equipamentos, restrições e contatos realmente prescritos\",\"Plano de cardiologia, atividade, odontologia e transição para cuidado adulto\"],\"counting_rule\":\"Preservar pdf1500_488 como ID cadastral ambíguo, contar zero entidade adicional e não fundir automaticamente. Reconciliar com pdf1500_475 apenas após confirmação de que todas as veias pulmonares do paciente são anômalas.\",\"inference\":\"A classificação como problema de termo é inferência nosológica conservadora sustentada pela definição de total versus parcial e por literatura de imagem que situa UAPVC no espectro de PAPVC. Ela não nega que autores históricos usem ‘total unilateral’ nem exclui anatomias excepcionais; exige descrição explícita em vez de traduzir o rótulo em diagnóstico.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome cadastrado é ambíguo. ‘Total’ costuma significar que todas as veias pulmonares do paciente têm conexão anômala; ‘unilateral’ pode ter sido usado para todas as veias de somente um pulmão, o que geralmente pertence ao espectro parcial. Peça à cardiologia a descrição anatômica e não tente decidir pelo nome.",
+          "Se houver suspeita de DATVP verdadeira, diagnóstico novo sem anatomia esclarecida, ou estado de correção desconhecido em recém-nascido ou bebê, procure avaliação imediata em serviço com cardiologia pediátrica. Mudança de cor, falta de ar, mamada fraca, pouca resposta ou pulso fraco exige emergência.",
+          "Se uma conexão unilateral/parcial já foi confirmada e a criança está estável, siga o plano individual: algumas anatomias são apenas acompanhadas e outras precisam de intervenção conforme sintomas, sobrecarga cardíaca, shunt, pressão pulmonar e defeitos associados.",
+          "Cuidados em casa após operação só se aplicam depois de alta formal. Guarde laudos e resumo de alta e siga exatamente ferida, alimentação, atividade, medicamentos, equipamentos, retornos e telefones definidos para a criança.",
+          "Observe mudança em cor, respiração, suor, energia, capacidade de mamar, comer, brincar ou caminhar, palpitação, tontura, desmaio, ingestão, urina, peso, inchaço, febre e ferida, se houver. Mudança clínica importante vale mais que um número isolado de oxímetro.",
+          "A anomalia não é contagiosa. Creche, escola, educação física, esporte e viagens dependem da anatomia, repercussão e liberação cardiológica; não restrinja nem libere apenas pelo termo ‘unilateral’."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acessíveis laudos, resumo de alta, lista de medicamentos e equipamentos, alergias, saturação habitual se a equipe definiu uma e contatos do centro. Não atrase uma emergência para procurar documentos.",
+          "Se houver dificuldade respiratória, deixe a criança na posição em que respira melhor, mantenha-a acompanhada e acione ajuda. Não force caminhada, banho, alimento, líquido ou posição deitada.",
+          "Não inicie oxigênio, não mude fluxo ou alvo de saturação e não ajuste monitor, sonda ou outro equipamento sem plano escrito. A interpretação depende de anatomia e estado clínico.",
+          "Se houve operação, cuide de incisão e dreno apenas como orientado na alta. Não retire curativo, fita, ponto ou crosta e não aplique creme, óleo, antisséptico ou receita caseira.",
+          "Atividade deve ser individualizada. Falta de ar desproporcional, dor no peito, palpitação, tontura, desmaio ou queda nova de desempenho exige interromper o esforço e comunicar a equipe; sintomas intensos exigem pronto atendimento.",
+          "Mantenha higiene oral e informe a cardiopatia ao dentista. Antibiótico antes de procedimento não é automático e depende da anatomia, do reparo, do material utilizado e da decisão cardiológica."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento doméstico corrige uma conexão venosa anômala, e o termo ‘unilateral’ não indica remédio, oxigênio ou cirurgia. Esta ficha não escolhe tratamento.",
+          "Use apenas medicamentos e equipamentos da prescrição individual vigente. Não inicie, suspenda, troque, reduza, aumente, triture, dilua ou prolongue tratamento por comparação com outra criança.",
+          "Confira nome, apresentação, concentração, volume e horário. Se a criança vomitar, cuspir ou perder uma dose, não repita nem dobre automaticamente; contate a equipe ou o farmacêutico do plano.",
+          "Não dê descongestionante, xarope, anti-inflamatório, produto herbal, suplemento ou outro produto sem confirmar compatibilidade com o cardiologista ou pediatra.",
+          "Profilaxia antibiótica odontológica não decorre do rótulo. O cardiologista deve avaliar anatomia e reparo; higiene oral continua importante com ou sem profilaxia.",
+          "Efeito inesperado, sonolência incomum, piora respiratória, desmaio, inchaço, pouca urina ou dificuldade de administrar prescrição exige contato; sinais graves exigem emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga método, textura, volume e frequência definidos pela equipe. Não presuma restrição de líquido ou sal, fórmula especial, fortificante, espessante, sonda ou suplemento pelo nome do diagnóstico.",
+          "No bebê, observe respiração rápida, costelas afundando, suor, mudança de cor, pausas, engasgo, exaustão ou incapacidade de terminar a mamada. Falta de ar importante ou alteração de consciência exige interromper a oferta e acionar emergência.",
+          "Não force comida ou líquido durante cianose, dificuldade respiratória, sonolência, desmaio ou vômitos repetidos; há risco de aspiração e pode ser necessária avaliação urgente.",
+          "Quando estável e liberada para comer, ofereça o plano adequado à idade. Não altere diluição da fórmula, acrescente pó ou cereal nem substitua leite por água, chá ou suco por conta própria.",
+          "Acompanhe ingestão, urina ou fraldas, cansaço e peso conforme orientação. Menor ingestão, menos urina, suor ou exaustão ao comer e peso parado ou caindo merecem contato antecipado.",
+          "Após operação, via e ritmo de alimentação podem mudar, mas devem estar no plano de alta. Tosse, engasgo, voz molhada, vômitos, distensão ou dificuldade nova para engolir precisa de avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios, língua, rosto ou pele mais azulados, arroxeados, cinzentos ou muito pálidos que o habitual, especialmente com fraqueza, sonolência ou falta de ar. Acione emergência se intenso, rápido ou persistente.",
+          "Respiração muito rápida ou difícil, gemido, asas do nariz batendo, costelas afundando, incapacidade de falar ou mamar, pausas respiratórias, exaustão ou piora súbita. Não espere um valor específico de saturação.",
+          "Desmaio, convulsão, confusão, dificuldade para acordar, flacidez, pulso muito fraco, pele fria ou manchada, mãos e pés muito frios ou piora rápida exige emergência.",
+          "Incapacidade de mamar ou beber, suor e fadiga marcantes ao alimentar, vômitos repetidos com pouca urina, boca muito seca ou sonolência incomum exige avaliação urgente, sobretudo em bebês.",
+          "Palpitação persistente com tontura, desmaio, dor no peito, falta de ar ou palidez, ou dor no peito forte ou nova com dificuldade respiratória, exige avaliação imediata.",
+          "Depois de operação, falta de ar crescente, mudança de cor, extremo cansaço, inchaço novo, pouca urina, sangramento persistente, abertura da ferida ou febre com aparência doente exige pronto atendimento e contato com a equipe cardíaca."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie o rótulo com cardiologia e imagem: o laudo deve dizer quais veias de cada pulmão chegam ao átrio esquerdo, onde drenam as anômalas, se há obstrução, defeitos associados e repercussão. Não aceite ‘unilateral’ como descrição anatômica completa.",
+          "Suspeita de DATVP, anatomia indefinida em bebê ou estado de correção desconhecido exige avaliação imediata; não espere consulta de rotina. Se estiver comprovado que somente um pulmão tem conexão anômala e a criança está estável, use o prazo definido pelo cardiologista.",
+          "Após alta, cumpra retorno escrito. Se não recebeu data, contatos, plano de ferida, alimentação, atividade e medicamentos, procure o centro antes de improvisar; esta ficha não cria intervalo.",
+          "Antecipe contato por mais cansaço ou suor, respiração rápida, mudança de cor, piora alimentar, vômitos, queda de peso, menos urina, inchaço, tosse persistente, queda de rendimento, palpitação, tontura ou dor no peito.",
+          "Mantenha seguimento cardiológico mesmo sem sintomas. A equipe decide ecocardiograma ou imagem seccional e acompanha retorno venoso, tamanho e função do coração, pressão pulmonar, ritmo e reparo, sem presumir complicação.",
+          "Na adolescência, planeje transição para cardiologia congênita do adulto e discuta esporte, trabalho, procedimentos, contracepção e futura gestação. Informe a anatomia e o reparo antes de cirurgia ou tratamento dentário."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em recém-nascido ou lactente jovem, suspeita de DATVP ou anatomia indefinida exige avaliação hospitalar imediata. Cianose ou palidez, respiração difícil, pausas, sucção fraca, suor, pulso fraco, pouca resposta, temperatura anormal e pouca urina são alarmes. Não presumir forma parcial pelo termo unilateral.",
+        "3a5m": "Confirmar no mesmo dia anatomia e estado de reparo. Observar cor, esforço respiratório, suor, pausas e fadiga na mamada, ingestão, fraldas e peso. Se DATVP não foi excluída ou houver piora, avaliação é imediata; após alta, seguir apenas o plano individual.",
+        "6a11m": "Confirmar laudo, repercussão, alimentação e retornos. Menor interação, respiração ofegante em repouso ou ao comer, mudança de cor, suor, engasgo, peso parado e menos fraldas exigem contato; sinais intensos são emergência. Não alterar dieta ou oxigênio sozinho.",
+        "1a": "A criança pode piorar parando de brincar, pedindo colo, respirando mais rápido, ficando pálida ou azulada, suando, comendo menos ou urinando pouco. Anatomia ainda indefinida exige avaliação especializada rápida; restrições pós-operatórias vêm da alta.",
+        "2a5": "Observar tolerância ao brincar, fala entrecortada por falta de ar, cor, palpitação, tontura, desmaio, alimentação, crescimento e desenvolvimento. Escola e atividade dependem da avaliação; não restringir automaticamente nem liberar esporte intenso pelo rótulo.",
+        "6a11": "Ensinar a relatar falta de ar, dor no peito, palpitação, tontura, desmaio, cansaço novo e queda de rendimento. Confirmar se a anatomia é parcial/unilateral ou DATVP reparada e ajustar educação física pelo cardiologista.",
+        "12a17": "O adolescente deve conhecer a anatomia real, reparo, medicamentos e sinais de urgência, não apenas o rótulo ambíguo. Planejar transição para cardiologia congênita do adulto e discutir esporte, trabalho, procedimentos, contracepção e gestação individualmente.",
+        "unknown": "Sem idade, laudo e estado de reparo, não classificar como DATVP nem como forma parcial estável. Confirmar documentação e avaliar cor, respiração, consciência, perfusão, pulso, alimentação e urina. Comprometimento atual ativa emergência; se estável, contatar cardiologia congênita no mesmo dia."
+      },
+      "refs": [
+        {
+          "id": "pais246_op2452_1",
+          "name": "Anomalous venoatrial connections – CT and MRI assessment",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10415622/"
+        },
+        {
+          "id": "pais246_op2452_2",
+          "name": "Partial anomalous pulmonary venous connection (including scimitar syndrome)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24413000/"
+        },
+        {
+          "id": "pais246_op2452_3",
+          "name": "A case of total left anomalous pulmonary venous connection with intact atrial septum diagnosed by two-dimensional and Doppler echocardiography",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/2693756/"
+        },
+        {
+          "id": "pais246_op2452_4",
+          "name": "Total Anomalous Pulmonary Venous Return (TAPVR)",
+          "url": "https://www.cdc.gov/heart-defects/about/tapvr.html"
+        },
+        {
+          "id": "pais246_op2452_5",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais246_op2452_6",
+          "name": "2025 ACC/AHA/HRS/ISACHD/SCAI Guideline for the Management of Adults With Congenital Heart Disease",
+          "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001402"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2453",
+      "specific": true,
+      "key": "pdf1500_489",
+      "label": "Dupla via de saída do ventrículo direito",
+      "entity": "Dupla via de saída do ventrículo direito (DORV), malformação cardíaca congênita anatômica heterogênea em que a aorta e a artéria pulmonar emergem total ou predominantemente do ventrículo direito morfológico",
+      "assessment": "{\"classification\":\"VALID_ESTABLISHED_CRITICAL_CONGENITAL_HEART_DEFECT\",\"normalized_entity\":\"Dupla via de saída do ventrículo direito (DORV)\",\"assessment\":\"O termo cadastral corresponde a uma entidade congênita válida e crítica. É um diagnóstico anatômico amplo, não uma fisiologia única: em geral há comunicação interventricular, e a relação dessa comunicação com as grandes artérias, a presença de obstrução de uma via de saída, o tamanho e a função dos ventrículos, as válvulas, o arco aórtico, as coronárias e outras malformações determinam como o sangue circula, os sintomas e a estratégia. O rótulo isolado não permite afirmar cianose, excesso ou redução de fluxo pulmonar, insuficiência cardíaca, subtipo, gravidade atual, cirurgia realizada ou indicada, circulação uni ou biventricular, prognóstico ou condição de alta.\",\"synonyms_and_acronyms\":[\"DORV\",\"Double-outlet right ventricle\",\"Ventrículo direito com dupla via de saída\",\"Dupla saída do ventrículo direito\"],\"not_automatically_equivalent_to\":[\"Transposição das grandes artérias\",\"Tetralogia de Fallot\",\"Anomalia de Taussig-Bing\",\"Comunicação interventricular isolada\",\"Ventrículo único ou fisiologia univentricular\",\"Atresia ou estenose pulmonar\",\"Obstrução da via de saída do ventrículo esquerdo ou direito\",\"Cardiopatia cianótica em uma criança específica\",\"DORV reparada, corrigida, estável ou liberada de seguimento\",\"Indicação de técnica cirúrgica, cateterismo, medicamento, oxigênio, dieta, restrição, internação ou alta\"],\"pediatric_scope\":\"Pode ser diagnosticada antes do nascimento ou após o parto. Algumas crianças adoecem no período neonatal; outras apresentam sinais de excesso de fluxo pulmonar, baixo fluxo pulmonar ou obstrução sistêmica ao longo das primeiras semanas ou meses; crianças maiores e adolescentes em geral estão em seguimento após intervenção, mas diagnóstico tardio ou anatomia não reparada não pode ser excluído pelo rótulo. Em qualquer idade, a ação depende da anatomia, da operação e da condição cardiorrespiratória atuais documentadas.\",\"critical_context_to_confirm\":[\"Idade, peso, prematuridade, diagnóstico fetal ou pós-natal, sintomas atuais, início e evolução\",\"Relatório de ecocardiograma e, quando existentes, ressonância, tomografia ou cateterismo que descrevam conexões ventriculoarteriais e anatomia\",\"Presença, tamanho e relação da comunicação interventricular com a aorta e a artéria pulmonar, sem inferir subtipo pelo nome DORV\",\"Obstrução ou atresia pulmonar, obstrução sistêmica ou do arco, anatomia coronariana, válvulas, tamanho e função dos ventrículos e outras cardiopatias\",\"Se a estratégia é biventricular ou univentricular e se houve paliação, reparo, conduto, túnel intracardíaco ou outra intervenção, somente conforme documento\",\"Cor, frequência e esforço respiratório, estado de alerta, pulsos, perfusão, temperatura das extremidades, urina e inchaço\",\"Saturação habitual e limite de ação definidos pelo centro, se houver plano de monitorização, sem criar alvo universal\",\"Capacidade de mamar ou comer, suor, fadiga, pausas, engasgos, vômitos, hidratação e evolução do peso\",\"Medicamentos, oxigênio, equipamentos, dieta, atividade e cuidados de ferida realmente prescritos\",\"Plano de retornos, contato do centro cardíaco, vacinação, odontologia, escola, esporte e transição de cuidado\"],\"counting_rule\":\"Contar pdf1500_489 como uma entidade clínica válida, específica e crítica. Preservar o rótulo e o ID, mas não criar nem selecionar automaticamente subtipo, fisiologia, gravidade, procedimento ou estado pós-operatório. Não fundir DORV com TGA, tetralogia de Fallot, Taussig-Bing, CIV isolada ou ventrículo único; registrar associações apenas quando documentadas.\",\"reason\":\"Autoridades públicas e cardíacas pediátricas confirmam DORV como cardiopatia congênita crítica, com sinais possíveis de alteração de cor, dificuldade respiratória, alimentação ruim e crescimento insuficiente. Revisão anatômica e coortes primárias mostram grande heterogeneidade e estratégias individualizadas, o que impede inferir uma cirurgia ou um prognóstico a partir do nome isolado.\",\"next_action\":\"Integrar a ficha preservando guardas anatômicas e prioridade cardiorrespiratória. Antes de personalizar, exigir confirmação de anatomia, fisiologia, operação, saturação habitual, prescrição e plano do centro; testar que sintomas atuais prevalecem sobre qualquer aparência de estabilidade ou antecedente cirúrgico.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dupla via de saída do ventrículo direito é uma cardiopatia presente desde a formação do coração. As duas grandes artérias saem total ou principalmente do ventrículo direito, mas o caminho do sangue e o tratamento variam muito conforme as outras estruturas do coração.",
+          "O nome do diagnóstico não informa sozinho quanto oxigênio chega ao corpo, se há sangue demais ou de menos indo aos pulmões, se existe obstrução, se os dois ventrículos podem ser usados nem qual operação foi ou será feita. Use o relatório do cardiologista e o resumo cirúrgico para saber qual é a anatomia da criança.",
+          "Se o diagnóstico é novo, a criança ainda não foi avaliada por cardiologia pediátrica ou não se sabe o estado da correção, procure orientação imediata do serviço cardíaco. Mudança de cor, falta de ar, dificuldade para mamar, pulso fraco, sonolência anormal ou piora rápida exige emergência, sem esperar consulta.",
+          "Cuidados em casa após cateterismo ou cirurgia só se aplicam depois de alta formal. Siga exatamente o plano escrito para ferida, banho, posição, atividade, alimentação, medicamentos, equipamentos e retorno; esta ficha não cria alta nem substitui o centro cardíaco.",
+          "Observe mudanças em relação ao habitual: cor de lábios e língua, respiração, energia, suor, alimentação, vômitos, urina, inchaço, febre e, quando existir, ferida ou local de cateter. Uma piora clínica vale mais que um número isolado do oxímetro.",
+          "A DORV não é contagiosa. Mantenha casa e carro sem fumaça, vape, narguilé ou maconha. Creche, escola, viagens e esporte dependem do estado atual, do tipo de circulação e da liberação do centro, não apenas do nome do diagnóstico.",
+          "Não abandone o acompanhamento porque a criança parece bem ou já foi operada. O coração reparado pode mudar com o crescimento, e o seguimento verifica fluxo pelas vias de saída, túnel ou conduto quando presentes, válvulas, ventrículos, pressão pulmonar, ritmo e capacidade de esforço sem presumir que exista complicação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acessíveis o relatório anatômico, o resumo de alta e operações, a lista atual de medicamentos e equipamentos, alergias, saturação habitual se definida e contatos do centro. Não atrase uma emergência para procurar documentos.",
+          "Se houver dificuldade respiratória, deixe a criança na posição em que respira melhor, mantenha-a acompanhada e acione ajuda. Não force posição deitada, caminhada, banho, comida, líquido ou mamada durante sofrimento respiratório importante.",
+          "Não inicie oxigênio e não altere fluxo, alvo de saturação, monitor, sonda, bomba ou equipamento sem plano escrito. A interpretação depende da anatomia, da circulação, do valor habitual, da cor, do esforço, da consciência e da perfusão.",
+          "Se houve procedimento, cuide da incisão, do esterno e do local do cateter ou dreno exatamente como orientado. Não retire fita, ponto, cola ou crosta e não aplique pomada, óleo, antisséptico ou receita caseira por conta própria.",
+          "Atividade deve ser individualizada. Interrompa exercício ou brincadeira se surgir falta de ar, dor no peito, palpitação, tontura, desmaio, mudança de cor ou queda clara de desempenho e procure orientação; não imponha repouso permanente quando a cardiologia liberou movimento.",
+          "Mantenha higiene oral e consulta odontológica. Informe DORV, operações e materiais usados. Antibiótico antes de procedimento não é automático para toda criança com cardiopatia e deve ser definido pela equipe.",
+          "Não tente identificar em casa se o problema está na via de saída direita, na via de saída esquerda, em um conduto, túnel, válvula ou ritmo. Sintomas novos exigem avaliação, e os exames necessários dependem da anatomia individual."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, oxigênio, dose, via, horário, duração, cateterismo, técnica cirúrgica, internação ou alta. DORV não tem uma receita única, e o mesmo nome pode corresponder a circulações muito diferentes.",
+          "Use somente medicamentos e equipamentos da prescrição individual vigente. Não inicie, suspenda, troque, reduza, aumente, triture, dilua ou prolongue algo porque outra criança com DORV, tetralogia de Fallot, transposição ou ventrículo único usou.",
+          "Confira nome, apresentação, concentração, volume e horário em cada administração. Se a criança vomitar, cuspir ou perder uma dose, não repita nem dobre automaticamente; contate a equipe ou o farmacêutico responsável.",
+          "Não dê descongestionante, xarope, anti-inflamatório, produto herbal, suplemento ou remédio de venda livre sem confirmar compatibilidade com cardiologista ou pediatra.",
+          "Antibiótico antes de atendimento dentário não é indicado apenas porque existe DORV. A necessidade depende do reparo, de material protético, de defeito residual e de outros dados que a cardiologia deve confirmar.",
+          "Dificuldade para obter ou administrar uma prescrição, efeito inesperado, sonolência incomum, desmaio, piora da respiração, inchaço, pouca urina ou incapacidade de manter doses exige contato imediato; sinais graves exigem pronto atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga o método, a textura, o volume e a frequência definidos pela equipe. Não presuma que DORV exige restrição de líquido ou sal, fórmula especial, calorias extras, espessante, sonda ou suplemento; essas decisões dependem do crescimento, da circulação e da deglutição.",
+          "Em bebês, observe respiração muito rápida, costelas afundando, suor intenso, mudança de cor, pausas, engasgo, exaustão ou incapacidade de terminar a mamada. Esses sinais precisam ser comunicados; se forem intensos ou acompanhados de pouca resposta, procure emergência.",
+          "Não force alimento, líquido ou mamada durante falta de ar importante, cianose, sonolência anormal, desmaio ou vômitos repetidos. Interrompa a oferta e busque atendimento, pois a criança pode aspirar ou estar com circulação comprometida.",
+          "Quando estiver estável e liberada para alimentar, use apenas o plano adequado à idade. Não altere diluição de fórmula, não acrescente pó ou cereal e não substitua leite por água, chá ou suco por conta própria.",
+          "Acompanhe ingestão, urina ou fraldas, cansaço e peso conforme o centro orientou. Menor volume, menos urina, suor ou exaustão para comer e peso parado ou caindo devem ser comunicados antes do retorno previsto.",
+          "Depois de cirurgia, a via e o ritmo da alimentação podem mudar, mas precisam constar da alta. Tosse, engasgo, voz molhada, vômitos, distensão, dor ou dificuldade nova para engolir requer avaliação; não improvise textura, volume ou uso de sonda."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios, língua, rosto ou pele mais azulados, arroxeados, cinzentos ou muito pálidos que o habitual, principalmente com fraqueza, sonolência, suor frio ou falta de ar. Se a mudança for intensa, rápida ou persistente, acione a emergência.",
+          "Respiração muito rápida ou difícil, gemido, batimento das asas do nariz, costelas afundando, incapacidade de falar ou mamar, pausas respiratórias, exaustão ou piora súbita. Não espere atingir um valor específico de saturação.",
+          "Desmaio, convulsão, confusão, dificuldade para acordar, flacidez, pulso muito fraco, pele fria ou manchada, extremidades muito frias ou piora rápida pode indicar baixa oxigenação ou choque e exige emergência.",
+          "Recusa ou incapacidade de mamar ou beber, suor e cansaço marcantes na alimentação, vômitos repetidos com pouca urina, boca muito seca ou sonolência incomum exige avaliação urgente, sobretudo em bebês.",
+          "Palpitação persistente com tontura, desmaio, dor no peito, falta de ar, palidez ou mudança de cor; ou dor no peito forte ou nova acompanhada de dificuldade respiratória exige avaliação imediata.",
+          "Depois de procedimento, procure pronto atendimento e contate a equipe cardíaca por falta de ar crescente, mudança de cor, extremo cansaço, inchaço novo, pouca urina, sangramento persistente, abertura da ferida, secreção, febre com aparência doente ou piora rápida. Esses sinais não identificam a causa e não devem ser investigados apenas em casa."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita ou diagnóstico novo de DORV, ou estado de correção desconhecido, exige avaliação imediata por cardiologia pediátrica. Em recém-nascido ou lactente, o hospital deve poder estabilizar e articular com centro cardíaco; não aguarde retorno de rotina se houver sintomas.",
+          "Peça uma explicação escrita da anatomia: relação da comunicação entre os ventrículos com as grandes artérias, presença de obstruções, outras cardiopatias, tamanho dos ventrículos, tipo de circulação e operações. Não use apenas palavras como Fallot, transposição ou Taussig-Bing sem confirmar o relatório.",
+          "Depois de alta documentada, cumpra exatamente o retorno com cardiologia e cirurgia cardíaca, quando aplicável. Se faltarem data, contatos ou plano de ferida, alimentação, atividade e medicamentos, procure o centro; esta ficha não cria intervalo, tratamento ou alta.",
+          "Antecipe o contato por aumento do cansaço ou suor, respiração mais rápida, mudança de cor, piora da alimentação, vômitos, queda de peso, menos urina, inchaço, febre, tosse persistente, queda de rendimento, palpitações, tontura, desmaio ou dor no peito.",
+          "Mesmo sem sintomas, mantenha seguimento por toda a vida com equipe de cardiopatia congênita. A anatomia e a operação determinam quais vias, válvulas, condutos, túneis, ventrículos e ritmos precisam ser acompanhados e quando exames são necessários.",
+          "Acompanhe crescimento, alimentação, vacinação, desenvolvimento, aprendizagem, saúde bucal e bem-estar com pediatria. Na adolescência, planeje transição para cardiologia congênita do adulto e discuta esporte, trabalho, contracepção e futura gestação antes de decisões relevantes."
+        ]
+      },
+      "ageMap": {
+        "u3m": "DORV suspeita ou confirmada sem plano documentado exige avaliação hospitalar e cardiologia neonatal imediatas. Cianose ou palidez, respiração rápida ou difícil, pausas, sucção fraca, suor ou exaustão na mamada, pulso fraco, pouca resposta e pouca urina são alarmes. Oximetria aparentemente aceitável não substitui avaliação quando há sinais ou diagnóstico fetal.",
+        "3a5m": "Se o estado anatômico ou de correção é desconhecido, contate imediatamente cardiologia pediátrica. Observe cor, esforço respiratório, suor, pausas e fadiga na mamada, ingestão, fraldas e peso. Não interprete melhora transitória, sopro ou saturação isolada como prova de estabilidade.",
+        "6a11m": "Confirme relatório anatômico e cirúrgico, tipo de circulação, saturação habitual se definida, alimentação e retornos. Menor interação, respiração ofegante, mudança de cor, suor, engasgo, peso parado e menos fraldas requerem contato; sinais intensos são emergência. Não altere dieta, oxigênio, equipamento ou atividade sozinho.",
+        "1a": "A criança pode mostrar piora parando de brincar, pedindo colo, respirando mais rápido, ficando pálida ou azulada, suando, comendo menos ou urinando pouco. Use o plano individual para atividade e cuidado pós-operatório; queda de energia ou habilidades, desmaio ou sofrimento respiratório não deve esperar consulta.",
+        "2a5": "Observe tolerância para brincar, fala interrompida por falta de ar, cor, palpitação, tontura, desmaio, alimentação, crescimento e desenvolvimento. Pré-escola e atividade dependem de liberação cardiológica; entregue à escola contatos e sinais de urgência sem impor restrições não prescritas.",
+        "6a11": "Ensine a relatar falta de ar, dor no peito, palpitação, tontura, cansaço novo ou queda de rendimento. Mantenha seguimento mesmo assintomática e ajuste educação física pela cardiologia segundo anatomia, reparo e testes. Antes de esporte competitivo ou esforço intenso, obtenha liberação individual.",
+        "12a17": "O adolescente deve saber dizer DORV, descrever a anatomia e as operações documentadas, listar medicamentos reais, reconhecer sinais de urgência e levar resumo cardíaco. Planeje transição para cardiologia congênita do adulto; discuta esporte, nicotina e vape, álcool, piercings, tatuagens, saúde sexual e planejamento reprodutivo. Síncope, cianose, palpitação persistente, dor no peito ou dispneia exige avaliação rápida.",
+        "unknown": "Sem idade e história documentada, não presuma recém-nascido, subtipo, cianose, obstrução, circulação uni ou biventricular, reparo, estabilidade ou alta. Confirme documentação e avalie cor, respiração, consciência, perfusão, pulso, alimentação e urina. Comprometimento cardiorrespiratório ativa emergência; se estável, contate cardiologia congênita no mesmo dia para definir o fluxo."
+      },
+      "refs": [
+        {
+          "id": "pais246_op2453_1",
+          "name": "About Congenital Heart Defects",
+          "url": "https://www.cdc.gov/heart-defects/about/"
+        },
+        {
+          "id": "pais246_op2453_2",
+          "name": "Double outlet right ventricle (DORV)",
+          "url": "https://www.childrens.health.qld.gov.au/health-a-to-z/cardiac/double-outlet-right-ventricle"
+        },
+        {
+          "id": "pais246_op2453_3",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais246_op2453_4",
+          "name": "Double outlet right ventricle",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10560996/"
+        },
+        {
+          "id": "pais246_op2453_5",
+          "name": "Current outcomes of live-born children with double outlet right ventricle in Norway",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9762987/"
+        },
+        {
+          "id": "pais246_op2453_6",
+          "name": "Long-Term Surgical Outcomes in Double Outlet Right Ventricle Based on Detailed Anatomical Sub-Typology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12553358/"
+        },
+        {
+          "id": "pais246_op2453_7",
+          "name": "Daily Care for Children With Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/special-needs-for-children-with-a-congenital-heart-defect"
+        },
+        {
+          "id": "pais246_op2453_8",
+          "name": "Care and Treatment for Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects"
+        },
+        {
+          "id": "pais246_op2453_9",
+          "name": "Patient Instructions: Care at Home after Cardiac Surgery",
+          "url": "https://www.chop.edu/sites/default/files/01-b-69.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2454",
+      "specific": false,
+      "key": "pdf1500_490",
+      "label": "Dupla via de saída do ventrículo direito agudo",
+      "entity": "Dupla via de saída do ventrículo direito (DORV), malformação cardíaca congênita anatômica e heterogênea; o qualificador cadastral ‘agudo’ não constitui subtipo da malformação nem confirma descompensação atual",
+      "assessment": "{\"classification\":\"VALID_CRITICAL_CONGENITAL_BASE_ENTITY_WITH_INVALID_ACUTE_QUALIFIER\",\"normalized_entity\":\"Dupla via de saída do ventrículo direito (DORV)\",\"assessment\":\"A DORV é uma malformação congênita válida e crítica, presente desde a formação do coração, na qual ambas as grandes artérias emergem total ou predominantemente do ventrículo direito morfológico. ‘Agudo’ não é subtipo anatômico, forma temporal nem diagnóstico adicional de DORV. O termo tampouco prova piora súbita, insuficiência cardíaca, hipoxemia, obstrução, arritmia, infecção, complicação pós-operatória ou qualquer ‘crise’. Uma criança com DORV pode apresentar sintomas novos ou piora rápida, mas esses achados precisam ser descritos, avaliados e diagnosticados separadamente. A orientação deve preservar a entidade-base e deixar sintomas atuais prevalecerem sobre o adjetivo inadequado, sem selecionar terapia.\",\"reconciliation\":{\"base_key\":\"pdf1500_489\",\"base_label\":\"Dupla via de saída do ventrículo direito\",\"relationship\":\"SAME_CONGENITAL_HEART_DEFECT_WITH_INVALID_NON_ANATOMIC_ACUTE_QUALIFIER\",\"content_rule\":\"Reutilizar o núcleo clínico e os portões de segurança de pdf1500_489; preservar este ID e o rótulo literal para busca e auditoria, sem contar nova entidade, sem criar ‘DORV aguda’ e sem inferir causa ou tratamento para eventual piora.\",\"additional_entity_count\":0},\"valid_subtyping_requires\":[\"Relação e localização da comunicação interventricular em relação às grandes artérias\",\"Relação espacial das grandes artérias e anatomia das vias de saída\",\"Presença ou ausência de obstrução pulmonar ou sistêmica documentada\",\"Tamanho e adequação dos ventrículos e das valvas atrioventriculares\",\"Cardiopatias, síndromes e anomalias extracardíacas associadas\",\"Fisiologia e percurso cirúrgico definidos pela equipe de cardiopatias congênitas\"],\"not_automatically_equivalent_to\":[\"Piora aguda, descompensação ou ‘crise de DORV’\",\"DORV tipo comunicação interventricular, Fallot, transposição ou comunicação interventricular não relacionada\",\"Anomalia de Taussig-Bing ou qualquer relação específica entre comunicação interventricular e grandes artérias\",\"Estenose ou atresia pulmonar, obstrução de via de saída ventricular, hiperfluxo pulmonar ou hipertensão pulmonar\",\"Insuficiência cardíaca, hipoxemia, arritmia, choque, endocardite ou infecção respiratória\",\"Fisiologia biventricular ou univentricular e indicação de qualquer operação ou procedimento\",\"Estado não corrigido, reparado, paliado, estável, curado ou pós-operatório\",\"Indicação de medicamento, oxigênio, restrição hídrica ou salina, fórmula, sonda, internação ou alta\"],\"pediatric_scope\":\"DORV é congênita e costuma ser reconhecida no período fetal, neonatal ou na infância, mas crianças maiores e adolescentes podem estar em seguimento após procedimentos ou, menos frequentemente, receber diagnóstico tardio. Em todas as idades, anatomia, fisiologia, estado de reparo e sintomas atuais orientam a conduta; nenhuma faixa etária transforma ‘agudo’ em subtipo.\",\"critical_context_to_confirm\":[\"Idade, peso, prematuridade e momento do diagnóstico\",\"Relatório de ecocardiograma, ressonância, tomografia ou cateterismo que descreva a anatomia real\",\"Relação da comunicação interventricular, vias de saída, fluxo pulmonar e sistêmico e cardiopatias associadas\",\"Cor, esforço respiratório, nível de alerta, pulsos, perfusão, pressão, urina e evolução dos sintomas\",\"Saturação habitual individual, se definida pela cardiologia, e mudança em relação ao basal\",\"Capacidade de mamar ou comer, suor, cansaço, engasgos, vômitos, hidratação e crescimento\",\"Procedimentos prévios, data e tipo, resumo cirúrgico e de alta e complicações realmente documentadas\",\"Medicamentos, oxigênio, sonda ou equipamentos realmente prescritos e contatos do centro cardíaco\",\"Plano individual de retornos, atividade, escola, vacinação, odontologia e transição do cuidado\"],\"counting_rule\":\"Preservar pdf1500_490 como resolução terminológica, mapear à entidade-base pdf1500_489 e contar zero nova entidade clínica. Registrar eventual sintoma súbito ou complicação confirmada por seu próprio diagnóstico, sem convertê-lo em subtipo ‘agudo’ de DORV.\",\"reason\":\"Definições e classificações atuais descrevem DORV por anatomia e fisiologia congênitas. ‘Agudo’ não aparece como variante anatômica reconhecida e não fornece achado clínico observável; sua remoção é necessária para evitar falsa crise e terapia automática.\",\"next_action\":\"Integrar como alias qualificado de pdf1500_489, manter SOURCE_TERM_ISSUE e specific=false, exigir confirmação de anatomia, estado de reparo e sintomas atuais, e testar que nenhum mecanismo, complicação, medicamento ou procedimento é criado a partir de ‘agudo’.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dupla via de saída do ventrículo direito é uma cardiopatia presente desde a formação do coração: as duas grandes artérias saem total ou principalmente do ventrículo direito. A palavra ‘agudo’ no cadastro não significa que a malformação começou agora e não descreve como a criança está hoje.",
+          "Se o diagnóstico é novo, a criança é recém-nascida ou lactente, não se sabe a anatomia ou não há documentação do acompanhamento, procure avaliação imediata por cardiologia pediátrica ou serviço com suporte a cardiopatias congênitas. Esta ficha não autoriza observar em casa nem presume necessidade de uma terapia específica.",
+          "Se a criança já teve procedimento e recebeu alta formal, siga exatamente o plano individual para ferida, atividade, alimentação, medicamentos, equipamentos, sinais de alarme e contatos. O nome do cadastro não revela qual procedimento foi feito nem permite substituir o resumo de alta.",
+          "Observe mudanças em relação ao habitual: cor de lábios e pele, respiração, energia, tolerância para mamar, comer ou brincar, suor, palpitação, tontura, desmaio, inchaço, vômitos, urina, febre e ferida, se houver. Sintoma novo precisa ser descrito e avaliado; não o chame automaticamente de ‘crise de DORV’.",
+          "Mantenha casa e carro sem fumaça, vape, narguilé ou maconha. A DORV não é contagiosa; creche, escola, educação física, esporte e viagem dependem do estado clínico, da anatomia, do procedimento realizado e da liberação da cardiologia.",
+          "Não interrompa o seguimento porque a criança parece bem ou porque foi operada. Acompanhamento ao longo da vida pode identificar alterações próprias da anatomia ou do procedimento, mas não significa que toda criança terá complicação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acessíveis o diagnóstico anatômico, relatórios de exames, resumo cirúrgico e de alta se houver, lista atual de medicamentos e equipamentos, alergias, saturação habitual se a equipe definiu uma e contatos do centro. Não atrase uma emergência para reunir documentos.",
+          "Se houver dificuldade respiratória, deixe a criança na posição em que respira melhor, geralmente com o tronco elevado, mantenha-a acompanhada e acione ajuda. Não force caminhada, banho, alimentação ou posição deitada.",
+          "Não inicie oxigênio, não mude fluxo ou alvo de saturação e não ajuste monitor, sonda ou outro equipamento sem plano escrito. A equipe interpreta saturação junto com anatomia, valor habitual, cor, esforço, consciência e perfusão.",
+          "Atividade deve seguir liberação individual. Pare a atividade e procure orientação se houver falta de ar fora do esperado, mudança de cor, dor no peito, palpitação, tontura, desmaio ou queda nova de rendimento; sinais intensos ativam emergência.",
+          "Se houve operação, cuide de incisão ou local de dreno somente como orientado na alta. Não retire ponto, fita, curativo ou crosta, não aplique produto caseiro e não libere banho, natação, mochila, bicicleta, impacto ou esforço por conta própria.",
+          "Mantenha higiene oral e informe a cardiopatia e os procedimentos ao dentista. A necessidade de antibiótico antes de procedimento depende da anatomia e do reparo documentados e não da palavra ‘agudo’."
+        ],
+        "MEDICAMENTOS": [
+          "‘Agudo’ não seleciona medicamento e não existe remédio doméstico que corrija a anatomia da DORV. Esta orientação não prescreve fármaco, oxigênio, dose, via, horário, duração, procedimento ou alta.",
+          "Use somente o que consta na prescrição individual vigente. Não inicie, suspenda, troque, aumente, reduza, triture, dilua ou prolongue medicamento porque outra criança com DORV usou ou porque apareceu um sintoma novo.",
+          "Confira nome, apresentação, concentração, volume e horário em cada administração e mantenha uma lista atualizada. Se a criança vomitar, cuspir ou perder uma dose, não repita nem dobre automaticamente; contate a equipe responsável pelo plano.",
+          "Não dê descongestionante, xarope, anti-inflamatório, produto herbal, suplemento ou remédio de venda livre sem confirmar a segurança com cardiologia ou pediatria. Leve a lista completa a cada atendimento.",
+          "Antibiótico antes de tratamento dentário não é automático para toda criança com DORV. A cardiologia define a indicação conforme anatomia, material protético, reparo e tempo desde o procedimento; o qualificador ‘agudo’ não participa dessa decisão.",
+          "Efeito inesperado, dificuldade para obter ou administrar uma prescrição, sonolência incomum, piora da respiração, desmaio, inchaço, pouca urina ou incapacidade de manter doses exige contato imediato; sinais graves exigem emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga método, textura, volume e frequência registrados pela equipe. Não presuma que o rótulo ‘agudo’ exige restrição de líquido ou sal, fórmula especial, fortificante, espessante, suplemento ou sonda.",
+          "Em bebês, observe se a mamada causa respiração muito rápida ou difícil, costelas afundando, suor intenso, mudança de cor, pausas repetidas, engasgo, exaustão ou incapacidade de terminar. Esses são sinais clínicos, não um subtipo da DORV.",
+          "Não force comida, líquido ou medicamento pela boca durante falta de ar importante, coloração azulada ou cinzenta, sonolência intensa, desmaio ou vômitos repetidos. Há risco de aspiração, e a criança precisa de avaliação imediata.",
+          "Quando a criança estiver estável e liberada para alimentação, ofereça apenas o plano adequado à idade. Não altere a diluição da fórmula, não acrescente pó ou cereal e não substitua leite por água, chá ou suco por conta própria.",
+          "Acompanhe ingestão, urina ou fraldas, cansaço e peso conforme orientação. Menor volume ingerido, menos urina, suor ou exaustão para comer e peso parado ou caindo devem ser comunicados antes do retorno previsto.",
+          "Depois de procedimento, via e ritmo de alimentação podem mudar, mas devem constar na alta. Tosse, engasgo, voz molhada, vômitos, distensão, dor ou dificuldade nova para engolir precisa de avaliação; não improvise textura nem uso de sonda."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios, língua, rosto ou pele mais azulados, arroxeados, cinzentos ou muito pálidos que o habitual, sobretudo com sonolência, fraqueza ou falta de ar. Acione o serviço de emergência se a mudança for intensa, rápida ou persistente.",
+          "Respiração muito rápida ou difícil, gemido, batimento das asas do nariz, costelas afundando, incapacidade de falar ou mamar, pausas respiratórias ou exaustão. Não espere um valor específico no oxímetro e não tente tratar em casa.",
+          "Desmaio, convulsão, confusão, dificuldade para acordar, flacidez, pulso muito fraco, pele fria ou manchada, mãos e pés muito frios ou piora rápida pode indicar baixa oxigenação ou circulação inadequada e exige emergência.",
+          "Recusa ou incapacidade de mamar ou beber, suor e cansaço marcantes na alimentação, vômitos repetidos com pouca urina, boca muito seca ou sonolência incomum exige avaliação urgente, especialmente em bebês.",
+          "Palpitação persistente com tontura, desmaio, dor no peito, falta de ar, palidez ou mudança de cor; ou dor no peito forte ou nova acompanhada de dificuldade respiratória precisa de avaliação imediata.",
+          "Depois de procedimento, falta de ar crescente, mudança de cor, extremo cansaço, inchaço novo, pouca urina, febre com aparência doente, sangramento que não para, abertura da ferida ou secreção com piora geral exige pronto atendimento e contato com a equipe cardíaca."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita ou diagnóstico novo de DORV em recém-nascido ou lactente exige avaliação hospitalar e cardiologia pediátrica imediatas, mesmo que pareça bem. Em criança maior estável, esclareça no mesmo dia com cardiologia; sintomas de alarme prevalecem e ativam emergência.",
+          "Após alta, cumpra exatamente o retorno escrito com cardiologista e equipe cirúrgica, se aplicável. Se não recebeu data, contatos, plano de ferida, alimentação, atividade, equipamentos e medicamentos, procure o centro antes de improvisar.",
+          "Antecipe o contato por aumento do cansaço ou suor, respiração mais rápida, mudança de cor, piora de alimentação, vômitos, queda de peso, menos urina, inchaço, febre, tosse persistente, queda de rendimento, palpitações, tontura ou dor no peito.",
+          "Mantenha seguimento com cardiologia de cardiopatias congênitas mesmo sem sintomas. A equipe acompanha anatomia, função do coração, ritmo, vias de saída, válvulas e efeitos de procedimentos, sem presumir que alguma complicação esteja presente.",
+          "Peça que a equipe substitua ‘agudo’ por dados verificáveis: anatomia, relação da comunicação interventricular, obstruções, fluxo, saturação habitual, sintomas, procedimento realizado e complicações confirmadas. Isso orienta segurança sem criar um subtipo falso.",
+          "Na adolescência, planeje transição para cardiologia de cardiopatias congênitas do adulto e discuta atividade, esporte, trabalho, procedimentos, contracepção e futura gestação individualmente. Informe a cardiopatia antes de cirurgia não cardíaca ou cuidado dentário."
+        ]
+      },
+      "ageMap": {
+        "u3m": "DORV suspeita ou recém-diagnosticada exige avaliação hospitalar e cardiologia neonatal imediatas. Cianose ou palidez, respiração difícil, pausas, sucção fraca, suor ou exaustão na mamada, pulso fraco, pouca resposta, febre ou hipotermia e pouca urina são alarmes. ‘Agudo’ não define anatomia nem tratamento.",
+        "3a5m": "Confirme anatomia, acompanhamento e procedimentos documentados. Observe cor, respiração, suor, pausas e fadiga na mamada, ingestão, fraldas e peso. Diagnóstico novo ou situação desconhecida requer avaliação imediata; após alta, siga apenas o plano individual.",
+        "6a11m": "Confirme relatórios anatômicos e cirúrgicos, saturação habitual se definida, alimentação e retornos. Menor interação, respiração ofegante, mudança de cor, suor, engasgo, peso parado e menos fraldas exigem contato; sinais intensos são emergência.",
+        "1a": "A criança pode mostrar piora parando de brincar, pedindo colo, respirando mais rápido, ficando pálida ou azulada, suando, comendo menos ou urinando pouco. Não rotule essas mudanças como ‘DORV aguda’; descreva-as e procure avaliação conforme a intensidade.",
+        "2a5": "Observe tolerância para brincar, fala entrecortada por falta de ar, cor, palpitação, tontura, desmaio, alimentação, crescimento e desenvolvimento. Escola e atividade dependem de liberação individual; ‘agudo’ não exclui nem libera esporte.",
+        "6a11": "Ensine a relatar falta de ar, dor no peito, palpitação, tontura, cansaço novo, mudança de cor ou queda de rendimento. Mantenha seguimento e ajuste educação física pela cardiologia; não atribua toda queixa à DORV nem ao qualificador do cadastro.",
+        "12a17": "O adolescente deve conhecer a anatomia e os procedimentos documentados, medicamentos reais, sinais de urgência e contatos. Planeje transição para cardiologia congênita do adulto e discuta esporte, trabalho, procedimentos, contracepção e futura gestação individualmente.",
+        "unknown": "Sem idade, anatomia, sintomas e estado de reparo, não validar ‘agudo’, presumir bebê, estabilidade, crise, complicação ou alta. Confirme documentos e avalie cor, respiração, consciência, perfusão, pulso, alimentação e urina; comprometimento atual ativa emergência."
+      },
+      "refs": [
+        {
+          "id": "pais246_op2454_1",
+          "name": "About Congenital Heart Defects",
+          "url": "https://www.cdc.gov/heart-defects/about/index.html"
+        },
+        {
+          "id": "pais246_op2454_2",
+          "name": "Double Outlet Right Ventricle in Children",
+          "url": "https://www.stanfordchildrens.org/en/topic/default?id=double-outlet-right-ventricle-in-children-160-113"
+        },
+        {
+          "id": "pais246_op2454_3",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais246_op2454_4",
+          "name": "Diretriz de Tomografia Computadorizada e Ressonância Magnética Cardiovascular da Sociedade Brasileira de Cardiologia e do Colégio Brasileiro de Radiologia – 2024",
+          "url": "https://www.scielo.br/j/abc/a/FB6MfbxbtfH9r95gdfDwX8Q/?lang=pt"
+        },
+        {
+          "id": "pais246_op2454_5",
+          "name": "Double outlet right ventricle",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10560996/"
+        },
+        {
+          "id": "pais246_op2454_6",
+          "name": "Current outcomes of live-born children with double outlet right ventricle in Norway",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9762987/"
+        },
+        {
+          "id": "pais246_op2454_7",
+          "name": "Surgical management of double outlet right ventricle with outflow obstruction: a systematic review of biventricular strategies",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41732874/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2455",
+      "specific": false,
+      "key": "pdf1500_491",
+      "label": "Dupla via de saída do ventrículo direito bilateral",
+      "entity": "Dupla via de saída do ventrículo direito (DORV; também abreviada DVSVD em português), preservada como entidade-base; o qualificador cadastral ‘bilateral’ não define variante anatômica, fisiológica, clínica ou terapêutica reconhecível",
+      "assessment": "{\"classification\":\"INAPPROPRIATE_BILATERAL_QUALIFIER_ON_VALID_CONGENITAL_CARDIAC_ENTITY\",\"normalized_entity\":\"Dupla via de saída do ventrículo direito (DORV)\",\"assessment\":\"O núcleo ‘dupla via de saída do ventrículo direito’ é uma cardiopatia congênita válida e heterogênea, definida por ambas as grandes artérias originarem-se inteira ou predominantemente do ventrículo direito morfológico. ‘Bilateral’ não é qualificador anatômico padronizado para DVSVD: a classificação útil descreve, entre outros elementos, a relação da comunicação interventricular com as valvas semilunares, a relação entre as grandes artérias, as vias de saída, as valvas, os ventrículos e outras lesões associadas. O rótulo não autoriza transformar a palavra em dois ventrículos direitos, duas vias de saída anômalas independentes, doença nos dois lados do coração, lateralidade corporal ou um subtipo cirúrgico.\",\"source_label_preservation\":\"Conservar literalmente o ID pdf1500_491 e o rótulo cadastral para rastreabilidade, mas não apresentar ‘DVSVD bilateral’ às famílias como doença distinta nem usar ‘bilateral’ para escolher exame, tratamento ou prognóstico.\",\"reconciliation\":{\"with_key\":\"pdf1500_489\",\"with_label\":\"Dupla via de saída do ventrículo direito\",\"relationship\":\"SAME_VALID_BASE_ENTITY_WITH_UNSUPPORTED_QUALIFIER\",\"rule\":\"Reutilizar as orientações clínicas seguras da entidade-base pdf1500_489 e manter todos os alertas. Acrescentar apenas a explicação terminológica de que ‘bilateral’ é inadequado. Não duplicar a cardiopatia como nova doença e não apagar o ID ou o rótulo de origem.\",\"difference_to_preserve\":\"A ficha pdf1500_491 precisa sinalizar revisão cadastral; não pode atribuir anatomia, fisiologia, gravidade, estado de reparo ou terapia que não constem de documentação individual.\"},\"synonyms_and_acronyms_for_base_entity\":[\"DVSVD\",\"Dupla saída do ventrículo direito\",\"Double-outlet right ventricle\",\"DORV\"],\"invalid_or_unsupported_qualifiers\":[\"bilateral\"],\"not_synonyms\":[\"DVSVD bilateral\",\"Duplo ventrículo direito\",\"Dupla câmara de saída do ventrículo direito\",\"Ventrículo direito de dupla câmara\",\"Transposição das grandes artérias\",\"Tetralogia de Fallot\",\"Comunicação interventricular isolada\",\"Ventrículo único\"],\"not_automatically_equivalent_to\":[\"DVSVD com comunicação interventricular subaórtica, subpulmonar, duplamente relacionada ou não relacionada\",\"DVSVD do tipo comunicação interventricular, tipo Fallot, tipo transposição ou com comunicação não relacionada\",\"Estenose ou atresia pulmonar, obstrução da via de saída direita ou esquerda\",\"Posição específica da aorta e da artéria pulmonar\",\"Ventrículos balanceados ou hipoplásicos e circulação biventricular ou univentricular\",\"Heterotaxia, dextrocardia, isomerismo ou lateralidade corporal\",\"Cardiopatia cianótica, insuficiência cardíaca, hipertensão pulmonar, arritmia, baixo débito ou choque confirmados\",\"DVSVD reparada, não reparada, paliada, estável, curada ou liberada de seguimento\",\"Indicação de medicamento, oxigênio, dieta, cateterismo, técnica cirúrgica, reintervenção, prazo de internação ou alta\"],\"pediatric_scope\":\"A DVSVD está presente desde o nascimento, mas a repercussão varia amplamente conforme a anatomia e o fluxo pulmonar e sistêmico. Recém-nascidos e lactentes podem apresentar cianose, dificuldade respiratória, baixa perfusão ou dificuldade alimentar; crianças maiores e adolescentes em geral têm anatomia e intervenções prévias que precisam ser conhecidas. Em qualquer idade, sintomas e documentação individual — nunca ‘bilateral’ — definem a urgência e o plano.\",\"critical_context_to_confirm\":[\"Idade, peso, prematuridade, sintomas atuais, início, evolução e mudança em relação ao habitual\",\"Relatório de ecocardiograma, ressonância, tomografia ou cateterismo que confirme a DVSVD e descreva a anatomia\",\"Localização e relação da comunicação interventricular, relação entre as grandes artérias e presença de obstrução das vias de saída, quando documentadas\",\"Tamanho e função dos ventrículos, valvas, arco aórtico, coronárias e cardiopatias associadas, sem inferência pelo rótulo\",\"Cor, esforço e frequência respiratória, nível de alerta, pulsos, perfusão, inchaço e urina\",\"Saturação habitual apenas se definida pela equipe e mudança em relação ao basal, sem depender de um número isolado\",\"Capacidade de mamar ou comer, suor, cansaço, vômitos, engasgos, hidratação e evolução do peso\",\"Se houve procedimento, data, objetivo, técnica, circulação resultante, complicações e resumo de alta\",\"Medicamentos, oxigênio, dispositivos, dieta e restrições realmente prescritos\",\"Plano de retornos, atividade, escola, vacinação, odontologia, desenvolvimento e transição para cuidado adulto\"],\"counting_rule\":\"Preservar pdf1500_491 como resolução terminológica vinculada a pdf1500_489. Não contar ‘bilateral’ como entidade pediátrica adicional e não fundir nem apagar IDs. Contar anatomia ou complicação específica somente quando documentada e identificada por termo clínico próprio.\",\"reason\":\"As nomenclaturas e coortes descrevem DVSVD por conexões e relações intracardíacas, obstruções e lesões associadas, não por bilateralidade. Há evidência suficiente para orientar segurança sobre a entidade-base, porém nenhuma para converter ‘bilateral’ em um subtipo, anatomia ou conduta.\",\"next_action\":\"Na integração, conservar ID e rótulo, exibir a limitação terminológica e vincular o conteúdo clínico ao núcleo pdf1500_489. Solicitar o relatório cardiológico para qualquer personalização e impedir que ‘bilateral’ acione regras de anatomia, gravidade, tratamento ou prognóstico.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Este nome de cadastro contém um qualificador inadequado. A parte reconhecida é a dupla via de saída do ventrículo direito, cardiopatia presente desde o nascimento em que as duas grandes artérias se conectam inteira ou predominantemente ao ventrículo direito. ‘Bilateral’ não informa o subtipo, a circulação, a gravidade ou o tratamento da criança.",
+          "Se o diagnóstico é novo, a criança ainda não foi avaliada por cardiologia pediátrica ou a família não sabe quais procedimentos foram feitos, contate imediatamente o serviço responsável. Em recém-nascido ou lactente, mudança de cor, respiração difícil, mamada fraca, sonolência incomum, pulso fraco ou pouca urina exige avaliação hospitalar, sem esperar consulta eletiva.",
+          "Se houve alta formal, siga o plano individual para ferida, dispositivos, alimentação, atividade, medicamentos e retornos. Não copie orientações de outra criança com DVSVD: anatomias e trajetórias podem ser muito diferentes.",
+          "Observe mudanças em relação ao habitual: cor dos lábios e da pele, respiração em repouso e ao comer ou brincar, suor, energia, tolerância ao esforço, ingestão, vômitos, urina, inchaço, febre e aspecto de feridas. A aparência e os sintomas prevalecem sobre um número isolado do oxímetro.",
+          "Mantenha casa e carro sem fumaça, vape, narguilé ou maconha. A DVSVD não é contagiosa; convivência, creche, escola, educação física, esporte e viagens dependem da condição individual e da liberação cardiológica, não da palavra ‘bilateral’.",
+          "Não interrompa o seguimento porque a criança parece bem ou porque já foi operada. O acompanhamento verifica crescimento, desenvolvimento, ritmo, função do coração, fluxo pelas vias de saída e efeitos dos procedimentos conforme a anatomia de cada criança."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acessíveis relatório cardiológico, resumo de alta, lista atual de medicamentos e dispositivos, alergias, saturação habitual se definida e contatos do centro. Em emergência, não atrase a saída para reunir documentos.",
+          "Se houver falta de ar, deixe a criança na posição em que respira melhor, em geral com o tronco elevado, mantenha supervisão e acione ajuda. Não force caminhada, banho, alimentação ou posição deitada.",
+          "Não inicie oxigênio, não mude fluxo ou alvo de saturação e não ajuste sonda, monitor, marcapasso ou outro dispositivo sem plano escrito. A mesma leitura de saturação pode ter significados diferentes conforme a anatomia e o valor habitual.",
+          "Após procedimento, cuide da incisão e de locais de dreno apenas como orientado na alta. Não retire curativos, fitas, pontos ou crostas e não aplique creme, óleo, antisséptico ou receita caseira por conta própria.",
+          "Atividade deve ser individualizada. Pare o esforço e comunique a equipe se surgir falta de ar, mudança de cor, dor no peito, palpitação, tontura, desmaio ou queda nova de rendimento. Não proíba toda brincadeira nem libere esporte competitivo apenas pelo rótulo.",
+          "Mantenha higiene oral e consultas odontológicas. Informe ao dentista a cardiopatia e os procedimentos prévios. Antibiótico antes de procedimento dentário não é automático; a cardiologia define quem realmente precisa."
+        ],
+        "MEDICAMENTOS": [
+          "A palavra ‘bilateral’ não identifica indicação de remédio e esta ficha não escolhe fármaco, oxigênio, dose, via, horário, duração, procedimento ou alta. O tratamento da DVSVD depende da anatomia e do estado clínico documentados.",
+          "Use somente a prescrição individual vigente. Não inicie, suspenda, troque, reduza, aumente, triture, dilua ou prolongue um tratamento por causa do rótulo do cadastro ou de orientações dadas a outra criança.",
+          "Confira nome, apresentação, concentração, volume e horário a cada administração. Se houver vômito, dose cuspida ou esquecida, não repita nem dobre automaticamente; confirme com a equipe ou o farmacêutico responsável pelo plano.",
+          "Não ofereça descongestionante, xarope, anti-inflamatório, fitoterápico, suplemento ou remédio de venda livre sem conferir segurança com pediatria ou cardiologia.",
+          "Antibiótico antes de atendimento dentário não é necessário para toda criança com cardiopatia congênita. A indicação depende da anatomia, dos procedimentos e de lesões residuais documentadas; higiene oral regular continua importante.",
+          "Dificuldade para obter ou administrar a prescrição, efeito inesperado, sonolência incomum, piora respiratória, desmaio, inchaço, pouca urina ou incapacidade de manter doses exige contato; sinais graves exigem pronto atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga método, textura, volume e frequência indicados pela equipe. O rótulo não prova necessidade de restringir líquido ou sal, concentrar fórmula, usar fortificante ou espessante, alimentar por sonda ou oferecer suplemento.",
+          "Em bebês, observe se a mamada provoca respiração muito rápida, costelas afundando, suor intenso, mudança de cor, pausas, engasgo, exaustão ou incapacidade de terminar. Interrompa a oferta se houver falta de ar importante ou alteração da consciência e procure emergência.",
+          "Não force alimento ou líquido durante cianose, respiração difícil, sonolência, desmaio ou vômitos repetidos. A criança pode aspirar e precisar de avaliação urgente.",
+          "Quando estiver estável e liberada para se alimentar, siga o plano adequado à idade. Não mude a diluição da fórmula, não acrescente pó ou cereal e não substitua leite por água, chá ou suco por conta própria.",
+          "Acompanhe ingestão, urina ou fraldas, cansaço e peso conforme orientação. Menor volume ingerido, menos urina, suor ou exaustão para comer e peso parado ou caindo devem ser comunicados antes do retorno previsto.",
+          "Após procedimento, a via e o ritmo de alimentação podem mudar, mas precisam constar do plano individual. Tosse, engasgo, voz molhada, vômitos, distensão, dor ou dificuldade nova para engolir requer avaliação; não improvise textura nem manipule sonda sem treinamento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios, língua, rosto ou pele mais azulados, arroxeados, cinzentos ou muito pálidos que o habitual, sobretudo com fraqueza, sonolência ou falta de ar. Se a mudança for intensa, rápida ou persistente, acione o serviço de emergência.",
+          "Respiração muito rápida ou difícil, gemido, asas do nariz batendo, costelas afundando, incapacidade de falar ou mamar, pausas respiratórias, exaustão ou piora súbita. Não espere um valor específico de saturação.",
+          "Desmaio, convulsão, confusão, dificuldade para acordar, flacidez, pulso muito fraco, pele fria ou manchada, mãos e pés muito frios ou piora rápida pode indicar baixa oxigenação ou choque e exige emergência.",
+          "Recusa ou incapacidade de mamar ou beber, suor e cansaço marcantes ao alimentar, vômitos repetidos com pouca urina, boca muito seca ou sonolência incomum exige avaliação urgente, especialmente em bebês.",
+          "Palpitação persistente com tontura, desmaio, dor no peito, falta de ar, palidez ou mudança de cor; ou dor torácica forte e nova com dificuldade respiratória exige avaliação imediata.",
+          "Depois de procedimento, falta de ar crescente, mudança de cor, cansaço extremo, inchaço novo, pouca urina, sangramento persistente, abertura da ferida ou febre com aparência muito doente exige pronto atendimento e contato com a equipe cardíaca."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita ou diagnóstico novo de DVSVD, especialmente em recém-nascido ou lactente, exige avaliação imediata por cardiologia pediátrica e definição do local de cuidado. Não aguarde retorno de rotina e não presuma estabilidade por ter passado no teste do coraçãozinho.",
+          "Peça à equipe para esclarecer o que ‘bilateral’ pretendia registrar. Confirme o relatório anatômico e a história de procedimentos; não use o qualificador como diagnóstico, subtipo ou indicação terapêutica.",
+          "Após alta, cumpra exatamente o retorno escrito com cardiologia e cirurgia cardíaca, quando aplicável. Se faltarem data, contatos ou plano para ferida, alimentação, atividade, dispositivos e medicamentos, contate o centro antes de improvisar.",
+          "Antecipe o contato por aumento de cansaço ou suor, respiração mais rápida, mudança de cor, piora da alimentação, vômitos, queda de peso, menos urina, inchaço, febre, tosse persistente, queda de rendimento, palpitação, tontura ou dor no peito.",
+          "Mesmo sem sintomas, mantenha seguimento cardiológico ao longo da vida. Exames e intervalos dependem da anatomia e dos procedimentos; esta ficha não presume obstrução, arritmia, disfunção, lesão residual ou necessidade de nova intervenção.",
+          "Acompanhe crescimento, alimentação, audição, visão, linguagem, aprendizagem, comportamento e desenvolvimento com pediatria. Na adolescência, planeje transição para cardiologia de cardiopatias congênitas do adulto e discuta atividade, trabalho, contracepção e futura gestação antes de decisões relevantes."
+        ]
+      },
+      "ageMap": {
+        "u3m": "DVSVD suspeita ou confirmada sem plano documentado exige avaliação hospitalar e cardiologia neonatal imediatas. Cianose ou palidez, respiração difícil, pausas, sucção fraca, suor ou exaustão na mamada, pulso fraco, pouca resposta, febre ou hipotermia e pouca urina são alarmes. Teste de oximetria normal não exclui toda cardiopatia crítica; ‘bilateral’ não define fisiologia.",
+        "3a5m": "Confirmar rapidamente a anatomia, o plano cardiológico e qualquer procedimento. Observar cor, esforço respiratório, suor e fadiga na mamada, ingestão, fraldas e peso. Depois de alta, seguir o plano individual e antecipar contato diante de piora; não inferir circulação ou tratamento pelo rótulo.",
+        "6a11m": "Manter relatório anatômico e de procedimentos, saturação habitual se definida, alimentação e retornos. Menor interação, respiração ofegante, mudança de cor, suor, engasgo, peso parado e menos fraldas requerem contato; sinais intensos são emergência. Não alterar dieta, oxigênio ou atividade sozinho.",
+        "1a": "A piora pode aparecer como parar de brincar, pedir colo, respirar rápido, ficar pálido ou azulado, suar, comer menos ou urinar pouco. Seguir o plano cardiológico e de desenvolvimento; restrições vêm da avaliação individual, não de ‘bilateral’.",
+        "2a5": "Observar tolerância para brincar, fala interrompida por falta de ar, cor, palpitação, tontura, desmaio, alimentação, crescimento e desenvolvimento. Escola e atividade dependem da liberação cardiológica; não excluir automaticamente nem liberar esforço competitivo pelo nome cadastral.",
+        "6a11": "Ensinar a criança a relatar falta de ar, dor no peito, palpitação, tontura, cansaço novo ou queda de rendimento. Manter seguimento mesmo sem sintomas e adaptar educação física pelo cardiologista. Apoio escolar deve responder às necessidades reais, sem atribuir dificuldades automaticamente à cardiopatia.",
+        "12a17": "O adolescente deve conhecer a DVSVD, sua anatomia e procedimentos documentados, medicamentos reais, sinais de urgência e contatos. Planejar transição para cardiologia congênita do adulto e discutir esporte, trabalho, procedimentos, contracepção e futura gestação individualmente; ‘bilateral’ deve ser corrigido no registro, não incorporado à identidade clínica.",
+        "unknown": "Sem idade e documentação, não presumir bebê, subtipo, obstrução, cianose basal, cirurgia, circulação uni ou biventricular, estabilidade ou alta. Confirmar relatório e avaliar cor, respiração, consciência, perfusão, pulso, alimentação e urina; comprometimento cardiorrespiratório ativa emergência."
+      },
+      "refs": [
+        {
+          "id": "pais246_op2455_1",
+          "name": "Clinical Screening and Diagnosis for Critical Congenital Heart Defects",
+          "url": "https://www.cdc.gov/heart-defects/hcp/screening/"
+        },
+        {
+          "id": "pais246_op2455_2",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais246_op2455_3",
+          "name": "Congenital Heart Surgery Nomenclature and Database Project: double outlet right ventricle",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10798433/"
+        },
+        {
+          "id": "pais246_op2455_4",
+          "name": "Current outcomes of live-born children with double outlet right ventricle in Norway",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9762987/"
+        },
+        {
+          "id": "pais246_op2455_5",
+          "name": "Daily Care for Children With Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/special-needs-for-children-with-a-congenital-heart-defect"
+        },
+        {
+          "id": "pais246_op2455_6",
+          "name": "2025 ACC/AHA/HRS/ISACHD/SCAI Guideline for the Management of Adults With Congenital Heart Disease",
+          "url": "https://doi.org/10.1161/CIR.0000000000001402"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2456",
+      "specific": false,
+      "key": "pdf1500_492",
+      "label": "Dupla via de saída do ventrículo direito crônico",
+      "entity": "Dupla via de saída do ventrículo direito (DVSVD/DORV), cardiopatia congênita complexa; o qualificador cadastral \"crônico\" é redundante e inadequado para criar uma entidade clínica distinta",
+      "assessment": "{\"classification\":\"REDUNDANT_INAPPROPRIATE_CHRONICITY_QUALIFIER_ON_VALID_CONGENITAL_MALFORMATION\",\"normalized_entity\":\"Dupla via de saída do ventrículo direito (DVSVD/DORV)\",\"assessment\":\"A entidade-base é válida e corresponde a uma malformação estrutural presente desde o nascimento, na qual a aorta e a artéria pulmonar se originam predominantemente do ventrículo direito e existe comunicação interventricular. Como a condição é congênita, acrescentar \\\"crônico\\\" não define um subtipo reconhecido nem informa a fisiologia atual. O rótulo não prova que a criança está estável, sintomática há muito tempo, sem correção, após correção, em insuficiência cardíaca, com cianose, com obstrução pulmonar, com fisiologia univentricular ou com complicação tardia.\",\"source_label_preservation\":\"Conservar literalmente o rótulo cadastral e o ID pdf1500_492 para rastreabilidade, mas não apresentar \\\"DVSVD crônico\\\" às famílias como uma doença diferente da DVSVD nem como descrição suficiente do estado atual.\",\"reconciliation\":{\"with_key\":\"pdf1500_489\",\"with_label\":\"Dupla via de saída do ventrículo direito\",\"relationship\":\"SAME_VALID_BASE_ENTITY_WITH_REDUNDANT_UNSUPPORTED_QUALIFIER\",\"rule\":\"Reutilizar as orientações clínicas seguras da entidade-base pdf1500_489. Não duplicar a DVSVD como nova doença, não reduzir alertas e não acrescentar curso, prognóstico, anatomia ou tratamento por causa da palavra \\\"crônico\\\".\",\"difference_to_preserve\":\"A ficha pdf1500_492 deve acionar revisão terminológica do cadastro, preservando ID e rótulo de origem; sua única diferença segura é explicitar que o qualificador é redundante e não individualiza a cardiopatia.\"},\"synonyms_and_acronyms\":[\"DVSVD\",\"DORV\",\"Double-outlet right ventricle\",\"Double outlet right ventricle\"],\"not_synonyms\":[\"DVSVD crônica como entidade distinta\",\"Ventrículo direito com dupla câmara\",\"Ventrículo único\",\"Tetralogia de Fallot\",\"Transposição das grandes artérias\",\"Comunicação interventricular isolada\",\"Insuficiência cardíaca crônica\",\"DVSVD corrigida\",\"Complicação tardia pós-operatória\"],\"not_automatically_equivalent_to\":[\"DVSVD com comunicação interventricular subaórtica, subpulmonar, duplamente relacionada ou não relacionada\",\"DVSVD com ou sem obstrução da via de saída pulmonar\",\"Fisiologia semelhante a tetralogia de Fallot, transposição ou comunicação interventricular\",\"Circulação biventricular ou univentricular\",\"DVSVD reparada, paliada, não reparada, curada ou liberada de seguimento\",\"Cianose, hiperfluxo pulmonar, hipertensão pulmonar, insuficiência cardíaca, arritmia ou choque confirmados\",\"Estenose residual, obstrução de túnel ou conduto, disfunção ventricular, lesão valvar ou necessidade de reintervenção\",\"Indicação de medicamento, oxigênio, dieta, cateterismo, operação, restrição de atividade, internação ou alta\"],\"pediatric_scope\":\"A DVSVD pode ser diagnosticada antes do nascimento, no período neonatal ou posteriormente. A apresentação e a urgência variam amplamente conforme a relação entre as grandes artérias e a comunicação interventricular, o fluxo pulmonar e outras alterações cardíacas. Recém-nascidos e lactentes podem deteriorar com hipoxemia ou insuficiência cardíaca; crianças maiores e adolescentes geralmente necessitam de seguimento especializado após reparo ou paliação. A palavra \\\"crônico\\\" não resolve nenhuma dessas diferenças.\",\"critical_context_to_confirm\":[\"Idade, peso, prematuridade, sintomas atuais, início, evolução e mudança em relação ao habitual\",\"Relatório de ecocardiograma ou outro exame que confirme a DVSVD, posição e tamanho da comunicação interventricular, relação das grandes artérias e fluxo pulmonar\",\"Cardiopatias associadas, obstruções, anatomia ventricular e tipo de circulação documentados\",\"Se houve procedimento, operação ou paliação; datas, técnica, centro, resumo de alta e exames de seguimento\",\"Cor, esforço e frequência respiratória, nível de alerta, pulsos, perfusão, pressão e urina\",\"Saturação habitual e alvos definidos pela equipe, quando houver plano individual de monitorização\",\"Capacidade de mamar ou comer, suor, fadiga, vômitos, hidratação, ganho de peso e tolerância ao esforço\",\"Feridas, esterno, drenos, sondas, shunts, condutos, válvulas ou outros dispositivos realmente presentes\",\"Medicamentos, oxigênio e equipamentos realmente prescritos, sem dedução a partir do rótulo\",\"Plano individual de retornos, atividade, escola, odontologia e transição para cuidado adulto\"],\"counting_rule\":\"Manter pdf1500_492 como registro com problema de termo, vinculado à mesma entidade-base de pdf1500_489. Não contar \\\"DVSVD crônico\\\" como doença pediátrica distinta. Se houver estado pós-operatório ou complicação documentados, registrá-los separadamente sem apagar o ID de origem.\",\"reason\":\"Fontes oficiais definem DVSVD como cardiopatia congênita crítica e descrevem grande variabilidade anatômica, clínica e terapêutica. A inferência nosológica segura é que \\\"crônico\\\" é redundante/inadequado e não individualiza o estado da criança. Nenhum dado clínico foi fornecido para atribuir subtipo, curso, reparo, complicação ou tratamento.\",\"next_action\":\"Remapear editorialmente o cadastro para a entidade-base DVSVD, preservando ID e rastreabilidade. Na interface, reconciliar com pdf1500_489 e exigir documentação clínica antes de exibir subtipo, estado pós-operatório, complicação, gravidade ou tratamento.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A dupla via de saída do ventrículo direito é uma cardiopatia presente desde o nascimento. As duas grandes artérias saem predominantemente do ventrículo direito, e o sangue do ventrículo esquerdo passa por uma comunicação entre os ventrículos. A palavra \"crônico\" no cadastro não indica como o sangue está circulando hoje nem cria outra doença.",
+          "A gravidade varia muito conforme a posição da comunicação, a passagem de sangue para os pulmões e outras alterações do coração. Não use o nome isolado para concluir que a criança está estável, corrigida, cianótica, em insuficiência cardíaca ou com uma complicação.",
+          "Diagnóstico novo, ausência de relatório ou dúvida sobre correção exigem contato imediato com cardiologia pediátrica ou com o centro que acompanha a criança. Mudança de cor, respiração difícil, dificuldade para mamar, desmaio, sonolência anormal ou pulso fraco exige emergência, sem esperar consulta.",
+          "Cuidados em casa só são apropriados quando há avaliação e plano individual. Se houve cirurgia ou paliação, siga exatamente as orientações de ferida, alimentação, atividade, medicamentos, equipamentos, retornos e contato; esta ficha não cria alta nem substitui o resumo do centro cardíaco.",
+          "Observe mudanças em relação ao habitual: cor de lábios e pele, respiração, energia, suor, mamadas ou refeições, vômitos, urina, inchaço, palpitações, tontura, dor no peito, febre e, quando houver, a ferida. Uma mudança importante vale mais que um número isolado do oxímetro.",
+          "A DVSVD não é contagiosa. Mantenha casa e carro sem fumaça, vape, narguilé ou maconha. Creche, escola, educação física, esporte e viagem dependem da anatomia, do procedimento realizado e da liberação cardiológica, não da palavra \"crônico\".",
+          "Não interrompa o seguimento porque a criança parece bem ou porque já foi operada. O acompanhamento verifica crescimento, ritmo, função dos ventrículos, válvulas, vias de saída, túnel, shunt ou conduto quando existirem; vigilância não significa que uma complicação esteja presente."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acessíveis o relatório cardiológico, o resumo de alta se houver, a lista atual de medicamentos e equipamentos, alergias, saturação habitual e contatos do centro. Não atrase uma emergência para procurar documentos.",
+          "Se houver dificuldade respiratória, deixe a criança na posição em que respira melhor, geralmente com o tronco elevado, mantenha-a acompanhada e acione ajuda. Não force caminhada, banho, alimentação ou posição deitada.",
+          "Não inicie oxigênio, não mude fluxo ou alvo de saturação e não ajuste monitor, sonda, shunt ou outro equipamento sem plano escrito. Saturação deve ser interpretada com a anatomia, o valor habitual, cor, esforço, consciência e perfusão.",
+          "Se houve operação, cuide de cada incisão apenas como orientado na alta. Não retire fita, ponto, crosta ou curativo e não aplique creme, óleo, antisséptico ou receita caseira por conta própria.",
+          "Atividade deve ser individualizada. Interrompa exercício ou brincadeira se surgir falta de ar, dor no peito, palpitação, tontura, desmaio, mudança de cor ou queda clara de desempenho e comunique a equipe.",
+          "Mantenha higiene oral e acompanhamento odontológico. Informe a cardiopatia e os procedimentos realizados; necessidade de antibiótico antes de procedimento dentário não decorre do rótulo \"crônico\" e deve ser definida pela equipe.",
+          "Não use sintomas, oxímetro doméstico ou comparação com outra criança para identificar subtipo ou complicação. A equipe escolhe exames conforme a anatomia e a operação documentadas."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, oxigênio, dose, via, horário, duração, cateterismo, cirurgia, paliação, reintervenção ou alta. O qualificador \"crônico\" não autoriza iniciar nem manter tratamento.",
+          "Use somente medicamentos e equipamentos da prescrição individual vigente. Não inicie, suspenda, troque, reduza, aumente, triture, dilua ou prolongue algo porque outra criança com DVSVD usou.",
+          "Confira nome, apresentação, concentração, volume e horário em cada administração. Se a criança vomitar, cuspir ou perder uma dose, não repita nem dobre automaticamente; contate a equipe ou o farmacêutico responsável.",
+          "Não dê descongestionante, xarope, anti-inflamatório, produto herbal, suplemento ou remédio de venda livre sem confirmar compatibilidade com cardiologista ou pediatra.",
+          "Antibiótico antes de tratamento dentário não é automático para toda pessoa com DVSVD. A decisão depende do reparo, de material protético, defeitos residuais e outras condições documentadas.",
+          "Dificuldade para obter ou administrar a prescrição, efeito inesperado, sonolência incomum, piora da respiração, desmaio, inchaço, pouca urina ou incapacidade de manter doses exige contato imediato; sinais graves exigem pronto atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga o método, textura, volume e frequência definidos pela equipe. Não presuma que DVSVD exige restrição de líquido ou sal, fórmula especial, fortificante, espessante, sonda ou suplemento.",
+          "Em bebês, observe respiração muito rápida, costelas afundando, suor intenso, mudança de cor, pausas, engasgo, exaustão ou incapacidade de terminar a mamada. Interrompa a oferta se houver falta de ar importante ou alteração de consciência e procure emergência.",
+          "Não force alimento ou líquido durante falta de ar, cianose, sonolência, desmaio ou vômitos repetidos. A criança pode aspirar e precisar de avaliação urgente.",
+          "Quando estiver estável e liberada para alimentar, use apenas o plano adequado à idade. Não altere diluição de fórmula, não acrescente pó ou cereal e não substitua leite por água, chá ou suco por conta própria.",
+          "Acompanhe ingestão, urina ou fraldas, cansaço e peso conforme o centro orientou. Menor volume, menos urina, suor ou exaustão para comer e peso parado ou caindo devem ser comunicados antes do retorno previsto.",
+          "Após procedimento, a via e o ritmo de alimentação podem mudar, mas precisam constar do plano individual. Tosse, engasgo, voz molhada, vômitos, distensão, dor ou dificuldade nova para engolir requer avaliação; não improvise textura ou sonda."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios, língua, rosto ou pele mais azulados, arroxeados, cinzentos ou muito pálidos que o habitual, principalmente com fraqueza, sonolência ou falta de ar. Se a mudança for intensa, rápida ou persistente, acione a emergência.",
+          "Respiração muito rápida ou difícil, gemido, batimento das asas do nariz, costelas afundando, incapacidade de falar ou mamar, pausas respiratórias, exaustão ou piora súbita. Não espere um valor específico de saturação.",
+          "Desmaio, convulsão, confusão, dificuldade para acordar, flacidez, pulso muito fraco, pele fria ou manchada, extremidades muito frias ou piora rápida pode indicar baixa oxigenação ou choque e exige emergência.",
+          "Recusa ou incapacidade de mamar ou beber, suor e cansaço marcantes na alimentação, vômitos repetidos com pouca urina, boca muito seca ou sonolência incomum exige avaliação urgente, sobretudo em bebês.",
+          "Palpitação persistente com tontura, desmaio, dor no peito, falta de ar, palidez ou mudança de cor; ou dor no peito forte ou nova acompanhada de dificuldade respiratória exige avaliação imediata.",
+          "Aumento rápido do inchaço, barriga muito distendida, pouca urina, piora importante do cansaço ou dificuldade crescente para respirar pode indicar descompensação e exige pronto atendimento.",
+          "Depois de operação, falta de ar crescente, mudança de cor, extremo cansaço, sangramento persistente, abertura da ferida ou secreção acompanhada de febre e piora geral exige pronto atendimento e contato com a equipe cardíaca.",
+          "Se houver um plano individual para episódios de cianose ou problema de shunt, siga-o enquanto aciona ajuda. Não invente manobra, oxigênio, medicamento ou dose e não espere melhora em casa quando o episódio é diferente, prolongado ou grave."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita ou diagnóstico novo de DVSVD, ou anatomia e estado de correção desconhecidos, exige avaliação imediata por cardiologia pediátrica. Em recém-nascido ou lactente, articule com hospital ou centro cardíaco; não aguarde retorno de rotina.",
+          "Peça à equipe para esclarecer o que \"crônico\" pretendia registrar. Confirme separadamente a anatomia, a comunicação interventricular, o fluxo pulmonar, cardiopatias associadas, operações, circulação atual e eventuais complicações; não use o rótulo como resumo clínico.",
+          "Após alta documentada, cumpra exatamente o retorno escrito com cardiologia e cirurgia cardíaca, quando aplicável. Se faltarem data, contatos ou plano de ferida, alimentação, atividade e medicamentos, procure o centro; esta ficha não cria intervalo nem alta.",
+          "Antecipe o contato por aumento do cansaço ou suor, respiração mais rápida, mudança de cor, piora de alimentação, vômitos, queda de peso, menos urina, inchaço, febre, tosse persistente, queda de rendimento, palpitações, tontura ou dor no peito.",
+          "Mesmo sem sintomas, mantenha seguimento ao longo da vida. A equipe decide exames e observa função ventricular, válvulas, ritmo e obstruções ou vazamentos relacionados à anatomia e ao procedimento realizado; isso não presume que uma complicação exista.",
+          "Acompanhe crescimento, alimentação, desenvolvimento e vacinação com pediatria. Na adolescência, planeje transição para cardiologia de cardiopatias congênitas do adulto e discuta atividade, trabalho, contracepção e futura gestação antes de decisões relevantes."
+        ]
+      },
+      "ageMap": {
+        "u3m": "DVSVD suspeita ou confirmada sem anatomia e plano conhecidos exige contato imediato com cardiologia neonatal ou hospital. Cor azulada, cinzenta ou muito pálida, respiração rápida ou difícil, pausas, sucção fraca, suor ou exaustão na mamada, pulso fraco, pouca resposta e pouca urina são alarmes. Triagem neonatal normal não exclui cardiopatia crítica.",
+        "3a5m": "Confirmar anatomia, operação ou paliação e plano do centro. Observar cor, esforço respiratório, suor, pausas e fadiga na mamada, ingestão, fraldas e peso. Piora cardiorrespiratória é emergência; \"crônico\" não significa estabilidade nem define cirurgia.",
+        "6a11m": "Manter retornos, crescimento, desenvolvimento e alimentação individualizada. Menor interação, respiração ofegante, mudança de cor, suor, engasgo, peso parado e menos fraldas requerem contato; sinais intensos são emergência. Não alterar dieta, oxigênio ou medicamento por conta própria.",
+        "1a": "A criança pode mostrar piora parando de brincar, pedindo colo, respirando mais rápido, ficando pálida ou azulada, suando, comendo menos ou urinando pouco. Use o plano individual de atividade e seguimento; não atribua piora à \"cronicidade\" nem presuma complicação.",
+        "2a5": "Observar tolerância para brincar, fala interrompida por falta de ar, cor, palpitação, tontura, desmaio, alimentação, crescimento e desenvolvimento. Escola e atividade dependem de liberação cardiológica. O rótulo \"crônico\" não deve determinar restrição ou tratamento.",
+        "6a11": "Ensinar a relatar falta de ar, dor no peito, palpitação, tontura, cansaço novo ou queda de rendimento. Manter seguimento mesmo sem sintomas e ajustar educação física pela cardiologia. Levar resumo anatômico e cirúrgico à escola quando houver plano de ação.",
+        "12a17": "O adolescente deve conhecer o diagnóstico anatômico e os procedimentos realmente realizados, medicamentos atuais, sinais de urgência e contatos. Planejar transição para cardiologia congênita do adulto. Síncope, cianose, palpitação persistente, dor no peito ou dispneia exige avaliação rápida; \"crônico\" deve ser corrigido no registro, não usado como prognóstico.",
+        "unknown": "Sem idade e documentação, não presumir bebê, subtipo, cianose, hiperfluxo, reparo, paliação, circulação univentricular, estabilidade ou alta. Confirmar registros e avaliar cor, respiração, consciência, perfusão, alimentação e urina. Comprometimento cardiorrespiratório ativa emergência; se estável, contatar cardiologia congênita no mesmo dia."
+      },
+      "refs": [
+        {
+          "id": "pais246_op2456_1",
+          "name": "Double outlet right ventricle (DORV)",
+          "url": "https://www.childrens.health.qld.gov.au/health-a-to-z/cardiac/double-outlet-right-ventricle"
+        },
+        {
+          "id": "pais246_op2456_2",
+          "name": "About Congenital Heart Defects",
+          "url": "https://www.cdc.gov/heart-defects/about/index.html"
+        },
+        {
+          "id": "pais246_op2456_3",
+          "name": "Clinical Screening and Diagnosis for Critical Congenital Heart Defects",
+          "url": "https://www.cdc.gov/heart-defects/hcp/screening/"
+        },
+        {
+          "id": "pais246_op2456_4",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais246_op2456_5",
+          "name": "Decades of single-center experience in managing 274 double-outlet right ventricle patients: Biventricular repair suitable for more complex forms?",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42079951/"
+        },
+        {
+          "id": "pais246_op2456_6",
+          "name": "Care of Adults With Congenital Heart Disease: Key Points",
+          "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/12/16/19/24/adults-with-congenital-heart"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:24:42.466Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "ext_tineacapitis",
+      "label": "Tinea capitis (micose do couro cabeludo)",
+      "entity": "Dermatofitose do couro cabeludo e cabelos",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Infecção fúngica do couro cabeludo, distinta de tinea corporis e da tinha amiantácea descritiva. Não diagnosticar toda descamação ou alopecia como micose.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A micose do couro cabeludo é uma infecção por fungos que pode causar descamação e quebra dos fios. Outras doenças podem parecer iguais: confirme o diagnóstico com a equipe, que pode solicitar amostra de cabelo ou pele.",
+          "Comece o tratamento orientado sem atrasar o retorno combinado. Não raspe a cabeça nem esprema áreas inchadas. Queda de cabelo com dor ou pus precisa de nova avaliação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não compartilhe pentes, escovas, bonés, capacetes, toalhas ou fronhas. Lave os tecidos e higienize os acessórios conforme orientação e instruções do produto; não aplique desinfetante na pele nem misture produtos de limpeza.",
+          "Converse com a equipe sobre contatos da casa e avise a escola sem expor a criança. Em geral, o retorno escolar é possível após iniciar tratamento adequado; confirme a orientação local. Se o animal tiver falhas no pelo, procure veterinário."
+        ],
+        "MEDICAMENTOS": [
+          "O couro cabeludo geralmente precisa de antifúngico por via oral prescrito. Pomadas usadas para micose do corpo e xampu isolado não substituem esse tratamento. O xampu indicado pode ajudar a reduzir a transmissão.",
+          "Siga a receita até o fim, mesmo com melhora. Não escolha dose, duração ou tratamento para toda a família por esta ficha. Não use combinações com corticoide por conta própria: podem mascarar ou piorar a micose. Avise sobre outros remédios e reações."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais adequados à idade. Não há dieta para eliminar o fungo.",
+          "A necessidade de tomar o remédio junto com alimentos depende do produto prescrito: confira com a equipe ou farmacêutico. Não acrescente leite de vaca, alimentos gordurosos ou suplementos automaticamente, especialmente em bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Busque avaliação no mesmo dia se aparecer inchaço doloroso e amolecido, pus, febre ou piora rápida do couro cabeludo. Pode ser inflamação intensa ou outra infecção; não tente drenar em casa.",
+          "Dificuldade para respirar, inchaço da língua ou garganta, desmaio ou dificuldade para acordar, inclusive após medicamento, exigem socorro imediato. Acione 192 se houver instabilidade."
+        ],
+        "QUANDO REAVALIAR": [
+          "Combine retorno para conferir resposta, resultado dos exames e tolerância ao remédio. Se não houver melhora após algumas semanas, ou houver piora antes, fale com a equipe; não espere acabar o tratamento para relatar dificuldades.",
+          "A equipe decide se precisa repetir exame ou mudar a receita. O cabelo pode levar meses para crescer novamente, mas novas falhas, dor ou secreção devem ser avaliadas. Não repita o antifúngico por conta própria."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, confirme presencialmente a causa da lesão. Febre, recusa de mamadas ou prostração exigem avaliação imediata.",
+        "3a5m": "Lesões do couro cabeludo podem ter outras causas; não use xampu medicamentoso de adulto sem orientação.",
+        "6a11m": "Proteja olhos e boca durante a higiene; mantenha mamadas e alimentação próprias da idade.",
+        "1a": "Um adulto deve administrar a prescrição e guardar todos os produtos fora do alcance.",
+        "2a5": "Ajude a evitar compartilhamento de acessórios e explique que a infecção não é culpa da criança.",
+        "6a11": "Combine cuidados com escola e atividades sem constranger ou isolar desnecessariamente a criança.",
+        "12a17": "Converse sobre adesão e privacidade; confira interações e possibilidade de gestação com a equipe antes da prescrição.",
+        "unknown": "Informe idade e condições clínicas à equipe para escolher o tratamento com segurança."
+      },
+      "refs": [
+        {
+          "id": "pais198_op580_1",
+          "name": "Treatment of Ringworm",
+          "url": "https://www.cdc.gov/ringworm/treatment/index.html"
+        },
+        {
+          "id": "pais198_op580_2",
+          "name": "Ringworm of the Scalp",
+          "url": "https://www.nationwidechildrens.org/conditions/tinea-capitis"
+        },
+        {
+          "id": "pais198_op580_3",
+          "name": "Tinea capitis",
+          "url": "https://www.bad.org.uk/pils/tinea-capitis"
+        },
+        {
+          "id": "pais198_op580_4",
+          "name": "Ringworm",
+          "url": "https://www.nhs.uk/conditions/ringworm/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

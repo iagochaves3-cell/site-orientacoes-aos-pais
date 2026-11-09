@@ -1,0 +1,152 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T19:58:32.101Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_a4946cc0d135dda2",
+      "label": "Caxumba — registro no PPS",
+      "entity": "Caxumba / parotidite epidêmica",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Caxumba é infecção viral específica; parotidite tem outras causas e não é automaticamente equivalente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Caxumba pode provocar dor e inchaço perto da orelha e da mandíbula, de um ou dos dois lados. A equipe precisa avaliar a suspeita: outras doenças também inflamam glândulas salivares. Avise o serviço antes de chegar para organizar o atendimento sem expor outras pessoas.",
+          "Após avaliação, observe alimentação, urina, febre e evolução do inchaço. A maioria melhora em cerca de duas semanas; sintomas novos ou importantes exigem reavaliação, mesmo que o rosto já esteja desinchando."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita repouso e use compressa confortável, fria ou morna, protegendo a pele e sem temperatura extrema. Não esprema nem tente drenar a glândula.",
+          "Mantenha afastamento de escola/creche e contato próximo por pelo menos cinco dias após o início do inchaço da glândula. Confirme a data de retorno com a equipe, especialmente se ainda estiver doente.",
+          "Lave as mãos, cubra tosse e espirros, ventile o ambiente e não compartilhe copos, talheres ou objetos com saliva."
+        ],
+        "MEDICAMENTOS": [
+          "Não há remédio específico que elimine o vírus da caxumba. Para dor ou febre, siga somente a prescrição adequada à idade; não use antibiótico ou corticoide por conta própria.",
+          "Não dê aspirina por conta própria. Vacina protege contra a doença, mas não é tratamento da infecção atual; confira a situação vacinal com a unidade de saúde."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentos macios que sejam fáceis de mastigar e líquidos adequados à idade. Evite alimentos ou bebidas ácidas se aumentarem a dor.",
+          "Mantenha leite habitual nos bebês, sem diluir fórmula. Incapacidade de engolir ou beber, mamadas muito reduzidas e pouca urina precisam de avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor de cabeça muito forte, rigidez no pescoço, incômodo intenso com luz, vômitos repetidos, confusão, convulsão ou desmaio exigem urgência. Dificuldade para respirar ou engolir saliva também exige atendimento imediato.",
+          "Dor ou inchaço agudo nos testículos deve ser avaliado imediatamente, sem presumir que seja só caxumba. Dor abdominal forte, principalmente com vômitos ou prostração, também exige urgência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe se houver piora, febre persistente ou que retorna, alimentação inadequada ou ausência de melhora progressiva. Redução nova da audição exige avaliação rápida.",
+          "Informe contato com pessoas doentes e verifique vacinas conforme o calendário brasileiro e orientação local. Pessoas vacinadas ainda podem ter caxumba; vacina anterior ou exame negativo isolado não exclui a suspeita.",
+          "Adolescentes devem comunicar dor testicular ou abdominal sem constrangimento. Não atribua esses sintomas a algo que basta esperar passar em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço de glândula ou febre no bebê pequeno exige avaliação pronta, sem presumir caxumba ou manter apenas compressas.",
+        "3a5m": "Priorize avaliação e mamadas; pouca urina, recusa alimentar ou prostração exigem reavaliação.",
+        "6a11m": "Observe se consegue mamar; sem sucos ácidos ou mudanças desnecessárias da fórmula.",
+        "1a": "Ofereça alimentos de consistência adequada e confirme afastamento da creche.",
+        "2a5": "Não mandar à escola antes do prazo orientado; mantenha hidratação e vigie sinais de complicação.",
+        "6a11": "A criança deve avisar se surgirem dor forte de cabeça, barriga ou alteração de audição.",
+        "12a17": "Dor/inchaço testicular ou dor abdominal importante requer avaliação urgente, sem assumir que decorre apenas da caxumba.",
+        "unknown": "Confirme idade, início do inchaço e plano de acompanhamento para definir retorno e cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais222_op630_1",
+          "name": "Guia de Vigilância em Saúde volume1: Caxumba",
+          "url": "https://prefeitura.sp.gov.br/documents/d/saude/guia-de-vigilancia-em-saude-vol-1_caxumba-pdf"
+        },
+        {
+          "id": "pais222_op630_2",
+          "name": "Clinical Overview of Mumps",
+          "url": "https://www.cdc.gov/mumps/hcp/clinical-overview/index.html"
+        },
+        {
+          "id": "pais222_op630_3",
+          "name": "Mumps",
+          "url": "https://www.nhs.uk/conditions/mumps/"
+        },
+        {
+          "id": "pais222_op630_4",
+          "name": "Caxumba",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/caxumba"
+        },
+        {
+          "id": "pais222_op630_5",
+          "name": "Mumps Symptoms and Complications",
+          "url": "https://www.cdc.gov/mumps/signs-symptoms/index.html"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "ext_caxumba",
+      "label": "Caxumba (parotidite epidêmica)",
+      "entity": "Caxumba / parotidite epidêmica",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Caxumba é infecção viral específica; parotidite tem outras causas e não é automaticamente equivalente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Caxumba pode provocar dor e inchaço perto da orelha e da mandíbula, de um ou dos dois lados. A equipe precisa avaliar a suspeita: outras doenças também inflamam glândulas salivares. Avise o serviço antes de chegar para organizar o atendimento sem expor outras pessoas.",
+          "Após avaliação, observe alimentação, urina, febre e evolução do inchaço. A maioria melhora em cerca de duas semanas; sintomas novos ou importantes exigem reavaliação, mesmo que o rosto já esteja desinchando."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita repouso e use compressa confortável, fria ou morna, protegendo a pele e sem temperatura extrema. Não esprema nem tente drenar a glândula.",
+          "Mantenha afastamento de escola/creche e contato próximo por pelo menos cinco dias após o início do inchaço da glândula. Confirme a data de retorno com a equipe, especialmente se ainda estiver doente.",
+          "Lave as mãos, cubra tosse e espirros, ventile o ambiente e não compartilhe copos, talheres ou objetos com saliva."
+        ],
+        "MEDICAMENTOS": [
+          "Não há remédio específico que elimine o vírus da caxumba. Para dor ou febre, siga somente a prescrição adequada à idade; não use antibiótico ou corticoide por conta própria.",
+          "Não dê aspirina por conta própria. Vacina protege contra a doença, mas não é tratamento da infecção atual; confira a situação vacinal com a unidade de saúde."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentos macios que sejam fáceis de mastigar e líquidos adequados à idade. Evite alimentos ou bebidas ácidas se aumentarem a dor.",
+          "Mantenha leite habitual nos bebês, sem diluir fórmula. Incapacidade de engolir ou beber, mamadas muito reduzidas e pouca urina precisam de avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor de cabeça muito forte, rigidez no pescoço, incômodo intenso com luz, vômitos repetidos, confusão, convulsão ou desmaio exigem urgência. Dificuldade para respirar ou engolir saliva também exige atendimento imediato.",
+          "Dor ou inchaço agudo nos testículos deve ser avaliado imediatamente, sem presumir que seja só caxumba. Dor abdominal forte, principalmente com vômitos ou prostração, também exige urgência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe se houver piora, febre persistente ou que retorna, alimentação inadequada ou ausência de melhora progressiva. Redução nova da audição exige avaliação rápida.",
+          "Informe contato com pessoas doentes e verifique vacinas conforme o calendário brasileiro e orientação local. Pessoas vacinadas ainda podem ter caxumba; vacina anterior ou exame negativo isolado não exclui a suspeita.",
+          "Adolescentes devem comunicar dor testicular ou abdominal sem constrangimento. Não atribua esses sintomas a algo que basta esperar passar em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço de glândula ou febre no bebê pequeno exige avaliação pronta, sem presumir caxumba ou manter apenas compressas.",
+        "3a5m": "Priorize avaliação e mamadas; pouca urina, recusa alimentar ou prostração exigem reavaliação.",
+        "6a11m": "Observe se consegue mamar; sem sucos ácidos ou mudanças desnecessárias da fórmula.",
+        "1a": "Ofereça alimentos de consistência adequada e confirme afastamento da creche.",
+        "2a5": "Não mandar à escola antes do prazo orientado; mantenha hidratação e vigie sinais de complicação.",
+        "6a11": "A criança deve avisar se surgirem dor forte de cabeça, barriga ou alteração de audição.",
+        "12a17": "Dor/inchaço testicular ou dor abdominal importante requer avaliação urgente, sem assumir que decorre apenas da caxumba.",
+        "unknown": "Confirme idade, início do inchaço e plano de acompanhamento para definir retorno e cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais222_op631_1",
+          "name": "Guia de Vigilância em Saúde volume1: Caxumba",
+          "url": "https://prefeitura.sp.gov.br/documents/d/saude/guia-de-vigilancia-em-saude-vol-1_caxumba-pdf"
+        },
+        {
+          "id": "pais222_op631_2",
+          "name": "Clinical Overview of Mumps",
+          "url": "https://www.cdc.gov/mumps/hcp/clinical-overview/index.html"
+        },
+        {
+          "id": "pais222_op631_3",
+          "name": "Mumps",
+          "url": "https://www.nhs.uk/conditions/mumps/"
+        },
+        {
+          "id": "pais222_op631_4",
+          "name": "Caxumba",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/caxumba"
+        },
+        {
+          "id": "pais222_op631_5",
+          "name": "Mumps Symptoms and Complications",
+          "url": "https://www.cdc.gov/mumps/signs-symptoms/index.html"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

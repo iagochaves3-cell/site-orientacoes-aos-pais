@@ -1,0 +1,1154 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T08:47:05.606Z",
+  "records": [
+    {
+      "jobId": "OP-2208",
+      "specific": true,
+      "key": "pdf1500_249",
+      "label": "Comunicação interventricular",
+      "entity": "Comunicação interventricular congênita em criança ou adolescente, com localização, tamanho, direção do fluxo, repercussão e estado de reparo a confirmar por ecocardiograma",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CONGENITAL_ENTITY_REQUIRING_ANATOMIC_HEMODYNAMIC_AND_REPAIR_CONTEXT\",\"normalized_entity\":\"Comunicação interventricular (CIV; ventricular septal defect, VSD)\",\"assessment\":\"CIV é uma abertura congênita no septo entre os ventrículos. Em geral, o sangue passa do ventrículo esquerdo para o direito e aumenta o fluxo pulmonar. Defeitos musculares pequenos frequentemente diminuem ou fecham espontaneamente. Defeitos não musculares precisam de vigilância por possíveis complicações, mesmo quando pequenos. CIV moderada ou grande pode causar taquipneia, sudorese, fadiga nas mamadas, baixo ganho de peso e dilatação do lado esquerdo; sem controle, fluxo importante prolongado pode causar doença vascular pulmonar irreversível.\",\"subtype_resolution\":[{\"term\":\"CIV muscular\",\"relationship\":\"VALID_SUBTYPE_WITH_HIGHER_SPONTANEOUS_CLOSURE_PROBABILITY\",\"note\":\"Defeitos musculares pequenos isolados têm história natural geralmente favorável e podem receber seguimento espaçado ou alta compartilhada quando o contexto é adequado.\"},{\"term\":\"CIV não muscular/perimembranosa\",\"relationship\":\"VALID_SUBTYPE_REQUIRING_CONTINUED_SURVEILLANCE\",\"note\":\"Pode associar-se a prolapso e insuficiência da valva aórtica, membrana subaórtica ou ventrículo direito de dupla câmara; não deve herdar a alta de uma CIV muscular pequena.\"},{\"term\":\"CIV de via de saída ou supracristal\",\"relationship\":\"VALID_NONMUSCULAR_SUBTYPE_WITH_AORTIC_VALVE_RISK\",\"note\":\"A proximidade da valva aórtica aumenta a necessidade de vigilância para prolapso e regurgitação.\"},{\"term\":\"CIV de entrada\",\"relationship\":\"VALID_SUBTYPE_MAY_BE_ASSOCIATED_WITH_ATRIOVENTRICULAR_SEPTAL_DEFECT\",\"note\":\"Exige confirmar anatomia e lesões associadas; não é sinônimo automático de defeito isolado simples.\"},{\"term\":\"CIV reparada ou residual\",\"relationship\":\"STATE_AFTER_INTERVENTION_NOT_NEW_ENTITY\",\"note\":\"Seguimento depende de shunt residual, função ventricular, valva aórtica, pressão pulmonar, ritmo e técnica de reparo.\"}],\"not_automatically_equivalent_to\":[\"Comunicação interatrial ou defeito do septo atrioventricular\",\"CIV muscular pequena e CIV não muscular pequena como se tivessem o mesmo seguimento\",\"Sopro intenso como prova de defeito grande ou grave\",\"Ausência de sintomas como prova de ausência de dilatação cardíaca ou pressão pulmonar elevada\",\"Cianose ou síndrome de Eisenmenger em toda CIV\",\"Indicação automática de medicamento, fórmula hipercalórica, sonda, cateterismo ou cirurgia\",\"Cura definitiva e alta automática após fechamento espontâneo ou reparo\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente. Defeitos moderados ou grandes podem tornar-se sintomáticos nas primeiras semanas, à medida que cai a resistência vascular pulmonar. Lactentes precisam de vigilância de respiração, mamadas e crescimento. Crianças com CIV não muscular precisam de seguimento para valva aórtica e obstruções mesmo quando assintomáticas. Após reparo, o plano acompanha defeito residual, função ventricular, pressão pulmonar e ritmo e deve transicionar quando necessário para cardiologia congênita do adulto.\",\"critical_context_to_confirm\":[\"Ecocardiograma confirmando localização, número, tamanho, direção e magnitude do fluxo\",\"Classificação muscular ou não muscular e relação com valvas e vias de saída\",\"Dilatação do átrio e ventrículo esquerdos, função cardíaca e estimativa da pressão pulmonar\",\"Prolapso ou insuficiência da valva aórtica, membrana subaórtica e ventrículo direito de dupla câmara\",\"Idade, prematuridade, síndrome genética, doença pulmonar e outras cardiopatias associadas\",\"Respiração, mamadas, sudorese, ganho de peso, infecções respiratórias, tolerância ao esforço, palpitações, dor torácica, desmaio, edema ou cianose\",\"Fechamento espontâneo, cirurgia ou dispositivo, data, shunt residual, ferida, acesso vascular e protocolo do centro\",\"Medicamentos, plano nutricional, alergias, saúde bucal, atividade física, retorno e transição\"],\"counting_rule\":\"Contar pdf1500_249 como uma orientação clínica específica para o guarda-chuva Comunicação interventricular após integração e testes. Não contar separadamente subtipos anatômicos, gravidades ou estados de reparo sem registro próprio e evidência correspondente.\",\"inferences\":[\"Como a orientação ACC 2026 separa CIV muscular e não muscular por história natural e complicações, o subtipo precisa ser confirmado antes de aplicar alta, intervalo de retorno ou repetição de ecocardiograma.\",\"Cianose, colapso ou hipoxemia importante não são a apresentação esperada de uma CIV pequena simples; esses sinais exigem avaliação imediata de doença vascular pulmonar avançada, lesão associada ou outra causa.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Comunicação interventricular (CIV) é uma abertura entre as duas câmaras de baixo do coração. O tamanho, o local e a quantidade de sangue que passa por ela determinam a repercussão; o nome sozinho não diz a gravidade nem se haverá cirurgia.",
+          "Defeitos musculares pequenos frequentemente diminuem ou fecham sozinhos. Defeitos não musculares podem precisar de ecocardiogramas mesmo quando pequenos, para observar a valva aórtica e outras possíveis complicações.",
+          "Observe respiração, duração e esforço das mamadas, suor, ganho de peso, disposição para brincar ou fazer exercício, palpitações, dor no peito, desmaio, inchaço e mudança de cor. Registre qualquer mudança em relação ao habitual.",
+          "Leve às consultas o laudo do ecocardiograma e um resumo de medicamentos, alimentação especial, cirurgias ou cateterismos. Pergunte se a CIV é muscular ou não muscular, se há dilatação do coração e qual é o plano de retorno.",
+          "Mantenha higiene da boca e consultas odontológicas. Avise dentista e outros profissionais sobre a CIV e qualquer reparo; antibiótico antes de procedimento não é indicado para toda criança com CIV.",
+          "CIV não é contagiosa e não foi causada por esforço, alimentação ou atitude da família. Creche, escola e convívio não exigem afastamento pelo diagnóstico, salvo restrição temporária individual após procedimento ou por repercussão clínica."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra consultas e ecocardiogramas no intervalo definido. A equipe acompanha fluxo, tamanho das câmaras, pressão pulmonar, valva aórtica e possíveis obstruções, mesmo quando a criança parece bem.",
+          "Não existe posição, massagem, exercício respiratório ou treino que feche a CIV. Atividade física ajuda a saúde geral, mas não substitui a avaliação da anatomia e da repercussão.",
+          "Crianças com CIV pequena ou reparada e sem complicações geralmente podem brincar e fazer atividade habitual. Interrompa o esforço e procure avaliação se surgir falta de ar fora do esperado, dor torácica, palpitação sustentada, tontura ou desmaio.",
+          "Na escola, forneça apenas restrições documentadas e contatos de emergência. Evite exclusão automática; pressão pulmonar elevada, disfunção cardíaca, arritmia ou pós-operatório recente podem exigir plano próprio.",
+          "Após cirurgia ou cateterismo, siga o cuidado da ferida ou punção e os limites de banho, peso, bicicleta, natação e esporte entregues pelo centro. Não antecipe atividades porque a criança parece bem.",
+          "Não use oxímetro, relógio, frequência cardíaca ou balança como decisão isolada de alta ou de tratamento. Se a equipe pediu medidas em casa, registre valor, horário, sintomas e situação e comunique alterações conforme o plano."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha a CIV ou acelera seu fechamento. Remédios podem reduzir sintomas de excesso de fluxo ou insuficiência cardíaca enquanto a equipe acompanha ou planeja intervenção.",
+          "Use somente o medicamento, apresentação, quantidade, intervalo e duração prescritos para esta criança. Não inicie, troque, ajuste ou suspenda diurético, vasodilatador ou outro tratamento porque a respiração ou o peso melhoraram.",
+          "Não dê medicamento de outra pessoa, sobra de receita, descongestionante, estimulante, energético ou suplemento sem conferir com médico ou farmacêutico, sobretudo se houver arritmia, pressão pulmonar elevada ou tratamento cardíaco.",
+          "Antibiótico antes de procedimento dentário não é automático para CIV não reparada. Após fechamento, pode ser indicado nos primeiros seis meses ou se houver defeito residual junto ao material; confirme com a cardiologia.",
+          "Se uma dose for esquecida, vomitada ou administrada em duplicidade, não dobre nem repita automaticamente. Contate o serviço ou farmacêutico e leve a embalagem se houver avaliação.",
+          "Procure atendimento por desmaio, falta de ar, inchaço de face, chiado, sonolência intensa, sangramento importante ou outra reação relevante após medicamento; não tente corrigir com dose extra."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "CIV pequena e sem repercussão geralmente não exige dieta, fórmula especial ou restrição de líquidos. Mantenha leite e alimentação adequados à idade, salvo plano individual da cardiologia ou nutrição.",
+          "Em bebês, observe mamada muito longa, respiração rápida, suor, pausas frequentes, cansaço, vômitos repetidos, menor volume ingerido e baixo ganho de peso. Esses sinais podem indicar excesso de fluxo pulmonar e precisam de reavaliação.",
+          "Não concentre fórmula, acrescente suplemento, altere sal ou reduza água por conta própria. Erro de concentração pode causar desidratação ou sobrecarga e não trata o defeito.",
+          "Fórmula hipercalórica, leite fortificado ou sonda podem ser úteis em alguns lactentes sintomáticos, mas exigem receita e treinamento. Siga exatamente concentração, volume, ritmo e higiene fornecidos pela equipe.",
+          "Crianças maiores podem seguir alimentação variada. Evite energéticos e excesso de cafeína, sobretudo se houver palpitações; nenhum alimento ou vitamina fecha a CIV.",
+          "Não force alimento ou líquido durante dificuldade respiratória importante, cianose, engasgo, sonolência ou rebaixamento de consciência. Posicione com segurança e procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil em repouso, costelas marcando, gemência, incapacidade de mamar ou falar por falta de ar, lábios/pele azulados ou acinzentados, palidez fria ou criança difícil de acordar. Em situação grave, acione o SAMU 192.",
+          "Bebê que não consegue completar mamadas, sua muito, vomita repetidamente, faz bem menos xixi, fica muito sonolento ou apresenta perda/estagnação de peso junto de piora respiratória ou abatimento.",
+          "Desmaio, dor forte no peito, palpitação rápida ou irregular que não passa e vem com falta de ar, palidez, tontura ou alteração da consciência.",
+          "Inchaço que aumenta rapidamente, barriga muito distendida, piora súbita da respiração, pouca urina ou extremidades frias, especialmente em criança em tratamento para insuficiência cardíaca.",
+          "Fraqueza súbita de um lado, boca torta, fala ou visão alterada, convulsão, confusão ou dor de cabeça abrupta e muito intensa. Acione o SAMU 192 e anote a hora de início.",
+          "Após cirurgia ou cateterismo: sangramento que não para com a compressão ensinada, membro frio/pálido/doloroso, falta de ar nova, febre com prostração, abertura ou secreção na ferida, dor crescente, desmaio ou piora rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "CIV recém-suspeita ou vista no ecocardiograma deve ser avaliada pela cardiologia pediátrica para confirmar localização, tamanho, fluxo, repercussão e lesões associadas; sopro e intensidade do som não definem o tamanho sozinhos.",
+          "Em CIV muscular pequena, isolada e criança bem, a orientação ACC admite acompanhamento clínico a cada 3–5 anos até o sopro desaparecer ou alta compartilhada entre família, pediatra e cardiologista. Esse plano não se aplica automaticamente a outros subtipos.",
+          "CIV não muscular não reparada deve manter cardiologia e ecocardiograma, em geral a cada 1–2 anos quando pequena e sem dilatação, para vigiar valva aórtica, crescimento de tecido obstrutivo e câmaras cardíacas.",
+          "Lactentes com CIV moderada ou grande precisam de revisão mais próxima. A orientação ACC propõe avaliação a cada 2–4 semanas abaixo de 3 meses e a cada 3–6 meses depois disso, ajustada à respiração, mamadas, crescimento e ecocardiograma.",
+          "Antecipe a consulta se houver taquipneia, cansaço ou suor nas mamadas, baixo ganho de peso, infecções respiratórias repetidas, falta de ar ao esforço, palpitações, dor torácica, desmaio, inchaço ou nova alteração no sopro. Sintomas persistentes ou dilatação progressiva podem exigir discussão de fechamento.",
+          "Após reparo, siga primeiro o protocolo do centro. Com mais de um ano do procedimento, sem defeito ou apenas resíduo pequeno e sem complicações, o seguimento pode ser espaçado para cada 2–5 anos; resíduo moderado, disfunção, insuficiência aórtica, pressão pulmonar elevada ou sintomas exigem visitas mais próximas e transição especializada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Defeitos moderados ou grandes podem começar a causar sintomas nas primeiras semanas quando cai a resistência dos vasos pulmonares. Observe taquipneia, suor, pausas e fadiga nas mamadas, palidez, pouca urina e peso. ACC propõe revisão a cada 2–4 semanas para CIV moderada/grande isolada; piora exige atendimento antes.",
+        "3a5m": "Acompanhe respiração, duração das mamadas, suor, vômitos, urina e curva de peso. Em CIV moderada/grande, o retorno pode ocorrer a cada 3–6 meses conforme estabilidade, ou antes se houver sintomas; não altere fórmula ou remédio sem a equipe.",
+        "6a11m": "Se persistirem sintomas ou dilatação do lado esquerdo após 6 meses, a cardiologia pode discutir fechamento conforme número, local e tamanho dos defeitos. Pequena CIV muscular pode estar diminuindo; CIV não muscular continua exigindo vigilância própria.",
+        "1a": "Acompanhe crescimento, desenvolvimento, respiração e disposição para brincar. Confirme subtipo e repercussão antes de espaçar retornos; ausência de sintomas não exclui dilatação ou complicação valvar em defeitos não musculares.",
+        "2a5": "Muitas CIV musculares pequenas já diminuíram ou fecharam. Mantenha o plano até confirmação; defeitos não musculares precisam observar valva aórtica e possíveis obstruções. Criança estável geralmente frequenta escola e brinca conforme liberação.",
+        "6a11": "Observe tolerância a corrida e educação física, falta de ar, palpitações, dor torácica ou desmaio. CIV pequena ou reparada sem complicações geralmente permite atividade normal, mas insuficiência aórtica, pressão pulmonar elevada, arritmia ou disfunção exigem plano individual.",
+        "12a17": "O adolescente deve conhecer subtipo, reparo, resíduo, medicamentos e sinais de alerta. Revise esporte competitivo, energéticos, nicotina, adesão e transição para cardiologia congênita do adulto, especialmente após reparo ou em CIV não muscular.",
+        "unknown": "Antes de personalizar, confirmar idade, subtipo, tamanho, fluxo, câmaras esquerdas, pressão pulmonar, valva aórtica, obstruções, sintomas, reparo/resíduo, medicamentos e nutrição. Sem isso, não definir alta, retorno, dieta, esporte, antibiótico ou procedimento."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2208_1",
+          "name": "Outpatient Management of Isolated Left-to-Right Shunt Lesions in Pediatric Patients: 2026 ACC Concise Clinical Guidance",
+          "url": "https://www.jacc.org/doi/full/10.1016/j.jacc.2025.11.020"
+        },
+        {
+          "id": "pais237_op2208_2",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2208_3",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2208_4",
+          "name": "Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2208_5",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2209",
+      "specific": false,
+      "key": "pdf1500_250",
+      "label": "Comunicação interventricular agudo",
+      "entity": "Comunicação interventricular congênita com possível apresentação ou descompensação aguda; 'agudo' não define subtipo anatômico independente",
+      "assessment": "{\"classification\":\"VALID_BASE_CONGENITAL_DISEASE_WITH_UNSUPPORTED_ACUTE_ENTITY_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular\",\"normalized_key\":\"pdf1500_249\",\"qualifier\":\"agudo\",\"qualifier_assessment\":\"'Agudo' pode descrever a instalação de sintomas ou uma descompensação, mas não a anatomia da CIV. Em português, a concordância seria 'comunicação interventricular aguda'; mesmo corrigido, o rótulo continua inadequado como subtipo porque a comunicação é congênita. A urgência deve ser atribuída aos sinais clínicos e ao estado hemodinâmico, não à palavra isolada.\",\"assessment\":\"CIV pequena pode ser assintomática e fechar espontaneamente. CIV moderada ou grande pode produzir hiperfluxo pulmonar, taquipneia, dificuldade alimentar, baixo ganho de peso e dilatação das câmaras esquerdas; sintomas muitas vezes aparecem semanas após o nascimento. Defeitos não musculares exigem vigilância por risco de prolapso/insuficiência aórtica, obstruções e outras complicações. Congestão pulmonar, hipoperfusão ou choque constituem apresentação aguda de insuficiência cardíaca e exigem avaliação hospitalar, sem provar que a CIV é a única causa.\",\"reconciliation\":{\"base_key\":\"pdf1500_249\",\"base_label\":\"Comunicação interventricular\",\"relationship\":\"ACUTE_PRESENTATION_OR_DECOMPENSATION_NOT_A_SEPARATE_CONGENITAL_DEFECT\",\"content_rule\":\"Usar a orientação da CIV confirmada e acrescentar precedência de emergência para insuficiência cardíaca, baixo débito, arritmia, cianose, infecção ou complicação pós-reparo. Não gerar história natural, medicamento, dose ou procedimento próprios para 'CIV aguda'.\",\"difference_retained\":\"O nome original permanece pesquisável e funciona somente como sinal para confirmar se houve quadro agudo documentado. Não conta como segunda entidade clínica.\"},\"not_automatically_equivalent_to\":[\"CIV adquirida de início súbito\",\"Insuficiência cardíaca aguda confirmada\",\"Choque cardiogênico\",\"Edema pulmonar\",\"CIV grande ou não restritiva\",\"Hipertensão pulmonar\",\"Síndrome de Eisenmenger\",\"Endocardite infecciosa\",\"Arritmia como causa da piora\",\"Shunt residual ou deiscência após reparo\",\"Indicação automática de medicamento, internação, cateterismo ou cirurgia\",\"Quadro seguro para observação domiciliar\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente. O período de maior risco de hiperfluxo e insuficiência em CIV moderada/grande costuma ser a lactância, quando a resistência pulmonar diminui. Prematuridade, síndrome genética, doença pulmonar, anemia, infecção, outras cardiopatias e estado pós-reparo alteram a apresentação. Crianças maiores exigem vigilância de valva aórtica, obstruções, ritmo, pressão pulmonar e lesões residuais conforme o subtipo.\",\"critical_context_to_confirm\":[\"Ecocardiograma confirmando CIV verdadeira, localização, tamanho, número de defeitos e relação com valvas\",\"Direção e magnitude do shunt, gradiente, pressão pulmonar e se o defeito é restritivo ou não restritivo\",\"Dilatação das câmaras esquerdas, função dos ventrículos e sinais de congestão ou baixo débito\",\"Prolapso ou insuficiência da valva aórtica, obstrução subaórtica, ventrículo direito de dupla câmara e outras lesões\",\"Idade, prematuridade, síndrome genética, doença pulmonar, anemia, febre, infecção e crescimento\",\"Início e progressão de taquipneia, esforço respiratório, sudorese, dificuldade alimentar, pouca urina, edema e alteração de consciência\",\"Palpitação, dor torácica, síncope, cianose ou sinais neurológicos\",\"Cirurgia ou dispositivo prévios, shunt residual, ferida, acesso vascular, medicamentos e plano do centro\"],\"counting_rule\":\"Preservar pdf1500_250 como termo cadastral inadequado, reconciliar com pdf1500_249 e contar zero entidade clínica específica adicional. Sintoma ou insuficiência cardíaca aguda, se confirmados, devem ser registrados como apresentação/complicação, não como nova CIV.\",\"inferences\":[\"A nomenclatura IPCCC define CIV como malformação congênita e classifica fenótipos por localização e bordas; a ausência de categoria aguda sustenta rejeitar o qualificador como subtipo.\",\"AHA, CDC e ACC descrevem aparecimento tardio ou piora de sintomas em lactentes com defeitos maiores sem sugerir que a CIV surgiu naquele momento.\",\"A SBP diferencia insuficiência cardíaca aguda — congestão ou baixo débito em minutos/horas — da cardiopatia estrutural que a causa; portanto, urgência clínica deve prevalecer sem confundir síndrome aguda com entidade anatômica.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A comunicação interventricular é congênita; ela não surgiu de repente. 'Agudo' pode indicar piora rápida dos sintomas e, se houver falta de ar, dificuldade para mamar, prostração ou pouca urina, a criança precisa de avaliação, não de observação prolongada em casa.",
+          "Quando a criança está estável e já foi avaliada, siga o plano da cardiologia e compare respiração, mamadas, peso, disposição e urina com o padrão habitual.",
+          "Leve às consultas o ecocardiograma, relatórios de cirurgia/cateterismo e lista de medicamentos. O nome sozinho não informa tamanho, localização, fluxo, pressão pulmonar ou repercussão.",
+          "Observe taquipneia, afundamento entre as costelas, suor e pausas nas mamadas, baixo ganho de peso, inchaço, palpitação, dor torácica, tontura e desmaio. Registre início, duração e progressão.",
+          "Atividade habitual costuma ser possível em defeito pequeno ou reparado sem sequela, mas esforço e esporte devem seguir liberação individual. Durante piora aguda, interrompa atividade e procure orientação.",
+          "Mantenha higiene bucal e acompanhamento odontológico. Antibiótico preventivo não é automático para toda CIV; confirme com cardiologia, sobretudo após reparo ou se houver defeito residual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Em criança estável, cumpra consultas, pesagens e exames no prazo definido. Em criança sintomática, não espere o retorno programado para comunicar a piora.",
+          "Não tente reduzir o fluxo com posição, massagem, compressão do tórax, exercício respiratório ou restrição improvisada de líquidos. Essas medidas não fecham a CIV e podem atrasar atendimento.",
+          "Conte a respiração por um minuto quando a criança estiver calma somente se a equipe ensinou; tendência de aumento associada a esforço, suor ou cansaço é mais importante que uma medida isolada.",
+          "A escola ou creche deve conhecer contatos, sintomas de alerta e restrições realmente prescritas. Não excluir automaticamente a criança de atividades apenas pelo rótulo 'agudo'.",
+          "Após cirurgia ou cateterismo, siga as instruções do centro para ferida, punção, banho e atividade; não antecipe esforço porque a criança parece bem.",
+          "Se houver dificuldade respiratória ou alteração de consciência, mantenha a criança acompanhada na posição mais confortável, acione emergência e não force alimento ou líquido."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha a CIV. Remédios podem aliviar congestão ou apoiar o coração enquanto a equipe avalia reparo, mas dependem do estado clínico e exigem prescrição individual.",
+          "Não iniciar, suspender, repetir ou aumentar diurético, vasodilatador, inotrópico, antiarrítmico ou outro produto porque a ficha diz 'agudo'. Descompensação exige avaliação hemodinâmica.",
+          "Use somente medicamentos prescritos para esta criança, na apresentação e horários informados. Esta orientação não define fármaco, dose, intervalo ou duração.",
+          "Se uma dose for esquecida, vomitada ou dada duas vezes, contate o serviço ou farmacêutico; não compense automaticamente.",
+          "Não ofereça descongestionante, estimulante, energético, suplemento ou medicamento de adulto sem conferir com a equipe, principalmente se houver taquicardia ou insuficiência cardíaca.",
+          "Desmaio, falta de ar, inchaço de face, sangramento importante, batimento muito rápido/irregular ou sonolência acentuada após medicamento requer atendimento urgente; leve a embalagem."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno ou fórmula corretamente preparada e alimentação adequada à idade conforme tolerado, salvo plano individual da cardiologia/nutrição.",
+          "Em lactentes com CIV relevante, mamadas menores e organizadas podem ser prescritas pela equipe, mas não mude volume, frequência ou densidade calórica por conta própria.",
+          "Pausas frequentes, suor, respiração rápida, cansaço, engasgos ou incapacidade de completar a mamada exigem reavaliação. Não force alimentação em criança com falta de ar ou sonolência.",
+          "Acompanhe peso e urina. Baixo ganho, perda de peso, menos fraldas molhadas, vômitos repetidos ou inchaço devem ser comunicados antes do retorno.",
+          "Não concentre fórmula, adicione suplemento, sal ou açúcar nem restrinja água sem prescrição. Isso pode causar desidratação, excesso de solutos ou sobrecarga.",
+          "Sonda ou fórmula hipercalórica são estratégias clínicas para algumas crianças, não medidas automáticas para qualquer CIV ou para o adjetivo 'agudo'."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou trabalhosa em repouso, afundamento das costelas, gemência, incapacidade de mamar/falar por falta de ar, lábios/pele azulados ou acinzentados.",
+          "Criança muito pálida, fria, suada, mole, confusa, difícil de acordar, com pulsos fracos, pouca urina ou desmaio — possíveis sinais de baixo débito ou choque.",
+          "Palpitação rápida/irregular com falta de ar ou má aparência, dor forte no peito, desmaio no esforço ou convulsão.",
+          "Febre com prostração, dificuldade respiratória ou piora rápida em criança com cardiopatia, pois infecção pode precipitar descompensação e precisa de diagnóstico próprio.",
+          "Após cirurgia, há sangramento, abertura, pus, dor crescente ou vermelhidão progressiva da ferida, febre com prostração ou falta de ar nova.",
+          "Após cateterismo, o local sangra e não para com a compressão ensinada, aumenta rapidamente, ou a perna fica fria, pálida, arroxeada, dormente ou muito dolorosa."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se 'agudo' veio de laudo ou alta, peça esclarecimento: confirmar se descrevia insuficiência cardíaca, congestão, baixo débito, arritmia, infecção, complicação pós-reparo ou apenas erro de cadastro.",
+          "Lactente com CIV moderada/grande deve ter seguimento mais próximo durante a queda da resistência pulmonar. Taquipneia, dificuldade alimentar ou baixo ganho de peso antecipam o retorno e podem exigir encaminhamento para intervenção.",
+          "Crianças com sintomas ou dilatação persistente do coração esquerdo devem ser encaminhadas para avaliação de fechamento; ausência de melhora com o plano clínico não deve prolongar espera indefinidamente.",
+          "CIV não muscular não reparada requer vigilância cardiológica periódica, em geral a cada 1 a 2 anos com ecocardiograma, por risco de valva aórtica e obstruções; o intervalo diminui se houver sintoma ou alteração.",
+          "CIV muscular pequena, assintomática e hemodinamicamente insignificante pode ter seguimento espaçado ou alta compartilhada, mas esse caminho só se aplica depois de confirmar estabilidade — não pelo rótulo 'agudo'.",
+          "Após reparo, siga primeiro o protocolo do centro. Depois de mais de um ano, sem lesão relevante ou apenas resíduo pequeno e sem mudança clínica, o ACC admite seguimento a cada 2 a 5 anos; lesão residual moderada exige retorno mais próximo."
+        ]
+      },
+      "ageMap": {
+        "u3m": "É a faixa de maior atenção para CIV moderada/grande: o bebê pode parecer bem inicialmente e desenvolver taquipneia, suor, cansaço e baixo ganho de peso nas semanas seguintes com a queda da resistência pulmonar. Incapacidade de mamar, palidez/frialdade, pouca urina ou sonolência exige emergência.",
+        "3a5m": "Observe tempo e esforço das mamadas, respiração, peso, suor e urina. Sintomas ou dilatação esquerda persistente justificam avaliação de intervenção; não apenas aumentar a alimentação ou repetir remédio em casa.",
+        "6a11m": "Acompanhe crescimento, respiração e disposição para brincar. Reavalie defeito ainda significativo e complicações; mantenha atenção a infecções que precipitam piora.",
+        "1a": "Criança pequena pode expressar baixo débito por irritabilidade, sonolência, recusa alimentar ou menor atividade. Ausência de queixa verbal não reduz a urgência dos sinais objetivos.",
+        "2a5": "CIV grande persistente ou com repercussão não deve ser mantida sem plano definido. Observe cansaço, falta de ar, crescimento e tolerância ao brincar; escola deve conhecer alertas e restrições individualizadas.",
+        "6a11": "Em CIV não muscular, manter vigilância de valva aórtica, obstruções e dilatação. Dor torácica, palpitação, síncope ou queda de rendimento precisam de avaliação antes de retornar ao esporte.",
+        "12a17": "Revisar lesão residual, ritmo, valva aórtica, pressão pulmonar, cirurgia/dispositivo e transição para cardiologia congênita do adulto. Evitar energéticos e estimulantes, sobretudo se houver palpitação.",
+        "unknown": "Confirmar idade, subtipo, ecocardiograma, shunt, câmaras, pressão pulmonar, sintomas, comorbidades e reparo. Sem esses dados, 'agudo' não permite definir alta, retorno, medicamento, alimentação ou procedimento."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2209_1",
+          "name": "Classification of Ventricular Septal Defects for the Eleventh Iteration of the International Classification of Diseases — Striving for Consensus",
+          "url": "https://ipccc.net/wp-content/uploads/2024/01/2018-11-ANNALS-Lopez-2018-VSD-Classification.pdf"
+        },
+        {
+          "id": "pais237_op2209_2",
+          "name": "Clinical Practice Algorithm for the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2023/05/30/10/47/Clinical-Practice-Algorithm-For-the-Follow-Up-of-Unrepaired-and-Repaired-Ventricular-Septal-Defects"
+        },
+        {
+          "id": "pais237_op2209_3",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2209_4",
+          "name": "Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2209_5",
+          "name": "Insuficiência Cardíaca na Criança — Guia Prático de Atualização nº 157",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24449e-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        },
+        {
+          "id": "pais237_op2209_6",
+          "name": "Congenital heart disease — septal defects factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/congenital-heart-disease-septal-defects"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2210",
+      "specific": false,
+      "key": "pdf1500_251",
+      "label": "Comunicação interventricular bilateral",
+      "entity": "Comunicação interventricular congênita com qualificador de lateralidade inaplicável; anatomia, número de defeitos e repercussão hemodinâmica precisam ser recuperados do ecocardiograma",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_INVALID_LATERALITY_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular (CIV; defeito do septo ventricular), anatomia a confirmar\",\"normalized_key\":\"pdf1500_249\",\"invalid_qualifier\":\"bilateral\",\"assessment\":\"A CIV é classificada clinicamente por localização/anatomia — muscular ou não muscular, incluindo perimembranosa, via de entrada e via de saída —, tamanho, número e repercussão. O septo ventricular é a parede entre os dois ventrículos; uma abertura atravessa essa parede e já envolve os lados esquerdo e direito, de modo que lateralidade unilateral/bilateral não descreve entidade diferente. Fontes oficiais reconhecem um ou mais orifícios e CIV muscular múltipla, mas nada no rótulo permite converter ‘bilateral’ em ‘duas’, ‘múltiplas’ ou ‘queijo suíço’.\",\"reconciliation\":{\"relationship\":\"INVALID_LATERALITY_ALIAS_OF_pdf1500_249_NOT_SEPARATE_DISEASE\",\"canonical_key\":\"pdf1500_249\",\"canonical_label\":\"Comunicação interventricular\",\"content_rule\":\"Usar orientação segura do guarda-chuva CIV, mantendo a anatomia indefinida. Prazos de CIV muscular pequena, CIV não muscular, CIV moderada/grande, múltipla ou reparada somente após confirmação ecocardiográfica.\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\",\"difference_retained\":\"O rótulo original permanece pesquisável como erro de lateralidade até correção documental; não representa gravidade, duplicidade nem circulação biventricular.\"},\"not_automatically_equivalent_to\":[\"Duas CIVs ou CIVs múltiplas\",\"CIV muscular múltipla do tipo ‘queijo suíço’\",\"CIV perimembranosa, de via de entrada ou de via de saída\",\"CIV pequena, moderada, grande ou hemodinamicamente significativa\",\"Defeito do septo atrioventricular, dupla via de saída do ventrículo direito ou cardiopatia univentricular\",\"Shunt esquerda-direita, bidirecional ou direita-esquerda já documentado\",\"Insuficiência cardíaca, hipertensão pulmonar ou síndrome de Eisenmenger\",\"Indicação automática de alta, medicamento, sonda, fechamento por cateter, cirurgia ou bandagem pulmonar\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente. CIV pequena pode ser assintomática, e muitas CIVs musculares fecham espontaneamente. CIV moderada/grande pode produzir hiperfluxo pulmonar com taquipneia, fadiga às mamadas e baixo ganho de peso nas primeiras semanas/meses, além de dilatação cardíaca. CIV não muscular exige vigilância de prolapso/regurgitação aórtica e outras complicações. Direção direita-esquerda após o período neonatal levanta suspeita de hipertensão pulmonar e precisa de avaliação especializada. O plano muda após reparo e na transição ao cuidado adulto.\",\"critical_context_to_confirm\":[\"Ecocardiograma confirmando CIV, localização e relação com valvas e vias de saída\",\"Muscular versus não muscular; perimembranosa, entrada, saída/conoventricular ou outra nomenclatura usada pelo centro\",\"Número real de orifícios: único, pareado ou múltiplo; não deduzir do termo bilateral\",\"Tamanho/restrição, direção e magnitude do shunt e pressões de ventrículo direito/artéria pulmonar\",\"Dilatação de átrio/ventrículo esquerdos, função ventricular e sinais de hiperfluxo pulmonar\",\"Prolapso/regurgitação aórtica, obstrução de via de saída, membrana subaórtica e cardiopatias associadas\",\"Idade, prematuridade, síndrome genética, respiração, mamadas, crescimento, infecções, atividade e cianose\",\"Reparo prévio, material/dispositivo, shunt residual, medicamentos e plano de retorno\"],\"counting_rule\":\"Manter pdf1500_251 para auditoria e busca, resolver para pdf1500_249 e contar zero nova doença, subtipo ou ficha específica. ‘Bilateral’ não prova multiplicidade, anatomia ou maior gravidade.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Comunicação interventricular (CIV) é uma abertura na parede entre os dois ventrículos. Como essa parede já separa os lados esquerdo e direito, a palavra ‘bilateral’ não descreve um tipo válido nem diz que existem dois orifícios.",
+          "Peça o laudo do ecocardiograma para saber localização, tamanho, número real de comunicações, direção do fluxo, pressão pulmonar, repercussão no coração e relação com as válvulas. O nome cadastral não substitui esses dados.",
+          "Observe respiração, mamadas, suor, ganho de peso, disposição, cansaço ao brincar/subir escadas, palpitação, dor no peito, tontura, desmaio e cor dos lábios. Anote mudanças e leve-as ao retorno.",
+          "Muitas CIVs pequenas não causam sintomas e algumas fecham espontaneamente, sobretudo musculares. Mesmo assim, não declare fechamento ou alta sem confirmação da cardiologia, porque CIVs não musculares podem exigir vigilância de válvulas e obstruções.",
+          "Se houve cirurgia ou cateterismo, leve resumo da alta, laudos, cartão do dispositivo e lista de medicamentos. Siga curativo, atividade e retorno do centro; ‘bilateral’ não informa se há shunt residual.",
+          "A CIV é congênita, não contagiosa e não foi causada por alimento, brincadeira ou atitude da família. Escola e cuidadores devem receber apenas as restrições e sinais definidos pela equipe."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra consultas e ecocardiogramas conforme anatomia real. CIV muscular pequena pode ter seguimento simples; CIV não muscular ou com repercussão requer vigilância diferente. Não escolha intervalo pelo termo ‘bilateral’.",
+          "Atividade física costuma ser possível em CIV pequena ou reparada sem complicações. Hipertensão pulmonar, disfunção cardíaca, arritmia, shunt residual ou período pós-procedimento exigem liberação individual.",
+          "Interrompa esforço se houver falta de ar fora do esperado, dor no peito, palpitação sustentada, tontura, desmaio ou coloração azulada; procure avaliação antes de retomar atividade intensa.",
+          "Mantenha vacinas, higiene das mãos e evite fumaça. Infecção respiratória pode aumentar o esforço de lactentes com hiperfluxo, mas essas medidas não fecham a CIV nem substituem tratamento indicado.",
+          "Mantenha higiene bucal e acompanhamento odontológico. Antibiótico antes de procedimento não é automático para toda CIV; o cardiologista define conforme reparo, material e defeito residual.",
+          "Não use oxímetro ou relógio doméstico para classificar tamanho, pressão pulmonar ou segurança. Saturação normal não mede hiperfluxo; cianose ou leitura persistentemente anormal com sintomas exige avaliação."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha uma CIV nem corrige a palavra ‘bilateral’. Quando há hiperfluxo/insuficiência cardíaca, a equipe pode usar remédios para controlar sintomas enquanto define alimentação e intervenção.",
+          "Não inicie diurético, vasodilatador, digoxina, remédio para pressão pulmonar, antiarrítmico, antiagregante, anticoagulante, antibiótico ou oxigênio por conta própria.",
+          "Dê somente o medicamento, apresentação e horário prescritos para a criança. Não dobre dose esquecida, não repita automaticamente dose vomitada e não suspenda remédio cardíaco por melhora aparente.",
+          "Após fechamento por dispositivo, pode haver protocolo temporário para prevenir coágulos e endocardite. Siga o centro e avise dentista/cirurgião; não reutilize receita de outra criança ou de procedimento anterior.",
+          "Descongestionantes, estimulantes, energéticos, fitoterápicos e suplementos podem alterar frequência, pressão ou hidratação. Confirme antes, sobretudo se houver insuficiência cardíaca, arritmia ou hipertensão pulmonar.",
+          "Pouca urina, vômitos persistentes, desmaio, piora da respiração, edema, sangramento, manchas roxas ou reação alérgica durante tratamento exige contato rápido; falta de ar, inchaço de face/língua ou desmaio é emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "CIV pequena e assintomática não exige dieta, fórmula ou restrição de líquidos. Ofereça alimentação adequada à idade e acompanhe peso e comprimento/altura nas consultas.",
+          "Em lactente, mamada longa com respiração rápida, suor, pausas, cansaço ou baixo ganho de peso pode indicar hiperfluxo/insuficiência cardíaca. Faça pausas e procure avaliação; não force volume.",
+          "Fórmula/calorias mais concentradas ou alimentação por sonda podem ser indicadas em casos selecionados, mas exigem prescrição e acompanhamento. Não concentre fórmula, acrescente pó/suplemento ou reduza água por conta própria.",
+          "Não restrinja nem ofereça excesso de líquidos/sal sem plano. A necessidade muda com função cardíaca/renal, diurético, febre e alimentação; alterações improvisadas podem causar desidratação ou congestão.",
+          "Após cirurgia ou cateterismo, siga instruções de hidratação, alimentação e medicamentos. Vômitos repetidos, barriga muito inchada, recusa persistente ou pouca urina precisa de contato antecipado.",
+          "Se houver falta de ar importante, cianose, desmaio, confusão ou dificuldade para acordar, não force alimento, líquido ou medicamento pela boca; procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil em repouso, afundamento entre as costelas, gemência, incapacidade de falar/mamar, lábios ou pele azulados/cinzentos, ou criança difícil de acordar exige emergência; acione SAMU 192 se instável.",
+          "Bebê incapaz de completar mamadas, com suor frio, palidez, prostração, menos fraldas molhadas ou piora rápida precisa de avaliação imediata por insuficiência cardíaca, infecção ou outra descompensação.",
+          "Desmaio durante esforço, dor forte no peito, palpitação rápida ou irregular persistente com falta de ar/tontura, confusão ou convulsão requer atendimento imediato.",
+          "Cianose nova ou progressiva em criança com CIV conhecida não deve ser explicada pelo termo ‘bilateral’; pode indicar hipertensão pulmonar, mudança do shunt ou cardiopatia associada e precisa de urgência.",
+          "Após cateterismo: sangramento que não para conforme orientação, inchaço crescente, dor intensa ou perna/pé frio, pálido, arroxeado ou dormente exige retorno imediato ao serviço.",
+          "Após cirurgia/dispositivo: falta de ar nova, desmaio, dor torácica intensa, febre com prostração, secreção/vermelhidão progressiva da ferida ou piora rápida exige contato urgente ou pronto atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o registro diz apenas ‘Comunicação interventricular bilateral’, marque cardiologia pediátrica para corrigir a descrição e revisar o ecocardiograma. É preciso documentar localização, número real, tamanho, shunt, câmaras, pressão pulmonar, válvulas e lesões associadas.",
+          "Em lactente com CIV moderada/grande ou múltipla confirmada, retorno pode ser frequente para peso, respiração e sinais de hiperfluxo; o algoritmo ACC usa intervalos de semanas a meses conforme idade e quadro. O prazo só pode ser escolhido após confirmar anatomia e repercussão.",
+          "CIV muscular pequena, assintomática e isolada pode ter seguimento espaçado e, por decisão compartilhada, eventual alta. CIV não muscular geralmente mantém vigilância periódica com ecocardiograma por risco de prolapso/regurgitação aórtica e outras complicações.",
+          "Antecipe retorno diante de mamada pior, taquipneia, suor, baixo ganho de peso, infecções respiratórias repetidas, queda de tolerância, palpitação, dor torácica, desmaio, edema ou cianose.",
+          "Após fechamento, cumpra controles do centro. Em geral, os primeiros meses/ano verificam função, shunt residual, válvula aórtica e ritmo; seguimento pode ser espaçado se estável, mas residual moderado ou mudança clínica exige avaliação mais próxima.",
+          "Na adolescência, revise esporte, medicamentos, saúde bucal, gestação futura e transição para cardiologia de cardiopatias congênitas quando indicada. Entregue resumo correto da anatomia e do reparo, sem manter ‘bilateral’ como único diagnóstico."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nos primeiros dias a resistência pulmonar pode esconder sintomas; taquipneia, suor/fadiga às mamadas e baixo ganho podem aparecer nas semanas seguintes. Cianose importante, prostração ou mamada impossível exige urgência e busca de cardiopatia associada.",
+        "3a5m": "Faixa em que CIV moderada/grande pode manifestar hiperfluxo. Acompanhe respiração, mamadas, suor, peso e fraldas. ‘Bilateral’ não informa multiplicidade; confirme número e localização no ecocardiograma.",
+        "6a11m": "Observe crescimento, alimentação, infecções respiratórias e desenvolvimento motor. Persistência de sintomas ou dilatação do coração pode levar à discussão de fechamento; não aumentar calorias/remédios sem plano.",
+        "1a": "A criança não descreve falta de ar ou palpitação. Note pausas, suor, irritabilidade, menor atividade, edema e crescimento. CIV não muscular precisa vigilância de válvula aórtica mesmo se o sopro parecer menor.",
+        "2a5": "Pergunte sobre cansaço ao correr, respiração, crescimento e infecções. Atividade/escola costuma ser possível conforme liberação; procedimento depende da anatomia, repercussão e complicações, não de lateralidade.",
+        "6a11": "Avalie rendimento, falta de ar, palpitação, dor torácica, tontura, desmaio e cianose. Reforce higiene bucal e ecocardiograma conforme tipo; não presumir cura apenas porque o sopro diminuiu.",
+        "12a17": "Inclua o adolescente no plano: anatomia correta, reparo, shunt residual, pressão pulmonar e limites esportivos. Discuta energéticos, tabaco/vape, saúde reprodutiva e transição de cuidado.",
+        "unknown": "Confirmar idade, localização, número, tamanho, direção do shunt, repercussão, pressão pulmonar, válvulas, sintomas e reparo. Sem isso, ‘bilateral’ não autoriza prognóstico, retorno, remédio, alta ou procedimento."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2210_1",
+          "name": "Clinical Practice Algorithm for the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2210_2",
+          "name": "CHD Clinical Practice Algorithm: Muscular, Non-Muscular and Repaired VSD",
+          "url": "https://www.acc.org/-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Latest-in-Cardiology/Articles/2023/ACPC-Birnbaum-EA.pdf"
+        },
+        {
+          "id": "pais237_op2210_3",
+          "name": "Indian guidelines for indications and timing of intervention for common congenital heart diseases: Revised and updated consensus statement",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6716301/"
+        },
+        {
+          "id": "pais237_op2210_4",
+          "name": "Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2210_5",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2210_6",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2211",
+      "specific": false,
+      "key": "pdf1500_252",
+      "label": "Comunicação interventricular crônico",
+      "entity": "Comunicação interventricular congênita; o qualificador 'crônico' pode apenas descrever persistência ao longo do tempo ou diagnóstico tardio e não define subtipo, anatomia, repercussão ou conduta",
+      "assessment": "{\"classification\":\"VALID_BASE_DISEASE_WITH_UNSUPPORTED_DURATION_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular (CIV) congênita; persistência e repercussão a documentar\",\"normalized_key\":\"pdf1500_249\",\"qualifier\":\"crônico\",\"qualifier_assessment\":\"É descritor temporal inespecífico, não subtipo reconhecido de CIV. Pode refletir lesão não reparada que persistiu, diagnóstico tardio ou uso administrativo do termo, mas não permite inferir anatomia, tamanho, fluxo, sintomas, pressão pulmonar, complicações ou estado pós-reparo.\",\"assessment\":\"CIV é uma abertura congênita no septo entre os ventrículos. As categorias anatômicas incluem formas musculares e não musculares, com nomenclaturas mais detalhadas conforme localização. CIV pequena pode ser assintomática e fechar espontaneamente; defeitos moderados ou grandes podem causar taquipneia, dificuldade para alimentar, baixo ganho de peso, dilatação do coração esquerdo e doença vascular pulmonar. CIV não muscular requer vigilância de prolapso/regurgitação da valva aórtica, obstrução do ventrículo direito e membrana subaórtica. Depois de cirurgia ou cateter, o seguimento depende de defeito residual e complicações. Nenhuma dessas informações é fornecida por 'crônico'.\",\"reconciliation\":{\"base_key\":\"pdf1500_249\",\"base_label\":\"Comunicação interventricular\",\"relationship\":\"DURATION_DESCRIPTOR_NOT_A_SEPARATE_CONGENITAL_ENTITY\",\"content_rule\":\"Usar a orientação canônica da CIV. Individualizar pelo subtipo anatômico, tamanho, número de defeitos, direção/magnitude do shunt, sintomas, crescimento, dilatação/função cardíaca, valva aórtica, obstruções, pressão pulmonar e estado do reparo. O tempo de persistência pode ser documentado, mas não cria ficha ou conduta autônoma.\",\"difference_retained\":\"O label permanece pesquisável para auditoria e deve acionar a pergunta sobre há quanto tempo a CIV é conhecida e se está não reparada ou residual, sem transformá-la em nova cardiopatia.\"},\"recognized_dimensions_to_document\":[\"Localização anatômica: muscular ou não muscular e descrição mais específica do laudo\",\"Tamanho e número de comunicações\",\"Direção e magnitude do fluxo através da CIV\",\"Sintomas e repercussão sobre alimentação, crescimento e tolerância ao esforço\",\"Dilatação das câmaras esquerdas e função ventricular\",\"Prolapso ou regurgitação da valva aórtica\",\"Obstrução do trato de saída do ventrículo direito ou membrana subaórtica\",\"Pressão pulmonar e sinais de doença vascular pulmonar ou inversão do fluxo\",\"CIV não reparada, fechamento espontâneo, reparo cirúrgico/percutâneo e defeito residual\"],\"not_automatically_equivalent_to\":[\"CIV grande ou hemodinamicamente importante\",\"CIV muscular ou não muscular específica\",\"CIV múltipla\",\"Insuficiência cardíaca\",\"Hipertensão pulmonar ou síndrome de Eisenmenger\",\"Prolapso ou insuficiência da valva aórtica\",\"Obstrução do ventrículo direito ou membrana subaórtica\",\"CIV residual depois de cirurgia ou cateter\",\"CIV adquirida após trauma, infarto ou infecção\",\"Indicação automática de medicamento, dieta, restrição de atividade, cateterismo ou cirurgia\"],\"pediatric_scope\":\"Abrange recém-nascidos, lactentes, crianças e adolescentes com o label cadastral. Os sintomas de uma CIV relevante podem surgir nas primeiras semanas, conforme cai a resistência vascular pulmonar; defeitos pequenos podem permanecer silenciosos ou fechar. O seguimento muda substancialmente entre CIV muscular pequena, CIV não muscular, lesão com repercussão e estado pós-reparo, independentemente de o cadastro chamá-la de crônica.\",\"critical_context_to_confirm\":[\"Idade atual, idade ao diagnóstico e motivo do primeiro ecocardiograma\",\"Subtipo anatômico, localização, tamanho e número de CIVs\",\"Direção e magnitude do fluxo e relação entre pressões ventricular e pulmonar\",\"Dilatação das câmaras, função ventricular e repercussão hemodinâmica\",\"Valva aórtica, trato de saída do ventrículo direito e região subaórtica\",\"Respiração, mamadas, ganho de peso, infecções respiratórias e tolerância ao esforço\",\"Cianose, saturação, palpitação, dor torácica, tontura, desmaio ou inchaço\",\"Fechamento espontâneo, cirurgia ou cateter prévios e presença/tamanho de defeito residual\",\"Outras cardiopatias, síndromes, prematuridade e doenças pulmonares\",\"Medicamentos em uso, orientação de atividade, odontologia e data do próximo retorno\"],\"counting_rule\":\"Preservar pdf1500_252 e o label original para auditoria, reconciliar com pdf1500_249 e contar zero nova entidade e zero nova ficha clínica específica. Persistência temporal pode constar no histórico da mesma CIV; defeito residual deve ser registrado como estado pós-reparo, não como 'CIV crônica' independente.\",\"inference\":\"A classificação é conservadora e deriva da ausência de categoria 'crônica' nas taxonomias e algoritmos clínicos consultados. As fontes organizam decisão e seguimento por anatomia, repercussão, complicações e reparo. Portanto, duração sozinha não sustenta entidade ou conduta adicional.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "'Comunicação interventricular crônico' não é um diagnóstico completo. Pergunte à cardiologia qual é a localização, o tamanho, a direção do fluxo, a repercussão e se a CIV está aberta, fechou espontaneamente, foi reparada ou deixou comunicação residual.",
+          "Guarde laudos de ecocardiograma, relatórios de cirurgia ou cateterismo, alta e lista atual de medicamentos. Compare exames seriados; a palavra 'crônico' isolada não mostra se o defeito está estável.",
+          "Observe respiração, duração e pausas das mamadas, suor, cor, ganho de peso, disposição, tolerância a correr/subir escadas, palpitação, dor no peito, tontura, desmaio e inchaço. Registre início e progressão para o retorno.",
+          "Uma CIV pequena ou reparada sem complicações costuma permitir atividade habitual. Não proíba toda brincadeira nem libere esporte competitivo apenas pelo label; siga a avaliação individual, sobretudo se houver pressão pulmonar alta, arritmia, disfunção ou sintomas.",
+          "Mantenha boa higiene bucal e consultas odontológicas. Informe ao dentista a cardiopatia e eventual material de reparo; antibiótico preventivo não é automático e deve ser confirmado pela equipe.",
+          "CIV não é contagiosa. Escola e cuidadores devem saber os sinais de piora, os remédios realmente prescritos e as limitações individualizadas, sem tratar a criança como frágil apenas porque a condição é antiga."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Compareça às consultas e aos ecocardiogramas indicados. Eles avaliam tamanho/localização, fluxo, dilatação cardíaca, valva aórtica, obstruções e pressão pulmonar — informações que o adjetivo 'crônico' não fornece.",
+          "Não existe posição, massagem, chá, suplemento ou exercício que feche uma CIV. Também não teste a criança com esforço excessivo para saber se o coração 'aguenta'.",
+          "Se a equipe pediu controle de peso, anote sempre em condições parecidas e leve a curva ao retorno. Peso que estagna, mamada cansativa ou respiração rápida merece contato antecipado; um número isolado não define insuficiência cardíaca.",
+          "Oxímetro e relógio domésticos podem falhar e não medem a importância do shunt. Se foram recomendados, registre valor, sintomas e contexto; aparência azulada/cinzenta ou falta de ar importante exige avaliação mesmo com leitura aparentemente normal.",
+          "Após cirurgia ou cateter, siga o plano específico para ferida ou punção, banho, escola, colo, bicicleta e esporte. Não copie prazos de outra criança e não interrompa seguimento porque a cicatriz parece boa.",
+          "Antes de anestesia, cirurgia, viagem longa ou esporte competitivo, informe a CIV e eventual reparo. A cardiologia decide se precisa de exame recente ou cuidado adicional."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha a CIV ou acelera seu fechamento. Algumas crianças com sintomas podem receber tratamento para aliviar sobrecarga enquanto a cardiologia acompanha ou planeja intervenção; isso exige prescrição individual.",
+          "Não inicie diurético, vasodilatador, remédio para ritmo, antibiótico ou antiagregante por causa da palavra 'crônico'. O produto, a apresentação, o horário e a duração dependem do quadro e do estado do reparo.",
+          "Use apenas o que está escrito na receita atual. Não use sobra de medicamento, receita de outra criança, produto de adulto, chá ou suplemento como substituto do acompanhamento.",
+          "Não suspenda remédio porque a criança parece bem e não dobre uma dose esquecida. Se a dose foi vomitada, esquecida ou repetida, contate o serviço ou farmacêutico para orientação específica.",
+          "Descongestionantes, estimulantes, energéticos e alguns suplementos podem piorar palpitação ou interferir com tratamento. Confira antes com a equipe.",
+          "Procure atendimento se, após um medicamento, houver desmaio, dificuldade para respirar, inchaço de face, sonolência intensa, sangramento importante, urina muito reduzida ou piora rápida; leve embalagem, receita e horários usados."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Uma CIV persistente não exige dieta especial nem restrição de líquidos automaticamente. Mantenha alimentação adequada à idade, salvo plano individual da cardiologia ou nutrição.",
+          "No bebê, observe mamada demorada ou interrompida, respiração rápida, suor, palidez, cansaço, vômitos frequentes e baixo ganho de peso. Esses sinais pedem avaliação e não devem ser tratados apenas oferecendo maior volume.",
+          "Se houver dificuldade para ganhar peso, a equipe pode orientar estratégia de alimentação e calorias. Não concentre fórmula, acrescente sal, açúcar ou suplemento e não altere a frequência por conta própria.",
+          "Não limite água, leite ou outros líquidos sem prescrição. Restrição inadequada pode causar desidratação; excesso também pode ser problema em criança com insuficiência cardíaca, por isso a decisão é individual.",
+          "Durante febre, vômitos ou diarreia, observe ingestão e quantidade de urina e peça orientação mais cedo se a criança usa medicamento cardíaco. Não suspenda, repita ou ajuste remédio por conta própria.",
+          "Crianças maiores devem manter alimentação variada. Evite energéticos e excesso de cafeína, principalmente se houver palpitação; nenhum alimento fecha a CIV ou substitui o ecocardiograma."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito difícil ou muito rápida em repouso, afundamento entre as costelas, incapacidade de falar ou mamar por falta de ar, lábios/pele azulados ou acinzentados, ou criança difícil de acordar.",
+          "Bebê que não consegue completar mamadas, sua muito, respira rápido, fica pálido/cinzento, faz bem menos xixi ou se torna muito sonolento, sobretudo se a piora foi rápida.",
+          "Desmaio durante esforço, dor forte no peito, ou palpitação rápida/irregular que não passa e vem com falta de ar, palidez, tontura ou desmaio.",
+          "Fraqueza súbita de um lado, boca torta, fala diferente, convulsão, confusão ou perda súbita de visão.",
+          "Cianose nova ou pior depois dos primeiros meses de vida, queda persistente da saturação se houver plano de medida, ou cansaço intenso. Inversão do fluxo e hipertensão pulmonar não podem ser diagnosticadas em casa e precisam de avaliação urgente.",
+          "Depois de cirurgia ou cateter: sangramento que não para, ferida com pus/vermelhidão crescente, febre com prostração, dor crescente, falta de ar nova, desmaio, ou perna/pé frio, pálido, arroxeado ou muito doloroso após punção."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se 'crônico' apareceu no cadastro ou laudo e não há retorno definido, marque cardiologia pediátrica para esclarecer anatomia e repercussão. Não espere sintomas para descobrir se é CIV muscular pequena, não muscular, relevante ou residual.",
+          "Para CIV muscular pequena e sem sintomas, o algoritmo ACC admite consulta a cada 3 a 5 anos, sem ecocardiograma em toda visita, até o sopro desaparecer; a alta pode ser decidida em conjunto com a família.",
+          "Toda CIV não muscular não reparada merece cardiologia e ecocardiograma periódicos, em geral a cada 1 a 2 anos, mesmo sem sintomas, por risco de complicações como alteração da valva aórtica, obstrução do ventrículo direito ou membrana subaórtica.",
+          "Em CIV moderada/grande ou múltipla com sintomas, o algoritmo usa controle clínico e de peso a cada 2 a 4 semanas antes de 2 meses, a cada 3 a 6 meses dos 2 meses até 1 ano e a cada 6 a 12 meses depois de 1 ano; a equipe encurta conforme gravidade.",
+          "Depois de cirurgia, a referência ACC usa consulta com ecocardiograma entre 2 semanas e 3 meses e novamente dentro de 1 ano. Depois de cateter, usa retorno em torno de 1 mês e entre 6 e 12 meses, além do protocolo do centro.",
+          "Após mais de 1 ano do reparo, sem defeito residual ou apenas residual pequeno e sem preocupação, o seguimento pode ser espaçado para 2 a 5 anos. Residual moderado, sintomas, dilatação persistente, alteração da valva aórtica, disfunção ou arritmia exigem retornos mais próximos, por vezes a cada 3 a 12 meses.",
+          "Antecipe o retorno por respiração ou mamada piores, peso estagnado, queda da tolerância ao esforço, palpitação, dor torácica, tontura, desmaio, inchaço, cianose, febre pós-procedimento ou novo achado em ferida/punção."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Sintomas de CIV relevante podem surgir nas primeiras semanas, quando diminui a resistência pulmonar. Observe respiração, pausas e suor nas mamadas, palidez, peso e urina. Cianose, incapacidade de mamar ou esforço respiratório exige emergência e investigação de cardiopatia associada ou hipertensão pulmonar; não atribua tudo ao termo 'crônico'.",
+        "3a5m": "Acompanhe peso, duração das mamadas, respiração e infecções respiratórias. CIV moderada/grande sintomática costuma precisar de controles próximos; não aumente concentração da fórmula, volume ou medicamento sem plano individual.",
+        "6a11m": "Registre crescimento e tolerância a alimentação e brincadeiras. Alguns defeitos pequenos podem reduzir/fechar, mas só exame e avaliação confirmam; ausência de sintomas não dispensa o plano de CIV não muscular.",
+        "1a": "Diferencie CIV muscular pequena, que pode ter retorno mais espaçado, de CIV não muscular ou com dilatação/complicações. Observe ganho de peso, respiração e disposição e antecipe se houver perda de habilidades ou piora.",
+        "2a5": "Avalie corrida, brincadeiras, crescimento e infecções. Escola pode receber plano simples de sinais de alarme; não restringir toda atividade pela duração do diagnóstico. Após reparo, seguir cuidados e retornos do centro.",
+        "6a11": "Observe queda de rendimento, falta de ar desproporcional, palpitação, dor torácica ou desmaio. Atividade habitual costuma ser possível em CIV pequena ou reparada sem complicações, mas esporte competitivo requer liberação individual quando houver repercussão.",
+        "12a17": "O adolescente deve saber o subtipo da CIV, se houve reparo/resíduo, medicamentos e sinais de urgência. Evite energéticos, vape e automedicação, avalie sintomas no esforço e organize transição para cardiologia de cardiopatias congênitas do adulto quando indicado.",
+        "unknown": "Confirmar idade, idade ao diagnóstico, anatomia, tamanho, shunt, repercussão, pressão pulmonar, sintomas, crescimento, reparo/resíduo e medicamentos. Sem esses dados, 'crônico' não permite definir retorno, atividade, dieta, remédio ou intervenção."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2211_1",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2211_2",
+          "name": "CHD Clinical Practice Algorithm: Ventricular Septal Defects",
+          "url": "https://www.acc.org/-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Latest-in-Cardiology/Articles/2023/ACPC-Birnbaum-EA.pdf"
+        },
+        {
+          "id": "pais237_op2211_3",
+          "name": "About Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2211_4",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2211_5",
+          "name": "Congenital heart disease — septal defects factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/congenital-heart-disease-septal-defects"
+        },
+        {
+          "id": "pais237_op2211_6",
+          "name": "Ventricular septal defect — transcatheter device closure factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/ventricular-septal-defect-transcatheter-device-closure"
+        },
+        {
+          "id": "pais237_op2211_7",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2212",
+      "specific": false,
+      "key": "pdf1500_253",
+      "label": "Comunicação interventricular de origem infecciosa",
+      "entity": "Comunicação interventricular congênita; o qualificador causal 'de origem infecciosa' não é subtipo reconhecido e pode confundir o defeito congênito com endocardite/infecção concomitante ou, excepcionalmente, com perfuração septal adquirida por destruição infecciosa comprovada",
+      "assessment": "{\"classification\":\"VALID_CONGENITAL_BASE_DISEASE_WITH_FALSE_OR_AMBIGUOUS_INFECTIOUS_CAUSALITY_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular\",\"normalized_key\":\"pdf1500_249\",\"invalid_or_unsupported_qualifier\":\"de origem infecciosa\",\"assessment\":\"CDC, AHA e ACC descrevem a CIV como defeito congênito do septo ventricular, com tipos anatômicos e conduta dependente de tamanho, repercussão e reparo. Nenhuma dessas classificações reconhece 'CIV de origem infecciosa' como subtipo congênito. Diretrizes de endocardite tratam infecção endocárdica como diagnóstico separado, sustentado por contexto clínico, microbiologia e imagem. Defeitos septais podem estar entre cardiopatias associadas a endocardite, mas associação de risco não prova que a infecção causou o defeito. Um relato de caso pediátrico demonstra que destruição septal adquirida durante endocardite pode ocorrer, porém sua raridade e necessidade de documentação impedem extrapolação para este label.\",\"reconciliation\":{\"base_key\":\"pdf1500_249\",\"base_label\":\"Comunicação interventricular\",\"relationship\":\"UNSUPPORTED_INFECTIOUS_CAUSALITY_QUALIFIER_REQUIRING_SEPARATE_INFECTION_DIAGNOSIS\",\"content_rule\":\"Usar a orientação da CIV-base. Se houver suspeita ou confirmação de infecção, registrar separadamente foco, agente quando identificado, culturas, imagem, material/dispositivo, tratamento e complicações. Reservar 'CIV adquirida por endocardite' somente para perfuração septal nova diretamente demonstrada.\",\"difference_retained\":\"O label permanece pesquisável e aciona checagem de endocardite, infecção de material/ferida e rara perfuração adquirida, mas não conta como nova doença e não presume causalidade infecciosa.\"},\"not_automatically_equivalent_to\":[\"Endocardite infecciosa em criança com CIV congênita\",\"Febre, bacteremia, sepse, pneumonia ou outra infecção em criança com CIV\",\"Infecção de ferida, patch, dispositivo ou cateter\",\"CIV residual após cirurgia ou dispositivo\",\"Perfuração septal adquirida por endocardite sem demonstração de novo defeito e destruição tecidual\",\"Abscesso, fístula ou lesão valvar por endocardite\",\"Infecção materna como causa comprovada da CIV fetal\",\"Colonização, hemocultura contaminada ou febre isolada\",\"Indicação automática de antibiótico, profilaxia odontológica, internação, fechamento ou cirurgia\"],\"pediatric_scope\":\"Inclui recém-nascidos, lactentes, crianças e adolescentes com CIV suspeita, confirmada, reparada ou residual e aqueles avaliados por febre/endocardite. Recém-nascidos e lactentes podem piorar rapidamente por infecção ou repercussão de CIV grande; crianças com cardiopatia complexa, material protético, acesso venoso, imunossupressão ou cirurgia recente exigem plano individual. A rara CIV adquirida infecciosa não deve ser inferida sem prova direta.\",\"critical_context_to_confirm\":[\"Idade, estabilidade, início e velocidade de evolução dos sintomas\",\"Se o defeito estava presente desde a gestação/nascimento ou apareceu novo durante doença infecciosa\",\"Localização, tamanho, número de orifícios, direção/magnitude do shunt e repercussão da CIV\",\"Febre, calafrios, sudorese, prostração, perda de peso, falta de ar, edema e queda de rendimento\",\"Hemoculturas adequadamente coletadas e resultado interpretado no contexto clínico\",\"Ecocardiograma e, quando indicado, outras imagens: vegetação, lesão valvar, abscesso, novo shunt ou destruição septal\",\"Cirurgia, patch/dispositivo, shunt residual, ferida, cateter venoso e procedimentos recentes\",\"Foco infeccioso alternativo, saúde bucal e exposições relevantes sem atribuir causalidade não comprovada\",\"Sinais de insuficiência cardíaca, embolia, déficit neurológico, choque ou disfunção orgânica\",\"Antibióticos já recebidos, horários, alergias, culturas prévias e plano da infectologia/cardiologia\"],\"counting_rule\":\"Preservar pdf1500_253 para rastreabilidade, reconciliar com pdf1500_249 e contar zero entidade clínica adicional. Endocardite, infecção de material/ferida ou perfuração septal adquirida comprovada devem ser contadas e registradas por seus diagnósticos próprios, não por este qualificador.\",\"inference\":\"A classificação SOURCE_TERM_ISSUE é inferência documental: fontes congênitas autorizadas não reconhecem etiologia infecciosa para a CIV usual; fontes de endocardite distinguem doença infecciosa associada; e a literatura aberta encontrada para CIV adquirida infecciosa é um relato pediátrico excepcional, insuficiente para validar o termo amplo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "'Comunicação interventricular de origem infecciosa' não é um diagnóstico suficientemente definido. Peça à equipe para registrar separadamente a CIV congênita e, se existir, a infecção/endocardite, o foco, o agente e as complicações comprovadas.",
+          "A CIV é uma abertura entre os ventrículos formada antes do nascimento. A maioria não foi causada por uma infecção adquirida pela criança; febre posterior não transforma o defeito em infeccioso.",
+          "Observe respiração, cor, mamadas, suor, ganho de peso, disposição, febre, calafrios, inchaço, urina e tolerância ao esforço. Anote início, duração e medidas, mas não atrase atendimento para completar registros.",
+          "Febre persistente ou recorrente, prostração, suor/calafrios, perda de peso, falta de ar ou piora em criança com CIV, patch, dispositivo ou cateter precisa de avaliação; não presuma virose nem 'infecção da CIV'.",
+          "Guarde relatório de ecocardiograma, anatomia da CIV, cirurgia/dispositivo, shunt residual, culturas, antimicrobianos, alergias e contatos. Leve essas informações a cada atendimento.",
+          "Após cirurgia ou cateterismo, siga exatamente as orientações de ferida, punção, banho e atividade. Vermelhidão progressiva, pus, febre com mal-estar ou piora cardiopulmonar exige contato rápido ou urgência."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha cardiologia e ecocardiogramas no intervalo definido pela anatomia e pelo reparo. CIV não muscular, dilatação, lesão de valva aórtica, shunt residual ou sintomas podem exigir vigilância mais próxima.",
+          "Mantenha higiene bucal diária e consultas odontológicas. Boa saúde bucal ajuda a prevenir bacteremias; antibiótico antes de procedimentos dentários é reservado a situações cardíacas de maior risco definidas pela cardiologia.",
+          "Vacinação, higiene das mãos, ventilação e afastamento de contatos doentes reduzem infecções comuns, mas não fecham a CIV e não provam uma origem infecciosa do defeito.",
+          "Se houver suspeita de endocardite, a avaliação deve ser coordenada por pediatria/cardiologia/infectologia, com microbiologia e imagem conforme indicado. Não espere uma consulta odontológica ou um exame de rotina diante de piora.",
+          "A CIV não é contagiosa. Escola e creche precisam conhecer apenas limitações reais e sinais de alarme; presença de defeito sem infecção ativa não justifica isolamento.",
+          "Atividade costuma ser liberada em CIV pequena ou bem reparada, mas febre, sintomas, hipertensão pulmonar, arritmia ou insuficiência cardíaca exigem pausa e orientação individual."
+        ],
+        "MEDICAMENTOS": [
+          "Antibiótico não fecha nem trata a CIV congênita. Não use sobras, não compartilhe e não escolha antibiótico com base no label.",
+          "Suspeita de endocardite requer avaliação urgente e, quando clinicamente possível, culturas adequadas antes do primeiro antibiótico. Em criança instável, a equipe não deve atrasar tratamento de emergência para completar exames.",
+          "Endocardite confirmada costuma exigir antimicrobiano dirigido e acompanhamento especializado; agente, via, dose, intervalo e duração dependem de culturas, foco, valva/material, função renal e complicações. Esta ficha não define esquema.",
+          "Se antimicrobiano já foi prescrito, cumpra o plano e comunique dose perdida, vômito, reação, diarreia importante ou dificuldade de acesso. Não interrompa nem prolongue por conta própria.",
+          "Profilaxia antibiótica odontológica não é automática para toda CIV. Ela se restringe a grupos de maior risco e procedimentos específicos; confirme com cardiologista e dentista, principalmente após reparo com material ou se houver defeito residual.",
+          "Medicamentos para insuficiência cardíaca podem aliviar sintomas de CIV grande, mas não fecham o orifício. Não aumente diurético ou outro fármaco diante de febre, falta de ar ou inchaço sem orientação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está estável e sem restrição prescrita, ofereça alimentação e líquidos habituais adequados à idade. Não há dieta que elimine uma suposta origem infecciosa da CIV.",
+          "Em lactentes, acompanhe tempo de mamada, pausas, suor, respiração, volume aceito, vômitos, fraldas e ganho de peso. Mamadas muito cansativas ou piora respiratória exigem avaliação.",
+          "CIV grande pode exigir plano individual de maior densidade calórica ou suporte alimentar. Não concentre fórmula, acrescente suplemento, restrinja sal/líquidos nem use sonda sem prescrição.",
+          "Na febre, ofereça pequenas quantidades com frequência se a criança estiver alerta e puder engolir. Boca seca, ausência de lágrimas, pouca urina, vômitos repetidos ou incapacidade de beber precisam de reavaliação.",
+          "Se houver restrição hídrica por insuficiência cardíaca, siga o volume escrito pela equipe; não compense febre livremente nem reduza além do prescrito sem contato clínico.",
+          "Com dificuldade importante para respirar, lábios azulados/cinzentos, desmaio, confusão ou incapacidade de engolir, não force alimento, líquido ou remédio; acione o SAMU 192."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade importante para respirar, lábios/pele azulados ou cinzentos, pausas respiratórias, desmaio, confusão, convulsão, criança muito mole ou difícil de acordar: chame o SAMU 192.",
+          "Febre com prostração intensa, extremidades frias, pele manchada, respiração rápida, pouca urina, piora muito rápida ou aparência gravemente doente pode indicar sepse/choque e exige emergência.",
+          "Febre persistente ou recorrente com calafrios/suores, falta de ar, inchaço, palidez, perda de peso ou piora geral em criança com cardiopatia, patch/dispositivo ou cateter exige avaliação urgente para endocardite ou outro foco.",
+          "Fraqueza ou dormência de um lado, rosto torto, fala alterada, perda súbita de visão, desequilíbrio novo, cefaleia súbita intensa ou convulsão pode indicar embolia/evento neurológico; acione o SAMU 192.",
+          "Em bebê, respiração rápida/trabalhosa, suor e cansaço para mamar, recusa importante, cor anormal, poucas fraldas ou sonolência crescente exige pronto atendimento.",
+          "Após cirurgia/cateter, sangramento que não cessa com a compressão ensinada, perna fria/pálida, ferida com pus/vermelhidão progressiva, febre com mal-estar, dor crescente ou falta de ar exige retorno imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavaliar o termo na próxima oportunidade clínica: confirmar que a CIV é congênita e retirar 'de origem infecciosa' como causalidade. Se houver infecção, registrar diagnóstico, foco, culturas e relação temporal separadamente.",
+          "CIV recém-diagnosticada precisa de cardiologia pediátrica para definir localização, tamanho, shunt e repercussão. CIV muscular pequena pode fechar espontaneamente; CIV não muscular ou com complicações requer seguimento periódico.",
+          "Procure avaliação no mesmo dia para febre prolongada/recorrente, calafrios, suor noturno, queda de disposição, perda de peso, falta de ar nova ou inchaço, sobretudo com material protético, defeito residual ou cateter.",
+          "Se endocardite for suspeita ou confirmada, cumpra reavaliações e coletas definidas pela equipe. Não espere o retorno de rotina diante de piora e não interrompa tratamento ao melhorar.",
+          "Após fechamento, siga os retornos da alta para avaliar patch/dispositivo, shunt residual, função, valvas, ritmo e sinais de infecção. O calendário e a necessidade de profilaxia odontológica são individualizados.",
+          "Na adolescência, organize transição para cardiologia de cardiopatias congênitas do adulto com resumo de anatomia, reparos, material, lesões residuais, episódios de endocardite e necessidade real de profilaxia."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Febre em recém-nascido/lactente jovem exige avaliação urgente independentemente da CIV. Respiração trabalhosa, sudorese/cansaço nas mamadas, cor alterada, pouca urina ou sonolência podem indicar infecção grave, insuficiência cardíaca ou cardiopatia associada; não atribuir a 'origem infecciosa' sem investigação.",
+        "3a5m": "A queda fisiológica da resistência pulmonar pode tornar uma CIV grande mais sintomática nas primeiras semanas/meses. Acompanhar mamadas, respiração, suor, crescimento e fraldas; febre ou piora rápida exige avaliação separada para infecção e repercussão cardíaca.",
+        "6a11m": "Registrar crescimento, alimentação, infecções, internações e ecocardiogramas. CIV muscular pequena pode reduzir/fechar, enquanto dificuldade alimentar, taquipneia, palidez, febre persistente ou regressão clínica requer revisão sem automedicação.",
+        "1a": "Observar energia para brincar, respiração, ganho ponderal e infecções recorrentes sem presumir causalidade. Ensinar higiene bucal desde os primeiros dentes e confirmar com a cardiologia, não por conta própria, qualquer necessidade de profilaxia.",
+        "2a5": "Manter cardiologia, odontologia e vacinação. Escola deve saber sinais de alarme e que a CIV não é contagiosa; febre persistente, queda de atividade, suor/calafrios, falta de ar ou perda de peso merece avaliação no mesmo dia.",
+        "6a11": "Perguntar sobre rendimento escolar/esportivo, palpitação, cansaço, síncope, febre prolongada e cuidados dentários. Atividade e profilaxia dependem da anatomia/reparo e do risco individual, não do qualificador infeccioso.",
+        "12a17": "Incluir o adolescente na compreensão da CIV, materiais implantados, medicamentos, saúde bucal e sinais de endocardite. Preparar transição e um resumo portátil; febre com sintomas sistêmicos ou déficit neurológico não espera consulta de rotina.",
+        "unknown": "Sem idade, anatomia, história congênita, reparo/material, estabilidade, febre, culturas e imagem, não validar origem infecciosa nem selecionar antibiótico, profilaxia ou procedimento. Usar a ficha-base e priorizar os sinais de emergência."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2212_1",
+          "name": "About Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2212_2",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2212_3",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2212_4",
+          "name": "Infective Endocarditis in Childhood: 2015 Update — Top Things to Know",
+          "url": "https://professional.heart.org/en/science-news/infective-endocarditis-in-childhood-2015-update/top-things-to-know"
+        },
+        {
+          "id": "pais237_op2212_5",
+          "name": "Infective Endocarditis",
+          "url": "https://www.heart.org/en/health-topics/infective-endocarditis"
+        },
+        {
+          "id": "pais237_op2212_6",
+          "name": "Prevention of Viridans Group Streptococcal Infective Endocarditis — Top Things to Know",
+          "url": "https://professional.heart.org/en/science-news/prevention-of-viridans-group-streptococcal-infective-endocarditis/top-things-to-know"
+        },
+        {
+          "id": "pais237_op2212_7",
+          "name": "2023 ESC Guidelines for the management of endocarditis",
+          "url": "https://academic.oup.com/eurheartj/article/44/39/3948/7243107"
+        },
+        {
+          "id": "pais237_op2212_8",
+          "name": "Acquired ventricular septal defect due to infective endocarditis",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5803962/"
+        },
+        {
+          "id": "pais237_op2212_9",
+          "name": "Insuficiência Cardíaca na Criança",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/agosto/14/24449f-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2213",
+      "specific": false,
+      "key": "pdf1500_254",
+      "label": "Comunicação interventricular grave",
+      "entity": "Comunicação interventricular congênita com possível repercussão hemodinâmica importante; o qualificador 'grave' depende de sintomas, crescimento, magnitude/direção do shunt, dilatação ou disfunção cardíaca, pressão pulmonar, valva aórtica e outras complicações",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_CONTEXT_DEPENDENT_HEMODYNAMIC_SEVERITY_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular (CIV); confirmar anatomia e repercussão hemodinâmica\",\"normalized_key\":\"pdf1500_249\",\"qualifier\":\"grave\",\"qualifier_assessment\":\"Pode resumir um quadro de alta repercussão já demonstrado, mas não possui significado suficiente quando isolado. Deve ser substituído ou complementado por achados clínicos, ecocardiográficos e, quando necessário, hemodinâmicos objetivos.\",\"assessment\":\"CIV é uma abertura congênita entre os ventrículos. Fontes pediátricas distinguem defeitos musculares e não musculares e organizam seguimento por tamanho, localização, sintomas, crescimento, dilatação do coração esquerdo, direção do fluxo, pressão pulmonar, complicações e reparo. CIV moderada ou grande pode causar hiperfluxo pulmonar e insuficiência cardíaca; defeito grande não tratado pode levar a doença vascular pulmonar irreversível e síndrome de Eisenmenger. Porém alguns lactentes ainda não apresentam sintomas enquanto a resistência pulmonar está elevada, e CIV pequena não muscular pode exigir vigilância de valva aórtica ou obstruções. Logo, 'grave' não pode substituir a avaliação completa.\",\"reconciliation\":{\"base_key\":\"pdf1500_249\",\"base_label\":\"Comunicação interventricular\",\"relationship\":\"SEVERITY_QUALIFIER_OF_CANONICAL_VSD_NOT_A_SEPARATE_ENTITY\",\"content_rule\":\"Usar a orientação canônica da CIV e acrescentar prioridade conforme repercussão documentada. Individualizar por anatomia, tamanho/número, shunt, sintomas, crescimento, câmaras/função, valva aórtica, obstruções, pressão pulmonar e estado do reparo. Não classificar, medicar nem indicar fechamento apenas pelo label.\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\",\"difference_retained\":\"O nome permanece pesquisável e aciona verificação rápida de sinais de insuficiência cardíaca, hipertensão pulmonar, cianose, disfunção, lesões associadas e plano de intervenção, sem criar segunda cardiopatia.\"},\"severity_interpretation\":{\"meaning\":\"Qualificador de possível alta repercussão que exige confirmação objetiva e prioridade proporcional ao estado atual.\",\"features_supporting_high_severity\":[\"Taquipneia ou esforço respiratório, especialmente em repouso ou durante mamadas\",\"Sudorese e fadiga alimentar, ingestão insuficiente ou falha de crescimento\",\"Sintomas persistentes de hiperfluxo/insuficiência cardíaca apesar do plano clínico\",\"Dilatação progressiva do átrio e ventrículo esquerdos ou disfunção ventricular\",\"Shunt importante ou defeito grande/não restritivo no contexto hemodinâmico individual\",\"Pressão pulmonar elevada, doença vascular pulmonar, fluxo direita-esquerda ou cianose\",\"Prolapso/regurgitação aórtica significativa, obstrução do ventrículo direito ou membrana subaórtica\",\"Defeito residual relevante, arritmia ou complicação após reparo\"],\"does_not_prove_by_itself\":[\"Instabilidade ou necessidade de ambulância neste momento\",\"CIV grande ou não restritiva\",\"Insuficiência cardíaca\",\"Hipertensão pulmonar ou síndrome de Eisenmenger\",\"Lesão da valva aórtica ou obstrução associada\",\"Falha de tratamento clínico\",\"Operabilidade ou segurança do fechamento\",\"Indicação automática de cateterismo, cirurgia, medicamento, oxigênio, internação ou restrição de líquidos\"]},\"pediatric_scope\":\"Inclui recém-nascidos, lactentes, crianças e adolescentes com o label cadastral. A repercussão de uma CIV importante costuma tornar-se mais aparente nas primeiras semanas à medida que cai a resistência pulmonar, mas a ausência inicial de sintomas não exclui necessidade de reparo. Em crianças maiores e adolescentes, cianose, intolerância ao esforço, síncope ou pressão pulmonar elevada exigem avaliação especializada e não devem ser tratados como evolução esperada de uma CIV antiga.\",\"critical_context_to_confirm\":[\"Idade, prematuridade, síndromes, doença pulmonar e outras cardiopatias\",\"Localização, tamanho, número de defeitos e caráter restritivo ou não restritivo\",\"Direção e magnitude do shunt e estimativa de pressões ventricular/pulmonar\",\"Dilatação de câmaras, função ventricular e sinais de hiperfluxo pulmonar\",\"Valva aórtica, trato de saída do ventrículo direito e região subaórtica\",\"Respiração em repouso e durante mamadas, suor, ingestão, peso e crescimento\",\"Tolerância ao esforço, palpitação, dor torácica, tontura, desmaio, edema ou cianose\",\"Medicamentos atuais, resposta, efeitos adversos e adesão sem presumir falha\",\"Reparo prévio, tipo/data, defeito residual, função pós-fechamento e complicações\",\"Data do último ecocardiograma e plano atual de retorno/intervenção\"],\"counting_rule\":\"Manter pdf1500_254 e o nome original para busca e auditoria, mas reconciliar com pdf1500_249 e contar zero nova entidade e zero nova ficha clínica específica. Gravidade documentada é estado/repercussão da mesma CIV e deve ser descrita pelos achados que a sustentam.\",\"inference\":\"A classificação SOURCE_TERM_ISSUE é conservadora. ACC define CIV hemodinamicamente significativa por sintomas e/ou dilatação do coração esquerdo e organiza decisões por anatomia, repercussão, complicações e reparo. CDC e AHA também relacionam sintomas e risco ao efeito sobre coração e pulmões, não a uma categoria nosológica 'CIV grave'.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Peça à cardiologia para explicar por que a CIV foi chamada de 'grave': sintomas, crescimento, tamanho e fluxo, dilatação/função do coração, pressão pulmonar, valva aórtica, obstrução ou lesão residual. O adjetivo sozinho não define o risco.",
+          "Guarde ecocardiogramas, eletrocardiogramas, relatório de internação/cirurgia/cateter, curva de peso e lista de medicamentos. Leve documentos antigos e atuais para comparação; não conclua melhora ou piora por uma frase isolada.",
+          "Observe respiração em repouso e nas mamadas, suor, cor, ingestão, vômitos, urina, peso, disposição, tolerância a correr/subir escadas, palpitação, dor no peito, tontura, desmaio e inchaço. Anote quando surgem e se estão progredindo.",
+          "Uma criança aparentemente bem ainda pode precisar de seguimento ou fechamento programado. Não falte ao retorno porque não há sintomas, especialmente em lactentes e em CIV grande/não muscular.",
+          "Atividade habitual pode ser possível em algumas situações, mas CIV com pressão pulmonar elevada, disfunção, arritmia, cianose ou sintomas exige plano individual. Não imponha repouso absoluto nem libere esporte intenso apenas pelo label.",
+          "Mantenha higiene bucal e consultas odontológicas. Informe CIV e eventual reparo; antibiótico preventivo não é automático e deve ser confirmado pela equipe. A condição não é contagiosa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra consultas e ecocardiogramas. Eles mostram anatomia, shunt, dilatação, função, pressão pulmonar, valva aórtica e obstruções — os elementos que definem repercussão.",
+          "Se a equipe pediu controle de peso, use a mesma balança e condições semelhantes quando possível e leve a curva. Peso estagnado, perda de peso ou mamada cada vez mais cansativa exige contato antecipado.",
+          "Não existe posição, massagem, exercício, chá ou suplemento que feche a CIV. Não faça teste de esforço caseiro para provar que a criança está bem.",
+          "Oxímetro ou relógio doméstico não mede a importância do shunt. Se houver plano de monitorização, registre leitura, sintomas e contexto; cianose ou esforço respiratório exige avaliação mesmo que o aparelho pareça normal.",
+          "Vacinação e higiene das mãos ajudam a prevenir infecções que podem descompensar uma criança cardiopata, mas não tratam a CIV. Procure orientação mais cedo durante doença febril se respiração, ingestão ou disposição piorarem.",
+          "Após cirurgia ou cateter, siga o plano específico para ferida/punção, banho, colo, escola e atividade. Não copie prazos de outra criança e não suspenda o seguimento quando a cicatriz parecer boa."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha a CIV ou impede sozinho dano pulmonar de um defeito importante. Remédios podem aliviar sintomas enquanto a equipe acompanha ou organiza o tratamento definitivo, mas precisam de prescrição individual.",
+          "Não inicie, aumente, reduza ou suspenda diurético, vasodilatador, remédio para ritmo, pressão pulmonar, antiagregante, anticoagulante, antibiótico ou oxigênio com base no termo 'grave'.",
+          "Use somente o produto, apresentação, horário e duração escritos na receita atual. Não use sobra, receita de outra criança, produto de adulto, chá ou suplemento como substituto.",
+          "Se uma dose prescrita foi vomitada, esquecida ou repetida, contate o serviço ou farmacêutico; não repita nem dobre automaticamente.",
+          "Avise a equipe diante de vômitos persistentes, pouca urina, fraqueza importante, desmaio, palpitação, sangramento ou piora respiratória durante o tratamento. Leve embalagem, receita e horários usados.",
+          "Descongestionantes, estimulantes, energéticos e alguns suplementos podem alterar frequência, pressão ou equilíbrio de líquidos. Confira antes com pediatra/cardiologista."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "CIV chamada de grave não define uma dieta única. O plano depende do crescimento, do cansaço para alimentar e da presença de insuficiência cardíaca; siga pediatria, cardiologia e nutrição.",
+          "No bebê, observe mamada muito longa, pausas, respiração rápida, suor, palidez, cansaço, vômitos e quantidade aceita. Não force um volume quando a criança está ofegante ou exausta.",
+          "A equipe pode prescrever maior densidade calórica ou outra forma de alimentação quando o ganho de peso é insuficiente. Não concentre fórmula, acrescente sal/açúcar/suplemento nem use sonda por conta própria.",
+          "Não restrinja nem ofereça líquido em excesso sem orientação. Tanto desidratação quanto sobrecarga podem ser perigosas em criança sintomática; cumpra apenas o volume individual escrito quando houver restrição.",
+          "Durante febre, vômitos ou diarreia, observe ingestão e urina e contate a equipe cedo, especialmente se usa medicamento cardíaco. Não ajuste remédio ou líquido por conta própria.",
+          "Com falta de ar importante, lábios azulados/cinzentos, desmaio, confusão, sonolência intensa ou dificuldade para engolir, não force alimento, líquido ou medicamento pela boca; procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito difícil ou rápida em repouso, afundamento entre as costelas, gemência, incapacidade de falar ou mamar por falta de ar, lábios/pele azulados ou acinzentados, ou criança difícil de acordar.",
+          "Bebê que não consegue completar mamadas, sua muito, fica pálido/cinzento, respira cada vez mais rápido, faz bem menos xixi ou se torna muito sonolento, sobretudo se a piora foi rápida.",
+          "Desmaio durante esforço, dor forte no peito ou palpitação rápida/irregular que não passa e vem com falta de ar, palidez, tontura intensa ou desmaio.",
+          "Cianose nova ou pior, queda persistente da saturação dentro de um plano de monitorização, ou falta de ar intensa no esforço. Pode haver hipertensão pulmonar, inversão do fluxo ou outra lesão e isso não pode ser avaliado em casa.",
+          "Fraqueza súbita de um lado, boca torta, fala diferente, convulsão, confusão ou perda súbita de visão.",
+          "Depois de cirurgia ou cateter: sangramento que não para, ferida com pus/vermelhidão crescente, febre com prostração, dor crescente, falta de ar nova, desmaio, ou perna/pé frio, pálido, arroxeado ou muito doloroso após punção."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o único registro é 'Comunicação interventricular grave' e não existe plano, contate a cardiologia pediátrica no mesmo dia útil para obter prazo de avaliação e ecocardiograma. Criança estável não vira emergência só pelo adjetivo, mas não deve permanecer sem caracterização objetiva.",
+          "Em CIV moderada/grande ou múltipla com sintomas, o algoritmo ACC usa controle clínico e de peso a cada 2 a 4 semanas antes de 2 meses, a cada 3 a 6 meses dos 2 meses até 1 ano e a cada 6 a 12 meses depois de 1 ano; repercussão maior pode exigir avaliação antes.",
+          "Sintomas persistentes ou dilatação progressiva do coração esquerdo levam a avaliação para fechamento. Defeito grande pode precisar de fechamento mesmo sem sintomas pelo risco de doença vascular pulmonar; a cardiologia define momento e método.",
+          "Toda CIV não muscular não reparada requer cardiologia e ecocardiograma periódicos, em geral a cada 1 a 2 anos, para vigiar valva aórtica, obstrução do ventrículo direito e membrana subaórtica; o label 'grave' não substitui esse subtipo.",
+          "Depois de cirurgia, a referência ACC usa consulta com ecocardiograma entre 2 semanas e 3 meses e novamente dentro de 1 ano. Depois de cateter, usa controle em torno de 1 mês e entre 6 e 12 meses, além do protocolo do centro.",
+          "Após mais de 1 ano do reparo, sem defeito residual ou apenas residual pequeno e sem preocupação, seguimento pode ser espaçado para 2 a 5 anos. Residual moderado, sintomas, dilatação/disfunção ou regurgitação aórtica exigem retornos mais próximos, por vezes a cada 3 a 12 meses.",
+          "Antecipe o retorno por respiração ou alimentação piores, peso estagnado, queda de rendimento, palpitação, dor torácica, tontura, desmaio, inchaço, cianose, menos urina, efeito adverso de medicamento ou alteração de ferida/punção."
+        ]
+      },
+      "ageMap": {
+        "u3m": "A CIV importante pode parecer pouco sintomática logo após o nascimento enquanto a resistência pulmonar ainda está elevada, e os sinais podem surgir nas semanas seguintes. Respiração difícil, mamada impossível, suor intenso, cor anormal, pouca urina ou sonolência exige emergência; mantenha avaliação precoce mesmo se o bebê parece bem.",
+        "3a5m": "É período de maior risco de hiperfluxo e falha de crescimento em CIV relevante. Acompanhe mamadas, respiração, suor, peso e fraldas; sintomas persistentes apesar do plano ou crescimento ruim exigem cardiologia antecipada e avaliação para intervenção.",
+        "6a11m": "Registre alimentação, ganho de peso, respiração, internações e desenvolvimento. A ausência de choro ou dor não exclui repercussão; cumprir ecocardiograma e plano de reparo, sem aumentar calorias ou medicamentos por conta própria.",
+        "1a": "CIV ainda classificada como grave após o primeiro ano precisa de descrição objetiva de shunt, câmaras, função e pressão pulmonar. Observe cansaço para andar/brincar, respiração, crescimento e edema; não adie revisão por adaptação aparente da criança.",
+        "2a5": "Criança com CIV importante não reparada deve ter plano cardiológico explícito, incluindo avaliação de doença vascular pulmonar e operabilidade quando pertinente. Escola deve conhecer sinais e limites reais, sem isolamento ou repouso automático.",
+        "6a11": "Pergunte sobre queda de rendimento, falta de ar, palpitação, dor torácica, tontura, desmaio ou cianose no esforço. Esporte competitivo e esforço intenso precisam de liberação individual se houver shunt relevante, pressão pulmonar alta, disfunção ou arritmia.",
+        "12a17": "O adolescente deve conhecer anatomia, reparos, defeito residual, pressão pulmonar e medicamentos. Cianose, síncope ou piora no esforço é urgente; organize transição para cardiologia de cardiopatias congênitas do adulto e evite energéticos, vape e automedicação.",
+        "unknown": "Confirmar idade, anatomia, tamanho, shunt, repercussão, pressão pulmonar, sintomas, crescimento, reparo/resíduo e medicamentos. Sem esses dados, não validar gravidade nem escolher retorno, atividade, dieta, medicamento ou intervenção; aplicar primeiro os sinais de emergência."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2213_1",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2213_2",
+          "name": "CHD Clinical Practice Algorithm: Ventricular Septal Defects",
+          "url": "https://www.acc.org/-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Latest-in-Cardiology/Articles/2023/ACPC-Birnbaum-EA.pdf"
+        },
+        {
+          "id": "pais237_op2213_3",
+          "name": "About Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2213_4",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2213_5",
+          "name": "Pulmonary Hypertension and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/pulmonary-hypertension"
+        },
+        {
+          "id": "pais237_op2213_6",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        },
+        {
+          "id": "pais237_op2213_7",
+          "name": "Congenital heart disease — septal defects factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/congenital-heart-disease-septal-defects"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2214",
+      "specific": false,
+      "key": "pdf1500_255",
+      "label": "Comunicação interventricular idiopático",
+      "entity": "Comunicação interventricular congênita; 'idiopático' expressa causa não identificada, mas não é subtipo anatômico, fisiológico ou etiológico validado e não dispensa avaliação de associações genéticas, cromossômicas, familiares ou ambientais quando indicada",
+      "assessment": "{\"classification\":\"VALID_BASE_DISEASE_WITH_REDUNDANT_OR_UNSUPPORTED_ETIOLOGIC_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular\",\"normalized_key\":\"pdf1500_249\",\"invalid_or_unsupported_qualifier\":\"idiopático\",\"assessment\":\"CDC informa que a causa da CIV é desconhecida na maioria dos bebês e que genes, cromossomos e outros fatores podem contribuir. Isso não transforma 'idiopática' em categoria clínica. As classificações úteis descrevem localização anatômica (conoventricular/perimembranosa, muscular, de via de entrada e outras descrições especializadas), tamanho, número de defeitos, direção/magnitude do fluxo, repercussão pulmonar/cardíaca, lesões associadas e estado antes/depois do reparo. AHA e sua declaração científica genética reforçam que cardiopatia congênita pode ser isolada, familiar, sindrômica ou associada a variações genômicas, e que avaliação depende do fenótipo e da história. Portanto, o cadastro deve ser reconciliado com a CIV-base sem inferir prognóstico, etiologia ou investigação concluída.\",\"reconciliation\":{\"base_key\":\"pdf1500_249\",\"base_label\":\"Comunicação interventricular\",\"relationship\":\"REDUNDANT_OR_UNSUPPORTED_ETIOLOGIC_QUALIFIER\",\"content_rule\":\"Usar a orientação da CIV confirmada, individualizada por anatomia, tamanho, shunt, repercussão, sintomas, lesões associadas e reparo. Não alterar seguimento, tratamento ou prognóstico com base em 'idiopático' e não declarar causa genética, ambiental, infecciosa ou medicamentosa sem avaliação própria.\",\"difference_retained\":\"O label permanece pesquisável e registra que o cadastro pretende expressar causa não definida, mas não conta como cardiopatia separada nem dispensa história familiar, exame de outras anomalias ou aconselhamento genético quando apropriado.\"},\"not_automatically_equivalent_to\":[\"CIV isolada sem outras cardiopatias ou malformações\",\"CIV esporádica sem recorrência familiar\",\"Ausência de síndrome genética ou alteração cromossômica\",\"Teste genético negativo ou investigação etiológica concluída\",\"Exposição gestacional específica comprovada ou excluída como causa\",\"CIV muscular, perimembranosa ou outro subtipo anatômico confirmado\",\"Defeito pequeno, restritivo, leve ou sem repercussão\",\"Defeito que fechará espontaneamente\",\"Ausência de hipertensão pulmonar, lesão de valva aórtica ou outra complicação\",\"Indicação ou contraindicação automática de medicamento, fechamento, cirurgia ou restrição\"],\"pediatric_scope\":\"Inclui recém-nascidos, lactentes, crianças e adolescentes com suspeita ou diagnóstico de CIV, antes ou depois do reparo. CIV muscular pequena frequentemente fecha espontaneamente, enquanto CIV grande ou não muscular pode exigir vigilância/intervenção por repercussão e complicações. Cardiopatias complexas, síndromes, anomalias extracardíacas, atraso do desenvolvimento, história familiar e prematuridade relevante exigem avaliação individual e impedem chamar o caso de simplesmente idiopático.\",\"critical_context_to_confirm\":[\"Idade, sintomas atuais, crescimento, saturação, alimentação e tolerância ao esforço\",\"Confirmação ecocardiográfica, localização, tamanho, número de orifícios e relação com valvas\",\"Direção/magnitude do shunt, pressão pulmonar, dilatação/função ventricular e lesão de valva aórtica\",\"Outras cardiopatias, anomalias extracardíacas, atraso do desenvolvimento ou características sindrômicas\",\"História familiar de cardiopatia congênita, morte súbita, arritmia ou diagnóstico genético\",\"Resultados genéticos prévios, interpretação de variantes e aconselhamento já realizado\",\"História gestacional/exposições relevantes sem transformar associação em causalidade individual\",\"Se houve cirurgia/dispositivo, data, material, shunt residual, complicações e plano de medicamentos\",\"Sinais de insuficiência cardíaca, hipertensão pulmonar, arritmia, infecção ou evento neurológico\",\"Plano individual de atividade, odontologia, alimentação, retorno e transição\"],\"counting_rule\":\"Preservar pdf1500_255 para rastreabilidade, reconciliar com pdf1500_249 e contar zero entidade clínica adicional. Não somar o label à cobertura clínica específica; a ficha-base precisa de validação, integração e testes próprios.\",\"inference\":\"A classificação como problema terminológico é inferência documental: fontes oficiais reconhecem que a causa da maioria das CIV permanece desconhecida, mas descrevem a doença por anatomia e repercussão, não como subtipo 'idiopático'.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "'Comunicação interventricular idiopática' não é uma forma separada da CIV. O termo apenas sugere que uma causa não foi identificada; o cuidado depende da anatomia, do tamanho, do fluxo, do efeito no coração/pulmões e de eventual reparo.",
+          "Na maioria dos bebês não se consegue apontar uma única causa. Isso não é culpa da família e não permite atribuir o defeito a alimento, comportamento, infecção ou medicamento específico sem investigação adequada.",
+          "Muitas CIV pequenas não causam sintomas e podem fechar espontaneamente, mas ausência de sintomas não confirma fechamento e não substitui o ecocardiograma/retorno indicado.",
+          "Observe respiração, cor, mamadas, suor, crescimento, disposição, palpitações, tontura, desmaio, inchaço e tolerância ao esforço. Mudanças ajudam a definir urgência, não a causa do defeito.",
+          "Guarde o relatório com localização/tamanho da CIV, repercussão, lesões associadas, procedimentos, medicamentos e contato da cardiologia. Registre cardiopatias e diagnósticos genéticos relevantes na família.",
+          "Após cirurgia ou fechamento por cateter, siga o plano escrito para ferida/punção, banho, atividade, escola, medicamentos e retorno. O adjetivo 'idiopático' não modifica o cuidado pós-procedimento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Compareça às consultas e exames indicados. A periodicidade depende de localização, tamanho, repercussão e reparo; CIV não muscular e defeitos residuais costumam exigir vigilância própria.",
+          "Atividade habitual costuma ser possível em CIV pequena ou bem reparada, mas restrições temporárias pós-procedimento e limites por hipertensão pulmonar, arritmia ou insuficiência cardíaca são individualizados.",
+          "Mantenha saúde bucal. Antibiótico antes de procedimento odontológico não é automático para toda CIV; cardiologista e dentista definem a indicação conforme risco, reparo, material e defeito residual.",
+          "A CIV não é contagiosa. Escola e creche não precisam afastar a criança pelo diagnóstico; forneça somente restrições e plano de emergência realmente orientados.",
+          "Aconselhamento genético pode ajudar quando há outros familiares afetados, outras malformações, atraso do desenvolvimento, características sindrômicas ou dúvidas sobre recorrência. Ele não garante que uma causa será encontrada.",
+          "Não solicite testes genéticos comerciais, exames repetidos, dietas ou suplementos para 'descobrir a causa' sem orientação. A escolha e interpretação do teste dependem do fenótipo e da história familiar."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que feche a CIV nem remédio específico para uma suposta forma 'idiopática'. Observação, cirurgia ou cateter dependem de anatomia e repercussão.",
+          "Medicamentos podem ser prescritos temporariamente para sintomas de insuficiência cardíaca ou outras condições. Eles aliviam repercussões, não definem a causa nem fecham o orifício.",
+          "Dê somente o medicamento prescrito para esta criança, na apresentação e horário registrados. Não inicie, aumente, suspenda, dobre ou compartilhe diurético, remédio de ritmo, anticoagulante, antiplaquetário ou oxigênio pelo label.",
+          "Após dispositivo/cirurgia, algumas crianças usam medicamento por prazo definido. Dose esquecida, vômito após a dose, sangramento ou reação devem seguir a orientação do serviço; não improvise compensação.",
+          "Não atribua automaticamente a CIV a medicamento usado na gestação e não interrompa tratamento atual da criança ou de familiar por medo da causa. Converse com o prescritor.",
+          "Esta ficha não fornece fármaco, dose, concentração, intervalo ou duração. Qualquer tratamento exige diagnóstico, peso, função renal/hepática, interações e prescrição individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está estável e sem restrição prescrita, mantenha alimentação e hidratação habituais adequadas à idade. Não existe dieta que feche a CIV ou esclareça sua causa.",
+          "Em lactentes, observe duração das mamadas, pausas, suor, respiração, volume aceito, vômitos, fraldas e ganho de peso. Cansaço crescente ou dificuldade para alimentar-se exige avaliação.",
+          "CIV grande pode exigir plano individual de maior densidade calórica ou suporte alimentar. Não concentre fórmula, acrescente suplemento, restrinja sal/líquidos nem use sonda sem prescrição.",
+          "Se houver restrição hídrica por insuficiência cardíaca, siga o volume escrito pela equipe. Não aumente nem reduza líquidos por conta própria com base no rótulo etiológico.",
+          "Antes de sedação, cateterismo ou cirurgia, cumpra apenas o jejum informado pelo serviço. Não prolongue jejum nem omita alimento oferecido.",
+          "Com dificuldade importante para respirar, cor azulada/cinza, desmaio, rebaixamento ou incapacidade de engolir, não force alimento, líquido ou remédio; acione o SAMU 192."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade importante para respirar, lábios/pele azulados ou cinzentos, pausas respiratórias, desmaio, confusão, convulsão, criança muito mole ou difícil de acordar: chame o SAMU 192.",
+          "Em bebê, respiração rápida/trabalhosa, suor e cansaço para mamar, recusa importante, cor anormal, pouca urina, prostração ou piora rápida exige pronto atendimento.",
+          "Dor no peito com falta de ar, palidez, suor, palpitação sustentada, tontura intensa ou desmaio, especialmente no esforço, exige avaliação imediata.",
+          "Fraqueza ou dormência de um lado, rosto torto, fala alterada, perda súbita de visão, desequilíbrio novo ou cefaleia súbita muito intensa pode indicar evento neurológico; acione o SAMU 192.",
+          "Após cateterismo, sangramento que não para com a compressão ensinada, aumento rápido do inchaço, perna fria/pálida, dor intensa, fraqueza ou perda de sensibilidade exige emergência.",
+          "Após cirurgia/dispositivo, febre com prostração, falta de ar, palpitação com mal-estar, ferida muito vermelha ou com pus, dor crescente, desmaio ou piora rápida exige retorno imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita nova, sopro ou ecocardiograma sugerindo CIV deve ser avaliado por cardiologia pediátrica para confirmar anatomia e repercussão; 'idiopático' não define gravidade nem conduta.",
+          "Se a criança está estável, cumpra o retorno definido. CIV muscular pequena pode ter controles espaçados/alta compartilhada; CIV não muscular, grande, sintomática ou com complicações exige seguimento mais próximo.",
+          "Contate a equipe no mesmo dia por falta de ar nova, cansaço progressivo, dificuldade alimentar, inchaço, palpitações recorrentes, queda de rendimento ou ganho de peso inadequado, mesmo sem sinal de emergência.",
+          "Peça avaliação genética/aconselhamento se houver múltiplos familiares afetados, outras malformações, atraso do desenvolvimento, características sindrômicas ou dúvida reprodutiva. Não prometa que o teste encontrará uma causa.",
+          "Após cirurgia/cateterismo, mantenha retornos e exames da alta. Procure antes por sangramento, febre com piora, problema na ferida/punção, membro frio, falta de ar, dor torácica ou desmaio.",
+          "Na adolescência, confirme transição para cardiologia de cardiopatias congênitas do adulto e leve resumo de anatomia/reparo. Causa não identificada não é motivo para encerrar seguimento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente pequeno com cianose, respiração trabalhosa, suor/cansaço nas mamadas, pouca urina, sonolência ou má perfusão precisa de emergência e investigação de CIV relevante, cardiopatia associada, infecção, doença pulmonar ou outra causa; 'idiopático' não autoriza observação domiciliar.",
+        "3a5m": "A queda da resistência pulmonar pode tornar CIV grande mais sintomática nas primeiras semanas/meses. Acompanhar mamadas, respiração, suor, crescimento e fraldas; piora ou baixo ganho exige avaliação, sem presumir etiologia.",
+        "6a11m": "CIV muscular pequena pode reduzir/fechar, mas o ecocardiograma e a clínica definem evolução. Registrar crescimento e desenvolvimento; sinais extracardíacos ou história familiar podem indicar genética.",
+        "1a": "Observar energia, crescimento, respiração e tolerância às refeições/brincadeiras. Não interpretar desenvolvimento normal como prova de defeito leve, fechado ou sem componente genético.",
+        "2a5": "Cardiologia define se a CIV fechou, permanece pequena ou requer intervenção por repercussão/valva aórtica. Escola e atividade seguem condição real, não o adjetivo etiológico.",
+        "6a11": "Perguntar sobre cansaço, falta de ar no esforço, dor torácica, palpitações, tontura, desmaio e rendimento. Explicar que causa não encontrada não significa culpa nem dispensa acompanhamento.",
+        "12a17": "O adolescente deve conhecer localização da CIV, reparo, lesões residuais, medicamentos e alertas e participar da transição. Dúvida familiar/reprodutiva ou sinais sindrômicos justificam aconselhamento genético sem presumir herança.",
+        "unknown": "Confirmar idade, anatomia, repercussão, lesões associadas, história familiar, reparo e sintomas. Sem esses dados, não definir causa, prognóstico, genética, atividade, retorno ou tratamento a partir de 'idiopático'."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2214_1",
+          "name": "About Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2214_2",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2214_3",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2214_4",
+          "name": "Understand the Risk for Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/understand-your-risk-for-congenital-heart-defects"
+        },
+        {
+          "id": "pais237_op2214_5",
+          "name": "Genetic Counseling for Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/understand-your-risk-for-congenital-heart-defects/genetic-counseling-for-congenital-heart-defects"
+        },
+        {
+          "id": "pais237_op2214_6",
+          "name": "Genetic Basis for Congenital Heart Disease: Revisited — A Scientific Statement From the American Heart Association",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6555769/"
+        },
+        {
+          "id": "pais237_op2214_7",
+          "name": "Home Care Instructions After Cardiac Catheterization",
+          "url": "https://extapps.childrenshospital.org/EFPEC/Home/Sheet/3079"
+        },
+        {
+          "id": "pais237_op2214_8",
+          "name": "Insuficiência Cardíaca na Criança — Guia Prático de Atualização nº 158",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/agosto/14/24449f-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2215",
+      "specific": false,
+      "key": "pdf1500_256",
+      "label": "Comunicação interventricular induzido por medicamentos",
+      "entity": "Comunicação interventricular congênita; o qualificador causal 'induzido por medicamentos' não define subtipo anatômico e não comprova causalidade individual",
+      "assessment": "{\"classification\":\"VALID_BASE_CONGENITAL_DISEASE_WITH_UNSUPPORTED_DRUG_CAUSALITY_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular\",\"normalized_key\":\"pdf1500_249\",\"qualifier\":\"induzido por medicamentos\",\"qualifier_assessment\":\"O qualificador é inadequado como nome de entidade. Além da concordância gramatical esperada ser 'induzida', uma CIV não é classificada pela nomenclatura cardiológica como doença medicamentosa. Medicamentos específicos usados em períodos específicos da gestação podem ser fatores de risco para determinados desfechos; isso exige avaliação produto-específica e não autoriza atribuição causal retrospectiva automática.\",\"assessment\":\"CIV pequena pode ser assintomática e fechar espontaneamente. Defeito moderado ou grande pode causar hiperfluxo pulmonar, taquipneia, dificuldade alimentar, suor, baixo ganho de peso, dilatação das câmaras esquerdas, insuficiência cardíaca e hipertensão pulmonar. O ecocardiograma deve definir localização, tamanho, shunt e repercussão. A história de exposição gestacional, quando existente, não muda esses princípios de cuidado nem indica por si só medicamento, cirurgia ou frequência de retorno.\",\"causality_requirements\":[\"Nome exato do medicamento, princípio ativo, formulação, dose, via e indicação\",\"Data gestacional de início e término, duração, adesão e eventual sobredose\",\"Confirmação de que houve exposição fetal durante janela biologicamente plausível para formação cardíaca\",\"Doença materna tratada e riscos da própria doença ou de sua descompensação\",\"Outros medicamentos, álcool, tabaco, drogas, infecções, febre, diabetes, nutrição e exposições ambientais\",\"História familiar, exame genético quando indicado e outras anomalias associadas\",\"Evidência humana específica para o produto e para o desfecho, risco de base, dose, duração e momento da exposição\",\"Causas alternativas e avaliação por equipe com experiência em teratologia/farmacovigilância\"],\"reconciliation\":{\"base_key\":\"pdf1500_249\",\"base_label\":\"Comunicação interventricular\",\"relationship\":\"UNSUPPORTED_INDIVIDUAL_DRUG_CAUSALITY_NOT_A_SEPARATE_VSD_SUBTYPE\",\"content_rule\":\"Usar a orientação da CIV confirmada. Registrar possível exposição pré-natal em campo separado e investigar produto-especificamente; não criar história natural, tratamento ou prognóstico próprios para uma suposta CIV medicamentosa.\",\"difference_retained\":\"O nome original permanece pesquisável apenas para provocar reconciliação do cadastro e investigação responsável da exposição. Não conta como segunda cardiopatia.\"},\"not_automatically_equivalent_to\":[\"Evento adverso medicamentoso confirmado\",\"Síndrome teratogênica definida\",\"CIV adquirida após uso de medicamento pela criança\",\"CIV grave, grande ou não restritiva\",\"Insuficiência cardíaca\",\"Hipertensão pulmonar\",\"Doença genética ou cromossômica\",\"Indicação de suspender tratamento materno ou pediátrico\",\"Indicação automática de cirurgia ou cateterismo\",\"Culpa da pessoa gestante ou da família\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente com CIV confirmada. Em lactentes, repercussão de defeitos moderados ou grandes pode aparecer nas primeiras semanas, quando cai a resistência pulmonar. Em crianças maiores, vigiar valva aórtica, obstruções, ritmo, pressão pulmonar e lesões residuais conforme anatomia e reparo. A suspeita etiológica pré-natal deve ser separada do estado clínico atual.\",\"critical_context_to_confirm\":[\"Ecocardiograma com localização, tamanho, número de defeitos e relação com valvas\",\"Direção e magnitude do shunt, gradiente, pressão pulmonar, dilatação cardíaca e função ventricular\",\"Sintomas, crescimento, alimentação, perfusão, saturação e comorbidades\",\"Prolapso ou insuficiência aórtica, obstruções e outras cardiopatias associadas\",\"Cirurgia ou dispositivo prévios, shunt residual e plano do centro\",\"Se houver alegação causal, todos os elementos produto-específicos e materno-fetais listados acima\"],\"counting_rule\":\"Preservar pdf1500_256 como termo cadastral inadequado, reconciliar com pdf1500_249 e contar zero entidade clínica específica adicional. Uma exposição gestacional documentada é fator etiológico em investigação, não uma nova forma anatômica de CIV.\",\"inferences\":[\"A classificação IPCCC descreve CIV por geografia e bordas e não reconhece categoria induzida por medicamentos; rejeitar o qualificador como subtipo é inferência conservadora da nomenclatura.\",\"CDC, Ministério da Saúde e OMS reconhecem que certos medicamentos ou outras exposições podem aumentar risco, mas também que a causa exata da maioria das anomalias ou cardiopatias congênitas é desconhecida e multifatorial.\",\"A orientação regulatória da FDA exige dados específicos, risco de base, dose, duração, momento gestacional e comparação adequada; um label genérico não contém os elementos mínimos para causalidade individual.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A CIV é uma alteração formada antes do nascimento. O rótulo 'induzido por medicamentos' não comprova que um remédio causou o defeito e não significa que os medicamentos usados hoje pela criança estejam aumentando o orifício.",
+          "Não interrompa tratamento da criança ou da pessoa gestante por conta própria. Leve à equipe os nomes e embalagens dos produtos, motivo do uso e datas da gestação; riscos e benefícios precisam ser avaliados produto a produto.",
+          "Siga o plano da cardiologia e compare respiração, mamadas, ganho de peso, disposição e urina com o padrão habitual. O cuidado depende do ecocardiograma e da repercussão, não da causa presumida.",
+          "Observe respiração rápida ou trabalhosa, suor e cansaço nas mamadas, baixo ganho de peso, inchaço, palpitação, dor torácica, tontura e desmaio. Registre início e evolução sem atrasar atendimento em sinais graves.",
+          "Atividade habitual costuma ser possível em CIV pequena ou reparada sem sequela, mas exercício e esporte devem seguir liberação individual conforme função cardíaca, pressão pulmonar, ritmo e defeito residual.",
+          "Mantenha higiene bucal e acompanhamento odontológico. Antibiótico preventivo não é automático para toda CIV; confirme com cardiologia, especialmente após reparo ou se houver defeito residual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra consultas, pesagens e exames no prazo. Leve ecocardiogramas, relatórios de cirurgia/cateterismo e lista atual de medicamentos e suplementos.",
+          "Se a família deseja esclarecer a possível exposição gestacional, organize uma linha do tempo com semanas da gestação, dose, via, duração, indicação, doenças maternas e outras exposições. Isso ajuda a avaliação, mas não confirma causa sozinho.",
+          "Não use testes caseiros, dietas, posição, massagem ou restrição de atividade para tentar fechar o defeito. Essas medidas não modificam a anatomia.",
+          "A escola ou creche deve conhecer contatos, sintomas de alerta e apenas as restrições realmente prescritas. O qualificador medicamentoso não justifica afastamento automático.",
+          "Após cirurgia ou cateterismo, siga as instruções do centro sobre ferida, punção, banho e atividade; uma causa presumida não muda os cuidados do procedimento.",
+          "Em planejamento de futura gestação, revisar previamente doenças e todos os medicamentos com a equipe; não trocar nem suspender tratamento sem plano seguro."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha a CIV. Alguns medicamentos podem controlar congestão ou apoiar o coração enquanto a equipe decide se é necessário reparar o defeito, sempre com prescrição individual.",
+          "O rótulo não identifica qual fármaco teria sido implicado e não autoriza atribuir causalidade, suspender remédio atual, evitar toda uma classe ou registrar alergia.",
+          "Use somente os produtos prescritos para esta criança, na apresentação e nos horários informados. Esta ficha não define fármaco, dose, intervalo ou duração.",
+          "Se uma dose for esquecida, vomitada ou repetida, contate o serviço ou farmacêutico; não compense automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confira com a equipe, sobretudo se houver palpitação, hipertensão pulmonar ou insuficiência cardíaca.",
+          "Para avaliar possível risco gestacional, consultar a informação oficial do produto e dados humanos específicos; categorias simplificadas ou listas genéricas não substituem avaliação de risco-benefício."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno ou fórmula corretamente preparada e alimentação adequada à idade, salvo plano individual da cardiologia ou nutrição.",
+          "Lactentes com CIV relevante podem cansar ou suar ao mamar e ganhar pouco peso. Mamadas menores, fórmula mais calórica ou sonda podem ser indicadas pela equipe, mas não devem ser improvisadas.",
+          "Pausas frequentes, respiração rápida, cansaço, engasgos ou incapacidade de completar a mamada exigem reavaliação. Não force alimento ou líquido em criança ofegante ou sonolenta.",
+          "Acompanhe peso e urina. Perda de peso, menos fraldas molhadas, vômitos repetidos ou inchaço devem ser comunicados antes do retorno.",
+          "Não concentre fórmula, adicione sal, açúcar, suplemento ou restrinja água por conta própria; isso pode causar desidratação, excesso de solutos ou sobrecarga.",
+          "Não retire alimentos ou nutrientes da criança para 'eliminar' um medicamento da gestação. A exposição passada, se existiu, não é revertida por dieta restritiva."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou trabalhosa em repouso, afundamento das costelas, gemência, incapacidade de mamar ou falar por falta de ar, ou lábios/pele azulados ou acinzentados.",
+          "Criança muito pálida, fria, suada, mole, confusa, difícil de acordar, com pulsos fracos, pouca urina ou desmaio — possíveis sinais de baixo débito ou choque.",
+          "Palpitação rápida ou irregular acompanhada de falta de ar ou má aparência, dor forte no peito, desmaio no esforço ou convulsão.",
+          "Febre com prostração, dificuldade respiratória ou piora rápida em criança com cardiopatia; não atribua automaticamente esses sintomas à CIV ou a um medicamento antigo.",
+          "Após cirurgia: sangramento, abertura, pus, dor crescente ou vermelhidão progressiva da ferida, febre com prostração ou falta de ar nova.",
+          "Após cateterismo: sangramento que não para com a compressão ensinada, inchaço rápido, ou perna fria, pálida, arroxeada, dormente ou muito dolorosa."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o qualificador veio de cadastro, laudo ou alta, peça esclarecimento no próximo contato clínico: confirmar se houve uma exposição gestacional específica documentada ou somente erro de classificação. Não aguarde esse esclarecimento diante de sintomas.",
+          "Lactente com CIV moderada ou grande requer seguimento mais próximo durante a queda da resistência pulmonar. Taquipneia, dificuldade alimentar ou baixo ganho de peso antecipam o retorno.",
+          "Sintomas ou dilatação persistente do coração esquerdo exigem avaliação para fechamento. Ausência de melhora com o plano clínico não deve prolongar espera indefinidamente.",
+          "CIV não muscular não reparada requer vigilância cardiológica periódica, em geral a cada 1 a 2 anos com ecocardiograma, antecipada por sintomas ou alteração da valva aórtica, câmaras ou obstruções.",
+          "CIV muscular pequena, assintomática e sem repercussão pode ter seguimento a cada 3 a 5 anos ou alta compartilhada, após caracterização adequada; a suposta etiologia medicamentosa não muda isso.",
+          "Após reparo, siga primeiro o protocolo do centro. Mais de um ano após intervenção, sem lesão relevante ou apenas resíduo pequeno e sem mudança clínica, o ACC admite seguimento a cada 2 a 5 anos; lesão residual moderada exige retorno mais próximo."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Maior atenção à repercussão de CIV moderada/grande: o bebê pode desenvolver taquipneia, suor, cansaço e baixo ganho de peso nas primeiras semanas. Incapacidade de mamar, palidez/frialdade, pouca urina ou sonolência exige emergência. História medicamentosa gestacional deve ser revisada sem atrasar o cuidado.",
+        "3a5m": "Observe duração e esforço das mamadas, respiração, peso, suor e urina. Sintomas ou dilatação esquerda persistente justificam avaliação de intervenção; não altere tratamento tentando neutralizar exposição passada.",
+        "6a11m": "Acompanhe crescimento, respiração e disposição para brincar. Reavalie defeito significativo e complicações; a etiologia presumida não substitui ecocardiograma e exame clínico.",
+        "1a": "Criança pequena pode demonstrar piora por irritabilidade, sonolência, recusa alimentar ou menor atividade. Ausência de relato verbal não reduz a urgência dos sinais objetivos.",
+        "2a5": "Observe cansaço, falta de ar, crescimento e tolerância ao brincar. Escola deve conhecer alertas e restrições individualizadas; não estigmatizar a criança ou a família por uma causalidade não confirmada.",
+        "6a11": "Em CIV não muscular, manter vigilância de valva aórtica, obstruções e dilatação. Dor torácica, palpitação, síncope ou queda de rendimento precisam de avaliação antes do retorno ao esporte.",
+        "12a17": "Revisar lesão residual, ritmo, valva aórtica, pressão pulmonar e transição para cardiologia congênita do adulto. Explicar que possível exposição fetal não significa alergia medicamentosa nem proibição vitalícia de fármacos.",
+        "unknown": "Confirmar idade, anatomia, ecocardiograma, shunt, repercussão, sintomas, comorbidades e reparo. Para causalidade, confirmar produto, dose, via, período gestacional, indicação e alternativas; sem esses dados, não personalizar tratamento ou prognóstico."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2215_1",
+          "name": "Classification of Ventricular Septal Defects for the Eleventh Iteration of the International Classification of Diseases — Striving for Consensus",
+          "url": "https://ipccc.net/wp-content/uploads/2024/01/2018-11-ANNALS-Lopez-2018-VSD-Classification.pdf"
+        },
+        {
+          "id": "pais237_op2215_2",
+          "name": "Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2215_3",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2215_4",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2215_5",
+          "name": "About Birth Defects",
+          "url": "https://www.cdc.gov/birth-defects/about/"
+        },
+        {
+          "id": "pais237_op2215_6",
+          "name": "Medicine and Pregnancy: An Overview",
+          "url": "https://www.cdc.gov/medicine-and-pregnancy/about/"
+        },
+        {
+          "id": "pais237_op2215_7",
+          "name": "Pregnancy, Lactation, and Reproductive Potential: Labeling for Human Prescription Drug and Biological Products — Content and Format Guidance for Industry",
+          "url": "https://www.fda.gov/files/drugs/published/Pregnancy--Lactation--and-Reproductive-Potential---Labeling-for-Human-Prescription-Drug-and-Biological-Products-%E2%80%94-Content-and-Format-Guidance-for-Industry--(Small-Entity-Compliance-Guide).pdf"
+        },
+        {
+          "id": "pais237_op2215_8",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        },
+        {
+          "id": "pais237_op2215_9",
+          "name": "Congenital disorders",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/birth-defects"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2216",
+      "specific": false,
+      "key": "pdf1500_257",
+      "label": "Comunicação interventricular leve",
+      "entity": "Comunicação interventricular pequena e sem repercussão hemodinâmica significativa — somente quando documentada, com subtipo anatômico definido (qualificador 'leve' não constitui entidade independente)",
+      "assessment": "{\"classification\":\"SOURCE_TERM_ISSUE_SEVERITY_QUALIFIER_REQUIRES_ANATOMIC_AND_HEMODYNAMIC_DEFINITION\",\"normalized_entity\":\"Comunicação interventricular\",\"normalized_key\":\"pdf1500_249\",\"qualifier_assessment\":\"'Leve' descreve possível baixa repercussão e não cria subtipo. Pode corresponder a uma CIV muscular pequena e hemodinamicamente insignificante, a uma CIV não muscular pequena que ainda exige vigilância, a defeito residual após reparo ou apenas a ausência atual de sintomas. Essas situações não são equivalentes e precisam ser diferenciadas.\",\"assessment\":\"CIV é uma abertura congênita entre os ventrículos. Defeitos pequenos costumam ser assintomáticos, mas a história natural depende da localização. CIV muscular pequena tem maior chance de diminuir ou fechar espontaneamente. CIV não muscular, mesmo pequena, pode afetar a valva aórtica ou associar-se a obstruções. Repercussão hemodinâmica é avaliada por sintomas, direção e magnitude do fluxo, dilatação do lado esquerdo, pressão pulmonar e complicações, não apenas por um adjetivo ou pela intensidade do sopro.\",\"not_automatically_equivalent_to\":[\"Um subtipo nosológico independente chamado comunicação interventricular leve\",\"CIV muscular pequena e CIV não muscular pequena como se tivessem o mesmo seguimento\",\"Defeito pequeno apenas pela medida, sem considerar corpo da criança, fluxo e câmaras cardíacas\",\"Ausência de sintomas como prova de ausência de dilatação, lesão valvar ou pressão pulmonar elevada\",\"Sopro baixo ou alto como medida confiável da gravidade\",\"Defeito fechado espontaneamente, reparado e residual como o mesmo estado clínico\",\"Dispensa automática de cardiologia, ecocardiograma, medicamento já prescrito ou reavaliação de sintomas\"],\"pediatric_scope\":\"No recém-nascido, a baixa repercussão aparente pode mudar nas primeiras semanas com a queda da resistência vascular pulmonar. Lactentes precisam de observação de respiração, mamadas e crescimento. Em pré-escolares, escolares e adolescentes, CIV muscular pequena e assintomática pode permitir seguimento espaçado ou alta compartilhada, enquanto CIV não muscular requer vigilância da valva aórtica e de obstruções. Após reparo, o plano depende de defeito residual, função ventricular, pressão pulmonar e ritmo.\",\"critical_context_to_confirm\":[\"Idade, data e método de confirmação do diagnóstico\",\"Localização e classificação muscular ou não muscular, incluindo relação com valvas e vias de saída\",\"Número e tamanho dos defeitos e se a medida foi interpretada no contexto corporal e anatômico da criança\",\"Direção e magnitude do fluxo e presença de dilatação do átrio/ventrículo esquerdos\",\"Pressão pulmonar, função cardíaca e cardiopatias ou síndromes associadas\",\"Prolapso ou insuficiência da valva aórtica, membrana subaórtica e ventrículo direito de dupla câmara\",\"Respiração, mamadas, sudorese, ganho de peso, tolerância ao esforço, palpitação, dor torácica, desmaio, edema ou cianose\",\"Fechamento espontâneo, cirurgia ou dispositivo, defeito residual, medicamentos, nutrição e plano de retorno\"],\"counting_rule\":\"Resolver como qualificador de gravidade da entidade canônica 'Comunicação interventricular', não como nova entidade clínica. Só usar 'pequena/sem repercussão' após documentação anatômica e hemodinâmica pertinente; preservar pdf1500_257 e o label original como alias.\",\"inference\":\"A conclusão é uma inferência nosológica baseada na orientação ACC/JACC 2026, que classifica o manejo por subtipo muscular ou não muscular, tamanho, sintomas, direção do fluxo, dilatação e complicações. AHA e CDC também relacionam evolução e tratamento a tamanho e repercussão. Nenhuma fonte reconhece 'comunicação interventricular leve' como entidade independente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Comunicação interventricular é uma abertura entre as duas câmaras de baixo do coração. 'Leve' só é uma descrição útil se a equipe confirmou subtipo, fluxo pequeno e ausência de sobrecarga; o adjetivo sozinho não define o seguimento.",
+          "CIV muscular pequena frequentemente diminui ou fecha sozinha. CIV não muscular pequena pode continuar exigindo ecocardiograma para observar a valva aórtica e possíveis obstruções, mesmo sem sintomas.",
+          "Observe respiração, duração e esforço das mamadas, suor, ganho de peso, disposição para brincar ou fazer exercício, palpitações, dor no peito, desmaio, inchaço e mudança de cor. Registre mudanças em relação ao habitual.",
+          "Leve às consultas o laudo do ecocardiograma e pergunte se a CIV é muscular ou não muscular, se há dilatação cardíaca e se a valva aórtica está normal. Guarde também lista de medicamentos e procedimentos.",
+          "Mantenha higiene da boca e consultas odontológicas. Avise o dentista sobre a CIV e qualquer reparo; antibiótico antes de procedimento não é automático para CIV pequena não reparada.",
+          "CIV não é contagiosa nem foi causada por esforço ou alimentação. Uma criança com defeito realmente pequeno e estável geralmente pode frequentar escola e brincar, seguindo apenas limites individualizados."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra o plano de retorno. A frequência muda muito entre CIV muscular pequena, CIV não muscular, defeito residual e caso pós-reparo; não use a palavra 'leve' para cancelar ecocardiograma.",
+          "Não existe posição, massagem, exercício respiratório ou treino que feche a CIV. Atividade ajuda a saúde geral, mas não substitui a avaliação do fluxo, câmaras e valvas.",
+          "Crianças com CIV pequena ou reparada e sem complicações geralmente podem fazer atividades habituais. Interrompa o esforço e procure avaliação se houver falta de ar fora do esperado, dor no peito, palpitação sustentada, tontura ou desmaio.",
+          "Na escola, forneça apenas restrições documentadas e contatos de emergência. Evite exclusão automática quando a cardiologia liberou atividade normal.",
+          "Após cirurgia ou cateterismo, siga os cuidados da ferida ou punção e os limites de banho, peso, bicicleta, natação e esporte entregues pelo centro, ainda que o resíduo seja chamado de leve.",
+          "Não use oxímetro, relógio, frequência cardíaca ou balança para declarar estabilidade sozinho. Se a equipe pediu medidas em casa, registre valor, horário, sintomas e situação."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha a CIV. Uma CIV realmente pequena e sem repercussão costuma não precisar de remédio específico, mas essa conclusão depende da avaliação da criança.",
+          "Não inicie, ajuste ou suspenda diurético, vasodilatador ou outro medicamento porque o laudo diz 'leve' ou porque a criança parece bem. Siga apenas o plano prescrito.",
+          "Não ofereça medicamento de outra pessoa, sobra de receita, descongestionante, estimulante, energético ou suplemento sem confirmar segurança com médico ou farmacêutico.",
+          "Antibiótico antes de procedimento dentário não é automático para CIV pequena não reparada. Após fechamento, pode ser indicado nos primeiros seis meses ou se houver defeito residual junto ao material; confirme com a cardiologia.",
+          "Se uma dose prescrita for esquecida, vomitada ou administrada em duplicidade, não dobre nem repita automaticamente. Contate o serviço ou farmacêutico.",
+          "Procure atendimento por desmaio, falta de ar, inchaço de face, chiado, sangramento importante, sonolência intensa ou outra reação relevante após medicamento; não tente corrigir com dose extra."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "CIV pequena e sem repercussão geralmente não exige fórmula especial, dieta, sal extra ou restrição de líquidos. Mantenha leite e alimentação adequados à idade, salvo plano individual.",
+          "Em bebês, observe mamada muito longa, respiração rápida, suor, pausas, cansaço, vômitos repetidos, menor ingestão e baixo ganho de peso. Esses sinais não combinam com baixa repercussão presumida e precisam de reavaliação.",
+          "Não concentre fórmula, acrescente suplemento ou reduza água por conta própria. Erro de concentração pode causar desidratação ou sobrecarga e não trata o defeito.",
+          "Fórmula hipercalórica, leite fortificado ou sonda só devem ser usados quando prescritos, com concentração, volume, ritmo e higiene ensinados pela equipe.",
+          "Crianças maiores podem seguir alimentação variada. Evite energéticos e excesso de cafeína, principalmente se houver palpitações; nenhum alimento ou vitamina fecha a CIV.",
+          "Não force alimento ou líquido durante dificuldade respiratória importante, cianose, engasgo, sonolência ou rebaixamento de consciência. Posicione com segurança e procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil em repouso, costelas marcando, gemência, incapacidade de mamar ou falar por falta de ar, lábios/pele azulados ou acinzentados, palidez fria ou criança difícil de acordar. Em situação grave, acione o SAMU 192.",
+          "Bebê que não consegue completar mamadas, sua muito, vomita repetidamente, faz bem menos xixi, fica muito sonolento ou apresenta perda/estagnação de peso junto de piora respiratória ou abatimento.",
+          "Desmaio, dor forte no peito, palpitação rápida ou irregular que não passa e vem com falta de ar, palidez, tontura ou alteração da consciência.",
+          "Inchaço que aumenta rapidamente, barriga muito distendida, piora súbita da respiração, pouca urina ou extremidades frias, especialmente se houver tratamento cardíaco.",
+          "Fraqueza súbita de um lado, boca torta, fala ou visão alterada, convulsão, confusão ou dor de cabeça abrupta e muito intensa. Acione o SAMU 192 e anote a hora de início.",
+          "Após cirurgia ou cateterismo: sangramento que não para com a compressão ensinada, membro frio/pálido/doloroso, falta de ar nova, febre com prostração, abertura ou secreção na ferida, dor crescente, desmaio ou piora rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se 'leve' não estiver fundamentado, marque cardiologia pediátrica para confirmar subtipo, tamanho, fluxo, câmaras cardíacas, pressão pulmonar, valva aórtica e possíveis obstruções. Sopro e ausência de sintomas não bastam.",
+          "Para CIV muscular pequena, isolada e criança bem, a orientação ACC admite retorno clínico a cada 3–5 anos até o sopro desaparecer ou alta compartilhada entre família, pediatra e cardiologista. Somente a equipe deve confirmar que esse plano se aplica.",
+          "Para CIV não muscular pequena e sem dilatação, a orientação ACC mantém cardiologia e ecocardiograma, em geral a cada 1–2 anos, para vigiar valva aórtica e obstruções até fechamento espontâneo ou mudança do plano.",
+          "Antecipe a consulta se aparecerem taquipneia, suor ou cansaço nas mamadas, baixo ganho de peso, infecções respiratórias repetidas, falta de ar ao esforço, palpitações, dor torácica, desmaio, inchaço ou alteração nova no ecocardiograma. Esses achados exigem rever a classificação de 'leve'.",
+          "Após fechamento espontâneo ou reparo, confirme se restou comunicação, alteração valvar, disfunção, pressão pulmonar elevada ou arritmia. Com mais de um ano do reparo e sem sequela ou apenas resíduo pequeno, o retorno pode ser espaçado para cada 2–5 anos.",
+          "Na adolescência, confirme se há alta segura ou necessidade de transição para cardiologia de cardiopatia congênita do adulto. CIV não muscular, reparo prévio, defeito residual ou qualquer complicação exigem continuidade individualizada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não trate 'leve' como definitivo nas primeiras semanas sem avaliação do fluxo e das câmaras, pois a repercussão pode mudar com a queda da resistência pulmonar. Taquipneia, suor, pausas na mamada, palidez, pouca urina ou baixo ganho de peso exigem reavaliação precoce.",
+        "3a5m": "Acompanhe respiração, duração das mamadas, suor, vômitos, urina e curva de peso. Uma CIV realmente pequena costuma não causar falha alimentar; sintomas pedem revisão da gravidade ou busca de outra causa.",
+        "6a11m": "CIV muscular pequena pode estar diminuindo, mas a confirmação é clínica/ecocardiográfica conforme o plano. CIV não muscular continua exigindo vigilância da valva aórtica e de obstruções mesmo sem sintomas.",
+        "1a": "Acompanhe crescimento, desenvolvimento, respiração e disposição para brincar. Confirme subtipo antes de espaçar retornos; ausência de sintomas não exclui complicação valvar em CIV não muscular.",
+        "2a5": "Muitas CIV musculares pequenas diminuem ou fecham. Mantenha o plano até confirmação e siga vigilância ecocardiográfica se o defeito for não muscular. Criança estável geralmente frequenta escola e brinca conforme liberação.",
+        "6a11": "Observe tolerância a corrida e educação física, falta de ar, palpitações, dor torácica ou desmaio. CIV pequena ou reparada sem complicações geralmente permite atividade normal, mas novos sintomas antecipam a revisão.",
+        "12a17": "O adolescente deve conhecer subtipo, reparo, resíduo e plano de retorno. Revise esporte competitivo, energéticos, nicotina e transição; não abandone seguimento de CIV não muscular apenas porque foi chamada de leve.",
+        "unknown": "Confirmar idade, subtipo, tamanho, fluxo, dilatação, pressão pulmonar, valva aórtica, obstruções, sintomas, reparo/resíduo, medicamentos e nutrição. Sem isso, não definir alta, retorno, dieta, esporte, antibiótico ou procedimento por 'leve'."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2216_1",
+          "name": "Outpatient Management of Isolated Left-to-Right Shunt Lesions in Pediatric Patients: 2026 ACC Concise Clinical Guidance",
+          "url": "https://www.jacc.org/doi/full/10.1016/j.jacc.2025.11.020"
+        },
+        {
+          "id": "pais237_op2216_2",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2216_3",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2216_4",
+          "name": "Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2216_5",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2217",
+      "specific": false,
+      "key": "pdf1500_258",
+      "label": "Comunicação interventricular moderado",
+      "entity": "Comunicação interventricular congênita com possível repercussão anatômica ou hemodinâmica moderada, a confirmar por ecocardiograma, sintomas e crescimento",
+      "assessment": "{\"classification\":\"VALID_BASE_DISEASE_WITH_NONINDEPENDENT_HEMODYNAMIC_SEVERITY_QUALIFIER\",\"normalized_entity\":\"Comunicação interventricular\",\"normalized_key\":\"pdf1500_249\",\"qualifier\":\"moderado\",\"qualifier_assessment\":\"O qualificador pode descrever tamanho ou repercussão intermediários, mas não é subtipo nosológico independente. Em português clínico, a concordância esperada é 'comunicação interventricular moderada'. Corrigir a gramática não resolve a insuficiência: gravidade não pode ser inferida pelo adjetivo, pelo sopro ou por um diâmetro isolado sem anatomia, idade, tamanho corporal e hemodinâmica.\",\"assessment\":\"CIV é uma abertura congênita no septo entre os ventrículos. A relevância depende de localização muscular/não muscular, número e tamanho dos defeitos, direção e magnitude do fluxo, dilatação cardíaca esquerda, pressão pulmonar, valva aórtica, obstruções, sintomas e crescimento. CIV moderada pode causar taquipneia, sudorese, alimentação difícil e baixo ganho de peso, mas também pode estar compensada com sintomas discretos e dilatação progressiva. A palavra 'moderado' não prova insuficiência cardíaca, hipertensão pulmonar ou indicação imediata de fechamento.\",\"reconciliation\":{\"base_key\":\"pdf1500_249\",\"base_label\":\"Comunicação interventricular\",\"relationship\":\"SEVERITY_DESCRIPTOR_REQUIRING_OBJECTIVE_ANATOMIC_AND_HEMODYNAMIC_CONTEXT_NOT_SEPARATE_DISEASE\",\"content_rule\":\"Usar a orientação da CIV de base. Manter 'moderada' apenas como dado confirmado e contextualizado no laudo; não usar o adjetivo isolado como gatilho de medicamento, fórmula, sonda, restrição, fechamento ou calendário.\",\"difference_retained\":\"O nome original permanece pesquisável. Quando houver CIV moderada com hiperfluxo, sintomas ou dilatação cardíaca documentados, preservar seguimento mais próximo e discussão de intervenção sem contá-la como entidade clínica adicional.\"},\"not_automatically_equivalent_to\":[\"CIV muscular confirmada\",\"CIV perimembranosa ou outro defeito não muscular\",\"Diâmetro absoluto ou faixa universal em milímetros\",\"Shunt moderado ou hemodinamicamente significativo\",\"Dilatação do átrio ou ventrículo esquerdos\",\"Hipertensão pulmonar\",\"Insuficiência cardíaca\",\"Sintomas moderados\",\"Sopro de intensidade moderada\",\"Indicação imediata de diurético, fórmula hipercalórica ou sonda\",\"Indicação automática de fechamento por cateter ou cirurgia\",\"Restrição esportiva automática\",\"Defeito residual moderado após reparo\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente. CIV moderada ou grande pode tornar-se sintomática nas primeiras semanas, à medida que cai a resistência vascular pulmonar. Lactentes precisam de vigilância de respiração, mamadas, suor, urina e ganho de peso. Defeitos não musculares mantêm risco de prolapso/regurgitação aórtica e obstruções mesmo com shunt menor. Após reparo, o plano depende de defeito residual, função ventricular, pressão pulmonar e ritmo.\",\"critical_context_to_confirm\":[\"Ecocardiograma confirmando localização, número, tamanho, direção e magnitude do fluxo\",\"Classificação muscular ou não muscular e relação com valvas e vias de entrada/saída\",\"Dilatação do átrio e ventrículo esquerdos, função cardíaca e estimativa da pressão pulmonar\",\"Prolapso ou insuficiência da valva aórtica, membrana subaórtica e ventrículo direito de dupla câmara\",\"Idade, prematuridade, síndrome genética, doença pulmonar e outras cardiopatias associadas\",\"Frequência/esforço respiratório, mamadas, sudorese, vômitos, urina e curva de peso\",\"Tolerância ao esforço, palpitações, dor torácica, desmaio, edema ou cianose em crianças maiores\",\"Medicamentos e plano nutricional já prescritos, resposta clínica e efeitos adversos\",\"Fechamento espontâneo, cirurgia ou dispositivo, data, shunt residual, ferida, acesso vascular e protocolo do centro\"],\"counting_rule\":\"Preservar pdf1500_258 como variante cadastral de gravidade, reconciliar com pdf1500_249 e contar zero entidade clínica específica adicional. A palavra 'moderado' não incrementa cobertura validada.\",\"inferences\":[\"A ACC usa CIV moderada/grande no contexto de sintomas de hiperfluxo e/ou dilatação cardíaca esquerda, sustentando o grau como descrição hemodinâmica e não como doença independente.\",\"Como shunt moderado compensado pode causar poucos sintomas, ausência de queixas não exclui repercussão; por outro lado, sintomas intensos exigem procurar outras causas e complicações, não apenas aceitar o adjetivo.\",\"A separação muscular/não muscular muda história natural e riscos, portanto o grau moderado não substitui a classificação anatômica.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "'Moderada' não é uma nova cardiopatia nem informação suficiente para decidir tratamento. Peça ao cardiologista que explique se o termo se refere ao tamanho, ao fluxo, ao aumento do coração esquerdo, aos sintomas ou a outro achado.",
+          "Mantenha consultas e ecocardiogramas mesmo quando a criança parece bem. Uma CIV com shunt moderado pode estar compensada e causar dilatação progressiva com poucas queixas.",
+          "Observe respiração, duração e esforço das mamadas, suor, vômitos, urina, ganho de peso, disposição para brincar, falta de ar, palpitações, dor no peito, desmaio, inchaço e mudança de cor.",
+          "Leve laudos anteriores para comparação. O exame deve informar localização, tamanho, número de defeitos, fluxo, câmaras esquerdas, pressão pulmonar, valva aórtica e obstruções; sopro ou número isolado não definem gravidade.",
+          "Mantenha higiene da boca e consultas odontológicas. Avise sobre CIV e reparo prévio; antibiótico antes de procedimento não é automático e depende do plano da cardiologia.",
+          "CIV é congênita, não contagiosa e não foi causada por alimentação, esforço ou atitude da família. Escola e convívio não exigem afastamento pelo rótulo, salvo restrição individual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra o retorno no prazo da cardiologia. Lactentes com CIV moderada/grande precisam de avaliação mais próxima porque os sintomas podem aparecer conforme cai a resistência dos vasos pulmonares.",
+          "Não existe posição, massagem ou exercício que feche a CIV. Pausas durante mamadas podem reduzir cansaço, mas não substituem a avaliação do fluxo e do crescimento.",
+          "Se liberada, a criança pode brincar e frequentar escola. Interrompa esforço e antecipe avaliação se houver falta de ar desproporcional, palpitação persistente, dor torácica, tontura ou desmaio.",
+          "Não use oxímetro, relógio, frequência do sopro ou balança isoladamente para classificar a CIV. Se a equipe pediu medidas em casa, registre valor, horário, sintomas e condições da medição.",
+          "Após cirurgia ou cateterismo, siga cuidados da ferida/punção e limites temporários de banho, peso, bicicleta, natação e esporte entregues pelo centro.",
+          "Na escola, entregue apenas restrições documentadas e contatos de emergência. Evite exclusão automática por causa da palavra 'moderado'."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha a CIV ou acelera seu fechamento. Remédios podem controlar sintomas de hiperfluxo ou insuficiência cardíaca enquanto a equipe acompanha ou planeja intervenção.",
+          "Não inicie, suspenda, aumente ou reduza diurético, vasodilatador ou outro tratamento apenas porque o laudo diz 'moderado' ou porque a respiração melhorou.",
+          "Use somente o medicamento, apresentação, quantidade, intervalo e duração prescritos para esta criança. Após dose esquecida, vomitada ou duplicada, não compense automaticamente; peça orientação.",
+          "Fórmula hipercalórica, alimentação por sonda e medicamentos exigem prescrição e treinamento. Não transforme opções mencionadas em diretriz em tratamento doméstico universal.",
+          "Antibiótico odontológico não é automático para CIV não reparada. Após fechamento, pode ser indicado temporariamente ou quando há defeito residual junto ao material; confirme com cardiologia e dentista.",
+          "Falta de ar, desmaio, inchaço de face, chiado, sonolência intensa, sangramento importante ou outra reação relevante após medicamento exige atendimento; leve a embalagem e os horários usados."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "CIV classificada como moderada não exige automaticamente fórmula especial, suplemento, sal extra ou restrição de líquidos. Mantenha leite e alimentação adequados à idade salvo plano individual.",
+          "Em bebês, observe mamada muito longa, respiração rápida, suor, pausas frequentes, cansaço, vômitos repetidos, menor volume ingerido e baixo ganho de peso. Esses sinais podem indicar hiperfluxo e precisam de reavaliação.",
+          "Não concentre fórmula, acrescente calorias, altere sal ou reduza água por conta própria. Erros podem causar desidratação ou sobrecarga e não tratam o defeito.",
+          "Fórmula fortificada ou sonda pode ser necessária em alguns lactentes sintomáticos, mas concentração, volume, ritmo e higiene devem vir da equipe de cardiologia/nutrição.",
+          "Crianças maiores podem seguir alimentação variada. Evite energéticos e excesso de cafeína, sobretudo se houver palpitações; nenhum alimento ou vitamina fecha a CIV.",
+          "Não force alimento ou líquido durante dificuldade respiratória importante, cianose, engasgo, sonolência ou alteração de consciência. Procure atendimento imediato."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil em repouso, costelas marcando, gemência, incapacidade de mamar ou falar por falta de ar, lábios/pele azulados ou acinzentados, palidez fria ou criança difícil de acordar.",
+          "Bebê que não consegue completar mamadas, sua muito, vomita repetidamente, faz bem menos xixi, fica progressivamente sonolento ou apresenta piora respiratória e estagnação/perda de peso.",
+          "Desmaio, dor forte no peito, palpitação rápida ou irregular que não passa e vem com falta de ar, palidez, tontura ou alteração da consciência.",
+          "Inchaço que aumenta rapidamente, barriga muito distendida, falta de ar em piora, pouca urina ou extremidades frias, especialmente durante tratamento para insuficiência cardíaca.",
+          "Fraqueza súbita de um lado, boca torta, fala ou visão alterada, convulsão, confusão ou dor de cabeça abrupta e intensa. Acione o SAMU 192 e anote a hora de início.",
+          "Após cirurgia ou cateterismo: sangramento que não para, membro frio/pálido/doloroso, falta de ar nova, febre com prostração, abertura ou secreção na ferida, dor crescente, desmaio ou piora rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça reavaliação do rótulo 'moderado' com o laudo completo. A cardiologia deve confirmar localização, tamanho, shunt, dilatação das câmaras esquerdas, pressão pulmonar, valva aórtica e possíveis obstruções.",
+          "Para CIV moderada/grande isolada e criança estável com menos de 3 meses, a orientação ACC propõe avaliação clínica a cada 2 a 4 semanas; sintomas exigem atendimento antes do prazo.",
+          "Após 3 meses, CIV moderada/grande pode ser revista a cada 3 a 6 meses conforme respiração, mamadas, crescimento e ecocardiograma. O centro pode encurtar o intervalo por sintomas, comorbidades ou anatomia não muscular.",
+          "Depois de 6 meses, sintomas persistentes ou dilatação progressiva do ventrículo esquerdo devem levar à discussão de fechamento; momento e técnica dependem de número, localização, tamanho e pressão pulmonar.",
+          "CIV não muscular precisa de vigilância própria para prolapso/regurgitação aórtica, membrana subaórtica e ventrículo direito de dupla câmara, mesmo quando o fluxo diminui.",
+          "Após reparo, siga o cronograma do centro. Defeito residual moderado, arritmia, disfunção, pressão pulmonar elevada ou nova alteração clínica exige acompanhamento mais próximo e pode demandar nova intervenção."
+        ]
+      },
+      "ageMap": {
+        "u3m": "CIV moderada/grande pode tornar-se sintomática nas primeiras semanas. Observe taquipneia, suor, pausas/fadiga nas mamadas, palidez, pouca urina e peso. Se estável e isolada, ACC propõe revisão a cada 2–4 semanas; piora exige atendimento antes.",
+        "3a5m": "Acompanhe respiração, duração das mamadas, suor, vômitos, urina e curva de peso. Retorno pode ocorrer a cada 3–6 meses conforme estabilidade, ou antes se houver sintomas; não altere fórmula ou remédio sem a equipe.",
+        "6a11m": "Se persistirem sintomas ou dilatação cardíaca esquerda após 6 meses, a cardiologia deve discutir fechamento conforme número, local, tamanho e pressão pulmonar. Não adiar por causa do termo apenas 'moderado'.",
+        "1a": "Acompanhe crescimento, desenvolvimento, respiração e disposição. Confirme subtipo e repercussão antes de espaçar retornos; ausência de sintomas não exclui dilatação ou complicação valvar em defeito não muscular.",
+        "2a5": "Se a CIV permanece moderada, confirme evolução, câmaras esquerdas, pressão pulmonar e motivo de observação ou fechamento. Criança estável geralmente frequenta escola e brinca conforme liberação.",
+        "6a11": "Observe tolerância a corrida e educação física, falta de ar, palpitações, dor torácica ou desmaio. Atividade depende da repercussão real, não do adjetivo isolado.",
+        "12a17": "O adolescente deve conhecer localização, reparo, resíduo, medicamentos e sinais de alerta. Revise esporte competitivo, energéticos, adesão e transição para cardiologia congênita do adulto.",
+        "unknown": "Confirmar idade, subtipo, tamanho, fluxo, câmaras esquerdas, pressão pulmonar, valva aórtica, obstruções, sintomas, reparo/resíduo, medicamentos e nutrição. Sem isso, 'moderado' não define alta, retorno, dieta, esporte ou procedimento."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2217_1",
+          "name": "Outpatient Management of Isolated Left-to-Right Shunt Lesions in Pediatric Patients: 2026 ACC Concise Clinical Guidance",
+          "url": "https://www.jacc.org/doi/full/10.1016/j.jacc.2025.11.020"
+        },
+        {
+          "id": "pais237_op2217_2",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2217_3",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2217_4",
+          "name": "Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2217_5",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2218",
+      "specific": false,
+      "key": "pdf1500_259",
+      "label": "Comunicação interventricular não especificado",
+      "entity": "Registro de comunicação interventricular congênita sem localização, tipo muscular/não muscular, tamanho, número, repercussão hemodinâmica ou estado de reparo especificados no rótulo",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNDERSPECIFIED_ANATOMIC_HEMODYNAMIC_AND_REPAIR_CONTEXT\",\"normalized_entity\":\"Comunicação interventricular (CIV; subtipo não informado no rótulo)\",\"normalized_key\":\"pdf1500_249\",\"unsupported_or_non_autonomous_qualifier\":\"não especificado\",\"assessment\":\"Comunicação interventricular é uma cardiopatia congênita válida, mas ‘não especificado’ é ausência de classificação. Diretrizes separam CIV muscular e não muscular e consideram localização, tamanho, número, direção do shunt, sintomas, dilatação do coração esquerdo, pressão pulmonar, relação com valvas e reparo. Essas diferenças mudam a chance de fechamento espontâneo, vigilância de valva aórtica/obstruções, frequência do retorno e indicação de intervenção. Portanto, nenhuma dessas características pode ser inferida pelo nome cadastral.\",\"reconciliation\":{\"relationship\":\"UNDERSPECIFIED_LABEL_OF_pdf1500_249_NOT_SEPARATE_DISEASE\",\"canonical_key\":\"pdf1500_249\",\"canonical_label\":\"Comunicação interventricular\",\"content_rule\":\"Compartilhar orientação segura do guarda-chuva CIV mantendo a incerteza explícita. Aplicar alta/seguimento espaçado de CIV muscular pequena, vigilância de CIV não muscular, retornos de CIV moderada/grande ou protocolo pós-reparo somente depois de confirmação ecocardiográfica.\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\",\"difference_retained\":\"O nome original permanece pesquisável para sinalizar classificação incompleta até que anatomia, repercussão e estado de reparo sejam documentados.\"},\"not_automatically_equivalent_to\":[\"CIV muscular pequena\",\"CIV perimembranosa, de entrada ou de saída/supracristal\",\"CIV única, pareada ou múltipla tipo ‘queijo suíço’\",\"CIV pequena, moderada, grande ou hemodinamicamente significativa\",\"Comunicação interatrial ou defeito do septo atrioventricular\",\"Insuficiência cardíaca, hipertensão pulmonar, síndrome de Eisenmenger ou arritmia\",\"Defeito não reparado, fechamento espontâneo, reparo completo ou shunt residual\",\"Indicação automática de alta, medicamento, fórmula hipercalórica, sonda, cateterismo ou cirurgia\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente. CIV moderada/grande pode tornar-se sintomática nas primeiras semanas com a queda da resistência pulmonar; CIV muscular pequena frequentemente diminui/fecha; CIV não muscular requer vigilância de valva aórtica e obstruções mesmo quando pequena. Sem subtipo e repercussão, não se pode aplicar nenhum desses cursos. O plano também muda após reparo e durante a transição para cardiologia congênita do adulto.\",\"critical_context_to_confirm\":[\"Ecocardiograma confirmando CIV verdadeira, localização, número, tamanho, direção e magnitude do fluxo\",\"Classificação muscular ou não muscular e relação com valvas e vias de entrada/saída\",\"Dilatação de átrio/ventrículo esquerdos, função ventricular e estimativa da pressão pulmonar\",\"Prolapso/regurgitação aórtica, membrana subaórtica, ventrículo direito de dupla câmara e outras cardiopatias\",\"Idade, prematuridade, síndrome genética, doença pulmonar e crescimento\",\"Taquipneia, sudorese/fadiga às mamadas, baixo ganho, infecções, tolerância ao esforço, palpitação, dor, síncope, edema ou cianose\",\"Fechamento espontâneo, cirurgia/dispositivo, data, material, shunt residual e protocolo do centro\",\"Medicamentos, plano nutricional, atividade, saúde bucal, prazo de retorno e transição\"],\"counting_rule\":\"Conservar ID e rótulo para auditoria, resolver para pdf1500_249 e não somar nova entidade, subtipo, gravidade ou estado de reparo. Ausência de especificação não autoriza presumir a forma mais comum ou a mais benigna.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "‘Comunicação interventricular não especificado’ significa que o cadastro não descreve o tipo da abertura entre os ventrículos. Não informa tamanho, quantidade de sangue que passa, gravidade, número de orifícios ou se já houve fechamento.",
+          "Peça e guarde o laudo do ecocardiograma e o resumo da cardiologia. Eles devem esclarecer localização, muscular ou não muscular, tamanho/número, direção do fluxo, dilatação das câmaras, pressão pulmonar, válvulas, lesões associadas e reparo.",
+          "Muitas CIVs pequenas são assintomáticas e algumas fecham espontaneamente, sobretudo musculares. Não atribua essa evolução ao rótulo incompleto e não abandone retorno até a anatomia ser confirmada.",
+          "Observe respiração, duração/esforço das mamadas, suor, ganho de peso, disposição, cansaço ao brincar, palpitação, dor no peito, tontura, desmaio, edema e cor dos lábios. Registre mudanças.",
+          "Se houve cirurgia ou cateterismo, leve resumo da alta, cartão do dispositivo, laudos e lista de medicamentos. Siga curativo, atividade e retorno do centro; o termo ‘não especificado’ não revela se há shunt residual.",
+          "A CIV é congênita e não contagiosa. Não foi causada por alimento, exercício ou atitude da família; escola e cuidadores precisam apenas dos limites reais definidos pela equipe."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cumpra consultas, ECG e ecocardiogramas conforme plano individual até completar a classificação. Não use por conta própria o intervalo de CIV muscular pequena em um defeito não especificado.",
+          "Atividade física costuma ser possível em CIV pequena ou reparada sem complicações. Hipertensão pulmonar, disfunção cardíaca, arritmia, shunt residual ou pós-operatório recente exigem liberação individual.",
+          "Interrompa o esforço diante de falta de ar fora do habitual, dor torácica, palpitação sustentada, tontura, desmaio ou cor azulada; procure avaliação antes de retomar atividade intensa.",
+          "Mantenha vacinas, higiene das mãos e evite fumaça. Infecção respiratória pode aumentar o esforço de lactentes com hiperfluxo, mas prevenção não substitui avaliação do defeito.",
+          "Mantenha boa higiene bucal e acompanhamento odontológico. Antibiótico preventivo não é automático para toda CIV; depende de reparo, material e defeito residual conforme cardiologia.",
+          "Não use oxímetro, relógio, balança ou intensidade do sopro para decidir que o defeito é pequeno ou que fechou. Medidas isoladas não definem fluxo, pressão pulmonar ou complicações."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento fecha uma CIV ou esclarece seu subtipo. Remédios podem controlar sintomas de hiperfluxo/insuficiência cardíaca enquanto a equipe acompanha ou planeja intervenção.",
+          "Não inicie diurético, vasodilatador, digoxina, remédio para pressão pulmonar, antiarrítmico, antiagregante, anticoagulante, antibiótico ou oxigênio pelo rótulo ‘não especificado’.",
+          "Dê somente o produto, apresentação, quantidade e horário prescritos para a criança. Não dobre dose esquecida, não repita automaticamente dose vomitada e não suspenda por melhora aparente.",
+          "Após dispositivo ou cirurgia, pode haver protocolo temporário para coágulos e endocardite. Siga o centro e avise dentista/cirurgião; não reutilize receita antiga.",
+          "Descongestionantes, estimulantes, energéticos, fitoterápicos e suplementos podem alterar frequência, pressão ou hidratação. Confirme antes, especialmente com insuficiência cardíaca, arritmia ou hipertensão pulmonar.",
+          "Pouca urina, vômitos persistentes, desmaio, piora respiratória, edema, sangramento, manchas roxas ou reação alérgica durante tratamento exige contato rápido; falta de ar ou inchaço de face/língua é emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "CIV pequena e sem repercussão geralmente não exige dieta, fórmula ou restrição hídrica, mas o rótulo não confirma esse cenário. Mantenha alimentação adequada à idade até orientação individual.",
+          "Em lactente, mamada longa com respiração rápida, suor, pausas, cansaço ou baixo ganho pode indicar hiperfluxo/insuficiência cardíaca. Faça pausas e procure avaliação; não force volume.",
+          "Fórmula/leite mais calórico ou sonda pode ser indicado em alguns lactentes, mas exige prescrição e treinamento. Não concentre fórmula, acrescente pó/suplemento ou reduza água por conta própria.",
+          "Não restrinja nem ofereça excesso de líquidos/sal sem plano. Necessidades variam com função cardíaca/renal, diurético, febre e nutrição; improvisos podem causar desidratação ou congestão.",
+          "Crianças maiores podem ter alimentação variada. Evite energéticos e excesso de cafeína, sobretudo com palpitação; nenhum alimento ou vitamina fecha a CIV.",
+          "Se houver falta de ar importante, cianose, desmaio, confusão ou dificuldade para acordar, não force alimento, líquido ou medicamento por boca; procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida/difícil em repouso, afundamento das costelas, gemência, incapacidade de falar ou mamar, lábios/pele azulados ou cinzentos, palidez fria ou criança difícil de acordar exige emergência; acione SAMU 192 se instável.",
+          "Bebê que não completa mamadas, sua muito, vomita repetidamente, urina bem menos, fica prostrado/sonolento ou piora rapidamente precisa de atendimento imediato por possível insuficiência cardíaca, infecção ou outra causa.",
+          "Desmaio durante esforço, dor torácica forte, palpitação rápida ou irregular persistente com falta de ar/tontura, confusão ou convulsão requer avaliação imediata.",
+          "Cianose nova ou progressiva em criança com CIV não deve ser explicada pelo termo ‘não especificado’; pode indicar hipertensão pulmonar, mudança do shunt ou lesão associada e requer urgência.",
+          "Após cateterismo: sangramento que não para conforme orientação, inchaço crescente, dor intensa ou membro frio, pálido, arroxeado ou dormente exige retorno imediato.",
+          "Após cirurgia/dispositivo: falta de ar nova, desmaio, dor intensa, febre com prostração, secreção/vermelhidão progressiva da ferida ou piora rápida exige contato urgente ou pronto atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o registro diz apenas ‘Comunicação interventricular não especificado’, marque cardiologia pediátrica para revisar o ecocardiograma e documentar localização, tipo, número, tamanho, shunt, repercussão, pressão pulmonar, válvulas e reparo.",
+          "Somente CIV muscular pequena, isolada e confirmada pode receber o seguimento ACC espaçado a cada 3–5 anos ou eventual alta compartilhada. Esse plano não se aplica automaticamente ao rótulo não especificado.",
+          "CIV não muscular não reparada costuma manter cardiologia e ecocardiograma por risco de prolapso/regurgitação aórtica e obstruções, mesmo se pequena e assintomática.",
+          "Lactentes com CIV moderada/grande confirmada podem precisar revisão de semanas a meses para peso, respiração e hiperfluxo. O intervalo depende de idade, sintomas e ecocardiograma e não deve ser deduzido do cadastro.",
+          "Antecipe consulta diante de piora de mamadas/crescimento, taquipneia, suor, infecções repetidas, queda de tolerância, palpitação, dor torácica, desmaio, edema ou cianose.",
+          "Após fechamento, cumpra controles do centro. Shunt residual, disfunção, insuficiência aórtica, pressão pulmonar ou mudança clínica exigem revisão mais frequente; adolescente pode precisar transição para cardiologia congênita do adulto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nos primeiros dias a resistência pulmonar pode ocultar repercussão; sintomas de CIV moderada/grande podem aparecer nas semanas seguintes. Observe taquipneia, suor, pausas/fadiga nas mamadas, peso e urina. Cianose, prostração ou mamada impossível é urgência.",
+        "3a5m": "Faixa comum de manifestação de hiperfluxo. Acompanhe respiração, mamadas, suor, vômitos, peso e fraldas. O rótulo não especifica tamanho/tipo; não ajustar fórmula ou remédio sem ecocardiograma e equipe.",
+        "6a11m": "Persistência de sintomas ou dilatação pode levar à discussão de fechamento conforme anatomia. Pequena CIV muscular pode diminuir; CIV não muscular exige vigilância própria. Nenhuma opção pode ser inferida do termo não especificado.",
+        "1a": "Acompanhe crescimento, desenvolvimento, respiração e brincadeiras. A criança pequena não descreve palpitação/falta de ar; irritabilidade, pausas, suor, edema e menor atividade justificam retorno antecipado.",
+        "2a5": "Muitas CIVs musculares pequenas já diminuíram/fecharam, mas isso precisa ser confirmado. Defeitos não musculares seguem vigiando válvula aórtica e obstruções; escola e atividade dependem da repercussão real.",
+        "6a11": "Pergunte sobre corrida, escadas, queda de rendimento, palpitação, dor torácica, tontura e desmaio. Esporte competitivo depende de shunt, pressão pulmonar, função e reparo, não do rótulo incompleto.",
+        "12a17": "Inclua o adolescente na recuperação do diagnóstico: subtipo, reparo, residual, válvula aórtica, pressão pulmonar e medicamentos. Revise esporte, energéticos, tabaco/vape, saúde reprodutiva e transição.",
+        "unknown": "Confirmar idade, anatomia, número, tamanho, fluxo, repercussão, pressão pulmonar, válvulas, sintomas e reparo. Sem isso, não definir alta, retorno, esporte, dieta, medicamento ou procedimento."
+      },
+      "refs": [
+        {
+          "id": "pais237_op2218_1",
+          "name": "Clinical Practice Algorithm for the Follow-Up of Unrepaired and Repaired Ventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2023/05/30/10/47/clinical-practice-algorithm-for-the-follow-up-of-unrepaired-and-repaired-ventricular-septal-defects"
+        },
+        {
+          "id": "pais237_op2218_2",
+          "name": "CHD Clinical Practice Algorithm: Muscular, Non-Muscular and Repaired VSD",
+          "url": "https://www.acc.org/-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Latest-in-Cardiology/Articles/2023/ACPC-Birnbaum-EA.pdf"
+        },
+        {
+          "id": "pais237_op2218_3",
+          "name": "Indian guidelines for indications and timing of intervention for common congenital heart diseases: Revised and updated consensus statement",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6716301/"
+        },
+        {
+          "id": "pais237_op2218_4",
+          "name": "Ventricular Septal Defect (VSD)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ventricular-septal-defect-vsd"
+        },
+        {
+          "id": "pais237_op2218_5",
+          "name": "Ventricular Septal Defect",
+          "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html"
+        },
+        {
+          "id": "pais237_op2218_6",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

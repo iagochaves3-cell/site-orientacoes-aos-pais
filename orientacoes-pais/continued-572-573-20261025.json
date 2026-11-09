@@ -1,0 +1,124 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:06:51.846Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_f974f8dd7c0d8381",
+      "label": "Aspiração de corpo estranho — registro no PPS",
+      "entity": "Aspiração de corpo estranho",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Objeto/alimento nas vias respiratórias; distinto de ingestão digestiva e alergia alimentar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Suspeita de alimento ou objeto entrando nas vias respiratórias precisa de avaliação urgente, mesmo que a criança melhore depois do engasgo. Não espere febre ou uma radiografia alterada: exame e raio-X normais não excluem um objeto aspirado.",
+          "Informe quando ocorreu o engasgo, o que a criança comia ou manipulava e se houve tosse ou chiado repentino. Sintomas podem reaparecer dias depois; não trate automaticamente como asma ou virose."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se está tossindo forte e consegue respirar, incentive a tosse, mantenha companhia e observe. Se não consegue respirar, chorar, falar ou tossir de forma eficaz, peça socorro imediatamente e acione 192 em viva-voz.",
+          "Siga as instruções de primeiros socorros do serviço, adequadas à idade; se você tem treinamento, inicie as manobras apropriadas enquanto alguém chama ajuda. Não faça varredura às cegas com os dedos nem tente alcançar um objeto profundo com pinça.",
+          "Depois da recuperação, mantenha objetos pequenos fora do alcance e supervisione refeições sentado, sem correr ou brincar com comida na boca."
+        ],
+        "MEDICAMENTOS": [
+          "Remédios não retiram um objeto preso. Não adie avaliação para experimentar xarope, broncodilatador, antibiótico ou sedativo que sobrou em casa.",
+          "A equipe pode precisar examinar as vias respiratórias e retirar o material por broncoscopia. Após alta, siga apenas as medicações e orientações fornecidas para o caso; esta ficha não define esquema."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Durante engasgo ou dificuldade para respirar, não ofereça água ou comida para tentar empurrar o objeto. Busque ajuda imediatamente.",
+          "Se há suspeita de material aspirado e a criança está indo ao hospital, peça orientação sobre alimentação e eventual jejum para o procedimento, sem atrasar o atendimento. Após alta, siga a liberação e a textura indicadas para a idade."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Incapacidade de respirar ou tossir eficazmente, lábios azulados, perda de força ou consciência exigem 192 imediatamente. Não espere aparecer coloração azul para pedir socorro.",
+          "Se perder a consciência e não respirar normalmente, siga imediatamente as instruções de reanimação do atendimento telefônico; não deixe a criança sozinha.",
+          "Tosse ou chiado persistentes após engasgo, respiração ruidosa, falta de ar, sangue ao tossir ou febre após o episódio precisam reavaliação. Relate o engasgo mesmo se ocorreu dias antes."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mesmo se o objeto aparentemente saiu após manobras, procure avaliação: podem restar fragmentos ou lesões. A equipe define a necessidade de observação e investigação.",
+          "Após retirada e alta, confirme retorno e sinais esperados de recuperação. Se tosse, chiado, febre ou dificuldade respiratória persistirem ou voltarem, procure atendimento antes da consulta marcada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebês não recebem manobras abdominais. Informe a idade ao 192 e siga as orientações específicas para lactentes.",
+        "3a5m": "Mantenha peças pequenas longe do bebê; em engasgo grave siga orientação específica para lactentes, sem manobras abdominais.",
+        "6a11m": "Na introdução alimentar, adapte formato e textura e supervisione sentado. Em engasgo grave informe ao 192 que é menor de um ano.",
+        "1a": "Supervisione refeições e brinquedos. Não use comida ou água para tentar resolver engasgo.",
+        "2a5": "Evite alimentos duros e redondos inteiros e peças pequenas. Suspeita de aspiração precisa avaliação mesmo após melhora.",
+        "6a11": "Oriente a não correr, rir ou brincar com alimentos/objetos na boca. Tosse súbita durante refeição merece atenção.",
+        "12a17": "Não segure tampas, peças ou objetos na boca. Informe o episódio mesmo se teve vergonha e pareceu melhorar.",
+        "unknown": "Confirme idade para primeiros socorros e tipo de objeto; dificuldade de respirar exige chamada imediata ao 192."
+      },
+      "refs": [
+        {
+          "id": "pais195_op572_1",
+          "name": "Foreign body inhalation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_inhalation/"
+        },
+        {
+          "id": "pais195_op572_2",
+          "name": "How to stop a child from choking",
+          "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-stop-a-child-from-choking/"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": true,
+      "key": "pdf1500_123",
+      "label": "Aspiração de corpo estranho (amendoim)",
+      "entity": "Aspiração de corpo estranho (amendoim)",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Objeto/alimento nas vias respiratórias; distinto de ingestão digestiva e alergia alimentar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Suspeita de alimento ou objeto entrando nas vias respiratórias precisa de avaliação urgente, mesmo que a criança melhore depois do engasgo. Não espere febre ou uma radiografia alterada: exame e raio-X normais não excluem um objeto aspirado.",
+          "Informe quando ocorreu o engasgo, o que a criança comia ou manipulava e se houve tosse ou chiado repentino. Sintomas podem reaparecer dias depois; não trate automaticamente como asma ou virose.",
+          "Aqui, amendoim indica alimento aspirado para a via respiratória; isso não significa automaticamente alergia ao amendoim. Fragmentos podem não aparecer no raio-X, e melhora inicial não garante que saíram."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se está tossindo forte e consegue respirar, incentive a tosse, mantenha companhia e observe. Se não consegue respirar, chorar, falar ou tossir de forma eficaz, peça socorro imediatamente e acione 192 em viva-voz.",
+          "Siga as instruções de primeiros socorros do serviço, adequadas à idade; se você tem treinamento, inicie as manobras apropriadas enquanto alguém chama ajuda. Não faça varredura às cegas com os dedos nem tente alcançar um objeto profundo com pinça.",
+          "Depois da recuperação, mantenha objetos pequenos fora do alcance e supervisione refeições sentado, sem correr ou brincar com comida na boca."
+        ],
+        "MEDICAMENTOS": [
+          "Remédios não retiram um objeto preso. Não adie avaliação para experimentar xarope, broncodilatador, antibiótico ou sedativo que sobrou em casa.",
+          "A equipe pode precisar examinar as vias respiratórias e retirar o material por broncoscopia. Após alta, siga apenas as medicações e orientações fornecidas para o caso; esta ficha não define esquema."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Durante engasgo ou dificuldade para respirar, não ofereça água ou comida para tentar empurrar o objeto. Busque ajuda imediatamente.",
+          "Se há suspeita de material aspirado e a criança está indo ao hospital, peça orientação sobre alimentação e eventual jejum para o procedimento, sem atrasar o atendimento. Após alta, siga a liberação e a textura indicadas para a idade.",
+          "Para prevenção, não ofereça amendoim ou outras castanhas inteiras a crianças pequenas. Esta orientação sobre formato e engasgo não é uma prescrição de exclusão alimentar por alergia."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Incapacidade de respirar ou tossir eficazmente, lábios azulados, perda de força ou consciência exigem 192 imediatamente. Não espere aparecer coloração azul para pedir socorro.",
+          "Se perder a consciência e não respirar normalmente, siga imediatamente as instruções de reanimação do atendimento telefônico; não deixe a criança sozinha.",
+          "Tosse ou chiado persistentes após engasgo, respiração ruidosa, falta de ar, sangue ao tossir ou febre após o episódio precisam reavaliação. Relate o engasgo mesmo se ocorreu dias antes."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mesmo se o objeto aparentemente saiu após manobras, procure avaliação: podem restar fragmentos ou lesões. A equipe define a necessidade de observação e investigação.",
+          "Após retirada e alta, confirme retorno e sinais esperados de recuperação. Se tosse, chiado, febre ou dificuldade respiratória persistirem ou voltarem, procure atendimento antes da consulta marcada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebês não recebem manobras abdominais. Informe a idade ao 192 e siga as orientações específicas para lactentes.",
+        "3a5m": "Mantenha peças pequenas longe do bebê; em engasgo grave siga orientação específica para lactentes, sem manobras abdominais.",
+        "6a11m": "Na introdução alimentar, adapte formato e textura e supervisione sentado. Em engasgo grave informe ao 192 que é menor de um ano.",
+        "1a": "Supervisione refeições e brinquedos. Não use comida ou água para tentar resolver engasgo.",
+        "2a5": "Evite alimentos duros e redondos inteiros e peças pequenas. Suspeita de aspiração precisa avaliação mesmo após melhora.",
+        "6a11": "Oriente a não correr, rir ou brincar com alimentos/objetos na boca. Tosse súbita durante refeição merece atenção.",
+        "12a17": "Não segure tampas, peças ou objetos na boca. Informe o episódio mesmo se teve vergonha e pareceu melhorar.",
+        "unknown": "Confirme idade para primeiros socorros e tipo de objeto; dificuldade de respirar exige chamada imediata ao 192."
+      },
+      "refs": [
+        {
+          "id": "pais195_op573_1",
+          "name": "Foreign body inhalation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_inhalation/"
+        },
+        {
+          "id": "pais195_op573_2",
+          "name": "How to stop a child from choking",
+          "url": "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-stop-a-child-from-choking/"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

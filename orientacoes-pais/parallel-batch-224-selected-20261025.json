@@ -1,0 +1,100 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T09:58:14.307Z",
+  "records": [
+    {
+      "key": "pdf1500_1449",
+      "label": "Síndrome metabólica infantil",
+      "entity": "Agrupamento de fatores de risco cardiometabólico na infância ou adolescência, como adiposidade central, pressão arterial elevada, alterações de triglicerídeos/HDL e da glicose, sem definição diagnóstica pediátrica única e universal",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CARDIOMETABOLIC_RISK_CLUSTER_WITHOUT_UNIVERSAL_DIAGNOSTIC_DEFINITION\",\"normalized_entity\":\"Agrupamento de fatores de risco cardiometabólico pediátrico\",\"assessment\":\"O termo é usado na literatura e na prática para descrever fatores cardiometabólicos que aparecem juntos, mas não existe uma definição pediátrica universal. A AAP recomenda priorizar a identificação e o tratamento de cada componente, e não transformar um ponto de corte adulto ou uma soma isolada em diagnóstico definitivo. A proposta IDF de 2007 não diagnostica síndrome metabólica abaixo de 10 anos; entre 10 e 15 anos usa uma definição própria, e a partir de 16 anos usa critérios adultos. Assim, idade, sexo, puberdade, crescimento, método de medida, repetição dos exames e contexto clínico são indispensáveis. O rótulo não significa doença cardíaca aguda, não autoriza dieta restritiva ou medicamento automático e não substitui diagnósticos individuais como hipertensão, dislipidemia, diabetes tipo 2, obesidade ou doença hepática gordurosa.\",\"not_automatically_equivalent_to\":[\"Obesidade isolada, IMC alto isolado ou aparência corporal\",\"Resistência à insulina diagnosticada por insulina de jejum\",\"Diabetes tipo 2, hipertensão, dislipidemia ou doença hepática já confirmados\",\"Aplicação automática de critérios adultos a qualquer criança\",\"Indicação automática de metformina, estatina, anti-hipertensivo ou medicamento para peso\",\"Culpa da criança ou da família, falta de força de vontade ou autorização para estigma\"],\"counting_rule\":\"Contar este ID como orientação específica para agrupamento de risco cardiometabólico pediátrico somente após integração e publicação. Não contar como cobertura individual de obesidade, hipertensão, dislipidemia, pré-diabetes, diabetes tipo 2, apneia do sono ou doença hepática gordurosa.\",\"pediatric_scope\":\"O conceito é mais aplicável a crianças maiores e adolescentes com fatores de risco medidos e confirmados. Em menores de 10 anos, não usar a definição IDF para fechar síndrome metabólica; identificar e acompanhar cada risco. Em lactentes e crianças pequenas, um rótulo isolado é inadequado e exige revisão da origem do cadastro e avaliação própria da idade.\",\"reason_for_source_term_issue\":null}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Síndrome metabólica infantil é um nome usado quando vários fatores de risco para diabetes e doença cardiovascular aparecem juntos, como excesso de gordura abdominal, pressão alta, triglicerídeos altos, HDL baixo e glicose alterada. Em crianças, não existe uma definição única; a equipe deve confirmar e acompanhar cada componente separadamente.",
+          "O rótulo não significa que a criança esteja tendo infarto nem que terá diabetes inevitavelmente. Ele indica necessidade de cuidado contínuo para reduzir riscos e preservar crescimento, sono, saúde mental e participação na escola.",
+          "Leve às consultas a lista de medicamentos e suplementos, resultados de exames, medidas de pressão feitas corretamente, histórico de crescimento, sono, ronco, atividade, alimentação e doenças cardiovasculares ou diabetes na família. Não interprete um valor isolado sem a equipe.",
+          "Use linguagem sem culpa, ameaça ou apelidos sobre o corpo. Peso e exames não definem valor, caráter ou esforço da criança. Mudanças de rotina devem envolver a família e respeitar condições de moradia, renda, cultura, neurodiversidade, deficiência e segurança do bairro.",
+          "Não suspenda acompanhamento porque o peso estabilizou ou um exame melhorou. Pressão, crescimento, glicose, lipídios e fígado podem evoluir de formas diferentes e precisam de reavaliação programada.",
+          "A condição não é contagiosa e não impede escola ou convivência. Informe a escola apenas sobre necessidades reais, como água, alimentação, atividade, uso de medicamento e plano de emergência, preservando privacidade e evitando discriminação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize metas pequenas e familiares, escolhidas com a criança ou adolescente: refeições mais regulares, água disponível, sono suficiente, menos tempo sedentário e movimento prazeroso. A meta é saúde e função, não perda rápida de peso.",
+          "Estimule atividade física adequada à idade, capacidade e segurança, aumentando de forma progressiva. Brincar, caminhar, dançar, pedalar e esportes contam; dor no peito, desmaio, falta de ar desproporcional ou limitação importante exigem avaliação antes de insistir.",
+          "Reduza longos períodos sentado com pausas de movimento. Evite usar exercício como castigo ou comida como prêmio; isso pode piorar relação com alimentação e atividade.",
+          "Mantenha rotina de sono e avise a equipe sobre ronco alto, pausas respiratórias, engasgos durante o sono, dor de cabeça matinal, sonolência ou queda escolar, pois apneia do sono pode aumentar risco cardiometabólico.",
+          "Peça apoio multiprofissional quando disponível. Programas familiares, estruturados e sem estigma costumam ser mais úteis que conselhos isolados ou cobranças; saúde mental, nutrição, escola e serviço social podem fazer parte do plano.",
+          "Não meça cintura, peso, pressão ou glicose repetidamente por ansiedade sem um plano clínico. A qualidade da técnica e a interpretação por idade e crescimento importam mais que vigilância doméstica excessiva."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe um único remédio para síndrome metabólica infantil. Quando necessário, a equipe trata cada problema confirmado, como pressão, colesterol, glicose ou obesidade, considerando idade, puberdade, gravidade, comorbidades e resposta ao cuidado familiar.",
+          "Não inicie metformina, estatina, anti-hipertensivo, medicamento para emagrecer, diurético, hormônio, fitoterápico ou suplemento por conta própria. Esses produtos têm indicações, contraindicações, interações e monitorização diferentes e não são liberados apenas pelo rótulo da síndrome.",
+          "Use somente a apresentação e o modo prescritos para aquela criança. Não compartilhe medicamento, não dobre dose esquecida e não interrompa tratamento de diabetes, pressão, colesterol, epilepsia, saúde mental ou outra doença sem orientação.",
+          "Informe todos os medicamentos que podem influenciar apetite, peso, pressão, glicose ou lipídios. A equipe decide se é preciso ajustar o plano; parar abruptamente pode causar dano.",
+          "Insulina de jejum isolada não deve ser usada para diagnosticar resistência à insulina ou decidir tratamento. Exames de glicose, lipídios e fígado devem ser escolhidos e interpretados no contexto clínico.",
+          "Procure orientação se surgirem tontura, desmaio, tremor, suor frio, vômitos, dor muscular importante, urina escura, inchaço, reação de pele ou piora do humor após medicamento. Dificuldade para respirar, inchaço de face, convulsão ou perda de consciência exige emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça água como bebida principal e refeições regulares com alimentos variados: verduras e legumes, frutas, feijões, grãos integrais, fontes de proteína e gorduras insaturadas conforme cultura, acesso e orientação nutricional. Não é necessário alimento especial ou caro para iniciar mudanças.",
+          "Reduza gradualmente refrigerantes, sucos adoçados, energéticos e outras bebidas açucaradas; evite manter grandes quantidades em casa. Não substitua por suplementos, chás ou produtos dietéticos sem avaliar idade e segurança.",
+          "Diminua a frequência de alimentos ultraprocessados ricos em açúcar, sal ou gordura saturada, sem proibições humilhantes. Planeje compras e lanches em família e preserve porções suficientes para crescimento.",
+          "Não faça jejum prolongado, dieta cetogênica, detox, contagem obsessiva de calorias ou retirada ampla de carboidratos, glúten, leite ou frutas sem indicação. Dietas restritivas podem prejudicar crescimento, micronutrientes, saúde óssea e relação com a comida.",
+          "Coma, quando possível, à mesa e sem telas, respeitando sinais de fome e saciedade. Não force a criança a limpar o prato e não use pesagem diária como julgamento.",
+          "Avise cedo se houver compulsão, comer escondido, vômitos provocados, uso de laxante, medo intenso de engordar, recusa alimentar, perda rápida de peso ou exercício compulsivo. Esses sinais precisam de avaliação de saúde mental e nutrição, não de mais restrição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência diante de muita sede e urina em grande quantidade acompanhadas de vômitos, dor abdominal, respiração rápida e profunda, hálito diferente, desidratação, sonolência ou confusão; isso pode indicar descompensação grave da glicose.",
+          "Vá imediatamente se houver dor de cabeça muito forte com alteração visual, confusão, fraqueza em um lado do corpo, dificuldade para falar, convulsão, dor no peito ou falta de ar, especialmente com pressão muito elevada já conhecida.",
+          "Chame a emergência se ocorrer dor no peito com esforço, desmaio durante atividade, palpitação com desmaio, pele azulada ou dificuldade intensa para respirar. Interrompa a atividade e não ofereça alimento ou líquido se a pessoa estiver inconsciente.",
+          "Em quem usa insulina ou outro medicamento que pode baixar a glicose, alteração de comportamento, suor frio, tremor, convulsão ou perda de consciência exige seguir imediatamente o plano de hipoglicemia fornecido pela equipe e acionar emergência quando a criança não consegue engolir ou não melhora.",
+          "Inchaço de face ou língua, falta de ar, desmaio, bolhas extensas ou convulsão após medicamento, suplemento ou alimento exige emergência; leve as embalagens sem atrasar o atendimento.",
+          "Risco de autoagressão, fala de morte, desespero intenso ou comportamento alimentar perigoso com desmaio, confusão ou incapacidade de manter líquidos exige ajuda imediata e supervisão contínua até o atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno definido pela equipe para rever crescimento, pressão, sono, alimentação, atividade, saúde mental e resultados de glicose, lipídios e fígado. O intervalo depende da idade, dos valores encontrados e dos diagnósticos individuais; não espere sintomas para retornar.",
+          "Antecipe a consulta se aparecer sede ou urina aumentadas, perda de peso sem intenção, cansaço progressivo, visão borrada, dor de cabeça frequente, inchaço, dor abdominal persistente, pele amarelada, ronco com pausas respiratórias ou piora do rendimento escolar.",
+          "Peça revisão do diagnóstico se o rótulo foi aplicado sem idade, medidas repetidas, curva de crescimento ou avaliação dos componentes. Em menores de 10 anos, a prioridade é identificar riscos individuais, não fechar síndrome metabólica pela definição IDF.",
+          "Confirme com a equipe quais exames realmente precisam ser repetidos e quando. Insulina de jejum isolada, exames feitos logo após doença aguda ou uma única pressão alterada não devem conduzir decisões por conta própria.",
+          "Reavalie mais cedo se as mudanças propostas estiverem causando conflito familiar, estigma, isolamento, ansiedade, tristeza, compulsão, restrição alimentar ou abandono da escola e de atividades. O plano deve ser ajustado para ser seguro e sustentável.",
+          "Se houver hipertensão, diabetes, dislipidemia, doença hepática, apneia do sono ou outro diagnóstico confirmado, siga também o calendário e as metas específicos dessa condição; o rótulo de síndrome metabólica não substitui esses planos."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Síndrome metabólica não é diagnóstico apropriado para recém-nascido ou lactente pequeno. Alteração de glicose, pressão, crescimento ou alimentação nessa idade exige avaliação neonatal própria; pouca mamada, vômitos, dificuldade respiratória, febre, sonolência ou desidratação requerem atendimento urgente.",
+        "3a5m": "Não aplique critérios de síndrome metabólica ao lactente. Confirme crescimento, alimentação, medicamentos, antecedentes gestacionais e doenças endócrinas ou genéticas quando indicadas. Não restrinja leite, fórmula ou calorias sem pediatria e nutrição.",
+        "6a11m": "O rótulo não deve orientar dieta ou exames por conta própria. Priorize alimentação complementar adequada, curva de crescimento, sono, movimento livre seguro e avaliação de qualquer alteração de glicose, lipídios ou pressão conforme a idade.",
+        "1a": "Antes dos 2 anos, acompanhe peso por comprimento e crescimento com curvas apropriadas, não por IMC adulto. Evite bebidas açucaradas e dietas restritivas; alterações laboratoriais ou de pressão precisam de confirmação pediátrica e investigação individual.",
+        "2a5": "Não fechar síndrome metabólica por critérios adultos. Acompanhe IMC por idade e sexo, crescimento, pressão a partir da idade apropriada e fatores familiares. Concentre-se em rotina familiar, brincadeira ativa, sono e alimentação variada sem estigma nem meta de perda rápida.",
+        "6a11": "Abaixo de 10 anos, a definição IDF não diagnostica síndrome metabólica; trate e acompanhe cada risco encontrado. Dos 10 aos 11 anos, confirme critérios pediátricos, puberdade e repetição dos resultados. Preserve escola, autoestima, movimento prazeroso e alimentação suficiente para crescer.",
+        "12a17": "Inclua o adolescente nas decisões com privacidade apropriada. Revise pressão, glicose, lipídios, fígado, sono, medicamentos, menstruação quando aplicável, álcool, tabaco, vape, imagem corporal e comportamento alimentar. Critérios e tratamento variam com idade e puberdade; não usar medicamento ou dieta por conta própria.",
+        "unknown": "Antes de personalizar, confirme idade, sexo, puberdade, altura, peso, cintura quando indicada e bem medida, pressão repetida, glicose, lipídios, função hepática, sono, medicamentos, história familiar e critérios usados. Sem isso, não validar o rótulo nem indicar dieta, suplemento ou medicamento."
+      },
+      "refs": [
+        {
+          "id": "pais145_op224_1",
+          "name": "The Metabolic Syndrome in Children and Adolescents: Shifting the Focus to Cardiometabolic Risk Factor Clustering",
+          "url": "https://publications.aap.org/pediatrics/article/140/2/e20171603/38714/The-Metabolic-Syndrome-in-Children-and-Adolescents"
+        },
+        {
+          "id": "pais145_op224_2",
+          "name": "Executive Summary: Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+          "url": "https://publications.aap.org/pediatrics/article/151/2/e2022060641/190440/Executive-Summary-Clinical-Practice-Guideline-for"
+        },
+        {
+          "id": "pais145_op224_3",
+          "name": "Pediatric Obesity—Assessment, Treatment, and Prevention: An Endocrine Society Clinical Practice Guideline",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6283429/"
+        },
+        {
+          "id": "pais145_op224_4",
+          "name": "Integrated Guidelines for Cardiovascular Health and Risk Reduction in Children and Adolescents: Full Report",
+          "url": "https://www.nhlbi.nih.gov/health-topics/integrated-guidelines-for-cardiovascular-health-and-risk-reduction-in-children-and-adolescents/integrated-guidelines-for-cardiovascular-health-and-risk-reduction-in-children-and-adolescents-full-report"
+        },
+        {
+          "id": "pais145_op224_5",
+          "name": "The IDF Consensus Definition of the Metabolic Syndrome in Children and Adolescents",
+          "url": "https://idf.org/media/uploads/2023/05/attachments-31.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

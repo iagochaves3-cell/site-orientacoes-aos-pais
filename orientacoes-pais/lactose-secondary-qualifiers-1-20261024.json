@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T13:35:00.000Z",
+  "baseline_version": 104,
+  "baseline_commit": "10881deab8cf691607a04f047300910ed7476e9b",
+  "records": [
+    {"key":"pdf1500_900","label":"Intolerância à lactose secundária","specific":true,"clinical_entity":"Intolerância secundária à lactose por lesão do intestino delgado","term_resolution":false},
+    {"key":"pdf1500_901","label":"Intolerância à lactose secundária agudo","specific":false,"clinical_entity":"Intolerância secundária de início recente; agudo é qualificador temporal","term_resolution":true},
+    {"key":"pdf1500_902","label":"Intolerância à lactose secundária bilateral","specific":false,"clinical_entity":"Intolerância secundária à lactose; bilateralidade inaplicável","term_resolution":true},
+    {"key":"pdf1500_903","label":"Intolerância à lactose secundária crônico","specific":false,"clinical_entity":"Intolerância secundária persistente; crônico descreve duração","term_resolution":true},
+    {"key":"pdf1500_904","label":"Intolerância à lactose secundária de origem infecciosa","specific":true,"clinical_entity":"Intolerância secundária pós-infecciosa","term_resolution":false},
+    {"key":"pdf1500_905","label":"Intolerância à lactose secundária grave","specific":false,"clinical_entity":"Sintomas intensos atribuídos à intolerância secundária; requer avaliação da gravidade e causa","term_resolution":true},
+    {"key":"pdf1500_906","label":"Intolerância à lactose secundária idiopático","specific":false,"clinical_entity":"Suspeita de intolerância sem causa secundária identificada; classificação contraditória","term_resolution":true}
+  ]
+}

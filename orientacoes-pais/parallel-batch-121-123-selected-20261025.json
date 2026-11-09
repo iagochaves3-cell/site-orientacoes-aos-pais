@@ -1,0 +1,293 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T07:13:36.441Z",
+  "records": [
+    {
+      "key": "pdf1500_1344",
+      "label": "Resfriado comum",
+      "entity": "Infecção viral aguda e autolimitada das vias respiratórias superiores (resfriado comum) em pediatria",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_SYNDROME\",\"normalized_entity\":\"Resfriado comum (infecção viral inespecífica das vias respiratórias superiores)\",\"assessment\":\"O termo é válido como síndrome clínica pediátrica, geralmente causada por vírus e caracterizada por coriza ou obstrução nasal, espirros, tosse e dor de garganta, com estado geral preservado ou pouco comprometido. Em geral melhora progressivamente em cerca de 7 a 10 dias, embora tosse e congestão possam durar mais. A cor da secreção pode mudar durante a evolução e, isoladamente, não demonstra infecção bacteriana nem necessidade de antibiótico.\",\"not_automatically_equivalent_to\":[\"Influenza, COVID-19 ou infecção por vírus sincicial respiratório\",\"Bronquiolite, crupe, asma, pneumonia ou outra doença das vias respiratórias inferiores\",\"Rinossinusite bacteriana, otite média ou faringite estreptocócica\",\"Rinite alérgica ou corpo estranho nasal\",\"Indicação de antibiótico, antiviral, corticoide, descongestionante ou xarope\"],\"counting_rule\":\"Contar como orientação específica para o ID de resfriado comum. Não contar como cobertura de influenza, COVID-19, VSR, bronquiolite, crupe, asma, pneumonia, sinusite bacteriana, otite ou alergia sem diagnóstico próprio.\",\"pediatric_scope\":\"Lactentes, crianças e adolescentes com quadro leve compatível com resfriado após avaliação profissional. Febre em bebê pequeno, dificuldade respiratória, desidratação, doença crônica descompensada, imunossupressão, piora ou evolução atípica exigem reavaliação e podem indicar outro diagnóstico.\",\"reason_for_specific\":\"Resfriado comum é uma síndrome reconhecida, frequente e com evolução, cuidados, riscos e limites próprios. A ficha orienta suporte seguro e prevenção sem transformar todo sintoma respiratório em resfriado nem prescrever tratamento empírico.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O resfriado comum é uma infecção viral do nariz e da garganta. Costuma começar aos poucos com coriza ou nariz entupido, espirros, tosse e dor de garganta; febre pode ocorrer, principalmente no início.",
+          "A maioria das crianças melhora progressivamente em 7 a 10 dias. A tosse e a obstrução nasal podem durar mais; o importante é observar se a criança respira sem esforço, consegue beber, urina e fica mais disposta ao longo dos dias.",
+          "A secreção nasal pode ficar mais espessa, amarela ou verde durante a evolução. Essa mudança isolada é comum e não prova infecção bacteriana nem necessidade de antibiótico.",
+          "Deixe a criança descansar conforme a necessidade. Para dormir, mantenha o berço ou a cama seguros; não use travesseiro, rolo, posicionador ou elevação improvisada para bebês.",
+          "O resfriado é contagioso. Lave as mãos, cubra tosse e espirro com o antebraço ou lenço, descarte o lenço, limpe objetos muito tocados, ventile o ambiente e não compartilhe copos, talheres, chupetas ou toalhas.",
+          "Mantenha em casa enquanto houver febre ou mal-estar que impeça as atividades. O retorno à escola ou creche pode ocorrer quando estiver sem febre e bem o bastante para participar, respeitando as regras locais; coriza leve isolada pode persistir."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Use solução salina nasal para umidificar e soltar secreções. Em bebês, aspire de forma suave apenas quando a obstrução atrapalhar mamadas ou sono; evite sucção profunda, repetida ou traumática.",
+          "Antes das mamadas e do sono, limpar o nariz pode facilitar a respiração. Faça pausas durante a alimentação se o bebê estiver cansado e procure avaliação se não conseguir mamar ou beber.",
+          "Umidificador de névoa fria pode aliviar o ressecamento, desde que seja higienizado e tenha a água trocada conforme o fabricante. Não use vapor de panela, bacia ou água fervente: há risco de queimadura.",
+          "Evite fumaça de cigarro, vape, incenso, perfumes fortes e outros irritantes, pois podem piorar tosse e congestão. Mantenha o ambiente ventilado sem expor a criança ao frio intenso.",
+          "Mel não deve ser oferecido antes de 1 ano. Para crianças com 1 ano ou mais, pode aliviar a tosse; ofereça de modo seguro, sem bebida muito quente. Pastilhas e balas não são adequadas para crianças pequenas pelo risco de engasgo.",
+          "Não faça inalação com substâncias caseiras, óleos essenciais ou produtos no nariz. Vitamina C, equinácea, alho e outros suplementos não substituem avaliação e não têm benefício confiável para curar o resfriado."
+        ],
+        "MEDICAMENTOS": [
+          "Antibióticos não tratam resfriado, porque o quadro é viral. Não use sobra de antibiótico, receita antiga ou medicamento de outra pessoa; eles não aceleram a melhora e podem causar reações e resistência bacteriana.",
+          "Não ofereça combinações para tosse e resfriado, descongestionantes, antitussígenos ou anti-histamínicos por conta própria. Em menores de 6 anos, esses produtos não têm benefício comprovado e podem causar efeitos graves; em qualquer idade, confirme antes com profissional habilitado.",
+          "Se já foi orientado medicamento para febre ou dor, use somente o produto, a apresentação, a quantidade e o intervalo indicados para esta criança. Confira o rótulo e não combine produtos com o mesmo princípio ativo.",
+          "Não dê ácido acetilsalicílico a crianças ou adolescentes com quadro viral. Não use corticoide, broncodilatador, antiviral ou antibiótico apenas porque há tosse ou secreção colorida.",
+          "Influenza e COVID-19 podem começar com sintomas parecidos e têm tratamentos próprios para alguns grupos. Se houver exposição, circulação local, doença de risco ou quadro mais intenso, procure orientação cedo para definir teste e tratamento; não use antiviral por conta própria."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos com frequência, em pequenos volumes se necessário. Observe urina, boca úmida, lágrimas e disposição; menos urina, boca seca ou dificuldade de beber sugerem desidratação.",
+          "Em bebês, mantenha leite materno e/ou fórmula habitual. Ofereça mamadas menores e mais frequentes se o nariz entupido atrapalhar; não substitua mamadas por água, chá ou suco e não dilua a fórmula.",
+          "A diminuição temporária do apetite é comum. Ofereça a alimentação habitual, leve e bem tolerada, sem forçar; priorize líquidos e retome o padrão conforme a criança melhora.",
+          "Não é necessário retirar leite ou algum alimento só por causa de coriza ou tosse, salvo orientação específica por alergia ou outra condição.",
+          "Não force alimentos ou líquidos se houver muita sonolência, engasgos, dificuldade para respirar ou vômitos repetidos; procure atendimento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bebê com menos de 3 meses e temperatura de 38 °C ou mais, temperatura anormalmente baixa, recusa importante de mamadas, prostração ou aparência muito doente precisa de avaliação imediata; não presuma que seja apenas resfriado.",
+          "Procure emergência se houver respiração muito rápida, esforço para respirar, costelas afundando, gemido, pausas respiratórias, ruído forte ao puxar o ar, incapacidade de falar ou mamar por falta de ar, ou lábios e rosto arroxeados.",
+          "Chame o serviço de emergência diante de convulsão, desmaio, confusão, criança muito sonolenta ou difícil de despertar, ou piora rápida do estado geral.",
+          "Procure atendimento urgente se não consegue beber, vomita tudo, urina muito pouco, está com boca muito seca, não produz lágrimas, tem olhos fundos ou fraqueza importante.",
+          "Vá ao pronto atendimento se houver dor forte no peito, rigidez de nuca, manchas arroxeadas que não clareiam à pressão, sangue ao tossir ou febre e tosse que melhoraram e depois voltaram claramente piores."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação no mesmo dia se a respiração ficar mais rápida ou ruidosa, surgir chiado, dor de ouvido, dor forte de garganta, febre persistente, piora da doença de base ou se a família considerar a criança muito diferente do habitual.",
+          "Reavalie se os sintomas durarem mais de 10 dias sem melhora progressiva, se piorarem após uma melhora inicial, ou se a febre ou tosse voltarem mais intensas. Isso pode indicar complicação ou outro diagnóstico.",
+          "Tosse pode durar além da coriza, mas deve ser reavaliada se persistir por várias semanas, atrapalhar sono ou alimentação de forma importante, vier em crises, causar falta de ar ou estiver associada a perda de peso.",
+          "Crianças com doença pulmonar, cardíaca, renal ou neurológica, prematuridade, imunossupressão ou maior risco para influenza/COVID-19 devem contatar sua equipe mais cedo, mesmo com sintomas inicialmente leves.",
+          "Antes do retorno, anote o início dos sintomas, temperatura, padrão respiratório, líquidos aceitos, quantidade de urina, contatos doentes, testes realizados e medicamentos usados."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebê pequeno pode piorar rapidamente e nem sempre apresenta sintomas típicos. Temperatura de 38 °C ou mais, temperatura baixa anormal, recusa de mamadas, pausas para respirar, costelas afundando, sonolência ou menos urina exigem atendimento imediato. Use apenas solução salina e aspiração suave quando necessário; não ofereça mel, água, chá nem produto para tosse/resfriado.",
+        "3a5m": "Limpe o nariz antes das mamadas e observe esforço respiratório, pausas, cansaço para mamar e fraldas molhadas. Febre, piora do estado geral ou dificuldade para respirar requer avaliação rápida. Não ofereça mel nem medicamento combinado para resfriado.",
+        "6a11m": "Mantenha leite habitual e ofereça mamadas menores e mais frequentes se o nariz estiver obstruído. Use solução salina e aspiração suave; não ofereça mel antes de completar 1 ano nem produtos para tosse e resfriado.",
+        "1a": "A partir de 1 ano, mel pode aliviar a tosse se for seguro para a criança. Continue observando respiração, líquidos e urina; não use pastilhas, balas ou combinações para resfriado pelo risco de engasgo e efeitos adversos.",
+        "2a5": "Explique a higiene das mãos e ensine a tossir no antebraço. Ofereça líquidos e solução salina; evite medicamentos para tosse e resfriado sem orientação, pois abaixo de 6 anos não há benefício comprovado e pode haver dano.",
+        "6a11": "A criança pode ajudar a acompanhar líquidos, febre e respiração e deve cobrir tosse e espirro. Pode retornar à escola quando estiver sem febre e bem para participar, seguindo regras locais; não compartilhar garrafas ou utensílios.",
+        "12a17": "Oriente o adolescente a não se automedicar nem misturar antigripais, analgésicos e descongestionantes, que podem repetir princípios ativos. Reforce ventilação, higiene e permanência em casa enquanto houver febre ou mal-estar importante.",
+        "unknown": "Antes de personalizar, confirme idade, duração e evolução, maior temperatura, respiração, hidratação, doenças crônicas, prematuridade, imunossupressão, exposição a influenza/COVID-19/VSR, vacinação, medicamentos já usados e sinais de outro diagnóstico."
+      },
+      "refs": [
+        {
+          "id": "pais133_op121_1",
+          "name": "Manage Common Cold",
+          "url": "https://www.cdc.gov/common-cold/treatment/"
+        },
+        {
+          "id": "pais133_op121_2",
+          "name": "Outpatient Clinical Care for Pediatric Populations",
+          "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+        },
+        {
+          "id": "pais133_op121_3",
+          "name": "About Respiratory Illnesses",
+          "url": "https://www.cdc.gov/respiratory-viruses/about/index.html"
+        },
+        {
+          "id": "pais133_op121_4",
+          "name": "Rinossinusite na infância",
+          "url": "https://www.sbp.com.br/rinossinusite-na-infancia/"
+        },
+        {
+          "id": "pais133_op121_5",
+          "name": "Children & Colds (Upper Respiratory Infections)",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/pages/Children-and-Colds.aspx"
+        },
+        {
+          "id": "pais133_op121_6",
+          "name": "O que devemos saber sobre medicamentos",
+          "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/medicamentos/publicacoes-sobre-medicamentos/o-que-devemos-saber-sobre-medicamentos.pdf/@@download/file"
+        },
+        {
+          "id": "pais133_op121_7",
+          "name": "Common cold",
+          "url": "https://www.nhs.uk/conditions/common-cold/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1345",
+      "label": "Retinopatia da prematuridade",
+      "entity": "Retinopatia da prematuridade (ROP) em recém-nascidos prematuros ou de risco",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CLINICAL_ENTITY\",\"normalized_entity\":\"Retinopatia da prematuridade\",\"assessment\":\"O termo é válido e corresponde a uma doença dos vasos sanguíneos da retina ainda imatura, observada em bebês prematuros e de baixo peso. A ROP pode regredir, permanecer estável ou avançar para formas que ameaçam a visão. Ela costuma não produzir sinais visíveis para a família; por isso, o diagnóstico, a classificação e a decisão de tratar dependem de exames de retina feitos nos prazos definidos pelo oftalmologista com experiência em ROP.\",\"not_automatically_equivalent_to\":[\"Cegueira, descolamento de retina ou perda visual já estabelecida\",\"Necessidade automática de laser, injeção intraocular ou cirurgia\",\"ROP causada somente pelo oxigênio; prematuridade, imaturidade retiniana e curso neonatal também importam\",\"Rastreamento concluído após um único exame normal se a retina ainda estiver imatura\",\"Resultado substituível pelo teste do reflexo vermelho, que não detecta as fases precoces da ROP\"],\"counting_rule\":\"Contar como orientação clínica específica para este ID. Não contar como cobertura de estágio, zona, doença plus, forma agressiva, descolamento de retina ou tratamento prévio sem esses dados documentados.\",\"pediatric_scope\":\"Principalmente recém-nascidos prematuros durante internação neonatal e após a alta até completar o rastreamento. Crianças maiores com antecedente de ROP permanecem sob risco aumentado de estrabismo, ambliopia, erros de refração, glaucoma e outras alterações visuais e precisam de seguimento conforme a equipe.\",\"reason_for_specific\":\"A ROP é entidade pediátrica reconhecida, com janela crítica para rastreamento e tratamento e risco de perda visual evitável se o seguimento for atrasado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A retinopatia da prematuridade é uma alteração dos vasos da retina, a camada do fundo do olho que recebe a luz. Ela ocorre enquanto a retina do bebê prematuro ainda está amadurecendo e pode melhorar sozinha ou avançar; formas graves podem causar descolamento de retina e perda visual.",
+          "A família geralmente não consegue perceber a ROP olhando para o bebê. Não espere olho vermelho, dor, secreção ou mudança no olhar para levar ao exame: comparecer na data marcada é a principal medida para descobrir progressão a tempo de tratar.",
+          "Antes da alta ou transferência, saia com a data, o local e o responsável pelo próximo exame de retina. Guarde o relatório com zona, estágio, presença ou ausência de doença plus, tratamento realizado e prazo exato do retorno; leve-o em toda consulta.",
+          "Se houver transferência de hospital ou mudança de cidade, confirme que o novo serviço recebeu as informações e aceitará o bebê no prazo indicado. Alta da UTI neonatal não significa alta do acompanhamento da retina.",
+          "Após laser, injeção ou cirurgia, siga as instruções do serviço que tratou o bebê. Não esfregue nem comprima os olhos e impeça contato de mãos sujas, unhas ou objetos com a região ocular.",
+          "A ROP não é contagiosa. Creche e escola, quando a idade permitir, dependem do estado geral e das orientações da equipe; eventual baixa visão pode exigir estimulação visual e apoio escolar, mas não isolamento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha todos os exames de fundo de olho até o oftalmologista registrar que o rastreamento pode terminar. A frequência varia conforme maturação, zona, estágio, doença plus e tratamento; não aumente o intervalo por conta própria mesmo após melhora.",
+          "Se perder uma consulta, telefone ao serviço no mesmo dia e informe que o bebê está em acompanhamento por ROP. Não espere o próximo retorno de rotina, pois a janela segura pode ser curta.",
+          "Não substitua o exame de retina por teste do olhinho, fotografia caseira, aplicativo, reflexo do flash ou observação em casa. O teste do reflexo vermelho é importante para outras alterações, mas não exclui ROP inicial.",
+          "Mantenha as consultas de seguimento do prematuro e informe se o bebê não fixa ou acompanha rostos e luz, mantém os olhos desviados, apresenta tremor dos olhos ou parece enxergar diferente de um lado. Esses sinais pedem avaliação, mas a ausência deles não libera o rastreamento.",
+          "Proteja o bebê da fumaça de cigarro e siga orientações de sono seguro, vacinação, estimulação do desenvolvimento e controle de doenças pulmonares, cardíacas ou neurológicas. Essas medidas cuidam do prematuro, mas não substituem o acompanhamento oftalmológico."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe colírio, vitamina, suplemento ou remédio caseiro que previna ou reverta a ROP em casa. Não pingue leite materno, chá, soro, colírio de outra pessoa ou produto sem prescrição nos olhos.",
+          "Se o bebê usa oxigênio em casa, mantenha exatamente o fluxo, a concentração e a meta de saturação definidos pela equipe. Não aumente, reduza ou suspenda oxigênio por medo da ROP; tanto falta quanto excesso de oxigênio podem ser perigosos.",
+          "Laser e injeção intraocular podem ser indicados para formas específicas que ameaçam a visão; cirurgia pode ser necessária em doença avançada. A escolha e o momento dependem do exame do especialista e não podem ser decididos apenas pelo nome do diagnóstico.",
+          "Após tratamento, use somente colírios e medicamentos escritos na receita, na apresentação e nos horários orientados. Confirme com o serviço o que fazer diante de dose esquecida, vômito ou dificuldade para aplicar; não dobre doses.",
+          "Bebês tratados com medicamento anti-VEGF dentro do olho podem precisar de vigilância por mais tempo porque a doença pode reativar tardiamente. Não interrompa retornos quando a aparência dos olhos estiver normal."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno e/ou fórmula e fortificação exatamente conforme o plano da neonatologia ou pediatria. Não dilua fórmula e não troque mamadas por água, chá ou suco; a alimentação deve considerar idade corrigida, crescimento e segurança para engolir.",
+          "Não existe alimento, suco, vitamina ou suplemento que substitua o exame ou o tratamento da retina. Use ferro, vitaminas ou fortificantes somente quando prescritos para as necessidades do prematuro.",
+          "Procure orientação se o bebê cansa, sua, engasga ou fica arroxeado nas mamadas, vomita repetidamente, mama muito menos ou apresenta menos fraldas molhadas. Esses sinais não diagnosticam ROP, mas podem indicar doença clínica ou desidratação.",
+          "Depois da introdução alimentar, ofereça alimentação variada e adequada à idade corrigida e ao desenvolvimento, sem prometer melhora da retina com dieta específica.",
+          "Se houver sonolência importante, dificuldade para respirar ou incapacidade de engolir, não force alimento nem grande volume de líquido; procure atendimento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência se o bebê parar de respirar, tiver lábios arroxeados, dificuldade importante para respirar, convulsão, desmaio ou ficar muito sonolento e difícil de despertar.",
+          "Procure pronto atendimento se o bebê tiver febre, temperatura baixa anormal, recusar repetidamente as mamadas, vomitar tudo, urinar muito menos ou parecer muito doente, especialmente se ainda for pequeno ou estiver usando oxigênio.",
+          "Após laser, injeção ou cirurgia ocular, procure imediatamente o serviço que tratou ou um pronto atendimento se houver inchaço que piora, vermelhidão intensa, secreção amarelada, sangramento, olho muito doloroso ou mudança súbita do aspecto ocular.",
+          "Procure avaliação oftalmológica urgente diante de pupila branca, reflexo branco em fotografias repetidas, desvio ocular que apareceu de repente, perda súbita da capacidade de fixar ou acompanhar, trauma no olho ou suspeita de perda visual aguda.",
+          "Mesmo sem qualquer sinal de alarme, compareça ao exame de retina na data marcada. A progressão da ROP costuma ser silenciosa e esperar sintomas pode perder a janela de tratamento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Retorne exatamente no dia indicado pelo oftalmologista. Durante a fase de rastreamento, o intervalo pode ser de poucos dias a duas semanas conforme a retina e a ROP; somente o especialista pode ampliar o intervalo ou encerrar os exames.",
+          "No Brasil, protocolos costumam rastrear bebês com peso ao nascer abaixo de 1.500 g e/ou idade gestacional abaixo de 32 semanas, além de bebês maiores com fatores de risco definidos pela equipe. O primeiro exame geralmente ocorre entre a quarta e a sexta semana de vida, mas o calendário individual deve prevalecer.",
+          "Doença que exige tratamento precisa ser tratada no prazo informado pelo serviço, frequentemente com urgência em até poucos dias. Se não conseguir comparecer, avise imediatamente a unidade neonatal e o oftalmologista para reorganizar o atendimento, sem aguardar nova consulta de rotina.",
+          "Após alta hospitalar, transferência, regressão espontânea ou tratamento, mantenha o seguimento até vascularização/maturação adequada ou outro critério formal de encerramento. Tratamento com anti-VEGF pode exigir observação mais prolongada por risco de reativação tardia.",
+          "Mesmo após terminar o rastreamento, prematuros e crianças que tiveram ROP precisam de avaliação visual do desenvolvimento, alinhamento dos olhos e refração no prazo orientado; antecipe se houver estrabismo, tremor ocular, pupila branca, dificuldade para fixar/acompanhar ou preocupação da família."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme idade gestacional ao nascer, peso de nascimento, idade pós-menstrual, resultado do último exame e a data exata do próximo. Não espere alteração visível: a ROP é silenciosa. Febre, temperatura baixa, recusa alimentar, apneia, arroxeamento ou prostração exigem avaliação imediata.",
+        "3a5m": "Use idade cronológica e corrigida no seguimento do prematuro. Não interrompa exames de retina sem alta formal, sobretudo após anti-VEGF. Observe fixação, seguimento de rostos e alinhamento ocular, sem usar isso para substituir o exame especializado.",
+        "6a11m": "Confirme se houve alta formal da fase aguda e mantenha avaliação do desenvolvimento visual, estrabismo e refração. Antecipe consulta se o bebê não fixa ou acompanha, apresenta desvio persistente, tremor dos olhos ou pupila branca.",
+        "1a": "A criança deve continuar o seguimento oftalmológico indicado mesmo se a ROP regrediu. Observe como localiza brinquedos e rostos, mas não faça testes caseiros agressivos nem cubra os olhos sem orientação.",
+        "2a5": "Avalie visão, alinhamento ocular e desenvolvimento. Esbarrar muito, aproximar objetos, virar sempre a cabeça para olhar, desvio dos olhos ou dificuldade para reconhecer figuras justificam antecipar a avaliação oftalmológica.",
+        "6a11": "Confirme seguimento de acuidade visual, refração, estrabismo, ambliopia e retina conforme o histórico. Dificuldade para ver o quadro, leitura muito próxima, dor de cabeça recorrente ou queda escolar podem sinalizar problema visual e pedem avaliação.",
+        "12a17": "Mantenha o acompanhamento definido pela oftalmologia para sequelas tardias, grau refrativo, estrabismo, glaucoma ou alterações da retina. Procure urgência por flashes súbitos, muitas manchas novas, sombra/cortina no campo visual ou perda visual abrupta.",
+        "unknown": "Antes de personalizar, confirme idade gestacional e peso ao nascer, idade cronológica e corrigida, internação e oxigênio, zona/estágio/plus do último exame, tratamento recebido, data e local do próximo exame e se houve alta formal. Sem esses dados, não presuma que o rastreamento terminou."
+      },
+      "refs": [
+        {
+          "id": "pais133_op122_1",
+          "name": "PRT.GAS.003 — Retinopatia da Prematuridade",
+          "url": "https://www.gov.br/ebserh-intensifica-assistencia-a-distancia-como-estrategia-de-combate-a-cov/pt-br/hospitais-universitarios/regiao-centro-oeste/hu-ufgd/acesso-a-informacao/pops-protocolos-e-processos/gad/prt-gas-003-retinopatia-da-prematuridade-v-1.pdf"
+        },
+        {
+          "id": "pais133_op122_2",
+          "name": "Linha de Cuidado da Criança — Puericultura e Hebicultura: Oftalmologia",
+          "url": "https://linhasdecuidado.saude.gov.br/portal/puericultura/unidade-de-atencao-primaria/crianca/"
+        },
+        {
+          "id": "pais133_op122_3",
+          "name": "Screening Examination of Premature Infants for Retinopathy of Prematurity",
+          "url": "https://publications.aap.org/pediatrics/article/142/6/e20183061/37478/Screening-Examination-of-Premature-Infants-for"
+        },
+        {
+          "id": "pais133_op122_4",
+          "name": "Screening of retinopathy of prematurity (ROP) — clinical guideline",
+          "url": "https://www.rcpch.ac.uk/resources/screening-retinopathy-prematurity-rop-clinical-guideline"
+        },
+        {
+          "id": "pais133_op122_5",
+          "name": "Treatment of Retinopathy of Prematurity in the UK",
+          "url": "https://www.rcophth.ac.uk/guidance-resources/treatment-of-retinopathy-of-prematurity-in-the-uk/"
+        },
+        {
+          "id": "pais133_op122_6",
+          "name": "Retinopathy of Prematurity",
+          "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinopathy-prematurity"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1346",
+      "label": "Retocolite ulcerativa",
+      "entity": "Retocolite ulcerativa pediátrica (colite ulcerativa)",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_ESTABLISHED_PORTUGUESE_SYNONYM\",\"normalized_entity\":\"Retocolite ulcerativa pediátrica\",\"assessment\":\"O termo é válido no Brasil e corresponde à colite ulcerativa, doença inflamatória intestinal crônica que acomete o reto e o cólon, com períodos de atividade e remissão. O cadastro isolado não informa extensão, atividade, gravidade, complicações, infecção associada nem tratamento atual.\",\"not_automatically_equivalent_to\":[\"Crise aguda grave, megacólon tóxico, perfuração ou hemorragia maciça\",\"Colite infecciosa, doença de Crohn ou doença inflamatória intestinal não classificada\",\"Doença ativa, refratária ou dependente de corticosteroide\",\"Imunossupressão atual ou indicação automática de biológico ou cirurgia\"],\"counting_rule\":\"Contar como orientação clínica específica para retocolite ulcerativa pediátrica. Não contar como cobertura de crise aguda grave, complicação, extensão anatômica, infecção associada ou regime terapêutico sem documentação própria.\",\"pediatric_scope\":\"Aplica-se a crianças e adolescentes com diagnóstico confirmado. Início antes dos 6 anos, sobretudo antes dos 2 anos ou no período neonatal, exige avaliação especializada ampliada para diagnósticos diferenciais e possíveis formas monogênicas de doença inflamatória intestinal.\",\"reason_for_specific\":\"A retocolite ulcerativa é entidade clínica reconhecida, com cuidados domiciliares, sinais de atividade, riscos agudos, necessidades nutricionais e seguimento próprios.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A retocolite ulcerativa é uma inflamação crônica do intestino grosso. Pode causar diarreia, sangue ou muco nas fezes, urgência para evacuar, dor abdominal e cansaço. Alterna períodos de melhora e de atividade; não é causada por culpa da família e não é contagiosa.",
+          "Anote diariamente, quando houver piora, o número de evacuações, presença e quantidade aproximada de sangue, evacuações noturnas, dor, febre, vômitos, alimentação, peso quando orientado e impacto nas atividades. Uma mudança clara do padrão habitual ajuda a equipe a reconhecer uma crise.",
+          "Mantenha as consultas com gastroenterologia pediátrica mesmo quando a criança estiver bem. Leve receitas, exames, carteira de vacinação e uma lista do que foi realmente usado, incluindo esquecimentos, reações e suplementos.",
+          "Observe crescimento, ganho ou perda de peso, apetite, energia, sono, puberdade e sinais fora do intestino, como dor ou inchaço articular, olho vermelho doloroso, aftas persistentes e lesões de pele. Informe essas mudanças à equipe.",
+          "Se estiver bem, a criança pode frequentar escola ou creche. Combine acesso imediato e reservado ao banheiro, água, troca de roupa e contato com a família. Febre, vômitos ou surto de diarreia na comunidade também podem indicar infecção e não devem ser atribuídos automaticamente à retocolite."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize uma rotina que permita usar o banheiro sem demora e sem constrangimento. Não peça para a criança segurar as fezes e não puna escapes; urgência e incontinência podem fazer parte da doença ativa.",
+          "Durante uma piora, priorize repouso relativo e atividades conforme tolerância. Quando estiver bem, escola, brincadeiras e atividade física podem continuar; fadiga intensa ou queda importante do rendimento precisa ser discutida com a equipe.",
+          "Apoio emocional é parte do tratamento. Pergunte sobre medo de evacuar fora de casa, vergonha, tristeza, ansiedade e isolamento. Procure apoio da equipe, da escola e de saúde mental quando esses problemas interferirem na alimentação, adesão ou vida diária.",
+          "Não use bolsa muito quente sobre dor intensa e não faça enemas, lavagens ou preparações intestinais por conta própria. Dor crescente, barriga distendida ou muito sensível exige avaliação urgente.",
+          "Mantenha higiene das mãos e cuidados comuns com alimentos. A retocolite não passa de uma pessoa para outra, mas gastroenterites infecciosas podem ocorrer ao mesmo tempo e agravar o quadro."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos e as apresentações prescritos para esta criança. Não aumente, reduza, troque ou interrompa o tratamento de manutenção porque os sintomas melhoraram; baixa adesão pode favorecer recaída.",
+          "Corticosteroides não devem ser iniciados, repetidos ou interrompidos de repente por conta própria. Se houver vômito, esquecimento ou dúvida sobre redução gradual, confirme o plano com a equipe e não dobre uma tomada.",
+          "Não ofereça antidiarreicos que diminuem o movimento intestinal, opioides, anti-inflamatórios como ibuprofeno, antibióticos, probióticos ou fitoterápicos sem orientação. Alguns podem mascarar ou agravar complicações, e antibiótico não trata automaticamente uma crise de retocolite.",
+          "Se usa medicamento que reduz a imunidade, febre, contato com varicela ou sarampo, tosse persistente, falta de ar, ferida que não melhora ou outro sinal de infecção deve ser comunicado rapidamente. Confirme vacinas, inclusive vacinas vivas, com a equipe antes da aplicação quando houver imunossupressão.",
+          "Procure orientação diante de reação alérgica, pele ou olhos amarelados, urina muito escura, falta de ar, dor forte no peito, hematomas incomuns ou piora importante logo após uma medicação. Não suspenda o remédio silenciosamente: informe o serviço e siga a orientação de urgência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos em pequenas quantidades e com frequência, especialmente se houver diarreia. Observe urina, boca seca, sede, tontura e energia. Soluções de reidratação podem ser orientadas, mas não substituem avaliação quando há muito sangue, vômitos persistentes ou prostração.",
+          "Mantenha alimentação variada e suficiente para crescimento, com proteína e energia adequadas. Não existe uma dieta única comprovada para controlar a inflamação da retocolite, e dietas restritivas podem causar perda de peso ou deficiências.",
+          "Durante uma crise, alguns alimentos podem piorar dor, gases ou frequência de evacuações sem aumentar a inflamação. Registre gatilhos e peça ajuste individual ao gastroenterologista e nutricionista; não retire leite, glúten, fibras ou grupos inteiros por conta própria.",
+          "Não use nutrição enteral exclusiva, suplementos, vitaminas ou dietas de exclusão como substitutos do tratamento. Ferro, vitamina D, cálcio e outros suplementos só devem ser usados conforme exames e prescrição.",
+          "Recusa alimentar, perda de peso, desaceleração do crescimento, atraso puberal ou dificuldade para manter líquidos exige reavaliação. Em bebês, não dilua fórmula nem substitua leite materno ou fórmula por água, chá ou suco."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure pronto atendimento se houver aumento importante ou contínuo de sangue nas fezes, coágulos, muitas evacuações com sangue, palidez intensa, tontura, desmaio, coração muito acelerado ou fraqueza marcante.",
+          "Vá imediatamente se houver dor abdominal forte ou crescente, barriga distendida ou muito dolorosa, febre, prostração, vômitos repetidos ou parada súbita das evacuações durante uma crise. Esses sinais podem indicar colite grave, megacólon tóxico, perfuração ou outra complicação.",
+          "Procure atendimento urgente se a criança não consegue beber, vomita tudo, urina muito pouco, está com boca muito seca, olhos fundos, sonolência incomum ou piora rápida, pois pode haver desidratação ou alteração de sais do sangue.",
+          "Acione o serviço de emergência diante de dificuldade para respirar, lábios arroxeados, confusão, convulsão, desmaio ou dificuldade para despertar.",
+          "Em bebê pequeno, sangue nas fezes com febre, recusa de mamadas, vômitos, barriga distendida, prostração ou menos fraldas molhadas requer avaliação imediata; não atribua o quadro apenas à retocolite."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno programado com gastroenterologia pediátrica mesmo em remissão. A equipe acompanha sintomas, crescimento, puberdade, hemograma, inflamação, nutrição, efeitos dos medicamentos e, quando indicado, fezes, imagem ou endoscopia.",
+          "Entre em contato no mesmo dia se reaparecer sangue, aumentar a frequência ou urgência, surgirem evacuações noturnas, dor, febre, vômitos, perda de apetite ou cansaço fora do habitual. Não espere uma crise ficar intensa para avisar.",
+          "Antecipe a consulta se houver perda de peso, parada do crescimento, atraso puberal, faltas escolares frequentes, tristeza ou ansiedade persistente, dor articular, olho vermelho doloroso, aftas importantes, lesões de pele ou icterícia.",
+          "Após mudança de tratamento, faça o retorno e os exames no prazo combinado. Melhora dos sintomas não garante que a inflamação desapareceu, e piora pode também ser causada por infecção; a equipe decide quando investigar e ajustar a terapia.",
+          "Adolescentes devem participar progressivamente do plano, saber nomes e finalidade dos medicamentos, reconhecer alertas e preparar transição estruturada para o cuidado adulto. Privacidade e saúde mental precisam ser respeitadas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Retocolite ulcerativa clássica é excepcional nesta idade. Sangue nas fezes, diarreia, febre, distensão, recusa alimentar, vômitos ou menos urina exigem avaliação imediata e investigação de infecção, alergia, doenças congênitas e formas monogênicas de DII; não faça dieta de exclusão nem medicação por conta própria.",
+        "3a5m": "Início no primeiro semestre de vida exige avaliação especializada urgente e ampla. Observe mamadas, vômitos, número de fraldas com fezes ou sangue, urina e estado geral; febre, prostração, distensão ou desidratação é emergência.",
+        "6a11m": "Diarreia com sangue nessa idade tem vários diagnósticos possíveis e não deve ser atribuída automaticamente à retocolite. Mantenha leite materno ou fórmula, registre fraldas e procure avaliação rápida diante de febre, perda de peso, distensão, vômitos ou menos urina.",
+        "1a": "Doença inflamatória intestinal antes dos 2 anos aumenta a suspeita de forma monogênica e requer equipe especializada. Observe crescimento, infecções repetidas, lesões de pele e região perianal, além de sangue, diarreia e dor.",
+        "2a5": "Use linguagem simples e rotina de banheiro sem pressão. Início antes dos 6 anos é DII de início muito precoce: a equipe pode precisar rever diagnósticos diferenciais, imunidade e genética, especialmente se houver doença grave, infecções repetidas ou baixa resposta.",
+        "6a11": "Combine com a escola acesso livre e discreto ao banheiro, água, troca de roupa e contato com a família. Registre evacuações noturnas, sangue, dor e fadiga; preserve atividades e apoio emocional quando clinicamente possível.",
+        "12a17": "Inclua o adolescente nas decisões, respeite privacidade e revise adesão, saúde mental, escola, vacinação e transição ao cuidado adulto. Discuta diretamente com a equipe tabaco, álcool, atividade sexual e possibilidade de gravidez quando pertinentes, pois podem mudar a segurança do tratamento.",
+        "unknown": "Antes de personalizar, confirme idade, início e duração dos sintomas, extensão e atividade da doença, número de evacuações, sangue, dor, febre, crescimento, exames, infecções, manifestações extraintestinais, medicamentos, vacinas e plano de retorno."
+      },
+      "refs": [
+        {
+          "id": "pais133_op123_1",
+          "name": "Management of paediatric ulcerative colitis, part 1: Ambulatory care—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70097"
+        },
+        {
+          "id": "pais133_op123_2",
+          "name": "Management of paediatric ulcerative colitis, part 2: Acute severe colitis—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70096"
+        },
+        {
+          "id": "pais133_op123_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Retocolite Ulcerativa",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/r/retocolite-ulcerativa/@@download/file"
+        },
+        {
+          "id": "pais133_op123_4",
+          "name": "Doença Inflamatória Intestinal de início muito precoce (VEOIBD)",
+          "url": "https://www.sbp.com.br/acervo/doenca-inflamatoria-intestinal-de-inicio-muito-precoce-veoibd/"
+        },
+        {
+          "id": "pais133_op123_5",
+          "name": "Nutrição nas Doenças Inflamatórias Intestinais em Pediatria",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2025/junho/06/24905d-MO_ISBN_-_Nutricao_nas_Dcs_Inflamat_Intest_em_Pediatria.pdf"
+        },
+        {
+          "id": "pais133_op123_6",
+          "name": "Doenças Inflamatórias Intestinais: pontos a enfatizar para o Pediatra",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24726b-DC_Doencas_inflamatorias_intestiais.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

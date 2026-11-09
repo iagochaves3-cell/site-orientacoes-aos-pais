@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T20:55:00.000Z",
+  "baseline_version": 109,
+  "baseline_commit": "a40ae59e4ed9c4ec375fe6157037bc6dee595dd0",
+  "records": [
+    {"key":"pdf1500_935","label":"Leishmaniose visceral (Calazar)","specific":true,"clinical_entity":"Leishmaniose visceral (calazar)","term_resolution":false},
+    {"key":"pdf1500_936","label":"Leptospirose icterohemorrágica","specific":true,"clinical_entity":"Leptospirose grave, forma ictero-hemorrágica (síndrome de Weil)","term_resolution":false},
+    {"key":"pdf1500_937","label":"Leucemia linfoide aguda (LLA)","specific":true,"clinical_entity":"Leucemia linfoblástica/linfoide aguda na infância","term_resolution":false},
+    {"key":"pdf1500_938","label":"Leucemia mieloide aguda (LMA)","specific":true,"clinical_entity":"Leucemia mieloide aguda na infância","term_resolution":false},
+    {"key":"pdf1500_939","label":"Leucomalácia periventricular","specific":true,"clinical_entity":"Leucomalácia periventricular","term_resolution":false},
+    {"key":"pdf1500_940","label":"Linfoma de Hodgkin","specific":true,"clinical_entity":"Linfoma de Hodgkin na infância e adolescência","term_resolution":false},
+    {"key":"pdf1500_941","label":"Linfoma não-Hodgkin Burkitt","specific":true,"clinical_entity":"Linfoma de Burkitt pediátrico","term_resolution":false}
+  ]
+}

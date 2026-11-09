@@ -1,0 +1,303 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T07:22:30.400Z",
+  "records": [
+    {
+      "key": "pdf1500_1360",
+      "label": "Rinite alérgica intermitente leve",
+      "entity": "Rinite alérgica pediátrica intermitente e leve, conforme classificação de frequência e impacto da ARIA",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_VALID_FREQUENCY_AND_SEVERITY_QUALIFIERS\",\"normalized_entity\":\"Rinite alérgica intermitente leve\",\"assessment\":\"O termo é válido: rinite alérgica é inflamação nasal mediada por IgE após exposição a aeroalérgeno em pessoa sensibilizada. 'Intermitente' descreve sintomas em até quatro dias por semana ou por até quatro semanas consecutivas; 'leve' exige ausência de prejuízo relevante do sono, atividades, escola e bem-estar. Esses qualificadores precisam corresponder à história atual: se os sintomas forem mais frequentes, perturbarem sono ou desempenho, ou forem muito incômodos, a classificação deve ser revista.\",\"not_automatically_equivalent_to\":[\"Resfriado, gripe, COVID-19, rinossinusite bacteriana ou outra infecção\",\"Asma, broncoespasmo ou anafilaxia\",\"Alergia alimentar ou necessidade de retirar alimentos\",\"Rinite persistente, moderada-grave ou controlada de forma permanente\",\"Indicação automática de anti-histamínico, corticosteroide nasal, descongestionante ou imunoterapia\"],\"counting_rule\":\"Contar como orientação específica para este ID porque a entidade e os dois qualificadores são reconhecidos e modificam seguimento e educação. Contar como um registro, não como doença distinta da rinite alérgica. Não contar como cobertura de asma, conjuntivite grave, sinusite, infecção ou alergia alimentar.\",\"pediatric_scope\":\"Crianças e adolescentes com diagnóstico clínico compatível e relação plausível com aeroalérgeno. Em menores de dois anos, sintomas nasais recorrentes exigem cautela diagnóstica e avaliação de infecção, anatomia, irritantes e outras causas antes de atribuir alergia.\",\"reason_for_specific\":\"A classificação intermitente leve é válida e permite orientar exposição dirigida, lavagem nasal segura, uso correto apenas do tratamento prescrito, escola e critérios objetivos para reclassificação e retorno.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Rinite alérgica causa espirros em crises, coceira no nariz, coriza clara e/ou nariz entupido após contato com algo a que a criança é sensibilizada. Pode haver coceira, lacrimejamento e vermelhidão dos olhos; não costuma causar febre, prostração nem secreção purulenta unilateral.",
+          "Neste rótulo, 'intermitente' significa sintomas em poucos dias e 'leve' significa que sono, brincadeiras, esporte, escola e bem-estar não estão prejudicados. Registre os dias com sintomas e o impacto: maior frequência ou prejuízo pede reclassificação e ajuste do plano.",
+          "A rinite alérgica não é contagiosa. A criança pode ir à escola ou creche se estiver bem; entregue à instituição o plano prescrito e informe os gatilhos conhecidos. Febre ou mal-estar importante sugerem outro quadro e exigem avaliação.",
+          "Observe também tosse, chiado, falta de ar, aperto no peito e cansaço aos esforços. Rinite e asma podem coexistir; sintomas no peito não devem ser tratados como simples nariz alérgico.",
+          "Sono ruim, ronco frequente, respiração pela boca, pausas respiratórias, queda no rendimento escolar ou irritabilidade não combinam com doença leve bem controlada e devem ser relatados no retorno.",
+          "Não é necessário afastar a criança de toda poeira, animal ou área externa sem relação comprovada. Medidas dirigidas ao gatilho identificado são mais úteis e evitam custos, restrições e culpa desnecessários."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite fumaça de cigarro e vape, incenso, sprays perfumados, cheiros fortes e poluição sempre que possível. Esses irritantes podem piorar sintomas mesmo sem serem a alergia principal.",
+          "Se ácaro for gatilho provável ou confirmado, remova o pó com pano úmido ou aspirador com filtro, lave a roupa de cama regularmente, reduza objetos que acumulem poeira no quarto e considere capas antiácaro para colchão e travesseiro; evite varrer a seco perto da criança.",
+          "Corrija infiltração e mofo. Se houver sensibilização a animal, mantenha-o fora do quarto e da cama e discuta medidas viáveis com a equipe; não abandone um animal nem faça mudança cara com base apenas em suspeita.",
+          "Para pólen confirmado, acompanhe os períodos de maior exposição, feche janelas nos picos quando possível e, após atividades externas, troque a roupa, lave mãos e rosto e tome banho. Não impeça atividade física quando a criança está bem.",
+          "Lavagem ou spray nasal com solução salina pode remover alérgenos e aliviar sintomas. Para irrigação, use produto apropriado à idade e água estéril, destilada ou previamente fervida e resfriada; mantenha o dispositivo limpo e não force o procedimento em criança pequena.",
+          "Ensine a criança a não esfregar nariz e olhos com força. Compressa fria nos olhos fechados pode aliviar coceira leve; dor ocular, fotofobia ou alteração visual não é cuidado domiciliar de rinite simples."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o medicamento, a apresentação e o modo de usar indicados para esta criança. Idade, sintomas, outras doenças e produto disponível mudam a escolha; esta ficha não inicia tratamento nem substitui a receita.",
+          "Anti-histamínicos de segunda geração são preferidos quando indicados porque causam menos sedação. Não use por conta própria fórmulas antigas sedativas, antigripais combinados ou produto de adulto; sonolência pode prejudicar segurança e aprendizagem.",
+          "Se foi prescrito spray nasal, aplique com a cabeça neutra, direcione o jato para a parede externa da narina e longe do septo, inspire suavemente e mantenha a regularidade combinada. Técnica errada pode reduzir o efeito e favorecer sangramento.",
+          "Não use descongestionante nasal repetidamente ou por muitos dias: pode provocar efeito rebote e piorar a obstrução. Não empreste spray, não misture produtos e não aumente a frequência por conta própria.",
+          "Imunoterapia com alérgeno não é remédio para alívio imediato. Só deve ser considerada por especialista após confirmar sensibilização relevante, pesar benefícios e riscos e definir produto e seguimento.",
+          "Se ocorrer sonolência intensa, agitação, palpitação, sangramento nasal repetido, irritação forte ou piora após um medicamento, não repita ou suspenda de modo improvisado: contate a equipe para orientação; procure urgência se houver reação grave."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos habituais para a idade. Não existe dieta que cure rinite alérgica e não se deve retirar leite, glúten, corantes ou outro alimento sem diagnóstico próprio.",
+          "Em bebês, mantenha leite materno e/ou fórmula habitual conforme orientação. Não substitua mamadas por chá, água ou suco e não dilua a fórmula para tratar nariz entupido.",
+          "Boa hidratação ajuda o conforto das mucosas, mas não substitui controle do gatilho nem tratamento prescrito. Não force grande volume se a criança estiver com dificuldade para respirar ou engolir.",
+          "Mel, vitaminas, probióticos, fitoterápicos e óleos essenciais não substituem o plano de rinite e podem causar alergia, intoxicação ou irritação. Não pingue alimentos, óleos ou preparações caseiras dentro do nariz.",
+          "Se um alimento provocar urticária, inchaço, vômitos repetidos, tosse súbita, chiado ou dificuldade para respirar logo após a ingestão, trate como possível reação alimentar e procure atendimento; isso não deve ser chamado apenas de rinite."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o serviço de emergência diante de dificuldade para respirar, lábios arroxeados, fala entrecortada, retrações entre as costelas, chiado intenso, desmaio, confusão ou criança difícil de despertar.",
+          "Procure emergência se houver inchaço de língua ou garganta, voz rouca súbita, urticária disseminada com vômitos, falta de ar ou queda de pressão após exposição: pode ser anafilaxia, não apenas rinite.",
+          "Bebê pequeno com febre, recusa importante de mamadas, pausas respiratórias, prostração ou menos urina precisa de avaliação imediata; rinite alérgica isolada não explica esse conjunto.",
+          "Vá ao pronto atendimento se houver inchaço doloroso ao redor dos olhos, olho deslocado, dor ao mover os olhos, alteração da visão, dor de cabeça muito forte, rigidez de nuca ou vômitos persistentes.",
+          "Procure atendimento urgente diante de sangramento nasal volumoso que não cessa com compressão adequada, trauma importante, ou secreção com mau cheiro e sangue de apenas uma narina acompanhada de dor ou dificuldade respiratória."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque reavaliação se os sintomas ultrapassarem quatro dias por semana, persistirem por mais de quatro semanas, ou começarem a atrapalhar sono, escola, esporte ou bem-estar: o quadro pode não ser mais intermitente leve.",
+          "Procure avaliação no mesmo dia se aparecer febre, prostração, dor facial forte, secreção espessa persistente com piora, dor de ouvido, tosse importante ou sintomas diferentes do padrão habitual; pode haver infecção ou outro diagnóstico.",
+          "Antecipe o retorno se houver ronco frequente, respiração bucal persistente, pausas no sono, perda de olfato, obstrução de um lado só, secreção com mau cheiro ou sangramento recorrente, para excluir adenoide, corpo estranho ou outra causa anatômica.",
+          "Se existe asma, reavalie cedo diante de tosse noturna, chiado, aperto no peito, falta de ar ou necessidade maior do plano de resgate. O controle da via aérea inferior é prioridade.",
+          "Retorne se o medicamento prescrito não controlar os sintomas, causar efeitos adversos, ou se houver dúvida sobre a técnica. Leve o diário de sintomas, gatilhos, faltas à escola, sono e produtos usados para orientar o ajuste.",
+          "Alergologista ou otorrinolaringologista pode ser necessário quando o gatilho é incerto, o diagnóstico é duvidoso, há sintomas persistentes ou graves, falha apesar de técnica e adesão adequadas, ou se imunoterapia estiver em consideração."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Rinite alérgica é incomum como explicação isolada em recém-nascido. Obstrução, dificuldade para mamar, febre, pausas respiratórias, coloração arroxeada ou menos urina exigem avaliação imediata. Use apenas solução salina apropriada e aspiração suave se a equipe já orientou; não dê remédio para alergia por conta própria.",
+        "3a5m": "Nesta idade, infecção, irritante, refluxo e alterações anatômicas são diagnósticos importantes. Observe mamadas e respiração, limpe o nariz suavemente e não use anti-histamínico, spray medicamentoso, descongestionante ou óleo sem prescrição específica.",
+        "6a11m": "Confirme com o pediatra se o padrão é realmente alérgico. Mantenha mamadas e ambiente sem fumaça; spray salino apropriado pode ajudar, mas irrigação pressurizada e medicamento nasal exigem orientação e técnica compatíveis com a idade.",
+        "1a": "Sintomas repetidos ainda podem ser virais ou irritativos. Registre relação com poeira, mofo, animais e época do ano; não use diagnóstico de rinite para explicar febre, prostração, secreção unilateral com mau cheiro ou dificuldade para respirar.",
+        "2a5": "Use linguagem simples para ensinar a não esfregar nariz e olhos e faça lavagem salina apenas com supervisão. Observe ronco, respiração pela boca e sono. Não ofereça antigripal combinado ou descongestionante por conta própria.",
+        "6a11": "A criança pode anotar dias de sintomas e gatilhos, aprender a técnica do spray com supervisão e participar do plano escolar. Se sono, atenção, brincadeira ou rendimento forem afetados, o rótulo 'leve' precisa ser revisto.",
+        "12a17": "Inclua o adolescente nas decisões e revise automedicação, técnica, adesão, esporte, sono e exposição a cigarro ou vape. Não misturar antialérgicos, antigripais e descongestionantes; sonolência medicamentosa pode afetar estudo e direção.",
+        "unknown": "Antes de personalizar, confirme idade, frequência e duração dos sintomas, impacto no sono e escola, gatilhos, febre, secreção unilateral, asma, eczema, alergia ocular, medicamentos atuais e técnica de aplicação."
+      },
+      "refs": [
+        {
+          "id": "pais135_op137_1",
+          "name": "Rinite alérgica na Infância e Adolescência — Guia Prático de Atualização nº 125",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24064h-GPA_ISBN_-_Rinite_Alergica_na_Infancia_e_adl.pdf"
+        },
+        {
+          "id": "pais135_op137_2",
+          "name": "V Consenso Brasileiro sobre Rinites — 2024",
+          "url": "https://www.sbp.com.br/fileadmin/ABORL-CCF_-_Consenso_Rinites_2024-e.pdf"
+        },
+        {
+          "id": "pais135_op137_3",
+          "name": "Allergic Rhinitis: All About Nasal Allergies in Children",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/Allergic-Rhinitis.aspx"
+        },
+        {
+          "id": "pais135_op137_4",
+          "name": "Rinite alérgica",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/rinite-alergica/"
+        },
+        {
+          "id": "pais135_op137_5",
+          "name": "Rinite",
+          "url": "https://bvsms.saude.gov.br/rinite/"
+        },
+        {
+          "id": "pais135_op137_6",
+          "name": "Allergic rhinitis",
+          "url": "https://www.nhs.uk/conditions/allergic-rhinitis/"
+        },
+        {
+          "id": "pais135_op137_7",
+          "name": "Is Rinsing Your Sinuses With Neti Pots Safe?",
+          "url": "https://www.fda.gov/consumers/consumer-updates/rinsing-your-sinuses-neti-pots-safe"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1361",
+      "label": "Rinite alérgica persistente moderada-grave",
+      "entity": "Rinite alérgica pediátrica persistente moderada a grave",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_VALID_DURATION_AND_IMPACT_CLASSIFICATION\",\"normalized_entity\":\"Rinite alérgica persistente moderada a grave\",\"assessment\":\"O termo é válido na classificação ARIA adotada em documentos brasileiros: persistente descreve sintomas em mais de quatro dias por semana e por mais de quatro semanas consecutivas; moderada-grave indica pelo menos um impacto relevante, como alteração do sono, prejuízo escolar, limitação de atividades ou sintomas incômodos. O rótulo precisa ser confirmado pela história clínica e não informa sozinho o alérgeno, o grau de controle atual, a presença de asma, sinusite, hipertrofia adenoideana ou a medicação em uso.\",\"not_automatically_equivalent_to\":[\"Rinite presente todos os dias do ano ou alergia comprovada a ácaro, pólen, fungo ou animal específico\",\"Crise de asma, sinusite bacteriana, hipertrofia de adenoide, desvio de septo ou corpo estranho nasal\",\"Anafilaxia, alergia alimentar ou indicação de dieta de exclusão\",\"Indicação automática de corticoide sistêmico, antibiótico, descongestionante, imunoterapia ou cirurgia\"],\"counting_rule\":\"Contar como orientação clínica específica para rinite alérgica pediátrica persistente moderada a grave. Não contar como cobertura específica de asma, anafilaxia, sinusite, obstrução anatômica ou alergia a um desencadeante particular sem diagnóstico próprio.\",\"pediatric_scope\":\"Aplica-se principalmente a pré-escolares, escolares e adolescentes com sintomas compatíveis e impacto documentado. Em menores de 2 anos, rinite alérgica é menos típica e obstrução persistente exige revisão de infecções virais recorrentes, irritantes, refluxo, adenoide, alterações anatômicas e outras causas.\",\"reason_for_specific\":\"Persistência e impacto moderado-grave formam uma classificação clínica reconhecida, com necessidades próprias de controle ambiental dirigido, técnica e adesão ao tratamento, avaliação de sono, escola, asma e seguimento especializado quando não há controle.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Rinite alérgica causa inflamação do nariz após contato com substâncias às quais a criança é sensibilizada. Espirros, coceira, coriza clara e nariz entupido são típicos; não é contagiosa e não é culpa da família.",
+          "Persistente moderada-grave significa que os sintomas se repetem com frequência por semanas e atrapalham pelo menos uma área importante, como sono, escola, brincadeiras ou bem-estar. Isso não significa emergência permanente, mas exige plano regular e reavaliação do controle.",
+          "Registre por alguns dias congestão, coriza, espirros, coceira, sintomas nos olhos, ronco, respiração pela boca, tosse ou chiado, despertares, faltas e queda de rendimento escolar. Anote também exposições e o que foi realmente usado.",
+          "Observe sinais que apontam para outro problema: secreção apenas de um lado e com mau cheiro, sangramento repetido, febre alta, dor facial forte, perda do olfato progressiva, pausas respiratórias no sono, chiado ou falta de ar. Informe à equipe sem atribuir tudo à rinite.",
+          "A criança pode frequentar escola ou creche se estiver bem. Combine acesso a água, higiene nasal quando prescrita e medicamentos autorizados pelo plano escolar; explique que espirros e coriza alérgica, sem infecção associada, não exigem isolamento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite fumaça de cigarro ou vape, incenso, aerossóis perfumados, cheiros fortes e poluição dentro de casa e do carro. Esses irritantes podem piorar a rinite mesmo quando não são o alérgeno principal.",
+          "Faça controle ambiental dirigido ao que a história e, quando indicado, os testes sustentarem. Limpeza excessiva, produtos fortes e retirada indiscriminada de objetos ou animais podem trazer dano e não substituem o tratamento.",
+          "Quando ácaros forem relevantes, reduza acúmulo de poeira no quarto, lave roupa de cama regularmente e mantenha o ambiente arejado e sem umidade ou mofo. A família não precisa esterilizar a casa nem usar venenos, ozônio ou receitas caseiras.",
+          "Em exposição a pólen, acompanhe o padrão de sintomas; em dias de maior exposição, trocar roupa e lavar rosto e cabelos após atividades externas pode ajudar. Não mantenha a criança confinada nem suspenda exercício se ela estiver respirando bem.",
+          "Se a equipe orientou lavagem nasal, use solução salina apropriada e dispositivo limpo, sem pressão excessiva. Não introduza óleos, ervas, água não segura, descongestionante ou outra substância caseira no nariz."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o medicamento, a apresentação e a frequência prescritos para a idade. Na rinite persistente moderada-grave, o tratamento costuma precisar de uso regular e técnica correta; melhora parcial no primeiro dia não é motivo para duplicar ou abandonar o plano.",
+          "Se foi prescrito corticoide intranasal, aplique conforme a demonstração da equipe, direcionando o jato para a parede externa da narina e evitando o septo. Informe sangramento persistente, feridas, dor ou dificuldade de técnica; não compartilhe o frasco.",
+          "Anti-histamínicos podem ajudar sobretudo coceira, espirros e coriza, mas produtos sedativos podem prejudicar atenção, memória, sono e desempenho escolar. Não combine antialérgicos, xaropes ou remédios de resfriado por conta própria.",
+          "Não use descongestionante nasal ou oral sem orientação. Sprays vasoconstritores podem causar piora de rebote e outros efeitos; antibiótico e corticoide por boca não tratam automaticamente rinite alérgica.",
+          "Imunoterapia só é considerada após confirmação de sensibilização clinicamente relevante e avaliação especializada. Não tente dessensibilizar em casa expondo a criança ao alérgeno nem interrompa tratamento de asma ou rinite para testar se passou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos adequados à idade. Hidratação habitual pode deixar secreções menos espessas, mas beber em excesso não trata a alergia.",
+          "Rinite alérgica isolada não é indicação para retirar leite, glúten, corantes ou outros alimentos. Dietas de exclusão sem diagnóstico podem causar deficiência e não controlam aeroalérgenos.",
+          "Não ofereça mel a menores de 1 ano. Em crianças maiores, mel, chás, vitaminas, probióticos e fitoterápicos não substituem o plano; alguns produtos podem causar alergia, interação ou excesso de açúcar.",
+          "Em bebês, mantenha leite materno e/ou fórmula conforme orientação. Nariz muito entupido que dificulta mamar, causa engasgos, cansaço, pausas ou menos fraldas molhadas precisa de avaliação rápida.",
+          "Se houver coceira ou inchaço na boca, urticária, vômitos repetidos, tosse súbita, chiado ou falta de ar logo após alimento, siga o plano de alergia e procure urgência; isso não deve ser atribuído apenas à rinite."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o serviço de emergência se houver dificuldade para respirar, fala entrecortada, esforço para respirar, lábios arroxeados, chiado intenso, desmaio, confusão ou dificuldade para despertar. Rinite isolada não explica esses sinais.",
+          "Procure emergência diante de inchaço súbito de língua ou garganta, voz rouca, urticária disseminada com falta de ar, vômitos repetidos, tontura ou desmaio, pois pode ser anafilaxia; siga o plano de adrenalina se a criança tiver um.",
+          "Vá imediatamente se houver olho muito inchado, doloroso ou projetado para frente, dor ao mexer os olhos, visão dupla ou reduzida, febre e prostração. Esses sinais podem indicar complicação ao redor do olho, não rinite simples.",
+          "Procure atendimento urgente se a criança tiver febre alta com dor de cabeça intensa, rigidez no pescoço, vômitos repetidos, sonolência anormal ou piora rápida.",
+          "Em bebê, obstrução nasal com dificuldade para mamar, esforço respiratório, pausas, arroxeamento, prostração ou poucas fraldas molhadas exige avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha retorno com pediatra, alergista ou otorrinolaringologista no prazo combinado para revisar controle, técnica, adesão, exposições, sono, escola e efeitos adversos. Sintomas persistentes e impacto moderado-grave não devem ficar meses sem reavaliação.",
+          "Antecipe a consulta se o tratamento estiver sendo usado corretamente e ainda houver nariz muito entupido, despertares, ronco, respiração pela boca, pausas no sono, faltas escolares ou limitação de atividade. A equipe pode rever diagnóstico, técnica, combinações e necessidade de testes.",
+          "Procure avaliação no mesmo dia diante de falta de ar, chiado ou tosse noturna recorrente, especialmente com exercício. Rinite e asma podem coexistir, e controlar só o nariz não substitui avaliar os pulmões.",
+          "Marque reavaliação se houver secreção espessa ou com mau cheiro apenas de um lado, sangramento repetido, dor facial importante, redução do olfato, febre prolongada ou perda auditiva, pois corpo estranho, sinusite ou outra causa pode estar presente.",
+          "Se imunoterapia estiver sendo considerada, a confirmação do alérgeno, o benefício esperado, riscos, duração e capacidade de comparecer ao seguimento devem ser discutidos com especialista; não iniciar por conta própria."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Rinite alérgica persistente é improvável nesta idade. Obstrução, dificuldade para mamar, esforço respiratório, pausas, arroxeamento, febre ou menos urina exige avaliação imediata; não use descongestionante, óleo, erva ou água não segura no nariz.",
+        "3a5m": "Confirme outras causas de congestão e coriza antes de rotular alergia. Observe mamadas, respiração, sono e fraldas; obstrução que impede alimentação ou causa pausas, cansaço ou desidratação precisa de avaliação rápida.",
+        "6a11m": "Rinite alérgica ainda é menos típica no primeiro ano. Registre relação com infecções, fumaça, mofo e animais, mantenha leite materno ou fórmula e use apenas higiene nasal e medicamentos orientados para a idade.",
+        "1a": "Em menores de 2 anos, sintomas persistentes pedem revisão de infecções virais recorrentes, irritantes, adenoide e anatomia nasal. Não use antialérgico, xarope ou descongestionante de outra criança.",
+        "2a5": "Observe sono, ronco, respiração pela boca, fala, audição e comportamento. Ensine a higiene nasal como brincadeira sem força e combine com a creche um plano simples; medicações devem ser administradas por adulto.",
+        "6a11": "Pergunte diretamente sobre sono, cansaço, atenção, faltas e rendimento escolar. Ensine a técnica nasal com supervisão e preserve esporte; tosse, chiado ou limitação ao exercício exige avaliação de asma.",
+        "12a17": "Inclua o adolescente nas decisões e revise técnica, adesão, automedicação, sono, escola, esporte, fumaça e vape. Privacidade deve ser respeitada; sedação ou queda de rendimento após antialérgico precisa ser comunicada.",
+        "unknown": "Antes de personalizar, confirme idade, frequência e duração, impacto em sono e escola, sazonalidade, exposições, sintomas oculares, ronco, respiração oral, febre, unilateralidade, asma, medicamentos e resposta prévia."
+      },
+      "refs": [
+        {
+          "id": "pais135_op138_1",
+          "name": "Rinite alérgica na Infância e Adolescência",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2025/abril/04/24064i-GPA_ISBN_-_Rinite_Alergica_na_Infancia_e_adl.pdf"
+        },
+        {
+          "id": "pais135_op138_2",
+          "name": "V Consenso Brasileiro sobre Rinites – 2024",
+          "url": "https://www.sbp.com.br/fileadmin/ABORL-CCF_-_Consenso_Rinites_2024-e.pdf"
+        },
+        {
+          "id": "pais135_op138_3",
+          "name": "ARIA–EAACI Guidelines 2024–2025 Revision, Part I: Intranasal Treatments",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13040648/"
+        },
+        {
+          "id": "pais135_op138_4",
+          "name": "ARIA–EAACI Guidelines 2024–2025 Revision, Part II: Oral and Ocular Treatments",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/41877472/"
+        },
+        {
+          "id": "pais135_op138_5",
+          "name": "Anti-histamínicos no tratamento da rinite alérgica e urticária em crianças e adolescentes: farmacocinética, farmacodinâmica, segurança e efeitos adversos",
+          "url": "https://www.sbp.com.br/anti-histaminicos-no-tratamento-da-rinite-alergica-e-urticaria-em-criancas-e-adolescentes-farmacocinetica-farmacodinamicaseguranca-e-efeitos-adversos/"
+        },
+        {
+          "id": "pais135_op138_6",
+          "name": "Clinical Practice Guideline: Rhinitis and rhinosinusitis",
+          "url": "https://www.rch.org.au/Persistent_nasal_discharge_rhinosinusitis/.aspx"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1362",
+      "label": "Rubéola congênita",
+      "entity": "Infecção congênita pelo vírus da rubéola, com ou sem síndrome da rubéola congênita",
+      "assessment": "{\"classification\":\"VALID_CONGENITAL_INFECTION_TERM_REQUIRING_PHENOTYPE_DISTINCTION\",\"normalized_entity\":\"Infecção congênita pelo vírus da rubéola\",\"assessment\":\"O termo é válido, mas precisa de precisão: infecção congênita pelo vírus da rubéola significa transmissão durante a gestação; síndrome da rubéola congênita é a infecção acompanhada de manifestações compatíveis, como deficiência auditiva, alterações oculares, cardiopatia e atraso do desenvolvimento. Uma criança pode ter infecção congênita confirmada sem malformação reconhecida no nascimento e ainda assim eliminar vírus e precisar de vigilância.\",\"not_automatically_equivalent_to\":[\"Rubéola adquirida depois do nascimento\",\"Presença obrigatória de catarata, surdez e cardiopatia ao mesmo tempo\",\"Prognóstico visual, auditivo, cardíaco ou neurológico já definido pelo nome\",\"Infecção bacteriana, sepse ou necessidade automática de antibiótico\",\"Ausência de risco tardio quando o exame neonatal inicial foi normal\"],\"counting_rule\":\"Contar como orientação clínica específica para este ID. Não contar como cobertura específica de catarata, glaucoma, surdez, cardiopatia, diabetes, tireoidopatia, atraso do desenvolvimento ou outra manifestação sem documentação própria.\",\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com infecção congênita confirmada ou síndrome da rubéola congênita. O foco inicial é investigação multissistêmica e controle de transmissão; depois, seguimento de audição, visão, coração, crescimento, desenvolvimento, saúde neurológica e possíveis manifestações tardias.\",\"reason_for_specific\":\"A infecção congênita pelo vírus da rubéola é uma entidade reconhecida, de notificação e vigilância, com riscos próprios de transmissão prolongada e de alterações multissistêmicas que podem aparecer ou ser reconhecidas ao longo do tempo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Rubéola congênita acontece quando o vírus da rubéola passa da gestante para o bebê durante a gravidez. Pode afetar audição, olhos, coração, fígado, sangue, crescimento e desenvolvimento; algumas crianças têm poucos sinais no nascimento, e outras precisam de vários especialistas.",
+          "O nome do diagnóstico não informa sozinho quais órgãos foram afetados. Guarde e leve às consultas os resultados do teste auditivo, avaliação dos olhos, ecocardiograma, exames laboratoriais, testes do vírus, receitas, cirurgias e relatório da vigilância epidemiológica.",
+          "Bebês com infecção congênita podem eliminar o vírus na saliva, secreções do nariz e urina por muitos meses. Lave as mãos depois de trocar fraldas, limpar secreções ou alimentar a criança; descarte fraldas de modo seguro e não compartilhe utensílios sujos com saliva.",
+          "Avise o serviço de saúde sobre o diagnóstico antes de consultas, exames ou internações para que organize as precauções corretas. Evite contato próximo do bebê potencialmente infectante com gestantes que não tenham imunidade comprovada e siga as orientações da vigilância local.",
+          "Não interrompa aparelhos auditivos, óculos, estimulação, fisioterapia, terapia de alimentação ou outros apoios prescritos porque a criança parece estar bem. Audição, visão e desenvolvimento precisam de avaliação objetiva, não apenas observação em casa.",
+          "A infecção congênita não é culpa da família. A vacinação contra rubéola na população é a principal forma de prevenir novos casos, mas vacina não trata a criança já infectada; familiares devem atualizar a situação vacinal com a unidade de saúde."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acompanhamento coordenado com pediatria e, conforme os achados, infectologia, cardiologia, oftalmologia, otorrinolaringologia/audiologia, neurologia, endocrinologia, odontologia, reabilitação e estimulação do desenvolvimento.",
+          "Use higiene das mãos antes e depois dos cuidados e limpe superfícies ou objetos contaminados por urina e secreções com o produto indicado para uso doméstico. Não sacuda fraldas ou roupas sujas e não use produtos irritantes diretamente na pele ou nas mucosas da criança.",
+          "Não leve a criança para creche, escola ou atendimento coletivo sem que pediatria e vigilância definam o risco de transmissão. O retorno depende da idade, dos testes e da liberação formal; aparência saudável não prova que o vírus deixou de ser eliminado.",
+          "Estimule fala, comunicação, movimento e brincadeiras adequadas à idade e às limitações sensoriais. Fale de frente para a criança, reduza ruído de fundo quando houver perda auditiva e siga as orientações da equipe para acessibilidade em casa e na escola.",
+          "Observe marcos do desenvolvimento, resposta a sons, contato visual, alinhamento dos olhos, crescimento, cansaço nas mamadas ou atividades, sede e urina excessivas. Registre mudanças e leve as anotações ao retorno; não faça testes caseiros agressivos de visão ou audição.",
+          "Não use chás, massagens, suplementos, aparelhos ou terapias alternativas para tentar eliminar o vírus ou corrigir malformações. Essas medidas não substituem exames, reabilitação nem tratamento específico das alterações encontradas."
+        ],
+        "MEDICAMENTOS": [
+          "Não há medicamento antiviral que elimine a rubéola congênita. O tratamento é direcionado às manifestações de cada criança, podendo incluir procedimentos para o coração ou os olhos, aparelhos auditivos, reabilitação e outros cuidados especializados.",
+          "Use somente os medicamentos prescritos para as alterações documentadas, na apresentação e nos horários informados. Não inicie antibiótico, antiviral, corticoide, vitamina ou colírio por conta própria e não use sobra de receita antiga.",
+          "Não suspenda tratamento cardíaco, ocular, neurológico ou endócrino porque um sintoma melhorou. Se houver vômito, dose esquecida, reação ou divergência entre receita e rótulo, confirme a conduta com a equipe e não dobre a tomada.",
+          "Vacinas de familiares e profissionais reduzem a circulação da rubéola, mas não tratam a criança. Gestantes ou pessoas que podem estar grávidas devem conversar com a equipe de saúde antes de receber vacina que contenha rubéola.",
+          "Se a criança tiver alergia, efeitos adversos ou dificuldade para usar remédio, procure orientação. Não altere dose por peso, não abra comprimidos nem misture medicamentos na alimentação sem confirmação profissional."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno e/ou fórmula e a alimentação complementar conforme idade, crescimento e segurança para engolir. A rubéola congênita não exige dieta especial para todas as crianças.",
+          "Cardiopatia, baixo peso, dificuldade de coordenação, perda auditiva, atraso motor ou alterações neurológicas podem dificultar a alimentação. Procure a equipe se houver cansaço, suor, arroxeamento, tosse ou engasgos durante as mamadas, refeições muito longas ou baixo ganho de peso.",
+          "Não dilua fórmula e não substitua mamadas por água, chá ou suco. Ofereça líquidos adequados à idade e ao plano cardíaco ou renal; não force grandes volumes se a equipe tiver recomendado restrição.",
+          "Não existe alimento, vitamina, suplemento ou fitoterápico que elimine o vírus ou reverta surdez, catarata ou cardiopatia. Use suplementos apenas quando prescritos para uma necessidade documentada.",
+          "Sede intensa, muita urina, perda de peso, cansaço ou piora do crescimento precisam de avaliação, pois alterações endócrinas, inclusive diabetes ou tireoide, podem aparecer mais tarde."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência se a criança tiver dificuldade importante para respirar, lábios ou pele arroxeados, desmaio, convulsão, confusão ou estiver muito sonolenta e difícil de despertar.",
+          "Procure pronto atendimento se o bebê tiver febre ou temperatura anormalmente baixa, recusar repetidamente as mamadas, vomitar tudo, urinar muito menos, ficar muito prostrado ou parecer gravemente doente.",
+          "Vá imediatamente se houver cansaço intenso para mamar, suor frio, respiração rápida, gemência, arroxeamento, inchaço ou piora súbita da capacidade de alimentar-se, pois pode haver descompensação cardíaca ou respiratória.",
+          "Procure urgência diante de sangramento, manchas roxas ou pontos vermelhos que aumentam, palidez intensa, barriga muito inchada, icterícia que piora, urina muito escura ou fezes muito claras.",
+          "Pupila branca, olho muito vermelho ou doloroso, aumento aparente do globo ocular, perda súbita da capacidade de fixar ou acompanhar ou trauma ocular exigem avaliação oftalmológica urgente.",
+          "Não espere retorno agendado se houver perda súbita de uma habilidade, fraqueza nova, convulsão, rigidez, fontanela muito abaulada ou piora rápida do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Casos suspeitos ou confirmados devem ser acompanhados pela equipe assistencial e pela vigilância epidemiológica. Compareça nas datas programadas para testes do vírus e sorologia; somente a equipe pode definir quando a criança deixou de oferecer risco de transmissão.",
+          "Na fase neonatal e nos primeiros meses, confirme que foram avaliados audição, olhos, coração, crescimento, fígado, baço, sangue, sistema neurológico e desenvolvimento. Resultados normais iniciais não dispensam o seguimento indicado.",
+          "Mantenha avaliação auditiva diagnóstica e acompanhamento mesmo se o teste da orelhinha inicial foi normal. Deficiência auditiva pode ser isolada, reconhecida depois ou progredir; antecipe se a criança não reage a sons, não balbucia ou apresenta atraso de fala.",
+          "Mantenha consultas oftalmológicas e cardiológicas conforme os achados. Antecipe diante de pupila branca, desvio dos olhos, dificuldade visual, cansaço, respiração rápida, baixo ganho de peso ou coloração arroxeada.",
+          "Acompanhe crescimento e desenvolvimento em todas as consultas. Solicite reavaliação se houver regressão, atraso novo, dificuldade escolar, sede e urina excessivas, perda de peso, cansaço persistente ou alterações de crescimento, pois manifestações neurológicas e endócrinas podem aparecer mais tarde.",
+          "Creche, escola e contato com gestantes devem seguir a liberação da vigilância e da pediatria. Leve à escola um plano de acessibilidade e de sinais de alerta quando houver alteração auditiva, visual, cardíaca ou do desenvolvimento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme investigação multissistêmica, testes virológicos, precauções e retorno da vigilância. Febre, temperatura baixa, recusa de mamadas, respiração rápida, arroxeamento, sangramento, icterícia em piora, convulsão ou prostração exigem avaliação imediata.",
+        "3a5m": "Mantenha controle de transmissão conforme os testes e a vigilância, além de audição, visão, coração, crescimento e desenvolvimento. Não interprete aparência saudável ou triagem auditiva inicial normal como alta definitiva.",
+        "6a11m": "Confirme se a eliminação viral foi reavaliada e se há liberação formal para ambientes coletivos. Observe resposta a sons, balbucio, fixação visual, ganho de peso e marcos motores; antecipe o retorno diante de atraso ou perda de habilidade.",
+        "1a": "Revise audição, fala, visão, coração, crescimento e desenvolvimento. Se o risco de transmissão ainda não foi formalmente encerrado, siga as precauções e não presuma liberação apenas por ter completado um ano.",
+        "2a5": "Priorize linguagem, audição, visão, desenvolvimento, comportamento, saúde bucal e acessibilidade na creche. Antecipe se houver regressão, dificuldade para entender fala, quedas frequentes, pupila branca, cansaço ou baixo crescimento.",
+        "6a11": "Mantenha seguimento de audição, visão, coração, aprendizagem, desenvolvimento e saúde endócrina conforme o histórico. Queda escolar, dificuldade de comunicação, sede e urina excessivas, perda de peso ou cansaço merecem avaliação.",
+        "12a17": "Inclua o adolescente nas decisões, preserve privacidade e organize transição para o cuidado adulto. Revise audição, visão, cardiopatia, aprendizagem e possíveis manifestações endócrinas; não abandone próteses ou tratamentos por constrangimento.",
+        "unknown": "Antes de personalizar, confirme idade, prematuridade, testes que confirmaram infecção, órgãos afetados, resultado auditivo e ocular, cardiopatia, desenvolvimento, medicações, cirurgias, últimos testes virológicos e liberação da vigilância. Sem esses dados, não presuma ausência de transmissão ou de sequelas."
+      },
+      "refs": [
+        {
+          "id": "pais135_op139_1",
+          "name": "Síndrome da Rubéola Congênita",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sindrome-da-rubeola-congenita"
+        },
+        {
+          "id": "pais135_op139_2",
+          "name": "Guia de Vigilância em Saúde, volume 1, 6ª edição revisada — Síndrome da Rubéola Congênita",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/guia-de-vigilancia-em-saude-volume-1-6a-edicao"
+        },
+        {
+          "id": "pais135_op139_3",
+          "name": "Nota Técnica Conjunta nº 344/2025-CGVDI/DPNI/SVSA/MS",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2025/nota-tecnica-no-344-2025-cgvdi-dpni-svsa-ms.pdf/view"
+        },
+        {
+          "id": "pais135_op139_4",
+          "name": "Protocolo de Precauções e Isolamento em Serviços de Saúde",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/servicosdesaude/prevencao-e-controle-de-infeccao-e-resistencia-microbiana/prevencao-das-principais-iras/precaucao-e-isolamento/protocolo-5-medidas-de-precaucao-e-isolamento-final.pdf/@@download/file"
+        },
+        {
+          "id": "pais135_op139_5",
+          "name": "Chapter 15: Congenital Rubella Syndrome — Manual for the Surveillance of Vaccine-Preventable Diseases",
+          "url": "https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-15-congenital-rubella-syndrome.html"
+        },
+        {
+          "id": "pais135_op139_6",
+          "name": "Rubella — Fact sheet",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rubella"
+        },
+        {
+          "id": "pais135_op139_7",
+          "name": "5.1 Congenital Rubella Syndrome — Birth Defects Surveillance Toolkit",
+          "url": "https://archive.cdc.gov/www_cdc_gov/ncbddd/birthdefects/surveillancemanual/chapters/chapter-5/chapter5-1.html"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

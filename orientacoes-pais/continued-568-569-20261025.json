@@ -1,0 +1,121 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:00:32.620Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_8a69171b18cc73bd",
+      "label": "Artrite reativa — registro no PPS",
+      "entity": "Artrite reativa",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Inflamação articular após infecção; pós-infecciosa é descrição ampla. Não equivale automaticamente a artrite séptica nem exclui febre reumática ou AIJ.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Dor e inchaço nas articulações podem aparecer depois de uma infecção. Esse antecedente não prova artrite reativa nem descarta infecção dentro da articulação: o diagnóstico precisa de avaliação da equipe.",
+          "Informe infecções recentes de garganta, intestino ou vias urinárias, medicamentos usados e quando começaram os sintomas articulares. Registre quais articulações doem, febre, dificuldade para andar e mudanças na pele ou olhos."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Depois de avaliação e liberação para cuidados em casa, adapte brincadeiras e escola ao conforto. Não force caminhada ou esporte com dor importante, mas evite imobilização prolongada sem orientação.",
+          "A equipe pode orientar movimentos graduais ou fisioterapia. Compressa fria envolvida em pano pode aliviar uma articulação inchada, se for confortável; não aplique gelo direto nem substitua reavaliação por compressas."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o tratamento orientado para esta criança. Não comece antibiótico, anti-inflamatório ou corticoide usando receita anterior; o tratamento depende da causa e da idade.",
+          "Antibiótico pode ser necessário se houver uma infecção ainda presente, mas não é indicado automaticamente só pelo nome “pós-infecciosa”. Se a dor ou a função piorar apesar do plano, procure reavaliação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais, adequados à idade. Não há dieta que substitua a investigação e o acompanhamento da articulação.",
+          "Informe perda de apetite persistente, emagrecimento, vômitos ou dificuldade de hidratação. Se a criança não consegue beber ou está muito prostrada, procure atendimento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se a criança parar de apoiar a perna ou usar um membro, tiver dor forte com inchaço, articulação muito quente ou piora rápida, com ou sem febre. Não espere passar por ter havido uma virose.",
+          "Dor nos olhos, olho vermelho com sensibilidade à luz ou visão borrada precisam de avaliação urgente. Não trate só com colírio que sobrou em casa.",
+          "Com dificuldade para respirar ou acordar, desmaio ou confusão, acione 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se a causa ainda estiver em investigação, confirme retorno precoce, em até uma semana ou antes conforme a equipe. Sinais de perigo exigem atendimento antes desse prazo.",
+          "Mantenha seguimento se houver inchaço, rigidez ao acordar, mancar, novos sintomas ou episódios repetidos. A duração varia; não espere meses de dor presumindo que desaparecerá sozinha."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebê pequeno que move menos um membro ou chora ao manuseio precisa avaliação imediata; não presumir reação benigna a infecção.",
+        "3a5m": "Redução de movimentos, choro ao trocar fraldas ou recusa de mamadas precisam avaliação; febre pode faltar.",
+        "6a11m": "Parar de engatinhar ou usar braço/perna exige avaliação. Não force movimentos para testar a articulação.",
+        "1a": "Recusa súbita de ficar em pé ou andar é sinal de alerta, mesmo após infecção recente.",
+        "2a5": "Ajude a mostrar onde dói e observe apoio e brincadeiras; incapacidade de apoiar requer atendimento imediato.",
+        "6a11": "Adapte escola e esporte à orientação de recuperação e registre rigidez e dificuldade funcional.",
+        "12a17": "Permita conversa reservada com a equipe sobre infecções, medicamentos e sintomas urinários ou genitais; isso ajuda a investigar sem presumir a causa.",
+        "unknown": "Confirme idade, avaliação inicial e retorno. O nome no cadastro não afasta infecção articular urgente."
+      },
+      "refs": [
+        {
+          "id": "pais193_op568_1",
+          "name": "The acutely swollen joint",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_acutely_swollen_joint/"
+        },
+        {
+          "id": "pais193_op568_2",
+          "name": "Reactive arthritis",
+          "url": "https://www.nhs.uk/conditions/reactive-arthritis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_c4d1dcab309df745",
+      "label": "Artrite pós-infecciosa — registro no PPS",
+      "entity": "Artrite pós-infecciosa",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Inflamação articular após infecção; pós-infecciosa é descrição ampla. Não equivale automaticamente a artrite séptica nem exclui febre reumática ou AIJ.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Pós-infecciosa” descreve a relação com uma infecção anterior, mas não informa sozinha qual é a causa ou o tratamento. A equipe pode precisar diferenciar artrite reativa, febre reumática e outras doenças.",
+          "Dor e inchaço nas articulações podem aparecer depois de uma infecção. Esse antecedente não prova artrite reativa nem descarta infecção dentro da articulação: o diagnóstico precisa de avaliação da equipe.",
+          "Informe infecções recentes de garganta, intestino ou vias urinárias, medicamentos usados e quando começaram os sintomas articulares. Registre quais articulações doem, febre, dificuldade para andar e mudanças na pele ou olhos."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Depois de avaliação e liberação para cuidados em casa, adapte brincadeiras e escola ao conforto. Não force caminhada ou esporte com dor importante, mas evite imobilização prolongada sem orientação.",
+          "A equipe pode orientar movimentos graduais ou fisioterapia. Compressa fria envolvida em pano pode aliviar uma articulação inchada, se for confortável; não aplique gelo direto nem substitua reavaliação por compressas."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o tratamento orientado para esta criança. Não comece antibiótico, anti-inflamatório ou corticoide usando receita anterior; o tratamento depende da causa e da idade.",
+          "Antibiótico pode ser necessário se houver uma infecção ainda presente, mas não é indicado automaticamente só pelo nome “pós-infecciosa”. Se a dor ou a função piorar apesar do plano, procure reavaliação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais, adequados à idade. Não há dieta que substitua a investigação e o acompanhamento da articulação.",
+          "Informe perda de apetite persistente, emagrecimento, vômitos ou dificuldade de hidratação. Se a criança não consegue beber ou está muito prostrada, procure atendimento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se a criança parar de apoiar a perna ou usar um membro, tiver dor forte com inchaço, articulação muito quente ou piora rápida, com ou sem febre. Não espere passar por ter havido uma virose.",
+          "Dor nos olhos, olho vermelho com sensibilidade à luz ou visão borrada precisam de avaliação urgente. Não trate só com colírio que sobrou em casa.",
+          "Com dificuldade para respirar ou acordar, desmaio ou confusão, acione 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se a causa ainda estiver em investigação, confirme retorno precoce, em até uma semana ou antes conforme a equipe. Sinais de perigo exigem atendimento antes desse prazo.",
+          "Mantenha seguimento se houver inchaço, rigidez ao acordar, mancar, novos sintomas ou episódios repetidos. A duração varia; não espere meses de dor presumindo que desaparecerá sozinha."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebê pequeno que move menos um membro ou chora ao manuseio precisa avaliação imediata; não presumir reação benigna a infecção.",
+        "3a5m": "Redução de movimentos, choro ao trocar fraldas ou recusa de mamadas precisam avaliação; febre pode faltar.",
+        "6a11m": "Parar de engatinhar ou usar braço/perna exige avaliação. Não force movimentos para testar a articulação.",
+        "1a": "Recusa súbita de ficar em pé ou andar é sinal de alerta, mesmo após infecção recente.",
+        "2a5": "Ajude a mostrar onde dói e observe apoio e brincadeiras; incapacidade de apoiar requer atendimento imediato.",
+        "6a11": "Adapte escola e esporte à orientação de recuperação e registre rigidez e dificuldade funcional.",
+        "12a17": "Permita conversa reservada com a equipe sobre infecções, medicamentos e sintomas urinários ou genitais; isso ajuda a investigar sem presumir a causa.",
+        "unknown": "Confirme idade, avaliação inicial e retorno. O nome no cadastro não afasta infecção articular urgente."
+      },
+      "refs": [
+        {
+          "id": "pais193_op569_1",
+          "name": "The acutely swollen joint",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_acutely_swollen_joint/"
+        },
+        {
+          "id": "pais193_op569_2",
+          "name": "Reactive arthritis",
+          "url": "https://www.nhs.uk/conditions/reactive-arthritis/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

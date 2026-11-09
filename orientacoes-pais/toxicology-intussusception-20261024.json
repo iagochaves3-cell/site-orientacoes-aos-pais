@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T16:48:42.000Z",
+  "baseline_version": 106,
+  "baseline_commit": "e27d92f750b1ce3a7c24ab5ab370b3fa0e9562dd",
+  "records": [
+    {"key":"pdf1500_914","label":"Intoxicação por ferro","specific":true,"clinical_entity":"Intoxicação aguda por ferro","term_resolution":false},
+    {"key":"pdf1500_915","label":"Intoxicação por paracetamol","specific":true,"clinical_entity":"Intoxicação aguda por paracetamol","term_resolution":false},
+    {"key":"pdf1500_916","label":"Intoxicação por saneantes domésticos","specific":true,"clinical_entity":"Intoxicação ou exposição relevante a saneantes domésticos","term_resolution":false},
+    {"key":"pdf1500_917","label":"Intussuscepção intestinal","specific":true,"clinical_entity":"Intussuscepção intestinal pediátrica","term_resolution":false},
+    {"key":"pdf1500_918","label":"Intussuscepção intestinal agudo","specific":false,"clinical_entity":"Intussuscepção intestinal; agudo redundante","term_resolution":true},
+    {"key":"pdf1500_919","label":"Intussuscepção intestinal bilateral","specific":false,"clinical_entity":"Intussuscepção intestinal; bilateralidade inaplicável","term_resolution":true},
+    {"key":"pdf1500_920","label":"Intussuscepção intestinal crônico","specific":false,"clinical_entity":"Intussuscepção intestinal; curso crônico/recorrente requer esclarecimento","term_resolution":true}
+  ]
+}

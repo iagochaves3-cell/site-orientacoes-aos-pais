@@ -1,0 +1,431 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T15:06:46.044Z",
+  "records": [
+    {
+      "jobId": "OP-3062",
+      "specific": true,
+      "key": "pps_catalog_530b5edf948f619e",
+      "label": "Atrofia muscular espinhal — registro no PPS",
+      "entity": "Atrofia muscular espinhal em criança ou adolescente, com etiologia genética, subtipo, idade de início e funções motora, respiratória e bulbar a confirmar individualmente",
+      "assessment": "{\"classification\":\"VALID_HETEROGENEOUS_NEUROMUSCULAR_DISEASE_REQUIRING_GENETIC_AND_FUNCTIONAL_SPECIFICATION\",\"normalized_entity\":\"Atrofia muscular espinhal (AME)\",\"assessment\":\"O termo do cadastro corresponde a uma doença neuromuscular pediátrica válida, mas ampla. 'Atrofia muscular espinhal' e 'atrofia muscular espinal' são variantes terminológicas; AME e SMA são siglas usadas em português e inglês. A AME 5q relacionada ao gene SMN1 é a forma mais comum, porém o rótulo isolado não confirma forma 5q, tipo 0/1/2/3/4, número de cópias de SMN2, gravidade, prognóstico ou elegibilidade a tratamento. O sufixo 'registro no PPS' indica apenas a origem cadastral.\",\"diagnostic_boundary\":\"Diferenciar de hipotonia de outras causas, paralisia cerebral, distrofias e miopatias, neuropatias, doenças da junção neuromuscular, lesões medulares e outras doenças do neurônio motor. Suspeita clínica, triagem neonatal alterada ou histórico familiar não substituem confirmação diagnóstica e genética. Resultado negativo apenas para a deleção mais comum de SMN1 pode exigir investigação especializada de variantes e de outras causas.\",\"treatment_boundary\":\"Existem terapias modificadoras para grupos definidos de AME, além de suporte respiratório, nutricional, motor, ortopédico e psicossocial. A escolha, o início, a troca, a combinação ou a suspensão dependem de diagnóstico, subtipo, idade, função atual, riscos, critérios regulatórios e decisão compartilhada no centro especializado. Esta ficha não seleciona terapia nem promete cura, recuperação de marco motor ou independência de suporte.\",\"medication_boundary\":\"Nenhum medicamento, dose, via, intervalo, preparo, combinação ou cronograma pode ser derivado do rótulo. Não alterar tratamento modificador, sedativo, antitussígeno, antibiótico, suplemento ou oxigênio por conta própria. A terapia prescrita não substitui cuidado respiratório, deglutição segura, nutrição, reabilitação ou seguimento.\",\"testing_boundary\":\"A classificação requer história clínica, exame neuromuscular e teste genético orientado pela equipe. Avaliações motoras, respiratórias, de sono, tosse, deglutição, crescimento e ortopedia são escolhidas conforme idade e função; responsáveis não devem interpretar isoladamente saturação, número de cópias de SMN2 ou escala motora para definir tipo, prognóstico ou conduta.\",\"prognostic_boundary\":\"A evolução varia amplamente e foi modificada por diagnóstico precoce, terapias e cuidados de suporte. Idade atual, capacidade de sentar ou andar e tipo histórico não bastam para prever evolução individual. Estabilidade ou melhora com terapia não elimina risco respiratório, bulbar, nutricional ou ortopédico.\",\"pediatric_scope\":\"A AME pode se manifestar do período pré-natal à adolescência. Em lactentes, pouca movimentação, hipotonia, choro ou tosse fracos, dificuldade para sugar e respiração paradoxal exigem avaliação rápida. Crianças maiores e adolescentes podem manter marcha e ainda apresentar fadiga, quedas, escoliose, tosse ineficaz, hipoventilação no sono ou disfagia.\",\"not_equivalent_to\":[\"AME 5q confirmada ou um tipo histórico específico\",\"resultado positivo de triagem neonatal sem confirmação diagnóstica\",\"hipotonia, fraqueza ou atraso motor de qualquer causa\",\"distrofia muscular, miopatia, neuropatia ou paralisia cerebral\",\"deficiência intelectual presumida pelo grau de fraqueza\",\"prognóstico individual definido pela idade ou pelo maior marco motor\",\"elegibilidade automática para medicamento, terapia gênica ou combinação\",\"ausência de risco respiratório porque a criança anda ou parece estável\"],\"critical_context_to_confirm\":[\"idade, início dos sintomas e maior marco motor já atingido, mantido ou perdido\",\"confirmação genética, forma 5q ou não-5q, variantes e cópias de SMN2 quando aplicável\",\"função motora atual, fadiga, quedas, dor, contraturas, escoliose, mobilidade e equipamentos\",\"padrão respiratório acordado e dormindo, força da tosse, secreções, infecções, internações e suporte ventilatório habitual\",\"sucção, mastigação, deglutição, salivação, refluxo, engasgos, duração das refeições, crescimento e via de alimentação\",\"tratamento modificador atual ou prévio, exames de segurança, resposta funcional e equipe responsável\",\"plano escrito para doença aguda, parâmetros habituais e uso treinado de ventilação, tosse assistida e aspiração\",\"vacinação, escola, acessibilidade, comunicação, saúde emocional e objetivos da criança e da família\"],\"resolution\":\"Entidade válida e heterogênea. Os aliases foram reconciliados sem presumir AME 5q, tipo, gravidade ou terapia. Conta uma entidade adicional apenas se integrada, testada e publicada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A atrofia muscular espinhal causa fraqueza porque afeta neurônios que controlam os músculos. Há formas diferentes e grande variação entre crianças; o nome sozinho não informa o tipo, a evolução nem o tratamento adequado.",
+          "Tenha um plano escrito do centro neuromuscular para dias habituais e para resfriado, febre ou aumento de secreções. Inclua contatos, suporte respiratório, tosse assistida, aspiração, alimentação e parâmetros habituais definidos para esta criança.",
+          "Observe mudanças em respiração, tosse, choro ou voz, secreções, sono, cansaço, alimentação, peso, movimentos e participação. Na AME, uma infecção pode piorar rapidamente mesmo sem tosse forte ou febre alta.",
+          "Mantenha equipamentos prescritos limpos, carregados, com acessórios e plano para falta de energia ou transporte. Não mude parâmetros de ventilação, máscara, aspiração ou tosse assistida sem orientação da equipe.",
+          "Compartilhe o plano com cuidadores, escola e serviços de urgência. Fraqueza motora não mede compreensão: ofereça comunicação, escolhas, aprendizagem, brincadeiras e participação compatíveis com a idade e a energia da criança.",
+          "Registre infecções, internações, engasgos, quedas, perda de habilidades, tempo de refeições e dificuldades com equipamentos para levar às reavaliações."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Siga o programa individual de fisioterapia motora e respiratória. Posicionamento, alongamentos, órteses, mobilidade, limpeza de secreções e conservação de energia devem ser ensinados e revistos pela equipe; não force movimentos nem leve a criança à exaustão.",
+          "Mude a posição com cuidado e use os apoios prescritos para cabeça, tronco e membros. Proteja pele, articulações e coluna e confira áreas de pressão de máscaras, órteses e assentos.",
+          "Use ventilação, tosse assistida, aspiração ou outros dispositivos apenas conforme treinamento e plano individual. Uso mais frequente em doença respiratória deve seguir a orientação do centro e não substitui avaliação diante de piora.",
+          "Planeje escola, transporte e saídas com acessibilidade, baterias, peças de reserva e contato de emergência. Cuidadores devem reconhecer tosse mais fraca, acúmulo de secreções, respiração diferente e engasgo.",
+          "Mantenha vacinação e prevenção de infecções conforme o calendário e a equipe. Higiene das mãos, ventilação dos ambientes e evitar contato próximo com pessoas doentes reduzem risco sem justificar isolamento desnecessário.",
+          "Antes de sedação, anestesia, cirurgia ou procedimento odontológico, informe AME, função respiratória, deglutição e suporte habitual para planejamento com equipe experiente."
+        ],
+        "MEDICAMENTOS": [
+          "Existem terapias que podem modificar a evolução de formas definidas de AME, mas diagnóstico, indicação, escolha, monitorização e acesso pertencem ao centro especializado. Esta ficha não indica produto, dose, via, combinação, troca ou suspensão.",
+          "Não interrompa, antecipe, repita, combine ou compartilhe terapia por conta própria. Administração, armazenamento, exames de segurança e condutas diante de dose perdida ou efeito adverso variam conforme o produto efetivamente prescrito.",
+          "Tratamento modificador não substitui suporte respiratório, deglutição segura, nutrição, reabilitação ou cuidado ortopédico. Mesmo com melhora ou estabilidade, mantenha seguimento e equipamentos até decisão formal da equipe.",
+          "Em febre, resfriado ou aumento de secreções, acione cedo o plano individual. Não use antibiótico, corticoide, sedativo, antitussígeno, mucolítico, suplemento ou oxigênio sem orientação; alguns produtos podem deprimir a respiração ou mascarar piora.",
+          "Leve lista atualizada de medicamentos e alergias aos atendimentos. Reação importante, dificuldade de administrar a terapia ou perda funcional durante tratamento exige contato rápido com o centro, sem ajuste caseiro."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga o plano individual de alimentação e deglutição. Use postura, utensílios, textura e ritmo ensinados; ofereça pausas e não force alimento ou líquido quando houver cansaço ou esforço respiratório.",
+          "Tosse ou engasgo durante ou após a refeição, voz ou choro molhado, alimento saindo pelo nariz, respiração alterada, refeição muito demorada, pneumonias repetidas ou perda de peso podem indicar deglutição insegura e exigem avaliação rápida.",
+          "Aspiração também pode ocorrer sem tosse evidente. Mudança de voz, mais secreção, olhos lacrimejando, queda de energia ou dificuldade respiratória após comer devem ser comunicadas à equipe.",
+          "Não engrosse líquidos, mude textura, volume, fórmula, suplemento, utensílio ou via de alimentação por conta própria. Fonoaudiologia e nutrição equilibram segurança, hidratação, crescimento, conforto e participação familiar.",
+          "Durante infecção ou piora respiratória, engolir pode ficar menos seguro. Se a criança não consegue coordenar respirar e engolir, está sonolenta ou se engasga repetidamente, pare a oferta pela boca e procure atendimento urgente; não force líquidos.",
+          "Não prolongue jejum por conta própria, especialmente em lactentes ou durante doença aguda. Jejum para exame ou procedimento deve seguir instrução expressa do serviço."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver pausa respiratória, lábios ou pele arroxeados, dificuldade intensa para respirar, sonolência extrema, confusão, desmaio, incapacidade de eliminar secreção com sufocação ou falha do suporte ventilatório com piora.",
+          "Procure atendimento imediato se a respiração ficar mais rápida, superficial ou trabalhosa que o habitual; se houver piora da respiração abdominal/paradoxal, retrações, gemência, redução importante do choro ou voz, tosse muito fraca ou acúmulo de secreções.",
+          "Febre, resfriado, mais secreção, prostração, queda de saturação conforme o plano ou necessidade maior que a habitual de suporte respiratório exigem contato imediato com o centro e avaliação urgente.",
+          "Engasgo com incapacidade de respirar, alimento ou líquido causando falta de ar, episódios repetidos de aspiração ou incapacidade de engolir a própria saliva são emergências. Não ofereça mais por via oral enquanto busca atendimento.",
+          "Leve o plano, lista de medicamentos, dispositivos e parâmetros habituais. Informe que a criança tem doença neuromuscular e pode ter tosse ineficaz ou hipoventilação; use oxigênio e ventilação somente como já prescrito ou orientado pelo 192/equipe.",
+          "Fraqueza nova muito rápida, perda súbita de habilidade, queda com dor intensa ou deformidade, desidratação ou incapacidade de receber a alimentação habitual também requerem avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita nova, triagem neonatal alterada ou diagnóstico recém-confirmado exige contato prioritário com serviço de doenças raras/centro neuromuscular; não espere a próxima consulta de rotina, pois confirmação e tratamento precoces podem mudar resultados.",
+          "Mantenha acompanhamento multiprofissional com neurologia, pneumologia, fisioterapia, fonoaudiologia, nutrição, ortopedia, reabilitação, enfermagem, psicologia e serviço social conforme a necessidade. O intervalo depende da idade, subtipo e função atual.",
+          "Nas consultas, reavalie função motora, respiração acordado e durante o sono, tosse e secreções, deglutição, crescimento, coluna, quadris, articulações, dor, equipamentos, escola e participação. Pessoas mais frágeis precisam de avaliações mais frequentes.",
+          "Antecipe o contato no mesmo dia se surgirem ronco novo ou sono agitado, dor de cabeça ao acordar, cansaço diurno, infecções respiratórias, tosse mais fraca, refeição mais longa, engasgos, perda de peso, quedas ou perda de habilidade.",
+          "Após infecção, internação, cirurgia, mudança funcional ou alteração de tratamento, revise o plano respiratório, nutricional e de emergência e confirme o funcionamento dos equipamentos antes de retomar a rotina.",
+          "Se diagnóstico, forma genética ou subtipo ainda não estão claros, mantenha investigação especializada. Não iniciar terapia nem definir prognóstico apenas pelo rótulo, pela idade atual ou pelo número de cópias de SMN2 isoladamente."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Pouca movimentação, hipotonia, choro fraco, dificuldade para sugar, respiração paradoxal ou tosse fraca exige avaliação pediátrica/neuromuscular urgente. Triagem neonatal alterada precisa de confirmação e encaminhamento imediato; não presumir tipo apenas pela idade.",
+        "3a5m": "Vigiar controle da cabeça, sucção, duração da mamada, engasgos, ganho de peso, tosse, secreções e respiração no sono. Cansaço para mamar ou incapacidade de eliminar secreção requer avaliação rápida.",
+        "6a11m": "Avaliar postura, sentar, movimentos contra a gravidade, alimentação, tosse e respiração sem classificar AME apenas pelo marco motor. Brincadeiras e apoios devem favorecer participação sem fadiga ou posições inseguras.",
+        "1a": "Monitorar aquisição, manutenção ou perda de marcos, tosse, sono, deglutição e crescimento. Criança que senta ou fica em pé ainda pode precisar de avaliação respiratória e plano específico para infecções.",
+        "2a5": "Revisar mobilidade, quedas, fadiga, contraturas, coluna, comunicação, alimentação e sono. Creche/escola deve ter acessibilidade e plano de emergência, sem limitar aprendizagem por causa da fraqueza motora.",
+        "6a11": "Promover autonomia com equipamentos e conservação de energia, acompanhar escoliose, tosse e função respiratória e planejar suporte escolar. Marcha preservada não elimina risco de piora no sono, infecção ou disfagia.",
+        "12a17": "Incluir o adolescente nas decisões sobre mobilidade, ventilação, alimentação, procedimentos e tratamento; revisar saúde mental, acessibilidade, transição para cuidado adulto e questões reprodutivas apenas no contexto da terapia prescrita.",
+        "unknown": "Confirmar idade, genética, início, maior marco motor, função atual, respiração, sono, deglutição, nutrição, equipamentos e tratamento antes de usar orientação específica de tipo, prognóstico ou terapia."
+      },
+      "refs": [
+        {
+          "id": "pais262_op3062_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Atrofia Muscular Espinhal 5q tipos 1 e 2",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/atrofia-muscular-espinhal-5q-tipos-1-e-2/@@download/file"
+        },
+        {
+          "id": "pais262_op3062_2",
+          "name": "Atrofia Muscular Espinhal (AME)",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/ame/ame"
+        },
+        {
+          "id": "pais262_op3062_3",
+          "name": "Spinal Muscular Atrophy — GeneReviews",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK1352/"
+        },
+        {
+          "id": "pais262_op3062_4",
+          "name": "Consensus from the Brazilian Academy of Neurology for the diagnosis, genetic counseling, and use of disease-modifying therapies in 5q spinal muscular atrophy",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10843933/"
+        },
+        {
+          "id": "pais262_op3062_5",
+          "name": "Spinal Muscular Atrophy Update in Best Practices: Recommendations for Diagnosis Considerations",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11195435/"
+        },
+        {
+          "id": "pais262_op3062_6",
+          "name": "Spinal Muscular Atrophy Update in Best Practices: Recommendations for Treatment Considerations",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11464225/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3064",
+      "specific": true,
+      "key": "pps20261014_avulsao_dentaria",
+      "label": "Avulsão dentária — dente que saiu após trauma",
+      "entity": "Avulsão dentária traumática, definida pela saída completa do dente do alvéolo, com primeiros cuidados e prognóstico criticamente diferentes para dente permanente e dente decíduo",
+      "assessment": "{\"classification\":\"VALID_ACUTE_TIME_CRITICAL_TRAUMATIC_DENTAL_INJURY\",\"normalized_entity\":\"Avulsão traumática de dente permanente ou decíduo\",\"assessment\":\"O termo descreve uma lesão aguda válida: o dente saiu completamente do alvéolo após trauma. A distinção entre dente permanente e dente decíduo é decisiva. Um dente permanente confirmado deve ser reimplantado imediatamente quando isso puder ser feito com segurança e sem força, ou mantido úmido em meio apropriado até atendimento odontológico imediato. Um dente decíduo nunca deve ser reimplantado, porque pode lesar o sucessor permanente e criar risco de aspiração. O cadastro não informa idade, tipo e posição do dente, tempo fora da boca, tempo seco, meio de conservação, reimplante prévio nem traumas associados; a orientação, portanto, separa explicitamente os dois fluxos e não presume um paciente individual.\",\"diagnostic_boundary\":\"Avulsão é a saída completa do dente. Não é sinônimo de intrusão, em que o dente foi empurrado para dentro e pode parecer ausente; luxação ou extrusão, em que o dente permanece parcial ou totalmente no alvéolo; nem fratura, em que pode ter saído apenas um fragmento. Dente ou fragmento não localizado exige considerar intrusão, retenção em tecido mole, deglutição ou aspiração.\",\"permanent_vs_primary_boundary\":\"Dente permanente confirmado: reimplante imediato é a melhor primeira medida na maioria das situações, desde que a pessoa esteja consciente, cooperativa, sem emergência mais importante e o dente entre sem força. Dente decíduo: nunca reimplantar. Na dentição mista ou quando houver dúvida, não tentar adivinhar apenas pela idade ou pelo tamanho; manter o dente úmido, fora da boca, e buscar dentista imediatamente.\",\"handling_and_storage_boundary\":\"Pegar somente pela coroa branca; não tocar, raspar, escovar ou secar a raiz. Se houver sujeira visível, enxaguar suavemente por poucos segundos em leite, soro fisiológico ou saliva, sem esfregar. Se o dente permanente não puder ser recolocado, mantê-lo em leite ou solução balanceada própria; soro fisiológico ou saliva em recipiente limpo são alternativas. Não transportar seco, embrulhado em papel/pano ou mergulhado em água. Não manter dente solto na boca de criança, pessoa sonolenta, confusa ou traumatizada.\",\"medication_boundary\":\"Medicamentos, antibióticos, antissépticos e avaliação de tétano pertencem ao profissional após exame. Esta ficha não escolhe produto, dose, via, intervalo ou duração. Em casa, usar somente medicação prescrita para esta criança e para este episódio, sem atrasar a urgência odontológica.\",\"prognostic_boundary\":\"Agir rapidamente aumenta a chance de manter um dente permanente, mas não garante sua sobrevivência. Tempo seco, maturidade da raiz, contaminação, lesões associadas e seguimento influenciam o resultado. Dente permanente reimplantado requer acompanhamento clínico e radiográfico prolongado; avulsão de decíduo também exige acompanhamento do sucessor permanente.\",\"pediatric_scope\":\"Em bebês e pré-escolares, dentes presentes são em geral decíduos e não devem ser reimplantados. Aproximadamente dos 6 aos 11 anos há dentição mista e a idade isolada não define o tipo do dente. Em adolescentes, os dentes anteriores são em geral permanentes, mas ainda é necessário confirmar e priorizar trauma de cabeça, face, pescoço, via aérea ou sangramento importante.\",\"not_equivalent_to\":[\"intrusão dentária, quando o dente foi empurrado para dentro do osso\",\"luxação lateral ou extrusão, quando o dente ainda está no alvéolo\",\"fratura de coroa ou raiz com perda apenas de fragmento\",\"avulsão de dente decíduo tratada como se fosse permanente\",\"trauma dental isolado quando há possível traumatismo craniano, facial ou cervical\",\"garantia de que o dente permanente reimplantado permanecerá viável\"],\"critical_context_to_confirm\":[\"se o dente é permanente ou decíduo; em dentição mista, não concluir apenas pela idade\",\"horário do trauma, tempo fora da boca, tempo seco e meio de conservação\",\"se o dente foi reimplantado, por quem, como foi limpo e se entrou sem força\",\"se todo o dente foi encontrado ou se pode estar intruído, aspirado ou retido em tecido mole\",\"perda de consciência, confusão, convulsão, vômitos, dor cervical, falta de ar ou outro trauma\",\"sangramento persistente, corte profundo, mordida alterada, deformidade facial ou dificuldade para abrir a boca\",\"doenças, alergias, medicamentos em uso, imunização contra tétano e possibilidade de cooperação\",\"plano odontológico de contenção, higiene, alimentação, tratamento pulpar e retornos\"],\"urgency_rule\":\"Toda avulsão dentária exige contato e atendimento odontológico imediato. Dificuldade respiratória, suspeita de aspiração, alteração da consciência, convulsão, sinais neurológicos, sangramento importante ou trauma facial/cervical têm prioridade de emergência médica sobre o dente.\",\"resolution\":\"Entidade válida e específica. Contar uma única avulsão dentária traumática, com fluxos distintos para permanentes e decíduos; não somar intrusão, luxação, fratura ou o alias cadastral pps_catalog_171e01f8143d2fe8 como entidades adicionais.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Avulsão é quando o dente sai inteiro do local onde estava. É uma urgência odontológica: interrompa a atividade, acalme a criança, confira se ela respira normalmente e procure um dentista imediatamente, mesmo que o dente não seja encontrado, o sangramento pare ou o dente já tenha sido recolocado.",
+          "Encontre o dente e segure apenas pela coroa, a parte branca que ficava visível. Não toque na raiz, não raspe, não escove, não seque e não use álcool, água oxigenada, sabão, pasta de dente ou outro produto.",
+          "Se houver certeza de que é um dente permanente, a criança estiver acordada e cooperativa, não houver outra emergência e o dente entrar facilmente, recoloque-o delicadamente no alvéolo sem forçar. Peça para morder suavemente uma gaze ou pano limpo para mantê-lo no lugar e vá imediatamente ao dentista.",
+          "Se for dente decíduo, de leite, nunca recoloque. Isso pode machucar o dente permanente em formação e expor a criança a aspiração. Controle o sangramento com pressão suave de gaze limpa, guarde o dente fora da boca e procure avaliação odontológica imediata.",
+          "Se não souber se o dente é permanente ou de leite, não force o reimplante. Mantenha-o úmido em leite, fora da boca, e vá imediatamente ao dentista. Na dentição mista, idade, tamanho ou aparência isolados podem enganar.",
+          "A prioridade é a vida. Se a pessoa estiver inconsciente, confusa, convulsionando, com dificuldade para respirar, sangramento importante ou possível lesão de cabeça, face ou pescoço, não tente recolocar o dente; busque emergência médica."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se um dente permanente confirmado estiver sujo, segure pela coroa e enxágue suavemente por poucos segundos em leite, soro fisiológico ou saliva. Não esfregue a raiz e não retire fibras ou coágulos aderidos.",
+          "Se não for possível recolocar o dente permanente, coloque-o imediatamente em recipiente limpo com leite ou, se disponível, solução balanceada própria para dentes avulsionados. Soro fisiológico ou saliva cuspida em recipiente limpo são alternativas até chegar ao dentista.",
+          "Não transporte o dente seco, embrulhado em papel, algodão ou pano, nem mergulhado em água. Não guarde o dente solto dentro da boca de criança ou de pessoa sonolenta, agitada, confusa ou traumatizada, pois pode ser engolido ou aspirado.",
+          "Não cave o alvéolo, não retire coágulos, não endireite osso e não tente empurrar um dente que apenas parece ausente. Um dente intruído pode estar dentro do osso e precisa de exame e, quando indicado, radiografia.",
+          "Se o dente ou um fragmento não for localizado, avise imediatamente. Tosse súbita, engasgo, chiado ou falta de ar depois do trauma pode indicar aspiração e exige emergência médica.",
+          "Depois do atendimento, siga exatamente as orientações sobre contenção, higiene, alimentação, esportes e retornos. Não puxe, teste, aperte nem tente consertar a contenção em casa."
+        ],
+        "MEDICAMENTOS": [
+          "Não coloque anestésico, antibiótico, antisséptico, comprimido, pomada, álcool, água oxigenada ou produto caseiro no dente, na raiz ou dentro do alvéolo.",
+          "Dê somente medicamentos prescritos por dentista ou médico para esta criança e para este episódio. Não use antibiótico, analgésico, anti-inflamatório ou enxaguante que sobrou de outro tratamento e não invente dose ou intervalo.",
+          "Após reimplante de dente permanente, o profissional avaliará idade, peso, alergias, contaminação, feridas e doenças para decidir se algum medicamento é indicado. Esta orientação não substitui a prescrição e não recomenda produto, dose, via ou duração.",
+          "Leve a lista de medicamentos, alergias e doenças e, se disponível, a caderneta de vacinação. O profissional de saúde avaliará a situação vacinal contra tétano e a necessidade de alguma medida; não aplique ou adie vacina por conta própria.",
+          "Se houver trauma craniano, vômitos, sonolência ou dificuldade para engolir, não ofereça medicamento pela boca até avaliação. Qualquer remédio não deve atrasar o dentista ou a emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Até a avaliação imediata, não mastigue no lado traumatizado e evite alimentos duros, crocantes, pegajosos ou muito quentes. Não use a mordida para testar se o dente recolocado está firme, além da pressão suave na gaze durante o transporte.",
+          "Se houver sonolência, vômitos, dificuldade para engolir, falta de ar ou possibilidade de procedimento com sedação, não ofereça alimento, líquido ou medicamento pela boca e procure emergência.",
+          "Depois do atendimento, siga o plano do dentista. Em geral, alimentos macios e mastigação longe da área protegem o dente e os tecidos, mas textura e duração dependem da lesão, da contenção e da avaliação individual.",
+          "Faça higiene suave com escova macia conforme orientação profissional. Não faça bochecho em criança que não consegue cuspir e não use antisséptico ou enxaguante sem prescrição.",
+          "Dor que impede beber, recusa persistente, vômitos repetidos, sangramento que recomeça ou dificuldade para engolir após trauma facial exigem reavaliação; não presuma que seja apenas medo."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento odontológico agora para qualquer dente que saiu após trauma, permanente ou de leite, mesmo que tenha sido recolocado, esteja seco, não seja encontrado ou o sangramento tenha parado. A rapidez é especialmente importante para o dente permanente.",
+          "Acione o SAMU 192 ou vá à emergência se houver dificuldade para respirar, engasgo, tosse ou chiado após o desaparecimento do dente, lábios arroxeados, sangramento intenso que não cede com pressão, palidez acentuada, desmaio ou pouca resposta.",
+          "Após pancada na cabeça, procure emergência diante de perda de consciência, convulsão, vômitos repetidos, confusão, comportamento incomum, sonolência crescente ou dificuldade para acordar, fala enrolada, fraqueza, dormência, falta de coordenação, dor de cabeça que piora, pupilas diferentes ou visão dupla.",
+          "Dor forte no pescoço, deformidade da face ou mandíbula, mordida que ficou desalinhada, dificuldade para abrir ou fechar a boca, dormência ou osso exposto sugerem trauma associado e exigem pronto atendimento.",
+          "Depois do tratamento, febre, inchaço crescente, pus, mau cheiro, dor que piora, novo sangramento, dente reimplantado que mudou de posição ou contenção solta exigem contato odontológico urgente; falta de ar ou piora geral é emergência médica."
+        ],
+        "QUANDO REAVALIAR": [
+          "A primeira avaliação é imediata, no momento do trauma. Não espere o dia seguinte, a consulta de rotina ou a dor melhorar. Leve o dente no meio de conservação e informe o horário do acidente, o tempo seco e tudo que foi feito.",
+          "Dente permanente reimplantado precisa de confirmação de posição, contenção e plano de acompanhamento pelo dentista. Tratamento de canal pode ser necessário conforme a maturidade da raiz e a evolução, mas não é decidido nem iniciado em casa.",
+          "Compareça a todos os retornos clínicos e radiográficos definidos pelo dentista, mesmo sem dor. Necrose, infecção, reabsorção da raiz, anquilose, perda do dente ou alteração do crescimento podem aparecer mais tarde.",
+          "Após avulsão de dente de leite, o dentista acompanha a cicatrização e o desenvolvimento e a erupção do dente permanente. Não reimplantar o decíduo é a conduta segura, mas não elimina a necessidade de seguimento.",
+          "Antecipe a reavaliação se surgirem bolinha ou fístula na gengiva, escurecimento, inchaço, secreção, mobilidade nova ou crescente, dor, febre, alteração da mordida ou dificuldade para comer.",
+          "Retorno à escola, esporte e atividade física depende também de trauma de cabeça ou face. Não volte ao esporte no mesmo dia se houver suspeita de concussão; use protetor bucal em atividades indicadas após liberação profissional."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Dentes natais, neonatais ou erupção muito precoce precisam de avaliação própria. Não tente reimplantar nenhuma estrutura que saiu da boca; mantenha-a fora da boca e priorize respiração, sangramento e trauma associado. Procure avaliação médica e odontopediátrica imediata.",
+        "3a5m": "Um dente presente nessa idade é decíduo de erupção precoce: nunca reimplante. Guarde-o fora da boca, controle sangramento com gaze e procure atendimento imediato, especialmente diante de engasgo ou pancada na cabeça.",
+        "6a11m": "Os dentes presentes costumam ser decíduos: nunca reimplante. Crianças pequenas podem engolir ou aspirar o dente, por isso não o mantenha na boca; procure odontopediatria imediatamente e observe trauma de cabeça e face.",
+        "1a": "Trate o dente avulsionado como decíduo e não o recoloque. Atendimento odontológico imediato diferencia avulsão de intrusão ou fratura, controla feridas e registra o dente permanente em desenvolvimento.",
+        "2a5": "A dentição é tipicamente decídua: nunca reimplante. Guarde o dente fora da boca, controle o sangramento e procure dentista imediatamente. Avalie também trauma de cabeça, face e, quando o relato não combinar com a lesão, possibilidade de lesão não acidental.",
+        "6a11": "É fase de dentição mista: pode ser dente de leite ou permanente. Se houver certeza de que é permanente e for seguro, reimplante sem força; se não for possível ou houver dúvida, mantenha em leite, fora da boca, e vá imediatamente ao dentista. Nunca reimplante dente de leite.",
+        "12a17": "O dente anterior avulsionado costuma ser permanente. Se o adolescente estiver consciente, cooperativo, sem outra emergência e o dente entrar sem força, reimplante segurando pela coroa; caso contrário, conserve em leite ou solução apropriada e procure dentista imediatamente.",
+        "unknown": "Confirme idade, posição e tipo do dente, tempo fora da boca, tempo seco, meio de conservação, reimplante e traumas associados. Se não houver certeza de que é permanente, não force o reimplante: mantenha em leite, fora da boca, e procure dentista imediatamente."
+      },
+      "refs": [
+        {
+          "id": "pais262_op3064_1",
+          "name": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 2. Avulsion of Permanent Teeth",
+          "url": "https://www.aapd.org/globalassets/media/policies_guidelines/e_iadt-avulsion25.pdf"
+        },
+        {
+          "id": "pais262_op3064_2",
+          "name": "Acute Management of an Avulsed Permanent Tooth",
+          "url": "https://www.aapd.org/globalassets/media/policies_guidelines/r_traumaflowsheet25.pdf"
+        },
+        {
+          "id": "pais262_op3064_3",
+          "name": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 3. Injuries in the Primary Dentition",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/edt.12576"
+        },
+        {
+          "id": "pais262_op3064_4",
+          "name": "Diretriz para a prática clínica odontológica na Atenção Primária à Saúde: manejo clínico de traumatismos alveolodentários em dentes permanentes",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/diretriz_pratica_odontologica_aps_traumatismoimp.pdf"
+        },
+        {
+          "id": "pais262_op3064_5",
+          "name": "Diretriz para a prática clínica odontológica na Atenção Primária à Saúde: manejo clínico de traumatismos alveolodentários em dentes decíduos",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/diretrizes_odontologica_traumatismo_alveolodentarios.pdf"
+        },
+        {
+          "id": "pais262_op3064_6",
+          "name": "2024 American Heart Association and American Red Cross Guidelines for First Aid",
+          "url": "https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines"
+        },
+        {
+          "id": "pais262_op3064_7",
+          "name": "Clinical Practice Guidelines: Dental trauma",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/dental_injuries/"
+        },
+        {
+          "id": "pais262_op3064_8",
+          "name": "Signs and Symptoms of Concussion",
+          "url": "https://www.cdc.gov/heads-up/signs-symptoms/index.html"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3066",
+      "specific": true,
+      "key": "pps_catalog_9497ce31c76b4372",
+      "label": "Baixa estatura — registro no PPS",
+      "entity": "Baixa estatura ou crescimento linear abaixo do esperado: achado auxológico que exige confirmação por medida correta, curva apropriada e trajetória longitudinal, sem definir sozinho causa, prognóstico de altura ou necessidade de tratamento",
+      "assessment": "{\"classification\":\"VALID_GROWTH_FINDING_NOT_A_SINGLE_ETIOLOGIC_DIAGNOSIS\",\"normalized_entity\":\"Baixa estatura/crescimento linear insuficiente\",\"assessment\":\"O termo é válido como achado clínico, mas não identifica a causa. Baixa estatura costuma ser definida por estatura abaixo de -2 desvios-padrão na referência adequada; ainda assim, um ponto isolado não distingue variante do crescimento, erro de medida, efeito da idade gestacional ou puberdade, doença sistêmica, condição genética, alteração esquelética, problema nutricional ou doença endócrina. A interpretação segura combina medidas confiáveis com datas, velocidade de crescimento, peso/IMC, proporções corporais, idade e sexo, nascimento e prematuridade, estágio puberal, estaturas familiares, sintomas, doenças e medicamentos.\",\"finding_boundary\":\"Baixa estatura descreve o tamanho alcançado; crescimento deficiente descreve desaceleração da trajetória. Uma criança pode ser baixa e manter velocidade apropriada, ou ainda estar dentro da faixa populacional e desacelerar de modo preocupante. Por isso, percentil ou escore-z e velocidade não são intercambiáveis.\",\"variant_disease_boundary\":\"Baixa estatura familiar e atraso constitucional do crescimento e da puberdade podem ser variantes, sobretudo quando a criança está saudável, as proporções são habituais e a velocidade permanece adequada ao estágio de crescimento. Esses rótulos não devem ser presumidos: desaceleração, cruzamento descendente, distância importante do canal familiar, baixa estatura grave, ausência de recuperação após nascer pequena para a idade gestacional, desproporção, dismorfismos, atraso do desenvolvimento, alteração puberal ou sintomas sistêmicos aumentam a possibilidade de doença. Pais baixos também podem compartilhar uma condição genética; o padrão familiar, isoladamente, não encerra a avaliação.\",\"longitudinal_boundary\":\"A velocidade depende de medidas feitas com técnica comparável e intervalo suficiente. Em lactentes, a OMS disponibiliza padrões de velocidade em intervalos de 2 a 6 meses; após os primeiros anos, a avaliação clínica frequentemente usa intervalos mais longos, e a SBP destaca 6 a 12 meses para maior precisão. Diferenças pequenas em poucos dias ou semanas podem refletir técnica, horário ou arredondamento, não crescimento real.\",\"puberty_boundary\":\"Idade cronológica não substitui estágio puberal. O estirão ocorre em momentos diferentes entre indivíduos e entre meninas e meninos; puberdade precoce, tardia ou que não progride pode alterar a velocidade e o crescimento restante. A expectativa de que todo adolescente baixo ainda terá um grande estirão pode atrasar avaliação.\",\"treatment_boundary\":\"A ficha não indica hormônio do crescimento, hormônio tireoidiano, estimulante de apetite, vitamina, suplemento, dieta, exame laboratorial, radiografia, teste de estímulo ou exame genético. Investigação e tratamento dependem da história, exame físico, trajetória e hipótese clínica; não existe painel universal aplicável ao rótulo isolado.\",\"prognostic_boundary\":\"Nenhuma curva, estatura-alvo, idade óssea ou fórmula permite prometer altura adulta exata. O potencial familiar é contexto, não destino garantido; doença, puberdade, condições de nascimento e variação biológica modificam a trajetória.\",\"pediatric_scope\":\"Abrange do nascimento ao fim do crescimento. Em menores de 2 anos, usar comprimento deitado e considerar idade gestacional/corrigida quando pertinente; na transição para altura em pé, técnica e curva mudam. Em escolares, velocidade e canal familiar ganham peso. Em adolescentes, estágio e progressão puberal são indispensáveis.\",\"critical_context_to_confirm\":[\"Idade, sexo, idade gestacional, peso e comprimento ao nascer e recuperação de crescimento\",\"Comprimentos/alturas e pesos anteriores, com datas, equipamento, posição e curva utilizada\",\"Escore-z ou percentil atual e mudança ao longo do tempo, sem concluir por uma medida isolada\",\"Velocidade de crescimento calculada com medidas confiáveis e intervalo apropriado à idade\",\"Estaturas dos pais biológicos, trajetória e época de puberdade dos familiares, reconhecendo os limites da estatura-alvo\",\"Estágio e progressão puberal, menarca quando aplicável e expectativa de crescimento residual\",\"Peso/IMC, alimentação, segurança alimentar, sintomas gastrointestinais, renais, respiratórios, cardíacos, neurológicos, sono, dor e infecções\",\"Doenças crônicas, tratamento oncológico, medicamentos — especialmente exposição a corticoides — e ambiente psicossocial\",\"Proporções corporais, perímetro cefálico quando aplicável, sinais sindrômicos, deformidades, desenvolvimento e achados prévios\"],\"not_automatically_equivalent_to\":[\"Deficiência de hormônio do crescimento ou hipopituitarismo\",\"Baixa estatura familiar saudável\",\"Atraso constitucional do crescimento e da puberdade\",\"Baixa estatura idiopática como diagnóstico já confirmado\",\"Desnutrição, seletividade alimentar ou necessidade automática de suplemento\",\"Doença celíaca, hipotireoidismo, doença renal, cardiopatia, doença inflamatória ou outra causa sistêmica específica\",\"Síndrome de Turner, Noonan, Silver-Russell, alteração de SHOX ou displasia esquelética\",\"Criança pequena para a idade gestacional sem recuperação do crescimento\",\"Indicação automática de somatropina, outro hormônio, exame, dieta ou encaminhamento emergencial\",\"Previsão confiável de altura adulta ou garantia de que a criança vai esticar na puberdade\"],\"urgency_rule\":\"Baixa estatura isolada em criança clinicamente bem costuma permitir avaliação programada. Torna-se urgente quando crescimento ruim acompanha cefaleia progressiva, vômitos matinais, alteração visual, déficit neurológico, suspeita de múltiplas deficiências hormonais, hipoglicemia, descompensação metabólica ou sinais de doença aguda grave; sofrimento psíquico com risco de autoagressão também exige ação imediata.\",\"resolution\":\"Entidade válida e específica como achado de crescimento, com avaliação longitudinal obrigatória e limites explícitos entre variante e doença; validada por duas revisões de IA, sem homologação humana, integração ou publicação por este trabalhador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Baixa estatura significa que a criança está abaixo do esperado em uma comparação apropriada, mas não diz sozinha por quê. O ponto principal é a trajetória: quanto cresceu entre medidas corretas, se mantém seu canal e como altura, peso e puberdade evoluem juntos.",
+          "Guarde a Caderneta da Criança e registros anteriores de comprimento/altura e peso com as datas. Leve às consultas informações de nascimento e prematuridade, doenças, medicamentos, estaturas dos pais biológicos e época em que familiares entraram na puberdade.",
+          "Evite medir toda semana, marcar a parede como única referência ou comparar com irmãos e colegas. Pequenas diferenças de posição, equipamento, horário e técnica podem parecer crescimento ou perda; a velocidade precisa de medidas confiáveis e intervalo adequado.",
+          "Não conclua que é 'só genética' nem prometa que a criança 'vai esticar'. Algumas crianças baixas e saudáveis mantêm velocidade adequada; outras desaceleram antes de surgirem sintomas. O pediatra deve interpretar a curva, o canal familiar e o estágio puberal em conjunto.",
+          "Observe mudanças de apetite ou peso, cansaço, palidez, dor abdominal, diarreia ou constipação persistente, vômitos, sede ou urina excessivas, ronco importante, dor óssea, fraturas, cefaleia, visão, desenvolvimento e sinais de puberdade. Leve essas mudanças à consulta.",
+          "Proteja a autoestima: não use apelidos, não faça da altura tema diário e não vincule valor, esporte ou maturidade ao tamanho. Se houver bullying, exclusão, tristeza, ansiedade ou faltas escolares, envolva escola e equipe de saúde cedo."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acompanhamento com medidas feitas por profissional e registradas na curva adequada à idade e ao sexo. Em bebês mede-se comprimento deitado; em crianças maiores, altura em pé. Prematuridade, transição de técnica e condições específicas podem exigir interpretação própria.",
+          "A velocidade de crescimento é calculada comparando medidas ao longo do tempo; não é um palpite a partir de uma semana. O intervalo útil varia com a idade e a situação clínica, por isso siga o prazo definido pela equipe em vez de repetir medidas por ansiedade.",
+          "Sono adequado, atividade física, alimentação suficiente e tratamento correto de doenças favorecem saúde e crescimento, mas alongamento, aparelhos, exercício específico ou dormir além do necessário não aumentam a altura para além do potencial biológico.",
+          "Use adaptações práticas — apoio para alcançar pia, ajuste de carteira, roupa e equipamentos seguros — quando necessárias, sem infantilizar nem excluir a criança. Escola e esporte devem promover participação compatível com idade e capacidade, não com aparência.",
+          "Não compre testes caseiros, não interprete aplicativo de altura como diagnóstico e não solicite por conta própria painéis de sangue, radiografia de idade óssea ou teste genético. A equipe escolhe se algum exame é necessário a partir da trajetória, história e exame físico.",
+          "Leve medidas e documentos anteriores ao mesmo serviço sempre que possível. Uma série coerente permite reconhecer velocidade preservada, desaceleração verdadeira e resposta ao cuidado de uma doença já identificada."
+        ],
+        "MEDICAMENTOS": [
+          "Não use hormônio do crescimento, hormônio tireoidiano, estimulante de apetite, anabolizante, vitamina, suplemento ou fitoterápico apenas porque a criança é baixa. O rótulo não define deficiência nem indicação de tratamento.",
+          "Somatropina não é vitamina e não serve para todas as causas. Quando existe uma condição com indicação formal, a decisão, a prescrição e a monitorização pertencem à equipe especializada; esta orientação não define elegibilidade, produto, dose, duração nem resultado esperado.",
+          "Não suspenda corticoide inalatório, medicamento para TDAH ou tratamento de doença crônica por conta própria. A própria doença sem controle também pode prejudicar o crescimento; leve nome, apresentação, quantidade usada e tempo de tratamento para revisão segura.",
+          "Produtos vendidos com promessa de aumentar altura podem não funcionar, causar efeitos adversos e atrasar o diagnóstico. Mostre rótulos, fórmulas manipuladas e suplementos ao pediatra antes de oferecer.",
+          "Se já houver tratamento prescrito para uma causa confirmada, use exatamente como orientado e compareça à monitorização. Não aumente, reduza, compartilhe ou reinicie medicamento com base em medida caseira ou comparação com outra criança.",
+          "Efeito adverso importante, reação alérgica, desmaio, alteração de consciência ou piora aguda durante qualquer tratamento exige orientação urgente conforme a gravidade; não espere a próxima consulta de crescimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada, suficiente e adequada à idade, respeitando fome e saciedade. Mais calorias, proteína ou leite não fazem uma criança bem nutrida ultrapassar seu potencial e podem trazer excesso de peso ou desequilíbrio.",
+          "Não retire glúten, leite ou outros grupos alimentares para 'testar' uma causa sem avaliação. Restrições podem piorar a nutrição e dificultar a investigação; doença celíaca, alergia e intolerância exigem critérios próprios.",
+          "Peso e altura devem ser interpretados juntos. Perda de peso, pouco ganho, recusa persistente, vômitos, diarreia, dor abdominal, fezes alteradas, dificuldade para engolir ou dieta muito limitada justificam antecipar a avaliação.",
+          "Se houver seletividade importante, insegurança alimentar, dieta vegetariana/vegana mal planejada ou outra restrição, peça apoio pediátrico/nutricional. Suplemento só deve responder a uma necessidade identificada; não é tratamento universal da baixa estatura.",
+          "Mantenha hidratação habitual adequada à idade e ao clima. Sede e urina muito aumentadas, especialmente com perda de peso, cansaço, vômitos ou sonolência, não são explicadas pela altura e precisam de avaliação rápida.",
+          "Não force a criança a comer, não use comida como recompensa por crescer e não associe corpo baixo a fragilidade. Refeições sem pressão e linguagem respeitosa ajudam a saúde e a relação com o alimento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Baixa estatura isolada em criança ativa e estável geralmente não é emergência. Procure atendimento urgente se crescimento ruim vier com dor de cabeça forte ou progressiva, vômitos ao acordar, visão dupla ou piora visual, fraqueza nova, dificuldade para andar, confusão, desmaio ou convulsão.",
+          "Em recém-nascido ou lactente, recusa de mamadas, tremores, suor frio, palidez, temperatura baixa, sonolência difícil de interromper ou convulsão podem indicar hipoglicemia ou outra doença grave; não aguarde nova medida de comprimento.",
+          "Sede e urina excessivas com perda de peso, vômitos, dor abdominal, respiração profunda/rápida ou sonolência exigem avaliação imediata por possível descompensação metabólica.",
+          "Procure emergência diante de dificuldade respiratória, desidratação importante, prostração intensa, sangue no vômito ou fezes, dor abdominal forte, incapacidade de beber ou piora aguda de doença crônica; não atribua esses sinais ao crescimento.",
+          "Se a criança ou adolescente falar em se machucar, morrer ou não querer viver, ou houver autoagressão por bullying ou sofrimento com o corpo, mantenha companhia, reduza o acesso a meios de lesão e acione atendimento de emergência/SAMU 192.",
+          "Sintomas urgentes exigem ação mesmo que a altura esteja estável ou um exame anterior tenha sido normal. Leve a lista de medicamentos e o resumo clínico, mas não atrase o atendimento para reunir documentos."
+        ],
+        "QUANDO REAVALIAR": [
+          "Retorne no prazo definido pelo pediatra para nova medida confiável e cálculo da velocidade. Em crianças maiores clinicamente estáveis, costuma ser necessário observar meses — a SBP destaca intervalos de 6 a 12 meses para estimativas mais precisas —, mas sinais de alarme ou desaceleração evidente antecipam a consulta.",
+          "Antecipe a reavaliação se a criança cruzar curvas para baixo, quase não crescer, ficar muito distante do padrão familiar, apresentar baixa estatura acentuada, desproporção corporal, sinais sindrômicos, atraso do desenvolvimento ou não recuperar crescimento após nascer pequena para a idade gestacional.",
+          "Criança baixa com velocidade preservada e aparência saudável ainda precisa de acompanhamento longitudinal antes de receber o rótulo de variante familiar ou atraso constitucional. Se a velocidade cair ou surgirem sintomas, a hipótese deve ser revista.",
+          "Antecipe também diante de perda de peso, sintomas digestivos persistentes, palidez, cansaço, infecções recorrentes, dor óssea, fraturas, ronco importante, aumento rápido de peso com desaceleração da altura ou uso prolongado de medicamentos que possam interferir no crescimento.",
+          "Na adolescência, reavalie se a puberdade começou muito cedo, ainda não começou no tempo esperado ou parou de progredir. O estágio puberal muda a velocidade esperada e quanto crescimento pode restar; idade cronológica ou comparação com colegas não bastam.",
+          "A equipe decide, conforme a história, exame e trajetória, se é necessário encaminhar ou investigar. Não há exame universal para toda criança baixa, e nenhum resultado isolado deve ser usado para prometer altura adulta ou iniciar hormônio."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirmar idade gestacional, tamanho ao nascer, comprimento deitado, peso e perímetro cefálico, usando idade corrigida quando indicada. Uma medida isolada não define baixa estatura. Recusa de mamadas, hipoglicemia suspeita, vômitos, desidratação, hipotermia, sonolência anormal ou convulsão exigem avaliação imediata.",
+        "3a5m": "Acompanhar comprimento deitado e peso com técnica consistente e trajetória desde o nascimento. Considerar prematuridade, restrição de crescimento fetal, alimentação e doença crônica; mudança persistente de canal ou baixa estatura muito acentuada não deve ser atribuída automaticamente à família.",
+        "6a11m": "Revisar medidas seriadas, alimentação, desenvolvimento e recuperação de bebês pequenos para a idade gestacional. A OMS oferece padrões de velocidade em intervalos próprios para lactentes; não extrapolar medida semanal nem usar suplemento ou hormônio para acelerar crescimento sem diagnóstico.",
+        "1a": "Nos primeiros anos pode haver ajuste em direção ao canal familiar, mas desaceleração persistente, baixa estatura grave, perda de peso, desproporção ou atraso do desenvolvimento exigem avaliação. A mudança de comprimento deitado para altura em pé altera a técnica e não deve ser confundida com perda de crescimento.",
+        "2a5": "A trajetória e a velocidade tornam-se centrais. Comparar medidas confiáveis com o padrão familiar, peso/IMC, proporções e sintomas. Depois dos 3 anos, cruzamento descendente ou velocidade anormal é particularmente relevante, mesmo quando a altura ainda não está abaixo da curva.",
+        "6a11": "Interpretar estatura e velocidade junto com canal familiar, saúde geral e início puberal. Proteger contra bullying, oferecer adaptações sem infantilização e antecipar avaliação diante de desaceleração, sintomas sistêmicos, desproporção ou puberdade fora do esperado.",
+        "12a17": "Estágio e progressão puberal são indispensáveis para interpretar a velocidade e o crescimento restante. Inclua o adolescente nas decisões, preserve privacidade e aborde imagem corporal, bullying, dietas, suplementos e expectativas realistas; não prometa estirão nem altura final.",
+        "unknown": "Confirmar idade, sexo, idade gestacional, medidas com datas e técnica, curva, peso/IMC, velocidade, puberdade, estaturas familiares, sintomas, doenças e medicamentos antes de classificar variante, estimar prognóstico, escolher investigação ou discutir tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais262_op3066_1",
+          "name": "Baixa estatura: quando encaminhar ao especialista?",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23877c-DC_BxEstatura-qdo_encaminhar_ao_especialista.pdf"
+        },
+        {
+          "id": "pais262_op3066_2",
+          "name": "Avaliação do crescimento: o quê o Pediatra precisa saber",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24038c-ManOrient_-_AvalCrescim_o_que_PediatraPrecisaSaber.pdf"
+        },
+        {
+          "id": "pais262_op3066_3",
+          "name": "Protocolos de encaminhamento da atenção primária para a atenção especializada — Endocrinologia Pediátrica, volume 12",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/protocolo_atencao_especializada_v12_endocrinologia_pediatrica.pdf"
+        },
+        {
+          "id": "pais262_op3066_4",
+          "name": "Child growth standards",
+          "url": "https://www.who.int/news-room/questions-and-answers/item/child-growth-standards"
+        },
+        {
+          "id": "pais262_op3066_5",
+          "name": "WHO Child Growth Standards — Length/height-for-age",
+          "url": "https://www.who.int/tools/child-growth-standards/standards/length-height-for-age"
+        },
+        {
+          "id": "pais262_op3066_6",
+          "name": "WHO Child Growth Standards — Length velocity",
+          "url": "https://www.who.int/tools/child-growth-standards/standards/length-velocity"
+        },
+        {
+          "id": "pais262_op3066_7",
+          "name": "WHO Growth Reference Data for 5–19 years — Height-for-age",
+          "url": "https://www.who.int/tools/growth-reference-data-for-5to19-years/indicators/height-for-age"
+        },
+        {
+          "id": "pais262_op3066_8",
+          "name": "Caderneta da Criança",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/caderneta/caderneta"
+        },
+        {
+          "id": "pais262_op3066_9",
+          "name": "Child with Suspected Short Stature — Referral Guideline",
+          "url": "https://pedsendo.org/clinical-resource/child-with-suspected-short-stature/"
+        },
+        {
+          "id": "pais262_op3066_10",
+          "name": "PCDT — Deficiência do Hormônio de Crescimento / Hipopituitarismo",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/deficiencia-do-hormonio-de-crescimento-hipopituitarismo/view"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3067",
+      "specific": true,
+      "key": "pps_catalog_e8a6ab92f1bca08a",
+      "label": "Baixa estatura idiopática — registro no PPS",
+      "entity": "Baixa estatura idiopática: estatura baixa para idade e sexo cuja causa permanece não identificada após confirmação de medidas seriadas e avaliação clínica apropriada de causas nutricionais, sistêmicas, endócrinas, genéticas, esqueléticas, psicossociais e medicamentosas",
+      "assessment": "{\"classification\":\"VALID_DIAGNOSIS_OF_EXCLUSION_REQUIRING_LONGITUDINAL_CONFIRMATION\",\"normalized_entity\":\"Baixa estatura idiopática\",\"assessment\":\"O termo é reconhecido, mas descreve um grupo heterogêneo e só deve ser aceito depois de confirmar a trajetória de crescimento e não identificar outra causa na avaliação apropriada. Uma medida isolada, ser menor que colegas ou o próprio rótulo do cadastro não confirmam o diagnóstico. A nomenclatura varia: algumas classificações incluem baixa estatura familiar e atraso constitucional do crescimento e da puberdade dentro do espectro idiopático; outras os registram separadamente. Na prática, esses padrões devem ser descritos e acompanhados, porque história familiar de baixa estatura ou puberdade tardia não exclui doença. O rótulo não significa deficiência hormonal, indicação de tratamento nem permite prever com certeza a altura adulta.\",\"differential_boundaries\":{\"familial_short_stature\":\"Pais ou familiares também podem ser baixos e a criança tende a manter velocidade de crescimento estável e trajetória compatível com o potencial familiar. Esse padrão é uma possibilidade, não uma prova de normalidade: baixa estatura marcada, desproporção, queda da curva, sintomas ou vários familiares afetados de forma incomum exigem nova avaliação.\",\"constitutional_delay_of_growth_and_puberty\":\"A criança ou adolescente apresenta maturação e início da puberdade mais tardios, muitas vezes com história familiar de desenvolvimento tardio. O acompanhamento deve mostrar o ritmo ao longo do tempo; não se deve prometer recuperação completa nem atribuir atraso puberal ao padrão constitucional sem excluir outras causas.\",\"pathologic_growth_failure\":\"Desaceleração ou cruzamento descendente de percentis, distância importante do potencial familiar, baixa estatura muito acentuada, desproporção corporal, sinais sindrômicos, alteração do peso, doença crônica, sintomas neurológicos ou digestivos, desenvolvimento atípico, exposição a medicamentos que interferem no crescimento ou puberdade fora do esperado tornam doença de base mais provável.\",\"idiopathic_short_stature\":\"É a classificação residual quando a estatura está baixa, as medidas são confiáveis e seriadas e nenhuma causa específica foi encontrada. O diagnóstico deve ser reaberto se surgirem novos sintomas, mudança da velocidade de crescimento, alteração puberal ou nova informação familiar/genética.\"},\"not_automatically_equivalent_to\":[\"baixa estatura familiar comprovadamente benigna\",\"atraso constitucional do crescimento e da puberdade\",\"deficiência de hormônio do crescimento ou outra doença endócrina\",\"desnutrição, dificuldade alimentar ou má absorção\",\"doença celíaca, inflamatória, renal, cardíaca, pulmonar, hematológica ou outra doença crônica\",\"síndrome de Turner, Noonan, Silver-Russell, alteração de SHOX, displasia esquelética ou outra causa genética\",\"criança nascida pequena para a idade gestacional sem recuperação de crescimento\",\"indicação automática de hormônio, vitamina, suplemento, estimulante de apetite ou qualquer produto para crescer\",\"previsão certa da altura adulta\"],\"pediatric_scope\":\"O crescimento deve ser interpretado desde o nascimento até o fim da puberdade. Em bebês, prematuridade, tamanho ao nascer, alimentação, desenvolvimento e técnica de medida têm peso especial e o rótulo idiopático é particularmente provisório. Em escolares e adolescentes, trajetória, velocidade, potencial familiar e ritmo puberal são essenciais.\",\"critical_context_to_confirm\":[\"idade exata e sexo da curva de referência\",\"comprimento ou altura e peso atuais e anteriores, com datas e técnica confiável\",\"idade gestacional, peso e comprimento ao nascer e recuperação após prematuridade ou nascimento pequeno\",\"altura dos pais, padrão de crescimento familiar e história de puberdade tardia\",\"velocidade de crescimento, proporções corporais, desenvolvimento e estágio puberal\",\"alimentação, ganho ou perda de peso, sono, atividade e sofrimento psicossocial\",\"doenças crônicas, sintomas digestivos, respiratórios, neurológicos ou urinários e medicamentos de uso contínuo\"],\"resolution\":\"Entidade pediátrica válida e específica, mantida como diagnóstico de exclusão e acompanhamento longitudinal; conta uma entidade adicional somente após integração, testes e publicação desta chave.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Baixa estatura idiopática não é confirmada por uma única medida. Leve a Caderneta da Criança, registros anteriores e as datas das medidas às consultas; a trajetória ao longo do tempo é mais útil do que comparar a criança com colegas ou irmãos.",
+          "Anote mudanças de apetite ou peso, doenças prolongadas, uso contínuo de medicamentos, sintomas digestivos, respiratórios, urinários ou neurológicos, desenvolvimento e início da puberdade. Informe a altura dos pais e se houve puberdade tardia na família, sem tratar essa história como prova de que está tudo bem.",
+          "Não meça a criança diariamente ou toda semana, não use marcas na parede como cobrança e não relacione altura a valor, beleza, inteligência ou capacidade. Reforce habilidades e autonomia e converse com a escola diante de apelidos, exclusão ou bullying.",
+          "Sono adequado, atividade física, vacinação e consultas de rotina favorecem a saúde geral, mas postura, alongamento, esporte ou dormir mais não garantem centímetros extras nem permitem prever a altura adulta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Peça que comprimento ou altura e peso sejam medidos por profissional com técnica e equipamento adequados e registrados na curva correspondente à idade e ao sexo. Medidas domésticas podem ajudar como lembrança, mas não substituem medidas clínicas padronizadas.",
+          "Baixa estatura familiar costuma acompanhar pais baixos e trajetória estável; atraso constitucional costuma vir com desenvolvimento e puberdade mais tardios; doença é mais preocupante quando a criança desacelera, cruza percentis para baixo, fica muito distante do padrão familiar ou apresenta sintomas, desproporção ou alteração do peso. Esses padrões podem se sobrepor e precisam de avaliação profissional.",
+          "Informe prematuridade, tamanho ao nascer, recuperação de crescimento, dificuldade alimentar, atraso do desenvolvimento, proporções corporais incomuns, sinais sindrômicos, doença crônica e uso prolongado de medicamentos. Não atribua a altura apenas à genética sem considerar esses dados.",
+          "A investigação deve ser escolhida pela equipe a partir da história, das medidas e do exame clínico. Não solicite painéis por conta própria nem use resultado isolado de aplicativo, curva ou calculadora para rotular a criança.",
+          "Se houver vergonha, isolamento, ansiedade, recusa escolar ou sofrimento com a imagem corporal, acolha sem minimizar e procure apoio da escola e da equipe de saúde. A meta do cuidado inclui bem-estar e participação, não apenas centímetros."
+        ],
+        "MEDICAMENTOS": [
+          "Não use hormônios, anabolizantes, bloqueadores, estimulantes de apetite, vitaminas, minerais, fórmulas ou produtos anunciados para crescer por conta própria. O rótulo 'idiopática' não autoriza tratamento automático.",
+          "Suplementar sem deficiência ou necessidade identificada não aumenta a altura de uma criança bem nutrida e pode causar efeitos adversos ou atrasar o diagnóstico da causa verdadeira.",
+          "Não interrompa medicamentos de outra condição por medo de afetar o crescimento. Leve a lista completa, inclusive produtos sem receita, para que o pediatra avalie benefícios, riscos e alternativas com segurança.",
+          "Se a criança já recebe qualquer tratamento prescrito, siga somente o plano da equipe responsável e não ajuste, compartilhe ou repita produto conforme medidas feitas em casa. Esta orientação não indica medicamento nem dose."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e suficiente para a idade, com alimentos in natura ou minimamente processados, fontes de proteína, feijões, cereais ou tubérculos, frutas, verduras e água. A necessidade individual deve considerar crescimento, saúde e contexto familiar.",
+          "Não force comida, não superalimente e não use suplemento hipercalórico para aumentar altura quando peso e alimentação estão adequados. Ganhar peso em excesso não torna os ossos mais longos e pode causar outros problemas.",
+          "Seletividade intensa, dieta muito restritiva, dificuldade para mastigar ou engolir, cansaço ao comer, vômitos, diarreia persistente, dor abdominal, sangue nas fezes ou perda de peso precisam ser comunicados ao pediatra e antecipam a reavaliação.",
+          "Não existe alimento, chá, vitamina ou suplemento que trate sozinho baixa estatura idiopática. Corrigir uma necessidade nutricional identificada ajuda a saúde, mas não permite prometer altura final."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Baixa estatura isolada em criança bem não é emergência. Procure avaliação urgente no mesmo dia se crescimento ruim vier com dor de cabeça forte ou progressiva, vômitos ao acordar, alteração da visão, fraqueza, desequilíbrio, confusão, convulsão, desmaio ou dificuldade para acordar.",
+          "Procure pronto atendimento se houver dificuldade para respirar, prostração intensa, incapacidade de beber, sinais de desidratação, vômitos persistentes, sangue nas fezes, dor abdominal intensa, inchaço generalizado ou piora rápida do estado geral. A urgência é a condição associada, não a altura.",
+          "Acione o SAMU 192 diante de perda de consciência, convulsão prolongada, dificuldade respiratória importante, sinais de choque ou alteração relevante do comportamento ou da consciência. Não tente corrigir a situação com hormônio, vitamina, suplemento ou comida forçada.",
+          "Fala de morte, autoagressão, tentativa de se machucar ou risco imediato ligado a bullying ou sofrimento corporal exige supervisão contínua e atendimento de emergência; acione 192 se não houver transporte seguro."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha as consultas definidas pelo pediatra para repetir medidas padronizadas e calcular a velocidade de crescimento. Em crianças maiores clinicamente estáveis, um intervalo de cerca de 6 a 12 meses costuma ser mais informativo do que medidas muito frequentes; bebês e crianças com risco ou mudança rápida precisam de acompanhamento mais próximo.",
+          "Antecipe a consulta se a criança cruzar percentis para baixo, parecer crescer mais devagar, ficar muito abaixo do padrão familiar, não recuperar crescimento após nascer pequena, apresentar desproporção, sinais incomuns, perda ou ganho de peso desproporcional, cansaço, dor, diarreia persistente ou outro sintoma novo.",
+          "Em adolescentes, reavalie quando a puberdade não começar ou não progredir no ritmo esperado, quando houver parada do crescimento ou sofrimento importante. Atraso constitucional só pode ser considerado depois de avaliação e acompanhamento; história familiar de 'crescer tarde' não basta.",
+          "Reabra o diagnóstico de 'idiopática' sempre que surgirem novos sintomas, desaceleração, alteração puberal ou nova informação familiar. Baixa estatura familiar e atraso constitucional podem coexistir com doença e não devem encerrar a investigação automaticamente.",
+          "Nenhuma consulta ou curva permite garantir a altura adulta. As expectativas devem ser revistas de forma realista com a criança, a família, o pediatra e, quando necessário, a endocrinologia pediátrica."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não usar uma medida isolada para rotular baixa estatura idiopática. Confirmar idade gestacional, tamanho ao nascer, alimentação, hidratação, peso, comprimento e perímetro cefálico em série; alimentação muito ruim, letargia, vômitos persistentes ou desidratação exigem avaliação rápida.",
+        "3a5m": "Acompanhar comprimento, peso, perímetro cefálico, desenvolvimento e qualidade da alimentação na Caderneta. Prematuridade, dificuldade para mamar, vômitos, diarreia, doença cardíaca ou respiratória e desaceleração precisam ser avaliados antes de aceitar o rótulo idiopático.",
+        "6a11m": "Revisar crescimento fetal, prematuridade, alimentação complementar, desenvolvimento e medidas em série. Não usar vitamina, fórmula ou hipercalórico para aumentar altura sem necessidade definida pela equipe.",
+        "1a": "Observar recuperação após nascimento pequeno ou prematuro, qualidade da dieta, desenvolvimento e proporções corporais. Uma curva baixa estável pode refletir ajuste ao potencial familiar, mas não confirma baixa estatura idiopática nem exclui doença.",
+        "2a5": "A trajetória começa a ficar mais informativa. Cruzar percentis para baixo, crescer lentamente, ficar muito distante do padrão familiar, ter desproporção, atraso do desenvolvimento, sintomas crônicos ou uso prolongado de medicamentos exige reavaliação; não atribuir automaticamente à genética.",
+        "6a11": "Distinguir trajetória familiar estável de desaceleração por doença e observar peso, proporções, sintomas e participação escolar. Acolher bullying e ansiedade; hábitos saudáveis ajudam a saúde, mas não garantem altura adicional.",
+        "12a17": "Avaliar início e progressão da puberdade, velocidade de crescimento, padrão familiar e sofrimento emocional. Atraso constitucional é uma possibilidade, não uma promessa de recuperação; incluir o adolescente nas conversas e não garantir altura adulta nem iniciar hormônios automaticamente.",
+        "unknown": "Confirmar idade exata, sexo da curva, medidas anteriores com datas, nascimento e idade gestacional, alturas e puberdade dos pais, velocidade de crescimento, proporções, desenvolvimento, estágio puberal, sintomas, doenças e medicamentos antes de aceitar a classificação idiopática."
+      },
+      "refs": [
+        {
+          "id": "pais262_op3067_1",
+          "name": "Baixa estatura: quando encaminhar ao especialista?",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23877c-DC_BxEstatura-qdo_encaminhar_ao_especialista.pdf"
+        },
+        {
+          "id": "pais262_op3067_2",
+          "name": "Child with Suspected Short Stature",
+          "url": "https://pedsendo.org/clinical-resource/child-with-suspected-short-stature/"
+        },
+        {
+          "id": "pais262_op3067_3",
+          "name": "Diagnosis, Genetics, and Therapy of Short Stature in Children: A Growth Hormone Research Society International Perspective",
+          "url": "https://karger.com/hrp/article/92/1/1/162669/Diagnosis-Genetics-and-Therapy-of-Short-Stature-in"
+        },
+        {
+          "id": "pais262_op3067_4",
+          "name": "Familial, constitutional, and combined idiopathic short stature: longitudinal growth patterns and pubertal effects",
+          "url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2026.1783065/full"
+        },
+        {
+          "id": "pais262_op3067_5",
+          "name": "WHO Child Growth Standards — Length velocity",
+          "url": "https://www.who.int/tools/child-growth-standards/standards/length-velocity"
+        },
+        {
+          "id": "pais262_op3067_6",
+          "name": "Acompanhamento da Saúde da Criança",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/acompanhamento-da-saude"
+        },
+        {
+          "id": "pais262_op3067_7",
+          "name": "Vitaminas e Crescimento",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/cuidados-com-a-saude/vitaminas-e-crescimento/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-25T02:55:00.000Z",
+  "baseline_version": 116,
+  "baseline_commit": "c16cbe3ca1d4241c71f65722c586421f111583d3",
+  "records": [
+    {"key":"pdf1500_983","label":"Micoses superficiais (Tinea capitis)","kind":"tinea","clinical_entity":"Tinea capitis (micose do couro cabeludo)","specific":true,"term_resolution":false},
+    {"key":"pdf1500_984","label":"Mielomeningocele","kind":"myelo","clinical_entity":"Mielomeningocele (espinha bífida aberta)","specific":true,"term_resolution":false},
+    {"key":"pdf1500_985","label":"Miosite infecciosa","kind":"myositis","clinical_entity":"Miosite infecciosa pediátrica (viral ou bacteriana, conforme diagnóstico)","specific":true,"term_resolution":false},
+    {"key":"pdf1500_986","label":"Molusco contagioso","kind":"molluscum","clinical_entity":"Molusco contagioso por poxvírus","specific":true,"term_resolution":false},
+    {"key":"pdf1500_987","label":"Mononucleose infecciosa (EBV)","kind":"mono","clinical_entity":"Mononucleose infecciosa causada pelo vírus Epstein-Barr","specific":true,"term_resolution":false}
+  ]
+}

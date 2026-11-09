@@ -1,0 +1,901 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:23:07.565Z",
+  "records": [
+    {
+      "specific": false,
+      "key": "pdf1500_99",
+      "label": "Anomalia de Ebstein de origem infecciosa",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“De origem infecciosa” não é a classificação usual desta alteração congênita. Infecção pode coexistir ou causar outra doença cardíaca, mas não deve ser presumida como causa da anomalia pelo cadastro. Confirme o laudo e o diagnóstico com a equipe.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“De origem infecciosa” não é a classificação usual desta alteração congênita. Infecção pode coexistir ou causar outra doença cardíaca, mas não deve ser presumida como causa da anomalia pelo cadastro. Confirme o laudo e o diagnóstico com a equipe.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op531_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op531_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op531_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op531_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op531_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op531_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_100",
+      "label": "Anomalia de Ebstein grave",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Grave” pode descrever repercussão importante, mas o cadastro não informa a situação atual. Confirme hoje o plano com a cardiologia se a classificação foi nova ou não houve orientação. Cianose, falta de ar, desmaio ou piora rápida exigem emergência, sem esperar contato ambulatorial.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Grave” pode descrever repercussão importante, mas o cadastro não informa a situação atual. Confirme hoje o plano com a cardiologia se a classificação foi nova ou não houve orientação. Cianose, falta de ar, desmaio ou piora rápida exigem emergência, sem esperar contato ambulatorial.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op532_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op532_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op532_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op532_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op532_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op532_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_101",
+      "label": "Anomalia de Ebstein idiopático",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Idiopático” indica causa não esclarecida e não cria outra cardiopatia. Não permite deduzir gravidade, evolução ou tratamento; a anatomia e o funcionamento do coração precisam ser conhecidos.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Idiopático” indica causa não esclarecida e não cria outra cardiopatia. Não permite deduzir gravidade, evolução ou tratamento; a anatomia e o funcionamento do coração precisam ser conhecidos.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op533_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op533_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op533_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op533_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op533_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op533_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_102",
+      "label": "Anomalia de Ebstein induzido por medicamentos",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Induzido por medicamentos” não comprova a causa neste caso. Existem associações estudadas com exposições durante a gestação, mas isso não significa que um remédio atual causou a malformação. Confirme a história com a equipe, sem culpar familiares ou suspender tratamentos por conta própria.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Induzido por medicamentos” não comprova a causa neste caso. Existem associações estudadas com exposições durante a gestação, mas isso não significa que um remédio atual causou a malformação. Confirme a história com a equipe, sem culpar familiares ou suspender tratamentos por conta própria.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op534_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op534_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op534_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op534_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op534_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op534_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        },
+        {
+          "id": "pais171_op534_7",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.childrenscolorado.org/conditions-and-advice/conditions-and-symptoms/conditions/ebstein-anomaly/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_103",
+      "label": "Anomalia de Ebstein leve",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Leve” pode descrever pouca repercussão no momento da avaliação, mas não dispensa seguimento nem exclui arritmia ou mudança de sintomas. Não use essa palavra para ignorar sinais novos.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Leve” pode descrever pouca repercussão no momento da avaliação, mas não dispensa seguimento nem exclui arritmia ou mudança de sintomas. Não use essa palavra para ignorar sinais novos.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op535_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op535_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op535_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op535_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op535_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op535_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_104",
+      "label": "Anomalia de Ebstein moderado",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Moderado” precisa ser explicado pela cardiologia: pode se referir à alteração da valva, ao refluxo ou à repercussão. O termo sozinho não define remédio, cirurgia ou limite para atividades.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Moderado” precisa ser explicado pela cardiologia: pode se referir à alteração da valva, ao refluxo ou à repercussão. O termo sozinho não define remédio, cirurgia ou limite para atividades.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op536_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op536_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op536_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op536_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op536_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op536_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_105",
+      "label": "Anomalia de Ebstein não especificado",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Não especificado” indica informação incompleta no registro. Confirme os achados do ecocardiograma, ritmo, sintomas e plano; não significa que a condição seja leve ou sem risco.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Não especificado” indica informação incompleta no registro. Confirme os achados do ecocardiograma, ritmo, sintomas e plano; não significa que a condição seja leve ou sem risco.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op537_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op537_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op537_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op537_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op537_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op537_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_106",
+      "label": "Anomalia de Ebstein recorrente",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"A malformação congênita não surge de novo a cada episódio. “Recorrente” pode se referir a palpitações ou outros sintomas repetidos, que precisam ser descritos e avaliados; não cria outra anomalia de Ebstein.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A malformação congênita não surge de novo a cada episódio. “Recorrente” pode se referir a palpitações ou outros sintomas repetidos, que precisam ser descritos e avaliados; não cria outra anomalia de Ebstein.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op538_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op538_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op538_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op538_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op538_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op538_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_107",
+      "label": "Anomalia de Ebstein refratário",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Refratário” só faz sentido quando se esclarece qual problema persiste e qual tratamento foi tentado. Sintomas persistentes ou repetidos precisam de revisão da cardiologia; não aumente doses nem suponha falha de toda opção de cuidado.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Refratário” só faz sentido quando se esclarece qual problema persiste e qual tratamento foi tentado. Sintomas persistentes ou repetidos precisam de revisão da cardiologia; não aumente doses nem suponha falha de toda opção de cuidado.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op539_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op539_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op539_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op539_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op539_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op539_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_108",
+      "label": "Anomalia de Ebstein unilateral",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"“Unilateral” não é uma classificação usual que determine o cuidado na anomalia de Ebstein. Confirme a anatomia real no ecocardiograma e eventuais alterações associadas; não escolha tratamento pelo qualificador.\",\"counting_rule\":\"Zero nova entidade; esclarecer rótulo e preservar acompanhamento da cardiopatia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Unilateral” não é uma classificação usual que determine o cuidado na anomalia de Ebstein. Confirme a anatomia real no ecocardiograma e eventuais alterações associadas; não escolha tratamento pelo qualificador.",
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais171_op540_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais171_op540_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais171_op540_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais171_op540_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op540_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais171_op540_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

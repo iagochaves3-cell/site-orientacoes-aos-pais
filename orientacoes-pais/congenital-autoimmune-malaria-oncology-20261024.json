@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T22:15:00.000Z",
+  "baseline_version": 110,
+  "baseline_commit": "f4466ec6e0ef24bd9542f5d04fde1a1a1b243824",
+  "records": [
+    {"key":"pdf1500_942","label":"Lábio leporino com fenda palatina","specific":true,"clinical_entity":"Fissura labiopalatina","term_resolution":false},
+    {"key":"pdf1500_943","label":"Lúpus eritematoso sistêmico juvenil","specific":true,"clinical_entity":"Lúpus eritematoso sistêmico de início juvenil","term_resolution":false},
+    {"key":"pdf1500_944","label":"Malária por Plasmodium falciparum","specific":true,"clinical_entity":"Malária por Plasmodium falciparum","term_resolution":false},
+    {"key":"pdf1500_945","label":"Malária por Plasmodium vivax","specific":true,"clinical_entity":"Malária por Plasmodium vivax","term_resolution":false},
+    {"key":"pdf1500_946","label":"Mancha mongólica","specific":true,"clinical_entity":"Melanocitose dérmica congênita","term_resolution":false},
+    {"key":"pdf1500_947","label":"Meduloblastoma","specific":true,"clinical_entity":"Meduloblastoma pediátrico","term_resolution":false},
+    {"key":"pdf1500_948","label":"Megacólon congênito (Doença de Hirschsprung)","specific":true,"clinical_entity":"Doença de Hirschsprung (megacólon congênito)","term_resolution":false}
+  ]
+}

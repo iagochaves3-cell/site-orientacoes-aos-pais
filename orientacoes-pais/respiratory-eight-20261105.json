@@ -1,0 +1,960 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "records": [
+    {
+      "jobId": "OP-3089",
+      "key": "pps_catalog_fc9a3fea37eea8e3",
+      "label": "Broncoespasmo Agudo — registro no PPS",
+      "specific": true,
+      "entity": "Broncoespasmo agudo pediátrico: síndrome de estreitamento transitório das vias aéreas inferiores, geralmente percebida como chiado, tosse, falta de ar, aperto no peito ou expiração prolongada, cuja gravidade e causa precisam ser avaliadas; pode acompanhar asma/exacerbação asmática, sibilância viral e anafilaxia, enquanto bronquiolite, corpo estranho, obstrução laríngea, pneumonia, pneumotórax e outras condições podem imitar ou coexistir",
+      "assessment": "{\"classification\":\"VALID_ACUTE_RESPIRATORY_SYNDROME_NOT_AN_ETIOLOGIC_DIAGNOSIS\",\"normalized_entity\":\"Broncoespasmo agudo pediátrico (síndrome clínica; causa a esclarecer)\",\"assessment\":\"O termo é clinicamente válido como manifestação/síndrome de obstrução variável das vias aéreas inferiores, mas não é uma doença etiológica completa e não autoriza presumir asma. Chiado pode acompanhar asma e sibilância viral, mas também pode ocorrer em anafilaxia; em lactentes, bronquiolite é um diagnóstico diferencial frequente cujo mecanismo principal não é broncoespasmo e para o qual broncodilatador não é recomendado rotineiramente. Início súbito durante alimentação/brincadeira ou assimetria persistente exige considerar corpo estranho; estridor/ruído inspiratório sugere via aérea superior. A ausência de chiado não tranquiliza se a criança está exausta, confusa, arroxeada ou quase sem entrada de ar, pois o 'tórax silencioso' pode indicar obstrução crítica. A orientação deve priorizar gravidade, plano de ação previamente prescrito e investigação da causa, sem criar dose, dispositivo ou tratamento automático pelo rótulo. Na suspeita de anafilaxia, broncoespasmo após alérgeno conhecido/provável pode ser suficiente mesmo sem pele; a posição sentada usual na asma não autoriza ficar em pé/andar nessa reação.\",\"not_automatically_equivalent_to\":[\"Asma confirmada, crise asmática ou qualquer fenótipo específico de asma\",\"Bronquiolite viral aguda, especialmente no primeiro episódio de sibilância do lactente\",\"Anafilaxia após alimento, medicamento, vacina, picada ou outra exposição\",\"Aspiração de corpo estranho, obstrução laríngea/estridor, pneumonia, pneumotórax ou doença cardíaca\",\"Tosse isolada, respiração ruidosa de origem nasal ou ansiedade sem obstrução expiratória confirmada\",\"Indicação automática de broncodilatador, corticoide, adrenalina, antibiótico, nebulização, oxigênio ou qualquer dose\"],\"pediatric_scope\":\"Aplica-se a todas as idades pediátricas como orientação de segurança diante de obstrução respiratória aguda, com forte modificação por idade e contexto. Em recém-nascidos e lactentes pequenos, primeiro episódio de chiado, apneia, dificuldade para mamar e bronquiolite exigem avaliação própria; não se deve reutilizar automaticamente um plano de asma. Em crianças e adolescentes com asma já diagnosticada, o plano escrito individual pode orientar o medicamento de alívio prescrito enquanto se avalia resposta e sinais de gravidade. Anafilaxia, corpo estranho e obstrução de via aérea superior têm precedência sobre o rótulo de broncoespasmo.\",\"counting_rule\":\"Contar o ID como uma orientação específica para a síndrome de broncoespasmo agudo somente após integração, testes e publicação. Contar zero nova doença etiológica: asma, bronquiolite, anafilaxia e corpo estranho permanecem entidades separadas e não são cobertos nominalmente por este registro. O único alias cadastrado resolve para a mesma ficha.\",\"critical_context_to_confirm\":[\"Idade, prematuridade, cardiopatia/doença pulmonar e se é o primeiro episódio ou há asma/sibilância previamente diagnosticada\",\"Início súbito ou gradual, relação com infecção, exercício, fumaça/vape, odor forte, alimento, medicamento, vacina, picada, engasgo ou brincadeira com objeto pequeno\",\"Capacidade de falar, chorar, mamar, beber, caminhar e permanecer alerta; retrações, batimento de asas nasais, gemência, exaustão e coloração\",\"Chiado difuso ou unilateral, estridor/ruído inspiratório, dor torácica, febre, urticária, inchaço, vômitos repetidos, tontura ou desmaio\",\"Plano de ação escrito, inalador/dispositivo realmente prescrito, técnica, horário e resposta das doses já utilizadas, sem presumir esquema pelo rótulo\",\"História de crise grave, internação/UTI/intubação, anafilaxia, acesso ao serviço de urgência e possibilidade de transporte seguro\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Broncoespasmo é o aperto dos músculos ao redor dos brônquios, que dificulta a passagem do ar e pode causar chiado, tosse e falta de ar. Não significa, sozinho, asma confirmada: a equipe precisa verificar a causa e diferenciar bronquiolite, anafilaxia e corpo estranho.",
+          "Observe o esforço para respirar, a entrada de ar e o comportamento, não apenas o volume do chiado. Criança que quase não consegue falar, chorar, mamar ou se mover, fica sonolenta/confusa, arroxeada ou com peito silencioso pode estar piorando mesmo sem chiado alto.",
+          "Mantenha a criança acompanhada e calma, na posição em que respira melhor, geralmente sentada ou semissentada. Afaste fumaça, vape, incenso, aerossol, perfume forte, poeira e exercício. Se houver suspeita de anafilaxia, siga a orientação de posição abaixo.",
+          "Se já existe diagnóstico de asma e plano de ação escrito, siga exatamente o plano individual e use apenas o inalador/dispositivo prescrito para aquela criança. Se não há plano, é o primeiro episódio ou a resposta é fraca/curta, procure avaliação no mesmo dia; sinais graves exigem emergência imediata.",
+          "Início súbito durante alimentação ou brincadeira, chiado de um lado, engasgo, tosse abrupta ou voz/ruído diferente pode indicar corpo estranho. Não faça varredura cega com os dedos nem ofereça comida ou líquido para 'empurrar'; procure emergência.",
+          "Falta de ar ou chiado súbito após alimento, medicamento ou picada pode ser anafilaxia, sobretudo após algo que já causa alergia à criança. Pode acontecer sem urticária ou inchaço. Acione o SAMU 192; se possui adrenalina autoinjetável prescrita, aplique conforme seu plano, sem esperar o inalador fazer efeito."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Interrompa exercício e afaste a exposição suspeita sem entrar em local perigoso. Não exponha a criança a vapor quente, fumaça de ervas, óleos essenciais, cânfora, mentol, álcool ou produtos de limpeza; eles não abrem os brônquios com segurança e podem piorar irritação ou causar queimadura/intoxicação.",
+          "Ajude a criança a usar o dispositivo prescrito com a técnica ensinada, se isso fizer parte do plano escrito. Um inalador dosimetrado com espaçador precisa ser usado corretamente, um jato de cada vez; a técnica deve ser revista pela equipe, mas esta ficha não escolhe produto nem número de jatos.",
+          "Conte o tempo desde o início e anote gatilho, sintomas, fala/atividade, doses já usadas e resposta. Leve inaladores, espaçador, plano de ação, lista de medicamentos e informações sobre alergias para o atendimento.",
+          "Não use fisioterapia respiratória, tapotagem, tosse forçada ou respiração dentro de saco. Não coloque a criança de cabeça para baixo; manobras de desengasgo só devem ser feitas quando houver obstrução verdadeira e conforme treinamento/orientação do SAMU.",
+          "Mantenha casa e carro livres de cigarro, vape e fumaça. Depois da recuperação, identifique com a equipe gatilhos modificáveis, confira técnica/adesão e mantenha atividade física habitual quando a criança estiver bem; não proíba esporte de forma permanente por um episódio.",
+          "Se a criança parar de responder e não respirar normalmente, acione o SAMU 192 e inicie reanimação pediátrica conforme treinamento ou instruções do atendente.",
+          "Na suspeita de anafilaxia, não deixe a criança ficar em pé ou andar, mesmo após melhorar. Deite-a; se isso dificultar a respiração, permita sentar com as pernas estendidas. Com vômito, mantenha de lado. Siga as instruções do SAMU."
+        ],
+        "MEDICAMENTOS": [
+          "O tratamento depende da causa, idade, gravidade e resposta. Use a receita e o plano de ação fornecidos pela equipe; esta orientação não define dose nem substitui avaliação durante uma crise.",
+          "Use somente o medicamento de alívio que foi prescrito para aquela criança e na forma definida no plano de ação. Não use inalador de outra pessoa, não alterne produtos por conta própria e não repita doses indefinidamente porque o chiado continua.",
+          "Resposta insuficiente, piora rápida, necessidade do alívio novamente em intervalo menor do que o plano permite ou efeito cada vez mais curto exige avaliação urgente. Tremor e coração acelerado podem ocorrer com alguns broncodilatadores, mas também podem refletir gravidade; não decida sozinho interromper ou aumentar.",
+          "Não inicie corticoide oral por conta própria. Em crianças pequenas, o Ministério da Saúde recomenda plano escrito e reavaliação; não há evidência para o cuidador iniciar corticoide oral sem orientação individual. Não suspenda corticoide inalatório de manutenção durante infecção sem orientação.",
+          "Antibiótico, antialérgico, xarope, descongestionante, mucolítico e remédio caseiro não tratam broncoespasmo automaticamente. Antialérgico não substitui adrenalina na anafilaxia e sedativos podem mascarar exaustão respiratória.",
+          "No lactente com bronquiolite típica, broncodilatadores e corticoides não são recomendados rotineiramente porque o mecanismo principal é inflamação, edema e secreção, não contração da musculatura brônquica. O primeiro chiado do bebê deve ser avaliado antes de aplicar um esquema de asma."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está alerta, respirando sem esforço importante e engole bem, ofereça pequenos goles frequentes e alimentação leve habitual conforme tolerância; não existe alimento que reverta broncoespasmo.",
+          "Não force mamada, comida, água, soro ou medicamento por boca se há respiração muito rápida, retrações intensas, cansaço, tosse/engasgo ao engolir, sonolência ou coloração alterada. Interrompa a oferta e procure emergência pelo risco de aspiração.",
+          "Em lactentes, observe mamada, fraldas molhadas e pausas respiratórias. Mamar muito menos do habitual, recusar líquidos, vomitar repetidamente ou urinar muito menos exige avaliação rápida, especialmente com esforço respiratório; não espere um limite exato para buscar ajuda.",
+          "Evite bebida energética, cafeína, álcool, chá estimulante e produtos 'naturais' para abrir os brônquios. Não misture medicamento em mamadeira ou copo sem orientação, pois a dose recebida fica incerta.",
+          "Se o episódio começou após alimento e há suspeita de reação alérgica grave, não ofereça mais desse alimento e não espere a digestão: acione o SAMU 192. A ausência de manchas na pele não exclui anafilaxia.",
+          "Depois da melhora, retome alimentação habitual. Restrição de leite, glúten, corante ou outro alimento só deve ocorrer quando houver avaliação de alergia ou indicação clínica; restrições empíricas podem prejudicar nutrição e não previnem broncoespasmo por si.",
+          "Antes dos 6 meses, mantenha leite materno ou fórmula habitual; não acrescente água, chá ou suco para tratar os sintomas, salvo orientação individual. Não force alimentação durante dificuldade respiratória."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se a criança não consegue falar frases ou chorar/mamar por falta de ar, apresenta retrações muito intensas, gemência, respiração fraca/irregular, pausas, exaustão, pouca entrada de ar ou peito silencioso.",
+          "Lábios/rosto arroxeados ou acinzentados, confusão, sonolência incomum, desmaio, convulsão, dificuldade para despertar, fraqueza extrema ou ausência de resposta são sinais de ameaça à vida.",
+          "Procure emergência imediatamente se o plano de alívio não funciona, a melhora dura pouco, os sintomas pioram rapidamente ou a criança necessita do medicamento de alívio antes do intervalo previsto no próprio plano.",
+          "Suspeita de anafilaxia: chiado, falta de ar ou rouquidão súbitos após alimento, medicamento ou picada, especialmente após um alérgeno conhecido, mesmo sem lesões de pele. Acione o SAMU 192 e siga o plano de adrenalina autoinjetável já prescrito; não permita ficar em pé ou andar.",
+          "Tosse/chiado súbito durante alimentação ou brincadeira, possível engasgo, ruído de um lado ou estridor exige emergência por possível corpo estranho; não aguarde o inalador resolver nem tente retirar às cegas.",
+          "Em recém-nascido ou lactente pequeno, primeiro chiado com dificuldade para mamar, menos urina, apneia, gemência, retrações, choro fraco, irritabilidade ou sonolência exige avaliação imediata; idade pequena e prematuridade aumentam o risco de deterioração."
+        ],
+        "QUANDO REAVALIAR": [
+          "Sinais de gravidade, suspeita de anafilaxia ou engasgo com possível objeto aspirado exigem emergência imediata. Primeiro episódio, causa incerta, criança menor de 1 ano, febre com mau estado geral ou resposta incompleta precisam de avaliação presencial no mesmo dia, mesmo sem sinais graves.",
+          "Após atendimento por exacerbação de asma, cumpra o retorno da alta. Para crianças após exacerbação grave, organize reavaliação idealmente em 1 a 2 dias, conforme o Ministério da Saúde. Se piorar, não espere a consulta. O prazo para outras causas de chiado deve ser definido pela equipe.",
+          "Na revisão, peça confirmação da causa, exame do plano escrito, técnica com inalador/espaçador, adesão ao tratamento de controle, exposições, necessidade de escola/creche possuir plano e histórico de pronto atendimento, internação ou UTI.",
+          "Se o diagnóstico foi bronquiolite, siga o prazo fornecido pelo serviço e retorne imediatamente com dificuldade para mamar/beber, menos urina, apneia, cianose, sonolência ou esforço crescente. Não mantenha broncodilatador só porque houve chiado, salvo decisão individual da equipe.",
+          "Episódios repetidos, tosse/chiado noturno, sintomas com exercício, necessidade frequente de alívio ou limitação de escola/sono/esporte exigem consulta programada para investigar e controlar asma ou outro diagnóstico; não normalize crises recorrentes.",
+          "Ruído ao puxar o ar, chiado sempre do mesmo lado, início após engasgo ou falta de resposta ao tratamento precisam de nova avaliação; se começaram de repente ou persistem após engasgo, procure emergência imediatamente, mesmo que o inalador tenha dado melhora parcial."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente menor de 3 meses com chiado, gemência, retração, apneia, choro fraco, cansaço para mamar ou menos urina deve ser avaliado imediatamente. Bronquiolite, infecção, cardiopatia e outras causas são mais prováveis que asma confirmada; não aplicar automaticamente broncodilatador ou corticoide e não forçar alimentação durante esforço.",
+        "3a5m": "Primeiro episódio de chiado após coriza/tosse pode ser bronquiolite; gravidade é definida por esforço, alimentação, hidratação, apneia, cor e estado mental. Plano de asma de outra criança não se aplica. Procure emergência com dificuldade para mamar, pausas, exaustão ou coloração alterada.",
+        "6a11m": "Ainda é frequente bronquiolite e não se deve presumir broncoespasmo responsivo a remédio. Observe mamada, fraldas, apneia e retrações. Se houver plano individual previamente prescrito por diagnóstico recorrente, siga-o; primeiro episódio, resposta fraca ou piora exige avaliação.",
+        "1a": "Entre 1 e 2 anos, sibilância viral, bronquiolite e asma pré-escolar podem se sobrepor. A equipe deve considerar padrão recorrente, sintomas entre crises, atopia e resposta documentada. Início súbito durante alimentação/brincadeira mantém corpo estranho como prioridade.",
+        "2a5": "Criança pré-escolar pode ter sibilância viral recorrente sem diagnóstico definitivo de asma. Use somente o plano escrito dela, com máscara/espaçador se prescrito; falta de resposta, prostração, incapacidade de falar/beber ou necessidade repetida de alívio exige atendimento.",
+        "6a11": "Criança escolar consegue relatar aperto no peito e falta de ar. Verifique fala, atividade, técnica e plano de ação, mas não espere medição doméstica diante de sinais graves. Sintomas recorrentes com exercício/noite exigem revisão do controle, sem excluir anafilaxia ou corpo estranho em início súbito.",
+        "12a17": "Inclua o adolescente diretamente na avaliação de adesão, acesso ao inalador, vape/cigarro, exercício, medicamento, alimento e substâncias sem julgamento. Não atribua falta de ar à ansiedade antes de excluir obstrução grave, anafilaxia, pneumotórax ou outra causa; plano de ação e retorno devem ser compreendidos pelo adolescente e responsável.",
+        "unknown": "Sem idade confirmada, priorize gravidade: capacidade de falar/mamar, estado mental, esforço, entrada de ar, cor e resposta ao plano já prescrito. Não selecionar dose por aparência ou estimativa. Encaminhe imediatamente se houver exaustão, cianose, alteração de consciência, possível anafilaxia ou corpo estranho."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3089_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Asma",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/asma/@@download/file"
+        },
+        {
+          "id": "pais20261105_op3089_2",
+          "name": "Summary Guide for Asthma Management and Prevention",
+          "url": "https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf"
+        },
+        {
+          "id": "pais20261105_op3089_3",
+          "name": "Guia de manejo clínico: Bronquiolite Viral Aguda",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-manuais/2026/guia-de-manejo-clinico-bronquiolite-viral-aguda.pdf/@@download/file"
+        },
+        {
+          "id": "pais20261105_op3089_4",
+          "name": "Nota Técnica nº 14/2025-CGFAM/DPNI/SVSA/MS — identificação, investigação e manejo da anafilaxia",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2025/nota-tecnica-no-14-2025-cgfam-dpni-svsa-ms"
+        },
+        {
+          "id": "pais20261105_op3089_5",
+          "name": "Clinical Practice Guideline: Acute asthma",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Asthma_Acute/"
+        },
+        {
+          "id": "pais20261105_op3089_6",
+          "name": "Clinical Practice Guidelines: Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        },
+        {
+          "id": "pais20261105_op3089_7",
+          "name": "Clinical Practice Guidelines: Foreign body inhalation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_inhalation/"
+        }
+      ],
+      "aliases": [
+        "Broncoespasmo Agudo"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3089.json",
+      "resultHash": "6ffe2670d3be9180a391eab4277f06be288b2218e91b310d178d16d4bc19893d"
+    },
+    {
+      "jobId": "OP-3090",
+      "key": "pps_catalog_d6f541d64991d7e7",
+      "label": "Broncoespasmo induzido por exercício — prevenção previamente indicada — registro no PPS",
+      "specific": true,
+      "entity": "Broncoconstrição induzida pelo exercício em criança ou adolescente, isto é, estreitamento transitório das vias aéreas provocado pelo esforço e confirmado no contexto clínico adequado, com plano preventivo individual previamente prescrito; pode ocorrer com asma ou sem diagnóstico prévio de asma e precisa ser diferenciada de obstrução laríngea induzida pelo exercício, descondicionamento e causas cardíacas ou outras causas respiratórias",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_EXERCISE_INDUCED_BRONCHOCONSTRICTION_WITH_PREEXISTING_PLAN_QUALIFIER\",\"normalized_entity\":\"Broncoconstrição induzida pelo exercício (BIE/EIB), com prevenção já indicada individualmente\",\"assessment\":\"O termo clínico é válido, embora 'broncoconstrição induzida pelo exercício' seja a denominação técnica preferida. Tosse, chiado, aperto no peito, falta de ar ou queda de rendimento ligados ao esforço levantam suspeita, mas não confirmam a entidade: diretrizes recomendam correlação clínica e, quando apropriado, demonstração de alteração da função pulmonar provocada pelo exercício. A condição pode acompanhar asma ou ocorrer sem diagnóstico prévio de asma. Ruído inspiratório/na garganta durante o pico do esforço, dor torácica, síncope, palpitação, hiperventilação, descondicionamento e outras doenças exigem diagnósticos alternativos. O qualificador 'prevenção previamente indicada' é operacionalmente válido somente quando já existe plano individual escrito ou prescrição profissional; ele não autoriza selecionar medicamento, dispositivo, dose, intervalo ou duração a partir do rótulo.\",\"qualifier_boundary\":\"Esta ficha orienta preparo da atividade e resposta aos sintomas, preservando o plano individual previamente prescrito. Sem plano, solicitar avaliação. Uso preventivo previsto antes de exercício não é, isoladamente, prova de asma descontrolada; sintomas apesar do plano, uso de alívio por sintomas ou necessidade crescente exigem revisão. Não escolher produto, dispositivo, dose ou intervalo pelo rótulo.\",\"diagnostic_boundary\":\"Sintomas isolados não distinguem BIE de asma mal controlada, obstrução laríngea induzida por exercício, hiperventilação, descondicionamento, cardiopatia ou outra doença pulmonar. Testes de função pulmonar e desafio por exercício são decisões da equipe e dependem de idade e capacidade de colaboração; não devem ser simulados em casa nem transformados em requisito automático por esta ficha.\",\"not_automatically_equivalent_to\":[\"asma confirmada ou asma não controlada em toda criança com cansaço ao esforço\",\"qualquer tosse, chiado, falta de ar ou queda de rendimento durante esporte\",\"obstrução laríngea induzida por exercício, que pode causar ruído inspiratório e aperto na garganta durante o pico do esforço\",\"crise de asma aguda grave, anafilaxia, infecção respiratória, cardiopatia, arritmia, descondicionamento ou ansiedade\",\"indicação automática de broncodilatador, corticoide inalatório, antagonista de leucotrieno, combinação inalatória, dispositivo, dose ou horário\",\"proibição de educação física, esporte competitivo ou brincadeiras quando a criança está clinicamente controlada\"],\"pediatric_scope\":\"A ficha é mais diretamente aplicável a escolares e adolescentes que conseguem descrever sintomas e realizar avaliação funcional. Em pré-escolares a avaliação é clínica e individualizada; em lactentes, rotular cansaço, tosse ou sibilância após atividade como BIE é especialmente inseguro e outras causas devem ser investigadas. A adaptação por idade prioriza sinais observáveis, supervisão e uso do plano já prescrito, sem extrapolar critérios de crianças maiores.\",\"counting_rule\":\"Contar esta chave como uma orientação específica somente após integração, testes e publicação. Contar uma entidade clínica — broncoconstrição induzida pelo exercício com plano preventivo já indicado — e não somar asma, obstrução laríngea, anafilaxia, cardiopatia ou descondicionamento como entidades cobertas.\",\"critical_context_to_confirm\":[\"idade, atividade desencadeante e se os sintomas surgem durante, logo após ou muito depois do esforço\",\"tosse, chiado expiratório, aperto no peito, falta de ar, queda de rendimento e tempo de recuperação\",\"ruído inspiratório/na garganta, aperto na garganta ou dificuldade para puxar o ar no pico do exercício\",\"dor torácica, síncope ou quase síncope, palpitação, cianose, confusão, sonolência ou dificuldade para falar\",\"diagnóstico de asma, sintomas noturnos ou em repouso, exacerbações recentes, infecção, alergia ou anafilaxia\",\"plano de ação escrito, prevenção realmente prescrita, dispositivo correto, técnica demonstrada e disponibilidade na escola/esporte\",\"frequência de uso preventivo e de alívio, resposta observada e necessidade crescente ou falha do plano\",\"exposição a fumaça, vape, poluição, ar frio/seco, alérgeno conhecido ou produto químico\",\"história cardíaca, pulmonar ou neuromuscular, condicionamento, obesidade e outros diagnósticos diferenciais\",\"restrição ou liberação esportiva já fornecida pela equipe, sem criar proibição universal\"],\"next_action\":\"Integrar preservando a regra 'somente plano previamente prescrito', testar seleção por key/label e as oito faixas, revisar alarmes respiratórios e diagnósticos diferenciais e publicar apenas após QA do gerador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Broncoconstrição induzida pelo exercício é um estreitamento temporário dos brônquios provocado pelo esforço, com ou sem asma. Pode causar tosse, chiado, aperto no peito, falta de ar ou queda de rendimento, em geral após o esforço, mas também durante ele. Os sintomas sozinhos não confirmam o diagnóstico.",
+          "Use a prevenção apenas se ela já foi indicada para esta criança em um plano individual. Confira antes da atividade o nome do produto, o dispositivo, a técnica e o momento de uso exatamente como foram prescritos; esta ficha não fornece dose nem substitui o plano.",
+          "Mantenha o plano escrito acessível em casa, na escola e no local de esporte. Combine quem supervisiona, onde fica o medicamento prescrito, como reconhecer piora e quando interromper a atividade ou chamar a família/emergência.",
+          "Registre atividade, clima, local, sintomas, momento em que começaram, quanto duraram e resposta ao plano. Necessidade cada vez maior de prevenção/alívio, despertar noturno, sintomas em repouso ou perda de rendimento sugerem que o controle ou o diagnóstico precisa ser revisto. O uso preventivo já previsto antes da atividade não significa, por si só, que a asma está descontrolada.",
+          "Ruído agudo ao puxar o ar, aperto na garganta e sintomas máximos durante o pico do esforço podem apontar para obstrução laríngea; dor no peito, desmaio ou palpitação importante exigem avaliar causas cardíacas. Não aumente tratamento de asma sem reavaliação quando o padrão não combina com BIE.",
+          "A condição controlada não costuma justificar afastamento permanente de brincadeiras, educação física ou esporte. O objetivo é atividade segura e progressiva, com plano individual; restrições específicas dependem dos sintomas, da avaliação e de outras doenças."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Faça aquecimento progressivo antes da atividade e redução gradual do ritmo ao terminar, conforme tolerância e orientação da equipe. Não use exercício intenso como teste doméstico para provocar sintomas.",
+          "No frio e em ar seco, adapte local, horário e intensidade. Em crianças maiores e adolescentes, uma proteção apropriada que aqueça o ar pode ajudar se não atrapalhar a respiração; não cubra o rosto de bebês. Evite esforço em poluição intensa, fumaça, queimadas ou exposição a alérgeno que sabidamente cause sintomas.",
+          "Evite fumaça de cigarro, vape e aerossóis irritantes antes e durante a atividade. Trate rinite e outras condições apenas conforme o plano existente; não use descongestionante, óleo, vapor ou produto caseiro para prevenir broncoespasmo.",
+          "Se aparecer tosse, chiado, aperto ou falta de ar, interrompa o esforço, coloque a criança sentada/confortável, mantenha supervisão e siga o plano escrito. Não mande 'aguentar', correr mais para abrir o pulmão nem respirar em saco plástico.",
+          "A escola e o treinador devem permitir pausa, acesso imediato ao plano prescrito e retorno apenas quando a criança estiver totalmente recuperada e dentro das orientações recebidas. Não punir, constranger ou retirar toda atividade por um episódio isolado.",
+          "Condicionamento progressivo e atividade regular fazem parte da saúde, mas não substituem tratamento de asma nem confirmam BIE. Sintomas recorrentes apesar das medidas exigem avaliação, inclusive de técnica, controle da asma e diagnósticos alternativos."
+        ],
+        "MEDICAMENTOS": [
+          "O rótulo desta ficha pressupõe que a prevenção já foi indicada individualmente. Use somente o produto, dispositivo, dose, intervalo e momento escritos na prescrição ou plano de ação da criança; nenhum desses elementos pode ser deduzido desta orientação.",
+          "Não empreste inalador, não use medicamento de irmão/colega e não troque produto ou dispositivo por conta própria. Medicamentos de alívio e combinações não são intercambiáveis automaticamente, e a adequação varia com idade, diagnóstico, tratamento de controle e técnica.",
+          "Confira técnica e validade do dispositivo com profissional de saúde. Criança pequena pode precisar de dispositivo auxiliar previamente escolhido; esta ficha não seleciona modelo nem substitui demonstração presencial.",
+          "Não faça doses extras fora do plano, nem inicie corticoide, antialérgico, xarope, suplemento ou tratamento contínuo por conta própria. Sintomas apesar da prevenção, uso de alívio por sintomas em vários dias ou necessidade crescente pedem revisão. Não suspenda a prevenção prescrita apenas por praticar exercícios com frequência.",
+          "Se surgirem sintomas, siga a parte de alívio do plano escrito. Se a criança piorar, não responder como previsto, precisar de aplicações repetidas além do plano ou apresentar sinais de alarme, procure atendimento sem aguardar o término do jogo ou treino.",
+          "Tratamento controlador prescrito deve ser mantido como orientado mesmo em dias sem exercício. Não suspenda porque a criança está bem, nem aumente porque haverá competição; mudanças exigem avaliação da equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "BIE não exige dieta, suplemento, vitamina, chá ou alimento especial. Mantenha alimentação habitual equilibrada e hidratação adequada à idade; nenhum alimento substitui o plano preventivo.",
+          "Evite refeição muito volumosa imediatamente antes do esforço se isso costuma provocar desconforto, refluxo ou náusea, mas não imponha jejum prolongado. Planeje água e alimentação de acordo com a atividade, o clima e orientações esportivas seguras.",
+          "Durante falta de ar intensa, confusão, sonolência ou dificuldade para falar/engolir, não ofereça comida, bebida ou remédio pela boca; priorize emergência e o plano inalatório previamente prescrito.",
+          "Não use cafeína, energético, pré-treino, ervas ou estimulantes para abrir os brônquios ou melhorar desempenho. Esses produtos podem causar palpitação, mascarar sintomas e acrescentar risco.",
+          "Falta de ar, rouquidão, inchaço da língua, tontura ou colapso de início súbito após possível alérgeno, inclusive junto de alimento e exercício, pode ser anafilaxia, mesmo sem manchas na pele. Acione o SAMU 192 e siga imediatamente o plano de anafilaxia existente; a bombinha de asma não substitui a adrenalina prescrita para essa emergência.",
+          "Se houver obesidade, refluxo ou outra condição que limite o exercício, o cuidado deve ser individual e sem culpa. Mudanças alimentares devem ser orientadas para a condição específica, não como tratamento caseiro do broncoespasmo."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se a criança estiver com falta de ar importante, não conseguir falar frases, brincar ou caminhar como habitual, tiver retrações entre as costelas/pescoço, respiração muito trabalhosa ou piora rápida.",
+          "Acione o SAMU 192 se houver lábios/rosto azulados ou acinzentados, confusão, sonolência incomum, desmaio, convulsão, silêncio respiratório com esforço ou dificuldade para acordar. Não ofereça alimento nem deixe a criança sozinha.",
+          "Busque atendimento imediato se o plano de alívio não funcionar como esperado, se os sintomas retornarem rapidamente ou se forem necessárias repetições além do que está escrito. Não transforme falha do plano em nova dose doméstica inventada.",
+          "Dor no peito forte/persistente, desmaio ou quase desmaio no exercício ou palpitação com mal-estar exigem avaliação urgente. Não atribua automaticamente a BIE nem retome o esporte antes de avaliação.",
+          "Falta de ar, rouquidão ou colapso súbito após possível alérgeno pode ser anafilaxia, com ou sem urticária. Acione o SAMU 192 e use a adrenalina se já prescrita no plano de anafilaxia. Não deixe levantar ou caminhar; deite a criança ou, se isso dificultar a respiração, mantenha-a sentada com as pernas estendidas.",
+          "Em bebê ou criança pequena, respiração rápida/trabalhosa, gemência, recusa alimentar, pausas, palidez/cianose, prostração ou poucas fraldas molhadas exige avaliação imediata; BIE não deve ser presumida como explicação suficiente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie no prazo definido no plano já existente. Antecipe a consulta se os sintomas aparecerem em mais atividades, limitarem a participação, surgirem em repouso/à noite ou exigirem prevenção ou alívio mais frequentemente.",
+          "Depois de atendimento por crise, confirme o retorno antes de sair. Após exacerbação grave de asma em criança, organize reavaliação idealmente em 1–2 dias, conforme a orientação brasileira, ou antes se a equipe indicar. Para outros episódios, siga o prazo individual. Qualquer piora antecipa a avaliação; não espere essa consulta.",
+          "Solicite revisão de técnica e do plano se a prevenção não funcionar, o dispositivo estiver difícil de usar, faltar acesso na escola/esporte ou houver dúvida sobre qual produto usar. Leve o inalador/dispositivo e o registro dos episódios.",
+          "Se o diagnóstico foi baseado apenas em sintomas, se há ruído inspiratório/aperto na garganta, dor torácica, palpitação, tontura ou desmaio, peça reavaliação para diagnósticos alternativos. Não faça desafio de corrida em casa. Avise também sobre cardiopatia conhecida ou morte súbita precoce na família; a equipe decide a avaliação e a segurança para o esporte.",
+          "Para pré-escolares com episódios recorrentes e para qualquer lactente rotulado como BIE, reavalie com pediatria para confirmar o padrão e excluir outras causas; critérios funcionais de escolares não devem ser extrapolados automaticamente.",
+          "Retorno à atividade após crise moderada/grave, atendimento de emergência ou mudança importante do quadro deve seguir orientação profissional. Estar sem sintomas em repouso por algumas horas não equivale a liberação automática para competição."
+        ]
+      },
+      "ageMap": {
+        "u3m": "BIE não deve ser presumida em recém-nascido ou lactente pequeno. Respiração trabalhosa, pausas, gemência, cianose, mamada fraca, suor, sonolência ou pouca urina exige avaliação imediata. Não provocar esforço nem adaptar plano de criança maior.",
+        "3a5m": "O bebê não descreve aperto ou falta de ar; observe mamada, respiração, cor, alerta e fraldas. Episódio após choro ou movimento não confirma BIE. Use apenas plano pediátrico já prescrito e procure urgência diante de esforço respiratório ou alteração de cor/alerta.",
+        "6a11m": "Tosse ou chiado após engatinhar/brincar exige avaliação do padrão de sibilância e outras causas, não rótulo automático de BIE. Não testar correndo/brincando nem usar dispositivo de outra criança. Sinais de dificuldade respiratória ou alimentação exigem atendimento.",
+        "1a": "Registre tosse, chiado, pausa na brincadeira, respiração, cor e recuperação. Criança desta idade não realiza o mesmo diagnóstico funcional de escolares. Se existe plano, um adulto deve administrar exatamente como orientado; falha ou piora exige avaliação.",
+        "2a5": "Pré-escolar pode dizer que está cansado ou simplesmente parar de brincar. Diferencie sintomas respiratórios de cansaço normal, infecção e outras causas com pediatria. Escola deve ter plano e adulto treinado; nenhuma dose ou liberação esportiva é gerada por esta ficha.",
+        "6a11": "Anote tosse, chiado, aperto, falta de ar e queda de rendimento em educação física. Ensine a criança a parar e avisar cedo. Aquecimento, plano acessível e supervisão favorecem atividade segura; ruído na garganta, dor torácica ou desmaio mudam a avaliação.",
+        "12a17": "Adolescente deve participar do plano e saber diferenciar sintomas de peito de ruído/aperto na garganta. Pergunte em privacidade sobre vape, energético e suplementos. Sintomas apesar da prevenção, uso frequente ou síncope/dor torácica exigem revisão; competição não autoriza dose extra.",
+        "unknown": "Sem idade, diagnóstico confirmado e plano escrito, não é seguro escolher prevenção. Confirmar padrão dos sintomas, técnica, frequência de uso, asma e diagnósticos alternativos. Instabilidade respiratória, cianose, alteração de consciência, anafilaxia, dor torácica ou síncope exige emergência."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3090_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Asma",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/asma/@@download/file"
+        },
+        {
+          "id": "pais20261105_op3090_2",
+          "name": "An Official American Thoracic Society Clinical Practice Guideline: Exercise-induced Bronchoconstriction",
+          "url": "https://www.thoracic.org/statements/resources/allergy-asthma/exercise-induced-bronchoconstriction.pdf"
+        },
+        {
+          "id": "pais20261105_op3090_3",
+          "name": "Exercise-induced bronchoconstriction in children: Delphi study and consensus document about definition and epidemiology, diagnostic work-up, treatment, and follow-up",
+          "url": "https://link.springer.com/article/10.1186/s12931-024-03078-5"
+        },
+        {
+          "id": "pais20261105_op3090_4",
+          "name": "2026 Summary Guide for Asthma Management and Prevention",
+          "url": "https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf"
+        },
+        {
+          "id": "pais20261105_op3090_5",
+          "name": "Clinical Practice Guidelines: Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        }
+      ],
+      "aliases": [
+        "Broncoespasmo induzido por exercício — prevenção previamente indicada"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3090.json",
+      "resultHash": "d740bc19b4d911d8ee2801f17468b38f3537a87996ce0204ea376eb9d6853842"
+    },
+    {
+      "jobId": "OP-3094",
+      "key": "pps_catalog_81a5e27cb12ab539",
+      "label": "Bronquiolite obliterante pós-infecciosa — registro no PPS",
+      "specific": true,
+      "entity": "Bronquiolite obliterante pós-infecciosa pediátrica: doença pulmonar crônica rara das pequenas vias aéreas que surge após infecção respiratória baixa grave e deixa obstrução persistente por lesão e remodelamento bronquiolar; a confirmação depende de história, evolução, imagem e avaliação funcional apropriada à idade, e o rótulo não significa infecção ativa nem autoriza tratamento automático",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ETIOLOGIC_SUBTYPE_ALREADY_ENCOMPASSED_BY_CANONICAL_BRONCHIOLITIS_OBLITERANS\",\"normalized_entity\":\"Bronquiolite obliterante pós-infecciosa (BOPI/PIBO) pediátrica\",\"assessment\":\"O termo é uma entidade pediátrica válida e preserva informação etiológica importante: uma criança previamente saudável mantém tosse, chiado, taquipneia, falta de ar, intolerância ao esforço e/ou hipoxemia após a fase aguda de uma infecção respiratória baixa grave, com evidência de doença obstrutiva de pequenas vias aéreas. Não é sinônimo de bronquiolite viral aguda ainda em curso, asma, pneumonia em organização (antiga BOOP), bronquiectasia isolada ou síndrome de bronquiolite obliterante pós-transplante. A relação temporal com infecção não basta sozinha; o diagnóstico exige quadro persistente, avaliação especializada e exclusão de alternativas. A obstrução e a evolução são heterogêneas, e resposta a broncodilatador pode ocorrer em parte das crianças sem transformar a doença em asma.\",\"reconciliation\":{\"pdf1500_181\":\"Confirmado na fila e no asset dist/orientacoes-pais/continued-2133-2144-20261026.json: entidade geral publicada com texto que abrange BOPI, seis seções e oito idades. A ficha geral preserva outras causas; esta é subtipo etiológico, não sinonímia bidirecional completa.\",\"pdf1500_185\":\"Relação histórica registrada no artefato anterior; não é alvo desta revisão e sua integração/status não foi revalidada.\",\"pps_catalog_0867916fde380d15\":\"Relação histórica registrada no artefato anterior; não é alvo desta revisão e sua integração/status não foi revalidada.\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY; este ID recebe orientação específica e rastreável, mas não duplica a doença já contabilizada em pdf1500_181.\"},\"not_automatically_equivalent_to\":[\"Bronquiolite viral aguda do lactente\",\"Chiado viral recorrente ou asma\",\"Pneumonia em organização, anteriormente chamada BOOP\",\"Bronquiectasia, fibrose cística, discinesia ciliar primária, displasia broncopulmonar ou aspiração crônica\",\"Síndrome de bronquiolite obliterante após transplante\",\"Infecção respiratória ativa persistente ou contagiosidade permanente\",\"Indicação automática de antibiótico, corticoide, macrolídeo, broncodilatador, oxigênio, fisioterapia ou restrição esportiva\"],\"pediatric_scope\":\"A forma pós-infecciosa costuma começar após bronquiolite ou pneumonia grave na primeira infância, mas seus efeitos podem persistir na idade escolar e adolescência. Lactentes manifestam risco por mamadas cansativas, retrações, hipoxemia e baixo ganho; crianças maiores por tosse, chiado, dispneia e limitação ao esforço. O plano precisa considerar padrão basal de respiração e saturação, crescimento, exacerbações, sono, exercício, imagem, função pulmonar, bronquiectasias e necessidade individual de oxigênio ou higiene brônquica.\",\"counting_rule\":\"Contar este ID como um registro específico somente após integração, testes e publicação. Não somar uma nova entidade clínica em relação a pdf1500_181; preservar a nuance etiológica pós-infecciosa e não absorver bronquiolite aguda, asma, bronquiectasia, doença pós-transplante ou agentes infecciosos como entidades resolvidas por esta ficha.\",\"critical_context_to_confirm\":[\"Infecção inicial, data, agente quando documentado, necessidade de oxigênio/ventilação e gravidade da internação\",\"Persistência de tosse, chiado, taquipneia, dispneia, intolerância ao esforço e hipoxemia após a recuperação aguda\",\"Saturação e respiração habituais em vigília, sono e esforço, com limite e fluxo de oxigênio escritos quando aplicável\",\"Tomografia de alta resolução e achados como padrão em mosaico, aprisionamento aéreo, espessamento brônquico e bronquiectasias\",\"Função pulmonar longitudinal e resposta broncodilatadora quando idade e cooperação permitem\",\"Exacerbações, internações, pneumonias, culturas quando indicadas, hemoptise, pneumotórax e mudança do padrão basal\",\"Crescimento, ingestão, deglutição/aspiração, sono, atividade, escola e qualidade de vida\",\"Medicamentos, técnica inalatória, oxigênio, fisioterapia/higiene brônquica e benefício documentado de cada intervenção\",\"Diagnósticos alternativos ou associados, especialmente asma, fibrose cística, discinesia ciliar, imunodeficiência, cardiopatia e aspiração\"],\"reason\":\"Entidade válida, específica e potencialmente grave, com evidência pediátrica aberta suficiente para orientação familiar centrada no padrão basal, prevenção de agressões, reconhecimento de exacerbação e seguimento especializado; não há base para prescrição automática.\",\"next_action\":\"Integrar como subtipo etiológico que compartilha a entidade e o núcleo clínico de pdf1500_181, mantendo o ID e o rótulo; testar resolução por ID/nome, oito idades, alertas respiratórios e coexistência com bronquiolite viral aguda.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Estas orientações complementam o plano de uma criança avaliada pela equipe. Não confirmam o diagnóstico nem autorizam permanecer em casa durante uma piora respiratória.",
+          "Bronquiolite obliterante pós-infecciosa é uma sequela pulmonar crônica rara após infecção respiratória baixa grave. As pequenas vias aéreas ficam lesionadas e estreitadas; isso é diferente da bronquiolite viral aguda e não significa que a infecção inicial continua ativa ou que a criança permanece contagiosa.",
+          "Conheça o padrão habitual da criança: esforço para respirar, cor, disposição, alimentação, sono, tolerância ao esforço e, se houver orientação, saturação e uso de oxigênio. Compare com esse padrão, mas não considere habitual um sinal grave: pausa respiratória, coloração azulada, exaustão ou dificuldade para acordar sempre exigem ajuda imediata.",
+          "Mantenha por escrito o plano da pneumologia: medicamentos e técnica, oxigênio com limite e fluxo individual, higiene brônquica/fisioterapia quando indicada, sinais de piora e contatos. Leve o resumo, exames e lista de tratamentos às consultas e emergências.",
+          "Evite fumaça de cigarro ou vape, lenha e outros irritantes; mantenha ambientes ventilados. Higienize as mãos, evite contato próximo com pessoas claramente doentes quando possível e mantenha vacinas recomendadas para idade e condição conforme a equipe.",
+          "Observe tosse/chiado, secreção, febre, falta de ar, retrações, queda de atividade, piora da alimentação, sono, saturação fora da faixa individual e necessidade maior de oxigênio ou resgate. Registre início e resposta ao plano sem atrasar atendimento.",
+          "O curso varia: algumas crianças melhoram clinicamente com o crescimento, mas a obstrução pode persistir. Estar bem entre crises não elimina a necessidade de seguimento; piora também não deve ser atribuída automaticamente à doença sem avaliar infecção, pneumotórax, aspiração ou outra causa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Atividade física e brincadeiras devem ser adaptadas à tolerância e ao plano individual. Faça pausas e interrompa diante de falta de ar desproporcional, retrações, lábios arroxeados, dor no peito, tontura, exaustão ou saturação abaixo do limite escrito; não force exercício para ‘abrir o pulmão’.",
+          "Fisioterapia respiratória, técnicas de higiene brônquica e reabilitação podem ser úteis em situações selecionadas, especialmente com secreção ou bronquiectasias, mas precisam ser ensinadas e reavaliadas pela equipe. Não faça percussão forte ou manobras improvisadas durante falta de ar intensa.",
+          "Use espaçador, nebulizador, oxigênio e outras interfaces somente como treinado. Limpe e seque os dispositivos conforme orientação; não compartilhe bocais, máscaras ou equipamentos.",
+          "Se usa oxigênio em casa, mantenha o equipamento longe de chama, calor, cigarro, produtos inflamáveis e óleos; siga o treinamento do fornecedor. Combine previamente com a equipe como agir em falha do aparelho, falta de energia e deslocamentos.",
+          "Organize escola e cuidadores com plano de sinais de alarme, pausas, atividade permitida, medicamentos já prescritos e contato familiar. A condição não exige afastamento permanente; durante febre ou infecção aguda, siga critérios clínicos e de transmissão do episódio atual.",
+          "Evite exposição a fumaça, vape e produtos inalados. Em adolescentes, converse de forma clara sobre tabaco, maconha, vape e aerossóis, que podem agravar sintomas e lesão pulmonar.",
+          "Se estiver inconsciente ou não respirar normalmente, acione o SAMU 192 e inicie reanimação conforme treinamento ou orientação do atendente; não perca tempo medindo saturação repetidamente ou ajustando aparelhos sem plano."
+        ],
+        "MEDICAMENTOS": [
+          "O tratamento é individual e combina cuidados de suporte com medicamentos quando indicados pela pneumologia. O benefício das terapias anti-inflamatórias varia e permanece incerto; esta orientação não define remédio, dose ou duração para a criança.",
+          "Use somente os medicamentos prescritos para esta criança e confira técnica e resposta. Broncodilatador pode ajudar parte dos pacientes, mas não todos; ausência ou presença de resposta não deve levar a repetição ilimitada nem reclassificação automática como asma.",
+          "Antibiótico, corticoide inalatório ou sistêmico, azitromicina prolongada e outros anti-inflamatórios não devem ser iniciados, repetidos ou suspensos por conta própria. A decisão depende de fase, gravidade, infecção ativa, benefício esperado e efeitos adversos.",
+          "Oxigênio é tratamento prescrito: use o dispositivo, fluxo e meta individual escritos. Não aumente indefinidamente para manter a criança em casa; necessidade acima do plano, falha em recuperar a faixa habitual ou piora clínica exige atendimento.",
+          "Não use sobra de receita, xarope para tosse, descongestionante, antibiótico de episódio anterior, fitoterápico ou óleo essencial inalado. Eles podem causar dano, mascarar piora ou atrasar avaliação.",
+          "Se usa corticoide inalatório, enxágue a boca quando apropriado e cuide do espaçador conforme treinamento. Leve lista de medicamentos, horários e resposta ao retorno para que a equipe mantenha apenas o que tem indicação e benefício documentados."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e líquidos habituais adequados à idade. Respiração trabalhosa aumenta o gasto de energia; acompanhe peso e altura, duração das refeições e capacidade de brincar sem perder o crescimento.",
+          "Durante infecção ou piora leve, porções menores e mais frequentes podem reduzir o cansaço. Não force alimento ou grande volume quando a criança está ofegante, sonolenta ou tossindo/engasgando.",
+          "Pare a oferta e procure avaliação se houver engasgo repetido, tosse ou mudança de cor durante a refeição, voz molhada, respiração muito acelerada ou exaustão; aspiração pode agravar a doença e precisa de investigação própria.",
+          "Pouca urina, boca seca, incapacidade de beber, vômitos repetidos ou sonolência sugerem desidratação e exigem avaliação, sobretudo junto de febre e piora respiratória.",
+          "Não concentre fórmula, acrescente suplemento calórico, faça dieta restritiva ou limite líquidos por conta própria. Nutrição especializada é indicada quando há baixo ganho, refeições prolongadas ou maior gasto respiratório.",
+          "Se usa sonda ou gastrostomia, siga posição, volume e velocidade prescritos; interrompa e procure orientação diante de vômitos repetidos, engasgo, distensão importante ou piora respiratória.",
+          "Antes dos 6 meses, mantenha leite materno ou fórmula habitual; não acrescente água, chá ou suco para tratar os sintomas, salvo orientação individual. Não force alimentação durante dificuldade respiratória."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 diante de pausa respiratória, respiração ausente ou muito fraca, lábios ou língua azulados/cinzentos, desmaio, confusão, convulsão ou dificuldade para acordar.",
+          "Procure emergência se houver retrações intensas, gemência, batimento de asas do nariz, incapacidade de falar, brincar ou mamar por falta de ar, exaustão, silêncio respiratório ou piora rápida.",
+          "Procure atendimento imediatamente se a saturação permanecer abaixo do limite escrito, cair progressivamente ou se houver necessidade de oxigênio acima do plano individual, mesmo sem cansaço evidente. Se possível, confira rapidamente o sensor sem atrasar a saída; uma leitura aparentemente normal não exclui gravidade quando a criança parece muito doente.",
+          "Febre com piora respiratória, prostração, recusa de líquidos, pouca urina ou aparência muito doente pode indicar infecção ou exacerbação e precisa avaliação urgente; não inicie antibiótico guardado em casa.",
+          "Dor no peito súbita, falta de ar abrupta ou sangue na tosse acompanhado de dificuldade respiratória exige emergência. Sangramento persistente ou em quantidade também precisa atendimento imediato; se for apenas um pequeno traço e a criança estiver bem, contate a equipe no mesmo dia para avaliação.",
+          "Se o plano de resgate prescrito não produz a melhora esperada no tempo definido, ou a criança precisa repeti-lo mais do que o combinado, procure atendimento; não aumente doses nem adie avaliação."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha seguimento regular com pediatria e pneumologia mesmo em fase estável. A equipe acompanha sintomas, crescimento, oxigenação, exacerbações, imagem e função pulmonar conforme idade e gravidade.",
+          "Contate a equipe no mesmo dia se tosse, chiado, secreção ou cansaço aumentarem, surgirem febre ou queda de atividade/alimentação, desde que a criança não apresente os sinais de emergência acima. Saturação persistentemente abaixo do limite, necessidade de oxigênio além do plano ou falha do resgate não devem aguardar um retorno ou contato de rotina.",
+          "Depois de internação, nova infecção, pneumotórax, hemoptise ou mudança do oxigênio, antecipe o retorno para redefinir o padrão basal, atividade, escola, reabilitação e plano de crise.",
+          "Reavalie técnica, adesão e benefício real de medicamentos, oxigênio e fisioterapia. Falta de resposta não autoriza escalada automática; melhora parcial também não prova resolução da obstrução.",
+          "Investigue ronco ou pausas no sono, baixo ganho, engasgos/aspiração, infecções repetidas, limitação escolar, ansiedade ou isolamento quando presentes; são problemas associados que podem ter manejo próprio.",
+          "Peça um plano escrito com o tratamento de rotina, o que fazer na piora, os contatos e a data do próximo retorno. Em viagens, mudança de escola ou novas atividades, planeje com antecedência os medicamentos, dispositivos e oxigênio quando necessários."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nesta idade, confirmar prematuridade/displasia broncopulmonar, malformação, cardiopatia, aspiração e infecção atual. Apneia, cianose, dificuldade para mamar, retrações ou sonolência é emergência; não presumir BOPI apenas por chiado persistente. Febre de 38 °C ou mais requer avaliação urgente, mesmo sem piora respiratória aparente.",
+        "3a5m": "Observar mamadas, pausas, suor, retrações, cor, fraldas e ganho de peso. Lactente não descreve dispneia e pode piorar rapidamente; qualquer mudança do padrão basal exige avaliação precoce.",
+        "6a11m": "Registrar a infecção grave inicial e a persistência de sintomas após a fase aguda. Cansaço para mamar/brincar, hipoxemia, respiração rápida ou baixo ganho exige reavaliação; não confundir com novo episódio de bronquiolite aguda.",
+        "1a": "Acompanhar brincadeira, sono, alimentação e esforço respiratório. Creche e cuidadores precisam de plano simples; fumaça e infecções podem precipitar piora.",
+        "2a5": "Observar pausas frequentes, tosse/chiado, crescimento e refeições demoradas. Atividade adaptada é estimulada; higiene brônquica e resgate só conforme treinamento e prescrição.",
+        "6a11": "Monitorar tolerância ao exercício, faltas escolares, sono e espirometria quando possível. Não restringir esporte apenas pelo diagnóstico; interromper a atividade diante de sintomas e individualizar com a pneumologia.",
+        "12a17": "Ensinar técnica, plano de piora e reconhecimento do próprio padrão, com supervisão. Prevenir tabaco/vape e discutir impacto escolar, atividade, saúde mental e transição para cuidado adulto.",
+        "unknown": "Confirmar idade, infecção inicial, duração, imagem/função, padrão basal, saturação/oxigênio, crescimento, medicamentos, resposta, exacerbações e diagnósticos alternativos para personalizar o plano. A falta dessas informações nunca deve atrasar emergência diante de sinais graves."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3094_1",
+          "name": "Postinfectious Bronchiolitis Obliterans in Children: Diagnostic Workup and Therapeutic Options: A Workshop Report",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1155/2020/5852827"
+        },
+        {
+          "id": "pais20261105_op3094_2",
+          "name": "Longitudinal Assessment of Pulmonary Function and Bronchodilator Response in Pediatric Patients With Post-infectious Bronchiolitis Obliterans",
+          "url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2021.674310/full"
+        },
+        {
+          "id": "pais20261105_op3094_3",
+          "name": "Non-Linear Dysanaptic Lung Growth in Patients With Post-Infectious Bronchiolitis Obliterans",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ppul.71716"
+        },
+        {
+          "id": "pais20261105_op3094_4",
+          "name": "Efficacy of Intravenous Methylprednisolone Pulses in Children With Postinfectious Bronchiolitis Obliterans",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/ppul.71150"
+        },
+        {
+          "id": "pais20261105_op3094_5",
+          "name": "Bronchiolitis",
+          "url": "https://www.nhs.uk/conditions/bronchiolitis/"
+        },
+        {
+          "id": "pais20261105_op3094_6",
+          "name": "Home oxygen therapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/home-oxygen-treatment/"
+        },
+        {
+          "id": "pais20261105_op3094_7",
+          "name": "SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "aliases": [
+        "Bronquiolite obliterante pós-infecciosa"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3094.json",
+      "resultHash": "14e78e2ce92e21a50301e74bc5953427c3b9539cbb3bd9a7f3b3d78609573d5b"
+    },
+    {
+      "jobId": "OP-3095",
+      "key": "pps_8",
+      "label": "Bronquiolite Viral Aguda (BVA) - Manejo de Suporte",
+      "specific": true,
+      "entity": "Bronquiolite viral aguda em criança menor de 2 anos, síndrome clínica de infecção viral das pequenas vias aéreas com coriza/tosse seguida de taquipneia, esforço respiratório, sibilos ou crepitações, cujo manejo é predominantemente de suporte e cuja gravidade depende de respiração, oxigenação, alimentação/hidratação, estado geral, idade e comorbidades",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ENTITY_WITH_AGE_AND_SEVERITY_BOUNDARIES\",\"normalized_entity\":\"Bronquiolite viral aguda em menores de 2 anos — manejo de suporte\",\"assessment\":\"O termo é válido e descreve a síndrome clínica de bronquiolite aguda, mais típica no primeiro ano e limitada no guia brasileiro a menores de 2 anos. ‘Manejo de suporte’ descreve a estratégia terapêutica, não uma doença adicional e não autoriza alta domiciliar sem avaliação. O registro pps_catalog_e559ed0e258a164a tem o mesmo núcleo clínico acrescido apenas do sufixo administrativo ‘registro no PPS’ e deve ser tratado como alias, sem nova entidade. ext_bronquiolite_grave conserva o mesmo diagnóstico-base, mas representa gravidade específica com necessidade de atendimento hospitalar; permanece rastreado separadamente e não é considerado resolvido por esta ficha de núcleo.\",\"canonical_aliases\":[\"bronquiolite\",\"Bronquiolite\",\"bva\",\"bronquiolite viral aguda\",\"Bronquiolite Viral Aguda (BVA)\"],\"exact_catalog_alias_key\":\"pps_catalog_e559ed0e258a164a\",\"related_but_not_absorbed\":[{\"key\":\"ext_bronquiolite_grave\",\"reason\":\"Qualificador de gravidade que exige destino hospitalar e validação própria; não é nova etiologia, mas não deve receber automaticamente orientação de caso leve.\"}],\"not_automatically_equivalent_to\":[\"asma ou sibilância viral recorrente\",\"pneumonia\",\"coqueluche\",\"insuficiência cardíaca\",\"aspiração de corpo estranho\",\"bronquiolite obliterante\"],\"pediatric_scope\":\"Aplicação principal em lactentes e crianças menores de 2 anos. Em criança com 2 anos ou mais, especialmente com sibilância recorrente ou história de atopia, o diagnóstico deve ser reavaliado; sinais respiratórios graves mantêm urgência independentemente do rótulo.\",\"counting_rule\":\"Contar pps_8 como uma entidade clínica específica. Não somar o alias de catálogo como segunda entidade e não contar ext_bronquiolite_grave como resolvido nesta atribuição.\",\"reason\":\"Entidade nosológica válida, com guia brasileiro de 2026 e recomendações institucionais abertas convergentes para suporte, hidratação, reconhecimento de gravidade e prevenção.\",\"next_action\":\"Coordenador deve reconciliar o delta com a ficha já específica do gerador real, preservando sua organização e alertas, antes de integração ou publicação. Não substituir o gerador pelo snapshot antigo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Bronquiolite viral aguda é uma infecção dos bronquíolos que ocorre principalmente em bebês e crianças menores de 2 anos. Costuma começar como resfriado e depois pode causar tosse, chiado, respiração rápida ou esforço para respirar.",
+          "Cuidados em casa só são adequados quando a criança foi avaliada como caso leve, está alerta, respira sem esforço importante e consegue mamar ou beber. O diagnóstico não significa automaticamente que a criança pode permanecer em casa.",
+          "Os sintomas podem piorar nos primeiros dias, frequentemente entre o terceiro e o quinto dia, e a tosse pode demorar algumas semanas para desaparecer. Observe a tendência da respiração, da alimentação, da disposição e das fraldas, não apenas um chiado isolado.",
+          "Mantenha supervisão próxima, inclusive durante a noite, e ambiente ventilado, sem fumaça de cigarro, vape, incenso, aerossóis ou cheiros irritantes. Não deixe o bebê sozinho durante piora respiratória.",
+          "Lave as mãos antes de cuidar do bebê, cubra tosse e espirros, limpe objetos muito tocados e evite contato próximo com pessoas resfriadas e locais fechados com aglomeração. Não compartilhe copos, talheres, chupetas ou mamadeiras.",
+          "Para dormir, coloque o bebê de barriga para cima, em superfície firme e plana, sem travesseiros, rolos ou colchão inclinado. Nariz entupido não muda essa orientação. Não use cadeirinha, sofá ou colo de pessoa adormecida como local de sono.",
+          "Durante a fase de doença, mantenha a criança em casa e evite contato próximo com outras crianças, quando possível. Combine a volta à creche com a equipe conforme a recuperação e as regras locais; não use a duração da tosse como garantia de ausência de transmissão."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se a secreção estiver atrapalhando, faça higiene nasal suave com soro fisiológico 0,9%, conforme a técnica ensinada para a idade, antes das mamadas e do sono. Não introduza objetos, não faça sucção profunda e não use jato forte; interrompa se causar sangramento, engasgo ou piora. Higiene nasal não trata falta de ar do pulmão.",
+          "Mantenha o bebê calmo e evite manuseio desnecessário, pois choro prolongado pode aumentar o esforço respiratório. Colo acordado e supervisionado pode ajudar no conforto, mas não substitui avaliação se houver dificuldade para respirar.",
+          "Observe retração entre ou abaixo das costelas, abertura das narinas, gemência, balanço da cabeça, pausas para respirar, cor dos lábios, capacidade de despertar e força para mamar. Vídeo curto pode ajudar a equipe se não atrasar o atendimento.",
+          "Não faça tapotagem, fisioterapia respiratória caseira, inalação com vapor quente, banho muito quente, compressas, óleos essenciais ou receitas caseiras. Essas medidas não tratam a bronquiolite e algumas causam queimadura ou irritação.",
+          "Aparelho doméstico de saturação pode errar por movimento, posição ou circulação ruim e não substitui a avaliação clínica. Não use um número isolado para decidir alta, iniciar oxigênio ou adiar atendimento.",
+          "Se houver piora súbita, interrompa a alimentação, mantenha a via aérea livre e procure ajuda. Se a criança não responder e não respirar normalmente, acione o SAMU 192 e inicie reanimação conforme treinamento ou instruções do atendente."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que cure rotineiramente a bronquiolite. O cuidado é de suporte e depende da avaliação da respiração, hidratação, oxigenação, idade e fatores de risco.",
+          "Não inicie por conta própria antibiótico, broncodilatador, corticoide, adrenalina, montelucaste, antiviral, descongestionante, xarope para tosse ou nebulização com solução hipertônica. Esses produtos não são recomendados de rotina para BVA e podem causar dano ou atrasar o cuidado correto.",
+          "Se houver outra doença confirmada, como infecção bacteriana ou asma, a equipe pode prescrever tratamento específico para essa condição. Use somente o produto e a orientação individual entregues após avaliação; esta ficha não seleciona medicamento, dose, via ou duração.",
+          "Não use remédio de outra pessoa, sobra de receita, produto natural, cânfora, mentol ou óleo essencial no nariz, no peito, no umidificador ou por ingestão.",
+          "Oxigênio e suporte respiratório são tratamentos hospitalares ou de plano domiciliar especializado. Não alugue, compartilhe nem ajuste cilindro, concentrador, fluxo ou aparelho respiratório sem prescrição e treinamento da equipe responsável.",
+          "Se a criança já usa medicamento contínuo ou tem cardiopatia, doença pulmonar, neuromuscular ou imunodeficiência, não suspenda nem modifique por conta própria; leve a lista completa ao atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça leite materno ou alimentação habitual em volumes menores e mais frequentes, com pausas, se a criança estiver alerta e respirando confortavelmente. Continue amamentando sempre que for seguro e tolerado.",
+          "Faça higiene nasal suave antes da mamada quando a obstrução estiver dificultando a sucção. Observe se o bebê cansa, sua, engasga, fica arroxeado ou precisa interromper repetidamente para respirar.",
+          "Não force mamada, copo ou comida se houver respiração muito rápida, retrações importantes, sonolência, engasgos ou dificuldade para coordenar sucção, deglutição e respiração. Nessa situação há risco de aspiração e é preciso atendimento imediato.",
+          "Procure avaliação sem demora se a ingestão cair claramente, se houver vômitos repetidos, boca seca ou redução das fraldas molhadas. Nenhuma fralda molhada por 12 horas é sinal de alerta, mas não espere completar esse tempo se a criança estiver piorando ou bebendo muito menos.",
+          "Não dilua nem concentre fórmula e não substitua leite por soro caseiro, chá ou suco. Antes dos 6 meses, mantenha leite materno ou fórmula habitual, sem água ou novos alimentos, salvo orientação específica. A partir dos 6 meses, mantenha a alimentação já introduzida e adequada à idade. Se não conseguir alimentar-se com segurança, a equipe decide se é necessária hidratação por sonda ou veia; esta ficha não indica via ou volume.",
+          "Em prematuros, menores de 3 meses e crianças com cardiopatia, doença pulmonar, neuromuscular ou imunodeficiência, queda da mamada ou menos urina merece avaliação mais precoce, mesmo antes de sinais intensos."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver pausa respiratória, lábios ou língua azulados/arroxeados, criança que não responde, respiração ausente ou anormal, desmaio ou convulsão.",
+          "Procure emergência imediatamente se houver gemência, balanço da cabeça, narinas muito abertas, retrações marcadas entre/abaixo das costelas, respiração muito rápida, dificuldade crescente para respirar ou incapacidade de chorar/mamar por falta de ar.",
+          "Procure emergência se a criança estiver exausta, muito sonolenta, difícil de acordar, flácida, confusa, menos responsiva ou se o esforço respiratório parecer diminuir depois de grande cansaço; isso pode indicar falência respiratória, não melhora.",
+          "Vá ao pronto atendimento se recusar alimentação, ingerir muito menos que o habitual, engasgar repetidamente, vomitar tudo ou apresentar sinais de desidratação, como boca seca e pouca ou nenhuma urina.",
+          "Bebê com menos de 2 meses e suspeita de bronquiolite deve ser avaliado com urgência, mesmo que os sinais pareçam discretos, devido ao maior risco de apneia e piora. Prematuridade e doenças cardíacas, pulmonares, neuromusculares ou imunológicas também reduzem o limiar para atendimento.",
+          "Em bebê com menos de 3 meses, febre ou suspeita de febre exige avaliação imediata, mesmo que pareça bem. Não atribua a febre somente à bronquiolite e não espere o retorno marcado.",
+          "Procure avaliação urgente se houver piora rápida, febre com aspecto muito doente, dor/choramingo inconsolável, suspeita de engasgo com corpo estranho ou quadro diferente do resfriado que evoluiu gradualmente; pode haver outro diagnóstico."
+        ],
+        "QUANDO REAVALIAR": [
+          "Siga o prazo definido na consulta. Se a criança foi liberada para casa no início do quadro, confirme com o serviço como e quando reavaliar, pois a piora pode ocorrer entre o terceiro e o quinto dia.",
+          "Reavalie no mesmo dia se a respiração ficar mais rápida, a tosse ou o chiado aumentarem, a mamada cair, as fraldas diminuírem, houver febre persistente ou o cuidador não se sentir seguro para observar em casa.",
+          "Menores de 3 meses, prematuros e crianças com cardiopatia, doença pulmonar crônica, doença neuromuscular ou imunodeficiência precisam de limiar mais baixo e plano individual de retorno.",
+          "Depois de internação, organize a primeira reavaliação em até 48 horas após a alta, ou antes se a equipe indicar, e leve o resumo de alta. Qualquer sinal de alarme exige retorno imediato. Não interrompa oxigênio domiciliar ou outro suporte previamente prescrito sem autorização da equipe responsável.",
+          "Procure nova avaliação se a criança não evoluir como esperado, se voltar a piorar após melhora ou se a tosse persistir por 4 semanas ou mais; é necessário verificar complicação ou outro diagnóstico.",
+          "Em criança com 2 anos ou mais, sibilância recorrente, episódios anteriores ou história de alergia/asma, peça reavaliação do diagnóstico. O rótulo de bronquiolite não deve substituir investigação de sibilância viral, asma, pneumonia ou outras causas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos e lactentes pequenos podem apresentar apneia, queda da mamada, sonolência ou mudança de cor antes de chiado evidente. Bebê com menos de 2 meses e suspeita de BVA precisa de avaliação urgente; não aguarde piora e não force alimentação se houver esforço respiratório. Em qualquer bebê com menos de 3 meses, febre ou suspeita de febre exige avaliação imediata, mesmo se parecer bem.",
+        "3a5m": "Faixa de maior vulnerabilidade: acompanhe de perto respiração, mamadas e fraldas, especialmente nos dias 3 a 5. Qualquer pausa respiratória, cianose, exaustão, retração marcada ou queda importante da ingestão exige atendimento imediato.",
+        "6a11m": "Bronquiolite é comum nesta faixa. Casos leves avaliados podem receber higiene nasal suave, mamadas menores e frequentes e vigilância; esforço respiratório, sonolência ou desidratação têm precedência sobre cuidados domiciliares.",
+        "1a": "BVA continua possível até completar 2 anos. Confirme que o episódio é compatível com infecção aguda e não sibilância recorrente; observe alimentação, hidratação e trabalho respiratório e antecipe retorno se houver comorbidade ou piora.",
+        "2a5": "Após 2 anos, o rótulo de bronquiolite é menos apropriado e devem ser considerados sibilância viral, asma, pneumonia ou corpo estranho. Não aplicar automaticamente esta ficha; dificuldade respiratória, cianose, exaustão ou desidratação continuam sendo emergência.",
+        "6a11": "Bronquiolite não é o diagnóstico habitual nesta idade. Solicite reavaliação do termo e das causas de chiado/tosse; não use esta ficha para iniciar tratamento. Sinais de esforço respiratório importante, alteração de consciência ou lábios azulados exigem emergência.",
+        "12a17": "Em adolescente, bronquiolite viral aguda do lactente não deve ser presumida. Reclassificar o quadro respiratório e investigar asma, pneumonia, exposição ou outra causa; sintomas graves mantêm atendimento imediato independentemente do nome cadastrado.",
+        "unknown": "Confirmar idade, início dos sintomas, episódio prévio de chiado, prematuridade, cardiopatia/doença pulmonar, estado da respiração, alimentação e urina. Sem idade definida, não aplicar suporte domiciliar automático; sinais de alarme exigem emergência."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3095_1",
+          "name": "Guia de manejo clínico: bronquiolite viral aguda",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-manuais/2026/guia-de-manejo-clinico-bronquiolite-viral-aguda.pdf/@@download/file"
+        },
+        {
+          "id": "pais20261105_op3095_2",
+          "name": "Bronquiolite aguda",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/bronquiolite-aguda/"
+        },
+        {
+          "id": "pais20261105_op3095_3",
+          "name": "Bronquiolite Viral Aguda",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/b/bronquiolite"
+        },
+        {
+          "id": "pais20261105_op3095_4",
+          "name": "Bronchiolitis: Recommendations for diagnosis, monitoring and management of children one to 24 months of age",
+          "url": "https://cps.ca/en/documents/position/bronchiolitis"
+        },
+        {
+          "id": "pais20261105_op3095_5",
+          "name": "Bronchiolitis",
+          "url": "https://www.nhs.uk/conditions/bronchiolitis/"
+        },
+        {
+          "id": "pais20261105_op3095_6",
+          "name": "How to Keep Your Sleeping Baby Safe: AAP Policy Explained",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/a-parents-guide-to-safe-sleep.aspx"
+        }
+      ],
+      "aliases": [
+        "bronquiolite",
+        "Bronquiolite",
+        "bva",
+        "bronquiolite viral aguda",
+        "Bronquiolite Viral Aguda (BVA)"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3095.json",
+      "resultHash": "979687aa0e6aa157eb0ff9839cf07946ac28ef4ef9991d2311ab22283509287b"
+    },
+    {
+      "jobId": "OP-3097",
+      "key": "ext_bronquiolite_grave",
+      "label": "Bronquiolite viral aguda grave",
+      "specific": true,
+      "entity": "Bronquiolite viral aguda em lactente ou criança pequena com pelo menos um marcador de gravidade clínica — desconforto respiratório intenso, hipoxemia/cianose, apneia, alteração de consciência/exaustão ou incapacidade de alimentar-se e manter hidratação — que exige avaliação hospitalar imediata e suporte monitorado; é a forma grave da mesma entidade de pps_8/pps_catalog_e559ed0e258a164a, não uma nova etiologia nem autorização automática de medicamento ou dispositivo",
+      "assessment": "{\"classification\":\"VALID_SEVERITY_QUALIFIER_OF_ACUTE_VIRAL_BRONCHIOLITIS_REQUIRING_EMERGENCY_HOSPITAL_CARE\",\"normalized_entity\":\"Bronquiolite viral aguda grave em criança pequena\",\"assessment\":\"Qualificador válido de gravidade da bronquiolite viral aguda, geralmente em menores de 2 anos. Apneia, alteração de consciência, esforço respiratório intenso e comprometimento da alimentação/oxigenação exigem atendimento hospitalar imediato. Não define vírus nem doença adicional. A emergência refere-se ao quadro grave atual: antecedente de internação encerrada, com alta e estabilidade, não significa por si só nova emergência. A ficha não autoriza alta; preserva o plano da equipe após alta já concedida.\",\"reconciliation\":\"pps_8 e pps_catalog_e559ed0e258a164a representam a BVA e seu registro administrativo. ext_bronquiolite_grave conserva o mesmo núcleo nosológico com gravidade explícita e destino emergencial. Não contar o qualificador como nova doença ou nova etiologia; manter todos os IDs selecionáveis e a diferença de prioridade.\",\"not_automatically_equivalent_to\":[\"todo resfriado, tosse ou chiado em lactente\",\"bronquite, asma ou sibilância viral recorrente em criança maior\",\"pneumonia bacteriana, coqueluche, aspiração de corpo estranho, cardiopatia ou sepse\",\"infecção por VSR confirmada em todos os casos; outros vírus também causam bronquiolite\",\"indicação automática de antibiótico, broncodilatador, corticoide, adrenalina, solução hipertônica ou fisioterapia respiratória\",\"indicação automática de oxigênio domiciliar, cânula de alto fluxo, CPAP, ventilação invasiva ou qualquer parâmetro de suporte\"],\"pediatric_scope\":\"Aplicabilidade típica: lactentes e crianças menores de 2 anos, especialmente nos primeiros meses. Em criança a partir de 2 anos, adolescente ou idade desconhecida, o rótulo BVA precisa ser revisto e causas como asma/sibilância viral, pneumonia, corpo estranho, insuficiência cardíaca, coqueluche e outras doenças devem ser consideradas; os sinais de gravidade continuam exigindo emergência independentemente do nome.\",\"risk_factors\":[\"idade muito jovem, sobretudo menor de 3 meses; o guia MS 2026 inclui idade inferior a 2 meses como critério de internação\",\"prematuridade ou baixo peso ao nascer\",\"doença pulmonar crônica/displasia broncopulmonar\",\"cardiopatia congênita hemodinamicamente significativa\",\"doença neuromuscular ou neurológica crônica\",\"imunodeficiência ou imunossupressão\",\"exposição à fumaça e barreiras sociais/geográficas para acesso rápido a atendimento\"],\"counting_rule\":\"Contar como um registro específico de gravidade somente após integração, testes e publicação; somar zero entidade clínica adicional, pois é variante da BVA canônica. Não contar prevenção contra VSR, diagnósticos diferenciais, insuficiência respiratória ou suporte ventilatório como entidades cobertas separadamente.\",\"next_action\":\"Integrar preservando emergência imediata para quadro grave atual, alertas em todas as idades e distinção já presente no gerador entre episódio atual e antecedente estabilizado. Não criar campos. Testar antes de publicar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Bronquiolite grave no episódio atual significa dificuldade importante para respirar, manter a oxigenação, ficar alerta ou alimentar-se. É situação de hospital: procure emergência agora. Em pausas respiratórias, arroxeamento, desmaio ou dificuldade para acordar, ligue SAMU 192; se já estiver no hospital, chame imediatamente a equipe.",
+          "Se esta ficha se refere a um episódio antigo já estabilizado, com alta concedida, siga o plano de recuperação recebido. O nome do episódio passado, sozinho, não exige ambulância; qualquer novo sinal de alarme exige nova avaliação.",
+          "Enquanto aguarda ajuda, mantenha a criança acompanhada e em posição confortável, sem apertar tórax ou pescoço. Se estiver acordada, deixe-a na posição em que respira melhor; não force que fique deitada nem a balance para 'acordar'.",
+          "Observe e informe à equipe quando começaram coriza/tosse, em que dia piorou, presença de febre, pausas respiratórias, cor azulada/pálida, retrações entre as costelas, gemência, quantidade mamada e número de fraldas molhadas.",
+          "Leve documentos, caderneta, lista de medicamentos, alergias, idade gestacional/prematuridade e informações sobre cardiopatia, doença pulmonar, neuromuscular ou imunidade. Isso ajuda a equipe a estimar risco sem atrasar a estabilização.",
+          "Relógio, aplicativo ou oxímetro doméstico podem errar e um número isolado não exclui gravidade. Não espere uma leitura 'pior' para buscar atendimento quando houver esforço respiratório, apneia, cianose, exaustão ou recusa alimentar.",
+          "Bronquiolite é contagiosa por secreções respiratórias. Higienize as mãos, evite fumaça e afaste pessoas com sintomas, mas não atrase o transporte nem tente isolar a criança em casa quando o quadro é grave."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se a criança não responde e não respira normalmente, ligue 192, coloque o telefone no viva-voz e inicie reanimação conforme treinamento ou orientação do atendente. Não perca tempo tentando medir saturação ou procurar um medicamento.",
+          "Se há apneia, lábios arroxeados, exaustão ou retração intensa, solicite ambulância. Não deixe um único cuidador dirigir enquanto tenta observar ou estimular o bebê.",
+          "Higiene nasal com soro e aspiração apenas superficial podem aliviar obstrução em criança estável, mas não tratam a forma grave e nunca devem atrasar a emergência. Não introduza objeto profundamente no nariz.",
+          "Não faça vapor quente, nebulização caseira, banho frio, tapotagem, massagem no tórax, fisioterapia respiratória, manobras para provocar tosse nem coloque mentol/óleo próximo ao nariz. Essas medidas podem causar dano ou atrasar suporte efetivo.",
+          "Evite manipulação repetida e mantenha o ambiente sem fumaça, vape, incenso ou aerossol. Use etiqueta respiratória e higiene das mãos para reduzir transmissão.",
+          "Não use melhora breve após limpar o nariz, chorar menos ou dormir como prova de segurança. Bronquiolite pode variar e a classificação grave exige avaliação e monitorização hospitalar."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não prescreve medicamento, oxigênio, fluxo, dispositivo ou suporte ventilatório. Na bronquiolite grave, a equipe hospitalar decide suporte de oxigenação, hidratação e respiração conforme avaliação repetida.",
+          "Não dê broncodilatador, corticoide, antibiótico, adrenalina, solução salina hipertônica, antialérgico, xarope, descongestionante, antiviral ou cafeína por conta própria. Esses tratamentos não são rotina para bronquiolite e podem atrasar o cuidado correto. Em situações específicas de UTI ou outra infecção associada, a equipe pode indicar tratamento individualizado; não inicie, retire ou altere essas prescrições por causa desta ficha.",
+          "Não reutilize sobra de receita nem produto de irmão, e não transforme plano de asma em tratamento de bronquiolite sem orientação da equipe que examinou a criança.",
+          "Se existe plano de emergência previamente prescrito para outra condição, siga-o somente como foi escrito enquanto aciona ajuda; ele não substitui avaliação urgente da bronquiolite grave.",
+          "Não ofereça medicamento pela boca quando houver sonolência, apneia, engasgo, vômitos repetidos ou respiração muito trabalhosa. Informe à equipe o que foi administrado, apresentação, horário e quantidade.",
+          "Febre alta persistente, piora incomum ou criança muito abatida podem indicar outro diagnóstico ou infecção associada. Não inicie antibiótico em casa e não presuma que todo quadro grave é apenas viral."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Respiração muito rápida ou trabalhosa, cansaço para mamar e sonolência aumentam o risco de engasgo e aspiração. Não force peito, mamadeira, copo, colher ou grande volume durante o desconforto grave.",
+          "Se estiver alerta e a equipe de emergência orientar aguardar transporte, siga apenas as instruções recebidas. Em apneia, cianose, alteração de consciência ou dificuldade para engolir, não ofereça nada pela boca.",
+          "Recusa de mamadas, consumo muito menor que o habitual, boca seca, olhos fundos, choro sem lágrima ou menos fraldas molhadas são sinais de desidratação e reforçam a necessidade de atendimento imediato.",
+          "Não dilua nem concentre fórmula e não substitua leite por chá, suco ou solução caseira. Menores de 1 ano não devem receber mel. Nenhum alimento ou bebida desobstrui os bronquíolos.",
+          "No hospital, a equipe pode oferecer líquidos/alimentação por via oral, sonda ou veia conforme respiração, hidratação e tolerância. Esta ficha não escolhe via, volume ou velocidade.",
+          "Após estabilização e alta, retome amamentação/alimentação conforme o plano entregue pelo serviço; piora da respiração ou da ingestão após a alta exige retorno imediato."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bronquiolite classificada como grave no quadro atual exige atendimento hospitalar imediato. Ligue SAMU 192 se houver pausa na respiração, lábios ou língua arroxeados/acinzentados, desmaio, convulsão, ausência de resposta ou respiração ausente/anormal. Se já estiver internado, chame a equipe.",
+          "Procure emergência agora diante de gemência, batimento de asas do nariz, retrações marcadas entre/abaixo das costelas, balanço da cabeça ou do tórax com o abdome, respiração muito rápida ou esforço que está aumentando.",
+          "Irritabilidade inconsolável, letargia, dificuldade para acordar, choro fraco, redução do esforço apesar de aparência pior ou pausas recorrentes podem indicar exaustão/insuficiência respiratória iminente.",
+          "Recusa alimentar, mamada muito curta ou cansativa, vômitos repetidos, boca seca ou pouca urina junto de dificuldade respiratória requer hospital imediatamente.",
+          "Prematuro, bebê pequeno, criança com cardiopatia, doença pulmonar crônica, neuromuscular ou imunodeficiência deve ser avaliada com limiar ainda mais baixo; não espere cianose.",
+          "Febre alta, pele fria/manchada, prostração intensa, convulsão, rigidez, dor localizada, secreção com engasgo súbito ou piora fora do curso esperado exige avaliação para sepse, pneumonia, corpo estranho ou outra causa.",
+          "Em bebê menor de 3 meses, febre medida de 38 °C ou mais, ou suspeita de febre, exige avaliação imediata; não espere aparecerem outros sinais."
+        ],
+        "QUANDO REAVALIAR": [
+          "A bronquiolite grave atual precisa de reavaliação imediata no hospital; não espere consulta marcada. Se já houve estabilização e alta, siga o acompanhamento de recuperação abaixo.",
+          "A equipe deve repetir avaliação de respiração, alerta, alimentação/hidratação e oxigenação, porque o exame varia ao longo do tempo e a piora costuma ocorrer nos primeiros dias, frequentemente entre o terceiro e o quinto dia de sintomas.",
+          "Após alta, siga o plano do hospital e organize a primeira reavaliação em até 48 horas, ou antes se a equipe indicar. Retorne imediatamente se reaparecer esforço respiratório, pausa na respiração, cor alterada, sonolência, febre preocupante, recusa alimentar ou redução da urina; não espere o retorno marcado.",
+          "Lactente muito jovem, prematuro ou com comorbidade pode precisar de observação/seguimento mais próximo mesmo após melhora aparente; não use apenas ausência de febre ou leitura doméstica de saturação para cancelar retorno.",
+          "A tosse pode persistir por algumas semanas, mas deve melhorar gradualmente. Se durar mais de 4 semanas, houver crises repetidas, chiado entre infecções, ganho de peso ruim ou recuperação diferente do esperado, procure reavaliação; piora respiratória exige atendimento antes desse prazo.",
+          "Depois da recuperação, confira com a equipe vacinas e elegibilidade para prevenção contra VSR conforme programa vigente e risco individual. Imunização/profilaxia previne doença futura; não trata o episódio grave atual.",
+          "O retorno à creche ocorre depois da recuperação, sem febre e com alimentação e respiração adequadas, conforme o plano da equipe; não envie a criança enquanto estiver doente."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos e lactentes menores de 3 meses têm maior risco de apneia e deterioração. Pausas respiratórias, cor arroxeada, gemência, mamada fraca, sonolência ou esforço importante exigem emergência; febre de 38 °C ou mais ou suspeita de febre também exige avaliação imediata. O guia MS 2026 inclui idade inferior a 2 meses entre os critérios de internação por bronquiolite.",
+        "3a5m": "Nesta idade a bronquiolite é típica e pode piorar rapidamente. Observe retrações, batimento de asas, gemência, pausas, cor, alerta, mamadas e fraldas; forma grave não deve ser manejada em casa.",
+        "6a11m": "Interrupção da brincadeira, respiração trabalhosa, cansaço para mamar/comer, irritabilidade ou sonolência são relevantes. Procure hospital imediatamente e não use apenas chiado ou oxímetro doméstico para graduar risco.",
+        "1a": "Bronquiolite ainda é possível antes dos 2 anos. Dificuldade importante para respirar, apneia, alteração de cor/consciência ou recusa de líquidos define emergência; não tratar como asma automaticamente.",
+        "2a5": "A partir de 2 anos o rótulo de bronquiolite é menos típico e deve ser revisto, mas sinais graves continuam exigindo emergência. A equipe deve considerar asma/sibilância viral, pneumonia, aspiração de corpo estranho e outras causas sem atrasar suporte.",
+        "6a11": "Bronquiolite viral aguda não é o diagnóstico habitual em escolar. Trate dificuldade respiratória grave, cianose, exaustão ou alteração de consciência como emergência e reavalie asma, pneumonia, cardiopatia, corpo estranho e outros diagnósticos.",
+        "12a17": "Em adolescente, bronquiolite é um rótulo atípico. Não permita que o nome atrase atendimento de insuficiência respiratória; informar vape, aspiração, asma, alergia, infecção e doença cardíaca/pulmonar à equipe.",
+        "unknown": "Sem idade e exame, não é possível confirmar bronquiolite nem avaliar a gravidade por um número isolado. Se o quadro grave é atual, procure emergência; se é antecedente já estabilizado com alta, siga o plano recebido. Apneia, cianose, esforço intenso, alteração de consciência ou incapacidade de alimentar-se sempre exigem atendimento imediato."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3097_1",
+          "name": "Guia de manejo clínico: Bronquiolite viral aguda",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-manuais/2026/guia-de-manejo-clinico-bronquiolite-viral-aguda.pdf/@@download/file"
+        },
+        {
+          "id": "pais20261105_op3097_2",
+          "name": "Australasian Bronchiolitis Guideline — 2025 Update",
+          "url": "https://predict.org.au/bronchiolitis-guideline/"
+        },
+        {
+          "id": "pais20261105_op3097_3",
+          "name": "Australasian Bronchiolitis Guideline — Medication",
+          "url": "https://predict.org.au/bronchiolitis-guideline/medication/"
+        },
+        {
+          "id": "pais20261105_op3097_4",
+          "name": "Clinical Practice Guidelines: Bronchiolitis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/"
+        },
+        {
+          "id": "pais20261105_op3097_5",
+          "name": "Bronchiolitis: Recommendations for diagnosis, monitoring and management of children one to 24 months of age",
+          "url": "https://cps.ca/en/documents/position/bronchiolitis"
+        },
+        {
+          "id": "pais20261105_op3097_6",
+          "name": "Kids Health Info: Bronchiolitis",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Bronchiolitis/"
+        },
+        {
+          "id": "pais20261105_op3097_7",
+          "name": "SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "aliases": [
+        "Bronquiolite Viral Aguda Grave",
+        "bronquiolite grave",
+        "BVA grave",
+        "catalogo-018"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3097.json",
+      "resultHash": "96c80328dc48b9b6deacd69a9bc0ce88d78ba01e350b52b855cd52a29ea0b7b9"
+    },
+    {
+      "jobId": "OP-3098",
+      "key": "pps_catalog_7eab3136d4e7a70b",
+      "label": "Bronquite Aguda — registro no PPS",
+      "specific": true,
+      "entity": "Bronquite aguda pediátrica: síndrome clínica de tosse aguda por inflamação transitória das vias aéreas, geralmente viral e autolimitada, reconhecida somente depois de avaliar gravidade e diagnósticos alternativos; não equivale automaticamente a infecção bacteriana, pneumonia, bronquiolite, asma/broncoespasmo, coqueluche, corpo estranho ou indicação de antibiótico",
+      "assessment": "{\"classification\":\"VALID_ACUTE_COUGH_SYNDROME_WITH_REQUIRED_DIFFERENTIAL_DIAGNOSIS\",\"normalized_entity\":\"Bronquite aguda pediátrica (síndrome de tosse aguda, usualmente viral)\",\"assessment\":\"O termo é válido como diagnóstico clínico de inflamação aguda dos brônquios associada a tosse, mas é inespecífico e não determina o agente. Em criança previamente saudável e sem sinais de pneumonia ou outra doença importante, a causa costuma ser viral e a tosse pode durar algumas semanas. Catarro amarelo ou esverdeado, ruídos no peito ou febre isolada não comprovam infecção bacteriana. Em lactentes, bronquiolite é entidade diferente e frequentemente mais apropriada; chiado/dispneia exige avaliar asma ou broncoespasmo; tosse súbita após engasgo sugere corpo estranho; febre, respiração rápida, tiragem, dor torácica ou mau estado exigem excluir pneumonia; tosse em acessos, guincho ou vômito pode exigir investigação de coqueluche. O rótulo não autoriza antibiótico, broncodilatador, corticoide, xarope ou exame automático.\",\"not_automatically_equivalent_to\":[\"Pneumonia viral ou bacteriana\",\"Bronquiolite viral aguda em menores de 2 anos\",\"Asma, broncoespasmo agudo ou hiperreatividade brônquica pós-viral\",\"Coqueluche ou outra infecção específica\",\"Aspiração de corpo estranho, crupe/estridor ou obstrução de via aérea\",\"Bronquite bacteriana prolongada, bronquiectasia ou outra causa de tosse úmida crônica\",\"Indicação automática de antibiótico, broncodilatador, corticoide, antitussígeno, mucolítico, descongestionante ou nebulização\"],\"pediatric_scope\":\"A orientação pode ser usada em crianças e adolescentes quando a avaliação clínica sustentou bronquite aguda sem gravidade. Em recém-nascidos e lactentes, sobretudo com primeiro episódio de tosse/chiado, febre, apneia ou dificuldade para mamar, o rótulo deve ser aplicado com cautela porque bronquiolite, pneumonia, coqueluche e outras condições são mais relevantes. Prematuridade, cardiopatia, doença pulmonar/neuromuscular, fibrose cística e imunossupressão aumentam risco e reduzem o limiar para reavaliação presencial.\",\"counting_rule\":\"Contar este ID como uma orientação específica para uma entidade clínica de bronquite aguda somente após integração, testes e publicação. Não contar pneumonia, bronquiolite, asma/broncoespasmo, coqueluche, corpo estranho ou bronquite bacteriana prolongada como cobertos por esta ficha. O sufixo administrativo ‘registro no PPS’ não constitui entidade adicional.\",\"critical_context_to_confirm\":[\"Idade, duração da tosse, início súbito ou gradual e evolução desde o início\",\"Febre, respiração rápida, tiragem, gemência, estridor, chiado, dor torácica, cianose, apneia e estado geral\",\"Capacidade de mamar, beber, falar, caminhar/brincar e urinar\",\"Engasgo ou brincadeira com peça pequena, contato com coqueluche, surtos e vacinação\",\"Prematuridade, cardiopatia, doença pulmonar/neuromuscular, fibrose cística, imunossupressão e crise respiratória prévia\",\"Medicamentos já usados, plano individual para asma e exposição a cigarro, vape, fumaça ou irritantes\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Bronquite aguda é uma inflamação passageira das vias aéreas que causa tosse, às vezes com catarro, desconforto no peito e febre baixa. Em crianças sem sinais de gravidade, costuma acompanhar infecção viral e melhorar sozinha; a tosse pode persistir por algumas semanas mesmo depois de outros sintomas cessarem.",
+          "Observe como a criança respira, se consegue falar ou mamar, sua cor, disposição, ingestão e urina. Não use apenas a cor do catarro, o barulho da tosse ou um número isolado do oxímetro para decidir que é bactéria ou que está segura.",
+          "Mantenha repouso conforme o cansaço, ambiente ventilado e casa/carro sem cigarro, vape, incenso, fumaça, aerossóis ou perfumes fortes. Evite exercício intenso enquanto houver febre, falta de ar ou mal-estar; retome atividades aos poucos quando estiver bem.",
+          "Lave as mãos, cubra tosse/espirro com o antebraço, não compartilhe copos e mantenha o ambiente ventilado. Mantenha em casa durante febre ou quando a criança não consegue participar das atividades; siga as regras locais da escola/creche. Tosse residual isolada, com a criança recuperada, não costuma exigir afastamento até desaparecer. Mantenha as vacinas recomendadas em dia.",
+          "Tosse ajuda a remover secreção; não tente eliminá-la a qualquer custo. Não use panelas ou bacias de água quente para inalação: podem causar queimaduras graves e não aceleram a recuperação.",
+          "Tosse súbita durante alimentação/brincadeira, chiado localizado, estridor, voz diferente ou episódio de engasgo não deve ser chamado de bronquite sem avaliação; procure urgência e não faça varredura cega na boca."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Ofereça descanso, líquidos em pequenas quantidades e higiene nasal suave com solução salina quando houver obstrução, sem forçar se a criança estiver com falta de ar. Um banho morno pode trazer conforto, mas vapor quente não trata os brônquios.",
+          "A partir de 1 ano completo, um pouco de mel pode aliviar temporariamente a tosse, mas o benefício é limitado e não trata a causa. Nunca dê mel a menores de 1 ano, pelo risco de botulismo, nem à criança com dificuldade para engolir ou respirar.",
+          "Para dormir, coloque o bebê de barriga para cima em superfície firme, plana e sem travesseiros, cunhas ou posicionadores. Não incline o berço para tratar a tosse.",
+          "Não faça tapotagem ou fisioterapia respiratória por conta própria para tratar esta tosse; se a criança já precisa dessas medidas por outra doença, siga o plano específico de sua equipe.",
+          "Anote duração da tosse, febre, padrão respiratório, ingestão, urina e medicamentos utilizados. Leve essas informações e as embalagens na reavaliação; não grave ou meça repetidamente se isso atrasar ajuda diante de sinais graves.",
+          "Se a criança parar de responder e não respirar normalmente, acione o SAMU 192 e inicie reanimação pediátrica conforme treinamento ou instruções do atendente."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas os medicamentos prescritos para esta criança, na dose e pelo tempo informados. O rótulo ‘bronquite’ não define sozinho o tratamento; esta ficha não substitui receita individual.",
+          "Antibiótico não é tratamento de rotina para bronquite aguda não complicada. Pneumonia, coqueluche, doença grave ou alto risco de complicações exigem avaliação própria; o profissional decide quando há indicação. Não comece nem interrompa um antibiótico prescrito sem esclarecer a indicação com a equipe.",
+          "Não use sobra de antibiótico, receita de outra pessoa ou medicamento comprado sem avaliação. Catarro verde/amarelo, tosse forte ou ruído no peito isoladamente não autorizam antibiótico.",
+          "Broncodilatador e corticoide não são tratamento automático de bronquite. Se a criança tem asma ou outro plano respiratório escrito, use somente o que foi prescrito para ela e procure avaliação se a resposta for fraca, curta ou se os sintomas retornarem antes do previsto no plano.",
+          "Xaropes combinados para tosse/resfriado podem não ajudar e causar efeitos graves, especialmente nos pequenos. Não dê produto de adulto, codeína, sedativo, descongestionante, fitoterápico ou ‘natural’ sem orientação específica para idade e condição.",
+          "Medicamentos para febre ou dor só devem seguir orientação individual e rótulo apropriado à criança; não combine produtos com o mesmo ingrediente e não estime dose por aparência. Esta ficha não fornece dose."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno ou fórmula e a alimentação habitual apropriada à idade. Ofereça porções menores, mais vezes, conforme tolerância. Não substitua mamadas por água ou chá em bebês pequenos.",
+          "Não force mamada, comida ou líquido se a criança respira muito rápido, tem retrações, fica sonolenta, engasga ou não coordena sucção e respiração. Interrompa a oferta e procure emergência pelo risco de aspiração.",
+          "Em bebês, observe mamadas e fraldas. Mamar muito menos que o habitual, boca seca, ausência de lágrimas, olhos fundos, sonolência ou poucas fraldas molhadas exigem avaliação rápida.",
+          "Criança maior deve beber conforme sede e tolerância. Água, leite, sopa e alimentação habitual são suficientes; não há necessidade de bebida esportiva, energético, chá estimulante ou dieta restritiva.",
+          "Não dê mel a menores de 1 ano. A partir de 1 ano completo, pode ser usado apenas para conforto, nunca no lugar de avaliação de falta de ar, febre persistente ou tosse prolongada.",
+          "Vômitos repetidos, recusa de líquidos ou urina muito reduzida com tosse/febre justificam reavaliação no mesmo dia; se houver prostração, dificuldade respiratória ou alteração de cor, procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver lábios/rosto arroxeados ou acinzentados, pausas para respirar, respiração ausente ou anormal, desmaio, confusão, convulsão, dificuldade para acordar ou ausência de resposta.",
+          "Procure emergência diante de respiração muito difícil, retrações intensas, gemência, estridor em repouso, incapacidade de falar/chorar/mamar por falta de ar, exaustão, peito quase sem entrada de ar ou piora rápida.",
+          "Febre com criança muito prostrada, pele fria/manchada, dor torácica forte ou persistente, rigidez de nuca, pouca urina ou aparência de doença grave exige avaliação imediata para pneumonia, sepse ou outra causa.",
+          "Tosse súbita após engasgo ou brincadeira com objeto pequeno, ruído de um lado, estridor ou dificuldade para engolir exige emergência por possível corpo estranho; não ofereça alimento/líquido nem tente retirar às cegas.",
+          "Em menores de 3 meses, temperatura medida de 38 °C ou mais exige avaliação imediata, mesmo que pareçam bem. Em qualquer bebê, pausas respiratórias, gemência, costelas afundando, recusa de mamadas, choro fraco, palidez/arroxeamento ou sonolência fora do habitual também exigem atendimento imediato.",
+          "Sangue em quantidade na tosse, vômito com sangue, desidratação importante ou tosse em acessos com dificuldade de recuperar o fôlego, coloração alterada ou desmaio exige urgência; não atribua automaticamente à bronquite."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação no mesmo dia se surgirem febre persistente, chiado, respiração rápida, dor no peito ou piora do estado geral. Bebê pequeno com tosse nova ou primeiro chiado deve ser avaliado prontamente. Prematuridade, cardiopatia, doença pulmonar/neuromuscular ou imunossupressão justificam acompanhamento mais próximo, definido pela equipe.",
+          "Reavalie antes se os sintomas piorarem rápida ou significativamente, se a febre ou tosse melhorarem e depois voltarem mais fortes, se surgir respiração rápida/tiragem ou se a criança beber e urinar menos.",
+          "Não espere a tosse completar várias semanas se a criança não estiver melhorando. Entre 2 meses e 5 anos, retorne em até 5 dias após a avaliação se não houver melhora, e procure consulta se a tosse durar mais de 14 dias, conforme a orientação brasileira. Em crianças maiores, procure reavaliação se não houver melhora progressiva ou se a tosse prejudicar sono e atividades. Tosse diária por mais de 4 semanas, especialmente com catarro, precisa de investigação.",
+          "Tosse em acessos, guincho, vômito pós-tosse, apneia ou contato com coqueluche precisa de avaliação específica e orientação sobre transmissão/escola; não espere várias semanas para procurar ajuda em lactentes.",
+          "Chiado recorrente, tosse noturna, sintomas com exercício ou necessidade repetida de medicamento de alívio exige avaliação de asma/broncoespasmo. O diagnóstico de bronquite aguda não deve esconder crises repetidas.",
+          "No retorno, leve a duração e evolução dos sintomas, temperaturas medidas, ingestão/urina, exposições, vacinação, contatos, medicamentos usados e resposta. Peça que a equipe esclareça o diagnóstico e o prazo individual de acompanhamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em menor de 3 meses, tosse nova merece avaliação no mesmo dia, mesmo se a criança ainda respirar e mamar bem. Temperatura de 38 °C ou mais, apneia, esforço respiratório, mamada fraca ou sonolência fora do habitual exigem atendimento imediato. Considerar bronquiolite, pneumonia e coqueluche; não usar mel nem xaropes.",
+        "3a5m": "Nesta idade, primeiro episódio de tosse/chiado após coriza pode ser bronquiolite e não bronquite simples. Observe mamada, fraldas, apneia, esforço e cor; recusa alimentar, retrações, prostração ou febre com mau estado exigem avaliação rápida. Se não melhorar, reavaliar em até 5 dias após a consulta; tosse com mais de 14 dias precisa de nova avaliação.",
+        "6a11m": "Bronquiolite continua frequente no primeiro ano. Não dê mel, descongestionante ou xarope; ofereça mamadas menores e frequentes apenas se respirar e engolir bem. Dificuldade para mamar, menos urina, apneia ou esforço crescente exige urgência. Se não melhorar, reavaliar em até 5 dias após a consulta; tosse com mais de 14 dias precisa de nova avaliação.",
+        "1a": "Entre 1 e 2 anos, bronquiolite, sibilância viral, pneumonia e corpo estranho podem parecer bronquite. Mel só é permitido a partir de 1 ano completo e serve apenas para conforto. Tosse súbita durante alimentação/brincadeira ou primeiro chiado precisa de avaliação. Se não melhorar, reavaliar em até 5 dias após a consulta; tosse com mais de 14 dias precisa de nova avaliação.",
+        "2a5": "Pré-escolar pode ter infecções virais repetidas e sibilância. Não normalize tosse noturna/recorrente como bronquite nem use antibiótico ou broncodilatador sem diagnóstico/plano. Observe fala, atividade, ingestão e esforço; sintomas persistentes ou recorrentes exigem consulta. Se não melhorar, reavaliar em até 5 dias após a consulta; tosse com mais de 14 dias precisa de nova avaliação.",
+        "6a11": "Escolar consegue relatar dor torácica, falta de ar e impacto no sono/escola. Repouso, hidratação e ambiente sem fumaça ajudam no conforto; febre com respiração difícil, tosse por mais de 3–4 semanas ou episódios repetidos exige reavaliação e investigação.",
+        "12a17": "Inclua o adolescente na avaliação de duração, vape/cigarro, exercício, medicamentos e exposições sem julgamento. Dor torácica, hemoptise, falta de ar, síncope ou piora rápida exige urgência; tosse recorrente não deve ser atribuída apenas a bronquite sem investigar asma e outras causas.",
+        "unknown": "Sem idade confirmada, não selecione medicamento nem dose. Priorize estado mental, cor, esforço respiratório, capacidade de falar/mamar/beber e hidratação. Encaminhe imediatamente com cianose, apneia, exaustão, alteração de consciência, engasgo ou deterioração rápida."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3098_1",
+          "name": "Condições agudas — Tosse ou dificuldade para respirar em crianças de 2 meses a 5 anos",
+          "url": "https://linhasdecuidado.saude.gov.br/portal/puericultura/unidade-de-atencao-primaria/condicoes-agudas/index.php"
+        },
+        {
+          "id": "pais20261105_op3098_2",
+          "name": "Clinical Practice Guideline: Cough",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/cough/"
+        },
+        {
+          "id": "pais20261105_op3098_3",
+          "name": "Should You Give Kids Medicine for Coughs and Colds?",
+          "url": "https://www.fda.gov/consumers/consumer-updates/should-you-give-kids-medicine-coughs-and-colds"
+        },
+        {
+          "id": "pais20261105_op3098_4",
+          "name": "Antibiotics for lower respiratory tract infection in children presenting in primary care: ARTIC-PC RCT",
+          "url": "https://www.journalslibrary.nihr.ac.uk/hta/DGBV3199"
+        },
+        {
+          "id": "pais20261105_op3098_5",
+          "name": "Chest Cold (Acute Bronchitis) Basics",
+          "url": "https://www.cdc.gov/acute-bronchitis/about/index.html"
+        },
+        {
+          "id": "pais20261105_op3098_6",
+          "name": "Kids Health Info: Cough",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Cough/"
+        },
+        {
+          "id": "pais20261105_op3098_7",
+          "name": "Kids Health Info: Bronchiolitis",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Bronchiolitis/"
+        },
+        {
+          "id": "pais20261105_op3098_8",
+          "name": "How to Keep Your Sleeping Baby Safe: AAP Policy Explained",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        },
+        {
+          "id": "pais20261105_op3098_9",
+          "name": "NHS and British Burn Association issue public safety warning: steam inhalation causes burns",
+          "url": "https://www.royaldevon.nhs.uk/news/nhs-and-british-burn-association-issue-public-safety-warning-steam-inhalation-causes-burns/"
+        }
+      ],
+      "aliases": [
+        "Bronquite Aguda"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3098.json",
+      "resultHash": "69496f0e44dcb7759954847b7438fedcf5008ab313c2f98d899ba6861d8f76c8"
+    },
+    {
+      "jobId": "OP-3099",
+      "key": "pps_9",
+      "label": "Bronquite Aguda e Hiperreatividade Brônquica Pós-Viral",
+      "specific": true,
+      "entity": "Síndrome respiratória pediátrica composta por tosse aguda associada a infecção viral das vias aéreas, frequentemente chamada de bronquite aguda, seguida ou acompanhada em parte das crianças por irritabilidade/hiperresponsividade brônquica transitória; exige separar evolução pós-viral autolimitada de asma, pneumonia, bronquiolite, coqueluche, corpo estranho, bronquite bacteriana prolongada e outras causas de tosse persistente",
+      "assessment": "{\"classification\":\"VALID_COMPOSITE_POSTVIRAL_RESPIRATORY_SYNDROME_NOT_EQUIVALENT_TO_ASTHMA\",\"normalized_entity\":\"Tosse/bronquite aguda viral com possível hiperresponsividade brônquica transitória pós-viral em criança ou adolescente\",\"assessment\":\"O rótulo é clinicamente utilizável como síndrome temporal, não como etiologia única. Em pediatria, a maior parte da tosse aguda chamada de bronquite acompanha infecção viral e melhora espontaneamente, embora a tosse possa persistir por semanas. Inflamação pós-viral pode deixar tosse seca, chiado ou sensibilidade a esforço, ar frio e irritantes; isso não confirma asma. Um estudo pediátrico pequeno mostrou que algumas crianças com tosse pós-infecciosa tinham hiperresponsividade, mas sem o padrão eosinofílico típico da asma alérgica não tratada. Tosse recorrente/noturna ou com exercício, sintomas entre infecções, atopia e resposta documentada exigem investigação de asma; tosse úmida diária por mais de quatro semanas, febre persistente, taquipneia, hipoxemia, dor, hemoptise, falha de crescimento, engasgo ou início súbito apontam para outros diagnósticos. O nome não autoriza antibiótico, broncodilatador, corticoide, antitussígeno, exame ou dispositivo automáticos.\",\"not_automatically_equivalent_to\":[\"Asma, crise asmática, asma variante da tosse ou sibilância recorrente confirmada\",\"Broncoespasmo agudo, que descreve obstrução atual e pode ter várias causas\",\"Bronquiolite viral aguda em lactente, pneumonia, coqueluche, crupe ou COVID-19\",\"Bronquite bacteriana prolongada, bronquiectasia ou outra causa de tosse úmida crônica\",\"Aspiração de corpo estranho, refluxo/aspiração, malácia de via aérea ou cardiopatia\",\"Indicação automática de antibiótico, broncodilatador, corticoide, nebulização, antialérgico, antitussígeno ou descongestionante\"],\"reconciliation\":{\"exact_future_alias\":\"pps_catalog_7c8a6a7080768913 tem mesmo rótulo-base, mas o coordenador deve conferir seus aliases operacionais e qualificadores. Compartilhar núcleo clínico somente após essa reconciliação; não contar nova entidade nem aplicar autocuidado estável a forma grave/crítica ou complicada.\",\"related_not_equivalent\":[\"OP-3098 / pps_catalog_7eab3136d4e7a70b: bronquite aguda isolada é mais estreita e não contém o qualificador pós-viral\",\"OP-3089 / pps_catalog_fc9a3fea37eea8e3: broncoespasmo agudo descreve obstrução atual; este registro inclui fase de tosse pós-viral e não presume broncoespasmo presente\",\"pps_8 e ext_bronquiolite_grave: bronquiolite é entidade própria predominante em menores de 2 anos\",\"Pneumonia e asma permanecem diagnósticos separados e exigem critérios próprios\"]},\"pediatric_scope\":\"Aplica-se a recém-nascidos, lactentes, crianças e adolescentes apenas como orientação de segurança para tosse aguda/pós-viral já avaliada ou provável; a idade muda fortemente os diferenciais. Em menores de 2 anos, bronquiolite e aspiração ganham prioridade. Em escolares/adolescentes, padrão recorrente com exercício/noite ou sintomas entre viroses exige investigação de asma. Recém-nascidos, prematuros e crianças com cardiopatia, doença pulmonar, neuromuscular ou imunodeficiência têm limiar baixo para avaliação presencial.\",\"counting_rule\":\"Contar pps_9 como uma ficha específica e uma entidade sindrômica composta somente após integração, testes e publicação. Não contar asma, broncoespasmo, bronquiolite, pneumonia, coqueluche, bronquite bacteriana prolongada ou corpo estranho como doenças cobertas por este ID. O futuro alias pps_catalog_7c8a6a7080768913 deve acrescentar zero entidade se a equivalência integral for confirmada.\",\"critical_context_to_confirm\":[\"Idade, duração total da tosse, se é seca ou úmida e se está melhorando, estável ou piorando\",\"Febre e estado geral, frequência/esforço respiratório, fala ou mamada, cor, alerta, hidratação e urina\",\"Chiado, falta de ar, dor torácica, estridor, hemoptise, vômitos após tosse, apneia ou cianose\",\"Início abrupto, engasgo, tosse com alimentação, assimetria do ruído ou contato com objeto pequeno\",\"Sintomas noturnos, com exercício ou entre infecções, episódios anteriores, atopia e plano de asma já prescrito\",\"Prematuridade, cardiopatia, doença pulmonar/neuromuscular, imunodeficiência, contato com coqueluche/TB e exposição a fumaça ou vape\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Bronquite aguda costuma ser o nome dado à tosse que acompanha uma infecção respiratória, geralmente viral. A tosse pode continuar depois que a coriza e a febre melhoram; isso pode ocorrer por irritação pós-viral e não significa, sozinho, bactéria, pneumonia ou asma.",
+          "Observe tendência e funcionamento: respiração confortável, capacidade de falar, brincar ou mamar, cor, alerta, ingestão de líquidos e urina. Tosse mais frequente à noite pode incomodar, mas esforço para respirar, prostração ou piora progressiva mudam a prioridade.",
+          "Mantenha repouso relativo e atividades leves conforme tolerância. Afaste completamente cigarro, vape, narguilé, fumaça, incenso, perfume/aerossol forte e poeira; esses irritantes podem prolongar tosse e chiado.",
+          "Anote quando a tosse começou, se é seca ou úmida, febre, chiado, vômitos, gatilhos e impacto no sono/atividade. Leve essa linha do tempo ao retorno; tosse diária que passa de quatro semanas precisa de nova avaliação, mesmo se a criança parece bem.",
+          "Não rotule tosse pós-viral como asma por conta própria. Episódios repetidos, chiado, sintomas com corrida ou riso, tosse noturna recorrente ou sintomas entre resfriados merecem investigação específica; use somente plano de ação já prescrito para aquela criança.",
+          "Durante febre, coriza e mal-estar, mantenha em casa conforme orientação do serviço e regras locais para reduzir transmissão. Tosse residual após recuperação pode durar semanas e, sozinha, não exige afastamento prolongado se a criança está bem e a escola/creche não tem restrição própria. Suspeita de coqueluche ou outra infecção com afastamento específico muda essa orientação; confirme com a equipe antes de voltar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha ambiente ventilado e confortável. Enquanto acordada e supervisionada, a criança pode ficar na posição em que respira melhor. Para dormir, coloque o bebê de barriga para cima em colchão firme e plano, sem travesseiro, rolo ou elevação da cabeceira. Se só consegue respirar em determinada posição ou não tolera deitar por falta de ar, procure atendimento.",
+          "Higiene nasal com solução apropriada pode ajudar quando a obstrução nasal atrapalha sono ou mamada, desde que feita com técnica segura ensinada. Não introduza óleo, ervas ou substâncias irritantes no nariz ou nebulizador.",
+          "Não faça inalação com vapor quente, panela, chaleira, álcool, cânfora, mentol ou óleos essenciais: não tratam hiperreatividade com segurança e podem causar queimadura, intoxicação ou piora respiratória.",
+          "A partir de 12 meses, mel pode ser uma opção de conforto por curto período, se a criança engole com segurança e não tem alergia; o benefício é limitado e não trata a causa. Nunca dê mel antes de 12 meses, pelo risco de botulismo. Não ofereça durante crise de tosse ou falta de ar.",
+          "Não faça tapotagem, tosse forçada, respiração em saco ou manobras de desengasgo se não há obstrução verdadeira. Se houve engasgo ou início súbito, procure avaliação urgente; não tente retirar objeto às cegas.",
+          "Lave as mãos, cubra tosse/espirro, não compartilhe copos e mantenha vacinação em dia conforme calendário. Essas medidas reduzem transmissão, mas não transformam tosse persistente em diagnóstico de asma."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não prescreve antibiótico, broncodilatador, corticoide, antialérgico, antitussígeno, descongestionante, nebulização, oxigênio, apresentação, dose, intervalo ou duração.",
+          "Antibióticos não tratam viroses nem são usados rotineiramente para tosse pós-viral. Não os inicie por catarro ou pelo nome ‘bronquite’. Pneumonia, coqueluche e bronquite bacteriana prolongada precisam de avaliação e tratamento próprios.",
+          "Broncodilatador ou corticoide não deve ser iniciado apenas porque o rótulo contém ‘hiperreatividade’. Se a criança tem asma diagnosticada e plano escrito, siga somente o medicamento, dispositivo e limite definidos nesse plano; falta de resposta ou necessidade além do plano exige atendimento.",
+          "Não use xarope de tosse, descongestionante ou combinação de resfriado por conta própria. Esses produtos não têm benefício comprovado para a tosse inespecífica infantil e podem causar dano, especialmente em crianças pequenas.",
+          "Não reutilize sobra de antibiótico, inalador de outra pessoa ou receita antiga, e não interrompa medicamento contínuo prescrito sem falar com a equipe. Informe tudo que já foi usado e a resposta observada.",
+          "Medicamento para dor ou febre, quando realmente necessário, deve ser apenas o previamente orientado para idade/peso e condições da criança. Esta ficha não calcula dose nem trata a causa da tosse."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha aleitamento materno e a alimentação habitual adequada à idade. Ofereça mamadas menores e mais frequentes se o nariz entupido atrapalhar. Em menores de 6 meses, não acrescente água, chá ou suco para tratar a tosse; se usa fórmula, mantenha o preparo habitual orientado, sem diluir. Crianças maiores podem receber líquidos em pequenas quantidades e com frequência.",
+          "Não force alimento durante crise de tosse, respiração rápida, sonolência ou náusea. Espere a criança recuperar respiração e alerta; se não consegue beber ou mamar com segurança, procure atendimento.",
+          "Observe hidratação por boca úmida, lágrimas, alerta e urina/fraldas. Boca seca, olhos fundos, sonolência, pouca urina ou recusa persistente são sinais para reavaliação rápida.",
+          "Não há dieta que ‘limpe os brônquios’. Leite não precisa ser retirado por causa de catarro, e restrições de glúten, corante ou outros alimentos sem diagnóstico podem prejudicar nutrição.",
+          "Evite energético, café, álcool, suplementos estimulantes e misturas caseiras. Não coloque medicamento em mamadeira ou copo cheio, pois a quantidade ingerida fica incerta.",
+          "Vômito isolado após tosse forte pode ocorrer, mas vômitos repetidos, incapacidade de manter líquidos, sangue, dor intensa, perda de peso ou sinais de desidratação exigem avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver lábios/rosto arroxeados ou acinzentados, pausa ou respiração irregular, confusão, desmaio, convulsão, dificuldade para despertar, ausência de resposta ou respiração anormal.",
+          "Procure emergência imediatamente se a criança não consegue falar, chorar, mamar ou beber por falta de ar; apresenta retrações intensas, gemência, batimento de asas nasais, exaustão, pouca entrada de ar ou piora rápida.",
+          "Febre com prostração importante, respiração rápida persistente, dor no peito, palidez/manchas, rigidez, pouca urina ou piora após uma melhora inicial exige avaliação para pneumonia, sepse ou outra complicação; não presuma ‘só bronquite’.",
+          "Tosse que começou de repente durante alimentação/brincadeira, engasgo, estridor, voz alterada ou ruído de um lado exige emergência por possível corpo estranho; não ofereça alimento/líquido para empurrar e não faça varredura cega.",
+          "Sangue ao tossir, dor torácica forte, desidratação, vômitos repetidos, apneia ou chiado/falta de ar que não responde ao plano já prescrito requer atendimento imediato.",
+          "Recém-nascido ou lactente pequeno com febre, apneia, gemência, retrações, mamada muito fraca, choro fraco, sonolência incomum ou menos fraldas deve ser avaliado com urgência, mesmo que a tosse pareça leve."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie no mesmo dia se há chiado novo, falta de ar, febre persistente/recorrente, piora em vez de melhora, criança muito pequena, doença crônica relevante ou preocupação do responsável. Sinais de alarme antecipam para emergência.",
+          "A tosse aguda pode levar algumas semanas para desaparecer; uma revisão sistemática encontrou resolução em 90% das crianças até cerca de 25 dias. Isso é uma referência populacional, não prazo para esperar diante de piora ou sinais focais.",
+          "Tosse diária por mais de quatro semanas precisa de avaliação pediátrica, com atenção especial se é úmida, interfere no sono/atividade, recorre frequentemente ou vem com febre, perda de peso, falha de crescimento, hemoptise ou pneumonia repetida.",
+          "Tosse/chiado noturno recorrente, com exercício, riso, ar frio ou entre infecções, atopia ou necessidade repetida de alívio exige investigação de asma; hiperreatividade pós-viral isolada não basta para confirmar o diagnóstico.",
+          "Tosse úmida persistente não deve ser chamada indefinidamente de pós-viral: bronquite bacteriana prolongada, bronquiectasia, aspiração, discinesia ciliar, fibrose cística e outras causas precisam ser consideradas conforme história e exame.",
+          "No retorno, peça registro do diagnóstico provável, duração esperada, sinais de alarme e plano individual. Leve a linha do tempo, lista de medicamentos/produtos usados, exposição a fumaça/vape, vídeos do ruído se seguros e histórico de engasgo ou episódios anteriores.",
+          "Procure avaliação no mesmo dia se houver acessos prolongados de tosse, vômitos repetidos após tossir, guincho ao puxar o ar ou contato com alguém com coqueluche. A doença pode ocorrer sem guincho, especialmente em bebês; pausas respiratórias ou cor arroxeada exigem emergência, sem esperar quatro semanas.",
+          "Entre 2 meses e 5 anos, se a tosse sem sinais de pneumonia não melhorar, retorne em até 5 dias após a avaliação; tosse por mais de 14 dias já precisa de investigação, conforme a orientação brasileira. Não espere quatro semanas nessas situações, nem diante de piora, chiado ou sinais de alarme."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente menor de 3 meses com tosse precisa de limiar baixo para avaliação no mesmo dia. Febre, apneia, gemência, retrações, mamada fraca, choro fraco, sonolência ou menos urina exigem urgência. Não use mel, xarope, descongestionante, antibiótico, broncodilatador ou corticoide automático; bronquiolite, coqueluche, aspiração, infecção e cardiopatia são diferenciais importantes. Para dormir, barriga para cima em superfície firme e plana. Não acrescentar água, chá ou suco para a tosse.",
+        "3a5m": "Nessa idade, tosse e chiado após virose podem ser bronquiolite, não ‘bronquite com asma’. Observe mamada, fraldas, pausas respiratórias e esforço. Avalie rapidamente se é primeiro episódio com chiado, há febre, recusa alimentar ou piora; não aplique plano inalatório de outra criança. Para dormir, barriga para cima em superfície firme e plana, sem inclinar o colchão. Não acrescentar água, chá ou suco para a tosse.",
+        "6a11m": "Bronquiolite ainda é diagnóstico frequente. Mantenha líquidos/leite em pequenas ofertas e vigie respiração, alimentação e urina. Nunca ofereça mel antes de 12 meses. Tosse súbita durante alimentação ou brincadeira exige considerar corpo estranho. Para dormir, barriga para cima em superfície firme e plana, sem travesseiros ou cabeceira elevada.",
+        "1a": "Entre 1 e 2 anos, virose, bronquiolite, aspiração e sibilância viral podem se sobrepor. Mel só é uma opção de conforto após 12 meses e não substitui avaliação. Chiado recorrente ou sintomas entre infecções requer investigação, sem confirmar asma por um episódio isolado.",
+        "2a5": "Pré-escolares têm muitas viroses e podem manter tosse por semanas. Observe tendência e atividade. Episódios repetidos de chiado/tosse noturna, limitação para brincar ou tosse úmida diária por mais de quatro semanas exigem revisão; xaropes e antibióticos não devem ser iniciados por conta própria.",
+        "6a11": "A criança escolar pode descrever falta de ar, aperto, dor e gatilhos. Tosse que reaparece com corrida, à noite ou entre resfriados merece investigação de asma, mas tosse pós-viral isolada pode ser autolimitada. Retorno à escola é possível quando está bem e sem restrição local, mesmo que reste tosse leve.",
+        "12a17": "Inclua o adolescente na avaliação de vape/cigarro, exercício, adesão, substâncias e impacto no sono/escola sem julgamento. Não atribua falta de ar apenas à ansiedade. Dor torácica, hemoptise, síncope, cianose, esforço ou queda do desempenho exigem avaliação; sintomas recorrentes pedem investigação de asma e outras causas.",
+        "unknown": "Sem idade confirmada, não selecione medicamento ou dose. Priorize capacidade de falar/mamar, esforço respiratório, cor, alerta, hidratação, duração e padrão da tosse. Encaminhe imediatamente com cianose, alteração de consciência, apneia, esforço intenso, possível corpo estranho ou criança muito doente."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3099_1",
+          "name": "Clinical Practice Guideline: Cough",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/cough/"
+        },
+        {
+          "id": "pais20261105_op3099_2",
+          "name": "Kids Health Info: Cough",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/cough/"
+        },
+        {
+          "id": "pais20261105_op3099_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Asma",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/asma/@@download/file"
+        },
+        {
+          "id": "pais20261105_op3099_4",
+          "name": "Duration of symptoms of respiratory tract infections in children: systematic review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3898587/"
+        },
+        {
+          "id": "pais20261105_op3099_5",
+          "name": "Induced sputum: comparison of postinfectious cough with allergic asthma in children",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10719299/"
+        },
+        {
+          "id": "pais20261105_op3099_6",
+          "name": "Kids Health Info: Whooping cough",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Whooping_cough/"
+        },
+        {
+          "id": "pais20261105_op3099_7",
+          "name": "My baby has a stuffy nose. How can I help them sleep safely?",
+          "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/my-baby-has-a-stuffy-nose-how-can-i-help-them-sleep-safely.aspx"
+        },
+        {
+          "id": "pais20261105_op3099_8",
+          "name": "Breastfeeding — Questions and answers",
+          "url": "https://www.who.int/news-room/questions-and-answers/item/breastfeeding"
+        },
+        {
+          "id": "pais20261105_op3099_9",
+          "name": "Condições agudas — Tosse ou dificuldade para respirar em crianças de 2 meses a 5 anos",
+          "url": "https://linhasdecuidado.saude.gov.br/portal/puericultura/unidade-de-atencao-primaria/condicoes-agudas/index.php"
+        }
+      ],
+      "aliases": [
+        "bronquite",
+        "tosse pós-viral",
+        "Bronquite viral aguda não complicada"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3099.json",
+      "resultHash": "77a4474921062f48291404d85f0079999a7210115da6617e51a929a28a62f9bf"
+    },
+    {
+      "jobId": "OP-3100",
+      "key": "pps_catalog_7c8a6a7080768913",
+      "label": "Bronquite Aguda e Hiperreatividade Brônquica Pós-Viral — registro no PPS",
+      "specific": true,
+      "entity": "Síndrome respiratória pediátrica composta por tosse aguda associada a infecção viral das vias aéreas, frequentemente chamada de bronquite aguda, seguida ou acompanhada em parte das crianças por irritabilidade/hiperresponsividade brônquica transitória; exige separar evolução pós-viral autolimitada de asma, pneumonia, bronquiolite, coqueluche, corpo estranho, bronquite bacteriana prolongada e outras causas de tosse persistente",
+      "assessment": "{\"classification\":\"ADMINISTRATIVE_RECORD_SHARING_PPS_9_CORE_WITH_SEVERITY_QUALIFIERS\",\"normalized_entity\":\"Tosse/bronquite aguda viral com possível hiperresponsividade brônquica transitória pós-viral em criança ou adolescente\",\"assessment\":\"O nome-base coincide com pps_9 e o sufixo ‘registro no PPS’ é administrativo. Porém a fila e o gerador também associam três aliases qualificados: apresentação aguda, evolução complicada/refratária e forma grave/crítica. Esses contextos não são sinônimos clínicos de quadro leve/autolimitado. É seguro compartilhar o núcleo educacional, preservando os qualificadores e alertas específicos de prioridade; contar zero nova entidade e não concluir equivalência de gravidade. No preparado anterior, seis seções, oito idades e alertas eram integralmente iguais ao canônico, mas essa comparação textual não validava os qualificadores.\",\"not_automatically_equivalent_to\":[\"Asma, crise asmática, asma variante da tosse ou sibilância recorrente confirmada\",\"Broncoespasmo agudo, que descreve obstrução atual e pode ter várias causas\",\"Bronquiolite viral aguda em lactente, pneumonia, coqueluche, crupe ou COVID-19\",\"Bronquite bacteriana prolongada, bronquiectasia ou outra causa de tosse úmida crônica\",\"Aspiração de corpo estranho, refluxo/aspiração, malácia de via aérea ou cardiopatia\",\"Indicação automática de antibiótico, broncodilatador, corticoide, nebulização, antialérgico, antitussígeno ou descongestionante\"],\"reconciliation\":{\"exact_future_alias\":\"O registro de nome-base compartilha o núcleo pps_9; os três aliases operacionais incluem qualificadores de gravidade/evolução e precisam de precedência de urgência, sem apagar nomes/IDs.\",\"related_not_equivalent\":[\"OP-3098 / pps_catalog_7eab3136d4e7a70b: bronquite aguda isolada é mais estreita e não contém o qualificador pós-viral\",\"OP-3089 / pps_catalog_fc9a3fea37eea8e3: broncoespasmo agudo descreve obstrução atual; este registro inclui fase de tosse pós-viral e não presume broncoespasmo presente\",\"pps_8 e ext_bronquiolite_grave: bronquiolite é entidade própria predominante em menores de 2 anos\",\"Pneumonia e asma permanecem diagnósticos separados e exigem critérios próprios\"]},\"pediatric_scope\":\"Aplica-se a recém-nascidos, lactentes, crianças e adolescentes apenas como orientação de segurança para tosse aguda/pós-viral já avaliada ou provável; a idade muda fortemente os diferenciais. Em menores de 2 anos, bronquiolite e aspiração ganham prioridade. Em escolares/adolescentes, padrão recorrente com exercício/noite ou sintomas entre viroses exige investigação de asma. Recém-nascidos, prematuros e crianças com cardiopatia, doença pulmonar, neuromuscular ou imunodeficiência têm limiar baixo para avaliação presencial.\",\"counting_rule\":\"Rastrear e publicar este ID como registro específico, mas contar zero entidade clínica adicional. Não contar novamente o núcleo pps_9 nem seus diagnósticos diferenciais.\",\"critical_context_to_confirm\":[\"Idade, duração total da tosse, se é seca ou úmida e se está melhorando, estável ou piorando\",\"Febre e estado geral, frequência/esforço respiratório, fala ou mamada, cor, alerta, hidratação e urina\",\"Chiado, falta de ar, dor torácica, estridor, hemoptise, vômitos após tosse, apneia ou cianose\",\"Início abrupto, engasgo, tosse com alimentação, assimetria do ruído ou contato com objeto pequeno\",\"Sintomas noturnos, com exercício ou entre infecções, episódios anteriores, atopia e plano de asma já prescrito\",\"Prematuridade, cardiopatia, doença pulmonar/neuromuscular, imunodeficiência, contato com coqueluche/TB e exposição a fumaça ou vape\"],\"relationship_to_existing_records\":\"Compartilha núcleo pps_9/OP-3099 sem nova entidade; não substitui OP-3098 ou OP-3089. Qualificadores de gravidade/evolução não podem receber liberação domiciliar automática.\",\"reason\":\"Núcleo comum confirmado; corrigida alegação anterior de alias exato puramente administrativo para todo o registro.\",\"next_action\":\"Integrar o núcleo revisado preservando os três aliases e a prioridade grave/crítica ou complicada/refratária. Testar cada alias, key e label em oito idades; zero entidade clínica adicional.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Se a equipe descreveu o quadro como grave/crítico, a prioridade é atendimento de emergência, não cuidado apenas em casa. Se foi chamado complicado/refratário ou não melhora como esperado, precisa de reavaliação urgente. As medidas abaixo só complementam o plano da equipe depois de avaliada a segurança para casa.",
+          "Bronquite aguda costuma ser o nome dado à tosse que acompanha uma infecção respiratória, geralmente viral. A tosse pode continuar depois que a coriza e a febre melhoram; isso pode ocorrer por irritação pós-viral e não significa, sozinho, bactéria, pneumonia ou asma.",
+          "Observe tendência e funcionamento: respiração confortável, capacidade de falar, brincar ou mamar, cor, alerta, ingestão de líquidos e urina. Tosse mais frequente à noite pode incomodar, mas esforço para respirar, prostração ou piora progressiva mudam a prioridade.",
+          "Mantenha repouso relativo e atividades leves conforme tolerância. Afaste completamente cigarro, vape, narguilé, fumaça, incenso, perfume/aerossol forte e poeira; esses irritantes podem prolongar tosse e chiado.",
+          "Anote quando a tosse começou, se é seca ou úmida, febre, chiado, vômitos, gatilhos e impacto no sono/atividade. Leve essa linha do tempo ao retorno; tosse diária que passa de quatro semanas precisa de nova avaliação, mesmo se a criança parece bem.",
+          "Não rotule tosse pós-viral como asma por conta própria. Episódios repetidos, chiado, sintomas com corrida ou riso, tosse noturna recorrente ou sintomas entre resfriados merecem investigação específica; use somente plano de ação já prescrito para aquela criança.",
+          "Durante febre, coriza e mal-estar, mantenha em casa conforme orientação do serviço e regras locais para reduzir transmissão. Tosse residual após recuperação pode durar semanas e, sozinha, não exige afastamento prolongado se a criança está bem e a escola/creche não tem restrição própria. Suspeita de coqueluche ou outra infecção com afastamento específico muda essa orientação; confirme com a equipe antes de voltar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha ambiente ventilado e confortável. Enquanto acordada e supervisionada, a criança pode ficar na posição em que respira melhor. Para dormir, coloque o bebê de barriga para cima em colchão firme e plano, sem travesseiro, rolo ou elevação da cabeceira. Se só consegue respirar em determinada posição ou não tolera deitar por falta de ar, procure atendimento.",
+          "Higiene nasal com solução apropriada pode ajudar quando a obstrução nasal atrapalha sono ou mamada, desde que feita com técnica segura ensinada. Não introduza óleo, ervas ou substâncias irritantes no nariz ou nebulizador.",
+          "Não faça inalação com vapor quente, panela, chaleira, álcool, cânfora, mentol ou óleos essenciais: não tratam hiperreatividade com segurança e podem causar queimadura, intoxicação ou piora respiratória.",
+          "A partir de 12 meses, mel pode ser uma opção de conforto por curto período, se a criança engole com segurança e não tem alergia; o benefício é limitado e não trata a causa. Nunca dê mel antes de 12 meses, pelo risco de botulismo. Não ofereça durante crise de tosse ou falta de ar.",
+          "Não faça tapotagem, tosse forçada, respiração em saco ou manobras de desengasgo se não há obstrução verdadeira. Se houve engasgo ou início súbito, procure avaliação urgente; não tente retirar objeto às cegas.",
+          "Lave as mãos, cubra tosse/espirro, não compartilhe copos e mantenha vacinação em dia conforme calendário. Essas medidas reduzem transmissão, mas não transformam tosse persistente em diagnóstico de asma."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não prescreve antibiótico, broncodilatador, corticoide, antialérgico, antitussígeno, descongestionante, nebulização, oxigênio, apresentação, dose, intervalo ou duração.",
+          "Antibióticos não tratam viroses nem são usados rotineiramente para tosse pós-viral. Não os inicie por catarro ou pelo nome ‘bronquite’. Pneumonia, coqueluche e bronquite bacteriana prolongada precisam de avaliação e tratamento próprios.",
+          "Broncodilatador ou corticoide não deve ser iniciado apenas porque o rótulo contém ‘hiperreatividade’. Se a criança tem asma diagnosticada e plano escrito, siga somente o medicamento, dispositivo e limite definidos nesse plano; falta de resposta ou necessidade além do plano exige atendimento.",
+          "Não use xarope de tosse, descongestionante ou combinação de resfriado por conta própria. Esses produtos não têm benefício comprovado para a tosse inespecífica infantil e podem causar dano, especialmente em crianças pequenas.",
+          "Não reutilize sobra de antibiótico, inalador de outra pessoa ou receita antiga, e não interrompa medicamento contínuo prescrito sem falar com a equipe. Informe tudo que já foi usado e a resposta observada.",
+          "Medicamento para dor ou febre, quando realmente necessário, deve ser apenas o previamente orientado para idade/peso e condições da criança. Esta ficha não calcula dose nem trata a causa da tosse."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha aleitamento materno e a alimentação habitual adequada à idade. Ofereça mamadas menores e mais frequentes se o nariz entupido atrapalhar. Em menores de 6 meses, não acrescente água, chá ou suco para tratar a tosse; se usa fórmula, mantenha o preparo habitual orientado, sem diluir. Crianças maiores podem receber líquidos em pequenas quantidades e com frequência.",
+          "Não force alimento durante crise de tosse, respiração rápida, sonolência ou náusea. Espere a criança recuperar respiração e alerta; se não consegue beber ou mamar com segurança, procure atendimento.",
+          "Observe hidratação por boca úmida, lágrimas, alerta e urina/fraldas. Boca seca, olhos fundos, sonolência, pouca urina ou recusa persistente são sinais para reavaliação rápida.",
+          "Não há dieta que ‘limpe os brônquios’. Leite não precisa ser retirado por causa de catarro, e restrições de glúten, corante ou outros alimentos sem diagnóstico podem prejudicar nutrição.",
+          "Evite energético, café, álcool, suplementos estimulantes e misturas caseiras. Não coloque medicamento em mamadeira ou copo cheio, pois a quantidade ingerida fica incerta.",
+          "Vômito isolado após tosse forte pode ocorrer, mas vômitos repetidos, incapacidade de manter líquidos, sangue, dor intensa, perda de peso ou sinais de desidratação exigem avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver lábios/rosto arroxeados ou acinzentados, pausa ou respiração irregular, confusão, desmaio, convulsão, dificuldade para despertar, ausência de resposta ou respiração anormal.",
+          "Procure emergência imediatamente se a criança não consegue falar, chorar, mamar ou beber por falta de ar; apresenta retrações intensas, gemência, batimento de asas nasais, exaustão, pouca entrada de ar ou piora rápida.",
+          "Febre com prostração importante, respiração rápida persistente, dor no peito, palidez/manchas, rigidez, pouca urina ou piora após uma melhora inicial exige avaliação para pneumonia, sepse ou outra complicação; não presuma ‘só bronquite’.",
+          "Tosse que começou de repente durante alimentação/brincadeira, engasgo, estridor, voz alterada ou ruído de um lado exige emergência por possível corpo estranho; não ofereça alimento/líquido para empurrar e não faça varredura cega.",
+          "Sangue ao tossir, dor torácica forte, desidratação, vômitos repetidos, apneia ou chiado/falta de ar que não responde ao plano já prescrito requer atendimento imediato.",
+          "Recém-nascido ou lactente pequeno com febre, apneia, gemência, retrações, mamada muito fraca, choro fraco, sonolência incomum ou menos fraldas deve ser avaliado com urgência, mesmo que a tosse pareça leve."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie no mesmo dia se há chiado novo, falta de ar, febre persistente/recorrente, piora em vez de melhora, criança muito pequena, doença crônica relevante ou preocupação do responsável. Sinais de alarme antecipam para emergência.",
+          "A tosse aguda pode levar algumas semanas para desaparecer; uma revisão sistemática encontrou resolução em 90% das crianças até cerca de 25 dias. Isso é uma referência populacional, não prazo para esperar diante de piora ou sinais focais.",
+          "Tosse diária por mais de quatro semanas precisa de avaliação pediátrica, com atenção especial se é úmida, interfere no sono/atividade, recorre frequentemente ou vem com febre, perda de peso, falha de crescimento, hemoptise ou pneumonia repetida.",
+          "Tosse/chiado noturno recorrente, com exercício, riso, ar frio ou entre infecções, atopia ou necessidade repetida de alívio exige investigação de asma; hiperreatividade pós-viral isolada não basta para confirmar o diagnóstico.",
+          "Tosse úmida persistente não deve ser chamada indefinidamente de pós-viral: bronquite bacteriana prolongada, bronquiectasia, aspiração, discinesia ciliar, fibrose cística e outras causas precisam ser consideradas conforme história e exame.",
+          "No retorno, peça registro do diagnóstico provável, duração esperada, sinais de alarme e plano individual. Leve a linha do tempo, lista de medicamentos/produtos usados, exposição a fumaça/vape, vídeos do ruído se seguros e histórico de engasgo ou episódios anteriores.",
+          "Procure avaliação no mesmo dia se houver acessos prolongados de tosse, vômitos repetidos após tossir, guincho ao puxar o ar ou contato com alguém com coqueluche. A doença pode ocorrer sem guincho, especialmente em bebês; pausas respiratórias ou cor arroxeada exigem emergência, sem esperar quatro semanas.",
+          "Entre 2 meses e 5 anos, se a tosse sem sinais de pneumonia não melhorar, retorne em até 5 dias após a avaliação; tosse por mais de 14 dias já precisa de investigação, conforme a orientação brasileira. Não espere quatro semanas nessas situações, nem diante de piora, chiado ou sinais de alarme."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente menor de 3 meses com tosse precisa de limiar baixo para avaliação no mesmo dia. Febre, apneia, gemência, retrações, mamada fraca, choro fraco, sonolência ou menos urina exigem urgência. Não use mel, xarope, descongestionante, antibiótico, broncodilatador ou corticoide automático; bronquiolite, coqueluche, aspiração, infecção e cardiopatia são diferenciais importantes. Para dormir, barriga para cima em superfície firme e plana. Não acrescentar água, chá ou suco para a tosse.",
+        "3a5m": "Nessa idade, tosse e chiado após virose podem ser bronquiolite, não ‘bronquite com asma’. Observe mamada, fraldas, pausas respiratórias e esforço. Avalie rapidamente se é primeiro episódio com chiado, há febre, recusa alimentar ou piora; não aplique plano inalatório de outra criança. Para dormir, barriga para cima em superfície firme e plana, sem inclinar o colchão. Não acrescentar água, chá ou suco para a tosse.",
+        "6a11m": "Bronquiolite ainda é diagnóstico frequente. Mantenha líquidos/leite em pequenas ofertas e vigie respiração, alimentação e urina. Nunca ofereça mel antes de 12 meses. Tosse súbita durante alimentação ou brincadeira exige considerar corpo estranho. Para dormir, barriga para cima em superfície firme e plana, sem travesseiros ou cabeceira elevada.",
+        "1a": "Entre 1 e 2 anos, virose, bronquiolite, aspiração e sibilância viral podem se sobrepor. Mel só é uma opção de conforto após 12 meses e não substitui avaliação. Chiado recorrente ou sintomas entre infecções requer investigação, sem confirmar asma por um episódio isolado.",
+        "2a5": "Pré-escolares têm muitas viroses e podem manter tosse por semanas. Observe tendência e atividade. Episódios repetidos de chiado/tosse noturna, limitação para brincar ou tosse úmida diária por mais de quatro semanas exigem revisão; xaropes e antibióticos não devem ser iniciados por conta própria.",
+        "6a11": "A criança escolar pode descrever falta de ar, aperto, dor e gatilhos. Tosse que reaparece com corrida, à noite ou entre resfriados merece investigação de asma, mas tosse pós-viral isolada pode ser autolimitada. Retorno à escola é possível quando está bem e sem restrição local, mesmo que reste tosse leve.",
+        "12a17": "Inclua o adolescente na avaliação de vape/cigarro, exercício, adesão, substâncias e impacto no sono/escola sem julgamento. Não atribua falta de ar apenas à ansiedade. Dor torácica, hemoptise, síncope, cianose, esforço ou queda do desempenho exigem avaliação; sintomas recorrentes pedem investigação de asma e outras causas.",
+        "unknown": "Sem idade confirmada, não selecione medicamento ou dose. Priorize capacidade de falar/mamar, esforço respiratório, cor, alerta, hidratação, duração e padrão da tosse. Encaminhe imediatamente com cianose, alteração de consciência, apneia, esforço intenso, possível corpo estranho ou criança muito doente."
+      },
+      "refs": [
+        {
+          "id": "pais20261105_op3100_1",
+          "name": "Clinical Practice Guideline: Cough",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/cough/"
+        },
+        {
+          "id": "pais20261105_op3100_2",
+          "name": "Kids Health Info: Cough",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/cough/"
+        },
+        {
+          "id": "pais20261105_op3100_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Asma",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/asma/@@download/file"
+        },
+        {
+          "id": "pais20261105_op3100_4",
+          "name": "Duration of symptoms of respiratory tract infections in children: systematic review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3898587/"
+        },
+        {
+          "id": "pais20261105_op3100_5",
+          "name": "Induced sputum: comparison of postinfectious cough with allergic asthma in children",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10719299/"
+        },
+        {
+          "id": "pais20261105_op3100_6",
+          "name": "Kids Health Info: Whooping cough",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Whooping_cough/"
+        },
+        {
+          "id": "pais20261105_op3100_7",
+          "name": "My baby has a stuffy nose. How can I help them sleep safely?",
+          "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/my-baby-has-a-stuffy-nose-how-can-i-help-them-sleep-safely.aspx"
+        },
+        {
+          "id": "pais20261105_op3100_8",
+          "name": "Breastfeeding — Questions and answers",
+          "url": "https://www.who.int/news-room/questions-and-answers/item/breastfeeding"
+        },
+        {
+          "id": "pais20261105_op3100_9",
+          "name": "Condições agudas — Tosse ou dificuldade para respirar em crianças de 2 meses a 5 anos",
+          "url": "https://linhasdecuidado.saude.gov.br/portal/puericultura/unidade-de-atencao-primaria/condicoes-agudas/index.php"
+        }
+      ],
+      "aliases": [
+        "Bronquite Aguda e Hiperreatividade Brônquica Pós-Viral — apresentação pediátrica aguda",
+        "Bronquite Aguda e Hiperreatividade Brônquica Pós-Viral — evolução complicada/refratária",
+        "Bronquite Aguda e Hiperreatividade Brônquica Pós-Viral — forma grave/crítica"
+      ],
+      "alwaysUrgent": false,
+      "resultPath": "references/orientacoes-validadas/parallel-results/REVIEW-20261105-OP-3100.json",
+      "resultHash": "b350b67387ebbfdd067138dbd9588a4980d372131385fb1b0413b7139c43d006"
+    }
+  ],
+  "adjustments": [
+    {
+      "job_id": "OP-3089",
+      "change": "Explicit infant feeding age restriction; no extra water/tea/juice below 6 months."
+    },
+    {
+      "job_id": "OP-3090",
+      "change": "Limit MS 1–2-day follow-up statement to severe asthma exacerbation; avoid extending to all causes or severities."
+    },
+    {
+      "job_id": "OP-3094",
+      "change": "Explicit infant feeding age restriction; no extra water/tea/juice below 6 months."
+    },
+    {
+      "job_id": "OP-3099",
+      "change": "Reconcile Brazilian 2mo–5y cough follow-up 5 days/no improvement and >14 days investigation, separate from >4-week chronic cough threshold.",
+      "source": "https://linhasdecuidado.saude.gov.br/portal/puericultura/unidade-de-atencao-primaria/condicoes-agudas/index.php",
+      "location": "Tosse ou dificuldade para respirar, NÃO É PNEUMONIA; lines54–60"
+    },
+    {
+      "job_id": "OP-3100",
+      "change": "Reconcile Brazilian 2mo–5y cough follow-up 5 days/no improvement and >14 days investigation, separate from >4-week chronic cough threshold.",
+      "source": "https://linhasdecuidado.saude.gov.br/portal/puericultura/unidade-de-atencao-primaria/condicoes-agudas/index.php",
+      "location": "Tosse ou dificuldade para respirar, NÃO É PNEUMONIA; lines54–60"
+    }
+  ]
+}

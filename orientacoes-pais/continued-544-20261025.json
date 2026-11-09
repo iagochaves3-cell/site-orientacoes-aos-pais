@@ -1,0 +1,79 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:43:43.399Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_ac7321164b2e404d",
+      "label": "Apendicite aguda — registro no PPS",
+      "entity": "Apendicite aguda",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Entidade cirúrgica reconhecida; nome não define gravidade, tratamento ou alta.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Apendicite aguda é inflamação do apêndice e exige avaliação urgente no hospital. Se há suspeita ou diagnóstico atual sem tratamento concluído, procure atendimento agora: esta ficha não autoriza observar em casa nem esperar pela dor do lado direito.",
+          "Os cuidados de recuperação abaixo valem somente depois de a equipe avaliar, tratar e autorizar a alta. A escolha entre cirurgia e outras estratégias depende do caso; não tente tratar com antibiótico que sobrou em casa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Durante a avaliação, deixe a criança na posição mais confortável e informe quando começou a dor, os vômitos, a febre, medicamentos usados e a última alimentação. Não force saltos nem aperte repetidamente a barriga para testar apendicite.",
+          "Após alta, siga as instruções de curativo, banho, escola e atividade física da equipe cirúrgica. Esses prazos variam com o procedimento e a recuperação; não retire pontos ou mexa em drenos por conta própria."
+        ],
+        "MEDICAMENTOS": [
+          "A equipe deve tratar a dor; analgesia adequada não impede o diagnóstico. Não atrase o atendimento para tentar controlar os sintomas em casa.",
+          "Depois da alta, use apenas os medicamentos da receita, conforme duração e horários definidos. Antibiótico não é obrigatório em todo pós-operatório e não deve ser iniciado, prolongado ou interrompido por conta própria. Avise a equipe se a criança vomita as doses ou não consegue tomá-las."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na suspeita de uma urgência cirúrgica, procure atendimento sem demora e peça orientação à equipe sobre alimentos, líquidos e jejum. Não prolongue jejum em casa aguardando melhora; bebês e crianças pequenas precisam atenção à hidratação.",
+          "No hospital, siga exatamente a orientação sobre quando pode comer e beber. Após alta, mantenha a alimentação liberada e observe se consegue beber e urinar. Vômitos persistentes ou barriga cada vez mais inchada não devem ser tratados apenas com mudança de dieta."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Suspeita de apendicite ou dor abdominal forte, progressiva, com dificuldade para se mover precisa avaliação imediata. Melhora breve da dor não garante resolução.",
+          "Após tratamento, volte com dor crescente, vômito verde, barriga muito inchada, vômitos repetidos ou incapacidade de beber. Febre com piora do estado geral também exige retorno imediato.",
+          "Com desmaio, confusão, dificuldade para respirar, pele muito pálida/manchada ou dificuldade para acordar, acione 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Antes de sair do hospital, confirme retorno, contato da equipe e cuidados específicos. Vermelhidão crescente, calor, secreção ou dor na ferida pedem contato no mesmo dia; se há febre, prostração ou piora importante, vá ao pronto atendimento.",
+          "Se recebeu alta após avaliação de dor abdominal sem diagnóstico confirmado e a dor persiste ou piora, volte para reavaliação. Um exame inicial sem conclusão não exclui evolução posterior.",
+          "Não libere esporte ou esforço pelo prazo de outra criança. Confirme com a equipe quando retomar as atividades, especialmente após perfuração ou outras complicações."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nesta idade é rara, mas recusa alimentar, prostração, distensão ou vômito verde exigem avaliação urgente de outras causas graves também. Não espere localização da dor.",
+        "3a5m": "O bebê não consegue apontar a dor. Alteração importante do comportamento, vômitos ou distensão precisam exame; não use este cadastro para concluir a causa.",
+        "6a11m": "Não espere a descrição clássica de dor. Prostração, recusa alimentar ou vômito verde são sinais para atendimento imediato.",
+        "1a": "Diarreia não exclui apendicite. Piora do estado geral com dor ou vômitos pede avaliação urgente.",
+        "2a5": "Crianças pequenas podem ter sintomas pouco típicos e evoluir com complicações. Não espere a dor mudar para o lado direito.",
+        "6a11": "Explique os cuidados de forma simples e observe dor ao movimentar, vômitos e febre. Suspeita atual exige atendimento hospitalar.",
+        "12a17": "Dor abdominal pode ter outras causas urgentes, inclusive genitais ou relacionadas à gravidez. Informe os sintomas à equipe com privacidade; o nome no cadastro não confirma a causa.",
+        "unknown": "Confirmar idade, início dos sintomas e se é episódio atual ou recuperação após alta. Suspeita atual requer avaliação urgente."
+      },
+      "refs": [
+        {
+          "id": "pais175_op544_1",
+          "name": "Appendicitis",
+          "url": "https://www.nhs.uk/conditions/appendicitis/"
+        },
+        {
+          "id": "pais175_op544_2",
+          "name": "Appendicitis in children – information for parents and carers",
+          "url": "https://www.cuh.nhs.uk/patient-information/appendicitis-in-children-information-for-parents-and-carers/"
+        },
+        {
+          "id": "pais175_op544_3",
+          "name": "Abdominal pain - acute",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain_-_acute/"
+        },
+        {
+          "id": "pais175_op544_4",
+          "name": "Appendicitis",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Appendicitis/"
+        },
+        {
+          "id": "pais175_op544_5",
+          "name": "Appendicitis and removal of the appendix",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/general-medical-conditions/appendicitis-and-removal-appendix/"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

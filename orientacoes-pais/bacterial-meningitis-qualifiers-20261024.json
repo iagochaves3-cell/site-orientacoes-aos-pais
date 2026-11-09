@@ -1,0 +1,11 @@
+{
+  "schema":"parents-directed-batch/1","checked_at":"2026-10-25T00:52:00.000Z","baseline_version":113,"baseline_commit":"41d254495c70ed430b7eb4c09f0f6f293db4b97c","records":[
+    {"key":"pdf1500_969","label":"Meningite bacteriana induzido por medicamentos","specific":false,"clinical_entity":"Suspeita de meningite após medicamento; diferenciar meningite asséptica de infecção","term_resolution":true},
+    {"key":"pdf1500_970","label":"Meningite bacteriana leve","specific":false,"clinical_entity":"Meningite bacteriana; intensidade descrita como leve","term_resolution":true},
+    {"key":"pdf1500_971","label":"Meningite bacteriana moderado","specific":false,"clinical_entity":"Meningite bacteriana; intensidade descrita como moderada","term_resolution":true},
+    {"key":"pdf1500_972","label":"Meningite bacteriana não especificado","specific":false,"clinical_entity":"Meningite bacteriana com agente ainda não especificado","term_resolution":true},
+    {"key":"pdf1500_973","label":"Meningite bacteriana recorrente","specific":true,"clinical_entity":"Meningite bacteriana recorrente pediátrica","term_resolution":false},
+    {"key":"pdf1500_974","label":"Meningite bacteriana refratário","specific":false,"clinical_entity":"Meningite bacteriana com ausência de resposta ou piora","term_resolution":true},
+    {"key":"pdf1500_975","label":"Meningite bacteriana unilateral","specific":false,"clinical_entity":"Meningite bacteriana; unilateralidade inaplicável","term_resolution":true}
+  ]
+}

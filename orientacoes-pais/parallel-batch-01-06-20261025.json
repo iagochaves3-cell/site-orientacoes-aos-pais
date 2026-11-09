@@ -1,0 +1,57 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-25T05:40:00.000Z",
+  "baseline_version": 119,
+  "baseline_commit": "ced92bb2e2b61bc82ccab1dcb0055a61c408353e",
+  "records": [
+    {
+      "key": "pdf1500_1010",
+      "label": "Otite média aguda",
+      "specific": true,
+      "clinical_entity": "Otite média aguda pediátrica não complicada, definida por início agudo e sinais otoscópicos de inflamação e efusão da orelha média",
+      "term_resolution": false,
+      "result_path": "references/orientacoes-validadas/parallel-results/OP-01-pdf1500_1010.json"
+    },
+    {
+      "key": "pdf1500_1011",
+      "label": "Pan-hipopituitarismo",
+      "specific": true,
+      "clinical_entity": "Deficiência combinada de múltiplos hormônios hipofisários (pan-hipopituitarismo) na infância e adolescência",
+      "term_resolution": false,
+      "result_path": "references/orientacoes-validadas/parallel-results/OP-02-pdf1500_1011.json"
+    },
+    {
+      "key": "pdf1500_1025",
+      "label": "Panarício herpético",
+      "specific": true,
+      "clinical_entity": "Panarício herpético (infecção do dedo pelo vírus herpes simples, HSV-1 ou HSV-2)",
+      "term_resolution": false,
+      "result_path": "references/orientacoes-validadas/parallel-results/OP-03-pdf1500_1025.json"
+    },
+    {
+      "key": "pdf1500_1026",
+      "label": "Paracoccidioidomicose forma juvenil",
+      "specific": true,
+      "clinical_entity": "Paracoccidioidomicose aguda/subaguda (forma juvenil), micose sistêmica por Paracoccidioides spp.",
+      "term_resolution": false,
+      "result_path": "references/orientacoes-validadas/parallel-results/OP-04-pdf1500_1026.json"
+    },
+    {
+      "key": "pdf1500_1027",
+      "label": "Paralisia cerebral discinética",
+      "specific": true,
+      "clinical_entity": "Paralisia cerebral discinética, incluindo apresentações predominantemente distônicas ou coreoatetósicas, com movimentos involuntários recorrentes e variação do tônus muscular",
+      "term_resolution": false,
+      "result_path": "references/orientacoes-validadas/parallel-results/OP-05-pdf1500_1027.json"
+    },
+    {
+      "key": "pdf1500_1041",
+      "label": "Paralisia cerebral espástica diplégica",
+      "specific": true,
+      "clinical_entity": "Paralisia cerebral espástica bilateral com predomínio nos membros inferiores (tradicionalmente denominada diplegia espástica)",
+      "term_resolution": false,
+      "result_path": "references/orientacoes-validadas/parallel-results/OP-06-pdf1500_1041.json"
+    }
+  ]
+}
+

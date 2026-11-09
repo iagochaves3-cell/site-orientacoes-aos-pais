@@ -1,0 +1,677 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T09:29:43.491Z",
+  "records": [
+    {
+      "jobId": "OP-2231",
+      "specific": false,
+      "key": "pps_102",
+      "label": "Conjuntivite Viral e Alérgica Pediátrica",
+      "entity": "Entrada canônica multietiológica que reúne duas entidades pediátricas válidas e diferentes — conjuntivite viral e conjuntivite alérgica — e exige resolução terminológica em dois ramos clínicos independentes, sem inferir transmissão, evolução ou tratamento de um ramo para o outro",
+      "assessment": "{\"classification\":\"COMPOSITE_CATALOG_LABEL_TWO_VALID_ENTITIES_REQUIRING_ETIOLOGIC_PARTITION\",\"normalized_entities\":[{\"name\":\"Conjuntivite viral pediátrica\",\"nature\":\"Inflamação infecciosa da conjuntiva por vírus, frequentemente adenovírus; pode transmitir-se por secreções, mãos, objetos e contato próximo e pode acompanhar sintomas respiratórios ou gastrointestinais.\"},{\"name\":\"Conjuntivite alérgica pediátrica\",\"nature\":\"Inflamação não infecciosa da conjuntiva desencadeada por alérgenos; costuma ter coceira como sintoma predominante, frequentemente bilateral, e não é contagiosa.\"}],\"assessment\":\"O rótulo preservado não nomeia uma entidade clínica única: reúne causas com mecanismo, transmissão, evolução, prevenção e tratamento diferentes. Vermelhidão e lacrimejamento se sobrepõem, portanto a família não deve escolher o ramo apenas pela aparência. Coceira intensa bilateral, recorrência e relação com alérgeno favorecem alergia; secreção aquosa, início em um olho com passagem ao outro e sintomas de virose favorecem causa viral, mas nenhuma dessas pistas confirma sozinha. Se houver secreção purulenta, dor verdadeira, fotofobia importante, alteração visual, mancha/opacidade corneana, trauma, produto químico, vesículas perioculares, lente de contato, sinais orbitários, imunossupressão ou período neonatal, a ficha deixa de sustentar manejo domiciliar presumido.\",\"content_resolution\":{\"catalog_decision\":\"Preservar key e label para seleção, mas apresentar sempre os ramos VIRAL e ALÉRGICO de forma explícita. Não converter o conjunto em doença única e não duplicar as duas entidades já rastreadas por aliases próprios.\",\"viral_branch\":\"Contagioso em muitos casos; higiene de mãos e objetos, controle de secreções e cautela em surtos são centrais. A maioria dos quadros não herpéticos simples é autolimitada; antibiótico não trata vírus.\",\"allergic_branch\":\"Não contagioso; redução do alérgeno conhecido, não esfregar e medidas frias de conforto são centrais. Antibiótico não trata alergia. Formas vernal/atópica com córnea não são crise alérgica simples.\",\"counting_effect\":\"NÃO CONTAR COMO UMA ENTIDADE CLÍNICA ESPECÍFICA ÚNICA. Manter uma entrada de catálogo com dois ramos específicos preexistentes e sem contagem adicional por alias.\"},\"pediatric_scope\":\"Abrange crianças e adolescentes apenas quando o quadro foi avaliado ou é compatível com conjuntivite simples e não há sinal de ameaça visual. Todo recém-nascido no primeiro mês de vida com olho vermelho, secreção ou edema palpebral precisa de avaliação imediata, sem presumir causa viral ou alérgica. Crianças que não verbalizam dor ou baixa visual exigem observação de aversão à luz, recusa de abrir o olho, mudança na fixação/seguimento e comportamento. Usuários de lentes de contato, imunossuprimidos e pessoas com cirurgia/doença ocular recente têm limiar menor para avaliação.\",\"critical_context_to_confirm\":[\"Idade exata, inclusive se está no primeiro mês de vida, prematuridade e condições perinatais\",\"Início, duração, recorrência, sazonalidade, um ou ambos os olhos e passagem de um olho ao outro\",\"Predomínio de coceira, lacrimejamento, ardor, sensação de areia, edema e tipo/quantidade de secreção\",\"Dor ocular, fotofobia, visão borrada após limpar ou piscar, perda visual, mancha branca/opacidade ou dificuldade de abrir o olho\",\"Febre, prostração, dor de garganta, tosse, coriza, sintomas digestivos, exantema, rinite, asma ou eczema\",\"Contato com conjuntivite ou surto e exposições plausíveis a pólen, poeira/ácaros, mofo, animais, fumaça, cosméticos ou produtos\",\"Uso atual ou recente de lente de contato, sono/natação com lente, higiene, solução e estojo\",\"Trauma, possível corpo estranho, produto químico, cirurgia ocular recente, doença da córnea ou imunossupressão\",\"Vesículas/erupção em pálpebra, testa ou nariz, herpes labial, varicela ou herpes-zóster\",\"Edema palpebral quente/doloroso, dor ou limitação ao mover o olho, visão dupla, proptose, cefaleia forte ou vômitos\",\"Colírios ou medicamentos já usados, origem do frasco, compartilhamento, resposta e reações\"],\"not_automatically_equivalent_to\":[\"Uma única doença chamada conjuntivite viral-alérgica\",\"Conjuntivite bacteriana ou indicação automática de antibiótico\",\"Ceratoconjuntivite epidêmica em todo quadro viral\",\"Ceratoconjuntivite vernal ou atópica como alergia leve\",\"Ceratite por herpes simples, varicela-zóster ou lente de contato\",\"Conjuntivite neonatal de etiologia presumida\",\"Corpo estranho, abrasão, queimadura química, uveíte ou trauma ocular\",\"Celulite periorbitária ou orbitária\",\"Alergia alimentar ou necessidade automática de dieta de exclusão\",\"Afastamento escolar por prazo fixo ou liberação baseada em antibiótico\",\"Prescrição automática de antibiótico, antiviral, antialérgico, vasoconstritor, anestésico, corticosteroide ou qualquer dose\"],\"counting_rule\":\"Manter pps_102 e seus aliases para rastreabilidade e busca, mas classificar a chave como resolução terminológica. O conteúdo pode orientar os dois ramos quando eles estiverem claramente identificados; não somar o rótulo composto como terceira entidade nem transportar transmissão, escola, evolução ou medicamentos de uma etiologia para a outra.\",\"inferences\":[\"A decisão de não tratar o rótulo como entidade única é inferência nosológica sustentada por CDC, AAPOS, RCH e literatura de revisão, que diferenciam explicitamente causas infecciosas e alérgicas.\",\"A ausência de afastamento universal na escola não significa ausência de transmissão viral: bem-estar, capacidade de higiene/evitar contato, surto e regra local continuam relevantes.\",\"Dor, fotofobia, baixa visual, alteração da córnea, lente de contato e sinais orbitários anulam a presunção de conjuntivite simples porque podem indicar doença ameaçadora à visão.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Esta ficha reúne duas causas diferentes. No ramo VIRAL, costumam predominar lacrimejamento, ardor ou sensação de areia, secreção aquosa e possível resfriado; pode começar em um olho e passar ao outro. No ramo ALÉRGICO, a coceira costuma ser o principal sintoma, geralmente nos dois olhos, com lágrimas claras e possível rinite. Essas pistas não substituem avaliação quando o quadro é atípico.",
+          "No ramo VIRAL simples, muitos casos melhoram em 1 a 2 semanas, mas alguns levam 3 semanas ou mais. No ramo ALÉRGICO, a duração depende da exposição e pode haver recorrência; não existe um único prazo de cura. Em ambos, piora, dor, fotofobia ou visão alterada não é evolução segura para esperar em casa.",
+          "Com mãos limpas, remova delicadamente apenas a secreção ao redor das pálpebras com material limpo e úmido, usando uma parte nova a cada passada e material separado para cada olho. Não introduza pano, gaze ou cotonete sob a pálpebra.",
+          "Compressa fria e limpa sobre as pálpebras fechadas pode aliviar coceira, ardor e inchaço nos dois ramos. Não pressione o globo ocular, não compartilhe a compressa e interrompa se aumentar a dor.",
+          "Evite esfregar os olhos. Na alergia isso aumenta inflamação e trauma por coçar; na forma viral também espalha secreção para o outro olho, pessoas e superfícies. Mantenha unhas curtas e supervisione crianças pequenas.",
+          "Observe separadamente coceira, secreção, vermelhidão, edema, conforto para abrir os olhos e visão. Em criança pequena, recusa de olhar para a luz, manter um olho fechado, piora da fixação, tropeços ou dificuldade nova para alcançar objetos pode representar dor ou alteração visual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se o ramo for VIRAL ou ainda houver dúvida, lave as mãos com água e sabão por pelo menos 20 segundos antes e depois de tocar no rosto ou limpar secreção. Não compartilhe toalhas, fronhas, travesseiros, maquiagem, óculos, colírios, lentes ou estojos; lave itens usados e limpe superfícies tocadas com frequência.",
+          "A conjuntivite ALÉRGICA confirmada não é contagiosa. Reduza apenas exposições plausíveis e já reconhecidas, como pólen, poeira/ácaros, mofo, fumaça ou animal que desencadeia sintomas; não retire alimento, animal ou item importante da casa apenas por suposição.",
+          "No ramo alérgico, lavar o rosto e o cabelo após exposição externa, trocar a roupa e evitar fumaça/aerossóis pode ajudar. Óculos podem reduzir contato com alérgenos e dar conforto, mas não tratam comprometimento da córnea.",
+          "Não use chá, camomila, água boricada, leite materno, saliva, ervas, sabonete, desinfetante ou solução caseira no olho. Não tampe o olho e não tente retirar objeto encravado.",
+          "Suspenda lentes de contato ao primeiro sinal de olho vermelho, secreção, dor ou visão borrada. Não recoloque até desaparecerem os sintomas e haver liberação profissional; lentes descartáveis e estojo usados em infecção podem precisar ser descartados, e materiais reutilizáveis seguem higienização ou substituição orientada.",
+          "Escola ou creche: alergia confirmada não exige afastamento por contágio. Na forma viral, não há prazo fixo universal nem exigência automática de antibiótico; a criança deve estar clinicamente bem e capaz de cumprir higiene/evitar contato próximo, seguindo avaliação, regra local e orientação da vigilância durante surtos."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, concentração, intervalo, duração ou dose. Use apenas o produto e o esquema indicados para esta criança e este episódio, depois de distinguir causa viral, alérgica e outras doenças do olho vermelho.",
+          "Antibiótico não trata vírus nem alergia e não deve ser iniciado para acelerar retorno à escola. Se aparecer secreção purulenta, pálpebras muito grudadas, febre ou piora, reavalie a causa em vez de usar sobra de colírio.",
+          "Lágrima artificial/lubrificante pode aliviar alguns quadros, e antialérgicos podem ser indicados no ramo alérgico, mas o produto deve ser confirmado para idade, diagnóstico, lentes, outras doenças e outros colírios. Boa resposta anterior não transforma o produto em receita permanente.",
+          "Não use colírio com corticosteroide, anestésico ou vasoconstritor para ‘tirar o vermelho’ por conta própria. Corticosteroide ocular pode mascarar ou agravar infecção, elevar a pressão ocular e causar catarata ou lesão da córnea; quando necessário, exige avaliação e acompanhamento oftalmológico.",
+          "Não inicie antiviral por conta própria. Vesículas perto do olho, quadro unilateral doloroso, fotofobia ou alteração visual pode indicar herpes simples ou varicela-zóster e exige avaliação no mesmo dia ou urgente conforme a gravidade.",
+          "Lave as mãos antes e depois de um produto prescrito e não toque a ponta do frasco no olho, cílios, pele ou mãos. Não compartilhe frasco nem use o mesmo frasco em olho infectado e olho não afetado; dor forte, piora súbita, visão alterada ou reação geral após aplicação exige interromper e buscar orientação urgente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Conjuntivite viral ou alérgica simples não exige dieta especial. Mantenha alimentação e líquidos habituais adequados à idade, sem forçar; continue leite materno ou fórmula habitual nos lactentes.",
+          "Antes dos 6 meses, não substitua leite materno ou fórmula por água, chá ou suco por causa do olho vermelho. Depois dos 6 meses, mantenha água e alimentos já introduzidos conforme a rotina da criança.",
+          "Não retire leite, ovo, trigo ou outro alimento apenas por conjuntivite alérgica. Se houver relação imediata e repetida com alimento, medicamento ou picada, registre a exposição e procure avaliação; não faça teste de provocação em casa.",
+          "Não pingue leite materno, alimento, chá, mel, erva, suplemento ou soro caseiro no olho. Esses produtos não tratam vírus nem alergia e podem irritar, contaminar ou atrasar o diagnóstico correto.",
+          "Virose associada pode causar febre, dor de garganta, sintomas respiratórios, vômitos ou diarreia. Incapacidade de beber, pouca urina, vômitos repetidos, prostração ou dificuldade para acordar exige avaliação e não deve ser atribuída apenas à conjuntivite.",
+          "Inchaço ocular isolado pode ocorrer na alergia, mas falta de ar, chiado, voz alterada, inchaço de língua/lábios, desmaio ou urticária disseminada após exposição pode ser anafilaxia: siga o plano de emergência previamente prescrito, se houver, e acione o SAMU 192."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor ocular moderada ou forte, piora rápida, sensibilidade importante à luz, visão embaçada que não melhora após limpar/piscar, visão reduzida, visão dupla ou dificuldade para manter o olho aberto exige avaliação oftalmológica urgente; não trate como conjuntivite simples.",
+          "Mancha branca, opacidade, ferida aparente na córnea, pupila com formato/tamanho diferente ou vermelhidão muito intensa ao redor da íris pode indicar doença que ameaça a visão e precisa de atendimento imediato.",
+          "Usuário de lente de contato com olho vermelho e dor, fotofobia, secreção, sensação de corpo estranho ou visão alterada deve retirar a lente e procurar avaliação urgente por risco de ceratite; não recoloque a lente para testar melhora.",
+          "Febre ou prostração com pálpebra unilateral muito vermelha, quente, dolorosa ou inchada; dor/limitação para mover o olho; proptose; cefaleia forte; vômitos; ou alteração visual pode indicar celulite orbitária: vá à emergência agora.",
+          "Todo recém-nascido no primeiro mês de vida com olho vermelho, secreção ou pálpebra inchada precisa de avaliação imediata, mesmo sem febre e mesmo com pré-natal materno normal. Não presuma alergia ou virose e não espere cuidado caseiro funcionar.",
+          "Trauma, possível objeto preso/penetrante, golpe em alta velocidade, queimadura ou produto químico no olho exige atendimento imediato. Em exposição química, inicie irrigação abundante com água corrente limpa; não esfregue, comprima, neutralize com outra substância nem retire objeto encravado.",
+          "Vesículas ou erupção dolorosa em pálpebra, testa ou nariz, especialmente de um lado, ou varicela com dor ocular, fotofobia ou visão alterada exige avaliação no mesmo dia, imediatamente se houver alteração visual ou grande dor.",
+          "Falta de ar, chiado intenso, voz alterada, inchaço de língua/lábios, desmaio, convulsão, confusão ou criança muito mole/difícil de acordar: acione o SAMU 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não estiver claro se o ramo é viral ou alérgico, procure avaliação, especialmente quando faltar coceira, houver secreção espessa, início fortemente unilateral, febre, sintomas sistêmicos, lente de contato, imunossupressão ou doença ocular prévia.",
+          "No ramo VIRAL simples, deve haver melhora progressiva; reavalie se houver piora a qualquer momento, ausência de tendência de melhora em poucos dias ou sintomas relevantes além de 2 a 3 semanas. Dor, fotofobia e alteração visual não aguardam esse prazo.",
+          "No ramo ALÉRGICO leve já reconhecido, reavalie em poucos dias se redução do gatilho e plano orientado não produzirem melhora clara. Persistência, recorrência frequente, impacto no sono/escola ou necessidade repetida de colírio exige revisão do diagnóstico e do controle.",
+          "Coceira muito intensa, secreção mucosa em fios, fotofobia, pálpebra caída, grandes elevações sob a pálpebra ou alteração da córnea pode indicar ceratoconjuntivite vernal/atópica e precisa de oftalmologia; não aumente corticosteroide por conta própria.",
+          "Recém-nascido não aguarda retorno programado. Usuário de lente, imunossuprimido, criança com cirurgia/doença ocular, suspeita de herpes, trauma ou comprometimento corneano segue o prazo mais curto indicado pela equipe, mesmo após melhora parcial.",
+          "Para volta à escola/creche, não use número de doses, antibiótico ou desaparecimento total da vermelhidão como regra universal. Confirme bem-estar, capacidade de higiene e contato seguro, orientação clínica/local e medidas adicionais se houver surto; alergia confirmada não transmite."
+        ]
+      },
+      "ageMap": {
+        "u3m": "No primeiro mês de vida, qualquer olho vermelho, secreção ou edema palpebral exige avaliação imediata: causas infecciosas, irritativas e obstrução lacrimal podem parecer iguais, e história materna negativa não exclui infecção. Entre 1 e 2 meses, febre ou suspeita de febre, temperatura baixa, mamada pior, sonolência, vesículas, pálpebra dolorosa ou dificuldade de abrir o olho exige atendimento imediato; não aplicar colírio ou leite materno por conta própria.",
+        "3a5m": "O bebê não descreve dor, fotofobia nem baixa visual. Observe recusa de abrir o olho, aversão à luz, choro ao tocar ao redor, mudança da fixação/seguimento, mamadas e fraldas. Mantenha limiar baixo para avaliação, sobretudo no primeiro episódio ou se houver febre, prostração, vesículas ou edema doloroso.",
+        "6a11m": "O adulto realiza a limpeza externa e impede que o bebê esfregue o olho com mãos ou brinquedos. Lave objetos levados ao rosto. Irritabilidade persistente, menos interação visual, medo da luz, olho fechado ou grande inchaço exige avaliação; lacrimejamento não deve ser atribuído automaticamente à dentição ou alergia.",
+        "1a": "A criança pode não localizar dor nem perceber perda visual. Compare como olha, alcança objetos, caminha e brinca em luz habitual. Início súbito unilateral durante brincadeira sugere investigar corpo estranho/trauma. Na creche, alergia confirmada não exige afastamento por contágio; suspeita viral requer higiene e regra local.",
+        "2a5": "Pergunte de modo simples se coça, dói, incomoda a luz ou muda a visão; observe se mantém um olho fechado. Ajude a lavar as mãos, não compartilhar toalhas e evitar coçar. Febre com pálpebra unilateral dolorosa ou alteração do movimento do olho é emergência, não alergia simples.",
+        "6a11": "Explique a diferença: vírus pode passar por mãos, secreções e objetos; alergia não passa para colegas. Pergunte diretamente sobre dor, luz e visão. Organize toalha/fronha individual no ramo viral e registre exposições no alérgico. Escola depende de bem-estar, higiene, avaliação e regra local, especialmente em surto.",
+        "12a17": "Pergunte sem julgamento sobre lentes de contato, dormir ou nadar com lentes, maquiagem compartilhada, piscina, trauma, produtos e colírios. Retire lentes imediatamente e procure avaliação urgente se houver dor, fotofobia, secreção ou visão alterada. Não reutilize lentes/estojo possivelmente contaminados nem use corticosteroide, anestésico ou vasoconstritor por conta própria.",
+        "unknown": "Antes de usar a ficha, confirme idade, capacidade de relatar dor/visão, lateralidade, coceira, secreção, sintomas sistêmicos, contato/surto, gatilho alérgico, lentes, trauma/químico, vesículas, imunidade e sinais orbitários. Sem idade e sem ramo etiológico confiável, não liberar automaticamente cuidado domiciliar, medicamento, escola ou retorno; qualquer alarme prevalece."
+      },
+      "refs": [
+        {
+          "id": "pais239_op2231_1",
+          "name": "Clinical Overview of Pink Eye (Conjunctivitis)",
+          "url": "https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/"
+        },
+        {
+          "id": "pais239_op2231_2",
+          "name": "How to Treat Pink Eye",
+          "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+        },
+        {
+          "id": "pais239_op2231_3",
+          "name": "How to Prevent Pink Eye",
+          "url": "https://www.cdc.gov/conjunctivitis/prevention/index.html"
+        },
+        {
+          "id": "pais239_op2231_4",
+          "name": "Pink Eye in Newborns",
+          "url": "https://www.cdc.gov/conjunctivitis/newborns/index.html"
+        },
+        {
+          "id": "pais239_op2231_5",
+          "name": "Allergic Conjunctivitis",
+          "url": "https://aapos.org/glossary/allergic-conjunctivitis"
+        },
+        {
+          "id": "pais239_op2231_6",
+          "name": "Clinical Practice Guidelines: Acute red eye",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/acute_red_eye/"
+        },
+        {
+          "id": "pais239_op2231_7",
+          "name": "Clinical Practice Guidelines: Periorbital and orbital cellulitis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/"
+        },
+        {
+          "id": "pais239_op2231_8",
+          "name": "Public health exclusion periods in children and young people's settings",
+          "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/public-health-exclusion-periods-in-children-and-young-peoples-settings"
+        },
+        {
+          "id": "pais239_op2231_9",
+          "name": "Brazilian guidelines for the monitoring and treatment of pediatric allergic conjunctivitis",
+          "url": "https://www.scielo.br/j/abo/a/jHhLFVxpMYHFH8D8QyTJzJD/?format=html&lang=en"
+        },
+        {
+          "id": "pais239_op2231_10",
+          "name": "A Systematic Review of Clinical Practice Guidelines for Infectious and Non-infectious Conjunctivitis",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34459321/"
+        },
+        {
+          "id": "pais239_op2231_11",
+          "name": "An Update on Viral Conjunctivitis Treatment Strategies: A Narrative Literature Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12388293/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2232",
+      "specific": false,
+      "key": "pps_catalog_2793e44049d7877d",
+      "label": "Conjuntivite Viral e Alérgica Pediátrica — registro no PPS",
+      "entity": "Conjuntivite viral e conjuntivite alérgica pediátricas como dois ramos etiológicos distintos sob a entrada canônica pps_102 — Conjuntivite Viral e Alérgica Pediátrica; este registro nominal é duplicata cadastral exata, não uma terceira entidade nem autorização para fundir transmissão, escola ou tratamento",
+      "assessment": "{\"classification\":\"EXACT_NOMINAL_DUPLICATE_OF_CANONICAL_MIXED_ENTRY_WITH_MANDATORY_ETIOLOGY_PARTITION\",\"normalized_entity\":\"Conjuntivite viral pediátrica OU conjuntivite alérgica pediátrica, conforme etiologia confirmada ou fortemente sustentada\",\"canonical_record\":{\"key\":\"pps_102\",\"label\":\"Conjuntivite Viral e Alérgica Pediátrica\",\"relationship\":\"EXACT_DUPLICATE_LABEL_WITH_CATALOG_SUFFIX\",\"baseline_state\":\"PENDING na baseline v238; o trabalho OP-2231 sobre pps_102 é independente e não é presumido como concluído neste artefato\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\"},\"branch_partition\":{\"viral\":{\"definition\":\"Inflamação infecciosa da conjuntiva por vírus; adenovírus é causa comum. Pode começar em um olho, alcançar o outro, acompanhar sintomas respiratórios e transmitir-se por mãos, objetos, lágrimas/secreção ocular e secreções respiratórias.\",\"typical_but_not_diagnostic\":[\"Lacrimejamento ou secreção aquosa\",\"Ardor ou sensação de areia\",\"Início unilateral com progressão para o outro olho\",\"Coriza, tosse, febre ou dor de garganta\",\"Contato com caso ou surto\"],\"transmission\":\"Contagiosa; exige higiene de mãos e objetos e avaliação contextual de escola/creche e surtos.\",\"medication_boundary\":\"Antibiótico não trata vírus. Herpes simples e varicela-zóster são exceções de maior risco que podem exigir antiviral prescrito após avaliação; não autorizar antiviral, corticoide ou dose automaticamente.\"},\"allergic\":{\"definition\":\"Inflamação não infecciosa da conjuntiva por exposição a alérgeno; costuma ocorrer em ambos os olhos, com coceira como sintoma central, lacrimejamento e edema, frequentemente junto de rinite, asma ou eczema.\",\"typical_but_not_diagnostic\":[\"Coceira ocular importante\",\"Acometimento bilateral\",\"Lacrimejamento claro e edema palpebral\",\"Recorrência sazonal ou após exposição plausível\",\"Rinite, asma ou eczema associados\"],\"transmission\":\"Não é infecção e não é contagiosa; não justifica higiene/afastamento como doença transmissível quando o diagnóstico alérgico está confirmado.\",\"medication_boundary\":\"Antialérgicos e lágrimas artificiais dependem de produto e idade apropriados. Corticosteroide ocular exige prescrição e monitorização oftalmológica; não gerar escolha ou dose automaticamente.\"},\"uncertain\":\"Os sinais se sobrepõem. Vermelhidão, lacrimejamento, edema ou tipo de secreção isolados não confirmam etiologia. Ausência de coceira, secreção purulenta, início muito unilateral, dor, fotofobia, visão pior, córnea alterada, trauma, produto químico, lente de contato, febre/prostração, vesículas ou neonato exigem reavaliar o diagnóstico.\"},\"qualifier_resolution\":[{\"source_label\":\"Conjuntivite Viral e Alérgica Pediátrica — apresentação pediátrica aguda\",\"resolution\":\"Apresentação temporal das entidades-base, sem nova contagem. Antes do cuidado domiciliar, identificar o ramo e excluir córnea/visão, herpes, lente, trauma/químico, celulite e neonato.\"},{\"source_label\":\"Conjuntivite Viral e Alérgica Pediátrica — evolução complicada/refratária\",\"resolution\":\"Qualificador não padronizado, sem entidade adicional. Persistência ou piora exige revisar diagnóstico, adesão e exposição e considerar ceratoconjuntivite adenoviral, ceratoconjuntivite vernal/atópica, herpes, ceratite por lente, bactéria, uveíte, corpo estranho ou doença orbitária.\"},{\"source_label\":\"Conjuntivite Viral e Alérgica Pediátrica — forma grave/crítica\",\"resolution\":\"Rótulo incompatível com alta domiciliar automática. Dor importante, fotofobia, baixa visual, opacidade corneana, proptose, motilidade ocular alterada, neonato sintomático ou comprometimento sistêmico acionam avaliação urgente de complicação ou diagnóstico alternativo.\"}],\"related_records_without_double_counting\":[{\"key\":\"pps_catalog_60235d0a7be131e1\",\"label\":\"Conjuntivite viral — registro no PPS\",\"relationship\":\"Alias pesquisável apenas do ramo viral de pps_102; zero entidade adicional\"},{\"key\":\"pps_catalog_618f287f8378787b\",\"label\":\"Conjuntivite alérgica — registro no PPS\",\"relationship\":\"Alias pesquisável apenas do ramo alérgico de pps_102; zero entidade adicional\"},{\"key\":\"pps_catalog_bf5d4c5192f15bac\",\"label\":\"Conjuntivite alérgica sazonal — registro no PPS\",\"relationship\":\"Fenótipo temporal alérgico específico já cadastrado; não absorver nem contar novamente por este registro\"},{\"key\":\"pps_catalog_1f75e603b2124c89\",\"label\":\"Ceratoconjuntivite vernal\",\"relationship\":\"Forma alérgica ocular grave com risco corneano e seguimento próprio; não reduzir a alergia simples nem duplicar aqui\"},{\"key\":\"pps_101\",\"label\":\"Conjuntivite Bacteriana Aguda Pediátrica\",\"relationship\":\"Ramo infeccioso bacteriano distinto; não inferir por secreção isolada nem importar antibiótico\"}],\"not_automatically_equivalent_to\":[\"Conjuntivite bacteriana ou indicação de antibiótico\",\"Ceratoconjuntivite epidêmica em todo quadro viral\",\"Ceratoconjuntivite vernal ou atópica em toda alergia ocular\",\"Ceratite por herpes simples, varicela-zóster ou lente de contato\",\"Uveíte, abrasão, corpo estranho, trauma ou queimadura química\",\"Celulite periorbitária ou orbitária\",\"Conjuntivite neonatal de etiologia viral ou alérgica presumida\",\"Alergia alimentar ou indicação de dieta de exclusão\",\"Afastamento escolar por prazo fixo universal\",\"Autorização para antibiótico, antiviral, antialérgico, vasoconstritor, anestésico, corticosteroide ou qualquer dose\"],\"critical_context_to_confirm\":[\"Idade exata, inclusive menos de 28 dias, prematuridade e contexto perinatal\",\"Início, duração, recorrência, sazonalidade, um ou ambos os olhos e trajetória\",\"Coceira, ardor, sensação de areia, tipo de secreção e sintomas de rinite/asma/eczema\",\"Dor, fotofobia, visão borrada persistente, perda visual, halos, dificuldade de abrir o olho ou mancha/opacidade corneana\",\"Lente de contato, sono/banho/natação com lente, higiene, estojo e solução\",\"Trauma, corpo estranho, produto químico, cirurgia ocular ou doença corneana prévia\",\"Vesículas/erupção unilateral na pálpebra, testa ou nariz; herpes labial, varicela ou zóster\",\"Febre, prostração, sintomas respiratórios, dor de garganta, exantema, vômitos/diarreia e imunossupressão\",\"Edema palpebral quente/doloroso, motilidade ocular dolorosa/limitada, diplopia, proptose ou cefaleia intensa\",\"Contato domiciliar/escolar, surto, capacidade de higiene, regra local e medicamentos/colírios já usados\"],\"pediatric_scope\":\"Aplica-se a crianças e adolescentes somente após separar, com confiança clínica proporcional ao risco, a forma viral simples da alérgica simples e excluir sinais de ameaça visual. Recém-nascidos não entram em manejo domiciliar presumido. Bebês e crianças não verbais podem expressar dor, fotofobia ou baixa visual por aversão à luz, blefaroespasmo, irritabilidade, recusa de abrir o olho ou perda de fixação/seguimento. Lente de contato, imunossupressão, doença ocular prévia, cirurgia recente ou suspeita de herpes reduzem o limiar para avaliação.\",\"counting_rule\":\"Manter pps_catalog_2793e44049d7877d e seus três qualificadores para busca, auditoria e seleção, mas mapear à mesma entidade composta de pps_102 e contar zero entidade clínica adicional. Dentro dela, manter dois ramos sem intercâmbio automático de transmissão, escola, evolução ou medicamentos. Não somar os qualificadores nem os aliases de cada ramo como novas doenças.\",\"inferences\":[\"A equivalência cadastral decorre do label local idêntico ao de pps_102 acrescido apenas de ‘registro no PPS’ e da posição adjacente no inventário.\",\"A partição obrigatória é uma inferência de segurança apoiada por fontes oficiais: conjuntivite viral é contagiosa e alérgica não é.\",\"O retorno escolar não admite regra única transnacional: fontes oficiais divergem entre nenhum afastamento universal e recomendação local de evitar coletividade durante sintomas; por isso bem-estar, capacidade de higiene/contato, surto, avaliação e norma local devem governar.\",\"O qualificador grave/crítico deve perder para os portões de urgência, pois os sinais relevantes sugerem córnea, órbita, segmento intraocular, trauma ou doença sistêmica, não uma variante domiciliar segura.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Antes de seguir esta ficha, confirme qual ramo foi indicado: viral ou alérgico. A forma viral costuma ter secreção aquosa, ardor e sintomas respiratórios e pode começar em um olho; a alérgica costuma causar coceira importante, lacrimejamento e edema nos dois olhos. Esses sinais são pistas, não diagnóstico isolado.",
+          "No ramo viral, lave as mãos com água e sabão por pelo menos 20 segundos antes e depois de limpar secreção ou tocar no rosto. Não compartilhe toalha, fronha, maquiagem, colírio, óculos, lente ou estojo e limpe objetos/superfícies muito tocados.",
+          "No ramo alérgico confirmado, a criança não transmite conjuntivite. Evite o gatilho plausível, como pólen, poeira/ácaros, mofo, fumaça ou pelo de animal, sem mudanças ambientais extremas ou retirada de alimento por suposição.",
+          "Em ambos os ramos, não deixe a criança esfregar os olhos. Mantenha unhas curtas e observe dor, fotofobia, visão, capacidade de abrir o olho e mudança da córnea; piora desses sinais interrompe o cuidado domiciliar.",
+          "Retire lentes de contato diante de qualquer olho vermelho. Não reutilize até desaparecimento dos sintomas e liberação profissional; se houver dor, fotofobia, secreção ou visão borrada, a avaliação é urgente por risco de ceratite.",
+          "Escola/creche: alergia confirmada não exige afastamento por contágio. Na forma viral, não há prazo universal seguro: febre/mal-estar, incapacidade de higiene ou de evitar contato próximo, avaliação clínica, surto e regra local determinam permanência/retorno. Antibiótico não deve ser exigido sem indicação clínica."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Compressa fria limpa sobre as pálpebras fechadas pode aliviar ardor, coceira e inchaço. Use pano/gaze individual, sem pressionar o globo ocular, e interrompa se aumentar dor.",
+          "Limpe delicadamente a secreção ao redor dos olhos com mãos limpas e material descartável ou pano individual limpo umedecido. Use material diferente em cada olho e lave as mãos novamente; não encoste nem compartilhe frascos.",
+          "No ramo viral, cubra tosse/espirro, descarte lenços, separe roupa de cama/toalhas e evite piscina e contato próximo enquanto houver transmissão relevante; em surto, siga a vigilância e a instituição.",
+          "No ramo alérgico, lavar rosto e cabelo após exposição, trocar roupas e reduzir contato com o alérgeno conhecido pode ajudar. Óculos podem reduzir exposição e desconforto; esfregar os olhos piora a inflamação.",
+          "Não use chá, camomila, água boricada, leite materno, saliva, mel, ervas ou solução caseira no olho. Não tampe o olho nem tente retirar objeto preso.",
+          "Evite fumaça, poeira, aerossóis e vento forte. Exposição química não é conjuntivite simples: inicie irrigação abundante imediata com água corrente limpa e procure atendimento urgente."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, concentração, intervalo, duração ou dose. Use apenas produto e esquema definidos para a criança após confirmar etiologia, idade, exame ocular, outras doenças, alergias e apresentações disponíveis.",
+          "Antibiótico não trata conjuntivite viral nem alérgica. Se surgir secreção purulenta persistente, pálpebra muito grudada, febre ou piora, reavalie a causa; não use sobra de receita nem colírio de outra pessoa.",
+          "Lágrima artificial/lubrificante pode aliviar irritação e ajudar a remover alérgenos, mas confirme produto e uso apropriados à idade, doença ocular, conservantes e outros colírios com profissional ou farmacêutico.",
+          "Antialérgicos oculares ou por via oral podem ser indicados no ramo alérgico, mas não são intercambiáveis e não devem ser iniciados ou combinados automaticamente. Resposta prévia não transforma o produto em receita permanente.",
+          "Não use colírio com corticosteroide, anestésico ou vasoconstritor por conta própria. Corticosteroide ocular exige prescrição e monitorização oftalmológica por risco de glaucoma, catarata e infecção/ceratite; pode agravar herpes.",
+          "Herpes simples e varicela-zóster podem exigir antiviral prescrito rapidamente. Vesículas perioculares, quadro unilateral doloroso, fotofobia ou visão alterada pedem avaliação no mesmo dia; não iniciar antiviral nem corticosteroide automaticamente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Conjuntivite viral ou alérgica isolada não exige dieta especial. Mantenha leite materno/fórmula ou alimentação habitual adequada à idade e líquidos conforme sede e tolerância; não force.",
+          "Viroses podem acompanhar febre, dor de garganta, sintomas respiratórios, vômitos ou diarreia. Observe boca seca, lágrimas, urina, alerta e aceitação; pouca urina, incapacidade de beber ou prostração exige avaliação.",
+          "Não retire leite, ovo, trigo ou outros alimentos apenas por alergia ocular. Alergia ocular costuma ser desencadeada por alérgenos ambientais; exclusão alimentar sem diagnóstico pode causar deficiência nutricional.",
+          "Se houver relação imediata e repetida com alimento, medicamento ou picada, registre a exposição e os sintomas e procure avaliação. Não faça teste de provocação em casa.",
+          "Inchaço ocular com falta de ar, chiado, voz alterada, inchaço de língua/lábios, desmaio ou urticária disseminada pode ser anafilaxia: use o plano de emergência previamente prescrito, se houver, e acione o SAMU 192.",
+          "Nunca pingue leite materno, alimento, chá, suplemento ou mel nos olhos. Em bebê, mamada pior, menos fraldas, febre/temperatura baixa ou dificuldade para acordar não deve ser atribuída apenas ao olho vermelho."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor ocular moderada/forte ou crescente, fotofobia importante, visão embaçada que não clareia ao piscar ou limpar secreção, perda visual, visão dupla, córnea turva/mancha branca ou dificuldade de abrir o olho exige avaliação urgente.",
+          "Usuário de lente de contato com olho vermelho associado a dor, fotofobia, secreção, sensação de corpo estranho ou visão pior precisa de avaliação oftalmológica urgente. Retire a lente e não a recoloque.",
+          "Vesículas ou erupção dolorosa na pálpebra, testa ou nariz, sobretudo de um lado, ou varicela com dor ocular, fotofobia ou alteração visual exige avaliação no mesmo dia por possível herpes/varicela-zóster ocular.",
+          "Febre/prostração com pálpebra muito vermelha, quente, dolorosa ou inchada, dor/limitação ao mover o olho, proptose, diplopia, visão pior, cefaleia forte ou vômitos exige pronto atendimento imediato por possível celulite orbitária.",
+          "Recém-nascido com olho vermelho, secreção ou pálpebra inchada deve ser avaliado imediatamente, mesmo parecendo bem. Não presuma causa viral ou alérgica e não espere consulta de rotina.",
+          "Trauma, perfuração, objeto preso ou produto químico exige atendimento imediato. Em produto químico, irrigue já com água corrente limpa; não esfregue, neutralize, pressione nem retire objeto encravado.",
+          "Prostração importante, confusão, dificuldade para acordar/respirar, convulsão, rigidez de nuca, desidratação, exantema febril ou sinais de anafilaxia exige emergência; acione o SAMU 192 diante de risco imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se a etiologia não estiver clara, procure avaliação antes de aplicar regras de transmissão ou alergia. Vermelhidão e secreção isoladas não separam com segurança viral, alérgica, bacteriana, química, corpo estranho ou outras causas.",
+          "Reavalie sem esperar se piorarem vermelhidão/inchaço, surgir pus persistente, febre/mal-estar, dor, fotofobia, visão diferente, dificuldade de abrir o olho, lesão periocular ou qualquer condição dos alertas.",
+          "Na forma viral simples, muitos casos melhoram em 7 a 14 dias, mas alguns duram 2 a 3 semanas ou mais. Ausência de melhora progressiva ou persistência além desse intervalo exige revisão de diagnóstico e córnea; o prazo não se aplica aos alarmes.",
+          "Na forma alérgica leve, reavalie em poucos dias se redução do gatilho e o plano indicado não produzirem melhora clara. Persistência, recorrência, necessidade frequente de colírio ou prejuízo de sono/escola exige revisão do diagnóstico e possível oftalmologia/alergologia.",
+          "Coceira intensa persistente, secreção mucosa em fios, fotofobia, pálpebra caída, grandes elevações sob a pálpebra ou mudança da córnea pode indicar doença vernal/atópica; não aumente antialérgico ou corticosteroide por conta própria.",
+          "Para escola/creche, reavalie o ramo e as regras locais se houver febre, sintomas sistêmicos, dificuldade de higiene/contato próximo ou surto. Alergia confirmada não é contagiosa; no viral, não use antibiótico ou sumiço completo da vermelhidão como requisito universal."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Se tiver menos de 28 dias, olho vermelho, secreção ou edema palpebral exige avaliação imediata: infecção, irritação e obstrução do canal lacrimal podem parecer iguais, e gonococo, clamídia ou herpes podem causar doença grave. Entre 1 e 2 meses, mantenha limiar muito baixo para avaliação no mesmo dia; febre, temperatura baixa, mamada pior, sonolência ou vesículas é urgência. Não presuma alergia ou virose e não pingue leite, chá ou colírio por conta própria.",
+        "3a5m": "O bebê não descreve dor, fotofobia ou visão borrada. Observe recusa de abrir o olho, aversão à luz, choro ao tocar ao redor, piora da fixação/seguimento, mamada e fraldas. Febre, prostração, vesículas, secreção espessa, pálpebra dolorosa ou dificuldade para mover/abrir o olho exige avaliação pronta; não diferencie viral de alérgica apenas pelo lacrimejamento.",
+        "6a11m": "Coceira pode aparecer como esfregar, piscar ou apertar os olhos, mas isso não confirma alergia. Compare contato visual, seguimento de objetos, alimentação, alerta e brincadeira. Lave mãos do bebê e cuidador, separe panos e brinquedos de rosto quando houver suspeita viral e procure avaliação por dor aparente, fotofobia, febre, pus, pálpebra muito inchada ou mudança visual/comportamental.",
+        "1a": "A criança pode apontar dor sem localizar. Compare capacidade de olhar objetos, caminhar e brincar na luz habitual; supervisione mãos limpas e evite coçar. Alergia confirmada não exige afastamento por contágio, mas febre, secreção purulenta, quadro muito unilateral, dificuldade de higiene ou surto exige revisar possível infecção e seguir a regra local.",
+        "2a5": "Pergunte em linguagem simples se coça, dói, a luz incomoda ou enxerga diferente e observe se mantém um olho fechado. Ensine lavagem de mãos por 20 segundos e não compartilhar toalha ou frasco no ramo viral/indefinido. Dor, fotofobia importante, mancha branca, pus, febre, vesículas ou pálpebra dolorosa não é cuidado domiciliar simples.",
+        "6a11": "Explique que viral transmite por mãos/objetos e alergia não. Organize itens individuais e higiene; alergia confirmada não exige afastamento. No viral, retorno depende de bem-estar, capacidade de higiene/evitar contato próximo, avaliação, surto e regra local. Limitação de leitura, recreio ou tela por dor, luz ou visão borrada pede reavaliação.",
+        "12a17": "Pergunte diretamente sobre lentes, sono/banho/natação com lente, maquiagem/cílios, cosméticos, fumaça/vape e colírios comprados ou compartilhados. Retire a lente durante olho vermelho; dor, fotofobia, secreção ou visão alterada exige urgência. Não use vasoconstritor, anestésico, antibiótico ou corticosteroide para tolerar aula, direção ou esporte.",
+        "unknown": "Confirme idade, possibilidade de ser recém-nascido, capacidade de relatar dor/visão, lateralidade, coceira, secreção, sintomas respiratórios/alérgicos, febre, lente, trauma/químico, vesículas, imunidade, doença ocular e colírios usados. Sem idade ou etiologia confiável, não gerar cuidado domiciliar específico; qualquer alarme prevalece."
+      },
+      "refs": [
+        {
+          "id": "pais239_op2232_1",
+          "name": "Clinical Overview of Pink Eye (Conjunctivitis)",
+          "url": "https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/"
+        },
+        {
+          "id": "pais239_op2232_2",
+          "name": "How to Treat Pink Eye",
+          "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+        },
+        {
+          "id": "pais239_op2232_3",
+          "name": "How to Prevent Pink Eye",
+          "url": "https://www.cdc.gov/conjunctivitis/prevention/index.html"
+        },
+        {
+          "id": "pais239_op2232_4",
+          "name": "Pink Eye in Newborns",
+          "url": "https://www.cdc.gov/conjunctivitis/newborns/index.html"
+        },
+        {
+          "id": "pais239_op2232_5",
+          "name": "Allergic Conjunctivitis",
+          "url": "https://www.aapos.org/glossary/allergic-conjunctivitis"
+        },
+        {
+          "id": "pais239_op2232_6",
+          "name": "Clinical Practice Guidelines: Acute red eye",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/acute_red_eye/"
+        },
+        {
+          "id": "pais239_op2232_7",
+          "name": "Clinical Practice Guidelines: Periorbital and orbital cellulitis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/"
+        },
+        {
+          "id": "pais239_op2232_8",
+          "name": "Public health exclusion periods in children and young people's settings",
+          "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/public-health-exclusion-periods-in-children-and-young-peoples-settings"
+        },
+        {
+          "id": "pais239_op2232_9",
+          "name": "Conjuntivite — informações para o cidadão e profissionais de saúde",
+          "url": "https://prefeitura.sp.gov.br/web/saude/w/vigilancia_em_saude/doencas_e_agravos/saude_ocular/conjuntivite"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2233",
+      "specific": false,
+      "key": "pdf1500_268",
+      "label": "Constipação intestinal funcional agudo",
+      "entity": "Constipação de início recente em criança ou adolescente; o diagnóstico de constipação funcional pediátrica só se aplica após duração e critérios clínicos mínimos e exclusão proporcional de causa orgânica, sem existir subtipo nosológico autônomo ‘funcional agudo’",
+      "assessment": "{\"classification\":\"UNSUPPORTED_ACUTE_QUALIFIER_FOR_CONFIRMED_PEDIATRIC_FUNCTIONAL_CONSTIPATION\",\"normalized_entity\":\"Constipação de início recente a esclarecer; possível constipação funcional pediátrica após preencher critérios\",\"normalized_key\":\"pps_22\",\"normalized_label\":\"Constipação Intestinal Funcional Crônica e Impactação Fecal\",\"label_validity\":\"‘Constipação intestinal funcional’ é termo clínico válido. ‘Agudo’ pode descrever quando os sintomas começaram, mas não cria subtipo funcional separado e não deve antecipar diagnóstico antes da duração mínima nem rebaixar sinais de causa orgânica.\",\"assessment\":\"Rome V organiza os transtornos pediátricos por região/sintomas e define constipação funcional pela presença de pelo menos dois achados no último mês — baixa frequência, escape após desfralde, retenção/força inadequada, evacuação dolorosa ou fezes duras, massa fecal retal ou fezes volumosas — mantidos por pelo menos um mês, sem outra explicação e sem síndrome do intestino irritável. Portanto, poucos dias de fezes difíceis podem ser um sintoma recente, não diagnóstico funcional confirmado. Em lactente menor de 9 meses, força e choro antes de eliminar fezes macias podem corresponder a disquesia do lactente, não constipação. Início ao nascimento/primeiras semanas, mecônio após 48 horas no recém-nascido a termo, vômito verde, distensão importante, crescimento insuficiente, fezes em fita, alteração anal ou neurológica e história familiar de Hirschsprung invalidam alta automática como funcional e exigem avaliação dirigida.\",\"reconciliation\":{\"base_key\":\"pps_22\",\"base_label\":\"Constipação Intestinal Funcional Crônica e Impactação Fecal\",\"relationship\":\"TEMPORAL_LABEL_OF_EXISTING_ENTITY_WITH_PRE_DIAGNOSTIC_TRIAGE_REQUIRED\",\"content_rule\":\"Manter este ID e rótulo, mas não afirmar constipação funcional quando a duração for inferior a um mês ou a história estiver incompleta. Priorizar triagem por idade e alarmes; se a equipe confirmar critérios funcionais, reutilizar a orientação canônica sem criar nova entidade. Impactação precisa ser avaliada porque pode mudar o plano, mas não autoriza enema, supositório, retirada manual ou dose automática.\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\"},\"pediatric_criteria\":{\"framework\":\"Rome V, 2026\",\"minimum_duration\":\"Critérios presentes por pelo menos 1 mês\",\"symptom_threshold\":\"Pelo menos 2 achados ocorrendo no último mês\",\"findings\":[\"Em média, duas ou menos evacuações por semana\",\"Em média, ao menos um episódio de escape fecal por semana, apenas para criança já desfraldada\",\"História de postura de retenção, esforço ou retenção inadequada de fezes\",\"História de evacuações dolorosas ou fezes duras\",\"Presença de grande massa fecal no reto\",\"História de fezes de grande diâmetro\"],\"exclusions\":[\"Após avaliação apropriada, os sintomas não são melhor explicados por outra condição\",\"Não preencher critérios para síndrome do intestino irritável\",\"Sinais de alarme ou possível obstrução exigem avaliação antes de aplicar o rótulo funcional\"],\"infant_boundary\":\"Em menor de 9 meses, esforço visível e choro por pelo menos 10 minutos antes de eliminar ou tentar eliminar fezes macias, sem outra doença após avaliação, é compatível com disquesia do lactente e não deve ser automaticamente tratado como constipação.\"},\"not_automatically_equivalent_to\":[\"Qualquer intervalo de poucos dias sem evacuar, sobretudo em lactente exclusivamente amamentado após 6 semanas\",\"Disquesia do lactente com fezes macias\",\"Impactação fecal, que precisa de avaliação própria\",\"Obstrução intestinal, volvo, intussuscepção ou íleo\",\"Doença de Hirschsprung ou enterocolite associada a Hirschsprung\",\"Constipação causada por medicamento, desidratação, hipotireoidismo, doença celíaca, alteração neurológica ou anorretal\",\"Dor abdominal aguda de qualquer causa\",\"Indicação automática de laxante, supositório, enema, óleo mineral, probiótico, dieta de exclusão ou dose\"],\"critical_context_to_confirm\":[\"Idade exata, desenvolvimento, duração real dos sintomas e padrão habitual de evacuação\",\"Consistência e calibre das fezes, dor, fissura, retenção, escape fecal e última eliminação de fezes e gases\",\"Mecônio nas primeiras 48 horas, sintomas desde o nascimento/primeiras semanas e história familiar de doença de Hirschsprung\",\"Vômitos e sua cor, distensão progressiva, dor contínua ou em crises, febre, diarreia explosiva, sangue, prostração e hidratação\",\"Alimentação, preparo correto da fórmula, início de sólidos, ingestão usual de líquidos e mudança recente de dieta\",\"Peso, crescimento, apetite, perdas, comportamento, urina e sinais de desidratação\",\"Aspecto/posição do ânus, fezes em fita, alterações sacrais, força das pernas, marcha e controle urinário\",\"Medicamentos e suplementos recentes, inclusive ferro, opioides, anticolinérgicos, anticonvulsivantes e antiácidos\",\"Treino do banheiro, medo de evacuar, acesso ao banheiro na escola, mudanças/estresse e possível retenção voluntária\",\"Tratamentos já tentados, quem prescreveu, resposta, efeitos adversos e possibilidade de impactação\"],\"counting_rule\":\"Preservar pdf1500_268 e seu label como identidade pesquisável, mas resolver o qualificador como problema terminológico e contar zero nova entidade. Constipação de início recente permanece um sintoma em avaliação; constipação funcional confirmada reutiliza pps_22.\",\"inferences\":[\"A classificação como problema de termo decorre da comparação entre o rótulo do catálogo e a duração mínima explícita do Rome V, não da negação de que sintomas de constipação possam começar abruptamente.\",\"O roteamento inicial para triagem é uma inferência de segurança apoiada pelas recomendações de investigar alarmes e pelo maior risco de causa orgânica em lactentes e crianças pequenas.\",\"A ausência de prescrição automática decorre da necessidade de distinguir sintoma recente, impactação, manutenção e possível obstrução, além de considerar idade, formulação, licenciamento e contexto clínico.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O termo ‘constipação funcional aguda’ não é um subtipo confirmado. Se os sintomas têm menos de um mês, descreva-os como constipação de início recente e confirme com a equipe a idade, a duração, o aspecto das fezes e se existe alguma causa ou sinal de alarme.",
+          "Se a criança está ativa, sem vômitos, sem barriga muito inchada e sem dor forte, anote por alguns dias quando evacua, aspecto e tamanho das fezes, dor, retenção, escapes, última eliminação de gases, alimentação, líquidos, urina e medicamentos. Esse registro ajuda a diferenciar um episódio recente de impactação ou quadro persistente.",
+          "Escape de fezes na roupa pode acontecer quando fezes retidas se acumulam; não é preguiça nem necessariamente diarreia. Não castigue, envergonhe ou obrigue a evacuar.",
+          "Em bebê menor de 9 meses, fazer força, chorar e ficar vermelho antes de eliminar fezes macias pode ser disquesia do lactente. Não faça estimulação anal, não use cotonete/termômetro e não trate apenas pelo número de dias sem evacuar. Fezes duras, dor, vômitos, distensão, dificuldade para mamar ou baixo ganho de peso mudam essa orientação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para criança com desenvolvimento para usar vaso ou penico, ofereça uma tentativa tranquila depois das refeições, por poucos minutos, com assento seguro e pés apoiados. Elogie a participação; não segure à força e não transforme a evacuação em disputa.",
+          "Respeite a vontade de evacuar e combine acesso reservado e sem pressa ao banheiro na creche ou escola. Medo, dor anterior, início do desfralde, mudança de rotina e banheiro inadequado podem favorecer retenção.",
+          "Mantenha brincadeiras e atividade física habituais se a criança estiver bem. Não faça massagem forte, manobras no abdome, retirada manual de fezes, irrigação, lavagem ou estimulação do ânus em casa.",
+          "Se houver dor ao evacuar, fissura aparente ou escape, peça avaliação e plano que quebre o ciclo de dor e retenção. Medidas comportamentais isoladas podem não resolver quando já existe impactação."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe laxante nem calcula dose. Antes de medicar, a equipe precisa considerar idade e peso, duração, possibilidade de impactação, sinais de obstrução, doenças associadas, formulação disponível e o que já foi usado.",
+          "Se já existe prescrição individual, siga exatamente o produto, preparo, quantidade, frequência e retorno escritos. Não dobre, misture, compartilhe ou suspenda por conta própria após a primeira evacuação; desimpactação e manutenção são etapas diferentes.",
+          "Não use enema, supositório, óleo mineral/parafina, laxante de adulto, chá, ervas, sal, sabão, receita caseira ou retirada manual sem indicação profissional. Terapias pelo reto são reservadas a situações selecionadas, podem causar trauma e têm impacto emocional; suspeita de obstrução exige pronto atendimento, não laxante.",
+          "Leve à consulta a lista e as embalagens de todos os medicamentos e suplementos. Ferro, opioides e outros remédios podem contribuir para constipação, mas não interrompa tratamento necessário sem falar com quem prescreveu.",
+          "Quando a equipe prescrever desimpactação, confirme os efeitos esperados e revisão em até uma semana. Dor crescente, vômitos, distensão ou piora do estado geral não devem ser atribuídos ao tratamento sem reavaliação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e adequada à idade. Para quem já come sólidos, ofereça regularmente frutas, verduras, legumes, feijões e grãos integrais conforme tolerância e costume familiar; não force grande quantidade de farelo ou suplemento de fibras.",
+          "Ofereça a quantidade habitual de água e outros líquidos apropriados à idade e corrija ingestão insuficiente. Beber além das necessidades ou aumentar fibra acima do recomendado não demonstrou tratar constipação funcional e pode causar desconforto; dieta e água não substituem o plano quando há impactação.",
+          "No bebê, mantenha leite materno ou fórmula preparada exatamente conforme o fabricante/equipe. Não dilua a fórmula, não ofereça água, chá ou suco fora da orientação para a idade e não troque leite por conta própria. Em amamentado exclusivo após 6 semanas, evacuar com pouca frequência pode ser normal se as fezes forem macias, o bebê mamar e crescer bem.",
+          "Não retire leite de vaca, glúten ou vários alimentos para testar constipação sem avaliação e acompanhamento nutricional. Dietas de exclusão só cabem em situações selecionadas e podem prejudicar crescimento e relação com a comida.",
+          "Se houver vômito verde/repetido, barriga muito distendida, dor forte, sonolência ou suspeita de obstrução, não force comida, líquidos ou mamadas e não mantenha a criança esperando em casa em jejum: procure emergência imediatamente para a equipe decidir hidratação e alimentação seguras."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde, vômitos repetidos, barriga muito inchada ou endurecida, dor forte/contínua ou em crises intensas, incapacidade de eliminar gases, palidez ou piora rápida podem indicar obstrução intestinal. Não dê laxante, enema ou comida e procure emergência agora.",
+          "Febre com distensão, vômitos, diarreia aquosa/explosiva, sangue, moleza ou prostração — especialmente em bebê ou criança com suspeita/doença de Hirschsprung — pode ser enterocolite e exige atendimento imediato.",
+          "Procure atendimento imediato se a criança não consegue beber/mamar, urina muito pouco, tem boca muito seca, olhos fundos, fica muito sonolenta/difícil de acordar, desmaia ou parece gravemente doente.",
+          "Sangramento em grande quantidade, coágulos, fezes pretas, sangue com dor forte/prostração ou sangramento repetido sem fissura já avaliada exige atendimento rápido; não presuma que todo sangue vem de fezes duras.",
+          "Fraqueza nova nas pernas, alteração importante da marcha, perda nova do controle de urina, dormência na região íntima ou piora neurológica com constipação precisa de avaliação urgente.",
+          "Ligue 192 se houver desmaio, dificuldade para respirar, lábios arroxeados, convulsão ou dificuldade importante para acordar. Siga as orientações do atendente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Recém-nascido ou bebê menor de 3 meses com fezes realmente duras/dolorosas, mudança importante do padrão, barriga distendida, mamadas piores ou pouca urina precisa de contato pediátrico no mesmo dia; vômito verde, prostração ou distensão progressiva usa o bloco de emergência.",
+          "Procure avaliação pediátrica pronta se a constipação existe desde o nascimento/primeiras semanas, o mecônio saiu após 48 horas em bebê a termo, há fezes em fita, baixo ganho/perda de peso, alteração do ânus/sacro/pernas ou familiar com doença de Hirschsprung. Esses achados não devem receber tratamento funcional automático.",
+          "Se for episódio recente e leve, peça consulta se não houver melhora clara com rotina adequada, se os sintomas durarem mais de duas semanas ou se voltarem repetidamente. Não é necessário esperar completar um mês diante de dor, sangue, alimentação ruim, escape, preocupação com crescimento ou qualquer sinal de alarme.",
+          "O diagnóstico funcional exige pelo menos dois critérios no último mês, presentes por no mínimo um mês e sem explicação melhor. A equipe deve rever retenção, escape, impactação, medicamentos e causas orgânicas antes de confirmar esse rótulo.",
+          "Se foi prescrita desimpactação, combine revisão em até uma semana. Durante manutenção, o retorno deve ser frequente e ajustado à resposta — de contato em dias a poucas semanas — para evitar nova impactação e conferir adesão, efeitos e rotina do banheiro.",
+          "Em menor de 1 ano que não melhora com tratamento adequado em até quatro semanas, é indicada avaliação urgente por profissional capaz de investigar anormalidade anatômica ou doença de Hirschsprung. Em qualquer idade, persistência apesar do plano, recorrência, escape contínuo ou impacto importante na escola/qualidade de vida pede reavaliação e possível especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido e lactente pequeno têm maior chance relativa de causa orgânica. Confirme mecônio nas primeiras 48 horas, início dos sintomas, mamadas, vômitos, distensão, temperatura, urina e crescimento. Fezes duras/dolorosas ou mudança importante pedem contato pediátrico no mesmo dia; vômito verde, distensão progressiva, prostração ou má alimentação exigem emergência. Não dê água, suco, laxante nem faça estímulo anal.",
+        "3a5m": "Poucos dias sem evacuar, isoladamente, não confirmam constipação, sobretudo no aleitamento exclusivo. Diferencie fezes duras/dolorosas de disquesia com fezes macias. Mantenha leite habitual e fórmula na diluição correta; alimentação pior, vômitos, distensão, febre, sangue, pouca urina ou crescimento insuficiente precisam de avaliação pronta.",
+        "6a11m": "Registre relação com início de alimentos, consistência das fezes e hidratação, sem substituir leite ou improvisar sucos/chás. Esforço com fezes macias ainda pode ser disquesia antes dos 9 meses. Dor, fezes em fita, sangue sem fissura avaliada, vômito, distensão, recusa alimentar ou baixo ganho de peso exigem consulta rápida.",
+        "1a": "Ofereça alimentação e líquidos adequados à idade, observe retenção após dor/mudança de dieta e não force desfralde. Sintoma desde as primeiras semanas, atraso do mecônio, distensão com vômito, crescimento insuficiente ou ausência de melhora com plano adequado em até quatro semanas exige investigação de Hirschsprung/anormalidade anatômica.",
+        "2a5": "Dor, fissura, desfralde, medo e retenção são frequentes. Use vaso/penico seguro com pés apoiados, tentativa tranquila após refeições e recompensa pela participação, sem castigo. Escape pode ser transbordamento por fezes acumuladas; não trate como desobediência e peça avaliação de impactação antes de qualquer esquema.",
+        "6a11": "Combine banheiro acessível e reservado na escola, respeite a vontade de evacuar e registre dor, fezes, escapes e sintomas urinários. Pergunte sobre bullying ou vergonha sem culpar. Dor constante, vômitos, distensão, sangue, perda de peso, fraqueza nas pernas ou perda nova do controle urinário exigem reavaliação rápida.",
+        "12a17": "Converse em privacidade sobre retenção, uso do banheiro, alimentação restritiva, hidratação, suplementos, ferro, opioides e outros medicamentos. Não use laxante de adulto ou produto para emagrecer. Dor intensa, vômito verde, distensão, sangue/fezes pretas, perda de peso ou sintomas neurológicos/urinários pedem avaliação urgente.",
+        "unknown": "Confirme idade, aleitamento/desfralde, duração, consistência, retenção, escape, mecônio, crescimento, vômitos, distensão, sangue, estado geral, medicamentos e alterações anorretais/neurológicas antes de orientar cuidado domiciliar. Até esclarecer, não rotule como funcional nem selecione laxante; sinais de obstrução prevalecem."
+      },
+      "refs": [
+        {
+          "id": "pais239_op2233_1",
+          "name": "Rome V Criteria — H2a Functional Constipation and H2c Infant Dyschezia",
+          "url": "https://theromefoundation.org/rome-v-criteria/"
+        },
+        {
+          "id": "pais239_op2233_2",
+          "name": "European Society for Paediatric Gastroenterology, Hepatology and Nutrition/North American Society for Pediatric Gastroenterology, Hepatology and Nutrition guidelines for treatment of functional constipation in children aged 0–18 years",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446596/"
+        },
+        {
+          "id": "pais239_op2233_3",
+          "name": "Diagnosis and management of pediatric functional constipation",
+          "url": "https://gastro.org/clinical-guidance/diagnosis-and-management-of-pediatric-functional-constipation/"
+        },
+        {
+          "id": "pais239_op2233_4",
+          "name": "Constipation in children and young people: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/cg99/chapter/Recommendations"
+        },
+        {
+          "id": "pais239_op2233_5",
+          "name": "Symptoms & Causes of Constipation in Children",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation-children/symptoms-causes"
+        },
+        {
+          "id": "pais239_op2233_6",
+          "name": "Updated European Reference Network for rare Inherited and Congenital Digestive and Gastrointestinal Anomalies guidelines for the management of rectosigmoid Hirschsprung's disease 2025",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70442"
+        },
+        {
+          "id": "pais239_op2233_7",
+          "name": "The ten ‘hard’ questions in pediatric functional constipation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11036569/"
+        },
+        {
+          "id": "pais239_op2233_8",
+          "name": "An Update of Pharmacological Management in Children with Functional Constipation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10097737/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2234",
+      "specific": true,
+      "key": "pps_22",
+      "label": "Constipação Intestinal Funcional Crônica e Impactação Fecal",
+      "entity": "Constipação intestinal funcional pediátrica, com impactação fecal apenas quando confirmada por história e avaliação clínica",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_PRESENTATION_DUPLICATE_ALIAS_OF_PUBLISHED_CORE_ENTITY\",\"normalized_entity\":\"Constipação intestinal funcional na infância\",\"assessment\":\"O termo é clinicamente válido, mas reúne dois níveis diferentes: constipação funcional crônica é um diagnóstico positivo baseado em sintomas após avaliação apropriada; impactação fecal é uma complicação/estado clínico que requer evidência de fezes acumuladas e endurecidas, não sendo sinônimo de qualquer intervalo sem evacuar. O rótulo sozinho não confirma fecaloma, não exclui causa orgânica e não define desimpactação, fármaco, via, dose ou duração.\",\"reconciliation\":{\"canonical_clinical_key\":\"pdf1500_267\",\"canonical_clinical_label\":\"Constipação intestinal funcional\",\"published_pps_record_key\":\"pps_catalog_9dfde0005a38e511\",\"published_pps_record_label\":\"Constipação Intestinal Funcional Crônica e Impactação Fecal — registro no PPS\",\"relationship\":\"NOMINAL_ALIAS_AND_PRESENTATION_OF_THE_SAME_CORE_ENTITY\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\",\"content_rule\":\"Preservar pps_22, o rótulo e os aliases para busca, mas compartilhar a entidade clínica central. Acrescentar o ramo de impactação somente quando a avaliação sustentar acúmulo fecal; não converter toda constipação funcional em fecaloma e não reutilizar um regime de outro paciente.\"},\"functional_diagnostic_scope\":{\"positive_features\":[\"Pelo menos dois achados no último mês, como evacuações pouco frequentes, retenção/postura retentiva, fezes dolorosas ou duras, fezes muito volumosas, massa fecal retal ou escape fecal após aquisição do controle esfincteriano.\",\"Frequência isolada não basta: consistência, dor, retenção, volume, escape e impacto funcional precisam ser considerados.\",\"Após avaliação apropriada, os sintomas não devem ser melhor explicados por outra condição e não devem preencher melhor critérios de síndrome do intestino irritável.\"],\"impactation_boundary\":\"Impactação/fecaloma implica período prolongado sem eliminação voluntária associado a fezes duras/difíceis e evidência clínica de massa fecal. Escape líquido ao redor da massa pode ocorrer e não prova que o intestino esvaziou.\",\"not_automatically_equivalent_to\":[\"Esforço e choro do lactente antes de eliminar fezes macias (disquesia do lactente)\",\"Poucos dias sem evacuar em bebê em aleitamento que permanece bem e elimina fezes macias\",\"Toda dor abdominal, distensão, sangue nas fezes ou escape fecal\",\"Incontinência fecal não retentiva, diarreia, obstrução intestinal ou doença de Hirschsprung\",\"Alergia à proteína do leite de vaca, doença celíaca, hipotireoidismo, alteração neurológica/medular ou malformação anorretal sem investigação pertinente\",\"Necessidade automática de radiografia, toque retal, enema, supositório, retirada manual ou internação\",\"Falha familiar, preguiça, desafio intencional ou falta de disciplina da criança\"]},\"organic_alarm_scope\":[\"Sintomas desde o nascimento ou as primeiras semanas de vida\",\"Eliminação do mecônio após mais de 48 horas em recém-nascido a termo\",\"Fezes persistentemente em fita, ânus de aspecto/posição anormal ou massa abdominal não compatível com fezes\",\"Vômitos persistentes, sobretudo verdes, ou distensão abdominal importante\",\"Perda de peso, crescimento insuficiente, fraqueza ou doença sistêmica\",\"Fraqueza nas pernas, alteração da marcha/reflexos, anormalidade lombossacra ou sintomas urinários novos relevantes\",\"Sangramento recorrente sem fissura explicativa, febre persistente ou ausência de resposta apesar de plano adequado e adesão confirmada\"],\"pediatric_scope\":\"Abrange do período neonatal à adolescência, com limiar muito baixo para avaliação em lactentes pequenos e adaptação ao desenvolvimento para treinamento intestinal. Crianças neurodivergentes ou com deficiência podem precisar de rotina, comunicação, ambiente e apoio sensorial individualizados, sem coerção.\",\"critical_context_to_confirm\":[\"Idade e idade de desenvolvimento; início, duração e padrão das evacuações\",\"Consistência, tamanho, dor, fissura/sangue, retenção e postura retentiva\",\"Escape fecal, urina/escapes urinários, sensação de urgência e impacto na escola/sono\",\"Sinais de impactação avaliados pela equipe e resposta a tentativas anteriores\",\"Mecônio, crescimento, vômitos, distensão e sinais neurológicos/lombossacros\",\"Aleitamento, fórmula, alimentação, líquidos e qualquer dieta restritiva\",\"Medicamentos, suplementos, laxantes, enemas/supositórios e receitas caseiras já usados\",\"Plano individual escrito para desimpactação, manutenção, contato e reavaliação\"],\"counting_rule\":\"Contar pps_22 como registro nominal especificamente orientado, porém como zero nova entidade clínica em relação a pdf1500_267 e pps_catalog_9dfde0005a38e511. Impactação é estado/complicação da mesma entidade quando confirmada, não doença adicional automática.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Constipação funcional não é apenas ficar alguns dias sem evacuar. A avaliação considera fezes duras ou dolorosas, retenção, evacuações pouco frequentes, fezes muito grandes, massa fecal e, depois do desfralde, escapes. Impactação/fecaloma precisa de evidência clínica de fezes acumuladas; o nome da ficha não confirma isso sozinho.",
+          "Anote por alguns dias a consistência e o tamanho das fezes, dor, posturas de retenção, escapes na roupa, sangue, urina, apetite e resposta ao plano. Um diário simples ajuda a equipe a ajustar o cuidado; não examine o reto nem tente sentir ou retirar fezes em casa.",
+          "Escape de fezes, inclusive líquido ou pastoso, pode passar ao redor de uma massa retida. Isso não significa diarreia obrigatoriamente nem prova que a impactação acabou. A criança geralmente não faz de propósito: não castigue, não envergonhe e proteja sua privacidade.",
+          "A retenção costuma formar um ciclo: evacuar dói, a criança segura, as fezes endurecem e a próxima evacuação dói mais. Explique esse ciclo sem culpa e valorize cada passo do plano, não apenas conseguir evacuar.",
+          "A melhora pode levar meses e recaídas são possíveis, especialmente após dor, mudança de rotina, escola, viagem ou conflito no banheiro. Retomar contato cedo é mais seguro do que culpar a criança ou improvisar uma limpeza.",
+          "Em lactentes, fazer força, chorar ou ficar vermelho antes de eliminar fezes macias pode ser disquesia, e não constipação. Lactente pequeno com suspeita de constipação precisa de avaliação proporcional à idade antes de receber água, suco, laxante ou estímulo anal."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para a criança com desenvolvimento adequado para usar penico ou vaso, ofereça tentativas tranquilas após as refeições, aproveitando o reflexo natural do intestino. Use assento seguro e apoio para os pés, com joelhos confortavelmente elevados; não a mantenha sentada à força.",
+          "Elogie a participação — avisar a vontade, sentar, tentar e contar o que sentiu — e não condicione afeto ou punição ao resultado. Recompensas simples podem reforçar a rotina; nunca humilhe por escapes.",
+          "Combine acesso rápido, limpo e reservado ao banheiro na escola ou creche. Não obrigue a criança a segurar até o recreio e trate cheiro, roupa suja ou bullying com discrição.",
+          "Se o desfralde ficou doloroso, conflituoso ou gerou retenção, reduza a pressão e ajuste o processo com a equipe. O treinamento deve respeitar o desenvolvimento; a prioridade é evacuar sem dor e recuperar confiança.",
+          "Mantenha atividade física habitual e oportunidades de movimento adequadas à idade e às condições da criança. Exercício forçado, abdominal ou massagem intensa não desimpacta o intestino.",
+          "Não faça estimulação anal, retirada manual, lavagem, enema ou supositório por conta própria. Terapias retais podem causar dor, ansiedade, lesão e outros riscos e só devem ser usadas quando a equipe indicar e ensinar."
+        ],
+        "MEDICAMENTOS": [
+          "Quando existe impactação confirmada, retirar o acúmulo e depois manter fezes macias são etapas diferentes. A equipe escolhe o método conforme idade, quadro, produtos disponíveis, tolerância e segurança; esta ficha não fornece fármaco, via, concentração, dose, aumento progressivo ou duração.",
+          "Use somente o plano escrito para esta criança. Não copie a limpeza de outra pessoa, não repita uma desimpactação anterior e não aumente laxante porque uma dose pareceu falhar sem falar com a equipe.",
+          "Durante uma desimpactação prescrita, escapes e cólicas podem aumentar por um período. Confirme antes o que é esperado, como saber se o processo terminou, quando telefonar e quando retornar; dor forte/contínua, distensão crescente, vômitos ou incapacidade de beber não são efeitos para observar em casa.",
+          "O tratamento de manutenção frequentemente precisa continuar por meses e deve ser ajustado à consistência, frequência, dor e escapes. Não suspenda no primeiro dia de fezes macias nem pare abruptamente; redução e término pertencem ao plano de acompanhamento.",
+          "Enemas, supositórios e outras terapias retais não são rotina automática e podem ter impacto físico e emocional. Se forem considerados, a decisão precisa ser individual, compartilhada e sensível à idade, ansiedade, diferenças sensoriais e história da criança.",
+          "Não use chás laxativos, óleo, sabão, misturas caseiras, probiótico, fibra em pó ou suplemento como substituto do plano. Dieta sem leite só deve ser cogitada em situações selecionadas de falta de resposta e suspeita clínica pertinente, com acompanhamento profissional; não retire leite por conta própria."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada, com fibras e líquidos em quantidades adequadas à idade. O objetivo é uma rotina sustentável, não fiscalizar cada refeição nem responsabilizar a família ou a criança pela doença.",
+          "Água, frutas, verduras, feijões e cereais integrais podem ajudar a manter as fezes macias, mas dieta e líquidos sozinhos não desfazem uma impactação e não substituem tratamento prescrito. Não force litros de água nem excesso de fibra, que pode causar desconforto.",
+          "Aumente alimentos ricos em fibra de modo gradual, junto da hidratação habitual e respeitando aceitação, cultura, alergias e necessidades nutricionais. Não use farelo não processado nem uma dieta muito restritiva sem orientação.",
+          "Em bebês, mantenha leite materno ou fórmula preparada exatamente como indicado. Não dilua fórmula, acrescente água, engrossante, óleo ou laxante à mamadeira e não ofereça água, chá ou suco a menores de 6 meses para tratar constipação sem orientação clínica.",
+          "Não retire leite, glúten ou vários alimentos para testar a causa por conta própria. Dietas de exclusão podem causar deficiência e sofrimento; quando houver indicação real, precisam de prazo, objetivo, reavaliação e apoio nutricional.",
+          "Apetite menor pode acompanhar o acúmulo fecal, mas perda de peso, crescimento insuficiente, recusa persistente de alimentos ou dificuldade para engolir não devem ser atribuídos automaticamente à constipação funcional."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure pronto atendimento agora se houver dor abdominal forte, contínua ou em piora, barriga muito distendida ou endurecida, vômitos repetidos — especialmente verdes — ou incapacidade de manter líquidos. Esses sinais podem indicar obstrução ou outra causa e não devem ser tratados como fecaloma em casa.",
+          "Prostração intensa, dificuldade para acordar, confusão, desmaio, convulsão, pele muito pálida/fria/manchada, respiração difícil ou piora rápida exige emergência; se a criança estiver instável ou não puder ser transportada com segurança, acione o SAMU 192.",
+          "Ausência importante de urina, boca muito seca, ausência de lágrimas ou sonolência junto de vômitos/incapacidade de beber sugere desidratação e requer avaliação urgente. Incapacidade de urinar também precisa de pronto atendimento.",
+          "Sangramento em grande quantidade, coágulos, fezes pretas como piche ou sangue associado a palidez, tontura, dor importante ou piora geral exige atendimento imediato. Não presuma fissura sem avaliação.",
+          "Em recém-nascido ou lactente pequeno, distensão, vômito verde, recusa de mamadas, febre/temperatura baixa, moleza ou sintomas desde o nascimento exigem avaliação imediata; não tente laxante, estímulo anal ou desimpactação em casa.",
+          "Durante um plano de desimpactação, não repita nem intensifique o esquema se aparecerem vômitos, distensão crescente, dor importante, sangramento relevante ou piora geral. Interrompa a tentativa domiciliar e procure avaliação."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se foi iniciada desimpactação prescrita, combine revisão em até uma semana. Fale antes se o plano não produzir a resposta explicada pela equipe, se a criança não conseguir tomá-lo ou se os sintomas piorarem; não espere o prazo diante dos sinais de urgência.",
+          "Depois da desimpactação, a manutenção deve começar conforme a orientação recebida e ser reavaliada com frequência individualizada. Saia da consulta com data ou canal de contato; nas primeiras semanas, a equipe precisa conferir fezes, dor, escapes, adesão e risco de nova impactação.",
+          "Procure pediatra prontamente se os sintomas começaram no nascimento ou nas primeiras semanas, se o mecônio saiu após mais de 48 horas em bebê a termo, se há fezes persistentemente em fita, ânus diferente, vômitos persistentes, distensão importante, perda de peso ou crescimento insuficiente.",
+          "Fraqueza nas pernas, mudança da marcha, alteração de sensibilidade/reflexos, covinha profunda/tufo de pelos ou outra alteração lombossacra, perda nova de controle urinário ou infecções urinárias repetidas precisam ser comunicadas para investigação de causas neurológicas ou anatômicas.",
+          "Reavalie antes do retorno se o sangue se repetir, a dor impedir atividades, o escape fecal persistir ou reaparecer, houver recusa do banheiro/medicação ou a família estiver exausta. Encoprese com retenção é condição médica e pode precisar de apoio multiprofissional, não de castigo.",
+          "Falta de melhora apesar de plano adequado e adesão confirmada, impactações recorrentes, necessidade repetida de terapia retal ou sintomas prolongados exigem revisão do diagnóstico e possível gastroenterologia/serviço de continência. Não mantenha a mesma estratégia indefinidamente sem reavaliar."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Suspeita de constipação nesta idade precisa de avaliação pediátrica pronta, sobretudo se começou no nascimento ou nas primeiras semanas. Pergunte quando saiu o mecônio. Não dê água, chá, suco, laxante nem faça estímulo anal. Distensão, vômito verde, febre/temperatura baixa, recusa de mamadas, moleza ou pouca urina é emergência.",
+        "3a5m": "Esforço e choro com fezes macias podem ser disquesia, não fecaloma, mas fezes duras, sangue recorrente, vômitos, barriga distendida, mamadas ruins ou crescimento inadequado precisam de avaliação. Mantenha leite materno/fórmula correta e não acrescente água ou produtos à mamadeira.",
+        "6a11m": "Mudanças podem coincidir com a introdução alimentar, mas não atribua automaticamente o problema à dieta. Mantenha leite e alimentos apropriados à idade, água conforme orientação e fibra gradual. Dor, retenção, sangue, vômitos, distensão ou baixo ganho de peso pedem avaliação; não altere a diluição da fórmula.",
+        "1a": "Evite iniciar ou acelerar o desfralde enquanto evacuar dói. Use penico/assento seguro apenas se a criança estiver pronta, sem pressão. Registre fezes e retenção; escape líquido pode ser transbordamento. Não use supositório, enema ou limpeza sem plano profissional.",
+        "2a5": "Ofereça tentativas breves e tranquilas após refeições, com pés apoiados; elogie sentar e tentar, não apenas evacuar. Acidentes e encoprese não são desafio intencional. Combine rotina com creche e ajuste o desfralde se houver medo, dor ou retenção.",
+        "6a11": "Garanta banheiro acessível e privado na escola, sem obrigar a segurar. Inclua a criança no diário e no plano sem expô-la. Escape, cheiro, dor, xixi na roupa ou bullying merecem acolhimento e reavaliação; não suspenda tratamento em dias de aula sem orientação.",
+        "12a17": "Converse em privacidade sobre retenção, banheiro escolar, escapes, dieta restritiva, imagem corporal, suplementos e medicamentos. Combine autonomia para tomar o tratamento e procurar ajuda. Sangue, perda de peso, vômitos, distensão, sintomas neurológicos/urinários ou falha persistente exigem revisão, não mais restrição ou laxante por conta própria.",
+        "unknown": "Confirme idade, desenvolvimento, início desde o nascimento, mecônio, crescimento, fezes, retenção/escape, vômitos/distensão, sangue, urina, neurologia, alimentação e tudo que já foi usado. Sem essas informações, não presuma constipação funcional nem impactação; sinais de alarme têm prioridade."
+      },
+      "refs": [
+        {
+          "id": "pais239_op2234_1",
+          "name": "Rome V Criteria — H2. Defecation and Anorectal Disorders",
+          "url": "https://theromefoundation.org/rome-v-criteria/"
+        },
+        {
+          "id": "pais239_op2234_2",
+          "name": "European Society for Paediatric Gastroenterology, Hepatology and Nutrition/North American Society for Pediatric Gastroenterology, Hepatology and Nutrition guidelines for treatment of functional constipation in children aged 0–18 years",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446596/"
+        },
+        {
+          "id": "pais239_op2234_3",
+          "name": "Constipation in children and young people: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/cg99/chapter/Recommendations"
+        },
+        {
+          "id": "pais239_op2234_4",
+          "name": "National clinical constipation pathway for primary care for children",
+          "url": "https://www.england.nhs.uk/long-read/national-clinical-constipation-pathway-for-primary-care-for-children/"
+        },
+        {
+          "id": "pais239_op2234_5",
+          "name": "Clinical Practice Guidelines: Constipation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/constipation_guideline/"
+        },
+        {
+          "id": "pais239_op2234_6",
+          "name": "Symptoms & Causes of Constipation in Children",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation-children/symptoms-causes"
+        },
+        {
+          "id": "pais239_op2234_7",
+          "name": "Encopresis",
+          "url": "https://gikids.org/digestive-topics/encopresis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2235",
+      "specific": false,
+      "key": "pdf1500_270",
+      "label": "Constipação intestinal funcional crônico",
+      "entity": "Constipação intestinal funcional crônica na infância; mesma entidade-base de pps_22, sem presumir impactação fecal",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_GRAMMATICAL_AGREEMENT_ERROR_AND_DUPLICATE_CHRONIC_QUALIFIER\",\"normalized_entity\":\"Constipação intestinal funcional crônica na infância\",\"normalized_label\":\"Constipação intestinal funcional crônica\",\"normalized_key\":\"pps_22\",\"unsupported_or_non_autonomous_qualifier\":\"‘crônico’ está em gênero gramatical inadequado; ‘crônica’ descreve duração, mas não constitui entidade distinta\",\"assessment\":\"Constipação intestinal funcional é uma entidade clínica válida e frequentemente persistente ou recorrente. A SBP classifica constipação como aguda ou crônica e descreve a forma funcional com retenção, dor, fezes endurecidas e possível incontinência fecal retentiva. O NICE define constipação crônica como duração superior a oito semanas, enquanto os critérios pediátricos de Roma IV usam duração mínima própria para firmar constipação funcional; o cadastro não informa cronologia suficiente para aplicar automaticamente qualquer limiar. A correção de concordância é ‘crônica’. O termo não demonstra causa orgânica, impactação, encoprese, falha terapêutica ou gravidade.\",\"reconciliation\":{\"relationship\":\"GRAMMATICAL_VARIANT_AND_NON_ADDITIVE_DUPLICATE_OF_pps_22\",\"canonical_key\":\"pps_22\",\"canonical_label\":\"Constipação Intestinal Funcional Crônica e Impactação Fecal\",\"content_rule\":\"Compartilhar a orientação segura de constipação funcional crônica. Manter a avaliação de impactação como ramo condicional: escape/encoprese pode sugerir transbordamento, mas não confirma fecaloma nem autoriza limpeza intestinal sem avaliação e prescrição.\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\",\"difference_retained\":\"O rótulo pdf1500_270 permanece pesquisável e auditável; sua forma normalizada é ‘crônica’. Diferentemente do nome ampliado de pps_22, esta entrada não afirma impactação fecal.\"},\"not_automatically_equivalent_to\":[\"Impactação fecal, fecaloma ou obstrução intestinal\",\"Encoprese/incontinência fecal retentiva confirmada; escape também exige distinguir outras causas\",\"Constipação refratária, intratável, grave ou de trânsito lento\",\"Doença de Hirschsprung, malformação anorretal, doença celíaca, hipotireoidismo ou causa neurológica\",\"Constipação induzida por medicamento, alergia à proteína do leite de vaca ou quadro pós-infeccioso\",\"Disquesia do lactente ou intervalo longo normal em bebê amamentado com fezes macias\",\"Necessidade automática de exame, enema, desimpactação, internação ou encaminhamento cirúrgico\"],\"pediatric_scope\":\"Do recém-nascido ao adolescente. Em lactentes, frequência isolada e esforço antes de fezes macias não bastam para constipação; início ao nascer/nas primeiras semanas, atraso de mecônio, vômito bilioso, distensão ou baixo crescimento exigem investigação. Em crianças com controle esfincteriano, retenção, dor, fezes volumosas e escape podem compor constipação funcional. Escola, privacidade, desenvolvimento e condições neurodivergentes devem ser considerados sem culpar a criança.\",\"critical_context_to_confirm\":[\"Idade atual, idade de início, duração real e padrão anterior de evacuações\",\"Consistência, calibre, dor, frequência, sangue, fissura, retenção voluntária e entupimento do vaso\",\"Escape fecal/encoprese, relação com evacuações, controle esfincteriano, sintomas urinários e impacto psicossocial\",\"Eliminação de mecônio, crescimento, vômitos, distensão, febre, fraqueza de pernas e achados de coluna/períneo\",\"Dieta e líquidos adequados à idade, aleitamento/fórmula, rotina, banheiro na escola e etapa do desfralde\",\"Medicamentos e suplementos que podem prender o intestino; plano prescrito, adesão, resposta e eventos adversos\",\"Se impactação foi confirmada por avaliação clínica e qual plano de desimpactação e manutenção foi realmente orientado\",\"Se falha aparente decorre de diagnóstico incorreto, tratamento incompleto, retirada precoce, dificuldade de acesso ou causa orgânica\"],\"counting_rule\":\"Conservar pdf1500_270 e o nome de origem, normalizar apenas a interpretação clínica e reconciliar com pps_22. Não somar uma entidade. Não propagar ‘impactação fecal’ a esta entrada sem confirmação e não transformar o erro de concordância em nova doença.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome correto é constipação intestinal funcional crônica. ‘Funcional’ significa que, após avaliação, não foi encontrada uma causa orgânica que explique o quadro; ‘crônica’ indica persistência, não gravidade. Esses termos não substituem a avaliação dos sinais de alarme abaixo.",
+          "Anote por alguns dias a consistência e o tamanho das fezes, dor, esforço, intervalos, sangue, postura de retenção, escapes na roupa, sintomas urinários e resposta ao plano. Leve o registro ao retorno; frequência isolada não define constipação.",
+          "A criança pode cruzar as pernas, ficar rígida ou se esconder para segurar as fezes por medo da dor. Acolha sem bronca. Escape ou ‘encoprese’ pode ocorrer quando fezes passam ao redor de um acúmulo e costuma ser involuntário; não é preguiça nem provocação.",
+          "Líquido ou fezes amolecidas escapando não provam que o intestino esvaziou. Impactação/fecaloma precisa ser avaliada, e sua limpeza é diferente do tratamento de manutenção.",
+          "Avise cuidadores e escola apenas no limite necessário, preserve a privacidade e combine acesso fácil ao banheiro e troca de roupa discreta. Não restrinja escola por constipação estável, mas sintomas de perigo prevalecem sobre a rotina.",
+          "Bebê pode fazer força, chorar e ficar vermelho antes de eliminar fezes macias sem estar constipado. Não faça estímulo anal, retirada manual ou supositório para ‘ensinar’ a evacuar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para quem já usa penico ou vaso, ofereça momentos tranquilos após as refeições, com assento seguro e pés apoiados. Elogie o ato de sentar e tentar; não force permanência longa, não cobre resultado e não castigue escapes.",
+          "Ajude a criança a atender à vontade de evacuar em vez de reter. Investigue medo do banheiro, dor, falta de privacidade ou proibição de usar o banheiro na creche/escola e combine uma solução com a equipe escolar.",
+          "Mantenha diário simples de evacuações, escapes e medicamentos. O objetivo é acompanhar evolução e facilitar ajustes pela equipe, não vigiar ou constranger a criança.",
+          "Mantenha atividade física adequada à idade e à capacidade. No desfralde com dor ou conflito, reduza a pressão e combine a etapa seguinte com a equipe; primeiro é preciso tornar a evacuação confortável.",
+          "Não massageie com força uma barriga dolorosa ou distendida, não introduza termômetro/cotonete no ânus e não tente retirar fezes manualmente. Não use lavagem intestinal caseira.",
+          "Rotina e comportamento ajudam, mas não substituem o tratamento de fezes retidas nem a investigação de sinais orgânicos."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o medicamento, a apresentação e o modo de usar prescritos para esta criança. Esta ficha não fornece dose e não autoriza iniciar, trocar, aumentar, repetir ou suspender laxante por conta própria.",
+          "Quando há impactação confirmada, desimpactação e manutenção são fases diferentes. Siga o plano escrito e o retorno combinado; não repita uma ‘limpeza’ nem intensifique o tratamento porque houve escape, dor ou pouca resposta sem falar com a equipe.",
+          "O tratamento de manutenção frequentemente dura meses e pode precisar continuar depois que as evacuações melhoram. Não suspenda abruptamente nem reduza após a primeira evacuação; retirada precoce favorece nova retenção.",
+          "Não use enema, supositório, óleo mineral, laxante de adulto, chá, erva, probiótico ou receita caseira sem orientação. Produtos retais e óleo mineral têm riscos específicos e não são alternativas automáticas.",
+          "Informe dificuldade de comprar, preparar ou administrar, doses perdidas, recusa, vômito, diarreia, dor nova e todos os outros remédios/suplementos. Isso permite revisar adesão, efeitos e medicamentos que podem piorar a constipação sem culpar a família.",
+          "Se houver piora importante, vômitos, distensão, desidratação ou dor contínua durante o tratamento, não dê doses extras: procure avaliação conforme os sinais de urgência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada adequada à idade, com frutas, verduras, leguminosas e cereais integrais quando já fazem parte da fase alimentar. Acrescente fibras de forma gradual; não imponha farelos, suplementos ou dietas restritivas.",
+          "Ofereça os líquidos habituais em quantidade adequada à idade e ao clima, sem forçar grandes volumes. Dieta, fibra e água sozinhas não costumam desfazer fezes impactadas nem substituem um plano prescrito.",
+          "No bebê, mantenha aleitamento materno ou fórmula preparada exatamente como orientado. Não dilua ou concentre fórmula, acrescente açúcar/óleo, troque leite, ofereça água ou suco antes da idade apropriada ou retire alimentos para tratar a constipação sem avaliação.",
+          "Exclusão de leite de vaca não é tratamento de rotina. Só faça se a equipe indicar por suspeita clínica e orientar como preservar nutrição e como reavaliar a resposta.",
+          "Não force comida quando houver dor forte, vômitos ou barriga muito distendida. Se a criança não consegue beber, vomita repetidamente ou urina muito menos, procure atendimento.",
+          "A constipação pode reduzir o apetite; registre a evolução e o crescimento. Perda de peso ou crescimento insuficiente é sinal para investigação, não motivo para apenas aumentar fibras ou laxante em casa."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Barriga muito distendida com vômitos, principalmente verdes, dor abdominal forte ou contínua, ou piora rápida pode indicar obstrução ou outra causa orgânica. Procure pronto atendimento imediatamente e não faça enema nem dê dose extra.",
+          "Vômitos repetidos, incapacidade de beber ou mamar, urina muito reduzida, boca muito seca, prostração, desmaio, confusão ou criança difícil de acordar exigem atendimento imediato. Em situação grave, acione o SAMU 192.",
+          "Sangramento em grande quantidade, fezes pretas, palidez intensa ou desmaio exige urgência. Pequena faixa de sangue vivo pode ocorrer com fissura, mas sangue recorrente ou sem explicação precisa de avaliação sem demora.",
+          "Febre com queda do estado geral, dor abdominal importante ou vômitos não deve ser atribuída automaticamente à constipação. Procure avaliação imediata.",
+          "Fraqueza nova nas pernas, dificuldade para caminhar, perda de sensibilidade, perda nova do controle urinário/fecal ou incapacidade de urinar exige avaliação urgente neurológica e abdominal.",
+          "Em recém-nascido ou lactente pequeno, distensão progressiva, vômito verde, dificuldade para mamar ou pouca resposta é emergência; não espere uma evacuação nem tente estimular o ânus."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se foi prescrito plano de desimpactação, confirme reavaliação em até 1 semana, conforme a diretriz NICE, ou no prazo menor indicado pela equipe. Retorne antes se não funcionar, se o escape aumentar sem orientação, ou se surgirem dor forte, vômitos ou distensão.",
+          "Após iniciar ou mudar o tratamento de manutenção, combine acompanhamento individual; uma referência pediátrica prática é revisão em até 4 semanas. A equipe ajusta pela consistência/frequência, dor, retenção, escape e capacidade de seguir o plano, não apenas pelo número de dias.",
+          "Procure avaliação pediátrica pronta se os sintomas começaram ao nascer ou nas primeiras semanas, houve eliminação de mecônio após 48 horas no bebê a termo, fezes em fita, vômitos persistentes, barriga muito distendida, baixo ganho/perda de peso, febre, alterações do ânus/coluna ou fraqueza das pernas.",
+          "Em menor de 1 ano, suspeita de constipação merece avaliação. Se um lactente não responder ao tratamento adequado em até 4 semanas, o NICE recomenda encaminhamento urgente para profissional habilitado a avaliar causas anatômicas ou doença de Hirschsprung.",
+          "Antecipe o retorno se persistirem escape/encoprese, sangue, dor, retenção, sintomas urinários, recusa do banheiro, bullying ou dificuldade para administrar o plano. Escape recorrente não é motivo para castigo nem prova automática de desobediência.",
+          "Se não houver resposta ao tratamento inicial corretamente acompanhado em até 3 meses, peça avaliação por profissional com experiência em constipação pediátrica. Falha aparente deve levar à revisão do diagnóstico, impactação, adesão e causas orgânicas; não à repetição indefinida de receitas em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Suspeita de constipação nos primeiros meses, sobretudo com início desde o nascimento, atraso de mecônio, distensão, vômito verde, dificuldade para mamar ou baixo ganho, precisa de avaliação pediátrica pronta; sinais sistêmicos exigem emergência. Esforço antes de fezes macias pode ser disquesia e não deve ser tratado com água, suco, laxante, supositório ou estímulo anal por conta própria.",
+        "3a5m": "Frequência baixa isolada em bebê amamentado e força com fezes macias não confirmam constipação. Observe consistência, dor, mamadas, vômitos, distensão e crescimento; não altere leite/fórmula nem ofereça água, suco ou medicamento sem orientação.",
+        "6a11m": "Mantenha aleitamento ou fórmula corretamente preparada e alimentação complementar apropriada. Fezes duras, dor ou retenção pedem revisão da alimentação e avaliação; vômitos, distensão ou baixo ganho antecipam atendimento. Não trate somente aumentando água ou fruta.",
+        "1a": "Acompanhe fezes, dor, fissura e sinais de retenção. Ofereça alimentos e líquidos adequados à idade e movimento livre; não pressione desfralde precoce ou durante evacuações dolorosas. Lactente sem resposta adequada em 4 semanas precisa revisão especializada conforme o NICE.",
+        "2a5": "É comum o ciclo dor–medo–retenção nesta fase. Use penico/vaso seguro, apoio para os pés, rotina breve após refeições e elogio pela participação. Escape é geralmente involuntário; proteja a criança de castigos, vergonha e bullying e confirme se há impactação.",
+        "6a11": "Combine acesso reservado ao banheiro na escola, tempo suficiente e troca discreta se houver escape. Inclua a criança no diário sem vigilância punitiva; revise dor, retenção, sintomas urinários, adesão, medicamentos e impacto emocional.",
+        "12a17": "Converse diretamente com o adolescente, preservando privacidade e autonomia. Pergunte sobre retenção na escola, rotina, dieta restritiva, medicamentos/suplementos, sangue, perda de peso, sintomas urinários e adesão; não confunda vergonha ou dose perdida com refratariedade.",
+        "unknown": "Confirmar idade, início, duração, consistência, retenção, controle esfincteriano, escape, crescimento, alarmes orgânicos, dieta e plano recebido. Até isso ser conhecido, não definir desimpactação, dose, dieta, retorno ou segurança domiciliar apenas pelo rótulo ‘crônico’."
+      },
+      "refs": [
+        {
+          "id": "pais239_op2235_1",
+          "name": "Guia Prático de Orientação nº 144 — Constipação intestinal",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24448f-GPO-Constipacao_intestinal.pdf"
+        },
+        {
+          "id": "pais239_op2235_2",
+          "name": "Constipação intestinal",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/constipacao-intestinal/"
+        },
+        {
+          "id": "pais239_op2235_3",
+          "name": "Constipation in children and young people: diagnosis and management — Recommendations (CG99)",
+          "url": "https://www.nice.org.uk/guidance/cg99/chapter/Recommendations"
+        },
+        {
+          "id": "pais239_op2235_4",
+          "name": "Evaluation and Treatment of Functional Constipation in Infants and Children: Evidence-Based Recommendations From ESPGHAN and NASPGHAN",
+          "url": "https://www.espghan.org/dam/jcr:f2f56a3b-f3f5-4af7-8284-a4aba555a5f2/Evaluation_and_Treatment_of_Functional.24.pdf"
+        },
+        {
+          "id": "pais239_op2235_5",
+          "name": "Clinical Practice Guidelines: Constipation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/constipation/"
+        },
+        {
+          "id": "pais239_op2235_6",
+          "name": "Constipation in Children",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Constipation.aspx"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2236",
+      "specific": false,
+      "key": "pdf1500_271",
+      "label": "Constipação intestinal funcional de origem infecciosa",
+      "entity": "Constipação intestinal funcional pediátrica, com qualificador causal infeccioso não reconhecido; uma infecção ativa, uma condição pós-infecciosa e a constipação funcional exigem avaliações distintas",
+      "assessment": "{\"classification\":\"CONTRADICTORY_UNSUPPORTED_INFECTIOUS_CAUSAL_QUALIFIER_WITH_POSTINFECTIOUS_DISTINCTION\",\"normalized_entity\":\"Constipação intestinal funcional pediátrica, após exclusão clínica de causa orgânica relevante\",\"canonical_record\":{\"key\":\"pdf1500_267\",\"label\":\"Constipação intestinal funcional\",\"relationship\":\"SAME_FUNCTIONAL_CONSTIPATION_ENTITY_AFTER_REMOVAL_OF_UNSUPPORTED_CAUSAL_QUALIFIER\",\"baseline_state\":\"PUBLISHED na fila examinada; a presente tarefa não modifica nem republica a ficha canônica\",\"counting_effect\":\"ZERO_ADDITIONAL_CLINICAL_ENTITY\"},\"assessment\":\"‘Funcional’ não significa imaginário nem dispensa avaliação: descreve um padrão clínico definido de constipação que não é plenamente explicado por outra doença após avaliação apropriada. Infecções podem ser acontecimentos precipitantes — por exemplo, pela dor, redução transitória da ingestão, mudança de rotina ou retenção — e gastroenterite aguda pode ser seguida por transtorno da interação intestino-cérebro. Isso é diferente de afirmar que microrganismos continuam causando a constipação. Infecção ativa deve ter diagnóstico próprio; persistência após resolução da gastroenterite pode exigir avaliação de IBS pós-infeccioso ou outro DGBI, mas os estudos não validam ‘constipação funcional de origem infecciosa’ como subtipo pediátrico.\",\"postinfectious_resolution\":{\"supported\":\"Após gastroenterite aguda, crianças podem desenvolver posteriormente transtornos da interação intestino-cérebro; coortes pediátricos atuais sustentam a associação, e IBS pós-infeccioso é uma apresentação descrita.\",\"not_supported\":\"Uma gastroenterite prévia, isoladamente, não prova que constipação atual seja infecciosa, não identifica patógeno e não autoriza antimicrobiano. O coorte pediátrico multicêntrico de 2015 encontrou aumento significativo principalmente de transtornos relacionados à dor abdominal, não de constipação funcional em comparação com controles.\",\"clinical_boundary\":\"Sintomas contínuos ou novos depois da infecção devem ser classificados pelo padrão atual e pelos critérios aplicáveis, após excluir sinais de doença ativa, inflamatória, estrutural, metabólica ou cirúrgica. Dor abdominal predominante que persiste apesar da melhora da constipação orienta investigação de IBS/outro diagnóstico, não reforça automaticamente constipação funcional.\"},\"not_automatically_equivalent_to\":[\"Gastroenterite viral, bacteriana ou parasitária ativa\",\"IBS pós-infeccioso ou outro transtorno pós-infeccioso da interação intestino-cérebro\",\"Diarreia por transbordamento sobre impactação fecal\",\"Obstrução intestinal, volvo, intussuscepção ou aderências pós-operatórias\",\"Apendicite, peritonite ou outra causa de abdome agudo\",\"Doença de Hirschsprung ou enterocolite associada à doença de Hirschsprung\",\"Infecção urinária, pielonefrite, pneumonia ou outra infecção extraintestinal que cause dor abdominal/febre\",\"Doença inflamatória intestinal, doença celíaca, hipotireoidismo ou distúrbio metabólico\",\"Infecção perianal estreptocócica, fissura ou outra fonte de dor que provoque retenção\",\"Constipação secundária a medicamento\",\"Indicação automática de antibiótico, antiparasitário, laxante, supositório, enema ou dose\"],\"critical_context_to_confirm\":[\"Idade exata, prematuridade, início dos sintomas e eliminação do mecônio nas primeiras 48 horas no recém-nascido a termo\",\"Critérios atuais de constipação: frequência, fezes duras/dolorosas, retenção, massa fecal, fezes volumosas e escape após aquisição do controle esfincteriano\",\"Qual infecção foi realmente diagnosticada, por qual método, quando ocorreu, qual tratamento foi usado e se os sintomas agudos já cessaram\",\"Febre ou temperatura baixa, vômitos — especialmente verdes —, diarreia, sangue ou muco, dor focal/progressiva, recusa de andar e aparência geral\",\"Distensão, passagem de gases e fezes, cirurgia abdominal prévia, hérnia e episódios de dor em ondas\",\"Ingestão, sede, urina, lágrimas, boca seca, perda de peso, crescimento e sinais de desidratação\",\"Dor/lesão perianal, fissura, vermelhidão, secreção, prurido e medo de evacuar\",\"Sintomas urinários, respiratórios, neurológicos, genitais/testiculares ou ginecológicos que possam apontar outra causa\",\"Medicamentos e suplementos iniciados recentemente, inclusive antimicrobianos, anticolinérgicos, opioides, ferro e outros potencialmente constipantes\",\"Imunossupressão, doença de Hirschsprung, doença inflamatória intestinal, fibrose cística, doença celíaca, condição neurológica ou malformação anorretal\"],\"pediatric_scope\":\"Orientação familiar de segurança para crianças e adolescentes cujo cadastro contém o qualificador infeccioso. O cuidado rotineiro só se aplica se constipação funcional tiver sido avaliada, a criança estiver clinicamente bem e não houver sinais de infecção ativa, obstrução, abdome agudo ou doença orgânica. Recém-nascidos, lactentes pequenos, crianças imunossuprimidas, pacientes com doença de Hirschsprung/cirurgia abdominal ou qualquer sinal sistêmico exigem limiar mais baixo para avaliação presencial.\",\"counting_rule\":\"Manter pdf1500_271 para identidade, busca e auditoria, mas contar zero nova entidade em relação a pdf1500_267. Não somar ‘origem infecciosa’ como subtipo nem compartilhar este rótulo com diagnósticos infecciosos sem confirmação própria.\",\"inferences\":[\"A incompatibilidade causal é uma inferência terminológica sustentada pelos critérios Roma V, que exigem que outra condição não explique plenamente os sintomas; ela não nega que um episódio infeccioso possa precipitar retenção ou anteceder DGBI.\",\"A separação entre pós-infeccioso e infecção persistente decorre dos coortes pediátricos: eles medem DGBI/IBS depois de gastroenterite, não demonstram patógeno ativo causando constipação.\",\"O portão para febre e abdome agudo decorre da sobreposição clínica: gastroenterite, apendicite, infecção urinária, sepse e obstrução podem apresentar dor/vômitos e não devem ser reclassificadas como constipação funcional.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O termo ‘de origem infecciosa’ não é um subtipo reconhecido de constipação funcional. Use o cuidado de rotina apenas se um profissional avaliou a criança, confirmou o padrão funcional e não encontrou sinais de infecção ativa, obstrução ou outra doença. Constipação funcional não passa de uma pessoa para outra.",
+          "Registre por alguns dias a frequência e a aparência das fezes, dor para evacuar, posturas de retenção, escapes na roupa, apetite, líquidos e resposta ao plano recebido. Anote separadamente febre, vômitos, diarreia, sangue, dor localizada e sintomas urinários; esses achados podem indicar outro diagnóstico.",
+          "Fezes líquidas ou manchas na roupa podem ser transbordamento ao redor de fezes retidas, mas diarreia aguda com febre, vômitos, sangue, contato doente ou perda de líquidos pode ser infecção. A família não precisa decidir sozinha: peça avaliação quando o padrão for novo ou incerto.",
+          "Uma gastroenterite anterior pode ser seguida por sintomas intestinais persistentes, porém isso não significa que a infecção continua. Dor que predomina ou persiste mesmo quando as fezes amolecem e a retenção melhora precisa de reavaliação para IBS pós-infeccioso e outros diagnósticos.",
+          "Não culpe, castigue nem envergonhe por retenção ou escape. Dor e medo podem manter o ciclo de retenção; acolhimento, privacidade e um plano previsível ajudam mais que pressão.",
+          "Se houver nova doença com vômitos/diarreia, trate-a como episódio separado: reforce higiene das mãos e siga a orientação própria de hidratação, transmissão e retorno. Não presuma que todo sintoma seja parte da constipação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para crianças que já usam penico ou vaso, ofereça tentativas tranquilas após refeições, com assento seguro e pés apoiados. Elogie a participação; não obrigue a evacuar nem prolongue a permanência como punição.",
+          "Permita acesso rápido, limpo e reservado ao banheiro em casa e na escola. Retenção por medo, falta de privacidade ou mudança de rotina pode começar durante ou depois de uma doença, sem que haja infecção intestinal persistente.",
+          "Mantenha atividade física habitual conforme a idade e o estado clínico. Criança febril, desidratada, com dor forte ou muito abatida não deve ser forçada a brincar ou ir à escola; precisa de avaliação e repouso conforme a doença aguda.",
+          "Não faça estímulo anal, retirada manual de fezes, lavagem intestinal, massagem vigorosa nem introduza objetos. Na presença de dor forte, distensão, vômito ou falta de gases/fezes, essas tentativas podem atrasar o diagnóstico de obstrução ou abdome agudo.",
+          "Higiene das mãos é indicada depois do banheiro e antes de preparar alimentos. Medidas de isolamento ou afastamento por número fixo de dias dependem de uma infecção diagnosticada e das regras locais; o rótulo de constipação funcional não justifica afastamento."
+        ],
+        "MEDICAMENTOS": [
+          "Este rótulo não autoriza antibiótico nem antiparasitário. Gastroenterites podem ser virais, bacterianas, parasitárias ou não infecciosas, e antimicrobianos só cabem em situações selecionadas após diagnóstico; não use sobras nem receita de outra pessoa.",
+          "Esta ficha também não escolhe laxante, apresentação, dose, intervalo, desimpactação ou duração. Se já existe um plano individual prescrito, siga-o e confirme com a equipe como agir durante febre, vômitos, diarreia, baixa ingestão ou piora abdominal; não aumente nem combine produtos por conta própria.",
+          "Não use enema, supositório, óleo mineral, chá laxativo, produto ‘detox’ ou lavagem caseira sem orientação. Suspeita de obstrução, desidratação, doença renal, dificuldade para engolir ou lactente pequeno aumenta o risco de intervenções inadequadas.",
+          "Informe todos os medicamentos e suplementos recentes. Alguns podem favorecer constipação; antibióticos também podem causar diarreia e alterar a avaliação. Não interrompa tratamento necessário nem atribua causalidade sem revisão profissional.",
+          "Probiótico, antidiarreico e remédio para cólica não confirmam nem tratam automaticamente um quadro pós-infeccioso. Se um produto causar piora da dor, distensão, vômitos, sonolência ou reação alérgica, suspenda o produto novo e procure orientação; reação grave ou dificuldade para respirar exige emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada adequada à idade, com frutas, verduras, legumes e grãos quando já introduzidos, além dos líquidos habituais. A diretriz atual recomenda dieta equilibrada, água e fibras apropriadas à idade; excesso de água ou fibra não desimpacta o intestino nem substitui o plano clínico.",
+          "Após gastroenterite, retome a alimentação habitual conforme tolerância e mantenha aleitamento materno. Não imponha jejum prolongado, dieta muito restrita, retirada de leite/glúten/lactose ou suplemento para ‘limpar a infecção’ sem indicação individual.",
+          "No bebê, mantenha leite materno ou fórmula preparada exatamente como orientado. Não dilua fórmula, acrescente água, chá ou suco, nem mude a concentração para tratar constipação ou recuperar líquidos.",
+          "Se houver vômitos/diarreia, observe sede, boca, lágrimas, nível de atividade e urina. Incapacidade de beber, vômitos repetidos, pouca urina ou sonolência exige avaliação; não force grandes volumes de uma vez.",
+          "Na suspeita de obstrução — especialmente vômito verde, dor forte e barriga progressivamente inchada — não force comida, líquidos, fibras ou laxantes em casa. Vá ao pronto atendimento imediatamente; a equipe definirá quando e como alimentar com segurança."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde-escuro é obstrução gastrointestinal até prova em contrário. Também procure emergência diante de barriga cada vez mais inchada, dor forte/contínua ou em crises intensas, incapacidade de eliminar gases e fezes, vômitos repetidos ou antecedente de cirurgia intestinal.",
+          "Dor que se localiza ou piora, abdome rígido, dor ao tocar ou ao caminhar/pular, recusa de andar, palidez intensa, suor frio ou criança que não quer se mover pode indicar apendicite, peritonite, torção, intussuscepção ou outro abdome agudo; não espere o laxante funcionar.",
+          "Febre ou temperatura baixa com prostração, confusão, dificuldade para acordar, respiração anormal, vômitos repetidos, dor abdominal importante, rigidez de nuca ou piora rápida exige avaliação imediata de infecção, sepse e outras causas. Constipação funcional isolada não explica aparência tóxica.",
+          "Diarreia com sangue, sangramento retal em grande quantidade, fezes pretas, vômito com sangue, sede intensa, boca muito seca, olhos fundos ou urina muito reduzida exige atendimento urgente.",
+          "Em criança com doença de Hirschsprung conhecida ou suspeita, distensão dolorosa súbita, febre, diarreia aquosa/fétida ou sanguinolenta, vômitos e abatimento podem indicar enterocolite e exigem hospital imediatamente.",
+          "Recém-nascido ou lactente pequeno com atraso para eliminar mecônio, barriga distendida, vômito verde, mamada pior, febre/temperatura baixa ou pouca resposta precisa de avaliação imediata; não trate como constipação funcional ou pós-infecciosa em casa.",
+          "Ligue 192 se houver dificuldade para respirar, pele/lábios azulados, desmaio, convulsão, confusão ou dificuldade importante para despertar."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação no mesmo dia se surgirem febre, vômitos, diarreia nova, sangue/muco, dor localizada, ardor ao urinar, urina com cheiro forte, dor lombar, lesão perianal dolorosa ou piora do estado geral. Esses achados pedem diagnóstico próprio e não confirmam ‘origem infecciosa’ da constipação.",
+          "Se os sintomas começaram depois de gastroenterite e persistem após o quadro agudo, marque consulta para reconstruir a linha do tempo e o padrão atual. A equipe pode avaliar constipação funcional, IBS pós-infeccioso, intolerância transitória, doença inflamatória, infecção persistente selecionada ou outra causa; exame de fezes não é automático para toda criança.",
+          "Reavalie conforme o prazo combinado após iniciar ou ajustar um plano de constipação, e antes se não houver melhora progressiva, se a criança não conseguir cumprir o plano, se o escape continuar ou se a dor se tornar predominante. Não intensifique medicamento usando apenas o número de dias sem evacuar.",
+          "Constipação desde o nascimento/primeiras semanas, mecônio após 48 horas no recém-nascido a termo, fezes em fita, distensão crônica com vômitos, fraqueza nas pernas, alteração da região sacral, perda de peso ou crescimento insuficiente exigem avaliação de causas orgânicas.",
+          "Recorrência frequente após infecções, necessidade repetida de antibióticos ou ‘vermífugos’, ou sintomas por meses merece revisão diagnóstica. O objetivo é identificar o padrão real e evitar tratamentos antimicrobianos desnecessários.",
+          "Confirme com a equipe quando retornar à creche/escola se houver infecção ativa, febre, vômitos ou diarreia. Constipação funcional estável, por si só, não é contagiosa e não exige afastamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não aplicar o rótulo causal em casa. Confirme eliminação do mecônio e início dos sintomas; recém-nascido/lactente jovem com febre ou temperatura baixa, vômito — sobretudo verde —, distensão, mamada pior, pouca urina ou sonolência precisa de avaliação imediata. Não ofereça água, chá, suco, laxante, enema ou estímulo anal.",
+        "3a5m": "Menores de 6 meses têm maior risco de desidratação e apresentações inespecíficas. Esforço antes de fezes macias pode ser disquesia, não constipação; fezes duras/dolorosas, vômitos, distensão, febre, diarreia ou alimentação pior exigem avaliação precoce. Preserve leite materno/fórmula correta e não medique por este rótulo.",
+        "6a11m": "Diferencie mudança após alimentação complementar de doença aguda. Mantenha leite e alimentos adequados à idade, sem diluir fórmula ou oferecer produtos ‘para infecção’. Febre, vômitos, diarreia com sangue, menos fraldas molhadas, distensão ou irritabilidade persistente exige avaliação; vômito verde é emergência.",
+        "1a": "A criança não localiza bem a dor. Observe postura de retenção, fezes duras, escape, capacidade de brincar/andar, urina, febre e vômitos. Não force desfralde durante ou logo após doença. Dor forte, recusa de andar, distensão progressiva ou prostração não deve ser atribuída à constipação.",
+        "2a5": "Use penico/vaso seguro com apoio e recompense a tentativa sem castigo. Gastroenterite ou mudança de rotina pode iniciar retenção, mas febre, vômitos, dor que se localiza, recusa de pular/andar ou piora rápida exige avaliação de apendicite, infecção urinária, obstrução e outras causas; crianças pequenas podem não ter quadro clássico.",
+        "6a11": "Combine banheiro reservado e acesso sem demora na escola, registre fezes e sintomas sem constranger. Pergunte sobre episódio infeccioso real, dor que persiste após evacuar, sintomas urinários e perda de peso. Afastamento escolar depende de febre, vômitos/diarreia, bem-estar e regras da infecção, não da constipação funcional.",
+        "12a17": "Converse com privacidade sobre padrão intestinal, dor, alimentação, medicamentos/suplementos, antibióticos recentes, saúde menstrual/sexual e sintomas urinários ou genitais. Dor pélvica/testicular, possibilidade de gestação, vômitos, febre, sangue ou perda de peso exige avaliação própria. Não se automedique com antibiótico, laxante ou produto para emagrecer/detox.",
+        "unknown": "Antes de adaptar a ficha, confirme idade, início, mecônio, padrão das fezes, infecção documentada e sua data, febre, vômitos/diarreia, distensão, gases, dor focal, hidratação, crescimento, cirurgias/comorbidades e medicamentos. Sem idade ou avaliação confiável, não assumir cuidado domiciliar nem causa infecciosa; qualquer sinal de alarme prevalece."
+      },
+      "refs": [
+        {
+          "id": "pais239_op2236_1",
+          "name": "Rome V Criteria — H2a. Functional Constipation",
+          "url": "https://theromefoundation.org/rome-v-criteria/"
+        },
+        {
+          "id": "pais239_op2236_2",
+          "name": "European Society for Paediatric Gastroenterology, Hepatology and Nutrition/North American Society for Pediatric Gastroenterology, Hepatology and Nutrition guidelines for treatment of functional constipation in children aged 0–18 years",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/jpn3.70447"
+        },
+        {
+          "id": "pais239_op2236_3",
+          "name": "Constipation in children and young people: diagnosis and management — Recommendations (CG99)",
+          "url": "https://www.nice.org.uk/guidance/cg99/chapter/Recommendations"
+        },
+        {
+          "id": "pais239_op2236_4",
+          "name": "Clinical Practice Guidelines: Abdominal pain — acute",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain/"
+        },
+        {
+          "id": "pais239_op2236_5",
+          "name": "Clinical Practice Guidelines: Gastroenteritis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastroenteritis/"
+        },
+        {
+          "id": "pais239_op2236_6",
+          "name": "Postinfectious functional gastrointestinal disorders in children: a multicenter prospective study",
+          "url": "https://fair.unifg.it/bitstream/11369/332828/2/Postinfectious%20Functional%20Gastrointestinal%20Disorders%20in%20Children_%20A%20Multicenter%20Prospective%20Study.pdf"
+        },
+        {
+          "id": "pais239_op2236_7",
+          "name": "Post-infectious irritable bowel syndrome in a paediatric population: first data in a Middle Eastern country",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232011/"
+        },
+        {
+          "id": "pais239_op2236_8",
+          "name": "The ten ‘hard’ questions in pediatric functional constipation",
+          "url": "https://link.springer.com/article/10.1186/s13052-024-01623-y"
+        },
+        {
+          "id": "pais239_op2236_9",
+          "name": "Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41713707/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

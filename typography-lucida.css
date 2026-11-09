@@ -1,0 +1,55 @@
+/* Lucida Sans Unicode: system-font stack; no proprietary font file is distributed.
+   Shared by the main page, the PPS library and printed documents. */
+:root, :host { --font-site: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Verdana, Arial, sans-serif; }
+html, body, :host, *, *::before, *::after, input::placeholder, textarea::placeholder {
+  font-family: var(--font-site) !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-synthesis: none;
+  letter-spacing: normal !important;
+}
+body, :host { font-size: 1rem !important; line-height: 1.65; }
+button, input, select, textarea, option { line-height: 1.55; }
+h1, h2, h3, h4 { line-height: 1.45 !important; overflow-wrap: break-word; }
+h1 { font-size: clamp(2rem, 4.5vw, 2.75rem) !important; }
+h2, .panelhead h2 { font-size: 1.25rem !important; }
+h3, .empty h3, .guidancetitle, .readerhead h3 { font-size: 1.625rem !important; }
+.brand strong { font-size: 1.125rem !important; }
+.brand small, .eyebrow, .step, .readerhead .kicker { text-transform: none; }
+.brand small, .hero .eyebrow, .eyebrow, .step, .version,
+.help, .editednote, .footpanel, .sources a, .sources p,
+.privacy, .privacy h2, .empty .tags, .catalog button small,
+.library-top p, .edition, .edition strong, .stat span, .searchmeta,
+.check, .item small, .source, .footer p, .badge, .pager span,
+.results-top span, .readerhead .kicker, .loading,
+main .bjhr-review > p, main .bjhr-review a, main .bjhr-grid p {
+  font-size: .875rem !important;
+  line-height: 1.65 !important;
+}
+p, li, nav a, label, .fieldlabel, summary, .secondary, .reset,
+.panelhead p, .hero p, .empty p, .chip, .modebar, .tab, .status,
+.guidance-section h3, .guidance-section ul, .catalog button,
+.intro, .notice, .context, .field h4, .field p, .field .prose,
+.original, .item, .results-top h3, .nav button, .pager button,
+.actions button, .footer button, main .bjhr-grid summary {
+  font-size: 1rem !important;
+  line-height: 1.65 !important;
+}
+input[type=text], input[type=search], select, textarea, .editor, .primary {
+  font-size: 1rem !important;
+  line-height: 1.6 !important;
+}
+.stat strong { font-size: 1.75rem !important; }
+.brand, .hero > div, .topbar > nav, .modebadge, .tabs { min-width: 0; }
+nav a, button, summary { white-space: normal; overflow-wrap: break-word; }
+.topbar, .modebar, .resulthead, .searchmeta, .pager { flex-wrap: wrap; }
+.mark { flex-shrink: 0; }
+@media (max-width: 800px) {
+  .topbar { padding-top: 12px; padding-bottom: 12px; }
+  .topbar > nav { width: 100%; }
+  .brand strong { font-size: 1.125rem !important; }
+  .resulthead { gap: 14px; }
+}
+@media print {
+  body, .printout, pre { font-size: 11pt !important; line-height: 1.65 !important; }
+}

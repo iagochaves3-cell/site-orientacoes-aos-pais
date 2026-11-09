@@ -1,0 +1,14 @@
+{
+  "schema": "parents-directed-priority/1",
+  "checked_at": "2026-10-24T11:14:00.000Z",
+  "baseline_commit": "5750348b0fd84a74883f4eba7a9d0f63110bcfd2",
+  "records": [
+    {"key":"pdf1500_881","label":"Infecção do trato urinário baixa (Cistite) unilateral","specific":false,"clinical_entity":"Cistite / infecção da bexiga","term_resolution":true},
+    {"key":"pdf1500_882","label":"Influenza A","specific":true,"clinical_entity":"Influenza A","term_resolution":false},
+    {"key":"pdf1500_883","label":"Influenza B","specific":true,"clinical_entity":"Influenza B","term_resolution":false},
+    {"key":"pdf1500_884","label":"Ingestão de bateria em botão","specific":true,"clinical_entity":"Ingestão de bateria botão/disco","term_resolution":false},
+    {"key":"pdf1500_885","label":"Ingestão de corpo estranho (moeda)","specific":true,"clinical_entity":"Ingestão de moeda","term_resolution":false},
+    {"key":"pdf1500_886","label":"Intolerância à lactose primária","specific":true,"clinical_entity":"Não persistência primária da lactase","term_resolution":false}
+  ],
+  "honey_check": {"source_dose_ml":10,"interval_minutes":10,"maximum_doses":6,"maximum_total_ml":60,"reverse_check":"60 mL / 6 doses = 10 mL por dose","eligibility":"idade >= 12 meses, ingestão <= 12 h, consegue engolir, mel imediatamente disponível; não atrasar emergência"}
+}

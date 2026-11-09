@@ -1,0 +1,14 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-25T01:18:00.000Z",
+  "baseline_version": 114,
+  "baseline_commit": "741ddfe2dccd18498f1c392394846325c447cbd4",
+  "records": [
+    {"key":"pdf1500_976","label":"Meningite meningocócica sorogrupo B","kind":"menb","clinical_entity":"Meningite meningocócica pelo sorogrupo B","specific":true,"term_resolution":false},
+    {"key":"pdf1500_977","label":"Meningite meningocócica sorogrupo C","kind":"menc","clinical_entity":"Meningite meningocócica pelo sorogrupo C","specific":true,"term_resolution":false},
+    {"key":"pdf1500_979","label":"Meningite pneumocócica","kind":"pneumococcus","clinical_entity":"Meningite por Streptococcus pneumoniae","specific":true,"term_resolution":false},
+    {"key":"pdf1500_980","label":"Meningite por Haemophilus influenzae b","kind":"hib","clinical_entity":"Meningite invasiva por Haemophilus influenzae tipo b","specific":true,"term_resolution":false},
+    {"key":"pdf1500_981","label":"Meningite tuberculosa","kind":"tb","clinical_entity":"Meningite causada por Mycobacterium tuberculosis","specific":true,"term_resolution":false},
+    {"key":"pdf1500_982","label":"Meningite viral por Enterovírus","kind":"enterovirus","clinical_entity":"Meningite viral causada por enterovírus não pólio","specific":true,"term_resolution":false}
+  ]
+}

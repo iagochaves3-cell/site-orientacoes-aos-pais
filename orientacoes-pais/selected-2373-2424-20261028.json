@@ -1,0 +1,744 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T06:57:26.698Z",
+  "records": [
+    {
+      "jobId": "OP-2373",
+      "specific": true,
+      "key": "pdf1500_409",
+      "label": "Difteria",
+      "entity": "Difteria causada por bactéria produtora de toxina, especialmente a forma respiratória com pseudomembrana, doença transmissível, imunoprevenível e potencialmente fatal por obstrução da via aérea, miocardite, neuropatia e outras complicações sistêmicas",
+      "assessment": "{\"classification\":\"VALID_CANONICAL_HIGH_RISK_TRANSMISSIBLE_PEDIATRIC_ENTITY\",\"normalized_entity\":\"Difteria respiratória ou cutânea por Corynebacterium produtor de toxina\",\"assessment\":\"Difteria é uma entidade clínica pediátrica válida, rara no Brasil após a vacinação, mas grave e de notificação/controle por saúde pública. A forma respiratória pode começar com febre baixa, dor de garganta, rouquidão ou dificuldade para engolir e formar pseudomembrana aderente; pode progredir para obstrução de via aérea, miocardite, neuropatia, insuficiência renal e morte. A forma cutânea também pode transmitir a bactéria. O rótulo isolado não confirma local, produção de toxina, gravidade, situação vacinal, contatos, culturas, necessidade de suporte de via aérea nem plano terapêutico.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_409\",\"canonical_label\":\"Difteria\",\"relationship\":\"CANONICAL_BASE_ENTITY\",\"decision\":\"Usar pdf1500_409 como núcleo específico para difteria. Preservar distinção entre suspeita clínica, confirmação laboratorial, forma respiratória, forma cutânea e infecção por Corynebacterium não produtor de toxina; não compartilhar automaticamente conduta com faringites comuns, crupe viral ou outras pseudomembranas.\",\"counting_effect\":\"ONE_CANONICAL_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Faringite estreptocócica, mononucleose, candidíase ou amigdalite com exsudato\",\"Crupe viral, epiglotite ou corpo estranho de via aérea\",\"Úlcera cutânea, impetigo ou ectima sem investigação microbiológica\",\"Colonização ou infecção por Corynebacterium não produtor de toxina\",\"Qualquer placa de garganta removível\",\"Autorização para tratamento domiciliar, retorno escolar ou encerramento de isolamento\"],\"pediatric_scope\":\"Pode ocorrer em qualquer idade, com risco particularmente alto em crianças pequenas e pessoas não adequadamente vacinadas. Lactentes, crianças que não conseguem relatar sintomas e pacientes com dificuldade respiratória ou de deglutição exigem limiar muito baixo para atendimento hospitalar. Todo caso suspeito demanda coordenação imediata com vigilância/saúde pública e avaliação de contatos.\",\"critical_context_to_confirm\":[\"Forma respiratória, nasal, laríngea, cutânea ou outra; aspecto e extensão da pseudomembrana/lesão\",\"Respiração, estridor, retrações, voz, deglutição de saliva, inchaço cervical e capacidade de manter via aérea\",\"Estado cardíaco, neurológico, renal e hemodinâmico, inclusive sintomas que podem surgir tardiamente\",\"Culturas, testes de toxigenicidade e outras coletas organizadas sem atrasar o tratamento clínico indicado\",\"Histórico vacinal da criança e dos contatos, sem presumir imunidade após a doença\",\"Pessoas do domicílio, escola/creche, exposição a secreções ou lesões e orientação da vigilância\",\"Tratamento realmente prescrito, reações, conclusão documentada e critérios laboratoriais/epidemiológicos para suspender precauções\"],\"counting_rule\":\"Contar pdf1500_409 como uma entidade clínica-base específica. Não contar apresentações anatômicas ou contatos como novas doenças e não considerar infecção não toxigênica automaticamente como difteria.\",\"reason\":\"Entidade pediátrica válida, transmissível, imunoprevenível e potencialmente fatal. Requer orientação específica com atendimento imediato, proteção de via aérea, controle de transmissão, avaliação de contatos, vacinação e seguimento de complicações tardias, sem prescrição automática.\",\"next_action\":\"Coordenador deve integrar a ficha específica e testar seleção por ID/nome, oito idades, precedência de emergência respiratória/toxêmica, isolamento e liberação escolar dependentes da equipe/saúde pública, avaliação de contatos, vacinação pós-recuperação e ausência de dose ou duração inventada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Difteria é uma infecção transmissível que pode formar uma placa grossa e aderente na garganta ou atingir a pele. Na forma respiratória, a toxina pode causar obstrução da respiração, lesão do coração, dos nervos e dos rins. Suspeita de difteria não é situação para observar em casa: procure atendimento hospitalar imediatamente e avise que há suspeita de difteria.",
+          "Não tente raspar, puxar, limpar ou furar a placa da garganta. Não force a criança a abrir a boca se ela estiver com falta de ar, estridor, muita saliva ou agitação; manipular a garganta pode piorar a obstrução e atrasar o socorro.",
+          "Enquanto busca atendimento, mantenha a criança calma, sentada ou na posição em que respira melhor. Não a deixe sozinha. Use máscara bem ajustada quando tolerada e quando isso não piorar a respiração nem atrasar a saída; em bebê ou criança com dificuldade respiratória, priorize o transporte imediato e siga a orientação da emergência.",
+          "Evite contato próximo com outras pessoas, especialmente não vacinadas. Não compartilhe copos, talheres, escovas, toalhas ou objetos que tenham contato com saliva ou secreção de lesões. Cubra tosse e espirro e lave as mãos após contato com secreções, sem atrasar o atendimento.",
+          "Leve a caderneta de vacinação e informe início dos sintomas, viagem recente, contato com pessoa doente, presença de placas, lesões de pele e todas as pessoas que moram, estudam ou tiveram contato próximo com a criança. Esses dados ajudam a equipe e a vigilância a proteger os contatos.",
+          "Se o diagnóstico já estiver confirmado, cumpra o isolamento e as precauções definidos pela equipe e pela vigilância. Melhora da febre ou da dor não prova que a transmissão terminou; não interrompa isolamento, não receba visitas e não retorne à escola ou creche sem liberação formal."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "A forma respiratória exige precaução contra gotículas; a forma cutânea exige cuidado de contato. No hospital e após eventual alta, siga exatamente as instruções de máscara, quarto, higiene e cobertura de lesões dadas pela equipe e pela vigilância.",
+          "Mantenha o ambiente arejado quando possível, reduza o número de cuidadores e evite aglomeração. O cuidador deve higienizar as mãos antes e depois de tocar a criança, secreções, curativos ou objetos usados por ela.",
+          "Não manuseie a garganta e não faça nebulização, inalação caseira, vapor quente ou receitas irritantes para tentar soltar a placa. Não aplique produtos caseiros nas lesões de pele; faça apenas a limpeza e o curativo orientados pela equipe.",
+          "Observe continuamente esforço para respirar, ruído ao inspirar, retração entre as costelas, cor dos lábios, voz, deglutição, quantidade de saliva, inchaço do pescoço e nível de alerta. Qualquer piora exige emergência imediata.",
+          "Mesmo após melhora da garganta, observe palpitações, dor no peito, desmaio, cansaço desproporcional, fraqueza, voz anasalada, engasgos, alteração para caminhar ou redução da urina. Complicações cardíacas, neurológicas e renais podem aparecer depois.",
+          "Todas as pessoas consideradas contatos próximos precisam responder à vigilância e comparecer à avaliação indicada, mesmo vacinadas e sem sintomas. Culturas, acompanhamento, prevenção medicamentosa e atualização vacinal dos contatos são decisões da equipe, não da família por conta própria."
+        ],
+        "MEDICAMENTOS": [
+          "O tratamento da difteria respiratória é hospitalar e pode exigir antitoxina, antibiótico e suporte da respiração. A equipe decide com base na suspeita clínica, local da doença, tempo de sintomas e gravidade; não espere resultado de cultura em casa e não tente obter ou aplicar antitoxina por conta própria.",
+          "Dê apenas os medicamentos prescritos para esta criança, na forma e nos horários escritos pela equipe. Não copie receita de contato, não compartilhe antibiótico e não use sobra de tratamento anterior.",
+          "Não altere, interrompa, dobre ou prolongue antibiótico ou outro medicamento sem orientação. Melhorar a dor ou a febre não significa que a bactéria foi eliminada nem que a criança pode sair do isolamento.",
+          "Antitoxina e antibiótico têm finalidades diferentes; um não substitui automaticamente o outro. A definição, o momento, a administração e o monitoramento pertencem à equipe hospitalar, com vigilância de reações e de complicações.",
+          "A vacina previne doença, mas não trata o episódio atual. Como adoecer pode não produzir imunidade confiável, a equipe deve revisar e atualizar a vacinação durante a recuperação conforme o calendário e a situação clínica.",
+          "Procure ajuda imediata se surgir urticária disseminada, inchaço de rosto ou língua, chiado, desmaio, vômitos repetidos ou piora importante após medicamento. Dificuldade respiratória, alteração do estado mental ou choque exige emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver totalmente alerta, respirando sem esforço e engolindo bem, ofereça pequenos goles de líquido e alimentos macios em pequenas quantidades, sem insistir. Siga qualquer restrição definida pela equipe hospitalar.",
+          "Não ofereça nada pela boca se houver falta de ar, estridor, baba excessiva, engasgos, incapacidade de engolir a própria saliva, sonolência ou confusão. Vá à emergência imediatamente; forçar líquidos pode causar aspiração e atrasar a proteção da via aérea.",
+          "Não tente empurrar alimento ou líquido para atravessar a placa e não use canudo, seringa ou colher à força. A segurança da deglutição precisa ser avaliada quando há voz alterada, fraqueza, engasgos ou comprometimento neurológico.",
+          "Após liberação da equipe, prefira líquidos frescos e alimentos macios que a criança aceite. Evite alimentos muito quentes, ásperos ou irritantes se causarem dor, sem impor dieta restritiva que prejudique a recuperação.",
+          "Observe pouca urina, boca seca, ausência de lágrimas, olhos fundos, extremidades frias, recusa persistente ou vômitos. Esses sinais podem indicar desidratação ou doença sistêmica e exigem reavaliação urgente.",
+          "Não compartilhe utensílios, alimentos mordidos, mamadeiras, chupetas ou copos. Higienize os objetos conforme orientação da vigilância e nunca atrase o atendimento para organizar a casa."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Placa grossa cinza ou esbranquiçada aderida na garganta, especialmente com dor de garganta, rouquidão, febre baixa, inchaço do pescoço ou vacinação incompleta: vá ao hospital agora e informe suspeita de difteria; não espere consulta comum ou resultado de exame.",
+          "Respiração ruidosa ou difícil, estridor, retrações entre as costelas, respiração rápida, lábios arroxeados, incapacidade de falar/chorar normalmente, agitação extrema ou posição incomum para respirar: acione emergência imediatamente por risco de obstrução da via aérea.",
+          "Baba intensa, incapacidade de engolir saliva, engasgos, voz muito abafada ou anasalada, piora rápida do inchaço no pescoço ou impossibilidade de deitar: emergência imediata; não examine nem raspe a garganta e não dê nada pela boca.",
+          "Palpitações, dor no peito, desmaio, tontura intensa, cansaço repentino, pele fria/manchada, pulso muito fraco ou piora após aparente melhora: emergência por possível comprometimento cardíaco ou choque.",
+          "Fraqueza nova no rosto, pescoço, braços ou pernas, visão dupla, voz anasalada, dificuldade para engolir, andar ou respirar: atendimento imediato por possível complicação neurológica.",
+          "Sonolência difícil de despertar, confusão, convulsão, pouca ou nenhuma urina, vômitos repetidos, incapacidade de manter líquidos ou piora rápida: procure emergência imediatamente por possível toxicidade sistêmica, desidratação ou comprometimento renal."
+        ],
+        "QUANDO REAVALIAR": [
+          "Toda suspeita de difteria precisa de avaliação hospitalar imediata e contato da equipe com a vigilância. Não aguarde confirmação laboratorial em casa para procurar ajuda, porque o tratamento precoce é decisivo.",
+          "Durante internação ou acompanhamento, a frequência das avaliações é definida pela equipe conforme respiração, extensão da placa, coração, nervos, rins e resposta clínica. Não existe alta domiciliar automática nesta ficha.",
+          "Após eventual alta, compareça a todas as revisões marcadas mesmo que a criança pareça bem. Miocardite e neuropatia podem surgir de forma tardia; palpitação, desmaio, fraqueza, voz alterada, engasgo ou dificuldade para caminhar antecipam a avaliação.",
+          "O fim do isolamento e o retorno à escola, creche ou atividades dependem de critérios clínicos, microbiológicos e da liberação da vigilância/equipe. Não use apenas melhora dos sintomas, passagem do tempo ou uma cultura isolada para decidir.",
+          "Contatos próximos devem ser avaliados prontamente e acompanhados pelo período definido pela saúde pública. Se qualquer contato apresentar dor de garganta, febre, rouquidão, placa, lesão de pele incomum ou dificuldade para respirar, deve avisar sobre a exposição e procurar atendimento no mesmo dia; sinais respiratórios exigem emergência.",
+          "Revise a caderneta de vacinação da criança e dos contatos com a unidade de saúde. A equipe planeja completar ou atualizar as vacinas após estabilização/recuperação, pois a própria doença pode não garantir imunidade."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê com menos de três meses, recusa de mamada, choro/voz diferente, ruído ao respirar, pausas, palidez, moleza ou febre/temperatura baixa exige emergência imediata. Não ofereça nada pela boca se houver dificuldade respiratória ou de deglutição; mantenha o bebê na posição em que respira melhor e não manipule a garganta.",
+        "3a5m": "Lactente não consegue relatar dor ou palpitação. Observe mamada, saliva, voz/choro, retrações, cor, atividade e urina. Qualquer suspeita de placa ou contato com caso de difteria requer avaliação imediata; não use chupeta, mamadeira ou remédio compartilhado.",
+        "6a11m": "Respiração ruidosa, baba, dificuldade de mamar/comer, pescoço inchado, prostração ou vacinação atrasada após exposição exigem hospital imediatamente. Cuidador controla isolamento, medicamentos e contatos; a criança não deve receber alimento se não engole com segurança.",
+        "1a": "Criança pequena pode mostrar obstrução por agitação, silêncio incomum, recusa de líquidos, posição sentada inclinada ou retrações. Não a force a deitar nem examine a garganta. Creche e contatos só recebem orientação por meio da vigilância/equipe, sem retorno por decisão familiar.",
+        "2a5": "Pré-escolar precisa de adulto contínuo para vigiar respiração, deglutição, coração e fraqueza. Explique com frases simples que não deve tocar a garganta/curativo nem compartilhar objetos. Crianças menores de cinco anos têm maior risco de morte segundo o CDC; o limiar para emergência deve ser muito baixo.",
+        "6a11": "Escolar pode descrever palpitação, fraqueza, visão dupla ou engasgo; pergunte diretamente e valorize sintomas após melhora da garganta. Escola só deve ser informada e liberada conforme a vigilância, preservando privacidade e permitindo rastreamento dos contatos sem estigma.",
+        "12a17": "Adolescente deve participar da identificação de contatos, vacinação e sinais tardios, mas não decidir sozinho interromper isolamento ou medicamentos. Pergunte sobre palpitação, desmaio, fraqueza, deglutição e adesão em ambiente respeitoso; mantenha supervisão familiar e confidencialidade apropriada.",
+        "unknown": "Sem idade, forma clínica, respiração, deglutição, vacinação, exames, tratamento e orientação da vigilância, não é seguro orientar cuidado domiciliar, medicamento ou retorno escolar. Suspeita respiratória exige hospital imediato; dificuldade para respirar/engolir, alteração mental, desmaio ou fraqueza exige emergência."
+      },
+      "refs": [
+        {
+          "id": "pais251_op2373_1",
+          "name": "Difteria",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/difteria"
+        },
+        {
+          "id": "pais251_op2373_2",
+          "name": "Guia de Vigilância em Saúde: volume 2, 6ª edição revisada",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/guia-de-vigilancia-em-saude-volume-2-6a-edicao/view"
+        },
+        {
+          "id": "pais251_op2373_3",
+          "name": "Clinical Guidance for Diphtheria",
+          "url": "https://www.cdc.gov/diphtheria/hcp/clinical-guidance/index.html"
+        },
+        {
+          "id": "pais251_op2373_4",
+          "name": "Clinical Features of Diphtheria",
+          "url": "https://www.cdc.gov/diphtheria/hcp/clinical-signs/index.html"
+        },
+        {
+          "id": "pais251_op2373_5",
+          "name": "Clinical management of diphtheria: guideline",
+          "url": "https://www.who.int/publications/i/item/WHO-DIPH-Clinical-2024.1"
+        },
+        {
+          "id": "pais251_op2373_6",
+          "name": "Infection prevention and control measures when caring for patients with suspected or confirmed respiratory diphtheria: a summary",
+          "url": "https://www.who.int/publications/i/item/WHO-WPE-CRS-HCR-2024.1"
+        },
+        {
+          "id": "pais251_op2373_7",
+          "name": "Calendário de Vacinação",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2374",
+      "specific": true,
+      "key": "pdf1500_410",
+      "label": "Displasia broncopulmonar",
+      "entity": "Displasia broncopulmonar, doença pulmonar crônica que ocorre principalmente após nascimento muito prematuro e pode manter necessidade de suporte respiratório, sintomas, dificuldade de alimentação e crescimento e risco de complicações respiratórias ao longo da infância",
+      "assessment": "{\"classification\":\"VALID_CANONICAL_NEONATAL_PEDIATRIC_ENTITY\",\"normalized_entity\":\"Displasia broncopulmonar (doença pulmonar crônica da prematuridade)\",\"assessment\":\"O termo descreve uma entidade neonatal e pediátrica válida, associada sobretudo à prematuridade extrema e à interrupção do desenvolvimento pulmonar, com gravidade e trajetória muito variáveis. O diagnóstico costuma ser estabelecido durante a internação neonatal a partir da necessidade de suporte respiratório em uma idade pós-menstrual definida; o rótulo isolado não informa gravidade atual, necessidade de oxigênio, meta individual, equipamento, medicamento, alimentação, hipertensão pulmonar nem segurança para alta ou cuidado domiciliar.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_410\",\"canonical_label\":\"Displasia broncopulmonar\",\"relationship\":\"CANONICAL_BASE_ENTITY\",\"decision\":\"Usar pdf1500_410 como núcleo clínico próprio. Não compartilhar automaticamente plano de oxigênio, gravidade, tratamento ou prognóstico com outros diagnósticos respiratórios do recém-nascido ou com qualificadores não confirmados.\",\"counting_effect\":\"ONE_CANONICAL_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Síndrome do desconforto respiratório neonatal agudo\",\"Doença pulmonar crônica de outra causa em recém-nascido a termo\",\"Asma ou sibilância viral isolada\",\"Hipertensão pulmonar associada à displasia broncopulmonar já confirmada\",\"Necessidade automática de oxigênio, monitor, traqueostomia, ventilação, medicamento ou dieta especial\",\"Autorização para alta ou para retirada de suporte respiratório\"],\"pediatric_scope\":\"Aplica-se principalmente a bebês nascidos prematuros, durante a internação neonatal e no seguimento após a alta. Sintomas e alterações de função pulmonar podem persistir em escolares e adolescentes, exigindo avaliação individual; não se deve presumir que toda tosse, chiado ou limitação seja asma. Crescimento, alimentação, desenvolvimento, sono e risco de hipertensão pulmonar devem ser acompanhados conforme gravidade e história neonatal.\",\"critical_context_to_confirm\":[\"Idade gestacional ao nascer, idade corrigida, curso neonatal e definição usada para o diagnóstico\",\"Gravidade atual, internações recentes, frequência de sintomas, esforço respiratório e tolerância às atividades\",\"Oxigênio, ventilação, cânula, traqueostomia, oxímetro ou outro equipamento realmente prescritos, com plano escrito e contatos\",\"Estado habitual de cor, respiração e alertas do monitor, sem criar meta universal de saturação\",\"Alimentação por boca ou sonda, tosse, engasgo, alteração de cor ou cansaço nas mamadas, ingestão e ganho de peso\",\"Medicamentos atuais, indicação, técnica de administração e plano para intercorrências\",\"Hipertensão pulmonar, cardiopatia, alterações de vias aéreas, apneia/sono, aspiração e outras comorbidades confirmadas\",\"Vacinação e prevenção sazonal de infecções conforme calendário, elegibilidade, região e prescrição da equipe\",\"Seguimento com neonatologia/pediatria, pneumologia, cardiologia quando indicada, nutrição, fonoaudiologia, reabilitação e desenvolvimento\"],\"counting_rule\":\"Contar pdf1500_410 como uma entidade clínica específica. Não contar automaticamente suporte respiratório, prematuridade, hipertensão pulmonar, dificuldade alimentar ou outros qualificadores como novas entidades resolvidas.\",\"reason\":\"Entidade pediátrica válida e de alto risco, com grande variação de gravidade e risco de piora respiratória, hipoxemia, alimentação insegura e crescimento insuficiente. A orientação precisa apoiar cuidado respiratório e nutricional, prevenção de infecções e reconhecimento precoce de descompensação sem criar prescrição individual.\",\"next_action\":\"Integrar como ficha específica; testar seleção por ID e nome, oito idades, uso condicional de oxigênio/equipamentos, alimentação, sinais de perigo respiratório, cópia/impressão e ausência de meta, fluxo, dose, volume ou alta inventados.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A displasia broncopulmonar é uma doença pulmonar crônica que ocorre principalmente em bebês muito prematuros. Os pulmões continuam crescendo depois da alta e muitas crianças melhoram com o tempo, mas a velocidade de melhora varia e algumas mantêm tosse, chiado, cansaço, necessidade de suporte ou maior risco em infecções respiratórias.",
+          "Observe todos os dias o padrão habitual de respiração, a cor, o estado de alerta, a tolerância às mamadas ou atividades e o ganho de peso. Mudança persistente em relação ao habitual é mais importante do que um número isolado.",
+          "Se oxigênio, oxímetro, cânula, ventilação, traqueostomia, sonda ou outro equipamento foi prescrito, use exatamente como ensinado. Confira conexões, posição e funcionamento conforme o treinamento; tenha o plano escrito, contatos e o material de reserva indicado pela equipe.",
+          "Não desligue, reduza, aumente ou retire oxigênio ou suporte por conta própria. Não use uma meta de saturação encontrada na internet ou indicada para outra criança; a equipe define o plano individual e como agir diante de alertas.",
+          "Mantenha a casa e o carro totalmente livres de fumaça de cigarro, vape, maconha, lenha, incenso e aerossóis irritantes. Oxigênio deve ficar longe de chama, faísca, cigarro, fogão e fonte de calor, seguindo as regras do fornecedor e da equipe.",
+          "Leve o resumo da internação, a lista de medicamentos e o plano respiratório aos atendimentos. Avise previamente serviços, escola e cuidadores sobre equipamentos e contatos de emergência quando aplicável."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos antes de tocar o bebê ou os equipamentos e peça o mesmo a quem se aproxima. Evite contato próximo com pessoas com febre, tosse ou coriza e aglomerações quando a equipe recomendar, especialmente em períodos de maior circulação de vírus.",
+          "Mantenha vacinas da criança e dos conviventes em dia conforme o calendário. Pergunte à equipe sobre prevenção sazonal de vírus respiratórios quando houver indicação; elegibilidade e produto dependem da idade, região, estação e histórico clínico.",
+          "Faça higiene nasal apenas pelo método orientado. Não aspire profundamente, não faça nebulização, fisioterapia respiratória ou manobras por conta própria; algumas crianças têm vias aéreas sensíveis e precisam de técnica individualizada.",
+          "Permita brincadeiras e atividade física de forma gradual, com pausas quando houver cansaço, conforme idade e plano. Em escolares e adolescentes, tosse, chiado, dor no peito, tontura ou limitação desproporcional ao esforço exigem avaliação, não diagnóstico automático de asma.",
+          "Organize consultas e exames de seguimento. Crianças com maior gravidade podem precisar de pneumologia, cardiologia, nutrição, fonoaudiologia, fisioterapia/terapia ocupacional, avaliação do desenvolvimento, visão, audição e sono.",
+          "Para menores de três anos que nasceram prematuros, acompanhe crescimento e desenvolvimento pela idade corrigida conforme orientação da equipe. Valorize também o bem-estar dos cuidadores e peça ajuda quando o cuidado com equipamentos e consultas estiver sobrecarregando a família."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos e dispositivos prescritos para esta criança, na forma e no horário ensinados. A displasia broncopulmonar não determina automaticamente broncodilatador, corticoide, diurético, antibiótico ou qualquer outro remédio.",
+          "Não inicie, suspenda, dobre ou reduza medicamento por causa de tosse, chiado, ganho de peso ou alerta do oxímetro sem orientação. Alguns tratamentos exigem reavaliação e retirada gradual pela equipe.",
+          "Se houver inalador ou nebulizador prescrito, confirme a técnica, o espaçador ou interface correta e a limpeza do equipamento. Falta de melhora, piora logo após usar ou necessidade mais frequente que o plano permite exige contato médico.",
+          "Oxigênio é um tratamento e deve ser usado apenas quando prescrito. Não mude fluxo, tempo de uso, interface ou meta; problema no fornecimento, energia, cilindro, concentrador, cânula ou monitor deve ser resolvido pelo plano de contingência e pelos contatos fornecidos.",
+          "Não use xaropes para tosse, descongestionantes, antibióticos, corticoides ou produtos naturais por conta própria. Eles podem não ajudar e podem causar efeitos adversos ou atrasar a avaliação de uma infecção.",
+          "Leve a lista atualizada de medicamentos a todas as consultas e informe efeitos novos, doses perdidas, dificuldade de acesso ou problemas de técnica. Esta ficha não define dose, duração, concentração nem desmame."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Bebês com displasia broncopulmonar podem gastar mais energia para respirar e cansar durante a mamada. Siga o plano individual de leite, fortificação, consistência, via e posição; não altere volume, fórmula, espessante ou sonda por conta própria.",
+          "Durante a alimentação, observe coordenação entre sugar, engolir e respirar. Faça as pausas já ensinadas e interrompa a oferta se houver tosse repetida, engasgo, mudança de cor, respiração mais trabalhosa, suor, fadiga ou queda persistente do estado habitual.",
+          "Se a equipe orientou porções menores e mais frequentes, siga esse plano sem forçar. Alimentar quando a criança está muito cansada ou respirando com esforço aumenta o risco de engasgo e ingestão insuficiente.",
+          "Acompanhe peso, comprimento/altura e perímetro cefálico quando aplicável. Ganho de peso insuficiente, refeições muito longas, vômitos frequentes, recusa, tosse nas refeições ou dependência prolongada de sonda devem ser revistos por pediatria/nutrição e fonoaudiologia ou equipe de alimentação.",
+          "Ofereça alimentação variada e líquidos adequados à idade quando liberados, preservando o leite humano quando disponível e desejado. Não restrinja calorias, sal ou líquidos sem plano específico, pois necessidades e riscos variam.",
+          "Poucas fraldas molhadas, boca seca, ausência de lágrimas, sonolência, incapacidade de manter líquidos ou recusa importante associada a piora respiratória exigem avaliação urgente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito mais rápida ou difícil que o habitual, afundamento entre ou abaixo das costelas, abertura das narinas, gemido, incapacidade de falar/chorar/alimentar-se por falta de ar ou exaustão: procure emergência agora.",
+          "Lábios, língua ou pele azulados, acinzentados ou muito pálidos; pausas respiratórias; criança muito mole, confusa, difícil de acordar ou com piora rápida: acione o serviço de emergência.",
+          "Engasgo importante, tosse persistente ou mudança de cor durante alimentação, especialmente se não se recupera rapidamente após interromper a oferta: atendimento imediato e nada pela boca enquanto estiver com dificuldade para respirar.",
+          "Se usa oxigênio ou suporte, piora clínica apesar do plano, cânula/traqueostomia deslocada ou obstruída, falha do equipamento sem reserva funcionando, ou alertas persistentes depois de conferir sensor e conexões conforme treinamento: acione emergência e siga o plano escrito sem improvisar ajustes.",
+          "Recusa alimentar importante, vômitos repetidos, poucas fraldas molhadas, sinais de desidratação ou incapacidade de alimentar-se por cansaço respiratório: avaliação urgente, com prioridade maior em recém-nascidos e lactentes pequenos.",
+          "Febre ou infecção respiratória com aumento do esforço, necessidade de suporte diferente do habitual, piora do estado geral, redução importante da atividade ou ingestão: procure atendimento imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Após a alta, compareça no prazo definido pela equipe neonatal; bebês com oxigênio, equipamento, dificuldade alimentar ou maior gravidade precisam de acompanhamento mais próximo. Não adie consultas porque a criança parece bem.",
+          "Contate a equipe no mesmo dia diante de tosse ou chiado novos, respiração mais rápida, piora do sono, menor tolerância às mamadas ou brincadeiras, alertas repetidos do monitor, secreção mais espessa, vômitos, redução da ingestão ou ganho de peso insuficiente.",
+          "Antecipe a revisão se houver internação ou atendimento de urgência, mudança de equipamento, problema com fornecimento, efeitos adversos, dificuldade para administrar tratamento ou necessidade de usar medidas de resgate mais vezes do que o plano prevê.",
+          "O seguimento deve rever respiração, oxigenação conforme método indicado, crescimento, alimentação/deglutição, sono, desenvolvimento, visão, audição e vacinação. A equipe decide quando investigar hipertensão pulmonar, vias aéreas, aspiração, função pulmonar ou outras complicações.",
+          "Oxigênio e outros suportes só devem ser reduzidos ou suspensos depois de avaliação objetiva e ordem da equipe. Uma medida isolada em repouso ou um dia bom não comprova que a retirada seja segura durante sono, alimentação e atividade.",
+          "Em escolares e adolescentes, mantenha revisão respiratória mesmo após anos sem oxigênio se houver tosse recorrente, chiado, infecções, ronco persistente, desmaio, dor no peito ou limitação ao exercício; sintomas não devem ser rotulados automaticamente como asma."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente pequeno com DBP tem pouca reserva respiratória e depende integralmente de adultos. Confirme idade corrigida, plano de alta, alimentação e qualquer oxigênio/equipamento. Pausa respiratória, mudança de cor, dificuldade para mamar, gemido, retração ou sonolência exige avaliação imediata.",
+        "3a5m": "Observe mamadas, ganho de peso, respiração no sono e sinais de infecção. O cuidador não deve testar retirada de oxigênio ou mudar fluxo. Tosse, engasgo, suor, mudança de cor ou fadiga nas mamadas precisa de revisão precoce.",
+        "6a11m": "Introdução alimentar deve seguir desenvolvimento e plano nutricional, sem substituir leite ou alterar consistência por conta própria. Infecções virais podem causar piora importante; reduza exposições evitáveis, mantenha prevenção indicada e procure ajuda diante de esforço respiratório ou menor ingestão.",
+        "1a": "A criança pode estar mais ativa, mas ainda precisa de supervisão constante de equipamentos e prevenção de acidentes. Compare tolerância para brincar com o habitual, acompanhe crescimento e linguagem/alimentação e mantenha seguimento multidisciplinar quando indicado.",
+        "2a5": "Creche e cuidadores devem conhecer o plano respiratório, contatos e sinais de emergência. Orientação sobre frequência à creche é individual. Tosse, chiado, ronco, infecções repetidas, dificuldade para comer ou acompanhar brincadeiras merecem reavaliação.",
+        "6a11": "Escola deve permitir medicação ou suporte já prescrito e pausas quando necessárias. Avalie sintomas no exercício, ausências, sono e função pulmonar quando a criança puder cooperar; não presumir asma nem impedir atividade física sem avaliação individual.",
+        "12a17": "Inclua o adolescente no plano, reforce evitar cigarro, vape e outras fumaças e avalie exercício, sono e sintomas persistentes. Organize transição do cuidado se houver doença ativa; história de prematuridade e DBP deve permanecer no resumo clínico.",
+        "unknown": "Sem idade gestacional, idade atual/corrigida, gravidade, alimentação e plano respiratório, não é seguro definir oxigênio, meta, equipamento, medicamento, volume ou alta. Manter apenas o plano já prescrito e procurar emergência diante de esforço respiratório, alteração de cor, apneia, baixa ingestão ou piora rápida."
+      },
+      "refs": [
+        {
+          "id": "pais251_op2374_1",
+          "name": "Outpatient Respiratory Management of Infants, Children, and Adolescents with Post-Prematurity Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline",
+          "url": "https://www.thoracic.org/statements/guideline-implementation-tools/outpatient-respiratory-management-of-infants-children-and-adolescents-with-post-prematurity-respiratory-disease.php"
+        },
+        {
+          "id": "pais251_op2374_2",
+          "name": "European Respiratory Society guideline on long-term management of children with bronchopulmonary dysplasia",
+          "url": "https://publications.ersnet.org/content/erj/55/1/1900788"
+        },
+        {
+          "id": "pais251_op2374_3",
+          "name": "Manual do Método Canguru: seguimento compartilhado entre a Atenção Hospitalar e a Atenção Básica",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/publicacoes/manual-do-metodo-canguru-seguimento-compartilhado-entre-a-atencao-hospitalar-e-a-atencao-basica"
+        },
+        {
+          "id": "pais251_op2374_4",
+          "name": "Discharge planning of the preterm infant",
+          "url": "https://cps.ca/en/documents/position/discharge-planning-of-the-preterm-infant"
+        },
+        {
+          "id": "pais251_op2374_5",
+          "name": "Follow-up care of the extremely preterm infant after discharge from the neonatal intensive care unit",
+          "url": "https://cps.ca/en/documents/position/follow-up-care"
+        },
+        {
+          "id": "pais251_op2374_6",
+          "name": "Em que situações devo procurar a emergência? — Bronquiolite",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/b/bronquiolite/faq/em-que-situacoes-devo-procurar"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2389",
+      "specific": true,
+      "key": "pdf1500_425",
+      "label": "Displasia de desenvolvimento do quadril",
+      "entity": "Displasia do desenvolvimento do quadril, espectro pediátrico em que o encaixe entre a cabeça do fêmur e o acetábulo não se desenvolve de modo estável e congruente, variando de acetábulo raso e instabilidade a subluxação ou luxação",
+      "assessment": "{\"classification\":\"VALID_CANONICAL_PEDIATRIC_ORTHOPAEDIC_ENTITY\",\"normalized_entity\":\"Displasia do desenvolvimento do quadril (DDQ)\",\"assessment\":\"O nome cadastrado corresponde a uma entidade pediátrica válida, embora a forma consagrada em português seja ‘displasia do desenvolvimento do quadril’. É um espectro anatômico e funcional: o rótulo isolado não informa lado, estabilidade, gravidade, resultado de imagem, tratamento, necessidade de órtese, cirurgia ou prognóstico. Bebês podem não sentir dor nem apresentar sinais óbvios; por isso o rastreamento clínico e o seguimento de fatores de risco não devem ser substituídos pela observação familiar.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_425\",\"canonical_label\":\"Displasia de desenvolvimento do quadril\",\"relationship\":\"CANONICAL_BASE_ENTITY_WITH_GRAMMATICAL_NORMALIZATION\",\"decision\":\"Preservar o ID e o nome cadastrado, usando na orientação a forma clínica normalizada ‘displasia do desenvolvimento do quadril’. Não inferir gravidade, lateralidade ou tratamento a partir do nome.\",\"counting_effect\":\"ONE_CANONICAL_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Clique isolado do quadril sem instabilidade ou outro achado\",\"Dor aguda no quadril, artrite séptica, sinovite transitória ou trauma\",\"Luxação traumática do quadril\",\"Doença de Perthes ou epifisiólise femoral proximal\",\"Necessidade automática de suspensório de Pavlik, gesso ou cirurgia\",\"Liberação automática de acompanhamento após melhora clínica\"],\"pediatric_scope\":\"Aplica-se desde o período neonatal até a adolescência. Em lactentes, a prioridade é rastreamento, diagnóstico e tratamento precoces; após o início da marcha, assimetria, mancar ou marcha oscilante podem revelar diagnóstico tardio. Crianças e adolescentes já tratados ainda podem precisar de seguimento do crescimento e da congruência do quadril conforme o plano ortopédico.\",\"critical_context_to_confirm\":[\"Idade atual e corrigida quando prematuro, apresentação pélvica, história familiar e achados dos exames neonatais\",\"Lado acometido, estabilidade clínica e laudo de ultrassonografia ou radiografia\",\"Se há apenas risco, imaturidade transitória de imagem ou DDQ confirmada\",\"Órtese, suspensório, gesso ou cirurgia realmente prescritos e regras específicas da equipe\",\"Movimento espontâneo das duas pernas, estado da pele, cor, temperatura e inchaço dos pés quando há dispositivo\",\"Dor, febre, recusa de apoiar, mancar, diferença de comprimento ou limitação de movimento\",\"Consultas e exames programados, resposta ao tratamento e plano de seguimento durante o crescimento\"],\"counting_rule\":\"Contar pdf1500_425 como uma entidade clínica específica. Não contar lateralidade, gravidade, imagem, órtese, cirurgia ou marcha alterada como entidades adicionais sem diagnósticos próprios confirmados.\",\"reason\":\"Entidade pediátrica válida em que detecção e tratamento precoces favorecem desenvolvimento mais congruente do quadril. O cuidado familiar deve proteger o tratamento prescrito, evitar posicionamento forçado e reconhecer problemas do dispositivo e causas urgentes de dor ou incapacidade de apoiar.\",\"next_action\":\"Integrar como ficha específica; testar seleção por ID e nome, oito idades, condicionais de órtese/gesso/cirurgia, sinais neurovasculares e infecciosos, seguimento e ausência de dispositivo, tempo ou medicamento inventado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A displasia do desenvolvimento do quadril significa que a articulação entre a cabeça do fêmur e a bacia não está se formando ou permanecendo encaixada como esperado. Pode variar de alteração leve a instabilidade, subluxação ou luxação, e um ou os dois lados podem estar envolvidos.",
+          "Em bebês, a DDQ geralmente não dói e pode não ser visível. Não espere a criança chorar ou mancar para comparecer às consultas e aos exames: o acompanhamento é importante mesmo quando ela parece confortável.",
+          "Se foi prescrito suspensório, órtese, gesso ou cuidado após cirurgia, siga exatamente as regras fornecidas pela ortopedia. Não retire, reposicione, aperte, afrouxe, corte ou ajuste tiras e acolchoamentos por conta própria.",
+          "Observe diariamente se a criança move as duas pernas como de costume e, quando houver dispositivo, confira pele, bordas, dedos dos pés, inchaço, cor e temperatura sem alterar a posição prescrita. Problemas devem ser comunicados à equipe.",
+          "Vista roupas folgadas que não empurrem as pernas juntas. Ao carregar, trocar fralda e posicionar, apoie as coxas e respeite a abertura permitida pelo dispositivo; nunca force o quadril para dentro ou para fora.",
+          "Guarde laudos e imagens e leve-os às consultas. O plano depende da idade, estabilidade, imagem e resposta ao tratamento; a orientação de outra criança não deve ser aplicada à sua."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não enrole o bebê com as pernas esticadas e apertadas juntas. Se usar cueiro, permita espaço para quadris e joelhos dobrarem e se moverem; siga também todas as orientações de sono seguro do pediatra.",
+          "Não use fraldas duplas, almofadas, faixas, carregadores apertados ou aparelhos comprados por conta própria para tentar encaixar o quadril. Esses recursos não substituem avaliação, imagem ou dispositivo ajustado pela ortopedia.",
+          "Com suspensório ou órtese, use cadeirinha, carrinho e carregador que acomodem a posição prescrita sem juntar à força os joelhos. Peça à equipe para conferir o equipamento se houver dúvida de espaço ou segurança.",
+          "Mantenha os exames e retornos mesmo se o quadril parecer melhor. Avaliação clínica e imagem seriada podem ser necessárias para saber se o encaixe está evoluindo e se o dispositivo continua adequado ao crescimento.",
+          "Brincadeiras, apoio, engatinhar, caminhar, escola e esporte devem seguir a fase do tratamento e a orientação individual. Não impor repouso nem liberar impacto por conta própria após gesso ou cirurgia.",
+          "Avise cuidadores e escola sobre limites, dispositivo, proteção da pele e contatos da equipe. A DDQ não é contagiosa e, sem outra restrição clínica, não exige isolamento."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe remédio que sozinho forme ou recoloque o quadril. O tratamento, quando necessário, é ortopédico e depende da idade e do tipo de alteração encontrada.",
+          "Não dê anti-inflamatório, analgésico, relaxante muscular, vitamina ou produto natural para tentar corrigir a DDQ ou substituir o retorno.",
+          "Se houver dor após procedimento ou cirurgia, use somente o medicamento já prescrito, conforme rótulo e plano entregues. Esta ficha não define fármaco, dose, intervalo ou duração.",
+          "Dor nova ou crescente, necessidade de mais analgésico que o plano permite, sonolência excessiva, vômitos persistentes, reação alérgica ou dificuldade para administrar o remédio exigem contato com a equipe; sinais graves exigem emergência.",
+          "Não passe pomada, talco, álcool ou objeto sob tiras ou gesso sem autorização. Umidade e produtos podem irritar a pele e dificultar a inspeção.",
+          "Leve a lista de medicamentos e informe alergias antes de sedação, exame ou cirurgia. Não suspenda remédio de uso contínuo de outra condição sem orientação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "A DDQ isolada não exige dieta especial. Mantenha leite, alimentação e líquidos adequados à idade, salvo orientação específica por outro motivo ou por procedimento.",
+          "Com suspensório, órtese ou gesso, alimente em posição segura e confortável, sem comprimir o tórax nem forçar as pernas juntas. Peça demonstração à equipe se o dispositivo dificultar colo ou amamentação.",
+          "Não use alimentos, suplementos ou vitaminas como substitutos do tratamento ortopédico. Suplementação só deve ser usada quando indicada para a criança.",
+          "Antes de exame com sedação ou cirurgia, siga apenas as instruções de jejum e líquidos fornecidas pelo serviço. Não presuma o tempo de jejum e não prolongue a restrição por conta própria.",
+          "Após procedimento, recusa persistente de líquidos, vômitos repetidos, boca seca, sonolência incomum ou pouca urina precisam de avaliação conforme o plano de alta; se a criança estiver muito abatida, procure urgência.",
+          "Se roupas, cadeira ou dispositivo apertarem o abdome durante as refeições, interrompa e peça ajuste seguro à equipe; não altere as tiras ortopédicas sozinho."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "A criança apresenta dor intensa de início súbito no quadril, coxa ou joelho, não consegue ficar em pé ou apoiar a perna, ou o membro ficou deformado após queda ou trauma: procure emergência agora.",
+          "Febre com dor no quadril, inchaço, vermelhidão, criança abatida ou recusa de mover/apoiar a perna: atendimento imediato, pois infecção articular é uma emergência e não deve ser atribuída à DDQ.",
+          "Com suspensório, órtese ou gesso, o pé ou os dedos ficam azulados, muito pálidos, frios, muito inchados ou com sensibilidade/movimento diferente: procure avaliação imediata e não tente reajustar o dispositivo.",
+          "O bebê para de chutar ou mover uma das pernas, fica inconsolável com o dispositivo, ou surge fraqueza nova: contate urgentemente a equipe; fora do acesso ao serviço, vá ao pronto atendimento.",
+          "Gesso quebrado, muito apertado ou molhado por dentro, dor crescente, mau cheiro, secreção, ferida visível ou objeto preso sob o gesso: avaliação urgente, sem cortar ou introduzir objetos.",
+          "Após cirurgia, dificuldade para acordar, falta de ar, sangramento que não cessa, piora rápida, febre com aspecto muito doente ou dor não controlada pelo plano: emergência imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Compareça a todas as consultas e imagens na data marcada. O encaixe pode melhorar sem sinal externo, mas também pode permanecer alterado; somente exame e imagem adequados à idade orientam a conduta.",
+          "Se houve apresentação pélvica, história familiar ou instabilidade no exame, confirme com o pediatra se o rastreamento e o encaminhamento foram concluídos, mesmo que o bebê mexa bem as pernas.",
+          "Contate a ortopedia no mesmo dia se tiras escorregarem, o suspensório parecer pequeno ou largo, houver marca persistente, ferida, sujeira que não pode ser removida conforme o plano ou redução do movimento das pernas.",
+          "Peça avaliação sem demora se notar uma perna mais curta, dificuldade de abrir um lado na troca de fralda, uma perna arrastando ao engatinhar, mancar ou marcha oscilante. Não tente testar ou recolocar o quadril em casa.",
+          "Em crianças maiores e adolescentes, dor no quadril ou virilha, estalos dolorosos, limitação de atividade ou mancar persistente precisam de reavaliação ortopédica; sintomas novos não devem ser atribuídos automaticamente à DDQ antiga.",
+          "Após retirada de órtese, gesso ou alta de cirurgia, mantenha o seguimento indicado durante o crescimento. Não considerar o tratamento encerrado nem retomar impacto sem liberação registrada pela equipe."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirmar exames neonatais, fatores de risco e qualquer encaminhamento. Se houver suspensório, o cuidado é integralmente do adulto: não ajustar tiras, observar pele e movimento das pernas e manter retornos.",
+        "3a5m": "Ultrassonografia ainda pode ser usada conforme a equipe. Mudanças do tamanho do bebê podem alterar o ajuste do dispositivo; marcas persistentes, tiras soltas ou menor movimento exigem contato rápido.",
+        "6a11m": "A imagem e o tratamento podem diferir dos usados no recém-nascido. Observar simetria ao sentar, engatinhar e apoiar, sem forçar posições nem usar aparelho de outro bebê.",
+        "1a": "Mancar, arrastar uma perna, diferença de comprimento ou marcha oscilante merecem avaliação. Após tratamento, brincadeiras e apoio devem seguir a liberação individual.",
+        "2a5": "Observar corrida, escadas, dor e cansaço sem comparar rigidamente com outras crianças. Escola e cuidadores devem conhecer restrições após gesso ou cirurgia, quando existirem.",
+        "6a11": "Dor na virilha, mancar, perda de movimento ou dificuldade esportiva precisam de reavaliação. Não manter nem suspender atividade física por tempo indefinido sem plano ortopédico.",
+        "12a17": "Incluir o adolescente nas decisões, registrar cirurgias e imagens anteriores e avaliar dor, impacto no esporte e transição ao cuidado adulto quando houver alteração persistente.",
+        "unknown": "Sem idade, imagem, estabilidade e tratamento atual, não é seguro indicar dispositivo, retirada, exercício ou prazo. Manter apenas o plano já prescrito e procurar urgência diante de dor intensa, febre, incapacidade de apoiar ou sinais circulatórios no membro."
+      },
+      "refs": [
+        {
+          "id": "pais251_op2389_1",
+          "name": "Detection and Nonoperative Management of Pediatric Developmental Dysplasia of the Hip in Infants up to Six Months of Age",
+          "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/pddh/pddhcpg.pdf"
+        },
+        {
+          "id": "pais251_op2389_2",
+          "name": "Newborn and infant physical examination screening programme handbook",
+          "url": "https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook"
+        },
+        {
+          "id": "pais251_op2389_3",
+          "name": "Developmental dysplasia of the hip – DDH",
+          "url": "https://www.rch.org.au/ortho/for_health_professionals/Developmental_dysplasia_of_the_hip_%E2%80%93_DDH/"
+        },
+        {
+          "id": "pais251_op2389_4",
+          "name": "A Patient's guide to Pavlik Harness Treatment for Developmental Dysplasia of the Hip",
+          "url": "https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/pavlik-harness-treatment-developmental-dysplasia-hip-patients-guide"
+        },
+        {
+          "id": "pais251_op2389_5",
+          "name": "Developmental dysplasia of the hip and management with a Pavlik harness",
+          "url": "https://www.cuh.nhs.uk/patient-information/developmental-dysplasia-of-the-hip-ddh-management-with-a-pavlik-harness/"
+        },
+        {
+          "id": "pais251_op2389_6",
+          "name": "Clinical Practice Guideline: The limping or non-weight bearing child",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/The_limping_or_non-weight_bearing_child/"
+        },
+        {
+          "id": "pais251_op2389_7",
+          "name": "Swaddling and Developmental Hip Dysplasia",
+          "url": "https://www.aaos.org/contentassets/1cd7f41417ec4dd4b5c4c48532183b96/1186-swaddling-and-developmental-hip-dysplasia1.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2390",
+      "specific": true,
+      "key": "pdf1500_426",
+      "label": "Doença celíaca",
+      "entity": "Doença celíaca, condição crônica imunomediada desencadeada pela ingestão de glúten em pessoas geneticamente predispostas, com dano do intestino delgado e possíveis manifestações digestivas, nutricionais e extraintestinais na infância e adolescência",
+      "assessment": "{\"classification\":\"VALID_CANONICAL_PEDIATRIC_ENTITY\",\"normalized_entity\":\"Doença celíaca\",\"assessment\":\"O termo corresponde a entidade clínica pediátrica válida. O rótulo isolado, porém, não informa se há apenas suspeita, sorologia alterada, doença celíaca potencial ou diagnóstico confirmado. Antes da confirmação, retirar glúten pode reduzir a acurácia dos exames; depois da confirmação especializada, o tratamento é dieta isenta de glúten por toda a vida, com acompanhamento médico e nutricional.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_426\",\"canonical_label\":\"Doença celíaca\",\"relationship\":\"CANONICAL_BASE_ENTITY\",\"decision\":\"Usar pdf1500_426 como núcleo clínico específico. Não equiparar automaticamente a alergia ao trigo, sensibilidade ao glúten não celíaca, sorologia isoladamente positiva ou sintomas digestivos sem confirmação.\",\"counting_effect\":\"ONE_CANONICAL_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Alergia ao trigo\",\"Sensibilidade ao glúten não celíaca\",\"Intolerância à lactose\",\"Sorologia positiva sem avaliação especializada\",\"Doença celíaca potencial sem atrofia vilositária\",\"Diarreia, constipação, anemia ou baixa estatura de outra causa\"],\"pediatric_scope\":\"Abrange crianças e adolescentes sintomáticos ou assintomáticos com diagnóstico estabelecido e aqueles em investigação. Manifestações podem incluir dor ou distensão abdominal, diarreia ou constipação, vômitos, anemia, baixo ganho de peso ou estatura, fadiga, defeitos de esmalte, atraso puberal, alterações hepáticas, ósseas, cutâneas ou neurológicas. Lactentes que ainda não ingerem glúten não devem receber dieta ou teste improvisado apenas para confirmar o rótulo.\",\"critical_context_to_confirm\":[\"Se o diagnóstico já foi confirmado por especialista ou se a criança ainda está em investigação\",\"Se a criança está consumindo glúten no período diagnóstico ou já o restringiu\",\"Sorologia realizada, IgA total, método e necessidade de endoscopia ou seguimento especializado\",\"Sintomas atuais, hidratação, crescimento, puberdade, energia, evacuações e dor\",\"Anemia ou outras deficiências nutricionais documentadas, função tireoidiana e enzimas hepáticas\",\"Plano alimentar, orientação de nutricionista e risco de contato cruzado em casa, escola e refeições fora\",\"Diabetes tipo 1, deficiência de IgA, síndrome de Down ou outras condições associadas\",\"Dificuldades emocionais, sociais ou financeiras para manter dieta segura\"],\"counting_rule\":\"Contar pdf1500_426 como uma entidade clínica específica. Não contar manifestações, exames alterados, dieta sem glúten ou doenças relacionadas como novas entidades automaticamente.\",\"reason\":\"Doença crônica válida, com risco de má absorção, deficiência nutricional e prejuízo ao crescimento quando não reconhecida ou quando há exposição persistente ao glúten; exige distinção clara entre investigação e tratamento confirmado.\",\"next_action\":\"Integrar como ficha específica e testar nome/ID, oito idades, distinção suspeita versus diagnóstico confirmado, orientação pré-teste, contato cruzado, alertas de desidratação/crise celíaca e ausência de dieta, suplemento ou medicamento inventado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença celíaca é uma reação do sistema imunológico ao glúten que pode lesar o intestino delgado. Não é contagiosa e não é a mesma coisa que alergia ao trigo ou sensibilidade ao glúten sem doença celíaca.",
+          "Os sintomas variam muito: algumas crianças têm dor ou inchaço abdominal, diarreia, constipação, vômitos, cansaço, anemia ou dificuldade para ganhar peso e crescer; outras podem ter poucos sintomas. A ausência de dor não significa que exposições repetidas sejam seguras.",
+          "Se a criança ainda está em investigação, não retire o glúten antes de a equipe concluir o diagnóstico. Exames de sangue e biópsia podem ficar menos confiáveis quando o glúten já foi reduzido. Se ele já foi retirado, avise o especialista e não faça reintrodução por conta própria.",
+          "Se o diagnóstico foi confirmado, mantenha a dieta sem glúten ensinada pela equipe todos os dias. A melhora dos sintomas e dos exames pode levar tempo; um episódio de exposição não deve ser tratado com culpa, mas precisa servir para revisar a fonte do contato.",
+          "Registre sintomas, evacuações, crescimento, exposições suspeitas e dificuldades na escola ou em eventos. Leve rótulos ou fotos dos produtos duvidosos à consulta com nutricionista ou equipe de saúde.",
+          "Explique a condição de forma adequada à idade e envolva a criança gradualmente nas escolhas seguras, sem punição, isolamento social ou restrição além do necessário."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave mãos, bancadas e utensílios antes de preparar a refeição sem glúten. Migalhas e farinha podem causar contato cruzado; prepare o alimento seguro antes ou em área limpa e protegida.",
+          "Utensílios lisos e bem lavados podem ser compartilhados. Separe os que retêm resíduos e são difíceis de limpar, como torradeira, peneira, escorredor ou utensílios de madeira muito marcados, conforme orientação do nutricionista.",
+          "Use potes, manteiga, geleia e outros produtos sem migalhas; não mergulhe a mesma faca usada no pão com glúten. Guarde farinha e produtos com glúten de modo que não caiam sobre alimentos seguros.",
+          "Combine com escola, creche e cuidadores um plano escrito para refeições, festas, projetos com farinha, viagens e emergências. A criança não precisa ficar fora da escola por ter doença celíaca.",
+          "Ensine a ler a indicação brasileira de presença ou ausência de glúten no rótulo e a confirmar ingredientes sempre que a embalagem mudar. Produtos artesanais e refeições fora exigem pergunta sobre ingredientes e preparo separado.",
+          "Mantenha consultas e acompanhamento do crescimento. Apoio psicológico, social ou de grupos de pacientes pode ajudar quando a dieta estiver causando ansiedade, bullying, isolamento ou grande dificuldade familiar."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe remédio que substitua a dieta sem glúten na doença celíaca confirmada. Enzimas, chás, probióticos ou produtos vendidos como bloqueadores de glúten não tornam segura uma refeição com trigo, centeio ou cevada.",
+          "Vitaminas, ferro, cálcio ou outros suplementos só devem ser usados se a equipe identificar necessidade e prescrever. Excesso também pode fazer mal e não corrige exposição contínua ao glúten.",
+          "Não use corticoide ou outro medicamento por conta própria para dor, diarreia ou exposição acidental. Sintomas intensos, persistentes ou com desidratação precisam de avaliação, não de automedicação.",
+          "Confirme com o farmacêutico e a bula se medicamentos, suplementos e produtos mastigáveis são adequados. Não interrompa um tratamento necessário sem falar com o profissional que o prescreveu.",
+          "Alergia ao trigo é uma condição diferente e pode exigir plano de emergência próprio. Não presuma alergia nem use medicamento de resgate sem diagnóstico e orientação individual.",
+          "Leve a lista atualizada de medicamentos e suplementos às consultas. Esta ficha não define produto, dose, concentração ou duração."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Durante a investigação, mantenha a alimentação habitual com glúten até a orientação do especialista. Depois de diagnóstico confirmado, exclua trigo, centeio e cevada de forma permanente, seguindo orientação nutricional.",
+          "Prefira alimentos naturalmente sem glúten e variados, como arroz, milho, feijão, frutas, verduras, carnes, ovos e leite quando tolerado. A dieta precisa oferecer energia, proteína, fibras, ferro, cálcio e vitaminas adequados ao crescimento.",
+          "Leia todo rótulo. No Brasil, alimentos industrializados devem informar se contêm ou não glúten; não use produto com aviso de que contém glúten. Quando houver dúvida, não ofereça até confirmar com fabricante ou nutricionista.",
+          "Aveia pode sofrer contato cruzado com trigo, centeio ou cevada. Só use aveia rotulada como sem glúten e quando a equipe orientar, observando sintomas e acompanhamento.",
+          "Não retire leite, lactose, soja ou outros grupos alimentares automaticamente. Restrições adicionais só devem ocorrer quando houver indicação clínica, pois aumentam o risco de carências e dificultam a rotina.",
+          "Em vômitos ou diarreia leves, ofereça líquidos adequados à idade em pequenas quantidades frequentes e mantenha alimentos seguros conforme tolerância. Incapacidade de beber, poucas urinas ou sonolência exige atendimento urgente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Diarreia ou vômitos repetidos com pouca urina, boca muito seca, ausência de lágrimas, olhos fundos, fraqueza intensa ou incapacidade de beber: procure atendimento imediatamente por risco de desidratação.",
+          "Criança muito sonolenta, confusa, desmaiando, com convulsão, muito mole ou difícil de acordar: acione o serviço de emergência.",
+          "Barriga muito distendida ou dor forte e contínua, vômito verde, sangue no vômito ou nas fezes, ou piora rápida do estado geral: avaliação imediata.",
+          "Perda rápida de peso, diarreia intensa com sinais de desnutrição, cãibras importantes ou alteração do comportamento podem fazer parte de complicação grave e não devem ser observadas apenas em casa.",
+          "Falta de ar, chiado súbito, inchaço de lábios ou língua ou urticária generalizada após trigo sugere possível reação alérgica, que é diferente de doença celíaca: acione emergência e siga apenas o plano de alergia já prescrito.",
+          "Em bebê pequeno, recusa persistente de mamadas, vômitos repetidos, pouca urina, prostração ou abdome muito distendido exige avaliação urgente, independentemente de haver diagnóstico celíaco."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se há suspeita de doença celíaca, marque avaliação com pediatra ou gastroenterologista pediátrico sem iniciar dieta sem glúten por conta própria. Sorologia alterada precisa de interpretação e confirmação conforme o caso.",
+          "Após o diagnóstico confirmado, faça a primeira revisão no prazo combinado; diretrizes pediátricas costumam indicar revisão em três a seis meses, mais cedo se houver desnutrição, sintomas persistentes ou dificuldade com a dieta.",
+          "No primeiro ano, o seguimento costuma ser mais próximo; depois da estabilização clínica e laboratorial, deve continuar regularmente. A equipe individualiza o intervalo conforme sintomas, crescimento, exames e condições associadas.",
+          "Antecipe a consulta se dor, diarreia, constipação, vômitos, fadiga, aftas, coceira/lesões de pele, anemia, perda de peso ou dificuldade de crescimento persistirem apesar do plano alimentar.",
+          "A revisão deve avaliar altura, peso, puberdade, sintomas, qualidade de vida, dieta e contato cruzado, além dos exames indicados. Deficiências nutricionais e alterações de tireoide ou fígado são tratadas conforme resultados reais, não preventivamente por conta própria.",
+          "Na adolescência, organize transição para o cuidado adulto e aumente a autonomia para ler rótulos, conversar em restaurantes, planejar viagens e explicar a condição, mantendo apoio da família."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Se o bebê ainda não recebeu glúten, não introduza nem retire alimentos para testar doença celíaca. Vômitos, diarreia, recusa de mamadas, pouca urina ou baixo ganho de peso exigem avaliação pediátrica para outras causas e plano especializado.",
+        "3a5m": "A alimentação deve seguir orientação pediátrica habitual. Não antecipe exposição ao glúten nem faça dieta de exclusão por histórico familiar sem orientação; sinais de desidratação ou falha de crescimento exigem avaliação rápida.",
+        "6a11m": "Após introdução alimentar, observe evacuações, vômitos, distensão, apetite e curva de crescimento. Não retire glúten durante investigação sem orientação. Em diagnóstico confirmado, garanta papas e utensílios protegidos de migalhas e farinha.",
+        "1a": "Nessa idade podem ocorrer diarreia, distensão, irritabilidade, perda de apetite e dificuldade de crescimento. Diarreia intensa com desidratação, prostração ou perda rápida de peso é emergência; a família deve receber apoio nutricional prático.",
+        "2a5": "Adultos devem supervisionar rótulos e preparo, combinar alimentação segura com a creche ou escola e evitar que a criança troque lanches. Explique a dieta sem culpa e preserve participação em festas com alternativa segura.",
+        "6a11": "Ensine leitura simples de rótulos e como pedir ajuda sem transferir toda a responsabilidade à criança. Acompanhe crescimento, energia, concentração, anemia, sintomas e impacto escolar; mantenha plano com professores e alimentação escolar.",
+        "12a17": "Inclua o adolescente nas decisões e treine escolhas seguras em escola, restaurantes, viagens e vida social. Converse sem julgamento sobre exposições, imagem corporal e restrições; organize transição para cuidado adulto e seguimento contínuo.",
+        "unknown": "Sem idade, exposição ao glúten e confirmação diagnóstica, não é seguro iniciar exclusão, reintrodução, suplemento ou tratamento. Manter alimentação habitual durante investigação salvo ordem especializada e procurar urgência diante de desidratação, alteração neurológica, sangramento, dor intensa ou piora rápida."
+      },
+      "refs": [
+        {
+          "id": "pais251_op2390_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença Celíaca",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/doenca-celiaca/@@download/file"
+        },
+        {
+          "id": "pais251_op2390_2",
+          "name": "New Guidelines for the Diagnosis of Paediatric Coeliac Disease",
+          "url": "https://www.espghan.org/dam/jcr:a82023ac-c7e6-45f9-8864-fe5ee5c37058/2020_New_Guidelines_for_the_Diagnosis_of_Paediatric_Coeliac_Disease._ESPGHAN_Advice_Guide.pdf"
+        },
+        {
+          "id": "pais251_op2390_3",
+          "name": "Coeliac disease: recognition, assessment and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations"
+        },
+        {
+          "id": "pais251_op2390_4",
+          "name": "ESPGHAN Position Paper on Management and Follow-up of Children and Adolescents With Celiac Disease",
+          "url": "https://www.espghan.org/dam/jcr:57543039-6cdb-47e1-b782-ec7cfe326a60/ESPGHAN_Position_Paper_on_Management_and_Follow_up.29.pdf"
+        },
+        {
+          "id": "pais251_op2390_5",
+          "name": "Gluten: Preventing cross-contact",
+          "url": "https://patient-staging.gastro.org/preventing-gluten-cross-contact/"
+        },
+        {
+          "id": "pais251_op2390_6",
+          "name": "NASPGHAN Clinical Report on the Diagnosis and Treatment of Gluten-related Disorders",
+          "url": "https://www.naspghan.org/files/documents/pdfs/position-papers/NASPGHAN_Clinical_Report_on_the_Diagnosis_and.28.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2422",
+      "specific": true,
+      "key": "pdf1500_458",
+      "label": "Doença de Legg-Calvé-Perthes",
+      "entity": "Doença de Legg-Calvé-Perthes pediátrica, osteonecrose idiopática da epífise da cabeça femoral em esqueleto imaturo, com evolução radiográfica em estágios e risco variável de deformidade residual do quadril",
+      "assessment": "{\"classification\":\"VALID_SPECIFIC_PEDIATRIC_ORTHOPAEDIC_ENTITY\",\"normalized_entity\":\"Doença de Legg-Calvé-Perthes pediátrica\",\"assessment\":\"O termo cadastral corresponde a uma entidade pediátrica válida: interrupção idiopática do suprimento sanguíneo da cabeça do fêmur em crescimento, seguida por necrose, fragmentação, reossificação e remodelamento de extensão variável. Claudicação pode ser o primeiro sinal e a dor pode ser sentida no quadril, virilha, coxa ou joelho. O nome isolado não informa lado, idade de início, estágio, extensão do comprometimento, extrusão, congruência, mobilidade, prognóstico nem tratamento. Conduta e prognóstico dependem de avaliação por ortopedia pediátrica, exame e imagens seriadas; não se pode gerar automaticamente restrição de carga, atividade, fisioterapia, órtese, gesso, medicamento, cirurgia, duração ou alta.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_458\",\"canonical_label\":\"Doença de Legg-Calvé-Perthes\",\"relationship\":\"EXACT_VALID_ENTITY\",\"decision\":\"Manter o ID e o rótulo, com orientação própria e condicionada a idade, estágio, extensão radiográfica, mobilidade e avaliação ortopédica.\",\"counting_effect\":\"ONE_VALID_SPECIFIC_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Dor inespecífica do quadril, da coxa ou do joelho\",\"Sinovite transitória, artrite séptica, osteomielite, fratura ou tumor\",\"Epifisiólise proximal do fêmur no adolescente\",\"Osteonecrose secundária a corticoide, anemia falciforme, trauma ou outra causa conhecida\",\"Acometimento leve, grave, unilateral ou bilateral\",\"Indicação automática de retirada de carga, muletas, fisioterapia, órtese, gesso ou cirurgia\",\"Prazo previsível de cura, retorno ao esporte ou alta\"],\"pediatric_scope\":\"A apresentação mais frequente ocorre na infância escolar, sobretudo entre aproximadamente 4 e 10 anos, mas a idade isolada não confirma o diagnóstico. Em lactentes, crianças muito pequenas e adolescentes, o rótulo é menos típico e exige revisão cuidadosa de diagnósticos alternativos. Envolvimento bilateral simultâneo e relativamente simétrico deve levar a equipe a investigar outras causas. Mesmo com melhora da dor, o formato da cabeça femoral e a mobilidade precisam de seguimento definido pela ortopedia.\",\"critical_context_to_confirm\":[\"Idade no início dos sintomas e idade esquelética quando pertinente\",\"Se o diagnóstico foi confirmado por ortopedia pediátrica e quais exames de imagem o sustentam\",\"Lado afetado, dor no quadril, virilha, coxa ou joelho, padrão da claudicação e início súbito ou gradual\",\"Estágio radiográfico, extensão do comprometimento, contenção ou extrusão e sinais de risco\",\"Amplitude de movimento, especialmente abdução e rotação interna, e sua mudança ao longo do tempo\",\"Capacidade atual de caminhar e apoiar comparada ao padrão habitual da criança\",\"Febre, prostração, inchaço, trauma, dor noturna, perda de peso ou outros sinais que indiquem diagnóstico alternativo\",\"Plano individual já prescrito para atividade, apoio, exercícios, órtese, gesso, analgesia, cirurgia e calendário de imagens\",\"Impacto na escola, sono, brincadeiras, autonomia e bem-estar emocional\",\"Se há sintomas nos dois lados ou achados bilaterais simétricos, que não devem ser atribuídos automaticamente a Perthes\"],\"minimum_confirmation_before_management_plan\":[\"Diagnóstico e diagnósticos alternativos revistos conforme idade e apresentação\",\"Avaliação clínica da marcha, dor e mobilidade do quadril\",\"Imagens interpretadas no contexto do estágio e da gravidade\",\"Metas e limites de atividade, apoio e reabilitação individualizados pela equipe\",\"Plano de seguimento e critérios claros para contato antecipado ou urgência\"],\"counting_rule\":\"Contar pdf1500_458 como uma entidade clínica pediátrica específica válida. Não criar subentidades por lado, estágio, classificação radiográfica ou modalidade de tratamento.\",\"reason\":\"O diagnóstico é válido, porém altamente dependente de idade, estágio, extensão radiográfica e mobilidade; uma orientação segura precisa explicar o curso e o seguimento sem transformar o nome em prescrição automática.\",\"next_action\":\"Integrar a orientação específica preservando o rótulo e testar que nenhuma faixa etária gera automaticamente restrição de carga, fisioterapia, exercício, medicamento, dose, duração, cirurgia ou alta. O coordenador deve validar seleção, geração, cópia, impressão e publicação.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Legg-Calvé-Perthes afeta a cabeça do fêmur, a parte arredondada do quadril. O suprimento de sangue diminui por causa geralmente desconhecida; depois o osso passa por etapas de reparo e pode recuperar forma variável.",
+          "Claudicação pode aparecer com pouca dor. Quando existe dor, ela pode ser sentida no quadril, virilha, coxa ou apenas no joelho; por isso dor no joelho não exclui problema no quadril.",
+          "Registre mudanças na dor, mancada, distância que a criança consegue caminhar, rigidez, sono e participação na escola ou brincadeiras. Leve esse registro e os exames anteriores às consultas.",
+          "Siga exatamente o plano escrito da ortopedia pediátrica. Não conclua, pelo nome do diagnóstico ou pela melhora de um dia, quanto a criança pode apoiar, correr, praticar esporte, usar auxílio ou fazer exercícios.",
+          "A doença não é contagiosa e não resulta de culpa da criança ou da família. Explique à escola que podem ser necessários ajustes individualizados, sem expor a criança nem impor afastamento automático.",
+          "A radiografia pode mudar antes de melhorar e os sintomas podem oscilar. Melhora da dor não significa, sozinha, que o quadril terminou o processo nem autoriza alta ou retorno irrestrito."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Use somente as orientações individualizadas da equipe para apoio, atividade, esporte, muleta, órtese, gesso, alongamento ou exercício. Idade e estágio mudam o que é apropriado; não copie o plano de outra criança.",
+          "Não force abertura, rotação ou alongamento do quadril e não faça manipulação para vencer dor ou rigidez. Se um movimento prescrito passar a doer mais ou a mobilidade diminuir, interrompa a tentativa e contate a equipe.",
+          "Organize a rotina para reduzir quedas e permita pausas quando houver dor ou piora da mancada, sem criar por conta própria repouso absoluto ou proibição permanente de apoio.",
+          "Se foi prescrito dispositivo, gesso ou órtese, use apenas como ensinado e observe pele, dor, inchaço, cor, temperatura e sensibilidade do pé. Não ajuste, acolchoe ou retire de modo diferente do plano sem orientação, salvo emergência indicada pela equipe.",
+          "Mantenha consultas e imagens na periodicidade definida pela ortopedia. Comparar mobilidade e radiografias ao longo do tempo ajuda a reconhecer progressão mesmo quando a criança refere pouca dor.",
+          "Peça à escola acesso seguro entre ambientes, tempo adicional para deslocamento e participação adaptada ao plano clínico. Não existe restrição escolar ou esportiva única que sirva para todos os estágios."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento deve ser iniciado automaticamente pelo rótulo de Perthes. Use somente o que já foi prescrito ou autorizado para esta criança, considerando idade, peso, alergias, outras doenças e outros remédios.",
+          "Não aumente a dose, não encurte intervalos, não combine produtos e não mantenha medicamento por mais tempo para permitir atividade além do limite orientado.",
+          "Se a dor exige mais medicamento do que o plano permite, desperta a criança, surge em repouso ou piora progressivamente, procure reavaliação em vez de apenas mascarar o sintoma.",
+          "Não use medicamento, suplemento ou produto para osso por conta própria com a expectativa de restaurar o fluxo sanguíneo ou remodelar o quadril.",
+          "Se houver efeito adverso, ingestão acidental ou dúvida sobre uma dose esquecida, contate o serviço que prescreveu ou um centro de informação toxicológica; não repita nem dobre automaticamente.",
+          "Tratamentos para dor não substituem exame, acompanhamento radiográfico nem avaliação de febre, incapacidade súbita de apoiar ou outra piora atípica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação habitual, variada e adequada à idade e mantenha líquidos ao longo do dia. Não existe dieta caseira específica que reverta a doença de Perthes.",
+          "Não faça dieta restritiva, jejum, megadose de vitamina, suplemento de cálcio ou proteína para tentar acelerar a reconstrução do quadril sem indicação profissional.",
+          "Acompanhe crescimento nas consultas. Se houver excesso ou baixo peso, dificuldade alimentar ou outra condição nutricional, peça orientação individual sem culpar a criança.",
+          "Se a atividade estiver reduzida, mantenha refeições regulares e porções apropriadas, sem usar comida como recompensa ou impor emagrecimento rápido.",
+          "Somente siga jejum quando ele tiver sido solicitado para exame ou procedimento específico, com instruções da equipe. O diagnóstico por si só não exige jejum.",
+          "Vômitos persistentes, recusa de líquidos, pouca urina ou prostração não são evolução esperada de Perthes e exigem avaliação clínica."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Febre com dor no quadril ou perna, criança abatida, calafrios, calor, vermelhidão ou inchaço: procure emergência agora. Infecção articular ou óssea pode se parecer com problema ortopédico e artrite séptica é emergência.",
+          "Incapacidade nova e súbita de ficar em pé, caminhar ou apoiar, ou piora intensa em horas: procure atendimento imediato e não atribua automaticamente a Perthes.",
+          "Dor muito forte após queda ou trauma, deformidade, encurtamento aparente da perna ou posição anormal: não force o membro e vá ao pronto atendimento.",
+          "Pé frio, pálido ou arroxeado, dormência, fraqueza ou inchaço importante, especialmente se houver gesso, órtese ou após procedimento: avaliação imediata; não aperte nem improvise ajustes.",
+          "Confusão, dificuldade para despertar, desmaio, falta de ar ou coloração arroxeada: acione o serviço de emergência.",
+          "Dor intensa que acorda repetidamente, palidez importante, manchas roxas sem explicação, perda de peso ou piora geral exige avaliação urgente, pois não deve ser presumida como Perthes.",
+          "Em lactente ou criança que ainda não anda, choro ao mover a perna, recusa de movimentá-la, febre, inchaço ou prostração exige avaliação imediata; Perthes é incomum nessa idade."
+        ],
+        "QUANDO REAVALIAR": [
+          "Toda suspeita de Perthes precisa de avaliação por ortopedia pediátrica. O diagnóstico costuma exigir exame do quadril e radiografias; em algumas situações a equipe decide por outros exames.",
+          "Mantenha os retornos e as imagens exatamente no intervalo definido pela equipe. O intervalo e a duração do seguimento dependem da idade, estágio, gravidade e evolução; não há calendário seguro único para gerar automaticamente.",
+          "Entre em contato antes do retorno se a mancada ou dor aumentar, a criança perder movimento do quadril, reduzir progressivamente as atividades ou passar a sentir dor em repouso ou à noite.",
+          "Avise se surgirem sintomas no outro lado. Achados bilaterais simultâneos e parecidos precisam ser revistos, porque podem indicar outra causa além de Perthes.",
+          "Peça revisão do plano se escola, sono, humor, autonomia ou participação social estiverem prejudicados, ou se a família não conseguir cumprir dispositivo, exercício, atividade ou consulta prescritos.",
+          "Mesmo após a fase ativa, dor, rigidez, estalos dolorosos ou limitação nova na adolescência ou vida adulta justificam nova avaliação do quadril; não presuma alta definitiva apenas pelo tempo decorrido."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Perthes não é diagnóstico típico nesta idade. Redução do movimento de uma perna, choro ao trocar fralda, febre, inchaço, recusa de mamadas ou prostração exige avaliação imediata para infecção, trauma, displasia e outras causas; não aplique plano de criança maior.",
+        "3a5m": "Como o bebê ainda não relata dor nem marcha, observe assimetria de movimento, choro ao mexer o quadril, febre, inchaço e estado geral. O rótulo precisa ser confirmado por especialista; não gere restrição, exercício ou medicamento de Perthes automaticamente.",
+        "6a11m": "Recusa de apoiar, regressão de movimentos, assimetria ao engatinhar ou iniciar marcha, dor ao cuidar e febre devem ser avaliadas prontamente. Perthes é muito incomum e infecção, trauma e alterações do desenvolvimento do quadril precisam ser consideradas.",
+        "1a": "Mancar, voltar a engatinhar, recusar andar ou chorar ao movimentar o quadril exige avaliação; a criança pode não localizar a dor. Não assuma Perthes nem copie limites de atividade de outra faixa etária.",
+        "2a5": "Perthes torna-se mais plausível sobretudo na parte mais velha desta faixa. Observe mancada, menor movimento do quadril e dor que pode aparecer no joelho. Idade jovem pode favorecer remodelamento, mas não garante quadro leve; estágio e extensão ainda precisam de ortopedia e imagem.",
+        "6a11": "Esta é a faixa mais típica. A criança deve participar do relato de dor, rigidez e dificuldades na escola. Conduta, apoio, exercícios, esporte e eventual procedimento dependem da idade de início, estágio, extensão e mobilidade, não apenas da idade atual.",
+        "12a17": "Novo quadro nesta idade é menos típico e exige diferenciar epifisiólise, trauma, infecção e outras causas. Em Perthes prévia, dor ou rigidez pode refletir deformidade residual; a avaliação especializada define imagem e conduta, sem retorno automático ao esporte ou alta.",
+        "unknown": "Sem idade de início, exame, estágio, extensão e mobilidade, confirme o diagnóstico e obtenha plano ortopédico. Não gere restrição de carga, fisioterapia, medicamento, duração, cirurgia ou alta; aplique os sinais de alarme."
+      },
+      "refs": [
+        {
+          "id": "pais251_op2422_1",
+          "name": "Legg-Calve-Perthes Disease — Study Guide",
+          "url": "https://posna.org/physician-education/study-guide/legg-calve-perthes-disease"
+        },
+        {
+          "id": "pais251_op2422_2",
+          "name": "Perthes Disease",
+          "url": "https://orthokids.org/conditions/perthes-disease/"
+        },
+        {
+          "id": "pais251_op2422_3",
+          "name": "Clinical consensus recommendations for the non-surgical treatment of children with Perthes’ disease in the UK",
+          "url": "https://eprints.whiterose.ac.uk/id/eprint/212908/1/NON-STOP%20Consensus%20PDF.pdf"
+        },
+        {
+          "id": "pais251_op2422_4",
+          "name": "Clinical Practice Guidelines: The limping or non-weight bearing child",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/The_limping_or_non-weight_bearing_child/"
+        },
+        {
+          "id": "pais251_op2422_5",
+          "name": "Epidemiology, natural evolution, pathogenesis, clinical spectrum, and management of Legg–Calvé–Perthes",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10549695/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2423",
+      "specific": true,
+      "key": "pdf1500_459",
+      "label": "Doença de Von Willebrand",
+      "entity": "Doença de von Willebrand hereditária, distúrbio hemorrágico causado por deficiência quantitativa ou alteração funcional do fator de von Willebrand; tipo e gravidade não especificados pelo rótulo",
+      "assessment": "{\"classification\":\"VALID_STANDARD_DISEASE_NAME_WITH_SUBTYPE_AND_SEVERITY_UNSPECIFIED\",\"normalized_entity\":\"Doença de von Willebrand\",\"assessment\":\"O termo é nosologicamente válido e corresponde a um distúrbio hemorrágico, em geral hereditário, que pode afetar crianças de qualquer sexo. O rótulo isolado não informa se é tipo 1, 2 ou 3, não confirma síndrome adquirida, não mede a gravidade e não significa que exista sangramento ativo. A expressão também não autoriza inferir resposta a desmopressina, necessidade de concentrado de fator, profilaxia, tratamento menstrual ou cobertura de procedimento. História pessoal e familiar, exames específicos do fator de von Willebrand e do fator VIII, repetição em estado basal quando indicada e interpretação hematológica são necessários para confirmar e classificar o diagnóstico.\",\"canonical_reconciliation\":{\"related_key\":\"pps_catalog_f5f19a220f3236cb\",\"related_label\":\"Doença de von Willebrand com sangramento — registro no PPS\",\"relationship\":\"SAME_BASE_DISEASE_WITH_DISTINCT_ACTIVE_BLEEDING_PRESENTATION\",\"decision\":\"Preservar pdf1500_459 e o nome cadastral. Usar a entidade-base Doença de von Willebrand sem presumir hemorragia atual; o registro PPS relacionado acrescenta a apresentação com sangramento e deve aplicar prioridade e avaliação do episódio real.\",\"counting_effect\":\"ONE_VALID_BASE_CLINICAL_ENTITY_WITH_A_RELATED_ACTIVE_BLEEDING_PRESENTATION\"},\"not_automatically_equivalent_to\":[\"Doença de von Willebrand tipo 1, 2A, 2B, 2M, 2N ou 3\",\"Síndrome de von Willebrand adquirida\",\"Hemofilia A ou B, trombocitopenia ou distúrbio primário de função plaquetária\",\"Sangramento ativo, anemia, hemorragia interna ou hemorragia intracraniana\",\"Indicação automática de desmopressina, antifibrinolítico, concentrado de fator, hormônio ou profilaxia\",\"Plano automático para cirurgia, odontologia, vacinação, parto, esporte ou alta\"],\"pediatric_scope\":\"Pode manifestar-se desde o período neonatal, mas crianças pequenas podem ter poucas oportunidades prévias de sangrar. Epistaxe, sangramento oral, equimoses grandes, sangramento prolongado após cortes, procedimentos ou extração dentária e, após a menarca, fluxo menstrual excessivo são manifestações relevantes. Formas graves podem causar hemorragia espontânea, articular, muscular ou interna. A história familiar aumenta a suspeita, mas sua ausência não exclui a doença.\",\"critical_context_to_confirm\":[\"Se o diagnóstico foi confirmado, qual o tipo, atividade e antígeno do fator de von Willebrand, fator VIII, padrão de resposta documentado e centro de referência\",\"Local, início, intensidade, recorrência e resposta à compressão de qualquer sangramento atual\",\"Epistaxes, gengivorragia, equimoses elevadas ou desproporcionais, sangramento oral, digestivo, urinário, articular, muscular ou após cortes\",\"Trauma recente, principalmente em cabeça, olho, pescoço, tórax, coluna, abdome, articulação ou músculo\",\"Cirurgia, extração dentária, circuncisão, punção, vacina, piercing, tatuagem, parto ou outro procedimento planejado ou recente\",\"Padrão menstrual, troca muito frequente de absorventes, coágulos, interferência na escola e sintomas de deficiência de ferro ou anemia\",\"Uso de ácido acetilsalicílico, anti-inflamatórios não esteroides, anticoagulantes, antiagregantes, suplementos ou produtos naturais\",\"Palidez, cansaço, tontura, desmaio, falta de ar, taquicardia, dor, inchaço, limitação de movimento, sangue visível ou fezes pretas\",\"História familiar de sangramento e resultados prévios, lembrando que testes de triagem normais não excluem doença de von Willebrand\"],\"counting_rule\":\"Contar pdf1500_459 como nome válido da entidade-base. Não transformar o rótulo geral em subtipo, gravidade ou episódio hemorrágico e não duplicar a entidade-base ao reconciliar com o registro PPS de apresentação com sangramento.\",\"reason\":\"Nome clínico reconhecido, com orientação pediátrica específica possível; subtipo, gravidade e estado hemorrágico precisam permanecer não especificados.\",\"next_action\":\"Integrar por delta a orientação específica, preservar o nome e testar as oito idades, os alertas hemorrágicos, a prevenção, a não prescrição e o mapeamento seguro da apresentação com sangramento.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de von Willebrand faz o sangue demorar mais para formar um coágulo firme porque o fator de von Willebrand está baixo ou não funciona bem. A intensidade varia muito: algumas crianças quase não sangram, enquanto outras precisam de plano especializado. O nome do diagnóstico, sozinho, não informa o tipo nem a gravidade.",
+          "Mantenha acessíveis o cartão ou relatório do distúrbio hemorrágico, os contatos do centro de hematologia e o plano individual para sangramentos. Leve essas informações a consultas e emergências e informe sempre que a criança tem doença de von Willebrand.",
+          "Registre sangramentos do nariz ou boca, equimoses grandes, menstruação intensa, sangue na urina ou nas fezes e sangramento após cortes ou procedimentos. Anote o local, como começou, se voltou e o que foi necessário para controlar; isso ajuda a equipe a estimar o padrão hemorrágico.",
+          "Avise creche, escola, cuidadores, enfermagem escolar e responsáveis por esporte. A doença não é contagiosa e, quando a criança está bem, não exige afastamento automático; ela precisa de inclusão segura e de um plano claro para trauma ou sangramento.",
+          "Informe médico e dentista antes de extração, cirurgia, endoscopia, circuncisão, piercing, tatuagem ou outro procedimento invasivo, mesmo que pareça pequeno. O centro de hematologia deve definir previamente se alguma medida hemostática é necessária; esta ficha não cria plano perioperatório.",
+          "Cuide dos dentes e gengivas com higiene suave e acompanhamento odontológico regular para reduzir inflamação e a necessidade de procedimentos invasivos. Sangramento gengival repetido não deve ser atribuído automaticamente à doença sem avaliação odontológica e hematológica.",
+          "Para corte superficial, faça compressão firme e contínua com pano ou gaze limpa. Para sangramento nasal, sente a criança inclinada para a frente e comprima a parte macia do nariz sem ficar soltando para conferir; se não controlar, voltar repetidamente ou houver mal-estar, procure atendimento.",
+          "Equimoses pequenas após brincadeiras podem ocorrer, mas manchas grandes, elevadas, dolorosas, sem explicação ou que aumentam precisam ser comunicadas. Em bebê que ainda não se locomove, equimose inexplicada exige avaliação médica e não deve ser presumida como parte normal da doença."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Em sangramento externo, aplique pressão direta e contínua. Em contusão de membro, proteja a pele com um pano e use compressa fria, mantenha repouso do local e eleve se isso for confortável; dor intensa, aumento de volume, calor ou perda de movimento exige avaliação urgente.",
+          "Após pancada na cabeça, olho, pescoço, tórax, coluna ou abdome, não espere aparecer sangramento visível. Contate imediatamente o serviço indicado no plano ou procure emergência, pois uma hemorragia interna pode não ser aparente no início.",
+          "Estimule atividade física e participação escolar compatíveis com o plano individual. Proteção adequada reduz trauma, mas o tipo de esporte e o risco de contato devem ser discutidos com hematologia, especialmente em forma grave ou história de sangramento articular ou muscular.",
+          "Use identificação médica quando recomendada e deixe o plano de emergência com escola, cuidadores e em viagens. A equipe que atende uma urgência precisa saber o diagnóstico e o contato do centro de tratamento sem depender de a criança conseguir explicar.",
+          "Não deixe de vacinar. Antes da aplicação, informe o distúrbio hemorrágico e siga as medidas de segurança definidas pela equipe de vacinação e hematologia; via, local, agulha, compressão e eventual cobertura são decisões individualizadas.",
+          "Um hemograma, tempo de protrombina ou tempo de tromboplastina normais não excluem doença de von Willebrand. A confirmação usa história e testes específicos, que às vezes precisam ser repetidos quando a criança está em estado basal, pois estresse, infecção, trauma e sangramento podem elevar temporariamente o fator.",
+          "Não faça testes caseiros de sangramento, não provoque cortes e não use resposta a um remédio para confirmar o diagnóstico. Sangramento novo ou diferente também pode ter outra causa e precisa ser avaliado."
+        ],
+        "MEDICAMENTOS": [
+          "Não use ácido acetilsalicílico (AAS) nem anti-inflamatórios não esteroides, como ibuprofeno, naproxeno ou diclofenaco, por conta própria. Eles podem aumentar o sangramento; só use se houver orientação especializada que considere a indicação, o tipo de doença e o risco individual.",
+          "Antes de qualquer medicamento, inclusive os comprados sem receita, fitoterápicos ou suplementos, avise médico ou farmacêutico sobre a doença de von Willebrand. Não interrompa por conta própria anticoagulante ou antiagregante já prescrito; procure o prescritor e a hematologia para decisão segura.",
+          "Desmopressina não funciona para todos os tipos e pode ser inadequada ou contraindicada em situações específicas. Sua resposta deve ser conhecida quando indicado, e seu uso exige prescrição e orientação sobre líquidos e risco de sódio baixo; não use sobra de prescrição ou spray de outra pessoa.",
+          "Antifibrinolítico, concentrado contendo fator de von Willebrand, terapia hormonal e profilaxia são opções para situações selecionadas, mas dependem de subtipo, gravidade, local do sangramento, idade e procedimento. Esta ficha não escolhe medicamento, dose, via, frequência ou duração.",
+          "Se já existe plano individual para sangramento, siga exatamente o documento e confirme qualquer dúvida com o centro de hematologia. Sangramento grave, trauma importante ou sinal de alarme não deve esperar tentativa repetida de tratamento domiciliar.",
+          "Para cirurgia, procedimento dentário, menstruação intensa ou sangramentos frequentes, a equipe pode precisar rever o plano. Não transforme uma orientação anterior em autorização permanente para outra situação ou para outra criança."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não há alimento que corrija o fator de von Willebrand. Ofereça alimentação variada e adequada à idade; não use dieta, vitamina ou suplemento para substituir hematologia ou atendimento de um sangramento.",
+          "Sangramento nasal, oral ou menstrual repetido pode causar deficiência de ferro e anemia. Palidez, cansaço, irritabilidade, queda no rendimento, dor de cabeça, tontura, falta de ar ou vontade de ingerir substâncias não alimentares merecem avaliação e exames; não inicie ferro sem orientação.",
+          "Inclua fontes alimentares de ferro dentro da dieta habitual, sem impor restrições desnecessárias. Suplementação e investigação de anemia dependem da avaliação clínica e laboratorial.",
+          "Mantenha hidratação habitual quando a criança estiver bem. Se desmopressina tiver sido prescrita, siga rigorosamente a orientação individual sobre ingestão de líquidos, porque excesso de água pode causar hiponatremia; não improvise volume nem período de restrição.",
+          "Após pequeno sangramento na boca, alimentos macios e frios podem ser mais confortáveis se a criança estiver alerta e engolindo bem. Sangramento persistente, inchaço de boca ou garganta, engasgo ou dificuldade para respirar exige emergência, sem insistir em comida ou bebida.",
+          "Não ofereça nada pela boca se houver sonolência importante, convulsão, dificuldade para engolir ou respirar, vômito com sangue ou suspeita de hemorragia grave; acione emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Sangramento intenso, que não para com compressão firme, volta logo após parar ou causa palidez, fraqueza, tontura, desmaio, respiração rápida ou coração muito acelerado exige atendimento imediato; acione o serviço de emergência se a criança estiver instável.",
+          "Qualquer trauma importante na cabeça, ou dor de cabeça nova ou crescente, vômitos repetidos, sonolência incomum, confusão, convulsão, alteração de equilíbrio, fala, força ou visão após pancada, exige emergência mesmo sem corte ou galo visível.",
+          "Trauma no olho, pescoço, garganta, tórax, coluna ou abdome; inchaço de boca ou pescoço; dificuldade para engolir ou respirar; dor forte no peito, costas ou barriga; ou abdome aumentando exige avaliação imediata.",
+          "Vômito com sangue, tosse com sangue, fezes pretas ou com sangue, urina avermelhada, sangramento vaginal fora do padrão com mal-estar ou qualquer suspeita de sangramento interno exige pronto atendimento.",
+          "Dor forte, calor, aumento de volume ou endurecimento de músculo ou articulação, recusa de apoiar o membro, mancar ou perda de movimento pode indicar sangramento profundo e exige avaliação urgente, especialmente em forma grave.",
+          "Menstruação que encharca repetidamente absorvente em cerca de uma a duas horas, transborda, vem com coágulos grandes ou se acompanha de palidez, tontura, desmaio, falta de ar, dor no peito ou fraqueza importante precisa de avaliação urgente; sinais de instabilidade exigem emergência.",
+          "Sangramento persistente do umbigo, boca, local de coleta, injeção, circuncisão ou outro procedimento em recém-nascido ou lactente, ou bebê pálido, muito irritado, difícil de acordar ou mamando mal, exige avaliação imediata.",
+          "Sangramento que reaparece ou aumenta horas ou dias após extração dentária, cirurgia, queda ou ferimento deve ser avaliado sem demora. Leve o cartão e o plano da hematologia e informe o horário de qualquer tratamento já utilizado."
+        ],
+        "QUANDO REAVALIAR": [
+          "Sinais de alarme, sangramento ativo sem controle ou trauma de risco exigem reavaliação imediata. Não espere consulta agendada, resultado de exame ou retorno do centro de referência se a criança estiver piorando.",
+          "Contate a hematologia no mesmo dia diante de epistaxes ou sangramentos orais repetidos, equimoses novas e desproporcionais, dor ou inchaço de músculo ou articulação, sangue na urina ou fezes, ou menstruação claramente mais intensa que o habitual, mesmo que a criança pareça estável.",
+          "Mantenha seguimento periódico no centro de coagulopatias na frequência definida pela equipe. Tipo, padrão de sangramento, crescimento, menarca, anemia, atividade física e necessidade de atualizar o plano devem ser revistos ao longo da infância e adolescência.",
+          "Peça revisão antecipada antes de cirurgia, extração dentária, circuncisão, endoscopia, parto ou outro procedimento invasivo. O plano deve ser escrito para aquele procedimento e não pode ser deduzido apenas do nome da doença.",
+          "Se o diagnóstico ainda é apenas suspeito, procure avaliação pediátrica e hematológica. História familiar positiva ou sangramento anormal justificam investigação específica mesmo quando hemograma e testes de coagulação de triagem são normais; exames podem precisar ser repetidos em condição basal.",
+          "Após menarca, acompanhe o padrão menstrual desde o início e peça avaliação se houver fluxo excessivo, anemia ou prejuízo à escola e às atividades. Hematologia e saúde do adolescente devem decidir juntas as opções; a ficha não prescreve terapia hormonal ou antifibrinolítico.",
+          "Familiares de primeiro grau podem precisar de aconselhamento e avaliação, mas não devem receber diagnóstico apenas por parentesco. A herança varia entre os tipos e a ausência de sintomas não exclui alteração.",
+          "Na integração do cadastro, documente que pdf1500_459 é a entidade-base com subtipo e gravidade não especificados e que pps_catalog_f5f19a220f3236cb representa a apresentação relacionada com sangramento, sem duplicar doença nem gerar tratamento ou plano perioperatório automático."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Avise maternidade, pediatria e hematologia se houver história familiar antes de circuncisão ou outro procedimento. Sangramento do umbigo, boca, local de coleta ou injeção, cabeça ou procedimento, palidez, sucção fraca ou sonolência exige avaliação imediata; o rótulo não define subtipo nem plano neonatal.",
+        "3a5m": "Equimose sem explicação em bebê que ainda não se locomove, sangramento oral, nasal, em punção ou após procedimento precisa de avaliação médica. Não atribua automaticamente à doença nem descarte outras causas; trauma de cabeça ou alteração de comportamento é emergência.",
+        "6a11m": "Ao engatinhar e ficar em pé, quedas e pequenos hematomas aumentam, mas equimose grande, elevada ou crescente, sangramento da boca que não controla, inchaço doloroso ou pancada na cabeça exige o plano de emergência e avaliação conforme os alertas.",
+        "1a": "A criança pode demonstrar sangramento profundo por choro, irritação, mancar, evitar usar um braço ou recusar apoio. Creche e cuidadores devem ter o plano e comunicar quedas, especialmente em cabeça, boca, abdome, músculo ou articulação.",
+        "2a5": "Estimule brincadeira e escola com proteção adequada e plano escrito. Avise dentista antes de procedimentos, não restrinja toda atividade por medo e procure avaliação para epistaxe recorrente, equimoses desproporcionais, dor, inchaço ou perda de movimento.",
+        "6a11": "Ensine a criança a avisar cedo sobre sangramento, dor profunda ou trauma de cabeça. Escola, esporte, odontologia e vacinação devem conhecer o plano; atividade física é benéfica, mas risco de contato e proteção precisam ser individualizados pela equipe.",
+        "12a17": "Revise privacidade, adesão, esportes, piercings, tatuagens e medicamentos sem receita. Após menarca, registre fluxo, trocas, transbordamento, coágulos e sintomas de anemia; sangramento intenso com tontura, desmaio, falta de ar ou fraqueza exige urgência. Evite AAS e AINEs salvo orientação especializada.",
+        "unknown": "Sem idade, subtipo, gravidade, história e situação atual, não escolha medicamento nem plano de procedimento. Aplique os alertas de sangramento, confirme cartão e contato da hematologia e encaminhe imediatamente se houver sangramento sem controle, trauma de risco ou sinais de anemia ou hemorragia interna."
+      },
+      "refs": [
+        {
+          "id": "pais251_op2423_1",
+          "name": "ASH ISTH NHF WFH 2021 guidelines on the diagnosis of von Willebrand disease",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7805340/"
+        },
+        {
+          "id": "pais251_op2423_2",
+          "name": "ASH ISTH NHF WFH 2021 guidelines on the management of von Willebrand disease",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7805326/"
+        },
+        {
+          "id": "pais251_op2423_3",
+          "name": "Guideline for laboratory diagnosis and monitoring of von Willebrand disease: A joint guideline from the United Kingdom Haemophilia Centre Doctors' Organisation and the British Society for Haematology",
+          "url": "https://www.ukhcdo.org/wp-content/uploads/2024/07/Br-J-Haematol-2024-Platton-Guideline-for-laboratory-diagnosis-and-monitoring-of-von-Willebrand-disease-A-joint.pdf"
+        },
+        {
+          "id": "pais251_op2423_4",
+          "name": "About von Willebrand Disease",
+          "url": "https://www.cdc.gov/von-willebrand/about/"
+        },
+        {
+          "id": "pais251_op2423_5",
+          "name": "Diagnosing von Willebrand Disease",
+          "url": "https://www.cdc.gov/von-willebrand/diagnosis/index.html"
+        },
+        {
+          "id": "pais251_op2423_6",
+          "name": "Bleeding Disorder Action Plan — Information for carers and teachers",
+          "url": "https://www.rch.org.au/uploadedFiles/Main/Content/haematology/210023%20RCH%20Bleeding%20Disorder%20Action%20Plan%20Sec_WEB.pdf"
+        },
+        {
+          "id": "pais251_op2423_7",
+          "name": "Characteristics, complications, and sites of bleeding among infants and toddlers less than 2 years of age with VWD",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8095137/"
+        },
+        {
+          "id": "pais251_op2423_8",
+          "name": "Manual de Diagnóstico e Tratamento da Doença de Von Willebrand",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/doacao-de-sangue/publicacoes/coagulopatias/manual-de-diagnostico-e-tratamento-da-doenca-de-von-willebrand"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2424",
+      "specific": true,
+      "key": "pdf1500_460",
+      "label": "Doença do refluxo gastroesofágico",
+      "entity": "Doença do refluxo gastroesofágico (DRGE) pediátrica: refluxo que causa sintomas incômodos relevantes, prejuízo funcional ou complicações, distinto do refluxo gastroesofágico fisiológico",
+      "assessment": "{\"classification\":\"VALID_STANDARD_CLINICAL_ENTITY_WITH_EXISTING_CANONICAL_PEDIATRIC_DRGE_ENTITY\",\"normalized_entity\":\"Doença do refluxo gastroesofágico (DRGE) pediátrica\",\"assessment\":\"O termo é nosologicamente válido. Refluxo gastroesofágico é a passagem do conteúdo do estômago para o esôfago e pode ser um evento fisiológico em qualquer idade; em lactentes saudáveis, golfadas sem esforço, com alimentação, crescimento e estado geral preservados, são muito comuns e em geral diminuem com a maturação. A palavra doença deve ser reservada ao refluxo que causa sintomas incômodos relevantes, interfere em alimentação, crescimento ou função, ou produz complicações, como esofagite ou aspiração. Choro, irritabilidade, tosse, rouquidão, chiado ou arqueamento isolados não confirmam DRGE. O rótulo não informa idade, gravidade, causa, complicação, resultado de exame nem tratamento e não autoriza prescrição ou alta.\",\"canonical_reconciliation\":{\"canonical_key\":\"pps_20\",\"canonical_source_id\":\"outro-compendio-020\",\"canonical_label\":\"Doença do Refluxo Gastroesofágico (DRGE) Pediátrica\",\"relationship\":\"SAME_VALID_BASE_CLINICAL_ENTITY\",\"decision\":\"Preservar pdf1500_460 e seu rótulo cadastral, compartilhar o núcleo clínico da entidade canônica e manter separada a ficha de refluxo gastroesofágico fisiológico. Não criar uma segunda doença-base nem transformar toda regurgitação em DRGE.\",\"counting_effect\":\"ZERO_NEW_BASE_CLINICAL_ENTITY_ONE_VALID_CATALOG_ID_MAPPED_TO_EXISTING_DRGE_ENTITY\"},\"not_automatically_equivalent_to\":[\"Refluxo gastroesofágico fisiológico do lactente ou 'golfador feliz'\",\"Regurgitação isolada sem repercussão\",\"Vômito por obstrução intestinal, estenose hipertrófica do piloro, infecção, doença neurológica, metabólica ou outra causa\",\"Alergia alimentar, esofagite eosinofílica, distúrbio de deglutição ou aspiração\",\"Tosse, rouquidão, chiado, choro, irritabilidade ou arqueamento isolados\",\"Esofagite erosiva, estenose esofágica, aspiração pulmonar ou síndrome de Sandifer confirmadas\",\"Indicação automática de exame, espessamento, troca de fórmula, exclusão alimentar, medicamento, cirurgia ou alta\"],\"pediatric_scope\":\"A apresentação muda com a idade. Lactentes podem ter regurgitação visível, dificuldade alimentar ou repercussão no crescimento; crianças maiores e adolescentes conseguem descrever azia, retorno de conteúdo, gosto ácido, dor retroesternal ou epigástrica e dificuldade ou dor para engolir. Prematuridade, neurodeficiência, fibrose cística ou outra doença pulmonar crônica, obesidade, hérnia de hiato e correção prévia de atresia de esôfago ou hérnia diafragmática aumentam a complexidade e justificam avaliação individualizada.\",\"critical_context_to_confirm\":[\"Idade, início, frequência e evolução das regurgitações ou vômitos e relação com mamadas, refeições, posição e sono\",\"Se a saída é uma golfada sem esforço ou vômito repetido, progressivamente mais forte, em jato, verde, com sangue ou semelhante a borra de café\",\"Dor, azia, gosto ácido, recusa alimentar, engasgos, tosse durante alimentação, dificuldade ou dor para engolir e arqueamento persistente\",\"Peso, estatura, curva de crescimento, ingestão, fraldas ou urina, sinais de desidratação e anemia\",\"Febre, prostração, diarreia, sangue nas fezes, distensão ou dor abdominal, cefaleia matinal, convulsão ou alteração do estado de consciência\",\"Falta de ar, pausas respiratórias, mudança de cor, pneumonias, tosse, rouquidão ou chiado e se há outra explicação respiratória\",\"Prematuridade, neurodeficiência, doença pulmonar, cirurgia digestiva prévia, alergia ou atopia e outras comorbidades\",\"Alimentação atual, técnica e volumes oferecidos, preparo de fórmula quando aplicável, exposição a fumaça e todos os medicamentos em uso\",\"Avaliações e exames já feitos, diagnóstico diferencial documentado, plano prescrito e resposta observada\"],\"counting_rule\":\"Contar pdf1500_460 como ID válido da mesma entidade-base de DRGE pediátrica já representada por pps_20, sem somar nova doença clínica. Não agrupar com refluxo fisiológico nem com qualificadores artificiais das fichas vizinhas sem avaliação própria.\",\"reason\":\"DRGE é termo reconhecido por sociedades de gastroenterologia pediátrica e diretrizes oficiais e é definido pela repercussão ou complicação do refluxo, não apenas por sua ocorrência.\",\"next_action\":\"Integrar por delta preservando o rótulo e testar seleção por nome e ID, diferenciação obrigatória de refluxo fisiológico, oito faixas etárias, sono seguro, alimentação sem intervenção automática, alertas e ausência de prescrição ou alta automáticas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Na DRGE, o conteúdo do estômago retorna ao esôfago e causa sintomas que realmente incomodam, atrapalham alimentação ou crescimento, ou provocam complicações. Isso é diferente da golfada fisiológica: muitos bebês saudáveis golfam sem esforço, continuam confortáveis, mamam e crescem bem, e melhoram com a maturação.",
+          "Não atribua automaticamente choro, irritabilidade, arqueamento, tosse, rouquidão ou chiado ao refluxo. Esses sinais são inespecíficos e podem ter outras causas; procure avaliação se forem persistentes, intensos ou acompanhados de dificuldade alimentar, respiratória ou de crescimento.",
+          "Registre quando ocorrem golfadas, vômitos, azia, dor, engasgos ou recusa, sua relação com mamadas ou refeições e o que a criança estava fazendo. Anote a aparência do vômito, a urina ou fraldas molhadas e a evolução do peso nas consultas; não atrase atendimento para fazer registros.",
+          "Mantenha casa e carro sem fumaça de cigarro, vape, narguilé ou maconha. A exposição à fumaça pode piorar sintomas e prejudica a saúde respiratória.",
+          "DRGE não é uma infecção e não exige afastamento da escola ou creche por si só. A criança pode participar conforme tolerância e plano clínico; vômitos agudos, febre, diarreia ou outra doença possivelmente transmissível precisam de avaliação e regras próprias.",
+          "Se já existe um plano médico, siga-o e compare a evolução com os objetivos definidos, como alimentar-se com conforto, manter hidratação e crescimento e reduzir dor ou complicações. Esta ficha não confirma que a criança está estável nem autoriza cuidado domiciliar isolado ou alta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para todo sono do bebê, coloque-o de barriga para cima em superfície firme, plana, não inclinada e desimpedida. Mesmo com refluxo, não use posição de lado ou de bruços, cunha, travesseiro antirrefluxo, ninho, rolo nem elevação do colchão ou do berço.",
+          "Depois da mamada, enquanto bebê e cuidador estiverem acordados, pode mantê-lo no colo com cabeça e pescoço apoiados e tronco mais vertical. Para dormir, transfira-o ao local de sono seguro; não deixe dormir em bebê-conforto, cadeirinha, sofá ou colo de adulto que possa adormecer.",
+          "Peça que um profissional observe uma mamada quando houver dor, tosse, engasgo, fluxo difícil ou dúvida sobre pega e técnica. Essa observação pode encontrar problemas de alimentação ou deglutição que não são tratados como refluxo por suposição.",
+          "Não faça massagem, manobra corporal ou terapia postural para tratar refluxo do bebê durante o sono. Posição para exame ou tratamento em ambiente monitorado é decisão da equipe e não deve ser copiada em casa.",
+          "Em crianças maiores e adolescentes, observe se deitar logo após comer ou alguma rotina específica coincide com sintomas e discuta ajustes individualizados com a equipe. Não aplique essa orientação para atrasar ou reduzir mamadas de lactentes.",
+          "Cuide da higiene bucal e leve dor dental, sensibilidade ou desgaste percebido ao dentista e ao pediatra. Atividade física e controle de peso, quando pertinentes, devem respeitar idade, crescimento, nutrição e orientação profissional, sem dietas improvisadas."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê antiácido, redutor de acidez, remédio para náusea, medicamento que acelere o estômago, produto herbal ou receita de outra pessoa por conta própria. Regurgitação isolada em criança saudável e choro isolado em lactente não justificam testar remédio.",
+          "A melhora ou a piora após um remédio usado sem avaliação não confirma nem exclui DRGE. O diagnóstico depende da história, do exame, do crescimento e, em situações selecionadas, de investigação indicada pela equipe.",
+          "Se um profissional já prescreveu tratamento, confirme na receita o produto e a forma de uso e siga somente esse plano. Não inicie, aumente, reduza, prolongue, repita, troque ou interrompa por conta própria e não transforme esta orientação em prescrição.",
+          "Avise a equipe sobre todos os medicamentos e suplementos em uso, inclusive os sem receita, pois alguns podem piorar sintomas ou causar efeitos parecidos. Informe efeitos indesejados e dificuldade para administrar; não compense erro com dose extra.",
+          "Uso prolongado de supressão ácida precisa de necessidade revisada pela equipe; não mantenha automaticamente porque a criança já usou antes. Persistência ou retorno de sintomas exige revisar adesão, diagnóstico diferencial e possíveis complicações, não apenas trocar o medicamento.",
+          "Cirurgia e alimentação por sonda são reservadas a situações selecionadas e avaliadas por especialistas. O rótulo DRGE, sozinho, não indica procedimento, internação nem tratamento invasivo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno, fórmula corretamente preparada e alimentação complementar conforme a idade e o plano nutricional, sem forçar. Em lactentes, não substitua mamadas por água, chá, suco ou preparo caseiro.",
+          "Evite insistir em volume além dos sinais de fome e saciedade. A equipe pode revisar pega, fluxo, volume e frequência conforme idade, peso, crescimento e alimentação atual; não reduza o total oferecido nem altere o preparo da fórmula por conta própria.",
+          "Não engrosse leite ou outros líquidos, não troque para fórmula 'antirrefluxo' e não mude bico ou textura sem avaliação. Espessamento pode ser considerado apenas em situações selecionadas e exige produto, técnica e segurança de deglutição definidos individualmente.",
+          "Não retire leite, derivados, soja, glúten ou outro alimento da dieta da criança ou de quem amamenta apenas por suspeita de refluxo. Alergia alimentar pode imitar DRGE, mas exclusão sem hipótese e acompanhamento pode prejudicar nutrição e crescimento.",
+          "Em crianças maiores e adolescentes, faça refeições adequadas à idade e evite grandes volumes impostos. Registre relações consistentes entre alimento, horário e sintomas para discutir na consulta; não crie lista universal de alimentos proibidos.",
+          "Tosse, engasgo, voz molhada, mudança de cor ou falta de ar durante alimentação, recusa persistente, dor ao engolir ou alimento parado exigem avaliação da deglutição e do esôfago. Não force alimento ou líquido diante de dificuldade respiratória, alteração de consciência ou incapacidade de engolir."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde ou amarelo-esverdeado pode indicar obstrução intestinal e exige avaliação hospitalar imediata. Não espere repetir e não o trate como refluxo comum.",
+          "Vômitos repetidamente fortes ou em jato, sobretudo em lactente pequeno ou quando estão piorando, exigem avaliação no mesmo dia. Podem indicar estreitamento na saída do estômago ou outra causa que não é DRGE.",
+          "Sangue no vômito, vômito semelhante a borra de café, fezes pretas ou sangue nas fezes exigem avaliação urgente. Sangramento importante, palidez intensa, desmaio ou pouca resposta é emergência.",
+          "Barriga muito inchada, endurecida ou dolorosa, massa percebida, dor abdominal forte ou piora rápida exigem pronto atendimento por possível causa cirúrgica ou outra doença grave.",
+          "Grande dificuldade para respirar, costelas afundando, pausas, lábios ou rosto arroxeados, engasgo com mudança de cor, desmaio, convulsão ou dificuldade para acordar exigem acionamento imediato do serviço de emergência.",
+          "Incapacidade de beber ou mamar, vômitos que impedem manter líquidos, urina muito reduzida, boca muito seca, ausência de lágrimas, olhos fundos ou sonolência incomum exigem avaliação urgente por possível desidratação.",
+          "Bebê com menos de três meses com temperatura medida de 38 °C ou mais, ou com suspeita de febre e aparência doente, precisa de avaliação imediata; não atribua febre ao refluxo.",
+          "Dificuldade progressiva ou dor para engolir, alimento preso, recusa com perda de peso, dor no peito intensa ou novo sintoma neurológico precisa de avaliação sem demora; se houver falta de ar ou alteração da consciência, acione emergência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure consulta pediátrica para confirmar se existe DRGE ou refluxo fisiológico e revisar alimentação, exame e curva de crescimento. Se o rótulo já foi dado, cumpra o retorno definido pela equipe; esta ficha não cria prazo, tratamento ou alta.",
+          "Antecipe a reavaliação se houver recusa alimentar, dor nas mamadas ou refeições, engasgos, azia frequente, dor retroesternal ou epigástrica, dor ao engolir, perda ou desaceleração do peso, anemia, tosse durante alimentação ou pneumonias repetidas.",
+          "Em lactentes, regurgitação que começa somente depois dos seis meses ou permanece frequente após o primeiro ano merece revisão da causa. Esses marcos não diagnosticam sozinhos nem tornam todo episódio uma emergência; sinais de alarme têm prioridade.",
+          "Sintomas que não melhoram como esperado ou retornam depois de melhora exigem rever o diagnóstico e outras possibilidades, como problema de deglutição, alergia alimentar, esofagite eosinofílica, alteração anatômica, infecção, doença neurológica ou efeito de medicamentos.",
+          "Crianças com prematuridade, neurodeficiência, fibrose cística ou outra doença pulmonar, obesidade, hérnia de hiato ou cirurgia prévia do esôfago ou diafragma podem precisar de seguimento especializado mais próximo; siga o plano da equipe responsável.",
+          "Exames não são obrigatórios para toda criança. Endoscopia, monitorização de refluxo, estudo contrastado ou avaliação de deglutição são escolhidos conforme dúvida clínica e alertas; não peça nem interprete um exame isolado como prova de causa.",
+          "Só mude alimentação, escola, atividade ou tratamento após revisar benefício, risco, crescimento e resposta com a equipe. Melhorar a quantidade de golfadas, isoladamente, não comprova resolução de dor, prejuízo alimentar ou complicação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Golfadas sem esforço podem ser fisiológicas se o bebê está confortável, mama e cresce bem, mas esta idade exige baixa tolerância a sinais de alarme. Febre medida de 38 °C ou mais, prostração, vômito verde, sangue, jato progressivo, barriga distendida, pouca urina, dificuldade para mamar ou respirar exige avaliação imediata. Para dormir, sempre de barriga para cima em superfície firme, plana e vazia.",
+        "3a5m": "Regurgitação fisiológica costuma ser frequente nesta fase e não é DRGE apenas por ocorrer muitas vezes. Avalie conforto, mamada e crescimento; choro ou arqueamento isolado não confirma doença. Não inclinar o berço, não colocar de lado ou de bruços e não iniciar espessante, exclusão ou remédio por conta própria.",
+        "6a11m": "As golfadas tendem a diminuir com maturação e maior tempo ereto. Início novo depois dos seis meses, piora, recusa, dor, engasgos ou baixo ganho de peso merece consulta para procurar outra causa. Mantenha alimentação adequada à idade sem mudar textura, fórmula ou dieta sozinho e preserve sono plano de barriga para cima.",
+        "1a": "Regurgitação frequente que persiste além do primeiro ano deve ter a causa reavaliada, sobretudo com dor, recusa, dificuldade para engolir ou crescimento insuficiente. Não rotule como hábito nem continue automaticamente dieta ou medicamento antigo; vômito verde, sangue, desidratação ou distensão exige urgência.",
+        "2a5": "A criança pequena pode não conseguir explicar azia e mostrar recusa, desconforto ao comer, regurgitação ou dor pouco localizada. Observe deglutição, refeições, sono e crescimento, mas não atribua tosse, rouquidão ou choro isolados à DRGE. Dificuldade progressiva para engolir ou alimento preso exige avaliação rápida.",
+        "6a11": "Pode relatar queimação atrás do peito, gosto ácido, retorno de alimento ou dor na parte alta da barriga. Registre relação com refeições e posição sem criar proibições alimentares. Dor ou dificuldade ao engolir, perda de peso, anemia, vômito com sangue, fezes pretas ou dor torácica intensa precisa de avaliação sem demora.",
+        "12a17": "Inclua o adolescente na conversa e avalie, com privacidade apropriada, azia, regurgitação, dor, deglutição, padrão alimentar, medicamentos, cigarro, vape e possibilidade de gestação quando pertinente. Peso e alimentação devem ser abordados sem culpa ou dieta radical. Disfagia progressiva, alimento impactado, sangramento, perda de peso ou dor torácica importante exige avaliação rápida.",
+        "unknown": "Sem idade, início, padrão do vômito ou regurgitação, alimentação, crescimento, hidratação, respiração, comorbidades, exame e tratamento vigente, não diferencie refluxo fisiológico de DRGE nem libere alimentação, espessamento, exclusão, medicamento, exame ou alta. Aplique imediatamente os sinais de alarme e confirme os dados com a família e a equipe."
+      },
+      "refs": [
+        {
+          "id": "pais251_op2424_1",
+          "name": "Pediatric Gastroesophageal Reflux Clinical Practice Guidelines: Joint Recommendations of NASPGHAN and ESPGHAN",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/"
+        },
+        {
+          "id": "pais251_op2424_2",
+          "name": "Gastro-oesophageal reflux disease in children and young people: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng1/chapter/Recommendations"
+        },
+        {
+          "id": "pais251_op2424_3",
+          "name": "Clinical Practice Guidelines: Gastrooesophageal reflux disease in infants",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastrooesophageal_reflux_disease_in_infants/"
+        },
+        {
+          "id": "pais251_op2424_4",
+          "name": "Refluxo e Doença do Refluxo Gastroesofágico em Pediatria",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23224c-GPO-Refluxo_e_Doenca_RefluxoGastroesof_em_Pediatria.pdf"
+        },
+        {
+          "id": "pais251_op2424_5",
+          "name": "Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment",
+          "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057991/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+        },
+        {
+          "id": "pais251_op2424_6",
+          "name": "Medical management of gastro-esophageal reflux in healthy infants",
+          "url": "https://cps.ca/en/documents/position/gastro-esophageal-reflux-in-healthy-infants"
+        },
+        {
+          "id": "pais251_op2424_7",
+          "name": "Symptoms & Causes of GER & GERD in Children",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-children/symptoms-causes"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T19:06:22.460Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "ext_calazio",
+      "label": "Calázio",
+      "entity": "Calázio",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Entidade distinta de celulite orbitária; diagnóstico por avaliação, sem presumir todo inchaço palpebral benigno.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Calázio é um nódulo por obstrução de uma glândula da pálpebra. Não é a mesma coisa que terçol e não significa infecção bacteriana obrigatória. Pode demorar semanas ou meses para desaparecer.",
+          "Não esprema, fure ou tente drenar a bolinha na pálpebra. Confirme o diagnóstico; inchaço de todo o olho não deve ser considerado apenas um nódulo simples."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Use pano limpo umedecido com água confortavelmente morna sobre a pálpebra fechada, sem apertar. Teste a temperatura antes e supervisione a criança; não use compressa quente que possa queimar.",
+          "Lave as mãos antes dos cuidados, evite esfregar os olhos e mantenha a borda das pálpebras limpa de maneira suave. Não use receitas irritantes dentro do olho."
+        ],
+        "MEDICAMENTOS": [
+          "Colírios ou pomadas precisam de indicação para esta criança. Não use sobras, produtos de outra pessoa ou colírio com corticoide por conta própria.",
+          "Se houver necessidade de procedimento, ele deve ser feito pelo profissional. Esta ficha não indica antibiótico automaticamente nem orienta drenagem em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais para a idade. Não há indicação nesta ficha para suplemento ou dieta restritiva com o objetivo de eliminar o nódulo."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor ao mover o olho, dificuldade para movimentá-lo, visão reduzida ou dupla, olho parecendo saltado, dor de cabeça forte ou vômitos exigem avaliação imediata.",
+          "Procure atendimento urgente se o inchaço ou a vermelhidão se espalhar rapidamente, houver febre ou prostração, ou dor intensa. Não espere a compressa fazer efeito diante desses sinais."
+        ],
+        "QUANDO REAVALIAR": [
+          "Retorne se o diagnóstico não estiver claro, o nódulo crescer, voltar repetidamente ou não melhorar com os cuidados combinados.",
+          "Calázio grande, persistente ou que encobre a visão precisa de avaliação oftalmológica, especialmente em crianças pequenas, pois pode prejudicar o desenvolvimento visual. Combine retorno se não melhorar após algumas semanas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço, vermelhidão ou secreção ocular em recém-nascido precisa de avaliação pronta; não presumir nódulo simples.",
+        "3a5m": "Um adulto deve testar a temperatura da compressa e manter vigilância; febre ou recusa de mamadas exige avaliação.",
+        "6a11m": "Não use objetos ou panos quentes; evite que o bebê puxe a compressa para o rosto ou boca.",
+        "1a": "Não force os cuidados se houver dor ou resistência importante; peça orientação à equipe.",
+        "2a5": "Observe se fecha um olho ou deixa de acompanhar objetos; alterações visuais precisam de avaliação.",
+        "6a11": "Peça que conte se a visão mudou e evite apertar a lesão por constrangimento.",
+        "12a17": "Não use lentes de contato nem maquiagem ocular enquanto houver inflamação; siga orientação para retomada.",
+        "unknown": "Confirme idade, visão, localização e estado geral antes de atribuir o inchaço a lesão simples."
+      },
+      "refs": [
+        {
+          "id": "pais209_op602_1",
+          "name": "Chalazion",
+          "url": "https://aapos.org/glossary/chalazion"
+        },
+        {
+          "id": "pais209_op602_2",
+          "name": "Chalazion",
+          "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/chalazion"
+        },
+        {
+          "id": "pais209_op602_3",
+          "name": "Periorbital and orbital cellulitis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "ext_tercol",
+      "label": "Hordéolo (terçol)",
+      "entity": "Hordéolo (terçol)",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Entidade distinta de celulite orbitária; diagnóstico por avaliação, sem presumir todo inchaço palpebral benigno.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Terçol costuma ser uma bolinha dolorida na pálpebra, ligada à infecção de uma glândula ou da raiz de um cílio. Geralmente melhora em dias, mas não deve alterar a visão.",
+          "Não esprema, fure ou tente drenar a bolinha na pálpebra. Confirme o diagnóstico; inchaço de todo o olho não deve ser considerado apenas um nódulo simples."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Use pano limpo umedecido com água confortavelmente morna sobre a pálpebra fechada, sem apertar. Teste a temperatura antes e supervisione a criança; não use compressa quente que possa queimar.",
+          "Lave as mãos antes dos cuidados, evite esfregar os olhos e mantenha a borda das pálpebras limpa de maneira suave. Não use receitas irritantes dentro do olho.",
+          "Não compartilhe toalhas e não arranque cílios. Evite lentes de contato e maquiagem ocular até melhorar."
+        ],
+        "MEDICAMENTOS": [
+          "Colírios ou pomadas precisam de indicação para esta criança. Não use sobras, produtos de outra pessoa ou colírio com corticoide por conta própria.",
+          "Se houver necessidade de procedimento, ele deve ser feito pelo profissional. Esta ficha não indica antibiótico automaticamente nem orienta drenagem em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais para a idade. Não há indicação nesta ficha para suplemento ou dieta restritiva com o objetivo de eliminar o nódulo."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor ao mover o olho, dificuldade para movimentá-lo, visão reduzida ou dupla, olho parecendo saltado, dor de cabeça forte ou vômitos exigem avaliação imediata.",
+          "Procure atendimento urgente se o inchaço ou a vermelhidão se espalhar rapidamente, houver febre ou prostração, ou dor intensa. Não espere a compressa fazer efeito diante desses sinais."
+        ],
+        "QUANDO REAVALIAR": [
+          "Retorne se o diagnóstico não estiver claro, o nódulo crescer, voltar repetidamente ou não melhorar com os cuidados combinados.",
+          "Procure reavaliação se não houver melhora ou persistir por algumas semanas; retorne antes se houver piora. Se toda a pálpebra inchar ou houver alteração visual, busque atendimento urgente."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço, vermelhidão ou secreção ocular em recém-nascido precisa de avaliação pronta; não presumir nódulo simples.",
+        "3a5m": "Um adulto deve testar a temperatura da compressa e manter vigilância; febre ou recusa de mamadas exige avaliação.",
+        "6a11m": "Não use objetos ou panos quentes; evite que o bebê puxe a compressa para o rosto ou boca.",
+        "1a": "Não force os cuidados se houver dor ou resistência importante; peça orientação à equipe.",
+        "2a5": "Observe se fecha um olho ou deixa de acompanhar objetos; alterações visuais precisam de avaliação.",
+        "6a11": "Peça que conte se a visão mudou e evite apertar a lesão por constrangimento.",
+        "12a17": "Não use lentes de contato nem maquiagem ocular enquanto houver inflamação; siga orientação para retomada.",
+        "unknown": "Confirme idade, visão, localização e estado geral antes de atribuir o inchaço a lesão simples."
+      },
+      "refs": [
+        {
+          "id": "pais209_op603_1",
+          "name": "Stye",
+          "url": "https://www.nhs.uk/conditions/stye/"
+        },
+        {
+          "id": "pais209_op603_2",
+          "name": "Stye",
+          "url": "https://www.moorfields.nhs.uk/eye-conditions/stye"
+        },
+        {
+          "id": "pais209_op603_3",
+          "name": "Periorbital and orbital cellulitis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

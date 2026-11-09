@@ -1,0 +1,21 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T23:05:00.000Z",
+  "baseline_version": 111,
+  "baseline_commit": "534b162793d0ca83624cffa789dd20f2768cbc8a",
+  "records": [
+    {"key":"pdf1500_949","label":"Megacólon congênito (Doença de Hirschsprung) agudo","specific":false,"clinical_entity":"Doença de Hirschsprung com possível complicação aguda","term_resolution":true},
+    {"key":"pdf1500_950","label":"Megacólon congênito (Doença de Hirschsprung) bilateral","specific":false,"clinical_entity":"Doença de Hirschsprung; bilateralidade inaplicável","term_resolution":true},
+    {"key":"pdf1500_951","label":"Megacólon congênito (Doença de Hirschsprung) crônico Megacólon congênito (Doença de Hirschsprung) de origem","specific":false,"clinical_entity":"Doença de Hirschsprung; rótulo concatenado","term_resolution":true},
+    {"key":"pdf1500_952","label":"infecciosa","specific":false,"clinical_entity":"Fragmento possivelmente ligado à enterocolite associada a Hirschsprung","term_resolution":true},
+    {"key":"pdf1500_953","label":"Megacólon congênito (Doença de Hirschsprung) grave","specific":false,"clinical_entity":"Doença de Hirschsprung com possível complicação grave","term_resolution":true},
+    {"key":"pdf1500_954","label":"Megacólon congênito (Doença de Hirschsprung) idiopático Megacólon congênito (Doença de Hirschsprung) induzido por","specific":false,"clinical_entity":"Doença de Hirschsprung; causalidade concatenada e incompleta","term_resolution":true},
+    {"key":"pdf1500_955","label":"medicamentos","specific":false,"clinical_entity":"Fragmento sem entidade clínica autônoma","term_resolution":true},
+    {"key":"pdf1500_956","label":"Megacólon congênito (Doença de Hirschsprung) leve","specific":false,"clinical_entity":"Doença de Hirschsprung com sintomas descritos como leves","term_resolution":true},
+    {"key":"pdf1500_957","label":"Megacólon congênito (Doença de Hirschsprung) moderado Megacólon congênito (Doença de Hirschsprung) não","specific":false,"clinical_entity":"Doença de Hirschsprung; intensidade concatenada e incompleta","term_resolution":true},
+    {"key":"pdf1500_958","label":"especificado","specific":false,"clinical_entity":"Fragmento sem diagnóstico autônomo","term_resolution":true},
+    {"key":"pdf1500_959","label":"Megacólon congênito (Doença de Hirschsprung) recorrente","specific":false,"clinical_entity":"Doença de Hirschsprung com sintomas ou enterocolite recorrentes","term_resolution":true},
+    {"key":"pdf1500_960","label":"Megacólon congênito (Doença de Hirschsprung) refratário","specific":false,"clinical_entity":"Doença de Hirschsprung com sintomas persistentes","term_resolution":true},
+    {"key":"pdf1500_961","label":"Megacólon congênito (Doença de Hirschsprung) unilateral","specific":false,"clinical_entity":"Doença de Hirschsprung; unilateralidade inaplicável","term_resolution":true}
+  ]
+}

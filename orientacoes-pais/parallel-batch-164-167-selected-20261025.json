@@ -1,0 +1,387 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T08:09:38.523Z",
+  "records": [
+    {
+      "key": "pdf1500_1389",
+      "label": "Síndrome de Angelman",
+      "entity": "Síndrome de Angelman em pediatria",
+      "assessment": "{\"classification\":\"VALID_NEUROGENETIC_CLINICAL_ENTITY\",\"normalized_entity\":\"Síndrome de Angelman\",\"assessment\":\"O termo é válido e corresponde a uma condição neurogenética causada pela ausência ou perda de função da expressão materna de UBE3A no sistema nervoso. Costuma provocar atraso global importante, fala muito limitada, alteração de equilíbrio e coordenação, comportamento excitável, distúrbio do sono e epilepsia. É congênita, não contagiosa e dura por toda a vida; a intensidade e as necessidades variam conforme o mecanismo genético e a pessoa.\",\"not_automatically_equivalent_to\":[\"Todo atraso do desenvolvimento, autismo, deficiência intelectual ou epilepsia\",\"Síndrome de Prader-Willi, embora envolva a mesma região cromossômica por mecanismo diferente\",\"Confirmação apenas por sorriso frequente, comportamento feliz, marcha instável ou EEG alterado\",\"Perda progressiva inevitável de habilidades; regressão aguda exige investigação própria\",\"Indicação de medicamento, dieta, suplemento ou tratamento experimental sem avaliação individual\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de Angelman. Não contar como cobertura de outras causas de atraso global, epilepsia, distúrbio do movimento, aspiração, escoliose ou distúrbio do sono, que exigem avaliação própria.\",\"pediatric_scope\":\"Lactentes, crianças e adolescentes com diagnóstico confirmado ou suspeita em investigação. O atraso costuma ficar perceptível entre 6 e 12 meses, mas os achados típicos podem surgir depois de 1 ano. Alimentação, crises, comunicação, sono, mobilidade, crescimento, visão, coluna e comportamento precisam de acompanhamento ao longo da infância.\",\"reason_for_specific\":\"É entidade reconhecida, com mecanismo genético, perfil do desenvolvimento, comunicação, epilepsia, alimentação, sono, mobilidade e vigilância próprios.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Angelman é uma condição genética do sistema nervoso. A criança pode ter atraso importante, poucas palavras ou nenhuma fala funcional, dificuldade de equilíbrio, movimentos trêmulos ou bruscos, sono irregular e crises epilépticas. Ela não é causada por erro dos pais, não é contagiosa e não desaparece com o crescimento.",
+          "Use uma forma de comunicação que a criança consiga acessar: gestos, figuras, prancha ou dispositivo de comunicação, conforme a fonoaudiologia. Fale diretamente com ela, dê tempo para responder e não interprete ausência de fala como ausência de compreensão, preferência ou dor.",
+          "Organize ambiente previsível e seguro. Reduza risco de quedas, proteja quinas e escadas e supervisione em locais altos. Como atração por água, instabilidade da marcha e crises podem coexistir, nunca deixe a criança sozinha perto de piscina, banheira, balde, rio ou mar.",
+          "Tenha plano escrito para crises na escola e em casa. Durante uma crise, afaste objetos, proteja a cabeça, marque o tempo e, se estiver deitada, vire-a de lado quando for seguro. Não segure à força, não coloque nada na boca e não ofereça comida ou líquido até recuperar totalmente o alerta.",
+          "Observe mudanças em crises, atenção, sono, marcha, alimentação, evacuação, comportamento e habilidades. Queda súbita do nível de alerta, perda de habilidades ou episódios prolongados de pouca resposta podem ser crise não convulsiva e precisam de avaliação, não devem ser atribuídos automaticamente à síndrome.",
+          "A expectativa de vida costuma ser próxima do habitual, mas apoio é necessário por toda a vida. A criança pode adquirir comunicação e novas habilidades; o objetivo é ampliar participação, segurança e autonomia, sem prometer fala, marcha independente ou controle completo das crises."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha fisioterapia, terapia ocupacional, fonoaudiologia e estimulação do desenvolvimento conforme o plano. Priorize comunicação aumentativa, postura, equilíbrio, mobilidade, atividades diárias e adaptações da casa e da escola.",
+          "Use rotina de sono regular, com horário previsível e quarto calmo, fresco e escuro. Registre horários, despertares, ronco, pausas respiratórias e eventos noturnos; piora do sono pode aumentar problemas de comportamento e crises e pode indicar refluxo, constipação, dor, apneia ou crise noturna.",
+          "Na escola, solicite plano individual com comunicação acessível, apoio para mobilidade e alimentação, supervisão perto de água, prevenção de fuga e instruções para crises. A inclusão deve ser adequada às necessidades, sem afastamento automático por causa do diagnóstico.",
+          "Estimule atividade física segura, com supervisão e orientação da equipe. Use calçado, órtese, apoio de marcha ou cadeira apenas quando indicados; mudança da marcha, dor, rigidez ou quedas novas precisam ser avaliadas.",
+          "Proteja do calor excessivo: roupa leve, sombra, ambiente ventilado e líquidos adequados. Algumas pessoas superaquecem com facilidade; desidratação pode facilitar crises.",
+          "Mantenha acompanhamento odontológico e higiene bucal adaptada. Mastigação de objetos, refluxo e dificuldade de cooperação exigem planejamento; não adie cuidado necessário apenas porque pode ser preciso suporte especializado."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que cure a síndrome de Angelman. Remédios podem tratar manifestações como epilepsia, sono, refluxo ou constipação, sempre conforme avaliação e prescrição individual.",
+          "Dê os medicamentos para crises exatamente na apresentação, quantidade e horário prescritos. Não suspenda, dobre, troque ou reduza por conta própria, mesmo quando as crises parecem controladas ou quando o EEG continua alterado.",
+          "Se houver medicamento de resgate para crise, mantenha o plano escrito com o nome do produto, a situação em que deve ser usado e quando chamar emergência. Escola e cuidadores devem ser treinados pela equipe; esta ficha não substitui esse plano.",
+          "Movimentos repetitivos, tremores e mioclonias nem sempre são epilepsia. Filme um episódio somente se for seguro e mostre à neurologia; aumentar anticonvulsivante sem confirmação pode causar sedação e piorar equilíbrio, alimentação e participação.",
+          "Não inicie melatonina, sedativo, antialérgico, suplemento, canabidiol, anticonvulsivante ou produto natural por conta própria. Sonolência excessiva, respiração alterada, piora da marcha, recusa alimentar, reação na pele ou mudança importante de comportamento após medicamento exigem orientação.",
+          "Dietas terapêuticas para epilepsia só devem ser feitas por neurologia e nutrição, com monitorização. Não improvise dieta cetogênica, restrição de carboidrato ou suplementos em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação adequada à idade e à capacidade de mastigar e engolir. Bebês podem ter sucção fraca, dificuldade para coordenar sucção, deglutição e respiração, refluxo ou baixo ganho de peso; tosse, engasgo, voz molhada, cansaço ou pneumonias repetidas pedem avaliação de alimentação.",
+          "Sente a criança bem apoiada e acordada, ofereça porções pequenas e ritmo lento conforme a orientação da equipe. Algumas pessoas colocam comida demais na boca ou mastigam pouco; supervisione todas as refeições e adapte textura somente após avaliação.",
+          "Não dê comida ou bebida quando estiver muito sonolenta, durante uma crise ou antes de recuperar completamente o alerta. Não coloque alimento na boca para interromper choro, movimento ou crise.",
+          "Mantenha leite materno e/ou fórmula para lactentes conforme o plano. Não dilua fórmula, não engrosse líquidos e não use mamadeira, copo ou sonda diferentes sem orientação, pois mudanças podem aumentar aspiração ou alterar a nutrição.",
+          "Observe crescimento, peso, hidratação, refluxo e evacuações. Crianças maiores podem ganhar peso excessivo; não faça restrição severa. Ajuste de calorias, fibras e líquidos deve considerar mobilidade, constipação, crises e eventual dieta terapêutica.",
+          "Não existe alimento, vitamina ou suplemento que reverta a alteração genética. Procure atendimento se houver engasgo com dificuldade para respirar, coloração arroxeada, incapacidade de engolir, vômitos persistentes, pouca urina ou sinais de desidratação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência se uma crise durar mais de 5 minutos, outra crise começar logo depois, a criança não recuperar o alerta habitual, tiver dificuldade para respirar, ficar arroxeada, sofrer lesão importante ou tiver crise dentro da água. Siga o plano individual se ele indicar ação mais precoce.",
+          "A primeira crise da vida, uma crise diferente do padrão conhecido, crises muito mais frequentes ou queda prolongada da resposta e das habilidades precisam de avaliação urgente.",
+          "Procure atendimento imediato se houver engasgo e dificuldade para respirar, lábios arroxeados, tosse persistente após alimento, incapacidade de engolir ou suspeita de aspiração.",
+          "Vá à urgência diante de traumatismo importante na cabeça, desmaio, fraqueza nova de um lado, incapacidade súbita de ficar em pé ou andar, dor intensa, ou perda aguda de habilidade.",
+          "Procure atendimento imediato se houver febre com prostração importante, rigidez de nuca, dificuldade respiratória, vômitos repetidos, sinais de desidratação ou criança muito difícil de acordar.",
+          "Se houver crise, não segure a pessoa, não coloque objetos ou dedos na boca e não ofereça alimento, água ou remédio por via oral enquanto ela não estiver plenamente alerta."
+        ],
+        "QUANDO REAVALIAR": [
+          "Após o diagnóstico, confirme seguimento com genética e aconselhamento para esclarecer o mecanismo molecular e o risco de repetição na família; esse risco não pode ser estimado apenas pelo nome da síndrome.",
+          "Em cada consulta, revise crises e episódios de pouca resposta, desenvolvimento, comunicação, sono, comportamento, marcha e mobilidade, alimentação, refluxo, constipação, crescimento e medicamentos. Leve vídeos curtos de eventos apenas quando obtidos com segurança.",
+          "Mantenha neurologia conforme o controle das crises. Antecipe se houver evento novo, mudança do padrão, possível efeito adverso ou regressão; EEG alterado isoladamente não deve levar a aumento de remédio sem correlação clínica.",
+          "Revise visão conforme oftalmologia e examine a coluna pelo menos anualmente para escoliose. Dor, inclinação do tronco, perda de mobilidade, tornozelo deformado ou quedas crescentes justificam avaliação antes do prazo.",
+          "Reavalie alimentação e nutrição se houver baixo ganho ou ganho excessivo de peso, refeições muito longas, engasgos, tosse, pneumonias, refluxo ou constipação. Avaliação da deglutição pode ser necessária mesmo sem tosse, pois aspiração silenciosa pode ocorrer.",
+          "Na adolescência, planeje transição para serviços de adultos, segurança, sexualidade e proteção contra abuso, mobilidade, saúde óssea, controle de peso, comunicação e apoio legal/social, preservando participação da pessoa nas decisões."
+        ]
+      },
+      "ageMap": {
+        "u3m": "A síndrome é congênita, mas o fenótipo típico raramente está completo nesta idade. Priorize mamadas, coordenação sucção-deglutição-respiração, tônus, crescimento e confirmação genética; febre, crise, arroxeamento, recusa ou sonolência anormal exigem avaliação imediata.",
+        "3a5m": "Observe alimentação, tônus, controle de cabeça, crescimento e interação sem usar ausência de sinais típicos para excluir a condição. Engasgos, baixo ganho, perda de habilidades ou episódio paroxístico pedem avaliação.",
+        "6a11m": "Atrasos podem ficar mais perceptíveis entre 6 e 12 meses. Inicie intervenção precoce e comunicação por gestos/figuras quando indicada; não espere confirmação de fala para apoiar comunicação.",
+        "1a": "Atenção a crises, equilíbrio, quedas, alimentação e sono. Organize casa segura, estimulação precoce e plano de comunicação; não presuma que risos frequentes significam ausência de desconforto.",
+        "2a5": "Crises são comuns nesta fase. Mantenha plano de emergência, supervisão constante perto de água, terapias e comunicação aumentativa; escola e cuidadores precisam conhecer sinais e conduta.",
+        "6a11": "Revise aprendizagem, comunicação, sono, crises, peso, constipação, mobilidade, visão e escoliose. Adapte escola e atividade física para participação segura, sem retirar oportunidades por falta de fala.",
+        "12a17": "Planeje transição, autonomia assistida, segurança e proteção contra abuso. Avalie mudança de crises ou movimentos, sono, puberdade, peso, coluna, mobilidade e saúde óssea; nova mioclonia pode não ser crise e precisa de avaliação.",
+        "unknown": "Antes de personalizar, confirme idade, mecanismo genético, crises e plano de resgate, comunicação, alimentação/deglutição, crescimento, sono, comportamento, marcha, visão, escoliose, constipação, medicamentos e apoios escolares."
+      },
+      "refs": [
+        {
+          "id": "pais139_op164_1",
+          "name": "Angelman Syndrome — GeneReviews",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK1144/"
+        },
+        {
+          "id": "pais139_op164_2",
+          "name": "A multidisciplinary approach and consensus statement to establish standards of care for Angelman syndrome",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.1843"
+        },
+        {
+          "id": "pais139_op164_3",
+          "name": "Angelman syndrome",
+          "url": "https://www.nhs.uk/conditions/angelman-syndrome/"
+        },
+        {
+          "id": "pais139_op164_4",
+          "name": "Angelman syndrome",
+          "url": "https://medlineplus.gov/genetics/condition/angelman-syndrome/"
+        },
+        {
+          "id": "pais139_op164_5",
+          "name": "First Aid for Seizures",
+          "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1390",
+      "label": "Síndrome de DiGeorge",
+      "entity": "Síndrome de DiGeorge / fenótipo de deleção 22q11.2 em pediatria, com confirmação etiológica individual",
+      "assessment": "{\"classification\":\"VALID_HISTORICAL_CLINICAL_ENTITY_REQUIRING_ETIOLOGIC_CLARIFICATION\",\"normalized_entity\":\"Síndrome de DiGeorge; frequentemente parte do espectro da síndrome da deleção 22q11.2\",\"assessment\":\"O termo é válido, porém histórico e heterogêneo. A deleção 22q11.2 explica muitos casos antes chamados de síndrome de DiGeorge, síndrome velocardiofacial ou síndrome da anomalia conotruncal da face. Entretanto, um fenótipo semelhante pode ocorrer sem a deleção 22q11.2, e o nome isolado não informa a causa genética, a cardiopatia, o grau de deficiência de células T, a função das paratireoides, alterações do palato nem o desenvolvimento. A orientação deve ser individualizada a partir do laudo genético e das avaliações cardíaca, imunológica, endócrina, auditiva, alimentar e do desenvolvimento.\",\"not_automatically_equivalent_to\":[\"Deleção 22q11.2 confirmada sem laudo genético\",\"Imunodeficiência grave ou ausência completa do timo em toda criança com o rótulo\",\"Hipocalcemia, cardiopatia congênita, fenda palatina ou atraso do desenvolvimento presentes em todos os casos\",\"Proibição automática de todas as vacinas ou liberação de vacina viva sem avaliação imunológica\",\"Indicação de cálcio, vitamina D, antibiótico preventivo, imunoglobulina ou outro tratamento sem diagnóstico e prescrição\",\"Doença contagiosa ou necessidade de afastamento escolar permanente\"],\"counting_rule\":\"Contar como orientação clínica específica para a síndrome de DiGeorge/espectro 22q11.2, preservando o ID e a necessidade de confirmar a etiologia. Não contar separadamente como cobertura de cada cardiopatia, imunodeficiência, hipoparatireoidismo, alteração do palato, transtorno do desenvolvimento ou condição psiquiátrica, que exigem diagnóstico próprio.\",\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com diagnóstico clínico de síndrome de DiGeorge ou deleção 22q11.2 confirmada. O risco e o seguimento dependem dos achados individuais e mudam com a idade.\",\"reason_for_specific\":\"É uma síndrome pediátrica multissistêmica reconhecida, com riscos próprios de cardiopatia, hipocalcemia, imunodeficiência, problemas de palato/alimentação, audição, desenvolvimento e saúde mental, exigindo vigilância coordenada por idade.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de DiGeorge pode afetar vários sistemas, mas cada criança apresenta uma combinação diferente. Muitas têm deleção 22q11.2; outras podem ter quadro semelhante por causa distinta. Guarde o laudo genético e um resumo atualizado com cardiopatia, exames de imunidade, cálcio/paratireoide, palato, audição, rins, medicamentos, alergias e contatos da equipe.",
+          "Mantenha acompanhamento coordenado com pediatria/genética e, conforme os achados, cardiologia, imunologia/infectologia, endocrinologia, otorrinolaringologia, fonoaudiologia, odontologia, nefrologia, neurologia, desenvolvimento e saúde mental. Não suspenda um seguimento porque a criança parece bem.",
+          "Observe respiração e coloração, cansaço ou suor para mamar/comer, ganho de peso, infecções frequentes ou incomuns, tremores ou espasmos, voz anasalada, alimento saindo pelo nariz, engasgos, audição, fala, aprendizagem, comportamento e sono. Registre mudanças para o retorno.",
+          "A síndrome não é contagiosa. A criança não precisa ser isolada apenas pelo diagnóstico. Higiene das mãos, ambiente sem fumaça e evitar contato próximo com pessoas claramente doentes ajudam; restrições adicionais dependem do grau de imunodeficiência definido pela equipe.",
+          "Antes de cirurgia, procedimento, anestesia ou transfusão, informe o diagnóstico. Cardiopatia, via aérea, cálcio e imunidade podem exigir plano específico, exames perioperatórios e escolha especial de hemocomponentes pela equipe.",
+          "Tenha um plano escrito para febre, sinais de hipocalcemia, descompensação cardíaca e medicamentos. A evolução pode mudar ao longo da infância e adolescência; resultados normais anteriores não substituem a vigilância indicada."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Leve a todas as consultas uma lista de especialistas, exames recentes e um resumo de urgência. Se houver cardiopatia, use a saturação, os limites de atividade e o plano de emergência fornecidos pela cardiologia; não adote valores de outra criança.",
+          "Siga as orientações de fonoaudiologia e equipe de alimentação para posição, textura e utensílios. Alimento ou líquido pelo nariz, tosse, engasgos, voz molhada, refeições longas ou pneumonias repetidas precisam de avaliação de palato e deglutição, não de exercícios caseiros improvisados.",
+          "Estimule fala, comunicação, movimento, brincadeiras e autonomia no nível da criança. Providencie avaliação auditiva e visual e compartilhe com creche/escola um plano de apoio para linguagem, atenção, aprendizagem, ansiedade, coordenação motora e fadiga quando presentes.",
+          "Mantenha saúde bucal e consultas odontológicas; alterações do esmalte, boca seca, respiração oral e dieta frequente podem aumentar o risco de cárie. Informe cardiopatia e imunidade ao dentista antes de procedimentos, sem iniciar antibiótico por conta própria.",
+          "Vacinação deve ser planejada com a equipe conforme idade e avaliação imunológica. Vacinas não vivas costumam ser seguras, mas resposta e doses adicionais podem variar; vacinas vivas exigem decisão baseada na função imune. Não atrase, proíba ou aplique por conta própria apenas pelo nome da síndrome.",
+          "Não use terapias alternativas, dietas restritivas, exposição intencional a infecções ou suplementos para tentar corrigir a deleção, aumentar células T ou prevenir todas as complicações."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas os medicamentos prescritos para os achados documentados da criança, como cardiopatia, cálcio baixo, tireoide, refluxo, infecções ou saúde mental. O diagnóstico sozinho não define produto, dose, intervalo ou duração.",
+          "Se houver prescrição de cálcio e/ou vitamina D ativa, siga exatamente a apresentação e os horários indicados e compare rótulo e receita. Não aumente a dose por tremor ou formigamento e não interrompa porque um exame normalizou; excesso também pode causar dano e cálculos renais.",
+          "Antibiótico preventivo, reposição de imunoglobulina ou tratamento relacionado ao timo são necessários apenas em situações imunológicas específicas. Não use antibiótico que sobrou nem repita receita antiga para febre ou secreção.",
+          "Não inicie corticoide, fitoterápico, megadose de vitamina, suplemento para imunidade ou remédio para atenção/ansiedade sem avaliação. Alguns produtos alteram cálcio, coração, rins ou imunidade e podem interferir com tratamentos em uso.",
+          "Antes de vacina, cirurgia ou transfusão, mostre a lista de medicamentos e o relatório imunológico. A equipe decide sobre vacinas vivas, profilaxia, hemocomponentes e monitorização; o responsável não deve tomar essas decisões pelo rótulo de DiGeorge.",
+          "Em vômito após uma dose, dose esquecida, reação, troca de marca ou divergência entre receita e frasco, contate a equipe ou o farmacêutico. Não dobre nem adapte comprimidos ou líquidos sem confirmação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno e/ou fórmula e alimentação adequada à idade e ao crescimento, salvo plano individual. A síndrome não exige dieta única nem restrição automática de leite, glúten ou outros alimentos.",
+          "Ofereça refeições em posição ereta e ritmo calmo, usando textura definida pela avaliação de deglutição quando houver problema de palato ou aspiração. Pare e procure orientação se ocorrer tosse, engasgo, arroxeamento, voz molhada, alimento pelo nariz ou cansaço importante.",
+          "Cardiopatia pode causar suor, respiração rápida, cansaço e baixo ganho de peso durante as refeições. Volumes, concentração de fórmula, sal e líquidos devem seguir cardiologia/nutrição; não concentre, dilua ou force grandes volumes por conta própria.",
+          "Se houver cálcio baixo, a dieta não substitui o tratamento e os exames prescritos. Não ofereça suplementos de cálcio, vitamina D, magnésio ou fósforo sem orientação, especialmente se houver doença renal ou uso de outros medicamentos.",
+          "Durante febre, vômitos ou diarreia, ofereça líquidos apropriados à idade se a criança estiver desperta e engolindo com segurança. Pouca urina, boca seca, vômitos repetidos, prostração ou incapacidade de beber exigem avaliação.",
+          "Acompanhe peso, estatura e puberdade. Perda ou falta de ganho de peso, constipação persistente, sede e urina excessivas, dor abdominal recorrente ou mudança importante do apetite devem ser discutidas no retorno."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência se houver dificuldade importante para respirar, lábios arroxeados, desmaio, convulsão, confusão ou criança muito sonolenta e difícil de acordar.",
+          "Procure pronto atendimento diante de tremores persistentes, espasmos ou rigidez, formigamento ao redor da boca ou nas mãos, contrações, convulsão ou mudança súbita de comportamento, pois podem indicar cálcio baixo.",
+          "Vá imediatamente se houver febre com aparência muito doente, dificuldade respiratória, manchas arroxeadas, rigidez de nuca, piora rápida, calafrios intensos, pouca resposta ou se o plano imunológico orientar avaliação imediata. Imunodeficiência pode alterar a apresentação da infecção.",
+          "Procure emergência se a criança com cardiopatia apresentar respiração mais rápida ou difícil, suor frio, arroxeamento, inchaço, dor no peito, desmaio, palpitações sustentadas ou piora súbita para mamar, comer ou fazer atividades.",
+          "Vá imediatamente se houver engasgo com falta de ar, alimento aspirado, incapacidade de engolir saliva, vômitos repetidos, incapacidade de beber ou urina muito reduzida.",
+          "Recém-nascido ou bebê pequeno com febre, temperatura anormalmente baixa, recusa repetida de mamadas, respiração rápida, arroxeamento, tremores, prostração ou aparência muito doente precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Cumpra o calendário individual de pediatria/genética e especialistas. Confirme no resumo quais acompanhamentos estão ativos e quem coordena os resultados; a frequência depende da cardiopatia, imunidade, cálcio, palato, crescimento e desenvolvimento.",
+          "Revise cálcio e função da paratireoide conforme o plano e em situações de maior demanda, como crescimento, doença importante, cirurgia, gestação futura ou sintomas compatíveis. Antes de procedimento, confirme se há orientação específica de endocrinologia.",
+          "Mantenha avaliação imunológica e plano vacinal. Reavalie antes do agendado se houver infecções repetidas, graves ou incomuns, dificuldade para ganhar peso, diarreia persistente, candidíase recorrente ou reação inesperada a vacina.",
+          "Faça acompanhamento de audição, palato/fala, alimentação e desenvolvimento. Antecipe se houver regressão, perda de habilidade, atraso novo, alimento pelo nariz, engasgos, fala muito anasalada, baixa resposta a sons ou dificuldade escolar crescente.",
+          "Mantenha vigilância de tireoide, sangue, rins, crescimento, coluna, dentes e saúde mental conforme a equipe. Em adolescentes, mudança marcante de sono, isolamento, ansiedade intensa, ideias de autoagressão, confusão ou comportamento muito diferente exige avaliação rápida; risco imediato exige emergência.",
+          "Planeje transição gradual para cuidado de adulto na adolescência, com a própria criança aprendendo nome da condição, medicamentos, sinais de alarme, contatos da equipe e cuidados antes de cirurgia, transfusão e vacinação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme avaliação cardíaca, cálcio, imunidade, palato/deglutição, audição e laudo genético. Febre ou temperatura baixa, tremores, recusa de mamadas, suor/cansaço, respiração rápida, arroxeamento, engasgos ou sonolência exigem avaliação imediata.",
+        "3a5m": "Observe ganho de peso, mamadas, respiração, tremores, infecções e marcos do desenvolvimento. Antes de vacinas vivas do calendário, confirme que a avaliação imunológica e a decisão da equipe estão registradas.",
+        "6a11m": "Introdução alimentar deve respeitar palato e deglutição; alimento pelo nariz, tosse ou engasgos precisam de avaliação. Mantenha plano vacinal individual, audição e estimulação do desenvolvimento.",
+        "1a": "Acompanhe fala, resposta a sons, marcha, alimentação, crescimento, infecções e cálcio. Não atribua atraso ou voz anasalada apenas à síndrome sem avaliação auditiva, do palato e do desenvolvimento.",
+        "2a5": "Organize apoio de fonoaudiologia e educação infantil, reveja imunidade e vacinas e observe fala, audição, engasgos, aprendizado e comportamento. Febre com aparência muito doente segue o plano de urgência imunológica.",
+        "6a11": "Revise adaptações escolares, linguagem, atenção, ansiedade, coordenação, audição, tireoide, cálcio, crescimento e coluna. Mudança de rendimento deve levar a avaliação, não punição ou retirada automática da escola.",
+        "12a17": "Inclua o adolescente no plano de cuidado e transição. Reavalie tireoide, cálcio, puberdade, coração, imunidade, aprendizagem e saúde mental; autoagressão, psicose, desmaio, convulsão ou alteração aguda exigem atendimento urgente.",
+        "unknown": "Antes de personalizar, confirme idade, laudo genético, cardiopatia, cálcio/paratireoide, avaliação imunológica, palato/deglutição, audição, rins, crescimento, desenvolvimento, vacinas, medicamentos e plano de emergência."
+      },
+      "refs": [
+        {
+          "id": "pais139_op165_1",
+          "name": "22q11.2 Deletion Syndrome — GeneReviews®",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK1523/"
+        },
+        {
+          "id": "pais139_op165_2",
+          "name": "Health Supervision for Children With 22q11.2 Deletion Syndrome: Clinical Report",
+          "url": "https://publications.aap.org/pediatrics/article/156/2/e2025072717/202658/Health-Supervision-for-Children-With-22q11-2"
+        },
+        {
+          "id": "pais139_op165_3",
+          "name": "Updated clinical practice recommendations for managing children with 22q11.2 deletion syndrome",
+          "url": "https://www.gimjournal.org/article/S1098-3600%2822%2901018-8/fulltext"
+        },
+        {
+          "id": "pais139_op165_4",
+          "name": "Clinical Practice Guidelines for the Immunological Management of Chromosome 22q11.2 Deletion Syndrome and Other Defects in Thymic Development",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9892161/"
+        },
+        {
+          "id": "pais139_op165_5",
+          "name": "Altered Immunocompetence — General Best Practices for Immunization",
+          "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/altered-immunocompetence.html"
+        },
+        {
+          "id": "pais139_op165_6",
+          "name": "22q11.2 Hypocalcemia Screening/Treatment Clinical Pathway — Inpatient, Outpatient Specialty Care and PICU",
+          "url": "https://www.chop.edu/clinical-pathway/22q112-hypocalcemia-screening-treatment-clinical-pathway"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1391",
+      "label": "Síndrome de Down (Trissomia do 21)",
+      "entity": "Síndrome de Down (trissomia do cromossomo 21) na infância e adolescência",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_CYTOGENETIC_NUANCE\",\"normalized_entity\":\"Síndrome de Down / trissomia 21\",\"assessment\":\"O termo é válido e identifica uma condição genética causada por material adicional do cromossomo 21. Pode decorrer de trissomia livre, translocação ou mosaicismo; o rótulo isolado não informa o mecanismo citogenético, as condições associadas nem o desenvolvimento individual. Cada criança tem perfil próprio de saúde, aprendizagem, comunicação e autonomia. A síndrome não é contagiosa, não foi causada pelos cuidados da família e não define sozinha a qualidade de vida ou as capacidades da pessoa.\",\"not_automatically_equivalent_to\":[\"Deficiência intelectual de grau determinado ou prognóstico individual fechado\",\"Cardiopatia, hipotireoidismo, perda auditiva, alteração visual, apneia, doença celíaca ou leucemia sem avaliação própria\",\"Trissomia livre, translocação ou mosaicismo sem cariótipo\",\"Instabilidade cervical comprovada apenas pela presença da síndrome\",\"Indicação de suplemento, dieta, medicamento ou terapia sem necessidade individual documentada\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de Down. Não contar como cobertura das condições associadas, complicações, mecanismo citogenético ou grau de suporte sem diagnóstico próprio.\",\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com diagnóstico confirmado ou em investigação. Vigilância de cardiopatia, sangue, tireoide, audição, visão, sono, crescimento, alimentação, desenvolvimento e coluna cervical é ajustada à idade e aos achados.\",\"reason_for_specific\":\"É entidade genética reconhecida, com vigilância pediátrica própria, prevenção de condições tratáveis, intervenção precoce, inclusão escolar e planejamento de transição para a vida adulta.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Down acontece por material adicional do cromossomo 21. Ela não é contagiosa, não foi causada por algo que a família fez e não determina sozinha como a criança irá aprender, comunicar-se ou tornar-se autônoma.",
+          "Guarde em uma pasta o cariótipo, ecocardiograma, triagens do recém-nascido, hemogramas, exames da tireoide, audição, visão, sono, crescimento, receitas e relatórios de terapias. Leve esse resumo a consultas, urgências, escola e avaliações antes de anestesia.",
+          "Mantenha consultas periódicas mesmo quando a criança parece bem. Cardiopatia, alterações da tireoide, audição, visão, sono e anemia podem ter poucos sinais no início e são tratáveis quando identificadas cedo.",
+          "Observe alimentação, respiração, ronco ou pausas no sono, cansaço, evacuações, crescimento, audição, visão, aprendizagem, comportamento e habilidades já adquiridas. Mudança nova ou regressão não deve ser atribuída automaticamente à síndrome.",
+          "Valorize interesses, escolhas e participação da criança. Fale diretamente com ela, ofereça tempo para responder, use recursos de comunicação quando necessários e preserve privacidade e dignidade em todas as idades.",
+          "Mantenha vacinação conforme o Programa Nacional de Imunizações e o plano individual. A escola ou creche não deve excluir a criança apenas pelo diagnóstico; compartilhe os apoios e sinais de alerta necessários, respeitando a privacidade."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Inicie e mantenha intervenção precoce conforme as necessidades: fisioterapia, fonoaudiologia, terapia ocupacional, apoio pedagógico e outras áreas devem ter objetivos funcionais revistos com a família, não uma lista igual para todas as crianças.",
+          "Estimule movimento, brincadeira, linguagem, leitura, autocuidado e convivência em atividades adequadas à idade. Evite comparar a criança com tabelas rígidas ou prometer resultados; acompanhe a evolução individual e intervenha quando houver perda de habilidades.",
+          "Faça acompanhamento objetivo de audição e visão, porque familiares podem não perceber perdas leves. Otites, cera e canal auditivo estreito podem prejudicar fala e aprendizagem; não introduza objetos ou soluções caseiras no ouvido.",
+          "Observe ronco habitual, pausas para respirar, sono inquieto, posição incomum para dormir, despertares, enurese, dor de cabeça ao acordar, sonolência ou piora de atenção. Esses sinais exigem avaliação de apneia e não são apenas comportamento.",
+          "Proteja o pescoço em anestesia, cirurgia e procedimentos, avisando sempre que a criança tem síndrome de Down. Sem sintomas, radiografia cervical de rotina não prevê bem quem terá problema; dor no pescoço, torcicolo, fraqueza ou mudança de marcha exigem avaliação rápida.",
+          "Promova atividade física, higiene do sono, saúde bucal e alimentação equilibrada, com adaptações e supervisão adequadas. Não exclua automaticamente de esportes por causa da síndrome; atividades de maior risco devem seguir avaliação clínica e regras da modalidade."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que elimine a síndrome de Down. Medicamentos tratam condições associadas documentadas, como alterações da tireoide, cardiopatias, infecções, constipação ou outras necessidades, e devem seguir prescrição individual.",
+          "Use somente o produto, apresentação, quantidade e horário prescritos. Confira o rótulo a cada dispensação e não use dose de outra criança, sobra de receita, fórmula manipulada ou suplemento divulgado como tratamento da síndrome.",
+          "Não inicie hormônio tireoidiano, antibiótico, sedativo, estimulante, vitamina, mineral, fitoterápico ou produto para memória sem indicação e acompanhamento. Excesso de vitaminas e minerais também pode causar dano.",
+          "Se houver cardiopatia, doença renal, apneia, dificuldade para engolir ou uso de vários medicamentos, confirme com a equipe antes de usar remédios sem receita, descongestionantes, antialérgicos, anti-inflamatórios ou produtos que dão sono.",
+          "Avise alergias, reações, dificuldade para engolir e todos os medicamentos antes de anestesia ou procedimento. Não esmague comprimidos, abra cápsulas ou misture o remédio em grande volume de comida sem orientação.",
+          "Vacinas previnem infecções, mas não tratam a síndrome. Mantenha o calendário e confirme com a equipe se uma condição associada indicar imunobiológico ou proteção adicional."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno e/ou fórmula no bebê e alimentação variada conforme a idade. Hipotonia e dificuldade de coordenação podem tornar a mamada lenta; cansaço, suor, arroxeamento, tosse, engasgos, voz molhada ou pouco ganho de peso precisam de avaliação.",
+          "Sente a criança com bom apoio e ofereça textura e tamanho seguros conforme a habilidade de mastigar e engolir. Não force, não alimente deitada e não espesse líquidos por conta própria; fonoaudiologia e nutrição podem orientar quando houver disfagia.",
+          "Acompanhe peso, altura e crescimento com a equipe. Incentive água e alimentos in natura, fontes de ferro e fibras adequadas à idade, evitando bebidas açucaradas e excesso de ultraprocessados; não faça restrição calórica em criança sem plano profissional.",
+          "Constipação prolongada, diarreia persistente, barriga inchada, dor, anemia, perda ou pouco ganho de peso podem exigir investigação, inclusive de doença celíaca ou tireoide. Não retire glúten antes dos exames, salvo orientação médica.",
+          "Não há dieta, vitamina ou suplemento que corrija a trissomia 21. Restrição de glúten, leite ou outros alimentos só deve ser feita quando houver diagnóstico ou indicação, para evitar carências e prejuízo ao crescimento.",
+          "Procure atendimento se a criança não consegue beber, vomita repetidamente, urina muito menos, apresenta boca seca, sonolência, engasgos frequentes ou dificuldade respiratória durante as refeições."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência diante de dificuldade importante para respirar, lábios ou pele arroxeados, desmaio, convulsão, confusão ou criança muito sonolenta e difícil de despertar.",
+          "Procure pronto atendimento se houver respiração rápida, cansaço ou suor intenso para mamar, piora súbita do esforço, inchaço, palpitações, dor no peito ou redução importante da tolerância às atividades, especialmente se houver cardiopatia.",
+          "Vá imediatamente se surgir dor forte no pescoço, torcicolo novo, posição anormal da cabeça, fraqueza, mudança no uso das mãos, marcha diferente, quedas novas ou perda de controle de urina ou fezes; evite forçar ou manipular o pescoço.",
+          "Procure emergência diante de pausas respiratórias prolongadas, arroxeamento durante o sono, engasgo com dificuldade para respirar ou piora rápida do estado geral.",
+          "Febre em bebê menor de 3 meses, temperatura baixa anormal, recusa de mamadas, vômitos verdes, barriga muito inchada, ausência de evacuação com mal-estar ou prostração exigem avaliação imediata.",
+          "Vá sem demora se houver palidez intensa, sangramento, manchas roxas ou pontos vermelhos sem explicação, febre persistente, dor óssea, barriga aumentando, cansaço incomum ou infecções repetidas, pois alterações hematológicas precisam ser avaliadas."
+        ],
+        "QUANDO REAVALIAR": [
+          "Recém-nascido com diagnóstico ou forte suspeita deve ter retorno precoce para confirmar cariótipo, ecocardiograma, hemograma, triagem da tireoide, audição, alimentação, visão e encaminhamentos; não espere aparecer sopro ou sintoma para conferir o coração.",
+          "No primeiro ano, confirme as reavaliações da tireoide, audição, visão, sangue/ferro, crescimento, alimentação e desenvolvimento nos prazos da pediatria. Leve resultados anteriores para evitar atrasos ou repetições sem necessidade.",
+          "Depois de 1 ano, mantenha acompanhamento periódico com vigilância anual ou no intervalo indicado para tireoide, sangue/ferro, audição, visão, crescimento e desenvolvimento. Antecipe se houver sintoma, mudança de comportamento ou perda de habilidade.",
+          "Converse sobre avaliação objetiva do sono durante a infância, mesmo sem ronco evidente, e antecipe diante de pausas, sono inquieto, sonolência ou regressão escolar. O prazo e o exame dependem do protocolo e da equipe.",
+          "Peça reavaliação antes do agendado se houver constipação ou diarreia persistente, baixo crescimento, mudança de peso, cansaço, intolerância ao frio ou calor, pele/cabelo diferentes, alteração menstrual ou suspeita de doença celíaca ou tireoide.",
+          "Na adolescência, planeje transição para o cuidado adulto, saúde mental, puberdade, sexualidade, prevenção de abuso, autonomia, escola/trabalho e participação da pessoa nas decisões, ajustando os apoios à capacidade e às preferências."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme cariótipo, ecocardiograma, hemograma neonatal, triagem da tireoide e audição. Observe mamadas, respiração, evacuações, icterícia e temperatura; febre, temperatura baixa, recusa, vômito verde, barriga muito inchada, cansaço ou arroxeamento exigem atendimento imediato.",
+        "3a5m": "Revise ganho de peso, alimentação segura, cardiologia quando indicada, audição, visão, tireoide e intervenção precoce. Tosse, engasgos, voz molhada, mamada muito longa ou infecções respiratórias repetidas podem indicar dificuldade de deglutição.",
+        "6a11m": "Confirme reavaliações de tireoide e audição/visão conforme o plano, introdução alimentar segura, vacinas e desenvolvimento. Não use atraso esperado como motivo para ignorar perda de habilidade, pouca resposta a sons ou desvio dos olhos.",
+        "1a": "Mantenha avaliação de sangue e ferro, tireoide, audição, visão, crescimento e linguagem. Garanta intervenção precoce, alimentação com textura segura, saúde bucal e comunicação acessível; ronco ou sono inquieto devem ser relatados.",
+        "2a5": "Revise audição, visão, tireoide, sangue/ferro, crescimento, desenvolvimento e sono. Combine apoios da creche/escola; investigue ronco e pausas respiratórias e procure avaliação rápida para dor cervical, torcicolo, fraqueza ou marcha nova.",
+        "6a11": "Mantenha vigilância clínica, auditiva, visual, tireoidiana, hematológica, nutricional, odontológica e do sono. Apoie aprendizagem, atividade física e autonomia; mudança escolar, comportamento novo ou regressão pede busca de causa médica e psicossocial.",
+        "12a17": "Inclua o adolescente nas decisões e planeje transição, puberdade, menstruação, saúde mental, sexualidade, segurança e prevenção de abuso. Continue vigilância de tireoide, audição, visão, sono, sangue/ferro e coluna conforme sintomas.",
+        "unknown": "Antes de personalizar, confirme idade, cariótipo, cardiopatia e cirurgias, tireoide, audição, visão, sono, hemograma/ferro, alimentação/deglutição, crescimento, desenvolvimento, vacinas, medicamentos, escola e qualquer perda recente de função."
+      },
+      "refs": [
+        {
+          "id": "pais139_op166_1",
+          "name": "Health Supervision for Children and Adolescents With Down Syndrome",
+          "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents-With-Down-Syndrome"
+        },
+        {
+          "id": "pais139_op166_2",
+          "name": "Diretrizes de atenção à saúde de pessoas com Síndrome de Down",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23981c-Diretrizes_de_atencao_a_saude_de_pessoas_com_Down-LayAtual.pdf"
+        },
+        {
+          "id": "pais139_op166_3",
+          "name": "Living with Down Syndrome",
+          "url": "https://www.cdc.gov/birth-defects/living-with-down-syndrome/"
+        },
+        {
+          "id": "pais139_op166_4",
+          "name": "Cervical Spine Disorders: Craniovertebral Instability — Basic Medical Surveillance Essentials",
+          "url": "https://www.dsmig.org.uk/wp-content/uploads/2025/11/CS-guide-final-10.10.2025.pdf"
+        },
+        {
+          "id": "pais139_op166_5",
+          "name": "Best Practice Guidance for the management of hearing issues in Down syndrome",
+          "url": "https://www.dsmig.org.uk/wp-content/uploads/2020/04/Best-Practice-Guidance-for-the-management-of-hearing-issues-in-people-with-Down-syndrome-1.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1392",
+      "label": "Síndrome de Edwards (Trissomia do 18)",
+      "entity": "Trissomia 18 (síndrome de Edwards) confirmada por estudo cromossômico, condição genética multissistêmica com apresentações completa, em mosaico ou parcial e necessidades individualizadas ao longo da vida",
+      "assessment": "{\"classification\":\"VALID_CHROMOSOMAL_CLINICAL_ENTITY\",\"normalized_entity\":\"Trissomia 18 (síndrome de Edwards)\",\"assessment\":\"O termo é válido e corresponde à presença de material extra do cromossomo 18. A forma completa costuma afetar todas as células; as formas em mosaico e parcial podem ter apresentação mais variável. É uma condição multissistêmica, frequentemente associada a restrição de crescimento, cardiopatia, alterações respiratórias, neurológicas, renais, digestivas, musculoesqueléticas, de visão, audição e alimentação. O diagnóstico isolado não define quais alterações a criança tem, quanto tempo viverá, nem quais intervenções são adequadas para ela.\",\"not_automatically_equivalent_to\":[\"Prognóstico individual ou morte inevitável no período neonatal\",\"Decisão automática por cuidado exclusivamente paliativo ou por tratamento invasivo máximo\",\"Cardiopatia, apneia, convulsão, aspiração, insuficiência renal ou outra complicação ativa sem avaliação própria\",\"Forma completa, em mosaico ou parcial sem confirmação citogenética\",\"Incapacidade de interação, ausência de qualidade de vida ou impossibilidade de frequentar escola\",\"Indicação universal de cirurgia, gastrostomia, ventilação, oxigênio, restrição de líquidos ou medicamento\"],\"counting_rule\":\"Contar como orientação clínica específica para trissomia 18 neste ID. Não contar como cobertura específica de cardiopatia, apneia, epilepsia, disfagia, refluxo, tumor, malformação renal, escoliose ou outra manifestação sem documentação própria.\",\"pediatric_scope\":\"Abrange recém-nascidos, lactentes, crianças e adolescentes com trissomia 18 completa, em mosaico ou parcial. As necessidades dependem do cariótipo, prematuridade, anatomia cardíaca e de vias aéreas, respiração, alimentação, função renal, neurologia, desenvolvimento, tecnologia de suporte, sintomas, valores e objetivos da família.\",\"reason_for_specific\":\"É entidade cromossômica reconhecida, com variabilidade própria, alta complexidade clínica, vigilância multissistêmica, decisões compartilhadas e cuidados domiciliares específicos. A orientação preserva a possibilidade de cuidado de conforto e de intervenções proporcionais sem presumir qualquer uma delas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Edwards acontece quando existe material extra do cromossomo 18. Na maioria das vezes ocorre ao acaso e não é causada por algo que a família fez ou deixou de fazer. A confirmação e o tipo — completo, em mosaico ou parcial — vêm do estudo cromossômico, não apenas da aparência.",
+          "Cada criança é diferente. O diagnóstico pode estar associado a crescimento lento, alterações do coração, respiração, alimentação, rins, cérebro, visão, audição, ossos e desenvolvimento, mas o nome sozinho não informa quais problemas estão presentes nem determina uma única forma de cuidado.",
+          "Mantenha um resumo escrito com cariótipo, anatomia e cirurgias, forma habitual de respirar e alimentar-se, peso e saturação basais quando monitorados, dispositivos, medicamentos, alergias, profissionais de referência, objetivos de cuidado e plano para emergências. Leve-o a toda consulta e atendimento.",
+          "As decisões devem ser compartilhadas, proporcionais à situação e revistas quando o quadro ou os objetivos da família mudarem. Cuidados para prolongar a vida, tratamentos de problemas reversíveis e cuidados de conforto podem coexistir; receber cuidados paliativos significa tratar sintomas e apoiar a família, não abandonar a criança.",
+          "Observe mudanças em relação ao padrão da criança: pausas para respirar, arroxeamento, ronco ou apneia, esforço e suor para mamar, tosse ou engasgo, vômitos, barriga distendida, inchaço, menos urina, dor, febre, movimentos anormais, perda de habilidades ou redução do alerta.",
+          "A trissomia 18 não é contagiosa. Creche, escola e atividades podem ser organizadas conforme a saúde e os objetivos da criança, com plano individual de alimentação, posicionamento, comunicação, medicamentos, equipamentos e sinais de alerta, sem presumir incapacidade apenas pelo diagnóstico."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um acompanhamento coordenado por pediatria ou equipe de condições complexas. Conforme as alterações documentadas, podem participar genética, cardiologia, pneumologia ou sono, otorrinolaringologia, neurologia, gastroenterologia e equipe de alimentação, nefrologia, oftalmologia, audiologia, ortopedia, odontologia, reabilitação e cuidados paliativos.",
+          "Use oxigênio, oxímetro, aspirador, sonda, gastrostomia, traqueostomia, ventilação ou outro equipamento somente após treinamento. Tenha orientações escritas para limpeza, falha do aparelho, perda do dispositivo e valores que exigem contato ou emergência; não improvise conexões nem metas.",
+          "Posicione e movimente a criança como ensinado, protegendo cabeça, coluna, quadris, pés e articulações. Fisioterapia, terapia ocupacional, fonoaudiologia, comunicação alternativa e estimulação adaptada devem promover conforto, participação e desenvolvimento sem forçar além da tolerância.",
+          "Mantenha consultas de rotina, vacinas, triagens e saúde bucal conforme o plano. A trissomia 18 isoladamente não é motivo para negar vacinação, rastreamento, tratamento de dor, reabilitação ou avaliação de um sintoma novo.",
+          "Confirme com genética se a forma é completa, em mosaico ou parcial e se os pais precisam de estudo cromossômico para aconselhamento reprodutivo. Não atribua a condição a alimentos, vacinas, estresse ou comportamento da gestante.",
+          "Revise com a equipe a necessidade de vigilância de coração, rins, abdome, tumores embrionários, visão, audição, coluna, apneia e convulsões. O calendário depende da idade, dos achados e do protocolo; não substitua exames programados por observação em casa."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que retire o cromossomo extra. Medicamentos e procedimentos tratam manifestações documentadas, como insuficiência cardíaca, convulsões, refluxo, constipação, dor, secreções ou infecções; o plano é individual.",
+          "Use somente a receita atual, na apresentação e nos horários confirmados. Não copie esquemas de outra criança com trissomia 18, não ajuste por peso por conta própria e não dobre dose esquecida ou vomitada sem orientação.",
+          "Não inicie, interrompa ou altere oxigênio, anticonvulsivante, diurético, remédio do coração, antiácido, laxante, antibiótico ou medicamento para secreções sem conversar com a equipe. Mudanças podem afetar respiração, pressão, ritmo, rins, hidratação ou segurança para engolir.",
+          "Medicamentos para dor, falta de ar, agitação ou outros sintomas podem fazer parte de um plano paliativo em qualquer etapa da doença. Use-os exatamente como prescritos e saiba quem contatar se o sintoma não melhorar; isso não impede tratar causas reversíveis de acordo com os objetivos acordados.",
+          "Não ofereça antigripal, descongestionante, sedativo, fitoterápico, suplemento ou produto natural sem checar interações e segurança. Sonolência ou piora respiratória após qualquer produto exige avaliação rápida.",
+          "Mantenha vacinas de rotina e outras medidas preventivas conforme pediatria e especialistas. Vacina ou anticorpo preventivo específico não deve ser iniciado nem omitido apenas pelo diagnóstico; indicação e calendário dependem da idade, da condição clínica e da disponibilidade local."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Dificuldade de sugar, coordenar sucção-deglutição-respiração, refluxo, engasgo e crescimento lento são comuns. A segurança para alimentar-se deve ser avaliada individualmente; tosse, voz molhada, arroxeamento, pausa respiratória, cansaço ou pneumonias podem indicar aspiração.",
+          "Mantenha leite materno e/ou fórmula e a alimentação apropriada à idade quando a deglutição for segura. Use posição, bico, textura, pausas e tempo de refeição ensinados pela equipe; não force a boca da criança e não ultrapasse o limite de cansaço.",
+          "Não dilua fórmula, não aumente o pó, não use espessante e não retire grupos alimentares sem prescrição. O plano deve considerar crescimento, hidratação, coração, rins, refluxo, constipação, alergias e conforto.",
+          "Se houver sonda ou gastrostomia, confirme tipo de dieta, volume, velocidade, lavagem e cuidado do local no treinamento. Saída do dispositivo, dificuldade de passagem, dor, sangramento, vazamento importante, barriga muito distendida ou vômitos repetidos exigem contato imediato.",
+          "Acompanhe peso, comprimento e perímetro cefálico pela trajetória da própria criança e, quando a equipe usar, por curvas específicas da condição. Um número isolado não define sucesso; perda de peso, menos urina, refeições muito longas, fadiga ou queda da ingestão pedem reavaliação.",
+          "Se a família escolher um plano de alimentação voltado principalmente ao conforto, registre o que é seguro oferecer, quando interromper, como tratar sede ou desconforto e quem contatar. Essa decisão deve ser compartilhada e não presumida pelo diagnóstico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o serviço de emergência se houver pausa respiratória prolongada, dificuldade importante para respirar, cor muito mais azulada ou acinzentada que a habitual, desmaio, convulsão, confusão ou criança muito sonolenta e difícil de despertar.",
+          "Procure atendimento imediato se a criança engasgar, não conseguir engolir, tossir ou arroxejar repetidamente durante a alimentação, vomitar tudo, tiver barriga muito distendida ou não conseguir usar a sonda ou gastrostomia conforme o plano.",
+          "Vá ao pronto atendimento diante de respiração mais rápida ou trabalhosa, suor ou cansaço intenso para mamar, inchaço, pouca urina, mãos e pés frios, palidez, batimentos muito rápidos ou piora súbita da tolerância às atividades, pois pode haver descompensação cardíaca ou respiratória.",
+          "Recém-nascido ou bebê menor de 3 meses com febre, temperatura baixa anormal, recusa de mamadas, sonolência, irritabilidade incomum ou aparência muito doente precisa de avaliação imediata. Em qualquer idade, febre com prostração, dificuldade respiratória ou pouca urina é urgente.",
+          "Procure urgência por movimento repetitivo ou olhar parado com perda de contato, crise mais longa ou diferente do plano, fraqueza nova, perda súbita de habilidade, dor intensa, sangramento importante ou sinais de desidratação.",
+          "Se existe um plano escrito de cuidados de conforto ou de limites de intervenção, siga os contatos e medidas combinadas para a crise atual. Se o plano não está disponível, a situação é diferente do previsto ou a família está em dúvida, acione a emergência e mostre o documento à equipe."
+        ],
+        "QUANDO REAVALIAR": [
+          "Após o diagnóstico, confirme com genética o resultado cromossômico e organize avaliação das malformações e funções relevantes, incluindo coração, respiração e vias aéreas, alimentação e deglutição, rins, abdome, audição, visão e sistema neurológico conforme a equipe.",
+          "Mantenha retorno regular com o pediatra ou serviço de condições complexas, mesmo quando a criança parece estável. Vacinas, triagem auditiva e visual, saúde bucal, crescimento, nutrição, desenvolvimento, sono, coluna, articulações e puberdade não devem ser esquecidos.",
+          "Reavalie alimentação e crescimento em toda consulta e antes se houver tosse, engasgo, refeições muito longas, vômitos, constipação importante, queda da ingestão, perda de peso ou menos urina. A necessidade de estudo de deglutição ou via alternativa depende da avaliação profissional.",
+          "Revise com a equipe o calendário individual de ecocardiograma, avaliação respiratória ou do sono, neurologia, exames renais e abdominais e rastreamento de tumores descrito para trissomia 18. Não antecipe que um exame normal elimina a necessidade de seguimento futuro.",
+          "Reveja objetivos de cuidado antes de cirurgias, internações e crises e sempre que a família desejar. Registre quais intervenções são compatíveis com esses objetivos, quem decide, como controlar sintomas e qual serviço contatar; escolhas podem mudar sem representar falha da família.",
+          "Para sobreviventes mais velhos, mantenha reabilitação, acessibilidade escolar, participação social e transição planejada para serviços de adolescentes e adultos. Inclua a criança ou adolescente nas decisões de maneira compatível com sua comunicação e compreensão."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme o estudo cromossômico, malformações, respiração, alimentação, audição, visão, rins e coração. Tenha plano neonatal escrito. Febre ou temperatura baixa, pausa respiratória, arroxeamento, recusa, engasgos, pouca urina ou sonolência exigem atendimento imediato.",
+        "3a5m": "Priorize segurança para engolir, ganho de peso, respiração e apneia, coração, vacinas e apoio ao desenvolvimento. Cansaço para mamar, tosse ou mudança de cor durante a alimentação e queda de fraldas molhadas pedem reavaliação precoce.",
+        "6a11m": "Revise alimentação e textura, audição, visão, postura, tônus, comunicação e vigilância multissistêmica. Mantenha vacinação e terapias adaptadas; perda de habilidade, crise, apneia ou pneumonia recorrente não deve esperar retorno de rotina.",
+        "1a": "Acompanhe crescimento pela trajetória individual, deglutição, refluxo, constipação, mobilidade, comunicação, sono e coração. Reavalie dispositivos e o plano de emergência à medida que a criança cresce.",
+        "2a5": "Organize educação infantil com plano de alimentação, posicionamento, comunicação, equipamentos e emergência. Mantenha fisioterapia, terapia ocupacional e fonoaudiologia, além da vigilância de coluna, olhos, audição, rins, abdome e tumores conforme protocolo.",
+        "6a11": "Revise acessibilidade escolar, comunicação, mobilidade, dor, saúde bucal, visão, audição, apneia, convulsões e escoliose. Preserve participação e lazer; queda funcional, fadiga nova ou alteração respiratória exige avaliação.",
+        "12a17": "Inclua o adolescente conforme sua forma de comunicação, revise puberdade e menstruação quando aplicável, proteção contra abuso, autonomia possível e transição para cuidados de adulto. Reavalie objetivos, dispositivos e plano de urgência sem presumir limitação apenas pela idade ou diagnóstico.",
+        "unknown": "Antes de personalizar, confirme idade, tipo citogenético, prematuridade, malformações, forma habitual de respirar e alimentar-se, dispositivos, medicamentos, saturação e peso basais, desenvolvimento, objetivos de cuidado e plano de emergência."
+      },
+      "refs": [
+        {
+          "id": "pais139_op167_1",
+          "name": "Guidance for Caring for Infants and Children With Trisomy 13 and Trisomy 18: Clinical Report",
+          "url": "https://publications.aap.org/pediatrics/article/156/2/e2025072719/202649/Guidance-for-Caring-for-Infants-and-Children-With"
+        },
+        {
+          "id": "pais139_op167_2",
+          "name": "Edwards syndrome (trisomy 18) — Knowledge Hub",
+          "url": "https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/edwards-syndrome-trisomy-18/"
+        },
+        {
+          "id": "pais139_op167_3",
+          "name": "Trisomy 18",
+          "url": "https://medlineplus.gov/genetics/condition/trisomy-18/"
+        },
+        {
+          "id": "pais139_op167_4",
+          "name": "Edwards' syndrome (trisomy 18)",
+          "url": "https://www.nhs.uk/conditions/edwards-syndrome/"
+        },
+        {
+          "id": "pais139_op167_5",
+          "name": "Surveillance guidelines for children with trisomy 18",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33527722/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

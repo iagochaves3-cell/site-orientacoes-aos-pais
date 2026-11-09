@@ -1,0 +1,275 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T07:17:47.392Z",
+  "records": [
+    {
+      "key": "pdf1500_1351",
+      "label": "Retocolite ulcerativa grave",
+      "entity": "Retocolite ulcerativa pediátrica com atividade grave",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_VALID_ACTIVITY_QUALIFIER\",\"normalized_entity\":\"Retocolite ulcerativa pediátrica grave\",\"assessment\":\"O termo é clinicamente válido quando 'grave' descreve atividade atual documentada. Em crianças e adolescentes, atividade grave corresponde a PUCAI de 65 ou mais; colite ulcerativa aguda grave é emergência gastroenterológica pediátrica e requer internação, avaliação imediata e monitorização estreita. O rótulo isolado não informa PUCAI, extensão, estabilidade, complicação, infecção associada nem tratamento atual, portanto a gravidade precisa ser confirmada sem atrasar o atendimento.\",\"not_automatically_equivalent_to\":[\"Megacólon tóxico, perfuração, hemorragia maciça ou sepse\",\"Colite infecciosa, infecção por Clostridioides difficile ou citomegalovírus\",\"Doença refratária a corticosteroide, dependência de corticosteroide ou falha de biológico\",\"Indicação automática de infliximabe, ciclosporina, inibidor de JAK ou colectomia\"],\"counting_rule\":\"Contar como orientação clínica específica para retocolite ulcerativa pediátrica com atividade grave. Não contar como cobertura de megacólon tóxico, perfuração, infecção, refratariedade ou regime terapêutico sem documentação própria.\",\"pediatric_scope\":\"Aplica-se a crianças e adolescentes com diagnóstico de retocolite ulcerativa e atividade grave confirmada ou fortemente suspeita. Sangue nas fezes, muitas evacuações, evacuação noturna, dor que limita atividades, febre, taquicardia, palidez, distensão, vômitos, desidratação ou prostração exigem avaliação hospitalar imediata. Lactentes e menores de 6 anos também precisam de revisão diagnóstica ampliada.\",\"reason_for_specific\":\"Gravidade é uma categoria validada pelo PUCAI e muda urgência, local de cuidado, monitorização e necessidade de equipe especializada, sem determinar sozinha o tratamento final.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Retocolite ulcerativa grave significa inflamação intensa do intestino grosso, geralmente com sangue nas fezes, evacuações frequentes ou noturnas, dor e queda importante das atividades. Em crianças, PUCAI de 65 ou mais define atividade grave; esse quadro não deve ser tratado apenas em casa.",
+          "Se a equipe informou doença grave ou se há piora compatível, procure avaliação hospitalar imediata, mesmo que a criança já tenha consulta marcada. O objetivo é avaliar hidratação, anemia, inflamação, infecção e complicações e iniciar monitorização adequada.",
+          "No caminho para o serviço, anote número de evacuações nas últimas 24 horas, quantidade aproximada de sangue, evacuações que acordam a criança, dor, febre, vômitos, urina, alimentação e nível de atividade. Não atrase a ida para completar o registro.",
+          "Leve receitas, medicamentos e apresentações em uso, exames, laudos, alergias, carteira de vacinação e contatos da gastroenterologia. Informe esquecimentos, interrupções, reações e tratamentos recentes com antibiótico, corticosteroide ou medicamento que reduz a imunidade.",
+          "A retocolite não é contagiosa, mas infecção intestinal pode imitar ou piorar uma crise e deve ser investigada. Não mande a criança à escola ou creche enquanto houver quadro grave, febre, desidratação, dor importante ou muitas evacuações com sangue."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha a criança acompanhada e próxima de banheiro durante o deslocamento. Não peça para segurar as fezes e não puna escapes; urgência e incontinência podem ocorrer na atividade grave.",
+          "Não faça enema, lavagem intestinal, supositório, massagem abdominal ou preparo de colonoscopia por conta própria. Dor crescente, barriga distendida, defesa ou redução súbita das evacuações durante uma crise pode indicar complicação e exige emergência.",
+          "Evite esforço físico. Deixe a criança na posição mais confortável e observe consciência, respiração, cor da pele, intensidade da dor, sangramento e capacidade de beber até chegar ao atendimento.",
+          "Não use bolsa muito quente sobre o abdome e não tente controlar diarreia com receitas caseiras, jejum prolongado ou fitoterápicos. Essas medidas podem mascarar piora ou causar desidratação.",
+          "No hospital, a equipe pode precisar de gastroenterologia pediátrica e cirurgia pediátrica ou colorretal desde o início. Conversa com cirurgia faz parte do planejamento seguro e não significa que uma operação já foi decidida."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, aumente, repita, reduza ou interrompa corticosteroide, imunossupressor ou biológico por conta própria. Atividade grave requer tratamento hospitalar individualizado e reavaliação frequente da resposta.",
+          "Não ofereça antidiarreicos que diminuem o movimento intestinal, opioides, anti-inflamatórios como ibuprofeno, antibióticos, probióticos ou fitoterápicos sem orientação da equipe. Alguns podem agravar ou mascarar complicações; antibiótico não trata automaticamente uma crise inflamatória.",
+          "Se houver vômito, dose esquecida ou dúvida sobre o medicamento habitual, leve a embalagem e confirme no atendimento. Não dobre uma tomada e não use sobra de receita antiga ou medicamento de outra pessoa.",
+          "Informe imediatamente febre, contato com varicela ou sarampo, tosse persistente, falta de ar, ferida que não melhora ou outro sinal de infecção, especialmente se usa medicamento que reduz a imunidade.",
+          "Falha de um tratamento só pode ser definida com medicamento, dose, via, tempo, adesão e evolução documentados. O termo 'grave' não autoriza escolher em casa terapia de resgate nem significa cirurgia automática."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver acordada, sem engasgo e sem vômitos repetidos, ofereça pequenos goles de líquido enquanto busca atendimento. Não force grande volume nem atrase a ida ao hospital para tentar reidratar em casa.",
+          "Se estiver muito sonolenta, confusa, com dificuldade para respirar, barriga muito distendida ou vomitando repetidamente, não force alimento nem bebida; procure emergência imediatamente.",
+          "Não imponha jejum, dieta sem leite, sem glúten ou outra exclusão por conta própria. Não existe dieta domiciliar capaz de tratar colite grave, e restrições podem piorar perda de peso e deficiências.",
+          "Em bebês, mantenha leite materno e/ou fórmula habitual apenas se houver deglutição segura e tolerância; não dilua fórmula nem troque mamadas por água, chá ou suco. Sangue nas fezes e prostração no lactente exigem investigação urgente de outras causas.",
+          "Informe perda de peso, recusa alimentar e suplementos usados. No hospital, hidratação, sais do sangue, anemia e nutrição serão avaliados e o plano alimentar será ajustado à estabilidade e à necessidade de exames ou procedimentos."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "A própria suspeita de retocolite ulcerativa grave exige avaliação imediata no pronto atendimento ou hospital. Não aguarde melhora espontânea, retorno ambulatorial ou resultado de exame solicitado para outro dia.",
+          "Procure emergência diante de muitas evacuações com sangue, aumento do sangue ou coágulos, palidez intensa, coração muito acelerado, tontura, desmaio ou fraqueza marcante, pois pode haver anemia ou sangramento importante.",
+          "Vá imediatamente se houver dor forte ou crescente, barriga distendida ou muito dolorosa, febre, prostração, vômitos repetidos ou parada súbita das evacuações durante a crise. Esses sinais podem indicar colite grave complicada, megacólon tóxico ou perfuração.",
+          "Procure atendimento urgente se a criança não consegue beber, vomita tudo, urina muito pouco, está com boca muito seca, olhos fundos, sonolência incomum ou piora rápida.",
+          "Acione o serviço de emergência se houver dificuldade para respirar, lábios arroxeados, confusão, convulsão, desmaio ou dificuldade para despertar. Não ofereça nada por boca se não houver deglutição segura."
+        ],
+        "QUANDO REAVALIAR": [
+          "Atividade grave deve ser reavaliada imediatamente no hospital, com sinais vitais, exame abdominal, PUCAI, hemograma, eletrólitos, albumina e marcadores inflamatórios, além de investigação de infecção conforme a equipe. Não é retorno ambulatorial de rotina.",
+          "Durante a internação, sintomas e PUCAI precisam ser acompanhados diariamente. Ausência de melhora ou piora exige reavaliação rápida do plano e preparação precoce das alternativas médicas e cirúrgicas pela equipe especializada.",
+          "Após a alta, siga o retorno no prazo escrito pela gastroenterologia pediátrica. Alta segura requer doença pelo menos leve e estabilidade clínica; melhora aparente isolada não substitui os critérios hospitalares.",
+          "Antecipe o contato após a alta se reaparecer sangue, aumentar a frequência ou urgência, surgirem evacuações noturnas, febre, dor, vômitos, perda de apetite, queda de energia ou dificuldade para usar os medicamentos prescritos.",
+          "Mantenha acompanhamento de crescimento, peso, puberdade, anemia, nutrição, saúde óssea, vacinação, efeitos dos medicamentos, escola e saúde mental. Adolescentes devem participar do plano e da transição ao cuidado adulto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Retocolite ulcerativa clássica é excepcional nesta idade. Sangue nas fezes, febre, distensão, vômitos, recusa de mamadas, prostração ou menos urina é emergência e exige investigação ampla de infecção, alergia, doença congênita e DII monogênica; não faça dieta nem medicação por conta própria.",
+        "3a5m": "Início no primeiro semestre de vida exige avaliação hospitalar e especializada imediata. Leve o registro de mamadas, fraldas com fezes ou sangue, vômitos e urina, sem atrasar o atendimento para observar em casa.",
+        "6a11m": "Diarreia com sangue grave no lactente tem várias causas possíveis. Mantenha leite materno ou fórmula apenas se tolerados e procure emergência diante de febre, distensão, vômitos, prostração, perda de peso ou menos urina.",
+        "1a": "Doença inflamatória intestinal antes dos 2 anos aumenta a suspeita de causa monogênica e requer equipe especializada. Sangue, muitas evacuações, dor, febre, recusa alimentar ou queda de atividade exigem hospital imediatamente.",
+        "2a5": "Use linguagem simples, permita banheiro sem pressão e leve objeto de conforto, mas não atrase o hospital. Início antes dos 6 anos pode exigir investigação de imunidade e genética, especialmente em quadro grave ou de baixa resposta.",
+        "6a11": "Não enviar à escola durante atividade grave. Explique que a internação é para controlar inflamação, hidratação, sangue e dor com segurança; mantenha contato escolar apenas conforme tolerância e plano da equipe.",
+        "12a17": "Inclua o adolescente nas decisões, respeite privacidade e pergunte diretamente sobre adesão, dor, sangue, alimentação, saúde mental e possibilidade de gravidez quando pertinente, pois esses dados mudam a segurança do tratamento hospitalar.",
+        "unknown": "Sem idade e PUCAI documentados, trate o rótulo 'grave' como alerta de alta prioridade. Confirme imediatamente sangue, evacuações em 24 horas e noturnas, dor, atividade, febre, vômitos, hidratação, consciência, distensão, medicamentos e estabilidade, sem retardar encaminhamento hospitalar."
+      },
+      "refs": [
+        {
+          "id": "pais134_op128_1",
+          "name": "Management of paediatric ulcerative colitis, part 2: Acute severe colitis—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70096"
+        },
+        {
+          "id": "pais134_op128_2",
+          "name": "Management of paediatric ulcerative colitis, part 1: Ambulatory care—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70097"
+        },
+        {
+          "id": "pais134_op128_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Retocolite Ulcerativa",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/r/retocolite-ulcerativa/view"
+        },
+        {
+          "id": "pais134_op128_4",
+          "name": "Ulcerative colitis: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng130/chapter/recommendations"
+        },
+        {
+          "id": "pais134_op128_5",
+          "name": "Doenças Inflamatórias Intestinais: pontos a enfatizar para o Pediatra",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24726b-DC_Doencas_inflamatorias_intestiais.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1354",
+      "label": "Retocolite ulcerativa leve",
+      "entity": "Retocolite ulcerativa pediátrica com atividade clínica leve",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_VALID_ACTIVITY_QUALIFIER_REQUIRING_OBJECTIVE_CONFIRMATION\",\"normalized_entity\":\"Retocolite ulcerativa pediátrica com atividade leve\",\"assessment\":\"O termo é clinicamente possível: nas diretrizes pediátricas, atividade leve corresponde a PUCAI de 10 a 34 pontos. A classificação deve ser confirmada e reavaliada em cada consulta; o rótulo isolado não informa extensão da colite, atividade endoscópica, infecção associada, anemia, crescimento, tratamento nem risco futuro.\",\"not_automatically_equivalent_to\":[\"Doença limitada ao reto ou ao lado esquerdo do cólon\",\"Remissão clínica ou ausência de inflamação intestinal\",\"Baixo risco permanente, ausência de anemia ou crescimento preservado\",\"Indicação de reduzir ou suspender tratamento\",\"Ausência de colite aguda grave se os sintomas mudarem\"],\"counting_rule\":\"Contar como orientação clínica específica para retocolite ulcerativa pediátrica com atividade leve quando a classificação estiver documentada. Não contar como extensão anatômica, remissão, regime terapêutico ou garantia de baixo risco.\",\"pediatric_scope\":\"Aplica-se a crianças e adolescentes com diagnóstico confirmado e atividade atual leve, idealmente documentada pelo PUCAI. Início antes dos 6 anos, especialmente antes dos 2 anos, exige avaliação especializada ampliada.\",\"reason_for_specific\":\"Atividade leve é uma categoria pediátrica reconhecida, com monitoramento e metas próprios; ainda exige tratamento prescrito, vigilância de recaída e escalada imediata diante de sinais incompatíveis com quadro leve.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Retocolite ulcerativa é uma inflamação crônica do intestino grosso, com períodos de melhora e de atividade. 'Leve' descreve a atividade clínica atual; não significa cura, não define quanto do cólon está acometido e precisa ser confirmado pela equipe.",
+          "Anote número de evacuações, sangue, evacuação noturna, urgência, dor, febre, vômitos, apetite, energia e faltas à escola. Aumento progressivo desses sinais pode indicar que a atividade deixou de ser leve.",
+          "Mantenha consultas e exames mesmo quando os sintomas forem discretos. Leve receitas e informe o que foi realmente usado, incluindo esquecimentos, reações e suplementos.",
+          "Observe peso, crescimento, puberdade, palidez, cansaço e manifestações fora do intestino, como articulação dolorosa ou inchada, olho vermelho doloroso, aftas persistentes e lesões de pele.",
+          "A doença não é contagiosa. A criança pode frequentar escola ou creche se estiver bem, com acesso livre e reservado ao banheiro, água, troca de roupa e contato com a família se os sintomas aumentarem."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta acesso rápido ao banheiro e não peça para a criança segurar as fezes. Não puna urgência ou escapes; combine apoio discreto com a escola.",
+          "Atividade física, brincadeiras e rotina podem continuar conforme tolerância. Reduza o esforço durante piora e comunique fadiga intensa, dor crescente ou queda importante do rendimento.",
+          "Pergunte sobre vergonha, ansiedade, tristeza, medo de comer ou de evacuar fora de casa. Apoio emocional e escolar faz parte do cuidado e não deve esperar uma crise grave.",
+          "Não faça enemas, lavagens intestinais, preparações de cólon nem aplique calor intenso sobre dor abdominal sem orientação. Distensão ou dor crescente exige avaliação.",
+          "Higiene das mãos e segurança dos alimentos continuam importantes: gastroenterite infecciosa pode coexistir e não deve ser confundida automaticamente com recaída."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o medicamento, a apresentação e o horário prescritos para esta criança. Atividade leve não autoriza reduzir, trocar ou interromper o tratamento porque houve melhora.",
+          "Não inicie ou repita corticosteroide por conta própria e não interrompa corticosteroide de repente. Em caso de esquecimento, vômito ou dúvida, confirme o plano e não dobre uma tomada.",
+          "Não ofereça antidiarreico que diminui o movimento intestinal, opioide, anti-inflamatório como ibuprofeno, antibiótico, probiótico ou fitoterápico sem orientação. Esses produtos podem mascarar sintomas ou causar dano.",
+          "Se usa medicamento que reduz a imunidade, comunique rapidamente febre, contato com varicela ou sarampo, tosse persistente, falta de ar ou ferida que não melhora; confirme vacinas com a equipe antes da aplicação.",
+          "Piora, ausência de melhora no prazo combinado ou reação ao medicamento exige contato com a equipe. A escolha de terapia depende da atividade, extensão, exames, resposta e segurança; o rótulo 'leve' não define uma receita única."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos adequados à idade, em pequenas quantidades frequentes se houver diarreia. Menos urina, boca seca, tontura, fraqueza ou dificuldade para beber exige reavaliação.",
+          "Mantenha alimentação variada e suficiente para crescimento. Não existe dieta única comprovada para controlar a inflamação, e retirar grupos alimentares pode causar perda de peso e deficiências.",
+          "Registre alimentos que parecem piorar dor ou frequência e discuta com gastroenterologista e nutricionista. Não retire leite, glúten, fibras ou outros grupos por conta própria.",
+          "Ferro, vitamina D, cálcio, probiótico e outros suplementos dependem de avaliação e exames. Não substitua o tratamento por suplemento, chá ou dieta de exclusão.",
+          "Perda de peso, recusa alimentar, desaceleração do crescimento ou atraso puberal não combina com simples tranquilização por atividade leve e deve antecipar a consulta."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure pronto atendimento se aumentar muito o sangue nas fezes, houver coágulos, muitas evacuações com sangue, palidez intensa, tontura, desmaio, coração muito acelerado ou fraqueza marcante.",
+          "Vá imediatamente se houver dor forte ou crescente, barriga distendida ou muito dolorosa, febre, prostração, vômitos repetidos ou parada súbita das evacuações. Esses sinais não são compatíveis com acompanhamento domiciliar de atividade leve.",
+          "Procure atendimento urgente se a criança não consegue beber, vomita tudo, urina muito pouco, está com boca muito seca, olhos fundos, sonolência incomum ou piora rápida.",
+          "Acione o serviço de emergência diante de dificuldade para respirar, lábios arroxeados, confusão, convulsão, desmaio ou dificuldade para despertar.",
+          "Em bebê pequeno, sangue nas fezes com febre, recusa de mamadas, vômitos, distensão, prostração ou menos fraldas molhadas exige avaliação imediata e investigação de outras causas."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno programado com gastroenterologia pediátrica. Atividade deve ser medida em cada consulta; PUCAI de 10 a 34 corresponde a atividade leve, e a meta é remissão clínica, não apenas permanecer nessa faixa.",
+          "Entre em contato no mesmo dia se aumentar sangue, frequência ou urgência, surgirem evacuações noturnas, dor, febre, vômitos, perda de apetite ou cansaço fora do habitual.",
+          "Antecipe o retorno se houver perda de peso, crescimento lento, atraso puberal, anemia suspeita, faltas escolares, sofrimento emocional ou manifestações em articulações, olhos, boca, pele ou fígado.",
+          "Após iniciar ou mudar tratamento, faça a reavaliação no prazo combinado. Melhora clínica não garante desaparecimento da inflamação; a equipe pode usar exames de sangue e fezes, imagem ou endoscopia conforme o caso.",
+          "Se não houver melhora inicial relevante ou o PUCAI aumentar, o plano precisa ser reconsiderado pela equipe. Não ajuste medicamento em casa nem espere sinais de gravidade para avisar."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Retocolite clássica é excepcional nesta idade. Sangue nas fezes, diarreia, febre, distensão, recusa alimentar, vômitos ou menos urina exige avaliação imediata; não presuma atividade leve nem faça dieta ou medicação por conta própria.",
+        "3a5m": "Início no primeiro semestre exige avaliação especializada urgente e investigação de infecção, alergia e doença monogênica. Observe mamadas, fraldas, sangue, vômitos, urina e estado geral.",
+        "6a11m": "Diarreia com sangue tem vários diagnósticos possíveis nesta idade. Mantenha leite materno ou fórmula e procure avaliação rápida diante de febre, perda de peso, distensão, vômitos ou menos urina.",
+        "1a": "Doença inflamatória intestinal antes dos 2 anos aumenta a suspeita de forma monogênica. A classificação como leve não dispensa avaliação de crescimento, infecções repetidas, pele e região perianal.",
+        "2a5": "Use linguagem simples, banheiro sem pressão e registro pelos responsáveis. Início antes dos 6 anos exige equipe experiente e revisão ampliada de diagnósticos e imunidade.",
+        "6a11": "Combine com a escola acesso discreto ao banheiro, água e contato com a família. A própria criança pode ajudar a registrar sangue, dor, urgência, evacuações noturnas e cansaço.",
+        "12a17": "Inclua o adolescente nas decisões, preserve privacidade e revise adesão, saúde mental, escola, vacinação e transição. Tabaco, álcool, atividade sexual e possibilidade de gravidez devem ser discutidos diretamente com a equipe quando pertinentes.",
+        "unknown": "Antes de personalizar, confirme idade, PUCAI atual, extensão, evacuações, sangue, dor, febre, crescimento, exames, infecção, medicamentos, adesão, vacinas e retorno combinado."
+      },
+      "refs": [
+        {
+          "id": "pais134_op131_1",
+          "name": "Management of paediatric ulcerative colitis, part 1: Ambulatory care—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70097"
+        },
+        {
+          "id": "pais134_op131_2",
+          "name": "Management of paediatric ulcerative colitis, part 2: Acute severe colitis—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70096"
+        },
+        {
+          "id": "pais134_op131_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Retocolite Ulcerativa",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/r/retocolite-ulcerativa/view"
+        },
+        {
+          "id": "pais134_op131_4",
+          "name": "Doenças Inflamatórias Intestinais: pontos a enfatizar para o Pediatra",
+          "url": "https://www.sbp.com.br/doencas-inflamatorias-intestinais-pontos-a-enfatizar-para-o-pediatra/"
+        },
+        {
+          "id": "pais134_op131_5",
+          "name": "Ultrassom Intestinal nas Doenças Inflamatórias Intestinais na Pediatria",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/02/25148c-DocCient-US-Intest-nas-Dcs-Inflamat-Intest-na-Pediatria-2025-2028.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1355",
+      "label": "Retocolite ulcerativa moderado",
+      "entity": "Retocolite ulcerativa pediátrica com atividade clínica moderada",
+      "assessment": "{\"classification\":\"VALID_ACTIVITY_QUALIFIER_REQUIRING_GRAMMATICAL_NORMALIZATION_AND_OBJECTIVE_CONFIRMATION\",\"normalized_entity\":\"Retocolite ulcerativa com atividade moderada\",\"assessment\":\"O cadastro tem discordância de gênero: a forma adequada é ‘retocolite ulcerativa moderada’ ou, com maior precisão, ‘retocolite ulcerativa com atividade moderada’. Atividade moderada é uma categoria clínica reconhecida em pediatria quando o PUCAI está entre 35 e 64 pontos. Ela descreve a atividade atual, não extensão anatômica, complicação nem subtipo permanente. O rótulo deve ser confirmado pelos sintomas e pelo PUCAI registrado, pois melhora ou piora muda a categoria.\",\"not_automatically_equivalent_to\":[\"Colite ulcerativa aguda grave, definida por PUCAI de 65 pontos ou mais\",\"Pancolite, colite extensa ou qualquer extensão anatômica específica\",\"Infecção intestinal, megacólon tóxico, hemorragia maciça ou perfuração\",\"Doença refratária, dependência de corticosteroide ou indicação automática de biológico ou cirurgia\"],\"counting_rule\":\"Contar como orientação clínica específica para retocolite ulcerativa pediátrica com atividade moderada, após normalização gramatical. Não contar como crise aguda grave, extensão colônica, complicação, infecção associada ou regime terapêutico sem documentação própria.\",\"pediatric_scope\":\"Aplica-se a crianças e adolescentes com diagnóstico confirmado e atividade moderada documentada, idealmente por PUCAI 35–64. Em menores de 6 anos, sobretudo lactentes, é necessária avaliação ampliada para diagnósticos diferenciais e possíveis formas monogênicas de doença inflamatória intestinal.\",\"reason_for_specific\":\"Atividade moderada é uma categoria pediátrica reconhecida que muda a intensidade da vigilância, o prazo de reavaliação e a necessidade de verificar resposta; a ficha não presume qual medicamento, dose ou extensão anatômica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A retocolite ulcerativa é uma inflamação crônica do intestino grosso. ‘Atividade moderada’ descreve o quadro atual e precisa ser confirmada pela equipe com sintomas e PUCAI; não significa automaticamente pancolite, complicação ou necessidade de cirurgia.",
+          "Registre todos os dias o número de evacuações, sangue, evacuações noturnas, urgência, escapes, dor, febre, vômitos, alimentação e impacto nas atividades. Leve o registro ao retorno, pois aumento do sangue ou da frequência pode indicar piora.",
+          "Mantenha contato próximo com a gastroenterologia pediátrica e cumpra o prazo de reavaliação combinado. Atividade moderada exige verificar resposta; não espere a consulta programada se houver piora rápida ou sinais de alarme.",
+          "Observe peso, apetite, energia, crescimento, puberdade e manifestações fora do intestino, como articulação inchada, olho vermelho doloroso, aftas persistentes, lesões de pele ou pele amarelada.",
+          "A retocolite não é contagiosa. Escola ou creche pode ser mantida conforme o estado clínico, com acesso livre e reservado ao banheiro, água, troca de roupa e contato com a família; febre ou surto de diarreia também pode ser infecção e precisa de avaliação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta acesso imediato ao banheiro e não peça para a criança segurar as fezes. Não puna escapes nem urgência; combine adaptações discretas com a escola e preserve a privacidade.",
+          "Durante atividade moderada, ajuste esforço e rotina à tolerância, sem impor repouso absoluto. Fadiga importante, tontura, palidez ou queda acentuada do rendimento deve ser informada à equipe.",
+          "Não use antidiarreico, opioide, enema, lavagem intestinal, bolsa muito quente ou preparação intestinal por conta própria. Dor crescente, distensão ou barriga muito sensível exige avaliação urgente.",
+          "Apoie saúde mental, sono e participação social. Vergonha, ansiedade, tristeza, recusa alimentar ou abandono do tratamento precisam de acolhimento e apoio profissional, não de punição.",
+          "Mantenha higiene das mãos e segurança dos alimentos. Infecção intestinal pode coexistir e imitar piora da retocolite; não atribua automaticamente febre, vômitos ou diarreia de início súbito à doença."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos, apresentações e horários prescritos para esta criança. Não aumente, reduza, troque ou interrompa o tratamento porque o rótulo diz ‘moderada’ ou porque houve melhora breve.",
+          "Corticosteroide não deve ser iniciado, repetido nem interrompido de repente por conta própria. Em caso de esquecimento, vômito ou dúvida sobre redução gradual, confirme o plano e não dobre uma tomada.",
+          "Não ofereça antidiarreico, opioide, anti-inflamatório como ibuprofeno, antibiótico, probiótico, fitoterápico ou sobra de receita sem orientação. Alguns podem agravar ou mascarar complicações.",
+          "Se houver medicamento que reduz a imunidade, comunique rapidamente febre, contato com varicela ou sarampo, tosse persistente, falta de ar ou ferida que não melhora. Confirme vacinas com a equipe antes da aplicação quando houver imunossupressão.",
+          "Avise a equipe se os sintomas não melhorarem no prazo definido, se piorarem ou se houver reação ao medicamento. Atividade moderada persistente exige reavaliação objetiva; não autoriza troca automática para biológico ou cirurgia em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos em pequenas quantidades e com frequência. Observe urina, boca seca, sede, tontura e energia; incapacidade de beber, vômitos repetidos ou redução importante da urina exige atendimento.",
+          "Mantenha alimentação variada, com energia e proteína adequadas ao crescimento. Não existe dieta única comprovada para controlar a inflamação, e restrições amplas podem causar perda de peso e deficiências.",
+          "Durante a atividade, alguns alimentos podem piorar desconforto sem aumentar a inflamação. Registre gatilhos e peça ajuste individual ao gastroenterologista e nutricionista; não exclua leite, glúten, fibras ou grupos inteiros por conta própria.",
+          "Não use suplementos, ferro, vitaminas, probióticos, dieta de exclusão ou nutrição enteral como substitutos do tratamento. A necessidade depende de avaliação nutricional, exames e prescrição.",
+          "Perda de peso, desaceleração do crescimento, atraso puberal ou recusa alimentar requer reavaliação. Em lactentes, não dilua fórmula nem substitua leite materno ou fórmula por água, chá ou suco."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure pronto atendimento se aumentar muito o sangue nas fezes, surgirem coágulos, muitas evacuações com sangue, palidez intensa, coração muito acelerado, tontura, desmaio ou fraqueza marcante.",
+          "Vá imediatamente se houver dor abdominal forte ou crescente, barriga distendida ou muito dolorosa, febre, prostração, vômitos repetidos ou parada súbita das evacuações. Pode haver colite grave, megacólon tóxico, perfuração ou outra complicação.",
+          "Procure atendimento urgente se a criança não consegue beber, vomita tudo, urina muito pouco, fica com boca muito seca, olhos fundos, sonolência incomum ou piora rápida.",
+          "Acione o serviço de emergência diante de dificuldade para respirar, lábios arroxeados, confusão, convulsão, desmaio ou dificuldade para despertar.",
+          "Em bebê pequeno, sangue nas fezes com febre, recusa de mamadas, vômitos, barriga distendida, prostração ou menos fraldas molhadas requer avaliação imediata; não presuma atividade moderada de retocolite."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie no prazo curto combinado pela gastroenterologia pediátrica para conferir sintomas, PUCAI e resposta. PUCAI entre 35 e 64 corresponde a atividade moderada; 65 ou mais indica doença grave e muda a urgência e o manejo.",
+          "Entre em contato no mesmo dia se aumentar sangue, frequência ou urgência, surgirem evacuações noturnas, dor, febre, vômitos, perda de apetite ou cansaço fora do habitual, mesmo que o último registro fosse ‘moderado’.",
+          "Antecipe a consulta se houver perda de peso, parada do crescimento, atraso puberal, faltas escolares, tristeza persistente, dor articular, olho vermelho doloroso, aftas importantes, lesões de pele ou icterícia.",
+          "Após qualquer mudança de tratamento, faça o retorno e os exames no prazo definido. Melhora dos sintomas não garante controle completo da inflamação; piora também pode ser causada por infecção.",
+          "Mantenha seguimento mesmo em remissão. Adolescentes devem participar do plano, saber finalidade dos medicamentos e reconhecer alertas, com privacidade, apoio à adesão e transição estruturada para o cuidado adulto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Retocolite ulcerativa clássica é excepcional nesta idade. Sangue nas fezes, febre, distensão, recusa de mamadas, vômitos ou menos urina exige avaliação imediata e investigação de infecção, alergia e doença congênita ou monogênica; não aplique o rótulo ‘moderada’ sem avaliação especializada.",
+        "3a5m": "Início no primeiro semestre de vida exige avaliação especializada ampla. Observe mamadas, fraldas com sangue, vômitos, distensão, urina e estado geral; febre, prostração ou desidratação é emergência.",
+        "6a11m": "Diarreia com sangue nessa idade tem vários diagnósticos possíveis. Mantenha leite materno ou fórmula, registre fraldas e procure avaliação rápida diante de febre, perda de peso, distensão, vômitos ou menos urina.",
+        "1a": "DII antes dos 2 anos aumenta a suspeita de forma monogênica. Além de sangue e diarreia, informe crescimento insuficiente, infecções repetidas, lesões de pele e alterações perianais à equipe especializada.",
+        "2a5": "Use linguagem simples e rotina de banheiro sem pressão. Início antes dos 6 anos exige revisão ampliada de diagnósticos diferenciais, imunidade e genética, sobretudo se houver quadro intenso ou resposta insuficiente.",
+        "6a11": "Combine com a escola acesso discreto e livre ao banheiro, água, troca de roupa e contato com a família. Registre sangue, evacuações noturnas, dor, fadiga e faltas escolares.",
+        "12a17": "Inclua o adolescente nas decisões, preserve privacidade e revise adesão, saúde mental, escola, vacinas e transição. Quando pertinente, discuta tabaco, álcool, atividade sexual e possibilidade de gravidez com a equipe, pois podem mudar a segurança do tratamento.",
+        "unknown": "Antes de personalizar, confirme idade, diagnóstico, PUCAI atual, extensão, evacuações, sangue, dor, febre, crescimento, exames, infecções, manifestações extraintestinais, medicamentos, vacinas e retorno combinado."
+      },
+      "refs": [
+        {
+          "id": "pais134_op132_1",
+          "name": "Management of paediatric ulcerative colitis, part 1: Ambulatory care—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70097"
+        },
+        {
+          "id": "pais134_op132_2",
+          "name": "Management of paediatric ulcerative colitis, part 2: Acute severe colitis—An updated evidence-based consensus guideline",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.70096"
+        },
+        {
+          "id": "pais134_op132_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Retocolite Ulcerativa",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/r/retocolite-ulcerativa/view"
+        },
+        {
+          "id": "pais134_op132_4",
+          "name": "Doenças Inflamatórias Intestinais: pontos a enfatizar para o Pediatra",
+          "url": "https://www.sbp.com.br/doencas-inflamatorias-intestinais-pontos-a-enfatizar-para-o-pediatra/"
+        },
+        {
+          "id": "pais134_op132_5",
+          "name": "Nutrição nas Doenças Inflamatórias Intestinais em Pediatria",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2025/junho/06/24905d-MO_ISBN_-_Nutricao_nas_Dcs_Inflamat_Intest_em_Pediatria.pdf"
+        },
+        {
+          "id": "pais134_op132_6",
+          "name": "Doença Inflamatória Intestinal de início muito precoce (VEOIBD)",
+          "url": "https://www.sbp.com.br/acervo/doenca-inflamatoria-intestinal-de-inicio-muito-precoce-veoibd/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

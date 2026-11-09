@@ -1,0 +1,140 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:56:27.406Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "ext_rosea",
+      "label": "Pitiríase rósea",
+      "entity": "Pitiríase rósea (de Gilbert)",
+      "assessment": "{\"classification\":\"VALID_ENTITY_EXISTING_CANONICAL_DIAGNOSIS\",\"assessment\":\"Mesma entidade de pdf1500_1088 já publicado; não é pitiríase versicolor ou micose. Completar dois IDs gerais sem contar doenças novas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pitiríase rósea é uma erupção que costuma melhorar sozinha em semanas, às vezes demorando alguns meses. Pode começar com uma mancha maior e depois outras menores, mas o diagnóstico precisa ser confirmado.",
+          "As manchas podem ser rosadas, castanhas ou arroxeadas conforme a pele. Diferenças de cor podem persistir após a melhora; não use clareadores por conta própria."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Prefira banho morno e breve, hidratante sem perfume e roupas que não irritem. Evite esfregar, coçar e produtos que ardam.",
+          "Não é necessário afastar da escola por esse diagnóstico se a criança estiver bem. Não se considera uma doença transmitida pelo contato habitual; não precisa separar utensílios."
+        ],
+        "MEDICAMENTOS": [
+          "Muitas crianças não precisam de medicamento. Se a coceira incomodar, a equipe pode indicar produto adequado à idade e à área afetada.",
+          "Não use antifúngico ou antibiótico por conta própria: o nome não significa micose ou infecção bacteriana. Não faça bronzeamento ou tratamento com luz sem supervisão médica.",
+          "Informe medicamentos recentes e não os suspenda sem orientação; outras erupções podem parecer pitiríase rósea."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos adequados à idade, sem dieta restritiva para tratar as manchas. Se a criança não consegue beber ou está urinando pouco, procure avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Falta de ar, desmaio, dificuldade para acordar, pele muito dolorosa, bolhas extensas ou feridas na boca e nos olhos exigem atendimento imediato; não atribua esses sinais à pitiríase rósea simples.",
+          "Febre com prostração, secreção ou vermelhidão dolorosa que se espalha precisam de avaliação urgente.",
+          "Na gestação ou possibilidade de gestação, avise a equipe de saúde no mesmo dia sobre erupção nova. Isso exige confirmação e acompanhamento, não significa que haverá complicação. Sangramento, dor abdominal forte ou desmaio exigem urgência obstétrica."
+        ],
+        "QUANDO REAVALIAR": [
+          "Retorne se o diagnóstico estiver incerto, a coceira prejudicar o sono ou surgirem sintomas diferentes do esperado.",
+          "Se não houver melhora após cerca de dois meses ou a erupção persistir por três meses, procure reavaliação; não espere esse prazo diante de piora."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Pitiríase rósea é incomum em recém-nascidos e lactentes pequenos. Temperatura de 38 °C ou mais, recusa de mamadas, sonolência, bolhas ou mucosas afetadas exigem avaliação imediata; não assumir diagnóstico apenas pela aparência.",
+        "3a5m": "Apresentação rara e possivelmente atípica; confirmar com pediatra. Evitar produtos perfumados e observar mamadas, urina, febre e estado geral.",
+        "6a11m": "Impedir coçar e levar produtos à boca; um adulto deve aplicar qualquer hidratante indicado e observar febre, ingestão e sinais de infecção da pele.",
+        "1a": "Usar roupas leves, unhas curtas e banho morno; erupção em face, couro cabeludo, mãos ou pés merece confirmação, pois pode ser apresentação atípica ou outro diagnóstico.",
+        "2a5": "A criança pode frequentar creche ou escola se estiver bem; orientar a não compartilhar pomadas e a não coçar, sem isolamento por pitiríase rósea.",
+        "6a11": "Explique que as manchas não são falta de higiene nem contagiosas. Organize medidas contra coceira para preservar sono e participação escolar.",
+        "12a17": "Inclua o adolescente no cuidado da pele e na revisão de medicamentos recentes. Se houver possibilidade de gestação, orientar contato obstétrico no mesmo dia para erupção nova, sem estigma e sem automedicação.",
+        "unknown": "Aplicar as orientações gerais e confirmar idade, aparência da erupção, medicamentos recentes, sintomas sistêmicos e possibilidade de gestação antes de qualquer tratamento específico."
+      },
+      "refs": [
+        {
+          "id": "pais206_op597_1",
+          "name": "Pityriasis Rosea: Symptoms & How Long The Rash Lasts",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Pityriasis-Rosea.aspx"
+        },
+        {
+          "id": "pais206_op597_2",
+          "name": "Pityriasis rosea",
+          "url": "https://www.nhs.uk/conditions/Pityriasis-rosea/"
+        },
+        {
+          "id": "pais206_op597_3",
+          "name": "Pityriasis rosea — Patient Information Leaflet",
+          "url": "https://www.bad.org.uk/pils/pityriasis-rosea"
+        },
+        {
+          "id": "pais206_op597_4",
+          "name": "Pityriasis rosea: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/pityriasis-rosea-treatment"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_97d7a5bf8cf257fd",
+      "label": "Pitiríase rósea — registro no PPS",
+      "entity": "Pitiríase rósea (de Gilbert)",
+      "assessment": "{\"classification\":\"VALID_ENTITY_EXISTING_CANONICAL_DIAGNOSIS\",\"assessment\":\"Mesma entidade de pdf1500_1088 já publicado; não é pitiríase versicolor ou micose. Completar dois IDs gerais sem contar doenças novas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pitiríase rósea é uma erupção que costuma melhorar sozinha em semanas, às vezes demorando alguns meses. Pode começar com uma mancha maior e depois outras menores, mas o diagnóstico precisa ser confirmado.",
+          "As manchas podem ser rosadas, castanhas ou arroxeadas conforme a pele. Diferenças de cor podem persistir após a melhora; não use clareadores por conta própria."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Prefira banho morno e breve, hidratante sem perfume e roupas que não irritem. Evite esfregar, coçar e produtos que ardam.",
+          "Não é necessário afastar da escola por esse diagnóstico se a criança estiver bem. Não se considera uma doença transmitida pelo contato habitual; não precisa separar utensílios."
+        ],
+        "MEDICAMENTOS": [
+          "Muitas crianças não precisam de medicamento. Se a coceira incomodar, a equipe pode indicar produto adequado à idade e à área afetada.",
+          "Não use antifúngico ou antibiótico por conta própria: o nome não significa micose ou infecção bacteriana. Não faça bronzeamento ou tratamento com luz sem supervisão médica.",
+          "Informe medicamentos recentes e não os suspenda sem orientação; outras erupções podem parecer pitiríase rósea."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos adequados à idade, sem dieta restritiva para tratar as manchas. Se a criança não consegue beber ou está urinando pouco, procure avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Falta de ar, desmaio, dificuldade para acordar, pele muito dolorosa, bolhas extensas ou feridas na boca e nos olhos exigem atendimento imediato; não atribua esses sinais à pitiríase rósea simples.",
+          "Febre com prostração, secreção ou vermelhidão dolorosa que se espalha precisam de avaliação urgente.",
+          "Na gestação ou possibilidade de gestação, avise a equipe de saúde no mesmo dia sobre erupção nova. Isso exige confirmação e acompanhamento, não significa que haverá complicação. Sangramento, dor abdominal forte ou desmaio exigem urgência obstétrica."
+        ],
+        "QUANDO REAVALIAR": [
+          "Retorne se o diagnóstico estiver incerto, a coceira prejudicar o sono ou surgirem sintomas diferentes do esperado.",
+          "Se não houver melhora após cerca de dois meses ou a erupção persistir por três meses, procure reavaliação; não espere esse prazo diante de piora."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Pitiríase rósea é incomum em recém-nascidos e lactentes pequenos. Temperatura de 38 °C ou mais, recusa de mamadas, sonolência, bolhas ou mucosas afetadas exigem avaliação imediata; não assumir diagnóstico apenas pela aparência.",
+        "3a5m": "Apresentação rara e possivelmente atípica; confirmar com pediatra. Evitar produtos perfumados e observar mamadas, urina, febre e estado geral.",
+        "6a11m": "Impedir coçar e levar produtos à boca; um adulto deve aplicar qualquer hidratante indicado e observar febre, ingestão e sinais de infecção da pele.",
+        "1a": "Usar roupas leves, unhas curtas e banho morno; erupção em face, couro cabeludo, mãos ou pés merece confirmação, pois pode ser apresentação atípica ou outro diagnóstico.",
+        "2a5": "A criança pode frequentar creche ou escola se estiver bem; orientar a não compartilhar pomadas e a não coçar, sem isolamento por pitiríase rósea.",
+        "6a11": "Explique que as manchas não são falta de higiene nem contagiosas. Organize medidas contra coceira para preservar sono e participação escolar.",
+        "12a17": "Inclua o adolescente no cuidado da pele e na revisão de medicamentos recentes. Se houver possibilidade de gestação, orientar contato obstétrico no mesmo dia para erupção nova, sem estigma e sem automedicação.",
+        "unknown": "Aplicar as orientações gerais e confirmar idade, aparência da erupção, medicamentos recentes, sintomas sistêmicos e possibilidade de gestação antes de qualquer tratamento específico."
+      },
+      "refs": [
+        {
+          "id": "pais206_op598_1",
+          "name": "Pityriasis Rosea: Symptoms & How Long The Rash Lasts",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Pityriasis-Rosea.aspx"
+        },
+        {
+          "id": "pais206_op598_2",
+          "name": "Pityriasis rosea",
+          "url": "https://www.nhs.uk/conditions/Pityriasis-rosea/"
+        },
+        {
+          "id": "pais206_op598_3",
+          "name": "Pityriasis rosea — Patient Information Leaflet",
+          "url": "https://www.bad.org.uk/pils/pityriasis-rosea"
+        },
+        {
+          "id": "pais206_op598_4",
+          "name": "Pityriasis rosea: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/pityriasis-rosea-treatment"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

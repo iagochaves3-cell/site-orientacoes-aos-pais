@@ -1,0 +1,112 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T12:05:38.404Z",
+  "records": [
+    {
+      "jobId": "OP-2317",
+      "specific": true,
+      "key": "pdf1500_353",
+      "label": "Derrame pleural paraneumônico",
+      "entity": "Derrame pleural parapneumônico pediátrico — acúmulo de líquido no espaço pleural associado a pneumonia adjacente, em espectro simples, complicado e empiema, com gravidade determinada sobretudo pelo estado respiratório e sistêmico",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_PLEURAL_COMPLICATION_WITH_ORTHOGRAPHIC_VARIANT\",\"normalized_entity\":\"Derrame pleural parapneumônico pediátrico\",\"assessment\":\"O rótulo descreve uma entidade clínica válida: líquido no espaço pleural associado a uma pneumonia adjacente. A grafia mais usada nas fontes é ‘parapneumônico’; ‘paraneumônico’ deve permanecer como variante cadastral rastreável, sem criar outra doença. O espectro inclui derrame simples, que pode ser pequeno e estéril, derrame complicado, com invasão bacteriana/loculações, e empiema, definido por pus no espaço pleural. Esses estágios se relacionam, mas não são sinônimos perfeitos nem autorizam inferir gravidade, agente, internação, drenagem ou alta pelo nome isolado.\",\"pediatric_scope\":\"Aplica-se a recém-nascidos, lactentes, crianças e adolescentes com pneumonia e líquido pleural suspeito ou confirmado. A prioridade depende de oxigenação, trabalho respiratório, consciência, perfusão, hidratação, sepse, comorbidades e evolução, e não apenas do tamanho ou aspecto do derrame na imagem. Neonatos, lactentes pequenos, imunocomprometidos e crianças com doença cardíaca, pulmonar, neurológica ou dificuldade de deglutição exigem limiar mais baixo para avaliação hospitalar.\",\"not_automatically_equivalent_to\":[\"Empiema pleural: pus no espaço pleural, estágio infectado/avançado do espectro, não sinônimo de todo derrame parapneumônico\",\"Pneumonia simples sem líquido pleural\",\"Pneumonia necrosante, abscesso pulmonar, pneumatocele, pneumotórax ou fístula broncopleural\",\"Derrame pleural transudativo por insuficiência cardíaca, doença renal, hipoalbuminemia ou outra causa\",\"Derrame pleural por tuberculose, doença reumatológica, malignidade, trauma ou quilotórax\",\"Derrame pleural exsudativo sem vínculo demonstrado com pneumonia\",\"Indicação automática de antibiótico específico, dose, drenagem, fibrinolítico, cirurgia, oxigênio, internação ou tratamento domiciliar\"],\"counting_rule\":\"Contar pdf1500_353 como uma entidade clínica-base válida e preservar o ID/nome. Resolver a variante ortográfica ‘parapneumônico’ para o mesmo núcleo sem dupla contagem. Não contar os qualificadores agudo, crônico, bilateral, unilateral, grave, leve, moderado, recorrente, refratário, não especificado ou de origem infecciosa como novas doenças; cada um requer avaliação terminológica própria. Empiema continua registro relacionado, porém distinto como estágio purulento/infectado.\",\"reason\":\"A entidade é específica e clinicamente relevante, mas seu espectro e gravidade não podem ser reduzidos a um único manejo. A orientação precisa separar segurança após alta de avaliação hospitalar urgente e impedir tratamento automático.\",\"next_action\":\"Integrar como núcleo canônico de derrame pleural parapneumônico, manter ‘paraneumônico’ e ‘parapneumônico’ pesquisáveis, testar os IDs relacionados sem dupla contagem e aplicar prioridade respiratória/séptica antes de qualquer orientação de casa.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Derrame pleural parapneumônico é líquido ao redor do pulmão associado a pneumonia. Pode variar de uma pequena lâmina simples a coleção infectada e loculada; o estado da criança é mais importante que o tamanho isolado da imagem.",
+          "Se o derrame é apenas suspeito, se a criança ainda não foi avaliada ou se está piorando, não tente conduzir em casa: procure avaliação pediátrica no mesmo dia. Dificuldade respiratória, coloração azulada, sonolência, má perfusão ou sinais de sepse exigem emergência imediata.",
+          "Cuidados domiciliares só se aplicam quando a equipe examinou a criança e entregou plano de alta. Siga exatamente esse plano, mantenha supervisão de adulto e registre febre, esforço para respirar, dor, ingestão, urina, atividade e qualquer piora.",
+          "Deixe a criança descansar na posição em que respira melhor, geralmente com o tronco elevado, sem forçar uma posição dolorosa. Evite fumaça de cigarro, vape, fogão a lenha, aerossóis irritantes e contato com pessoas com infecção respiratória.",
+          "Não aperte o tórax, não faça percussão ou fisioterapia respiratória por conta própria e não manipule curativo ou local de dreno. Após procedimento, siga as instruções escritas sobre banho, curativo, movimento e sinais de infecção.",
+          "Tosse e cansaço podem persistir durante a recuperação, mas devem melhorar gradualmente. Retorno da febre, respiração mais difícil, dor crescente ou piora do estado geral não são sinais para observar em casa até o retorno programado."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "A equipe pode precisar medir oxigenação e usar radiografia e ultrassom para confirmar líquido, estimar extensão e diferenciar derrame simples de coleção complicada. A família não consegue fazer essa classificação apenas pelos sintomas.",
+          "A necessidade de hospital, oxigênio, hidratação, coleta de culturas, drenagem ou cirurgia depende do exame, oxigenação, organização do líquido, resposta ao tratamento e condição clínica. Não é definida automaticamente pelo nome da doença.",
+          "Durante a recuperação, ajude a criança a levantar e caminhar gradualmente apenas quando estiver estável e conforme orientação da equipe. Interrompa e procure ajuda se surgir falta de ar, tontura, palidez importante ou dor intensa.",
+          "Higiene das mãos, etiqueta da tosse e vacinas atualizadas ajudam a prevenir infecções respiratórias. O derrame em si não é transmitido; a pneumonia que o causou pode ter agente transmissível, e as recomendações de isolamento/escola dependem desse agente e do estado clínico.",
+          "Leve aos retornos o resumo de alta, resultados disponíveis, lista real de medicamentos, alergias e datas de febre. Informe imunodeficiência, cardiopatia, doença pulmonar, neurológica ou dificuldade de deglutição, pois mudam o risco e o seguimento.",
+          "Não use oxigênio, nebulização, aparelho de pressão, exercícios respiratórios ou dispositivo caseiro sem indicação e treinamento. Se a criança recebeu equipamento, siga os limites e o plano de emergência fornecidos pela equipe."
+        ],
+        "MEDICAMENTOS": [
+          "Não escolha antibiótico, dose, via ou duração a partir desta ficha. Derrame simples, derrame complicado e empiema podem exigir estratégias diferentes, e o tratamento depende de idade, gravidade, culturas, agentes locais, alergias, função renal/hepática e procedimentos realizados.",
+          "Se um antimicrobiano ou analgésico foi prescrito, use somente o produto, medida, horários e período escritos para aquela criança. Não compartilhe, não use sobras, não troque por conta própria e não interrompa porque a febre ou dor melhorou.",
+          "Se houver dose esquecida, vômito após a dose, dificuldade para administrar, reação ou dúvida, contate o serviço prescritor ou farmacêutico; não repita nem dobre automaticamente.",
+          "Não dê antitussígeno, descongestionante, corticoide, anti-inflamatório, fitoterápico, óleo essencial ou suplemento com promessa de ‘secar o líquido’ sem confirmação da equipe. Nenhum produto caseiro substitui avaliação de complicação ou controle do foco.",
+          "Procure ajuda imediata se após medicamento surgirem inchaço de face/língua, dificuldade para respirar, desmaio, bolhas/feridas em pele ou mucosas, sonolência extrema, convulsão ou suspeita de dose excessiva. Leve as embalagens.",
+          "Drenagem pleural, fibrinolítico e cirurgia são decisões hospitalares. Não são obrigatórios em todo derrame, mas atraso pode ser perigoso quando a criança está mal ou a coleção é complicada; a decisão deve ser da equipe pediátrica/respiratória/cirúrgica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está alerta, respira confortavelmente e a equipe liberou alimentação, ofereça líquidos e refeições pequenas e frequentes. Amamentação pode continuar em pausas curtas quando o bebê consegue coordenar sucção, deglutição e respiração.",
+          "Não force comida ou grande volume de líquido durante tosse, dor, cansaço ou respiração rápida. Falta de ar aumenta risco de engasgo; esforço para beber, mamada muito curta, vômitos repetidos ou pouca urina exigem reavaliação.",
+          "Em crianças internadas, a equipe pode ajustar volume e via de hidratação porque pneumonia grave e derrame podem acompanhar retenção de água ou sobrecarga. A família não deve aumentar água, soro caseiro ou líquidos por conta própria para ‘compensar’.",
+          "Não há dieta, chá, vitamina ou suplemento que drene o líquido pleural ou trate a infecção. Alimentação equilibrada apoia a recuperação, mas não substitui antimicrobiano ou procedimento quando indicados.",
+          "Se houver sonolência importante, confusão, convulsão, coloração azulada ou dificuldade respiratória intensa, não ofereça nada pela boca e acione emergência para reduzir risco de aspiração."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil, costelas ou pescoço afundando, gemido, batimento de asa do nariz, pausas, exaustão, incapacidade de falar/chorar/mamar por falta de ar ou piora súbita: emergência imediata.",
+          "Lábios ou língua azulados/arroxeados, saturação abaixo do limite definido pela equipe ou necessidade crescente de oxigênio: acione emergência; não transporte sem suporte se a criança estiver muito instável.",
+          "Sonolência incomum, dificuldade para despertar, confusão, convulsão, desmaio, fraqueza extrema ou comportamento muito diferente: possível hipóxia, sepse ou outra complicação e requer atendimento imediato.",
+          "Pele fria ou muito pálida/manchada, mãos e pés gelados, pulso muito rápido ou fraco, pouca urina, tontura, desmaio ou piora rápida do estado geral: sinais de má perfusão/choque e possível sepse.",
+          "Febre com criança muito abatida, calafrios intensos, piora respiratória, vômitos persistentes, incapacidade de beber/mamar ou febre que retorna após melhora: avaliação urgente, sem aguardar o retorno marcado.",
+          "Dor torácica intensa ou crescente, assimetria do tórax, tosse com sangue, inchaço do pescoço/peito, saída de pus/sangue pelo curativo ou suspeita de deslocamento de dreno: atendimento hospitalar imediato.",
+          "Recém-nascido ou lactente pequeno com febre, temperatura baixa, recusa alimentar, gemido, apneia, pele alterada, menos resposta ou qualquer dificuldade respiratória: emergência mesmo que os sinais pareçam discretos."
+        ],
+        "QUANDO REAVALIAR": [
+          "Derrame pleural associado a pneumonia precisa de avaliação pediátrica e plano de seguimento. Se o diagnóstico é novo, a criança não foi examinada ou não há plano claro, procure serviço no mesmo dia; não espere uma consulta eletiva.",
+          "Após alta, cumpra o retorno definido pela equipe respiratória/pediátrica e leve o resumo hospitalar. O momento de revisão e de nova imagem é individual; radiografia não deve ser repetida ou dispensada apenas por regra doméstica.",
+          "Antecipe a reavaliação se a febre ou a dificuldade para respirar não melhora como esperado, retorna depois de melhora, ou se surgem dor crescente, cansaço desproporcional, baixa ingestão, vômitos, pouca urina ou menor atividade.",
+          "Falta de resposta exige que a equipe revise derrame complicado/empiema, pneumonia necrosante, abscesso, pneumotórax, fístula, agente resistente, administração real do tratamento, corpo estranho, aspiração, tuberculose e doença de base; não basta trocar ou prolongar remédio em casa.",
+          "Retorno à escola e ao esporte deve ser gradual, quando a criança estiver sem febre, respirando bem, com energia e conforme liberação da equipe. Dor, falta de ar ou fadiga que pioram com atividade exigem pausa e contato antecipado.",
+          "Mesmo com boa recuperação, confirme vacinação, exposição a fumaça e fatores de risco. Derrame recorrente, bilateral, prolongado ou atípico requer investigação própria e não deve ser rotulado automaticamente como repetição simples da pneumonia."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Todo recém-nascido/lactente menor de 3 meses com suspeita de pneumonia ou derrame, febre ou temperatura baixa, recusa de mamadas, apneia, gemido, tiragem, palidez/arroxeamento, sonolência ou menos urina precisa de avaliação hospitalar imediata. Não aguarde sinais clássicos nem ofereça tratamento por conta própria.",
+        "3a5m": "Lactentes podem piorar com mamada curta, suor/cansaço ao mamar, irritabilidade, gemido, tiragem, pausas respiratórias ou menos fraldas molhadas. Ofereça volumes pequenos apenas se alerta e respirando confortavelmente; qualquer esforço ou recusa exige avaliação urgente.",
+        "6a11m": "Observe coordenação entre respirar e beber, retrações, gemido, coloração, interação e urina. Não force alimentação durante taquipneia e não atribua sonolência ou recusa apenas à febre ou dentição.",
+        "1a": "A criança pode não localizar dor e demonstrá-la por choro, recusa de colo/movimento, postura protegendo um lado ou dor abdominal. Respiração difícil, prostração, recusa de líquidos ou piora rápida exige pronto atendimento.",
+        "2a5": "Explique com palavras simples que há líquido ao redor do pulmão e que exames/procedimentos não são culpa da criança. Observe esforço para falar/brincar, dor torácica ou abdominal, febre e ingestão; redução importante de atividade antecipa a revisão.",
+        "6a11": "A criança pode relatar dor ao respirar, falta de ar e cansaço. Retorno à escola e esporte deve ser gradual após liberação. Ensine a avisar imediatamente se dor ou respiração piorar e não peça que ‘aguente’ exercício para recuperar condicionamento.",
+        "12a17": "Inclua o adolescente nas decisões e confirme adesão real, alergias, vape/cigarro, álcool/substâncias e possibilidade de gravidez quando pertinente ao cuidado. Falta de ar, dor, hemoptise, desmaio ou piora sistêmica não deve ser normalizada para manter escola ou treino.",
+        "unknown": "Sem idade, oxigenação, exame, imagem, gravidade, comorbidades e plano de tratamento não é seguro definir manejo. Priorize avaliação presencial e aplique os alarmes respiratórios, neurológicos, circulatórios e de sepse para qualquer idade."
+      },
+      "refs": [
+        {
+          "id": "pais241_op2317_1",
+          "name": "Pneumonias Adquiridas na Comunidade Complicadas",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2022/agosto/03/23053k-DC-Pneumonias_Adquiridas_Complicadas.pdf"
+        },
+        {
+          "id": "pais241_op2317_2",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais241_op2317_3",
+          "name": "Pneumonia: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/NG250/chapter/recommendations"
+        },
+        {
+          "id": "pais241_op2317_4",
+          "name": "Suspected sepsis in under 16s: recognition, diagnosis and early management — Managing suspected sepsis",
+          "url": "https://www.nice.org.uk/guidance/ng254/chapter/Managing-suspected-sepsis"
+        },
+        {
+          "id": "pais241_op2317_5",
+          "name": "Empyema PIAG 353 — Information for patients, parents and carers",
+          "url": "https://www.alderhey.nhs.uk/conditions/patient-information-leaflets/empyema-piag-353/"
+        },
+        {
+          "id": "pais241_op2317_6",
+          "name": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+          "url": "https://www.who.int/publications/i/item/9789240103412"
+        },
+        {
+          "id": "pais241_op2317_7",
+          "name": "Antimicrobial intravenous-to-oral switch decision aid for paediatrics — text alternative",
+          "url": "https://www.gov.uk/government/publications/antimicrobial-intravenous-to-oral-switch-criteria-for-early-switch/antimicrobial-ivos-decision-aid-for-paediatrics-text-alternative"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

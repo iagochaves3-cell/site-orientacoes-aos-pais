@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-term-resolution/1",
+  "checked_at": "2026-10-24T12:45:00.000Z",
+  "baseline_version": 103,
+  "baseline_commit": "d70f2a5ced5fcff44b2c403f37c35e658158c312",
+  "records": [
+    {"key":"pdf1500_893","label":"Intolerância à lactose primária induzido por medicamentos","specific":false,"clinical_entity":"Possível intolerância secundária por tratamento ou sintomas ligados ao medicamento/excipiente; não forma primária induzida","term_resolution":true},
+    {"key":"pdf1500_894","label":"Intolerância à lactose primária leve","specific":false,"clinical_entity":"Intolerância primária à lactose; leve descreve intensidade, não subtipo","term_resolution":true},
+    {"key":"pdf1500_895","label":"Intolerância à lactose primária moderado","specific":false,"clinical_entity":"Intolerância primária à lactose; moderado descreve intensidade incompleta","term_resolution":true},
+    {"key":"pdf1500_896","label":"Intolerância à lactose primária não especificado","specific":false,"clinical_entity":"Intolerância primária à lactose sem qualificação clínica suficiente","term_resolution":true},
+    {"key":"pdf1500_897","label":"Intolerância à lactose primária recorrente","specific":false,"clinical_entity":"Episódios repetidos de intolerância primária; recorrência não cria subtipo","term_resolution":true},
+    {"key":"pdf1500_898","label":"Intolerância à lactose primária refratário","specific":false,"clinical_entity":"Sintomas persistentes que exigem revisão diagnóstica; refratário não é subtipo validado","term_resolution":true},
+    {"key":"pdf1500_899","label":"Intolerância à lactose primária unilateral","specific":false,"clinical_entity":"Intolerância primária à lactose; unilateralidade inaplicável","term_resolution":true}
+  ]
+}

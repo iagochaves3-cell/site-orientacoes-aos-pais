@@ -1,0 +1,69 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T17:28:05.324Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_904e7997713d9078",
+      "label": "Artralgia na infância — registro no PPS",
+      "entity": "Artralgia na infância (sintoma de dor articular)",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_SYMPTOM\",\"assessment\":\"Artralgia descreve dor articular, não uma causa ou confirmação de artrite. Orientação de observação e retorno após avaliação, sem transformar em diagnóstico etiológico.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Artralgia significa dor em uma articulação; esse nome não explica a causa. A avaliação pode identificar lesão, inflamação, infecção ou outro problema. Não conclua que é dor do crescimento apenas pela idade.",
+          "Se a equipe avaliou e liberou cuidados em casa, registre onde dói, quando começou, quanto limita as atividades, febre, inchaço e rigidez ao acordar. Leve essas informações ao retorno."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Respeite o limite de conforto da criança e reduza temporariamente atividades que agravam a dor. Não force caminhada, saltos ou alongamentos para testar melhora.",
+          "Combine com a escola ajustes temporários se necessário. Não mantenha imobilização prolongada ou inicie exercício intenso sem orientação; a conduta depende da causa."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o plano de alívio da dor orientado para a criança. Se precisa aumentar o remédio para conseguir andar ou usar o membro, procure reavaliação em vez de aumentar por conta própria.",
+          "O nome artralgia não indica antibiótico, corticoide ou suplemento. Não use sobras nem interrompa tratamento já prescrito para outra condição sem falar com a equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação habitual variada e líquidos conforme a idade, salvo orientação individual diferente. Informe dietas muito restritas, perda de apetite ou de peso à equipe.",
+          "Não inicie vitaminas ou restrições alimentares para tratar dor articular sem identificar uma necessidade."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se deixa de apoiar a perna, não consegue usar um braço, apresenta dor forte ou piora rápida, especialmente com articulação quente, inchada ou febre. A falta de febre não exclui infecção.",
+          "Dor com prostração importante, manchas roxas sem explicação ou piora do estado geral também precisa avaliação imediata. Após trauma, deformidade ou membro frio/pálido exige pronto atendimento.",
+          "Com desmaio, confusão ou dificuldade para respirar ou acordar, acione 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Confirme retorno próximo se a causa ainda não foi esclarecida. Se a dor persiste, volta repetidamente, acorda a criança, há rigidez ao levantar ou novas articulações envolvidas, antecipe a avaliação. Não espere semanas com sintomas progressivos.",
+          "Informe perda de peso, cansaço incomum, manchas, alteração dos olhos ou dor que passa de uma articulação para outra. Esses sinais ajudam a decidir a investigação; não significam, sozinhos, uma doença específica.",
+          "Se há mancar persistente, combine reavaliação dentro da primeira semana desde o início, ou antes diante de piora. Um exame inicial normal não substitui nova avaliação se os sintomas mudam."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebês não localizam a dor. Recusa de mamadas, choro ao pegar ou menor movimento de um membro precisam avaliação rápida, mesmo sem febre.",
+        "3a5m": "Observe assimetria dos movimentos e choro ao manusear. Não atribua limitação nova à fase do desenvolvimento sem exame.",
+        "6a11m": "Parar de engatinhar, alcançar brinquedos ou movimentar uma perna merece avaliação; não force a atividade.",
+        "1a": "Recusa nova de ficar em pé ou andar é sinal de alerta, mesmo que ainda não consiga explicar a dor.",
+        "2a5": "A criança pode apontar o joelho quando o problema está no quadril. Observe marcha e disposição e relate ambos à equipe.",
+        "6a11": "Ouça a descrição da dor e observe efeitos na escola e brincadeiras. Não a obrigue a fazer esporte para provar que está bem.",
+        "12a17": "Relate exercícios, lesões e sintomas associados à equipe. Retorno ao esporte depende da causa e da recuperação, não só de conseguir suportar a dor.",
+        "unknown": "Confirmar idade, local e duração da dor e se já houve exame presencial. A orientação depende da causa e dos sinais de perigo."
+      },
+      "refs": [
+        {
+          "id": "pais184_op553_1",
+          "name": "The acutely swollen joint",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/The_acutely_swollen_joint/"
+        },
+        {
+          "id": "pais184_op553_2",
+          "name": "The limping or non-weight bearing child",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+        },
+        {
+          "id": "pais184_op553_3",
+          "name": "Growing pains",
+          "url": "https://www.nhs.uk/conditions/growing-pains/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

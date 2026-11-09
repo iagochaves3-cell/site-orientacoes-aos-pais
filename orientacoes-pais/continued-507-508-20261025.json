@@ -1,0 +1,157 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T15:38:54.952Z",
+  "records": [
+    {
+      "specific": false,
+      "key": "pps_catalog_365a0f18819afd59",
+      "label": "Angioedema sem Insuficiência Respiratória — registro no PPS",
+      "entity": "Angioedema",
+      "assessment": "{\"classification\":\"NEGATIVE_FINDING_NOT_INDEPENDENT_ENTITY\",\"canonical_key\":\"pps_catalog_99d2f164d6af2bac\",\"assessment\":\"Sem insuficiência respiratória descreve uma observação do momento, não uma causa de angioedema nem garantia de que não haja anafilaxia. Alterações circulatórias ou da consciência podem ocorrer sem falta de ar; o quadro também pode progredir.\",\"inference\":\"Contexto negativo não estabelece segurança; sinais sistêmicos conforme RCH/ASCIA.\",\"counting_rule\":\"Zero nova entidade.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Sem insuficiência respiratória descreve uma observação do momento, não uma causa de angioedema nem garantia de que não haja anafilaxia. Alterações circulatórias ou da consciência podem ocorrer sem falta de ar; o quadro também pode progredir.",
+          "Angioedema é inchaço mais profundo da pele ou das mucosas, muitas vezes nos lábios, pálpebras, mãos ou pés. Pode ocorrer com ou sem urticária. O nome sozinho não revela a causa.",
+          "Cuidados em casa são apenas após avaliação e plano seguro. Observe respiração, voz, capacidade de engolir e evolução do inchaço. Fotografe se possível sem atrasar socorro e registre alimentos, remédios e infecções recentes."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não teste novamente um alimento ou medicamento suspeito para comprovar a causa. Leve lista de produtos usados, horário de cada exposição e episódios anteriores.",
+          "Compartilhe o plano com cuidadores e escola. Em suspeita de anafilaxia, não deixe caminhar: mantenha deitado; se respirar melhor sentado, pernas estendidas; com vômitos, de lado. Acione ajuda."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o tratamento orientado para a causa confirmada. Antialérgicos podem ajudar alguns tipos, mas não resolvem todos; não aumente, combine ou troque medicamentos por conta própria.",
+          "Com sinais de anafilaxia, use a adrenalina previamente prescrita conforme o plano e acione 192. Não espere antialérgico fazer efeito. O dispositivo não substitui avaliação hospitalar; sem dispositivo, peça socorro imediatamente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se consegue engolir normalmente e não há sinais graves, mantenha alimentação e líquidos habituais adequados à idade. Não retire vários alimentos, altere fórmula ou suspenda amamentação só pelo nome angioedema.",
+          "Se houver língua/garganta inchada, dificuldade para engolir, vômitos com sonolência ou falta de ar importante, não ofereça alimentos, bebidas ou remédios por boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Desmaio, palidez com muita fraqueza, confusão ou criança mole após exposição suspeita são emergência mesmo respirando aparentemente bem. Acione 192 e siga o plano de adrenalina prescrito, se houver.",
+          "Língua, boca ou garganta inchada, mudança de voz, dificuldade para engolir, saliva escorrendo ou respiração ruidosa/difícil: ligue 192. Não espere faltar ar ou aparecer urticária. Inchaço súbito dos lábios que progride também exige socorro imediato.",
+          "Desmaio, confusão, lábios azulados/cinzentos ou criança muito mole/pouco responsiva são emergência. Dor abdominal forte ou vômitos repetidos com outros sinais de reação também exigem atendimento.",
+          "Não atribua automaticamente todo inchaço à alergia: febre com prostração, dor intensa, vermelhidão crescente ou alteração visual exige avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça à equipe para esclarecer a causa e o plano; ausência de falta de ar em uma avaliação anterior não autoriza ignorar sintomas novos.",
+          "Primeiro episódio ou novo inchaço sem causa/plano definido precisa de avaliação rápida, no mesmo dia. Se piorar ou não evoluir como a equipe explicou, volte; sinais de via aérea não aguardam consulta.",
+          "Em quadros avaliados e leves, o inchaço pode levar alguns dias para desaparecer, mas esse tempo não autoriza esperar diante de piora. Recorrência, episódios sem coceira/urticária, dor abdominal repetida ou familiares afetados justificam investigação especializada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço em bebê pequeno precisa de avaliação; má sucção, choro diferente, pouca reação ou respiração alterada exige socorro imediato.",
+        "3a5m": "Menores de 6 meses merecem avaliação pediátrica; não iniciar antialérgico ou mudar fórmula sem orientação.",
+        "6a11m": "Observe relação com exposições reais e sinais de via aérea; não atribua qualquer edema à introdução alimentar.",
+        "1a": "Um adulto deve observar a evolução e seguir o plano; não permitir acesso a remédios ou repetir exposições para testar.",
+        "2a5": "Combine com creche os sinais de perigo, contatos e plano prescrito; criança pode não conseguir descrever garganta apertada.",
+        "6a11": "Ensine a avisar cedo sobre voz diferente, inchaço ou dificuldade para engolir; o plano de resgate fica acessível ao adulto treinado.",
+        "12a17": "Inclua adolescente no plano e no registro de medicamentos, suplementos e exposições; não esconder sintomas ou ir sozinho se houver reação importante.",
+        "unknown": "Confirmar idade, exposição, sintomas e evolução; não escolher medicamento ou dose apenas pelo nome do cadastro."
+      },
+      "refs": [
+        {
+          "id": "pais166_op507_1",
+          "name": "Clinical Practice Guidelines: Urticaria",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urticaria/"
+        },
+        {
+          "id": "pais166_op507_2",
+          "name": "Angioedema FAQ",
+          "url": "https://www.allergy.org.au/patients/skin-allergy/angioedema"
+        },
+        {
+          "id": "pais166_op507_3",
+          "name": "Angioedema",
+          "url": "https://www.nhs.uk/conditions/angioedema/"
+        },
+        {
+          "id": "pais166_op507_4",
+          "name": "Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pps_catalog_f3cd7281b50092c6",
+      "label": "Urticária Aguda e Angioedema Não Anafilático — registro no PPS",
+      "entity": "Urticária aguda e angioedema após exclusão clínica de anafilaxia",
+      "assessment": "{\"classification\":\"EXACT_CLINICAL_ALIAS_WITH_CONTEXT\",\"canonical_key\":\"pps_64\",\"assessment\":\"Registro no PPS é sufixo administrativo da mesma ficha Urticária Aguda e Angioedema Não Anafilático (pps_64), não outra doença. Não anafilático descreve a avaliação feita e deve ser revisto diante de sinais novos.\",\"inference\":\"Equivalência lexical e clínica; preservar avaliação atual e sinais de emergência.\",\"counting_rule\":\"Zero nova entidade.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Registro no PPS é sufixo administrativo da mesma ficha Urticária Aguda e Angioedema Não Anafilático (pps_64), não outra doença. Não anafilático descreve a avaliação feita e deve ser revisto diante de sinais novos.",
+          "As placas de urticária coçam e mudam de lugar; uma some enquanto outra aparece. Viroses são comuns como causa e nem toda placa é alergia alimentar. O inchaço profundo pode durar mais que uma placa.",
+          "Registre início, duração de cada placa, remédios e exposições. Cuidados em casa dependem de anafilaxia ter sido excluída e de plano seguro; o nome cadastrado não faz essa avaliação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Ambiente fresco e compressa com pano limpo e água fresca podem aliviar a coceira. Evite esfregar a pele, calor excessivo e banho muito quente.",
+          "Evite apenas desencadeantes identificados no plano. Não provoque nova reação com alimento ou remédio para testar a causa; fotos podem ajudar na consulta."
+        ],
+        "MEDICAMENTOS": [
+          "Use o anti-histamínico somente como orientado para esta criança. Não aumente, misture ou repita doses porque surgiram outras placas. Em menores de 6 meses, confirme qualquer medicamento com pediatria.",
+          "Anti-inflamatórios podem agravar urticária: não os acrescente por conta própria; se já prescritos para outra doença, peça orientação à equipe. Não interrompa tratamento essencial automaticamente.",
+          "Anti-histamínico não substitui adrenalina nem socorro em anafilaxia. Com sinais sistêmicos, acione 192 e siga o plano de adrenalina previamente prescrito; não espere as placas desaparecerem."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação adequada à idade e alimentos tolerados. Não retire vários grupos alimentares, mude fórmula ou interrompa amamentação por conta própria.",
+          "Antes de 6 meses, mantenha leite materno ou fórmula conforme orientação; não acrescente água, chás ou alimentos para tratar as placas. Com dificuldade para engolir, falta de ar ou sonolência importante, não dê nada por boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "O rótulo não anafilático deixa de ser suficiente diante de desmaio, palidez com muita moleza, língua/garganta inchadas, respiração alterada ou vômitos repetidos junto de outros sinais de reação. Não precisa haver todos os sinais para buscar socorro.",
+          "Língua, boca ou garganta inchada, mudança de voz, dificuldade para engolir, saliva escorrendo ou respiração ruidosa/difícil: ligue 192. Não espere faltar ar ou aparecer urticária. Inchaço súbito dos lábios que progride também exige socorro imediato.",
+          "Desmaio, confusão, lábios azulados/cinzentos ou criança muito mole/pouco responsiva são emergência. Dor abdominal forte ou vômitos repetidos com outros sinais de reação também exigem atendimento.",
+          "Não atribua automaticamente todo inchaço à alergia: febre com prostração, dor intensa, vermelhidão crescente ou alteração visual exige avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure reavaliação se não melhorar em 2 dias ou antes se piorar. Febre, articulações doloridas, manchas roxas ou uma placa fixa e dolorosa pedem avaliação; bebê com menos de 3 meses e febre/suspeita de febre precisa atendimento imediato.",
+          "Recorrência, coceira que atrapalha sono/rotina ou inchaços repetidos justificam acompanhamento. Se durar mais de 6 semanas, a equipe investiga urticária crônica; não espere esse prazo se estiver piorando.",
+          "Em menores de 6 meses ou inchaço sem placas recorrente, combine avaliação pediátrica e investigação da causa. Exames de alergia não são automaticamente necessários em toda urticária aguda."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Inchaço em bebê pequeno precisa de avaliação; má sucção, choro diferente, pouca reação ou respiração alterada exige socorro imediato.",
+        "3a5m": "Menores de 6 meses merecem avaliação pediátrica; não iniciar antialérgico ou mudar fórmula sem orientação.",
+        "6a11m": "Observe relação com exposições reais e sinais de via aérea; não atribua qualquer edema à introdução alimentar.",
+        "1a": "Um adulto deve observar a evolução e seguir o plano; não permitir acesso a remédios ou repetir exposições para testar.",
+        "2a5": "Combine com creche os sinais de perigo, contatos e plano prescrito; criança pode não conseguir descrever garganta apertada.",
+        "6a11": "Ensine a avisar cedo sobre voz diferente, inchaço ou dificuldade para engolir; o plano de resgate fica acessível ao adulto treinado.",
+        "12a17": "Inclua adolescente no plano e no registro de medicamentos, suplementos e exposições; não esconder sintomas ou ir sozinho se houver reação importante.",
+        "unknown": "Confirmar idade, exposição, sintomas e evolução; não escolher medicamento ou dose apenas pelo nome do cadastro."
+      },
+      "refs": [
+        {
+          "id": "pais166_op508_1",
+          "name": "Clinical Practice Guidelines: Urticaria",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urticaria/"
+        },
+        {
+          "id": "pais166_op508_2",
+          "name": "Angioedema FAQ",
+          "url": "https://www.allergy.org.au/patients/skin-allergy/angioedema"
+        },
+        {
+          "id": "pais166_op508_3",
+          "name": "Angioedema",
+          "url": "https://www.nhs.uk/conditions/angioedema/"
+        },
+        {
+          "id": "pais166_op508_4",
+          "name": "Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        },
+        {
+          "id": "pais166_op508_5",
+          "name": "Hives (urticaria)",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Hives/"
+        },
+        {
+          "id": "pais166_op508_6",
+          "name": "Hives",
+          "url": "https://www.nhs.uk/conditions/hives/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

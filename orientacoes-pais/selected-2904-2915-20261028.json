@@ -1,0 +1,1261 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T13:15:14.028Z",
+  "records": [
+    {
+      "jobId": "OP-2904",
+      "specific": false,
+      "key": "pdf1500_1086",
+      "label": "Persistência do canal arterial unilateral",
+      "entity": "Persistência do canal arterial; o qualificador unilateral é redundante na anatomia habitual e só ganha significado anatômico quando o lado e as conexões de um ducto raro são confirmados por imagem",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNVERIFIED_REDUNDANT_OR_RARE_UNILATERAL_DUCTAL_QUALIFIER\",\"normalized_entity\":\"Persistência do canal arterial; lateralidade anatômica não especificada e não confirmada\",\"canonical_entity\":\"Persistência do canal arterial\",\"canonical_key\":\"pdf1500_1073\",\"canonical_relationship\":\"Resolver ao núcleo publicado; unilateralidade isolada não cria nova doença.\",\"assessment\":\"'Unilateral' é insuficiente porque a PCA comum já corresponde a um único ducto e porque uma variante rara exige ao menos lado e conexões definidos. Pode ser redundância cadastral, fragmento de uma descrição de ducto direito ou contraste incompleto com ductos bilaterais.\",\"ordinary_anatomy_boundary\":\"Na anatomia habitual, o ducto fetal único conecta a artéria pulmonar à aorta e normalmente fecha após o nascimento. A persistência desse ducto não é rotineiramente classificada como unilateral.\",\"rare_anatomy_boundary\":\"Ducto direito único é uma variante rara descrita em relatos, frequentemente em anatomias cardiovasculares complexas. Não inferir lado direito, arco anômalo, atresia pulmonar, tetralogia, situs, anel vascular ou compressão de via aérea a partir do label.\",\"imaging_boundary\":\"Ecocardiografia confirma a PCA e sua repercussão. Imagem complementar é seletiva quando a anatomia é incomum ou não está bem definida; o rótulo não substitui laudo.\",\"laterality_boundary\":\"Sem lado explícito, 'unilateral' não distingue ducto esquerdo habitual de ducto direito raro e não informa se houve exclusão de um segundo ducto.\",\"severity_boundary\":\"Unilateral não significa pequeno, leve, estável, menos repercussivo ou de menor risco. Sintomas, crescimento, saturação, perfusão e hemodinâmica devem ser avaliados separadamente.\",\"duct_dependency_boundary\":\"Em certas cardiopatias, um ducto pode sustentar fluxo pulmonar ou sistêmico. Não presumir que deva fechar e não alterar plano de manutenção do canal sem o centro cardiológico.\",\"treatment_boundary\":\"Não indicar medicamento, dose, restrição hídrica, cateterismo, cirurgia ou fechamento pela palavra unilateral. A conduta depende de idade, prematuridade, anatomia, fluxo, repercussão e cardiopatias associadas.\",\"counting_rule\":\"Zero entidade adicional no estado atual; reconciliar com pdf1500_1073. Se imagem confirmar ducto direito ou outra variante, registrar a anatomia real como qualificador, sem duplicar a entidade-base nem importar associações de relatos de caso.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A persistência do canal arterial ocorre quando uma comunicação normal da vida fetal entre a circulação pulmonar e a aorta permanece aberta após o nascimento. O impacto depende do fluxo, da repercussão no coração e nos pulmões e de outras cardiopatias.",
+          "A palavra 'unilateral', sozinha, não confirma um lado nem uma anatomia diferente. Na forma habitual já existe um único ducto; variantes direitas ou outras conexões raras só podem ser definidas por laudo de imagem.",
+          "Se a criança recebeu alta, observe respiração, cor dos lábios e da pele, cansaço ou suor ao alimentar, tempo para terminar a refeição, fraldas molhadas, crescimento e tolerância para brincar ou fazer esforço.",
+          "Mantenha os retornos com neonatologia, pediatria e cardiologia e leve laudos de ecocardiograma, internação e procedimentos. Peça que o relatório registre claramente lado e conexões somente se isso tiver sido confirmado.",
+          "Não restrinja líquidos, não aumente calorias, não limite atividade e não tente manter ou fechar o canal por conta própria. O qualificador unilateral não orienta nenhuma dessas decisões.",
+          "Se houver cardiopatia associada ou plano de emergência do centro cardíaco, siga esse plano; ele tem prioridade sobre esta orientação geral."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Durante mamadas ou refeições, mantenha posição segura e faça pausas se houver respiração mais rápida, suor, cansaço ou mudança de cor. Pare e procure ajuda se a criança não recuperar o fôlego.",
+          "Anote alimentação, vômitos, fraldas, sintomas e peso apenas conforme solicitado. Ganho insuficiente ou piora para alimentar deve ser comunicado antes do retorno programado.",
+          "Não solicite exame com radiação por conta própria. A cardiologia decide se o ecocardiograma esclarece a anatomia ou se outra modalidade é necessária.",
+          "Se houver ruído respiratório persistente, tosse, engasgo ou dificuldade para engolir, procure avaliação. Esses sinais não provam compressão vascular e não devem ser atribuídos ao label em casa.",
+          "Se houve cateterismo ou cirurgia, siga exatamente as instruções de curativo, banho, atividade e observação do membro utilizado. Não massageie a virilha ou a incisão.",
+          "Em crianças maiores, a atividade depende da repercussão, da anatomia associada e da recuperação de procedimentos; não criar nem retirar restrição apenas porque o cadastro diz unilateral."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente os medicamentos já prescritos pela equipe que conhece a anatomia da criança, nos horários e pela via definidos. Não inicie, ajuste, suspenda ou repita por conta própria.",
+          "O rótulo 'unilateral' não indica medicamento, dose, via, duração nem informa se a circulação depende de o canal permanecer aberto.",
+          "Medicamentos usados para manter ou favorecer o fechamento do canal são decisões monitorizadas e não devem ser improvisados em casa.",
+          "Não dobre dose esquecida nem use medicamento de outra criança. Confirme a conduta com o serviço responsável.",
+          "Procure atendimento se, após qualquer medicamento, surgirem falta de ar, inchaço de face ou língua, sonolência incomum, vômitos repetidos, pouca urina, palidez intensa ou extremidades frias.",
+          "Esta ficha não seleciona fármaco, dose, concentração, volume, via, intervalo, duração ou procedimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça leite materno, fórmula ou alimentação adequada à idade conforme o plano individual. Volume, intervalo, fórmula e concentração não devem ser mudados por causa do adjetivo unilateral.",
+          "Faça pausas e interrompa a oferta se houver tosse, engasgo, respiração muito rápida, suor intenso, mudança de cor ou exaustão.",
+          "Não dilua fórmula, não engrosse mamadas e não restrinja água, leite ou sal sem orientação. Tanto excesso quanto restrição inadequada podem causar problemas.",
+          "Procure avaliação se a criança não termina refeições por falta de ar ou cansaço, vomita repetidamente, urina muito menos, fica com boca seca ou deixa de ganhar peso.",
+          "Ruído respiratório ou dificuldade para engolir precisa de avaliação individual. O label não permite diagnosticar anel vascular ou outra compressão.",
+          "Durante desconforto respiratório importante, cianose, desmaio ou rebaixamento de consciência, não ofereça alimento, líquido ou medicamento por boca e acione emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou com esforço, gemência, afundamento entre as costelas, pausas ou apneia, lábios ou pele azulados/cinzentos, palidez intensa ou piora súbita exige emergência.",
+          "Bebê ou criança que não consegue alimentar-se por falta de ar ou cansaço, fica muito sonolento ou difícil de acordar, apresenta suor frio, pouca urina, extremidades frias, fraqueza acentuada ou desmaio precisa de avaliação imediata.",
+          "Ruído respiratório intenso, dificuldade para engolir saliva, engasgos persistentes ou piora rápida da respiração exige atendimento imediato; não presuma a causa em casa.",
+          "Diferença nova de cor ou temperatura entre membros, ou braço/perna frio, pálido, arroxeado, muito doloroso ou com movimento reduzido, exige emergência, sobretudo após procedimento vascular.",
+          "Após cateterismo: sangramento que não para com a compressão ensinada, inchaço crescente, dor intensa ou alteração do membro utilizado exige emergência.",
+          "Após cirurgia: falta de ar, desmaio, sangramento importante, abertura da incisão, febre com mau estado geral, vermelhidão crescente ou secreção exige avaliação urgente.",
+          "Em cardiopatia ducto-dependente ou anatomia complexa, siga imediatamente o plano individual e procure o centro de referência; não tente favorecer o fechamento do canal.",
+          "Em criança maior ou adolescente, desmaio, dor no peito com mal-estar, confusão, palpitação acompanhada de falta de ar/tontura ou queda súbita da tolerância ao esforço exige interrupção da atividade e avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Compareça na data definida pela neonatologia ou cardiologia mesmo que a criança pareça bem. Exame, crescimento, saturação e ecocardiograma definem persistência e repercussão.",
+          "Peça reavaliação antes do prazo por aumento de cansaço ao alimentar ou brincar, suor, respiração rápida, menor aceitação, pouco ganho de peso, infecções respiratórias repetidas ou queda de tolerância à atividade.",
+          "Se o prontuário disser apenas 'unilateral', peça reconciliação do cadastro. O laudo deve informar o lado e as conexões se houver uma variante verdadeira.",
+          "Se houver suspeita de ducto direito ou anatomia incomum, o relatório deve registrar origem, destino, trajeto, patência, fluxo, arco aórtico, ramos pulmonares e cardiopatias realmente confirmadas.",
+          "Depois de cateterismo ou cirurgia, cumpra o retorno e as restrições temporárias do serviço e confirme quando liberar banho, escola, esforço e cuidados odontológicos.",
+          "Não abandone seguimento sem alta formal. A evolução depende da anatomia e da repercussão, não da palavra unilateral.",
+          "Na integração, resolver pdf1500_1086 para o núcleo publicado pdf1500_1073, preservar o label e manter contagens zero enquanto não houver qualificador anatômico comprovado."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Neonato instável não deve receber orientação domiciliar genérica. Apneia, cianose, esforço respiratório, pouca urina, extremidades frias ou incapacidade de mamar exige avaliação imediata; unilateralidade precisa de laudo.",
+        "3a5m": "Registrar tolerância às mamadas, cor, respiração, fraldas e ganho de peso. Interromper a mamada e buscar ajuda se houver falta de ar, cianose ou exaustão.",
+        "6a11m": "Observar cansaço durante mamadas e alimentação; não alterar fórmula ou líquidos pelo rótulo. Ruído respiratório ou engasgo persistente precisa de avaliação, sem presumir compressão.",
+        "1a": "Acompanhar respiração, suor, cansaço e tolerância a brincar. Sintomas novos devem ser avaliados; o lado do ducto não pode ser inferido pelo comportamento.",
+        "2a5": "Observar se a criança para de brincar por falta de ar, sua muito, não acompanha os pares ou deixa de crescer. Escola e atividade seguem a avaliação cardiológica.",
+        "6a11": "Perguntar sobre redução de tolerância, falta de ar, palpitação, dor no peito e desmaio. A criança deve saber quando avisar um adulto e carregar o plano, se houver.",
+        "12a17": "O adolescente deve conhecer a anatomia realmente confirmada, os procedimentos e as restrições atuais, comunicar sintomas e não interromper acompanhamento ou medicamento por conta própria.",
+        "unknown": "Sem idade e laudo, não definir unilateralidade anatômica, gravidade, restrição, tratamento ou fechamento. Manter sinais de alarme e seguimento cardiológico."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2904_1",
+          "name": "Unilateral right ductus with left aortic arch: an uncommon association",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1768496/"
+        },
+        {
+          "id": "pais259_op2904_2",
+          "name": "Right-sided patent ductus arteriosus with bovine aortic arch, tetralogy of Fallot, dextrocardia and situs inversus",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8302079/"
+        },
+        {
+          "id": "pais259_op2904_3",
+          "name": "Case report: A rare combination of right aortic arch with right patent ductus arteriosus and right tracheal bronchus causing impaired respiratory function",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9388932/"
+        },
+        {
+          "id": "pais259_op2904_4",
+          "name": "Patent Ductus Arteriosus in Preterm Infants",
+          "url": "https://publications.aap.org/pediatrics/article/155/5/e2025071425/201674/Patent-Ductus-Arteriosus-in-Preterm-Infants"
+        },
+        {
+          "id": "pais259_op2904_5",
+          "name": "Patent Ductus Arteriosus (PDA)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/patent-ductus-arteriosus-pda"
+        },
+        {
+          "id": "pais259_op2904_6",
+          "name": "Early treatment versus expectant management of hemodynamically significant patent ductus arteriosus for preterm infants",
+          "url": "https://www.cochrane.org/evidence/CD013278_what-are-benefits-and-harms-early-drug-treatment-infants-born-prematurely-who-have-open-blood-vessel"
+        },
+        {
+          "id": "pais259_op2904_7",
+          "name": "Diretriz de Tomografia Computadorizada e Ressonância Magnética Cardiovascular da Sociedade Brasileira de Cardiologia e do Colégio Brasileiro de Radiologia — 2024",
+          "url": "https://www.scielo.br/j/abc/a/FB6MfbxbtfH9r95gdfDwX8Q/?format=html"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2905",
+      "specific": false,
+      "key": "pdf1500_1089",
+      "label": "Pitiríase versicolor Pneumonia adquirida na comunidade por Streptococcus",
+      "entity": "Rótulo-fonte malformado que concatena pitiríase versicolor, uma micose superficial da pele, com o início truncado de pneumonia adquirida na comunidade atribuída a Streptococcus pneumoniae, uma infecção pulmonar bacteriana distinta",
+      "assessment": "{\"classification\":\"MALFORMED_CONCATENATION_OF_TWO_DISTINCT_CLINICAL_ENTITIES_WITH_ADJACENT_TRUNCATION\",\"normalized_entity\":null,\"assessment\":\"Pitiríase versicolor e pneumonia pneumocócica são entidades válidas, porém não pertencem ao mesmo processo nosológico. A primeira decorre do crescimento excessivo de levedura que vive na pele, produz manchas com alteração de cor e descamação e não se transmite entre pessoas. A segunda é infecção do pulmão por pneumococo, pode causar febre, tosse, taquipneia, dificuldade respiratória e complicações graves. A aparência das manchas não identifica pneumonia, e sintomas respiratórios não confirmam Streptococcus pneumoniae sem avaliação clínica e, quando indicada, investigação etiológica.\",\"source_reconstruction\":{\"catalog_sequence\":[{\"key\":\"pdf1500_1088\",\"label\":\"Pitiríase rósea de Gilbert\",\"role\":\"registro anterior independente\"},{\"key\":\"pdf1500_1089\",\"label\":\"Pitiríase versicolor Pneumonia adquirida na comunidade por Streptococcus\",\"role\":\"duas expressões concatenadas; a segunda termina no gênero bacteriano\"},{\"key\":\"pdf1500_1090\",\"label\":\"pneumoniae\",\"role\":\"fragmento adjacente que completa o nome Streptococcus pneumoniae\"},{\"key\":\"pdf1500_1091\",\"label\":\"Pneumonia estafilocócica\",\"role\":\"registro seguinte independente\"}],\"candidate_reconstruction\":[\"Pitiríase versicolor\",\"Pneumonia adquirida na comunidade por Streptococcus pneumoniae\"],\"confidence\":\"HIGH_FOR_CATALOG_SEGMENTATION_ERROR_NOT_FOR_ANY_PATIENT_DIAGNOSIS\",\"boundary\":\"A reconstrução corrige o texto do catálogo; não comprova agente etiológico nem coexistência das duas condições em uma criança.\"},\"distinct_entities\":[{\"name\":\"Pitiríase versicolor\",\"canonical_key\":\"ext_versicolor\",\"canonical_job\":\"OP-582\",\"population\":\"Pessoas com manchas cutâneas compatíveis após confirmação clínica; produto e uso precisam ser adequados à idade e ao local\",\"mechanism\":\"Crescimento excessivo de levedura do gênero Malassezia que normalmente vive na pele\",\"diagnosis_basis\":\"Morfologia e distribuição examinadas por profissional; raspado/microscopia ou lâmpada de Wood quando houver dúvida\",\"treatment_context\":\"Tratamento antifúngico tópico é usual; terapia oral ou prevenção recorrente são decisões selecionadas, sem esquema automático nesta ficha\"},{\"name\":\"Pneumonia adquirida na comunidade por Streptococcus pneumoniae (pneumonia pneumocócica)\",\"canonical_key\":\"pdf1500_1106\",\"canonical_job\":\"OP-16\",\"population\":\"Lactentes, crianças e adolescentes avaliados por pneumonia; neonatos e pessoas com comorbidades ou imunocomprometimento exigem limiar mais baixo para avaliação hospitalar\",\"mechanism\":\"Infecção do parênquima pulmonar por Streptococcus pneumoniae\",\"diagnosis_basis\":\"Quadro clínico de pneumonia e avaliação de gravidade; o agente não é definido por sintomas isolados e exames microbiológicos não são rotineiros em toda pneumonia comunitária\",\"treatment_context\":\"Antibiótico, via, duração, suporte e local de cuidado dependem de idade, gravidade, alergias, comorbidades, resistência local e resultados disponíveis\"}],\"not_automatically_equivalent_to\":[\"Pitiríase versicolor complicada por pneumonia\",\"Infecção disseminada por Malassezia\",\"Pneumonia fúngica\",\"Mancha de pele causada por pneumococo\",\"Toda pneumonia adquirida na comunidade, que frequentemente é viral\",\"Pneumonia bacteriana confirmada apenas por febre e tosse\",\"Coinfecção comprovada ou necessidade de tratar as duas condições\",\"Indicação de antifúngico, antibiótico, dose, via ou duração\",\"Uma nova entidade clínica resultante da concatenação\"],\"canonical_reconciliation\":{\"relationship\":\"TWO_DISTINCT_ALREADY_REPRESENTED_ENTITIES_ACCIDENTALLY_JOINED_IN_ONE_SOURCE_LABEL\",\"skin_branch\":{\"canonical_key\":\"ext_versicolor\",\"canonical_label\":\"Pitiríase versicolor\",\"decision\":\"Reutilizar o núcleo cutâneo validado, sem importar urgência, antibiótico ou isolamento da pneumonia.\"},\"respiratory_branch\":{\"canonical_key\":\"pdf1500_1106\",\"canonical_label\":\"Pneumonia pneumocócica\",\"source_fragment_key\":\"pdf1500_1090\",\"decision\":\"Reutilizar o núcleo respiratório validado somente quando o diagnóstico correspondente estiver selecionado, sem importar antifúngico ou evolução cutânea.\"},\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_MALFORMED_CATALOG_ID_RECONCILED_TO_TWO_EXISTING_CORES_AND_ONE_ADJACENT_FRAGMENT\"},\"counting_rule\":\"Contar zero entidade adicional. pdf1500_1089 é uma resolução terminológica, não uma ficha de doença híbrida e não deve aumentar cobertura clínica. Pitiríase versicolor e pneumonia pneumocócica permanecem duas entidades já contadas em seus núcleos próprios; pdf1500_1090 é fragmento textual, não terceira entidade.\",\"patient_resolution_rule\":\"Em atendimento real, selecionar somente a entidade confirmada ou suspeita pela equipe. Se houver evidência independente de ambas na mesma pessoa, registrar dois problemas e dois planos, sem relação causal presumida. Qualquer desconforto respiratório, cianose, alteração de consciência ou incapacidade de hidratar prevalece sobre cuidados com manchas de pele.\",\"treatment_boundary\":\"Antifúngico para pitiríase versicolor não trata pneumonia; antibiótico para pneumonia não trata a levedura cutânea. O rótulo não autoriza iniciar, trocar, combinar, interromper ou repetir nenhum dos dois grupos.\",\"pediatric_scope\":\"As duas entidades podem ocorrer na pediatria, mas têm riscos e limiares diferentes. Manchas em lactente pequeno precisam confirmação antes de produto tópico; suspeita de pneumonia em recém-nascido ou pequeno lactente exige avaliação imediata.\",\"urgency_rule\":\"Pitiríase versicolor simples não explica febre, prostração, dor torácica, taquipneia, retrações, gemência, apneia, cianose, convulsão ou alteração de consciência. Esses sinais exigem avaliação respiratória/sistêmica urgente e não podem ser atribuídos às manchas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Este nome do cadastro está colado de forma incorreta. Confirme no laudo, receita ou resumo de alta se a orientação é para PITIRÍASE VERSICOLOR ou para PNEUMONIA PNEUMOCÓCICA. Não use a mesma conduta para as duas condições.",
+          "PITIRÍASE VERSICOLOR: é uma alteração superficial da pele por crescimento excessivo de uma levedura que normalmente vive ali. Não é falta de higiene, não passa de uma pessoa para outra e não causa pneumonia.",
+          "PITIRÍASE VERSICOLOR: observe local, descamação, coceira e surgimento de novas áreas. Outras causas de manchas claras, escuras ou avermelhadas podem parecer iguais; confirme o diagnóstico antes de aplicar produto, sobretudo em bebê.",
+          "PNEUMONIA: cuidado em casa só é apropriado depois de avaliação e liberação da equipe. Observe respiração em repouso, afundamento entre as costelas, cor dos lábios, disposição, febre, capacidade de mamar/beber e quantidade de urina.",
+          "PNEUMONIA: deixe a criança repousar, mantenha-a acompanhada e evite fumaça de cigarro, vape, fogão a lenha e outros irritantes. Leve ao retorno a lista de medicamentos, alergias, vacinas, comorbidades e evolução dos sintomas.",
+          "Se a criança tiver manchas e sintomas respiratórios, trate-os como dois problemas até avaliação. Não espere a mancha melhorar para procurar ajuda por falta de ar, febre com prostração ou piora rápida."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "PITIRÍASE VERSICOLOR: faça higiene suave e seque sem esfregar. Não use clareador, limão, álcool, receitas irritantes, esfoliação agressiva ou bronzeamento para tentar igualar a cor.",
+          "PITIRÍASE VERSICOLOR: proteja a pele do sol com sombra e roupas; use protetor adequado à idade conforme orientação. Não é preciso afastar da escola, separar toalhas por medo dessa condição confirmada ou tratar contatos sem diagnóstico.",
+          "PNEUMONIA: mantenha ambiente arejado, repouso e posição confortável. Não force atividade física e não faça vapor quente, inalação caseira, cânfora, óleo essencial ou tapotagem sem orientação.",
+          "PNEUMONIA: higienize as mãos e evite compartilhar itens com saliva ou secreção respiratória. O pneumococo pode circular por secreções; a pitiríase versicolor não muda essa orientação.",
+          "Registre febre, vômitos, ingestão, urina e mudança na respiração apenas para informar a equipe. Contagens domésticas isoladas não confirmam o agente nem substituem avaliação de gravidade.",
+          "Revise a situação vacinal no serviço de saúde conforme o calendário brasileiro. A vacinação pneumocócica ajuda a prevenir doença futura, mas não trata o episódio atual e não cobre todos os casos."
+        ],
+        "MEDICAMENTOS": [
+          "PITIRÍASE VERSICOLOR: o tratamento costuma ser aplicado na pele. Use somente o produto indicado para a idade, região e diagnóstico, pelo modo e tempo orientados; esta ficha não define concentração, frequência ou duração.",
+          "PITIRÍASE VERSICOLOR: comprimidos antifúngicos são reservados a situações selecionadas e exigem prescrição, revisão de interações e monitorização. Não tome, compartilhe ou repita antifúngico só porque a cor ainda não voltou ao normal.",
+          "PNEUMONIA: dê somente o antibiótico da prescrição vigente. Não use sobra, não compartilhe, não dobre dose esquecida e não inicie ou interrompa por conta própria; a aparência clínica não escolhe o antibiótico.",
+          "PNEUMONIA: medicamento para febre, dor, tosse ou gripe só deve ser usado se já foi orientado para essa criança. Não combine produtos nem dê medicamento de adulto.",
+          "Antifúngico para a pele não trata pneumonia, e antibiótico para pneumonia não trata pitiríase versicolor. O rótulo concatenado não justifica usar os dois.",
+          "Vômitos que impedem o medicamento prescrito, sonolência incomum ou piora após a dose exigem contato imediato. Falta de ar, inchaço de face/língua, desmaio ou dificuldade para despertar exigem emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "PITIRÍASE VERSICOLOR: mantenha alimentação e líquidos habituais adequados à idade. Não retire fermento, leite, açúcar ou outro alimento para tratar a levedura da pele.",
+          "PNEUMONIA: se a criança estiver respirando com conforto e engolindo com segurança, ofereça líquidos em pequenas quantidades e com frequência; mantenha o aleitamento se conseguir mamar sem cansaço, falta de ar ou engasgo.",
+          "Não force comida. Ofereça porções menores e habituais conforme tolerância; durante doença respiratória aguda, manter hidratação é mais importante que exigir uma refeição completa.",
+          "Procure atendimento se não consegue beber, vomita tudo, mama muito menos, apresenta boca seca, chora sem lágrimas ou urina bem menos que o habitual.",
+          "Interrompa oferta pela boca e procure emergência se houver engasgo, lábios azulados/cinzentos, pausas respiratórias, sonolência importante ou esforço respiratório durante a alimentação.",
+          "Não dilua ou concentre fórmula, não engrosse líquidos e não ofereça chás, suplementos ou dietas como tratamento de nenhuma das duas condições sem orientação específica."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver dificuldade intensa para respirar, pausas respiratórias, gemência, retrações importantes, lábios azulados/cinzentos, desmaio, convulsão, criança muito mole ou difícil de acordar.",
+          "Procure emergência agora se a criança não consegue falar, chorar, mamar ou beber por falta de ar, respira cada vez mais rápido, apresenta palidez intensa, extremidades frias ou piora rápida.",
+          "Febre com rigidez de nuca, dor de cabeça intensa, confusão, vômitos repetidos, manchas roxas que não clareiam à pressão ou baixa resposta pode indicar infecção invasiva/sepse e exige atendimento imediato.",
+          "Dor forte no peito, piora para respirar, um lado do tórax movimentando menos ou febre/prostração que piora ou retorna após melhora pode indicar pneumonia complicada e exige avaliação imediata.",
+          "Recém-nascido ou bebê pequeno com febre ou temperatura baixa, gemência, apneia, mamada fraca, recusa, respiração diferente ou sonolência precisa de avaliação hospitalar imediata; não aplicar um plano domiciliar genérico.",
+          "Febre, pus, bolhas extensas, feridas em boca/olhos, dor intensa ou pele rapidamente vermelha e inchada não são esperados de pitiríase versicolor simples. Procure avaliação urgente e não atribua esses sinais ao ‘pano branco’."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça que a equipe corrija o diagnóstico no documento: pitiríase versicolor e pneumonia pneumocócica devem aparecer separadas. O nome concatenado não deve permanecer como problema clínico único.",
+          "PITIRÍASE VERSICOLOR: a cor pode levar semanas ou meses para voltar ao habitual após controlar a levedura. Cor residual isolada não comprova falha; retorne se surgirem novas áreas, descamação/coceira persistentes, irritação pelo produto ou dúvida diagnóstica.",
+          "PITIRÍASE VERSICOLOR: recorrências podem ocorrer. Combine prevenção individual com profissional, sem esquema automático, medicamento oral ou tratamento de contatos.",
+          "PNEUMONIA: se houve liberação para tratamento ambulatorial, cumpra a revisão definida, usualmente em 24 a 48 horas, e procure antes diante de qualquer piora.",
+          "PNEUMONIA: se febre, respiração, disposição ou ingestão não começarem a melhorar em 48 a 72 horas de tratamento adequado, reavalie para confirmar diagnóstico, adesão e complicações; não troque antibiótico sozinho.",
+          "Após internação, pneumonia complicada ou episódios repetidos, cumpra o seguimento e exames indicados. Retorno à escola e atividade física depende de ausência de febre, conforto respiratório, disposição e liberação; manchas residuais de pitiríase isoladas não exigem afastamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não aplique produto de adulto em manchas sem confirmação. Febre ou temperatura baixa, gemência, apneia, mamada fraca, respiração diferente, prostração ou menos urina exige avaliação hospitalar imediata; pneumonia não deve ser manejada por ficha domiciliar genérica.",
+        "3a5m": "Confirme a causa das manchas antes de tratar. Lactente pode mostrar pneumonia por mamada reduzida, irritabilidade, sonolência, retrações ou menos fraldas; avaliação médica precoce e limiar baixo para pronto atendimento.",
+        "6a11m": "Não aplique produto perto de olhos ou boca e não use esquema de adulto. Observe pausas nas mamadas, asa nasal, costelas afundando, gemência, vômitos e menos urina; não espere verbalização de falta de ar.",
+        "1a": "Um adulto deve administrar cada produto do ramo correto e guardá-lo fora do alcance. Cansaço para beber, brincar, chorar ou respirar exige reavaliação; não confundir a alteração da pele com causa do quadro respiratório.",
+        "2a5": "Explique sem culpa que pitiríase versicolor confirmada não é sujeira nem contagiosa. Pneumonia exige ficar em casa enquanto houver febre, falta de ar ou incapacidade de participar; dor ao respirar, prostração ou piora exige avaliação.",
+        "6a11": "Evite constrangimento e bronzeamento para esconder as manchas. Após pneumonia, retome escola e atividade gradualmente; dor no peito, tontura, falta de ar ou cansaço desproporcional exige reavaliação.",
+        "12a17": "Inclua o adolescente na distinção entre os dois planos e nos horários prescritos. Antes de antifúngico oral, revisar interações e possibilidade de gestação; evitar vape/cigarro e treino intenso durante pneumonia até recuperação e liberação.",
+        "unknown": "Sem idade, exame, local/extensão das manchas, sintomas respiratórios, comorbidades e prescrição vigente, não escolher entidade nem tratamento. Manter alertas respiratórios/sistêmicos e confirmar separadamente o diagnóstico correto."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2905_1",
+          "name": "Pityriasis versicolor",
+          "url": "https://www.nhs.uk/conditions/pityriasis-versicolor/"
+        },
+        {
+          "id": "pais259_op2905_2",
+          "name": "Tinea versicolor: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/tinea-versicolor-treatment"
+        },
+        {
+          "id": "pais259_op2905_3",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Community_acquired_pneumonia/"
+        },
+        {
+          "id": "pais259_op2905_4",
+          "name": "Pneumococcal Disease Symptoms and Complications",
+          "url": "https://www.cdc.gov/pneumococcal/signs-symptoms/index.html"
+        },
+        {
+          "id": "pais259_op2905_5",
+          "name": "About Pneumococcal Disease",
+          "url": "https://www.cdc.gov/pneumococcal/about/index.html"
+        },
+        {
+          "id": "pais259_op2905_6",
+          "name": "Calendário de Vacinação",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario"
+        },
+        {
+          "id": "pais259_op2905_7",
+          "name": "Serviço de Atendimento Móvel de Urgência — SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2906",
+      "specific": false,
+      "key": "pdf1500_1092",
+      "label": "Pneumonia estafilocócica agudo",
+      "entity": "Pneumonia pediátrica por Staphylococcus, em geral Staphylococcus aureus; o qualificador ‘agudo’ é redundante e não constitui subtipo clínico distinto.",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_REDUNDANT_ACUTE_QUALIFIER_AND_GRAMMATICAL_MISMATCH\",\"canonical_term\":\"Pneumonia estafilocócica\",\"canonical_core_key\":\"pdf1500_1091\",\"canonical_core_label\":\"Pneumonia estafilocócica\",\"alias_of_core\":true,\"additional_entity_count\":0,\"assessment\":\"O núcleo é uma entidade válida: pneumonia causada por bactérias do gênero Staphylococcus, geralmente Staphylococcus aureus. O descritor MeSH 2026 reconhece ‘Pneumonia, Staphylococcal’ e ‘Staphylococcus Aureus Pneumonia’, sem um subtipo ‘agudo’. Pneumonia pediátrica é uma infecção pulmonar de apresentação aguda; portanto, o sufixo acrescentado não delimita população, etiologia, gravidade, complicação, resistência ou conduta. Além disso, ‘agudo’ não concorda com o substantivo feminino pneumonia, o que reforça tratar o rótulo como artefato cadastral. O ID e o label devem ser preservados para seleção, mas o conteúdo deve reconciliar com o núcleo publicado pdf1500_1091.\",\"scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com suspeita ou confirmação de pneumonia estafilocócica. O rótulo isolado não informa se a infecção é comunitária ou hospitalar, MSSA ou MRSA, simples ou complicada, atual ou já tratada.\",\"not_automatically_equivalent_to\":[\"pneumonia grave, necrosante, bilateral ou com insuficiência respiratória\",\"empiema, derrame parapneumônico, abscesso pulmonar, pneumotórax, bacteremia, sepse ou choque\",\"Staphylococcus aureus confirmado, MSSA, MRSA ou padrão de sensibilidade conhecido\",\"necessidade universal de UTI, drenagem, cirurgia ou oxigênio\",\"um antibiótico, dose, via ou duração específicos\",\"alta ou segurança para observação domiciliar\"],\"counting_rule\":\"Não contar como nova entidade clínica específica. Contar somente uma resolução terminológica ligada ao núcleo pdf1500_1091; manter a key pdf1500_1092 e o label exato como alias cadastral.\",\"reason_for_source_term_issue\":\"‘Agudo’ é redundante para a apresentação usual da pneumonia e não é qualificador etiológico, anatômico, de gravidade ou resposta terapêutica reconhecido; o rótulo também contém discordância gramatical.\",\"next_action\":\"Integrar por alias ao conteúdo clínico publicado de pdf1500_1091, preservando o ID. Se houver uma intercorrência aguda real, documentar separadamente seus achados e complicações, sem inferi-los deste label.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pneumonia estafilocócica é uma infecção do pulmão por bactérias do gênero Staphylococcus, geralmente Staphylococcus aureus. A palavra ‘agudo’ no cadastro não cria uma forma diferente nem informa, sozinha, a gravidade.",
+          "Se o diagnóstico é novo, ainda não foi avaliado ou a criança está piorando, procure avaliação pediátrica no mesmo dia. Cuidados em casa só se aplicam depois de avaliação e alta com plano escrito; esta ficha não decide se a criança pode permanecer em casa.",
+          "Depois da alta, observe respiração, cor dos lábios e da pele, estado de alerta, febre, dor no peito ou barriga, aceitação de líquidos e quantidade de urina. Compare com o padrão que a equipe explicou.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. A tosse pode demorar a desaparecer, mas febre, disposição e esforço para respirar devem melhorar conforme o prazo informado pela equipe.",
+          "Não presuma que a pneumonia passe diretamente de uma pessoa para outra apenas por ser estafilocócica. Higiene das mãos, etiqueta da tosse e cuidado de feridas ajudam a reduzir transmissão de microrganismos; a volta à escola depende da recuperação e da liberação recebida."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Higienize as mãos antes e depois de cuidar da criança, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Feridas de pele devem permanecer limpas e cobertas conforme orientação.",
+          "Anote temperatura, respiração, ingestão de líquidos, urina, vômitos e horários dos medicamentos prescritos. Leve resumo de alta, culturas e exames aos retornos.",
+          "Siga exatamente as orientações recebidas para curativo, dreno, fisioterapia ou exercícios. Não manipule dreno, curativo ou acesso e não faça tapotagem, nebulização ou fisioterapia improvisada.",
+          "Mantenha vacinas indicadas para a idade em dia e evite exposição à fumaça. Vacinação e higiene ajudam na prevenção geral, mas não substituem o tratamento desta pneumonia."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente os medicamentos prescritos para esta criança, na apresentação e nos horários do plano vigente. Não use sobra, receita de outra pessoa ou antibiótico por conta própria.",
+          "O nome ‘pneumonia estafilocócica agudo’ não escolhe antibiótico. Cultura, sensibilidade, idade, gravidade, local de aquisição, alergias e complicações orientam a equipe; esta ficha não define fármaco, dose, via, intervalo ou duração.",
+          "Não interrompa, prolongue, troque ou dobre o tratamento por melhora parcial, dose esquecida ou resultado de exame sem falar com a equipe. Peça orientação se vômitos impedirem o uso do medicamento.",
+          "Urticária, inchaço, falta de ar, desmaio ou piora rápida durante um medicamento exigem ajuda imediata. Diarreia intensa, pouca urina ou outro efeito preocupante exigem contato e reavaliação, sem substituir o medicamento por conta própria."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver acordada, respirando confortavelmente e liberada para alimentar-se, ofereça líquidos em pequenas quantidades e com frequência; mantenha leite materno e alimentação adequada à idade conforme tolerância.",
+          "Não force comida. Incapacidade de beber ou mamar, vômitos repetidos, boca seca, ausência de lágrimas, pouca urina ou sonolência crescente exigem reavaliação.",
+          "Durante falta de ar importante, gemência, engasgo ou redução da consciência, não ofereça alimento, líquido ou medicamento pela boca; acione a emergência, mantenha a criança na posição mais confortável e siga as orientações do atendente.",
+          "Se houver sonda, restrição de líquidos ou plano nutricional hospitalar, não altere volume, fórmula, velocidade ou oferta de água por conta própria."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o serviço de emergência se houver dificuldade intensa para respirar, pausas respiratórias, gemência importante, costelas afundando muito, lábios ou rosto arroxeados, desmaio, convulsão ou dificuldade para acordar.",
+          "Procure emergência imediatamente se a criança estiver confusa, muito prostrada, com pele fria ou manchada, extremidades frias, urina muito reduzida ou aparência de estar gravemente doente; esses sinais podem acompanhar sepse ou choque.",
+          "Dor forte ou crescente no peito ou barriga, tosse com sangue, falta de ar nova ou pior depois de aparente melhora, ou piora rápida exigem avaliação hospitalar por possível complicação.",
+          "Febre que persiste ou retorna junto com maior esforço respiratório, cansaço crescente, menor ingestão ou piora do estado geral exige reavaliação sem esperar o retorno marcado; derrame, empiema, abscesso e pneumonia necrosante precisam de avaliação própria.",
+          "Em recém-nascido ou bebê pequeno, febre ou temperatura baixa, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor exigem avaliação hospitalar imediata, mesmo sem febre alta."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para a suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. O termo ‘agudo’ não permite estimar segurança em casa nem substituir exame clínico.",
+          "Após alta, cumpra o retorno no prazo escrito. Volte antes se houver piora, se a melhora não começar no prazo explicado ou se febre e esforço respiratório persistirem ou retornarem.",
+          "Pneumonia complicada pode exigir acompanhamento por pediatria, pneumologia, infectologia ou cirurgia e exames de controle. Não falte aos retornos mesmo que a tosse diminua.",
+          "Peça que a equipe registre o agente confirmado ou suspeito, culturas, resistência, complicações e plano de seguimento. ‘Agudo’ isoladamente não documenta nenhum desses dados.",
+          "Retorno à escola e atividade física depende de ausência de febre, respiração confortável, hidratação e energia em recuperação, além da orientação da equipe; uma infecção viral associada ou feridas podem mudar as medidas de afastamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente menor de 3 meses com suspeita de pneumonia, febre ou temperatura baixa, apneia, mamada fraca, gemência ou pouca resposta precisa de avaliação hospitalar imediata; não usar esta ficha para observação domiciliar.",
+        "3a5m": "Lactentes pequenos podem piorar rapidamente. Observe mamadas, pausas respiratórias, retrações, gemência, cor e fraldas molhadas e procure avaliação sem demora diante de piora.",
+        "6a11m": "Choro fraco, irritabilidade, sonolência, recusa de mamadas, menor interação ou menos fraldas podem ser sinais de piora mesmo sem dor bem localizada.",
+        "1a": "Um adulto deve supervisionar líquidos e medicamentos e observar se a criança deixa de brincar, respirar, beber ou urinar como de costume.",
+        "2a5": "Explique com palavras simples e peça que a criança avise dor ou cansaço. Não peça para prender a tosse; observe retrações, gemência, ingestão e urina.",
+        "6a11": "Pergunte sobre dor no peito ou barriga, cansaço ao falar ou caminhar e tontura. Retorno à escola e educação física depende da recuperação e da liberação recebida.",
+        "12a17": "Inclua o adolescente no plano e nos horários sem deixá-lo como único responsável. Reforce não usar vape ou cigarro e não interromper medicamento por melhora parcial.",
+        "unknown": "Confirme idade, prematuridade, comorbidades, estado respiratório, ingestão, culturas, complicações e plano atual antes de individualizar. Sem esses dados, use os alertas gerais e não presuma alta ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2906_1",
+          "name": "Pneumonia, Staphylococcal — MeSH Descriptor Data 2026",
+          "url": "https://meshb.nlm.nih.gov/record/ui?ui=D011023"
+        },
+        {
+          "id": "pais259_op2906_2",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-in-infants-and-children/"
+        },
+        {
+          "id": "pais259_op2906_3",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2906_4",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pleural_Effusion_and_Empyema/"
+        },
+        {
+          "id": "pais259_op2906_5",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903"
+        },
+        {
+          "id": "pais259_op2906_6",
+          "name": "Epidemiology, clinical outcomes and mortality-associated factors of staphylococcal pneumonia in hospitalized Thai children: A nationwide retrospective analysis 2015-2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41512808/"
+        },
+        {
+          "id": "pais259_op2906_7",
+          "name": "Management of pneumonia and pleural effusion in children",
+          "url": "https://new.scielo.br/j/jbpneu/a/mJm3ZrMgPKBMvZMxCnsqbDs/?ilang=pt_BR&lang=en"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2907",
+      "specific": false,
+      "key": "pdf1500_1093",
+      "label": "Pneumonia estafilocócica bilateral",
+      "entity": "Pneumonia pediátrica por Staphylococcus aureus com opacidades ou acometimento descrito nos dois pulmões; bilateralidade é distribuição anatômico-radiológica da entidade-base, não doença, estágio ou classificação de gravidade independente",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_NON_ADDITIVE_BILATERAL_DISTRIBUTION_QUALIFIER\",\"normalized_entity\":\"Pneumonia por Staphylococcus aureus em criança ou adolescente, com acometimento pulmonar bilateral quando confirmado\",\"assessment\":\"Pneumonia estafilocócica é uma entidade clínica válida. O adjetivo bilateral pode descrever achados nos dois pulmões, mas não cria outra doença e não informa sozinho extensão funcional, hipoxemia, sepse, complicação, resposta, prognóstico, necessidade de internação, antibiótico, procedimento ou alta. A gravidade deve ser definida pelo estado clínico, oxigenação, trabalho respiratório, perfusão, consciência, alimentação/hidratação, complicações documentadas e evolução, e não pela bilateralidade isolada.\",\"canonical_reconciliation\":{\"canonical_core_key\":\"pdf1500_1091\",\"canonical_core_label\":\"Pneumonia estafilocócica\",\"canonical_core_result\":\"references/orientacoes-validadas/parallel-results/OP-14-pdf1500_1091.json\",\"relationship\":\"SAME_STAPHYLOCOCCAL_PNEUMONIA_ENTITY_WITH_BILATERAL_DISTRIBUTION_QUALIFIER\",\"alias_of_core\":true,\"additional_entity_count\":0,\"published_core_version\":257,\"published_core_commit\":\"3d27643546bc082db5fc5cc3405a5304055eccc3\",\"content_rule\":\"Herdar o núcleo clínico publicado de pdf1500_1091. Preservar key e label desta variante para rastreabilidade e acrescentar somente a explicação de que bilateralidade precisa ser confirmada e não determina gravidade, prognóstico, tratamento ou alta.\"},\"bilateral_interpretation\":{\"meaning\":\"Achados compatíveis com pneumonia foram descritos nos dois pulmões por avaliação clínica e/ou imagem adequada ao contexto.\",\"requires_confirmation\":\"Confirmar o que o laudo chamou de bilateral, o exame e a data, a evolução clínica e se há complicação realmente documentada; sintomas e ausculta, isoladamente, não identificam o agente nem medem a extensão anatômica com segurança.\",\"does_not_establish\":[\"Pneumonia grave, insuficiência respiratória, hipoxemia, sepse ou choque\",\"Maior ou menor prognóstico, tempo de recuperação ou risco individual\",\"Derrame parapneumônico, empiema, abscesso, pneumonia necrosante ou pneumatoceles\",\"Bacteremia, resistência antimicrobiana, MRSA, MSSA ou foco extrapulmonar\",\"Necessidade de internação, UTI, oxigênio, drenagem, cirurgia ou outro procedimento\",\"Antibiótico, combinação, dose, via, duração, troca ou falha terapêutica\",\"Segurança para alta, retorno à escola, esporte ou encerramento do seguimento\"]},\"not_automatically_equivalent_to\":[\"Pneumonia estafilocócica grave\",\"Pneumonia estafilocócica complicada\",\"Pneumonia necrosante bilateral\",\"Empiema ou derrame parapneumônico bilateral\",\"Abscessos pulmonares bilaterais\",\"Sepse, bacteremia ou choque séptico\",\"Falha do tratamento\",\"Indicação de terapia intensiva ou de alta\"],\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes. Menores de 3 meses, prematuros e crianças com doença pulmonar, cardíaca, neuromuscular, imunodeficiência ou suporte respiratório precisam de avaliação individual; nenhuma dessas condições pode ser presumida pelo rótulo.\",\"critical_context_to_confirm\":[\"Idade, prematuridade, comorbidades, imunização e estado respiratório habitual\",\"Como a etiologia estafilocócica foi estabelecida ou suspeitada e quais culturas/exames existem\",\"Qual exame demonstrou acometimento bilateral, data, descrição de cada pulmão e comparação com exames anteriores\",\"Frequência e trabalho respiratórios, cor, oxigenação medida e necessidade de suporte\",\"Estado mental, perfusão, diurese, febre, dor, alimentação e hidratação\",\"Derrame, empiema, abscesso, necrose, pneumatocele, pneumotórax ou outra complicação realmente documentada\",\"Tratamentos já prescritos, adesão, tolerância e resposta, sem inferir falha apenas pela imagem\",\"Plano definido pela equipe para internação ou alta, retorno, imagem, escola e atividade\"],\"counting_rule\":\"Preservar pdf1500_1093 para busca e rastreabilidade, mas contar zero nova entidade clínica além de pdf1500_1091. Classificar como SOURCE_TERM_ISSUE e specific=false porque bilateralidade modifica a descrição anatômica, não cria orientação terapêutica autônoma.\",\"reason\":\"O cadastro combina uma entidade válida com um qualificador anatômico que não possui, nas diretrizes pediátricas oficiais consultadas, regra própria de gravidade, prognóstico, terapia ou alta.\",\"next_action\":\"Integrar como alias anatômico do núcleo publicado pdf1500_1091, mantendo o rótulo literal e testando que 'bilateral' não aumenta nem reduz automaticamente alarmes, gravidade, tratamento, prazo, prognóstico ou elegibilidade de alta.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A pneumonia estafilocócica é uma infecção pulmonar por Staphylococcus aureus e pode ter complicações como líquido ou pus ao redor do pulmão, abscesso ou destruição de parte do tecido pulmonar. A palavra bilateral apenas informa que há achados nos dois pulmões; não permite concluir em casa se o quadro é leve, grave, melhor ou pior.",
+          "Suspeita nova ou piora precisa de avaliação pediátrica no mesmo dia. Cuidados domiciliares só se aplicam depois de avaliação e de um plano de alta individual; o laudo bilateral, sozinho, não autoriza nem impede alta.",
+          "Depois da alta, observe respiração, cor dos lábios, estado de alerta, febre, dor no peito ou barriga, aceitação de líquidos e urina. A decisão de retornar deve seguir esses sinais e o plano da equipe, não apenas a palavra bilateral no exame.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. Escola, esporte e esforço só devem ser retomados quando a equipe liberar e a criança estiver recuperando respiração e disposição.",
+          "A tosse pode demorar a desaparecer, mas estado geral, febre e esforço para respirar devem melhorar progressivamente conforme o plano explicado. Piora rápida, retorno da febre ou falta de melhora esperada exigem reavaliação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Siga exatamente as orientações de curativo, dreno, fisioterapia respiratória ou exercícios recebidas no hospital. Não manipule dreno, curativo ou acesso e não faça tapotagem, nebulização caseira ou fisioterapia improvisada.",
+          "Higienize as mãos, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Feridas de pele devem permanecer limpas e cobertas; procure avaliação para ferida com pus, vermelhidão crescente ou dor.",
+          "Anote temperatura, ingestão, urina, vômitos, medicamentos prescritos e mudanças na respiração. Leve o resumo da internação, culturas e exames aos retornos, incluindo o laudo que descreveu bilateralidade.",
+          "Não tente comparar o tamanho das áreas afetadas nem decidir gravidade por imagem em casa. A equipe deve interpretar cada achado junto do exame da criança e da evolução."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente os medicamentos prescritos para esta criança, nos horários e pelo período definidos. Não use sobras, receita de outra pessoa, antibiótico por conta própria nem interrompa porque houve melhora parcial.",
+          "A escolha do antibiótico e da via depende de culturas, resistência local, alergias, estado clínico, complicações e resposta. Bilateralidade não define medicamento, associação, dose, via ou duração.",
+          "Use antitérmico ou analgésico apenas se já orientado. Não dê xarope para tosse, descongestionante, corticoide, anti-inflamatório ou fitoterápico sem confirmar com a equipe.",
+          "Procure orientação se houver vômitos que impeçam o medicamento, urticária, inchaço, falta de ar, diarreia intensa, redução importante da urina ou outro efeito preocupante. Não dobre dose esquecida sem orientação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver respirando confortavelmente e autorizada a alimentar-se, ofereça líquidos em pequenas quantidades e com frequência, mantenha leite materno quando possível e ofereça refeições conforme tolerância.",
+          "Não force comida. Procure atendimento se não conseguir beber ou mamar, tiver vômitos repetidos, boca seca, ausência de lágrimas, pouca urina ou sonolência em piora.",
+          "Durante falta de ar importante, gemência, engasgo ou redução da consciência, não ofereça alimento, líquido ou medicamento pela boca; procure emergência para evitar aspiração.",
+          "Se houver sonda ou orientação individual sobre líquidos, fórmula ou alimentação, siga somente o plano da equipe. A bilateralidade não define volume, fórmula, velocidade ou restrição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por respiração muito rápida ou difícil, costelas afundando, gemência, batimento de asas do nariz, pausas respiratórias, lábios ou rosto arroxeados, ou incapacidade de falar, beber ou mamar por falta de ar.",
+          "Vá imediatamente se a criança estiver muito sonolenta, difícil de acordar, confusa, desmaiar, tiver convulsão, pele fria ou manchada, extremidades frias, pouca urina, piora rápida ou aparência de estar gravemente doente.",
+          "Dor forte ou crescente no peito ou barriga, tosse com sangue, falta de ar nova após aparente melhora ou assimetria respiratória percebida pela equipe podem indicar complicação e exigem nova avaliação.",
+          "Febre que persiste ou retorna junto com maior esforço respiratório, menor ingestão, prostração ou piora geral exige avaliação urgente; não espere o retorno marcado.",
+          "Em recém-nascido ou lactente pequeno, temperatura alta ou baixa, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor exigem avaliação hospitalar imediata, mesmo sem febre alta.",
+          "A palavra bilateral sem esses sinais não permite graduar urgência; por outro lado, ausência de bilateralidade não reduz nenhum desses alarmes."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. Se houver qualquer sinal de alarme, procure emergência imediatamente.",
+          "Após alta, cumpra o retorno definido pela equipe. Reavalie antes se os sintomas piorarem, se não começarem a melhorar no prazo explicado ou se a febre voltar acompanhada de cansaço, falta de ar ou menor ingestão.",
+          "Derrame, empiema, abscesso ou pneumonia necrosante só devem ser considerados presentes quando documentados e podem exigir especialistas e exames de controle. Bilateralidade isolada não confirma nenhuma dessas complicações.",
+          "O retorno à escola e às atividades depende de ausência de febre, respiração confortável, energia em recuperação, controle de eventuais feridas e orientação da equipe; não há prazo automático por ser bilateral.",
+          "Imagem de controle, internação, alta e encerramento do seguimento devem seguir a evolução e o plano clínico. Não repita exames nem adie retorno por conta própria apenas para conferir se a imagem continua bilateral."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido e lactente menor de 3 meses com suspeita de pneumonia, temperatura alta ou baixa, apneia, mamada fraca, gemência ou pouca responsividade precisa de avaliação hospitalar imediata. Não orientar observação domiciliar, medicamento, dose, via ou alta por esta ficha; bilateralidade não muda essa barreira de segurança.",
+        "3a5m": "Lactentes pequenos podem piorar rapidamente. Observe mamadas, pausas respiratórias, gemência, retrações, cor, interação e fraldas molhadas e mantenha limiar baixo para retorno. Não classifique gravidade pela distribuição bilateral; use os sinais clínicos e o plano recebido.",
+        "6a11m": "Choro fraco, irritabilidade, sonolência, recusa de mamadas, menos fraldas e menor interação podem indicar piora mesmo sem dor localizada ou febre alta. Um adulto deve supervisionar alimentação e medicamentos prescritos.",
+        "1a": "Um adulto deve observar se a criança deixa de brincar, respirar, beber ou comer como de costume e acompanhar urina, febre e esforço respiratório. Não ofereça medicamento para tosse por conta própria.",
+        "2a5": "Explique de forma simples que a criança deve avisar dor ou cansaço; não peça para prender a tosse. Observe retrações, gemência, ingestão, atividade e urina. Retorno à creche ou escola depende de recuperação clínica e orientação, não do laudo bilateral isolado.",
+        "6a11": "Pergunte sobre dor no peito ou barriga, falta de ar ao falar ou caminhar, tontura e queda de energia. Combine escola e atividade física com a equipe. Inclua a criança no registro de sintomas, mantendo um adulto responsável pelo plano.",
+        "12a17": "Inclua o adolescente no plano de horários e sinais de alarme sem transferir sozinho a responsabilidade. Reforce que vape, cigarro e abandono precoce do tratamento prejudicam a recuperação. Explique que bilateralidade não define prognóstico nem libera ou proíbe esporte sem avaliação clínica.",
+        "unknown": "Sem idade informada, use os alertas gerais e confirme idade, prematuridade, comorbidades, estado respiratório, hidratação, exames e plano hospitalar antes de individualizar qualquer orientação. Não inferir gravidade, prognóstico, medicamento, dose, via, restrição alimentar ou alta da palavra bilateral."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2907_1",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/~/link/018511fd86374a4ca01c5a77e570757c.aspx"
+        },
+        {
+          "id": "pais259_op2907_2",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2907_3",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2907_4",
+          "name": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+          "url": "https://www.who.int/publications/i/item/9789240103412"
+        },
+        {
+          "id": "pais259_op2907_5",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903/"
+        },
+        {
+          "id": "pais259_op2907_6",
+          "name": "Schools and Daycares: MRSA Prevention and Response",
+          "url": "https://www.cdc.gov/mrsa/prevention/schools-and-daycares.html"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2908",
+      "specific": false,
+      "key": "pdf1500_1094",
+      "label": "Pneumonia estafilocócica crônico",
+      "entity": "Pneumonia pediátrica causada ou fortemente suspeita por Staphylococcus aureus, com persistência ou recorrência a caracterizar e sem reconhecer ‘crônico’ como subtipo etiológico autônomo",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNSUPPORTED_OR_AMBIGUOUS_CHRONIC_QUALIFIER\",\"normalized_entity\":\"Pneumonia por Staphylococcus aureus — persistência ou recorrência a caracterizar\",\"canonical_entity\":\"Pneumonia por Staphylococcus aureus em criança ou adolescente\",\"canonical_key_suggestion\":\"pdf1500_1091\",\"assessment\":\"O núcleo ‘pneumonia estafilocócica’ é válido. ‘Crônico’ não define, sozinho, duração, persistência microbiológica, complicação, falha terapêutica nem recorrência e não deve gerar história natural ou tratamento próprios. As diretrizes abertas consultadas tratam a pneumonia como doença aguda e descrevem falta de melhora, pneumonia complicada e recorrência como situações que exigem reavaliação. A conclusão sobre o qualificador é uma inferência terminológica dessas fontes, não prova de ausência universal do termo.\",\"acute_core_boundary\":\"Preservar o núcleo publicado pdf1500_1091: infecção pulmonar por Staphylococcus aureus, com risco de derrame parapneumônico, empiema, abscesso e pneumonia necrosante.\",\"persistence_boundary\":\"Tosse residual em criança globalmente melhor não equivale a infecção ativa. Febre persistente ou recorrente, piora do esforço respiratório, hipoxemia, menor ingestão, dor ou falta de melhora em 48–72 horas exigem avaliação de complicação ou diagnóstico alternativo.\",\"recurrence_boundary\":\"Novo episódio após melhora, especialmente no mesmo local, deve ser documentado e investigado conforme avaliação pediátrica; não deve ser somado ao episódio anterior apenas para validar ‘crônico’.\",\"microbiology_boundary\":\"Sintomas familiares não confirmam Staphylococcus aureus, sensibilidade ou resistência. A etiologia e a escolha terapêutica dependem de avaliação clínica, culturas quando indicadas, imagem e epidemiologia local.\",\"treatment_boundary\":\"Esta ficha não escolhe antibiótico, combinação, via, dose, intervalo ou duração e não autoriza prolongar, reiniciar ou trocar tratamento por causa da palavra ‘crônico’.\",\"not_automatically_equivalent_to\":[\"Infecção ativa persistente por Staphylococcus aureus\",\"Falha documentada de antibiótico\",\"Resistência antimicrobiana\",\"Pneumonia necrosante\",\"Empiema ou abscesso pulmonar\",\"Pneumonia recorrente\",\"Doença pulmonar crônica\",\"Imunodeficiência\",\"Indicação de prolongar ou repetir tratamento\"],\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_1091\",\"canonical_label\":\"Pneumonia estafilocócica\",\"relationship\":\"SAME_BASE_ENTITY_WITH_UNDEFINED_CHRONICITY_QUALIFIER\",\"decision\":\"Compartilhar integralmente o núcleo clínico e os alarmes de pdf1500_1091, acrescentando somente a resolução terminológica e a obrigação de caracterizar persistência, complicação ou recorrência.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_SOURCE_TERM_VARIANT_MAPPED_TO_PDF1500_1091\"},\"urgency_rule\":\"A palavra ‘crônico’ nunca reduz urgência. Desconforto respiratório, cianose, apneia, alteração de consciência, incapacidade de beber ou mamar, sinais de choque/sepse ou piora rápida exigem atendimento imediato.\",\"counting_rule\":\"Contar zero entidade clínica adicional; o qualificador é uma variante cadastral não operacionalizada do núcleo pdf1500_1091.\",\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes. Neonatos e crianças com gravidade, complicação ou falta de resposta não são candidatos a observação domiciliar genérica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome do cadastro não significa que exista uma forma separada chamada pneumonia estafilocócica crônica. A condição segura para orientar é a pneumonia por Staphylococcus aureus; sintomas que persistem ou voltam precisam ser descritos e reavaliados.",
+          "A pneumonia estafilocócica pode complicar com líquido ou pus ao redor do pulmão, abscesso ou destruição do tecido pulmonar. Suspeita nova, falta de melhora ou recaída exige avaliação pediátrica; não use a palavra ‘crônico’ para decidir permanecer em casa.",
+          "Cuidados domiciliares só se aplicam após avaliação e alta pela equipe. Observe respiração, cor dos lábios, estado de alerta, febre, dor no peito ou barriga, aceitação de líquidos e quantidade de urina.",
+          "A tosse pode demorar mais que a febre e o cansaço para desaparecer, mas a criança deve melhorar progressivamente. Febre persistente ou que retorna, maior esforço para respirar ou queda do estado geral não são recuperação esperada.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. Retome escola, esporte e esforço apenas quando a equipe liberar e a criança estiver sem febre, respirando confortavelmente e recuperando a disposição."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Anote o que persiste e desde quando: febre, tosse, falta de ar, dor, cansaço, menor ingestão, perda de peso ou novo episódio após melhora. Leve resumos de internação, culturas, imagens e datas dos tratamentos aos retornos.",
+          "Siga exatamente as orientações de curativo, dreno, fisioterapia ou exercícios recebidas no hospital. Não manipule dreno, curativo ou acesso e não faça tapotagem, nebulização ou fisioterapia improvisada.",
+          "Higienize as mãos, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Mantenha feridas de pele limpas e cobertas e peça avaliação se houver pus, vermelhidão crescente ou dor.",
+          "Não fume perto da criança. Mantenha as vacinas indicadas para idade e condições de saúde em dia; elas reduzem algumas infecções respiratórias, mas não tratam o episódio atual nem provam sua causa.",
+          "Não interprete imagem ainda alterada ou tosse isolada como bactéria ativa sem a equipe. A necessidade de novo exame depende da evolução, de complicações e de recorrência no mesmo local."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente o antibiótico e os demais medicamentos prescritos para esta criança, nos horários e pelo período definidos. Não prolongue, reinicie, troque ou combine medicamentos porque o quadro foi chamado de crônico.",
+          "A escolha do tratamento depende de gravidade, culturas quando disponíveis, sensibilidade, alergias, epidemiologia local e complicações. Esta ficha não define fármaco, via, dose, intervalo nem duração.",
+          "Não use sobras, receita de outra pessoa, xarope para tosse, descongestionante, corticoide, anti-inflamatório ou fitoterápico sem confirmar com a equipe.",
+          "Se houver vômito que impeça a dose, esquecimento, erro de administração ou suspeita de reação, contate o serviço; não dobre nem compense automaticamente.",
+          "Urticária, inchaço, falta de ar, desmaio, diarreia intensa, redução importante da urina ou outro efeito preocupante exige orientação urgente conforme gravidade."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver respirando confortavelmente e autorizada a alimentar-se, ofereça líquidos em pequenas quantidades e com frequência; mantenha leite materno quando possível e alimentação adequada à idade conforme tolerância.",
+          "Não force comida. Observe mamadas, sede, vômitos, boca seca, lágrimas e urina. Incapacidade de beber ou mamar, vômitos repetidos, muito pouca urina ou sonolência crescente exige reavaliação.",
+          "Durante falta de ar importante, gemência, engasgo, lábios arroxeados ou redução da consciência, não ofereça alimento ou líquido pela boca; procure emergência para reduzir risco de aspiração.",
+          "Se houver sonda ou orientação de restrição de líquidos, siga apenas o plano individual. Não altere volume, fórmula, concentração ou velocidade por conta própria.",
+          "Perda de peso, menor aceitação persistente ou cansaço progressivo para comer não deve ser atribuído ao rótulo crônico; antecipe a avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil, costelas afundando, gemência, batimento de asas do nariz, pausas respiratórias, lábios ou rosto arroxeados, ou incapacidade de falar, beber ou mamar por falta de ar.",
+          "Criança muito sonolenta, difícil de acordar, confusa, desmaio, convulsão, pele fria ou manchada, extremidades frias, pouca urina, piora rápida ou aparência de estar gravemente doente.",
+          "Dor forte ou crescente no peito ou barriga, tosse com sangue, falta de ar nova após aparente melhora, ou febre que persiste ou retorna junto com piora respiratória, menor ingestão ou cansaço.",
+          "Em recém-nascido ou lactente pequeno, temperatura anormal, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor, mesmo sem febre alta.",
+          "Piora enquanto usa tratamento prescrito ou após alta hospitalar não deve esperar o retorno marcado nem ser normalizada como crônica."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. Formas graves ou complicadas podem exigir hospital, suporte respiratório, hidratação venosa, culturas, imagem e equipe especializada.",
+          "Após alta, cumpra o prazo definido. Se a equipe permitiu cuidado ambulatorial, confirme reavaliação em 24–48 horas; procure antes diante de qualquer piora.",
+          "Falta de melhora clínica em 48–72 horas de tratamento adequado, febre persistente, novo esforço respiratório ou retorno dos sintomas exige reavaliação para derrame, empiema, abscesso, pneumonia necrosante ou outra causa; não espere completar um prazo se a criança estiver piorando.",
+          "Episódios repetidos, alteração persistente no mesmo local, perda de peso ou recuperação incompleta devem ser documentados e discutidos com pediatria/pneumologia/infectologia conforme o caso. Isso não confirma uma pneumonia estafilocócica crônica.",
+          "Exames de controle e seguimento especializado dependem de complicações e evolução. Não repita radiografia, cultura ou antibiótico por conta própria.",
+          "Retorno à escola e às atividades depende de ausência de febre, respiração confortável, energia em recuperação e orientação da equipe; o rótulo crônico não define afastamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente menor de 3 meses com suspeita de pneumonia, apneia, temperatura alta ou baixa, mamada fraca, gemência, mudança de cor ou pouca responsividade deve ser avaliado imediatamente em hospital; não orientar observação domiciliar nem tratar como quadro crônico.",
+        "3a5m": "Lactentes pequenos podem piorar rapidamente. Observe mamadas, pausas respiratórias, retrações, gemência, cor, interação e fraldas; persistência ou retorno dos sintomas requer reavaliação precoce.",
+        "6a11m": "Recusa de mamadas, choro fraco, irritabilidade, sonolência, menor interação ou menos urina podem sinalizar piora mesmo sem que o bebê localize dor.",
+        "1a": "Um adulto deve supervisionar líquidos e medicamentos e observar se a criança deixa de brincar, alimentar-se ou respirar como de costume; mudança funcional é mais útil que o adjetivo crônico.",
+        "2a5": "Observe retrações, gemência, dor no peito ou barriga, ingestão, urina e disposição para brincar. Não peça para prender a tosse e não atribua recaída a uma evolução crônica sem avaliação.",
+        "6a11": "Pergunte sobre dor, falta de ar, cansaço ao falar ou caminhar, tontura e episódios anteriores. Retorno escolar e esportivo depende de recuperação e liberação da equipe.",
+        "12a17": "Inclua o adolescente no registro de sintomas e no plano de retorno, sem deixá-lo sozinho responsável. Evite cigarro e vape e não interrompa, prolongue ou reinicie antibiótico por melhora parcial ou pelo rótulo crônico.",
+        "unknown": "Confirmar idade, prematuridade, comorbidades, duração e padrão dos sintomas, internações, culturas, imagens, tratamento recebido, resposta e estado respiratório antes de individualizar. Sem esses dados, não validar cronicidade."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2908_1",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-in-infants-and-children/"
+        },
+        {
+          "id": "pais259_op2908_2",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2908_3",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2908_4",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903"
+        },
+        {
+          "id": "pais259_op2908_5",
+          "name": "Paediatric complicated pneumonia: Diagnosis and management of empyema",
+          "url": "https://cps.ca/en/documents/position/complicated-pneumonia-empyema"
+        },
+        {
+          "id": "pais259_op2908_6",
+          "name": "Primary staphylococcal pneumonia in young children: a review of 100 cases",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10467836/"
+        },
+        {
+          "id": "pais259_op2908_7",
+          "name": "Manejo de pneumonia e derrame pleural em crianças",
+          "url": "https://www.scielo.br/j/jbpneu/a/mJm3ZrMgPKBMvZMxCnsqbDs/?lang=pt"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2909",
+      "specific": false,
+      "key": "pdf1500_1095",
+      "label": "Pneumonia estafilocócica de origem infecciosa",
+      "entity": "Pneumonia pediátrica por Staphylococcus aureus, reconciliada ao núcleo publicado pdf1500_1091; o complemento ‘de origem infecciosa’ é redundante e não define subtipo, agente adicional, gravidade ou tratamento",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_REDUNDANT_INFECTIOUS_ORIGIN_QUALIFIER\",\"canonical_term\":\"Pneumonia por Staphylococcus aureus em criança ou adolescente\",\"normalized_entity\":\"Pneumonia estafilocócica\",\"qualifier\":\"de origem infecciosa\",\"assessment\":\"Pneumonia estafilocócica já significa pneumonia causada ou fortemente suspeita por Staphylococcus aureus, portanto já é uma doença infecciosa. A expressão adicional ‘de origem infecciosa’ repete a natureza da entidade e não é apresentada nas diretrizes consultadas como subtipo independente. Esta é uma inferência nosológica sustentada pelo uso oficial do termo ‘pneumonia estafilocócica’ e pela identificação de Staphylococcus aureus como causa de pneumonia complicada/empiema; o rótulo, isoladamente, não confirma cultura, sensibilidade, resistência, foco extrapulmonar ou gravidade.\",\"reconciliation\":{\"base_key\":\"pdf1500_1091\",\"base_label\":\"Pneumonia estafilocócica\",\"relationship\":\"SAME_CLINICAL_ENTITY_WITH_REDUNDANT_INFECTIOUS_QUALIFIER\",\"content_rule\":\"Preservar este ID e seu rótulo, reutilizar o núcleo clínico seguro já publicado para pdf1500_1091 e acrescentar apenas o aviso de que o qualificador não cria nova etiologia, gravidade ou conduta.\",\"additional_entity_count\":0},\"qualifier_does_not_establish\":[\"Confirmação microbiológica de Staphylococcus aureus\",\"Se a cepa é sensível ou resistente, inclusive MSSA ou MRSA\",\"Outro vírus, bactéria, fungo ou parasita além da entidade-base\",\"Bacteremia, sepse, infecção de pele, osteoarticular ou outro foco concomitante\",\"Derrame, empiema, abscesso, necrose pulmonar ou necessidade de procedimento\",\"Medicamento, via, dose, intervalo ou duração\",\"Segurança para permanecer em casa ou liberação de atividades\"],\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com diagnóstico ou suspeita de pneumonia estafilocócica. Neonatos, lactentes pequenos e qualquer criança com desconforto respiratório, hipoxemia conhecida, alteração de consciência, sinais de choque ou complicação exigem avaliação hospitalar; esta ficha não decide alta.\",\"evidence_boundary\":\"O conteúdo orienta segurança familiar e seguimento do plano recebido. Não confirma agente, resistência, complicação ou diagnóstico individual, não escolhe antimicrobiano e não substitui avaliação pediátrica, exames ou protocolo local.\",\"counting_rule\":\"Preservar pdf1500_1095 como resolução terminológica ligada a pdf1500_1091, contar zero entidade clínica adicional e não contabilizar o qualificador redundante como nova orientação específica.\",\"reason\":\"‘Estafilocócica’ já identifica etiologia infecciosa por Staphylococcus aureus; ‘de origem infecciosa’ não acrescenta uma variante clínica reconhecida nem informação suficiente para mudar risco ou tratamento.\",\"next_action\":\"Integrar como variante terminológica de pdf1500_1091, manter SOURCE_TERM_ISSUE e specific=false, e testar que a seleção por pdf1500_1095 gere o núcleo seguro da pneumonia estafilocócica com aviso de redundância, sem agente adicional, dose, esquema empírico ou alta automática.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pneumonia estafilocócica é uma infecção pulmonar por Staphylococcus aureus. O complemento ‘de origem infecciosa’ apenas repete essa informação: não indica outro microrganismo, não mede a gravidade e não define tratamento.",
+          "Ela pode evoluir com líquido ou pus ao redor do pulmão, abscesso ou destruição de parte do tecido pulmonar. Suspeita nova ou piora precisa de avaliação pediátrica no mesmo dia; esta ficha não serve para decidir permanecer em casa.",
+          "Se a equipe já autorizou cuidados em casa, observe respiração, cor dos lábios, estado de alerta, febre, dor no peito ou na barriga, aceitação de líquidos e quantidade de urina. Siga o plano escrito e antecipe o retorno diante de piora.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. A tosse pode demorar a desaparecer, mas febre, disposição e esforço para respirar devem melhorar conforme o prazo explicado pela equipe.",
+          "Retorno de febre, cansaço crescente ou nova dificuldade para respirar após aparente melhora não é motivo para apenas observar em casa; pode indicar falha do tratamento ou complicação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha a criança acompanhada e na posição em que respira melhor. Se houver falta de ar importante, não force que se deite e busque emergência.",
+          "Higienize as mãos antes e depois dos cuidados, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. O rótulo não define isolamento; siga as precauções orientadas pela equipe para o caso documentado.",
+          "Siga somente as orientações recebidas sobre curativo, dreno, acesso ou fisioterapia. Não manipule dispositivos e não faça tapotagem, nebulização caseira, aspiração profunda ou fisioterapia improvisada.",
+          "Anote temperatura, vômitos, ingestão de líquidos, urina e mudanças na respiração. Leve aos retornos o resumo do atendimento, culturas, exames e lista dos medicamentos prescritos.",
+          "Vacinas indicadas para a idade e ambiente sem fumaça ajudam a proteger a saúde respiratória, mas não tratam este episódio nem substituem reavaliação."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o antibiótico e os demais medicamentos prescritos para esta criança, exatamente conforme o plano recebido. Não use sobra, receita de outra pessoa ou medicamento iniciado por conta própria.",
+          "A escolha do tratamento depende de culturas, sensibilidade ou resistência do microrganismo, gravidade, alergias, idade e complicações. A expressão ‘de origem infecciosa’ não escolhe medicamento, via, dose, intervalo ou duração.",
+          "Não interrompa nem troque o tratamento porque houve melhora parcial. Se a criança vomitar o medicamento, não conseguir tomá-lo ou apresentar reação, procure orientação da equipe em vez de repetir ou dobrar por conta própria.",
+          "Não dê xarope para tosse, descongestionante, corticoide, anti-inflamatório, fitoterápico ou inalação sem confirmar com o profissional responsável.",
+          "Urticária, inchaço de face ou lábios, falta de ar, desmaio ou piora rápida após medicamento exige atendimento imediato."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver acordada, respirando confortavelmente e autorizada a alimentar-se, ofereça líquidos adequados à idade em pequenas quantidades e com frequência; mantenha leite materno quando possível.",
+          "Não force comida. Observe se consegue beber ou mamar e se continua urinando; boca seca, ausência de lágrimas, vômitos repetidos, pouca urina ou sonolência crescente exigem reavaliação.",
+          "Durante falta de ar importante, gemência, engasgo, lábios arroxeados ou redução da consciência, não ofereça alimento, líquido ou medicamento pela boca; procure emergência para reduzir risco de aspiração.",
+          "Se houver sonda ou restrição de líquidos, siga apenas o volume, a fórmula e a velocidade definidos pela equipe; não faça ajustes por conta própria."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil, costelas afundando, gemência, batimento de asas do nariz, pausas respiratórias, incapacidade de falar, beber ou mamar por falta de ar, ou lábios/rosto azulados ou acinzentados.",
+          "Criança muito sonolenta, difícil de acordar, confusa, desmaiada, com convulsão, pele fria ou manchada, extremidades frias, pouca resposta ou piora rápida.",
+          "Dor forte ou crescente no peito ou na barriga, tosse com sangue, falta de ar nova após aparente melhora ou assimetria respiratória já apontada pela equipe.",
+          "Febre que persiste ou retorna acompanhada de maior esforço respiratório, menor ingestão, cansaço crescente ou piora do estado geral, especialmente após início do tratamento.",
+          "Incapacidade de manter líquidos ou medicamento, vômitos repetidos, urina muito reduzida, boca muito seca ou sinais de desidratação.",
+          "Em recém-nascido ou lactente pequeno: temperatura anormal, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor, mesmo sem febre alta."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. Desconforto respiratório, alteração da cor, sonolência ou piora rápida exige pronto atendimento imediato.",
+          "Se a equipe autorizou tratamento fora do hospital, cumpra o retorno no prazo que ela definiu. Diretrizes gerais de pneumonia pediátrica recomendam revisão clínica precoce; não use um prazo genérico para adiar retorno se houver piora.",
+          "Reavalie antes do combinado se os sintomas não começarem a melhorar no prazo explicado, se a febre persistir ou voltar, ou se aumentar o esforço para respirar. Persistência de febre após tratamento adequado pode indicar derrame ou empiema.",
+          "Derrame, empiema, abscesso ou pneumonia necrosante podem exigir pneumologia, infectologia, cirurgia e exames de controle. Não falte aos retornos mesmo que a tosse tenha diminuído.",
+          "A volta à escola, esporte e esforço depende de ausência de febre, respiração confortável, energia em recuperação e liberação da equipe. O qualificador ‘de origem infecciosa’ não define sozinho tempo de afastamento ou contagiosidade."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente menor de 3 meses com suspeita de pneumonia, temperatura alta ou baixa, apneia, gemência, mamada fraca, pouca movimentação ou mudança de cor precisa de avaliação hospitalar imediata. Não orientar observação domiciliar, antimicrobiano, dose ou via por esta ficha.",
+        "3a5m": "Lactentes pequenos podem piorar rapidamente. Observe mamadas, pausas respiratórias, gemência, retrações, cor e fraldas molhadas e mantenha limiar baixo para atendimento urgente.",
+        "6a11m": "Choro fraco, irritabilidade, sonolência, recusa de mamadas, menos fraldas e menor interação podem indicar piora mesmo quando o bebê não localiza dor.",
+        "1a": "Um adulto deve supervisionar líquidos e medicamentos e observar se a criança deixa de brincar, respirar ou alimentar-se como de costume.",
+        "2a5": "Observe retrações, gemência, cansaço para falar ou beber, dor no peito ou barriga e quantidade de urina; não peça à criança para prender a tosse.",
+        "6a11": "Pergunte diretamente sobre dor no peito ou barriga, tontura e cansaço ao falar ou caminhar; escola e atividade física só devem voltar conforme recuperação e orientação da equipe.",
+        "12a17": "Inclua o adolescente no plano de horários e sinais de alarme sem transferir sozinho a responsabilidade. Evite vape e cigarro e não interrompa o tratamento por melhora parcial.",
+        "unknown": "Sem idade informada, aplique os alertas gerais e confirme idade, prematuridade, comorbidades, estado respiratório, exames e plano recebido antes de individualizar qualquer orientação."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2909_1",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903"
+        },
+        {
+          "id": "pais259_op2909_2",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-in-infants-and-children/"
+        },
+        {
+          "id": "pais259_op2909_3",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2909_4",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2909_5",
+          "name": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+          "url": "https://www.who.int/publications/i/item/9789240103412"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2910",
+      "specific": false,
+      "key": "pdf1500_1096",
+      "label": "Pneumonia estafilocócica grave",
+      "entity": "Pneumonia pediátrica causada ou fortemente suspeita por Staphylococcus aureus; gravidade a confirmar por dados clínicos, respiratórios, circulatórios e complicações, não pelo rótulo isolado",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNVERIFIED_SEVERITY_QUALIFIER\",\"canonical_term\":\"Pneumonia por Staphylococcus aureus em criança ou adolescente\",\"normalized_entity\":\"Pneumonia estafilocócica; gravidade a confirmar\",\"qualifier\":\"grave\",\"assessment\":\"'Grave' é um qualificador clínico possível, mas não um diagnóstico autossuficiente. Deve refletir comprometimento respiratório ou sistêmico, necessidade de suporte, deterioração ou complicação documentada. O nome cadastral sozinho não comprova essas condições.\",\"reconciliation\":{\"base_key\":\"pdf1500_1091\",\"base_label\":\"Pneumonia estafilocócica\",\"relationship\":\"SAME_CLINICAL_ENTITY_WITH_UNVERIFIED_SEVERITY_QUALIFIER\",\"content_rule\":\"Preservar este ID e rótulo, reutilizar o núcleo seguro publicado para pdf1500_1091 e acrescentar limites explícitos para confirmação de gravidade e ação urgente.\",\"additional_entity_count\":0},\"severity_supporting_domains\":[\"desconforto respiratório importante, esforço respiratório exaustivo, apneia ou falha respiratória\",\"hipoxemia conhecida ou necessidade de suporte respiratório\",\"alteração de consciência, convulsão, exaustão, pouca resposta ou deterioração rápida\",\"sinais de sepse, choque ou perfusão inadequada\",\"incapacidade de beber ou mamar e desidratação clinicamente relevante\",\"derrame parapneumônico complicado, empiema, abscesso, pneumonia necrosante ou fístula broncopleural\",\"piora clínica ou ausência de melhora acompanhada de sinais respiratórios, sistêmicos ou nova complicação\"],\"qualifier_does_not_establish\":[\"Confirmação microbiológica de Staphylococcus aureus\",\"Sensibilidade ou resistência do microrganismo\",\"Hipoxemia, sepse, choque ou insuficiência respiratória sem avaliação\",\"Derrame, empiema, abscesso, necrose pulmonar ou bacteremia sem exame\",\"Necessidade de unidade intensiva, procedimento ou suporte específico\",\"Medicamento, via, dose, intervalo ou duração\",\"Segurança para cuidado domiciliar, retorno à escola ou encerramento do acompanhamento\"],\"neonatal_boundary\":\"Recém-nascidos e lactentes pequenos podem apresentar apneia, temperatura anormal, mamada fraca, gemência, pouca movimentação ou mudança de cor sem sinais típicos. Suspeita de pneumonia ou infecção bacteriana grave nessa faixa exige avaliação hospitalar.\",\"complication_boundary\":\"Pneumonia estafilocócica pode complicar com acometimento pleural ou destruição pulmonar, mas o agente ou o adjetivo não comprovam a complicação. Persistência ou retorno de febre com piora respiratória, dor, hemoptise ou deterioração requer reavaliação.\",\"treatment_boundary\":\"O qualificador não escolhe antimicrobiano, combinação, dose, via, duração, oxigênio, fluido, drenagem ou cirurgia. Essas decisões dependem de avaliação, microbiologia, resistência local, idade, alergias e complicações.\",\"care_setting_boundary\":\"Esta ficha não decide segurança para permanecer em casa nem encerramento do cuidado hospitalar. Suspeita atual de gravidade exige atendimento imediato; cuidado fora do hospital só segue plano individual explícito da equipe.\",\"counting_rule\":\"Zero entidade adicional; reconciliar com pdf1500_1091 e manter 'grave' como qualificador condicional, documentado por dados clínicos ou complicações.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pneumonia estafilocócica é uma infecção pulmonar por Staphylococcus aureus. A palavra 'grave' só é válida quando há sinais clínicos, comprometimento respiratório ou circulatório, deterioração ou complicações documentadas; o nome no cadastro não prova nem exclui gravidade.",
+          "Se a criança apresenta agora falta de ar, lábios arroxeados, apneia, sonolência incomum, dificuldade para acordar, extremidades frias, pouca urina, incapacidade de beber ou piora rápida, procure emergência imediatamente. Esta ficha não serve para decidir observação em casa.",
+          "Cuidados fora do hospital só se aplicam quando a equipe que avaliou a criança forneceu um plano individual. Observe respiração, cor, alerta, febre, dor no peito ou barriga, ingestão, vômitos e urina e siga os contatos e retornos desse plano.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. Não deixe a criança sozinha durante fase de recuperação ou se houver risco de piora.",
+          "A tosse pode persistir, mas retorno da febre, cansaço crescente, nova dor, redução da ingestão ou maior esforço para respirar após aparente melhora exige reavaliação; não atribua automaticamente à recuperação normal.",
+          "Não use o rótulo 'grave' para escolher tratamento, prolongar repouso indefinidamente ou liberar escola e esporte. Essas decisões dependem da evolução real e da equipe assistente."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha a criança na posição em que respira melhor e evite manuseio desnecessário durante desconforto. Não force que se deite nem faça esforço para caminhar.",
+          "Higienize as mãos antes e depois dos cuidados, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Siga somente as precauções orientadas para o caso documentado.",
+          "Siga exatamente as instruções sobre curativo, dreno, acesso, exercícios ou fisioterapia. Não manipule dispositivos e não faça tapotagem, aspiração profunda, nebulização caseira ou fisioterapia improvisada.",
+          "Anote mudanças na respiração, temperatura, vômitos, ingestão, urina, dor e nível de atividade. Leve resumo do atendimento, culturas, exames e lista dos medicamentos prescritos aos retornos.",
+          "Não solicite imagem repetida por conta própria. A necessidade de radiografia, ultrassom ou outro exame depende de deterioração, falta de melhora, suspeita de derrame ou outra complicação.",
+          "Vacinas indicadas para a idade e ambiente sem fumaça protegem a saúde respiratória, mas não tratam este episódio nem substituem atendimento diante de sinais de gravidade."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o antimicrobiano e os demais medicamentos prescritos para esta criança, exatamente conforme o plano recebido. Não use sobra, receita de outra pessoa ou tratamento iniciado por conta própria.",
+          "A escolha depende de confirmação ou suspeita do agente, sensibilidade ou resistência, gravidade real, alergias, idade, comorbidades e complicações. O adjetivo 'grave' não define medicamento, via, dose, intervalo ou duração.",
+          "Não interrompa, troque, associe ou prolongue o tratamento porque houve melhora parcial, febre ou tosse persistente. Procure a equipe para reavaliar resposta e complicações.",
+          "Se a criança vomitar o medicamento, não conseguir tomá-lo ou perder uma administração, não repita nem dobre por conta própria; confirme a orientação com o serviço responsável.",
+          "Não dê xarope para tosse, descongestionante, corticoide, anti-inflamatório, fitoterápico ou inalação sem orientação individual.",
+          "Urticária disseminada, inchaço de face ou língua, falta de ar, desmaio ou piora rápida após medicamento exige atendimento imediato."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver acordada, respirando confortavelmente e autorizada a alimentar-se, ofereça líquidos apropriados à idade em pequenas quantidades e com frequência; mantenha leite materno quando possível.",
+          "Não force comida. Observe se consegue beber ou mamar e se continua urinando; boca seca, ausência de lágrimas, vômitos repetidos, pouca urina ou sonolência crescente exige reavaliação.",
+          "Durante falta de ar importante, gemência, engasgo, lábios arroxeados, exaustão ou redução da consciência, não ofereça alimento, líquido ou medicamento pela boca; procure emergência para reduzir risco de aspiração.",
+          "Se houver sonda ou orientação de restrição de líquidos, siga apenas o volume, fórmula e velocidade definidos pela equipe; não ajuste por conta própria.",
+          "Incapacidade de manter líquidos ou medicamentos, especialmente junto com respiração pior, febre, prostração ou pouca urina, requer avaliação urgente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil, costelas afundando, gemência, batimento de asas do nariz, esforço exaustivo, pausas respiratórias, incapacidade de falar, beber ou mamar por falta de ar, ou lábios/rosto azulados ou acinzentados.",
+          "Criança muito sonolenta, difícil de acordar, confusa, desmaiada, com convulsão, pouca resposta, piora rápida ou aparência de estar gravemente doente.",
+          "Pele fria ou manchada, extremidades frias, pulso muito fraco percebido pela equipe/família treinada, pouca urina ou fraqueza intensa, por possível comprometimento circulatório ou sepse.",
+          "Dor forte ou crescente no peito ou na barriga, tosse com sangue, falta de ar nova após aparente melhora ou redução importante do movimento respiratório de um lado já percebida pela equipe.",
+          "Febre persistente ou que retorna acompanhada de maior esforço respiratório, cansaço crescente, menor ingestão, vômitos repetidos ou piora do estado geral, especialmente durante tratamento.",
+          "Incapacidade de manter líquidos ou medicamento, urina muito reduzida, boca muito seca ou sonolência progressiva.",
+          "Em recém-nascido ou lactente pequeno: temperatura alta ou baixa, recusa de mamadas, apneia, gemência, pouca movimentação, irritabilidade inconsolável ou mudança de cor, mesmo sem febre típica.",
+          "Piora súbita após manipulação ou saída de dreno/acesso, sangramento importante, curativo encharcado, dor intensa ou dificuldade respiratória nova."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. Se houver qualquer sinal de gravidade desta ficha, procure emergência imediatamente.",
+          "Cumpra o retorno definido pela equipe e antecipe-o diante de piora. Não use prazo genérico, melhora parcial ou o rótulo do cadastro para adiar reavaliação.",
+          "Se febre, respiração, disposição, ingestão ou dor não evoluírem conforme o prazo explicado pela equipe, é necessário reexaminar a criança e revisar resposta, diagnóstico e complicações.",
+          "Derrame, empiema, abscesso, pneumonia necrosante ou fístula podem exigir avaliação por pediatria, infectologia, pneumologia, cirurgia e exames de controle. O label não confirma nem exclui essas complicações.",
+          "Depois de dreno ou procedimento, siga os retornos e cuidados do serviço e procure antes do combinado por falta de ar, sangramento, saída do dispositivo, dor crescente, febre com piora geral ou alteração do curativo.",
+          "Escola, esporte e esforço só devem ser retomados quando a respiração, a energia e a alimentação estiverem recuperando-se e a equipe orientar. Esta ficha não gera encerramento de seguimento.",
+          "Na integração, resolver pdf1500_1096 para o núcleo publicado pdf1500_1091, preservar o label e manter contagens zero até que gravidade seja sustentada por dados clínicos ou complicações documentadas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente menor de três meses com suspeita de pneumonia, temperatura alta ou baixa, apneia, gemência, mamada fraca, pouca movimentação ou mudança de cor precisa de avaliação hospitalar imediata. Não orientar observação domiciliar ou dose por esta ficha.",
+        "3a5m": "Lactentes pequenos podem piorar rapidamente. Observe mamadas, respiração, gemência, retrações, cor, interação e fraldas e procure atendimento urgente diante de qualquer deterioração.",
+        "6a11m": "Choro fraco, irritabilidade, sonolência, menor interação, recusa de mamadas, vômitos ou menos fraldas podem indicar gravidade mesmo sem a criança localizar dor.",
+        "1a": "Um adulto deve supervisionar líquidos e medicamentos e observar se a criança deixa de brincar, respirar, interagir ou alimentar-se como de costume.",
+        "2a5": "Observe cansaço para falar ou beber, costelas afundando, gemência, dor no peito ou barriga e quantidade de urina. Não peça à criança para prender a tosse ou fazer esforço.",
+        "6a11": "Pergunte diretamente sobre dor no peito ou barriga, tontura, cansaço ao falar ou caminhar e tosse com sangue. Escola e atividade física dependem da recuperação e da orientação da equipe.",
+        "12a17": "Inclua o adolescente no plano e nos sinais de alarme sem transferir sozinho a responsabilidade. Evite vape e cigarro e não interrompa ou ajuste o tratamento por melhora parcial.",
+        "unknown": "Sem idade e dados clínicos, não confirmar nem negar gravidade, escolher tratamento ou decidir local de cuidado. Aplicar os alertas gerais e obter avaliação pediátrica."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2910_1",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903"
+        },
+        {
+          "id": "pais259_op2910_2",
+          "name": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+          "url": "https://www.who.int/publications/i/item/9789240103412"
+        },
+        {
+          "id": "pais259_op2910_3",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-in-infants-and-children/"
+        },
+        {
+          "id": "pais259_op2910_4",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2910_5",
+          "name": "Clinical Practice Guidelines: Assessment of severity of respiratory conditions",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Assessment_of_severity_of_respiratory_conditions/"
+        },
+        {
+          "id": "pais259_op2910_6",
+          "name": "Paediatric complicated pneumonia: Diagnosis and management of empyema",
+          "url": "https://cps.ca/en/documents/position/complicated-pneumonia-empyema"
+        },
+        {
+          "id": "pais259_op2910_7",
+          "name": "Management of pneumonia and pleural effusion in children",
+          "url": "https://www.scielo.br/j/jbpneu/a/mJm3ZrMgPKBMvZMxCnsqbDs/?lang=pt"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2911",
+      "specific": false,
+      "key": "pdf1500_1097",
+      "label": "Pneumonia estafilocócica idiopático",
+      "entity": "Pneumonia pediátrica atribuída ou fortemente suspeita ao gênero Staphylococcus, reconciliada ao núcleo pdf1500_1091; o qualificador ‘idiopático’ é etiologicamente contraditório, não define subtipo e não confirma o agente",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_ETIOLOGICALLY_CONTRADICTORY_IDIOPATHIC_QUALIFIER\",\"canonical_term\":\"Pneumonia estafilocócica\",\"canonical_core_key\":\"pdf1500_1091\",\"canonical_core_label\":\"Pneumonia estafilocócica\",\"canonical_core_job\":\"OP-14\",\"alias_of_core\":true,\"additional_entity_count\":0,\"assessment\":\"O núcleo é válido: pneumonia associada a Staphylococcus pode ser grave e complicar com derrame parapneumônico, empiema, abscesso ou pneumonia necrosante. Entretanto, o agente não é determinado por febre, tosse, imagem ou marcador inflamatório isolados; a atribuição depende do contexto clínico, microbiologia quando disponível e julgamento da equipe. ‘Idiopático’ significa causa desconhecida e, portanto, contradiz a atribuição ‘estafilocócica’. O label pode refletir geração cadastral automática, não um fenótipo reconhecido.\",\"language_assessment\":\"A forma gramatical seria ‘pneumonia estafilocócica idiopática’, mas essa correção continua semanticamente incoerente: estafilocócica especifica causa, enquanto idiopática nega causa conhecida. Preservar o texto bruto somente para rastreabilidade.\",\"etiology_boundary\":\"Colonização de pele ou nariz, ferida cutânea, cultura de outro sítio, quadro pós-viral, empiema, necrose ou gravidade não comprovam por si sós que a pneumonia foi causada por Staphylococcus. Do mesmo modo, cultura negativa não torna automaticamente a pneumonia ‘idiopática’. A equipe deve documentar nível de certeza e material coletado.\",\"documentation_required\":[\"idade, prematuridade, início e evolução dos sintomas\",\"contexto comunitário, hospitalar, pós-operatório, ventilação ou dispositivo quando pertinente\",\"exame respiratório, oxigenação, perfusão, estado mental e hidratação\",\"imagem e presença ou ausência de derrame, empiema, cavitação, abscesso ou necrose\",\"culturas, método molecular ou outros resultados, com sítio e data da coleta\",\"se Staphylococcus foi confirmado, suspeitado ou apenas listado no diagnóstico diferencial\",\"espécie e sensibilidade somente quando realmente documentadas; não presumir MSSA ou MRSA\",\"tratamentos já recebidos, alergias, resposta clínica e plano da equipe\"],\"not_automatically_equivalent_to\":[\"Staphylococcus aureus confirmado\",\"MSSA, MRSA ou padrão de sensibilidade conhecido\",\"pneumonia sem causa identificada\",\"pneumonia comunitária viral ou bacteriana de outro agente\",\"pneumonia grave, bilateral, necrosante ou com insuficiência respiratória\",\"derrame parapneumônico, empiema, abscesso, pneumotórax, bacteremia, sepse ou choque\",\"infecção disseminada a partir de pele ou osso\",\"necessidade universal de internação, UTI, oxigênio, drenagem ou cirurgia\",\"um antibiótico, dose, via, intervalo ou duração específicos\",\"alta, observação domiciliar ou retorno escolar seguro\",\"nova entidade clínica além do núcleo pdf1500_1091\"],\"canonical_reconciliation\":{\"relationship\":\"SAME_BASE_ENTITY_WITH_CONTRADICTORY_UNKNOWN_CAUSE_QUALIFIER\",\"decision\":\"Reutilizar o núcleo pdf1500_1091 para conteúdo de segurança, sem incorporar ‘idiopático’ como subtipo, prognóstico ou modificador terapêutico.\",\"if_staphylococcal_attribution_is_documented\":\"Registrar pneumonia estafilocócica com o nível de certeza e resultados disponíveis; remover ‘idiopático’.\",\"if_etiology_is_unknown\":\"Não afirmar estafilococo; selecionar o núcleo de pneumonia adequado ao quadro, sem inventar outro agente.\",\"if_records_are_insufficient\":\"Manter SOURCE_TERM_ISSUE e solicitar reconciliação; não escolher entre as duas alternativas pelo label.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_1091\"},\"counting_rule\":\"Contar zero entidade clínica adicional. pdf1500_1097 é uma resolução terminológica/alias do núcleo pdf1500_1091 e não deve aumentar a cobertura, criar subtipo idiopático nem duplicar pneumonia estafilocócica.\",\"treatment_boundary\":\"O rótulo não informa se há Staphylococcus verdadeiro, espécie, resistência, gravidade ou complicação. Nenhum antibiótico, associação, via, duração, drenagem ou suporte pode ser selecionado por ele.\",\"pediatric_scope\":\"Inclui toda a pediatria, com limiar especialmente baixo para avaliação hospitalar em recém-nascidos e pequenos lactentes, imunocomprometidos, crianças com doença cardiopulmonar ou sinais de insuficiência respiratória, sepse ou complicação.\",\"urgency_rule\":\"A urgência é definida pela criança e pelo quadro atual, nunca por ‘idiopático’. Apneia, cianose, esforço respiratório, alteração mental, perfusão ruim, incapacidade de beber, dor torácica importante ou piora rápida exigem atendimento imediato.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome do cadastro é contraditório: ‘estafilocócica’ indica causa bacteriana atribuída; ‘idiopático’ indica causa desconhecida. Confirme no laudo ou resumo se Staphylococcus foi confirmado, suspeitado pela equipe ou apenas considerado. Não use o rótulo para escolher tratamento.",
+          "Suspeita nova de pneumonia estafilocócica precisa de avaliação pediátrica no mesmo dia, porque pode evoluir com líquido ou pus ao redor do pulmão, abscesso ou lesão do tecido pulmonar. Esta ficha não autoriza observar em casa antes da avaliação.",
+          "Cuidados domiciliares só se aplicam depois de decisão real da equipe e com plano escrito. Observe respiração em repouso, cor dos lábios, estado de alerta, febre, dor no peito ou barriga, ingestão de líquidos e urina.",
+          "Mantenha a criança acompanhada, em repouso relativo e longe de fumaça, vape, incenso e aerossóis irritantes. Não force atividade, escola ou esporte enquanto houver febre, falta de ar, dor ou prostração.",
+          "A tosse pode persistir durante a recuperação, mas respiração, febre e disposição devem seguir o curso explicado pela equipe. Piora rápida, febre que retorna ou maior esforço respiratório exige reavaliação sem esperar o retorno marcado.",
+          "Não presuma que ferida de pele, furúnculo, colonização nasal ou contato com alguém com estafilococo prove a causa da pneumonia; informe esses dados à equipe para interpretação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha a criança em posição confortável. Durante falta de ar importante, não a force a deitar, caminhar, fazer exercício respiratório ou falar.",
+          "Siga somente orientações hospitalares para curativo, dreno, fisioterapia ou exercícios. Não manipule dreno/acesso, não faça tapotagem, vapor quente, nebulização caseira ou aspiração improvisada.",
+          "Higienize as mãos, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Mantenha feridas limpas e cobertas conforme orientação, mas não faça descolonização de toda a família por conta própria.",
+          "Anote febre, vômitos, ingestão, urina, piora da respiração e horários do que foi realmente prescrito. Leve resumo de internação, imagens, culturas com o sítio de coleta e lista de alergias aos retornos.",
+          "Não use oxímetro doméstico, aparência da secreção ou frequência respiratória isolada para confirmar estafilococo, excluir gravidade ou decidir alta. Se o sensor não combina com a criança, priorize a avaliação clínica.",
+          "Prevenção, afastamento escolar e cuidado de contatos dependem do diagnóstico atual, de infecções associadas e do plano da equipe; ‘idiopático’ não cria regra própria."
+        ],
+        "MEDICAMENTOS": [
+          "O cadastro não escolhe antibiótico. A decisão depende de idade, local de aquisição, gravidade, culturas, sensibilidade, alergias, complicações e epidemiologia local; esta ficha não fornece medicamento, dose, via, intervalo ou duração.",
+          "Se houve prescrição individual, dê somente os produtos da lista vigente e siga exatamente o plano recebido. Não interrompa por melhora parcial, não dobre dose esquecida e não use sobra ou receita de outra pessoa.",
+          "Não trate ‘idiopático’ como permissão para experimentar antibiótico amplo, combinar medicamentos ou trocar o esquema. Também não presuma MSSA ou MRSA sem documentação.",
+          "Use antitérmico ou analgésico apenas se já foi orientado para esta criança. Não acrescente xarope, descongestionante, corticoide, anti-inflamatório, fitoterápico ou produto para nebulização por conta própria.",
+          "Vômitos que impedem o medicamento, urticária extensa, diarreia intensa, pouca urina ou outro efeito preocupante exige contato imediato com a equipe; falta de ar, inchaço de face/língua, desmaio ou baixa resposta exige emergência.",
+          "Drenagem, cirurgia, oxigênio e outros suportes não são decididos pelo rótulo e não devem ser iniciados, ajustados ou interrompidos em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver respirando confortavelmente, desperta e autorizada a alimentar-se, ofereça líquidos em pequenas quantidades e com frequência; mantenha aleitamento quando o bebê consegue mamar sem cansaço, falta de ar ou engasgo.",
+          "Não force comida. Ofereça porções menores e habituais conforme tolerância; a prioridade durante doença aguda é conseguir hidratar com segurança.",
+          "Procure avaliação sem demora se não consegue beber/mamar, vomita repetidamente, apresenta boca seca, não produz lágrimas, urina bem menos ou fica progressivamente sonolenta.",
+          "Durante falta de ar importante, gemência, engasgo, cianose ou redução da consciência, não ofereça alimento, líquido ou medicamento pela boca; acione atendimento.",
+          "Se recebeu orientação de sonda, fórmula especial ou restrição de líquidos, siga somente o plano individual e não altere volume, concentração ou velocidade.",
+          "Chás, suplementos e dietas não identificam o agente, não tratam pneumonia e não substituem antibiótico ou suporte quando indicados."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver respiração muito difícil, pausas respiratórias, gemência intensa, costelas afundando, lábios ou rosto azulados/cinzentos, incapacidade de falar/mamar/beber por falta de ar ou piora rápida.",
+          "Procure emergência por dificuldade para acordar, confusão, desmaio, convulsão, criança muito mole, pele fria/manchada, extremidades frias, palidez intensa ou aparência de estar gravemente doente.",
+          "Dor forte ou crescente no peito ou barriga, tosse com sangue, falta de ar nova após aparente melhora ou movimento desigual do tórax exige avaliação urgente por possível complicação.",
+          "Febre que persiste ou retorna junto com maior esforço respiratório, prostração, menor ingestão ou menos urina exige reavaliação hospitalar; não espere o retorno programado nem troque antibiótico sozinho.",
+          "Recém-nascido ou pequeno lactente com febre ou temperatura baixa, apneia, gemência, mamada fraca, pouca movimentação, mudança de cor ou respiração diferente precisa de avaliação hospitalar imediata.",
+          "Imunocomprometimento, doença cardíaca/pulmonar importante, dispositivo invasivo ou pós-operatório com sinais de pneumonia reduz o limiar para atendimento urgente; o termo ‘idiopático’ não reduz o risco."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para a suspeita atual, procure atendimento no mesmo dia. O rótulo não determina agente, gravidade nem segurança para permanência em casa.",
+          "Peça que o documento registre separadamente: pneumonia, agente confirmado/suspeito, material e data da coleta, espécie/sensibilidade se disponíveis, complicações e plano. Não mantenha ‘estafilocócica idiopática’ como diagnóstico final.",
+          "Após decisão ambulatorial real, cumpra a revisão escrita pela equipe; diretrizes de pneumonia comunitária recomendam revisão clínica em 24 a 48 horas. Procure antes se houver piora.",
+          "Febre persistente após cerca de 48 horas de tratamento apropriado, maior esforço respiratório ou ausência de melhora no prazo explicado exige reavaliação por derrame, empiema, abscesso, necrose, agente/resistência diferente ou outro diagnóstico.",
+          "Após internação ou pneumonia complicada, cumpra retornos com pediatria, infectologia, pneumologia e cirurgia conforme indicado. Exames de controle e retorno à atividade dependem da evolução, não do adjetivo ‘idiopático’.",
+          "Volta à escola e ao esporte exige ausência de febre, respiração confortável, ingestão adequada, energia em recuperação e liberação da equipe; esta ficha não concede alta."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido e lactente menor de 3 meses com suspeita de pneumonia, febre/hipotermia, apneia, gemência, mamada fraca, pouca movimentação ou respiração diferente precisa de avaliação hospitalar imediata. Não aplicar orientação domiciliar, agente ou esquema deste label.",
+        "3a5m": "Lactente pequeno pode piorar rapidamente e mostrar apenas recusa, irritabilidade, sonolência, retrações ou menos fraldas. Avaliação precoce; não usar ‘idiopático’ para tranquilizar ou adiar retorno.",
+        "6a11m": "Observe pausas nas mamadas, asa nasal, retrações, gemência, vômitos, interação e urina. Choro fraco ou recusa pode indicar piora mesmo sem localização de dor.",
+        "1a": "Um adulto deve supervisionar líquidos e medicamentos prescritos e observar se a criança deixa de brincar, falar/chorar, beber ou respirar como de costume; não transfira decisões ao rótulo.",
+        "2a5": "Pergunte sobre dor no peito ou barriga e observe cansaço ao falar/brincar, retrações e urina. Não enviar à escola com febre, falta de ar, prostração ou sem liberação.",
+        "6a11": "Pergunte diretamente sobre dor ao respirar, falta de ar, tontura e cansaço ao caminhar. Retorno à atividade é gradual e depende da equipe, não de um qualificador idiopático.",
+        "12a17": "Inclua o adolescente no plano e nos sinais de alarme sem deixá-lo responsável sozinho. Evitar vape/cigarro, treino intenso, compartilhamento de antibiótico e interrupção por melhora parcial.",
+        "unknown": "Sem idade, exame, oxigenação, imagem, culturas, comorbidades e tratamento atual, não confirmar estafilococo, não declarar causa desconhecida e não orientar alta ou medicamento; manter alarmes e avaliação pediátrica."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2911_1",
+          "name": "Definition of idiopathic",
+          "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/idiopathic"
+        },
+        {
+          "id": "pais259_op2911_2",
+          "name": "Staphylococcus aureus Basics",
+          "url": "https://www.cdc.gov/staphylococcus-aureus/about/"
+        },
+        {
+          "id": "pais259_op2911_3",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Community_acquired_pneumonia/"
+        },
+        {
+          "id": "pais259_op2911_4",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2911_5",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-in-infants-and-children/"
+        },
+        {
+          "id": "pais259_op2911_6",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903/"
+        },
+        {
+          "id": "pais259_op2911_7",
+          "name": "Serviço de Atendimento Móvel de Urgência — SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2912",
+      "specific": false,
+      "key": "pdf1500_1098",
+      "label": "Pneumonia estafilocócica induzido por medicamentos",
+      "entity": "Pneumonia pediátrica por Staphylococcus, em geral Staphylococcus aureus; o qualificador ‘induzido por medicamentos’ não comprova causalidade e não constitui subtipo infeccioso autônomo.",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNSUPPORTED_DRUG_CAUSAL_QUALIFIER_AND_GRAMMATICAL_MISMATCH\",\"canonical_term\":\"Pneumonia estafilocócica\",\"canonical_core_key\":\"pdf1500_1091\",\"canonical_core_label\":\"Pneumonia estafilocócica\",\"alias_of_core\":true,\"additional_entity_count\":0,\"assessment\":\"O núcleo é válido: pneumonia estafilocócica é uma infecção do pulmão causada por bactérias do gênero Staphylococcus, geralmente Staphylococcus aureus. Medicamentos podem causar doença pulmonar não infecciosa ou aumentar susceptibilidade a infecções em contextos específicos, mas essas relações são diferentes e exigem exposição, cronologia, fenótipo pulmonar, exclusão de causas alternativas e avaliação especializada. O label não informa qual medicamento, dose, data, reação, mecanismo, cultura ou evidência de nexo. Portanto, não se pode imputar que um medicamento causou a pneumonia, suspender tratamento ou escolher terapia a partir do rótulo. A forma ‘induzido’ também não concorda com o substantivo feminino pneumonia, reforçando tratar o sufixo como artefato cadastral.\",\"scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com suspeita ou confirmação de pneumonia estafilocócica. O cadastro não distingue pneumonia infecciosa, lesão pulmonar induzida por medicamento, reação alérgica, imunossupressão associada a tratamento ou coincidência temporal.\",\"not_automatically_equivalent_to\":[\"doença pulmonar intersticial, pneumonite, edema pulmonar ou reação alérgica induzidos por medicamento\",\"imunossupressão medicamentosa como causa comprovada da infecção\",\"reação adversa, alergia ou intoxicação por qualquer produto específico\",\"Staphylococcus aureus confirmado, MSSA, MRSA ou padrão de sensibilidade conhecido\",\"pneumonia grave, empiema, abscesso, necrose pulmonar, sepse ou choque\",\"indicação de suspender, reiniciar, substituir ou repetir qualquer medicamento\",\"um antibiótico, dose, via, intervalo ou duração específicos\",\"alta ou segurança para observação domiciliar\"],\"counting_rule\":\"Não contar como nova entidade clínica específica. Contar somente uma resolução terminológica ligada ao núcleo pdf1500_1091; preservar a key pdf1500_1098 e o label exato como alias cadastral, sem registrar evento adverso medicamentoso não demonstrado.\",\"pediatric_scope\":\"Doença pulmonar por medicamento é rara em crianças e pode ter múltiplos padrões; pneumonia bacteriana e toxicidade pulmonar podem se parecer ou coexistir. A diferenciação não pode ser feita pelo nome do cadastro nem pelos familiares em casa.\",\"reason_for_source_term_issue\":\"O qualificador causal é incompatível com a definição etiológica isolada de pneumonia estafilocócica e carece de medicamento, cronologia, fenótipo e exclusão de causas alternativas; há também discordância gramatical.\",\"next_action\":\"Integrar por alias ao conteúdo publicado de pdf1500_1091. Se houver suspeita real de reação medicamentosa, registrar separadamente produto, apresentação, dose prescrita e efetivamente administrada, datas, sintomas, exames, dechallenge/rechallenge não intencional, alternativas diagnósticas e parecer da equipe, sem provocar nova exposição.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pneumonia estafilocócica é uma infecção do pulmão por bactérias do gênero Staphylococcus, geralmente Staphylococcus aureus. O trecho ‘induzido por medicamentos’ no cadastro não prova que um remédio causou a doença.",
+          "Se o diagnóstico é novo, ainda não foi avaliado ou a criança está piorando, procure avaliação pediátrica no mesmo dia. Cuidados em casa só se aplicam depois de avaliação e alta com plano escrito; esta ficha não decide se a criança pode permanecer em casa.",
+          "Depois da alta, observe respiração, cor dos lábios e da pele, estado de alerta, febre, dor no peito ou barriga, aceitação de líquidos e quantidade de urina. Compare com o padrão e o prazo de melhora explicados pela equipe.",
+          "Anote todos os medicamentos usados antes e durante o quadro, inclusive produtos sem receita, suplementos e fitoterápicos, com horário da última dose e início dos sintomas. Uma sequência no tempo ajuda a investigação, mas não confirma causalidade.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. Retorno à escola e ao esforço físico depende da recuperação e da liberação recebida."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Leve à consulta as embalagens, receitas e fotos legíveis dos rótulos. Não misture produtos em outro frasco e não descarte o medicamento suspeito antes de a equipe registrar nome, apresentação, lote e validade, salvo orientação do serviço.",
+          "Não teste causalidade administrando novamente um produto por conta própria. Uma reexposição pode ser perigosa e só pode ser considerada pela equipe em circunstâncias controladas.",
+          "Higienize as mãos antes e depois de cuidar da criança, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Feridas de pele devem permanecer limpas e cobertas conforme orientação.",
+          "Siga exatamente as orientações recebidas para curativo, dreno, fisioterapia ou exercícios. Não manipule dreno ou acesso e não faça tapotagem, nebulização ou fisioterapia improvisada.",
+          "Anote temperatura, respiração, ingestão, urina, vômitos e horários dos medicamentos prescritos. Leve resumo de alta, culturas e exames aos retornos."
+        ],
+        "MEDICAMENTOS": [
+          "O label não autoriza suspender, reiniciar, trocar ou reduzir um medicamento. Confirme com o prescritor o que fazer com a próxima dose se houver suspeita de reação; em sinais de emergência, priorize o atendimento imediato e leve a lista de produtos.",
+          "Dê somente os medicamentos prescritos no plano vigente para esta criança. Não use sobra, receita de outra pessoa ou antibiótico por conta própria.",
+          "A escolha do tratamento da pneumonia depende de culturas, sensibilidade, idade, gravidade, origem, alergias e complicações. Esta ficha não define fármaco, dose, concentração, volume, via, intervalo ou duração.",
+          "Não interrompa, prolongue, troque ou dobre o tratamento por melhora parcial, dose esquecida ou resultado de exame sem falar com a equipe. Peça orientação se vômitos impedirem o uso.",
+          "Urticária com falta de ar, inchaço de boca ou língua, voz diferente, desmaio ou piora rápida após um produto exige emergência. Outros efeitos preocupantes também precisam de orientação, sem concluir sozinho que o medicamento causou a pneumonia."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver acordada, respirando confortavelmente e liberada para alimentar-se, ofereça líquidos em pequenas quantidades e com frequência; mantenha leite materno e alimentação adequada à idade conforme tolerância.",
+          "Não force comida. Incapacidade de beber ou mamar, vômitos repetidos, boca seca, ausência de lágrimas, pouca urina ou sonolência crescente exigem reavaliação.",
+          "Durante falta de ar importante, gemência, engasgo, inchaço de boca ou redução da consciência, não ofereça alimentos, líquidos ou medicamentos pela boca; acione a emergência e siga as orientações do atendente.",
+          "Se houver sonda, restrição de líquidos ou plano nutricional hospitalar, não altere volume, fórmula, velocidade ou oferta de água por conta própria."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o serviço de emergência se houver dificuldade intensa para respirar, pausas respiratórias, gemência importante, costelas afundando muito, lábios ou rosto arroxeados, desmaio, convulsão ou dificuldade para acordar.",
+          "Após medicamento, urticária acompanhada de falta de ar, chiado súbito, inchaço de boca ou língua, voz rouca, desmaio ou piora rápida exige emergência; leve a embalagem, mas não atrase a saída para procurá-la.",
+          "Procure emergência imediatamente se a criança estiver confusa, muito prostrada, com pele fria ou manchada, extremidades frias, urina muito reduzida ou aparência de estar gravemente doente; esses sinais podem acompanhar sepse ou choque.",
+          "Dor forte ou crescente no peito ou barriga, tosse com sangue, falta de ar nova ou pior depois de aparente melhora, ou piora rápida exigem avaliação hospitalar por possível complicação.",
+          "Febre que persiste ou retorna com maior esforço respiratório, cansaço crescente ou piora do estado geral exige reavaliação sem esperar o retorno; derrame, empiema, abscesso e pneumonia necrosante precisam de avaliação própria.",
+          "Em recém-nascido ou bebê pequeno, febre ou temperatura baixa, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor exigem avaliação hospitalar imediata, mesmo sem febre alta."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para a suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. O sufixo do cadastro não permite diagnosticar reação medicamentosa nem estimar segurança em casa.",
+          "Após alta, cumpra o retorno no prazo escrito. Volte antes se houver piora, se a melhora não começar no prazo explicado ou se febre e esforço respiratório persistirem ou retornarem.",
+          "Se a equipe suspeitar de lesão pulmonar por medicamento, o seguimento deve reconstruir exposição e cronologia e excluir infecção e outras causas. Não faça reexposição para ‘confirmar’ e não marque alergia definitiva sem avaliação.",
+          "Peça que a equipe registre separadamente o diagnóstico infeccioso, o agente confirmado ou suspeito, culturas, resistência, complicações e eventual reação adversa. O label mistura conceitos e não substitui essa documentação.",
+          "Pneumonia complicada pode exigir pediatria, pneumologia, infectologia ou cirurgia e exames de controle. Não falte aos retornos mesmo que a tosse diminua."
+        ]
+      },
+      "ageMap": {
+        "u3m": [
+          "Recém-nascido ou lactente menor de 3 meses com suspeita de pneumonia, febre ou temperatura baixa, apneia, mamada fraca, gemência ou pouca resposta precisa de avaliação hospitalar imediata. Não atribua o quadro a medicamento nem observe em casa."
+        ],
+        "3a5m": [
+          "Lactentes pequenos podem piorar rapidamente. Leve lista completa de medicamentos maternos e da criança, mas não suspenda ou administre novamente produto para testar a causa sem orientação."
+        ],
+        "6a11m": [
+          "Choro fraco, irritabilidade, sonolência, recusa de mamadas, menor interação ou menos fraldas podem ser sinais de piora. Confirme quem administrou cada produto e em que horário."
+        ],
+        "1a": [
+          "Um adulto deve supervisionar líquidos e medicamentos, manter produtos fora do alcance e observar se a criança deixa de brincar, respirar, beber ou urinar como de costume."
+        ],
+        "2a5": [
+          "Pergunte de forma simples o que a criança sentiu após cada produto, sem sugerir respostas. Não reutilize xaropes, antibióticos ou combinações de outra doença."
+        ],
+        "6a11": [
+          "Inclua medicamentos de escola, suplementos e produtos esportivos na lista. Pergunte sobre dor no peito, cansaço ao falar ou caminhar e tontura."
+        ],
+        "12a17": [
+          "Converse com privacidade sobre vape, cigarro, suplementos, anabolizantes, medicamentos sem receita e outras exposições, sem julgamento. Não deixe o adolescente decidir sozinho interromper ou reiniciar tratamento."
+        ],
+        "unknown": [
+          "Confirme idade, peso apenas para identificação clínica, prematuridade, comorbidades, produtos e cronologia, estado respiratório, culturas, complicações e plano atual. Sem esses dados, não atribua causalidade nem modifique tratamento."
+        ]
+      },
+      "refs": [
+        {
+          "id": "pais259_op2912_1",
+          "name": "Pneumonia, Staphylococcal — MeSH Descriptor Data 2026",
+          "url": "https://meshb.nlm.nih.gov/record/ui?ui=D011023"
+        },
+        {
+          "id": "pais259_op2912_2",
+          "name": "Pneumonia, Bacterial — MeSH Descriptor Data 2026",
+          "url": "https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D018410"
+        },
+        {
+          "id": "pais259_op2912_3",
+          "name": "Medication-induced lung disease in children",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41288669/"
+        },
+        {
+          "id": "pais259_op2912_4",
+          "name": "Drug-induced interstitial lung disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35332071/"
+        },
+        {
+          "id": "pais259_op2912_5",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2912_6",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2912_7",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2913",
+      "specific": false,
+      "key": "pdf1500_1099",
+      "label": "Pneumonia estafilocócica leve",
+      "entity": "Pneumonia pediátrica por Staphylococcus aureus; o qualificador 'leve' só pode descrever uma avaliação clínica documentada e transitória, não uma doença independente nem garantia de baixo risco ou alta",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNDEFINED_NON_ADDITIVE_MILD_SEVERITY_QUALIFIER\",\"normalized_entity\":\"Pneumonia por Staphylococcus aureus em criança ou adolescente, sem sinais atuais de maior gravidade apenas quando assim documentado pela equipe\",\"assessment\":\"Pneumonia estafilocócica é uma entidade clínica válida. 'Leve' não possui, neste rótulo, domínio, momento nem critérios registrados e não cria subtipo etiológico. Uma criança pode parecer estável em uma avaliação e depois piorar; complicações também podem surgir durante a evolução. Portanto, o adjetivo não confirma baixo risco, ausência de hipoxemia, sepse ou complicação, tratamento domiciliar, medicamento, prognóstico, retorno tardio ou segurança para alta.\",\"canonical_reconciliation\":{\"canonical_core_key\":\"pdf1500_1091\",\"canonical_core_label\":\"Pneumonia estafilocócica\",\"canonical_core_result\":\"references/orientacoes-validadas/parallel-results/OP-14-pdf1500_1091.json\",\"relationship\":\"SAME_STAPHYLOCOCCAL_PNEUMONIA_ENTITY_WITH_UNDEFINED_MILD_SEVERITY_QUALIFIER\",\"alias_of_core\":true,\"additional_entity_count\":0,\"published_core_version\":258,\"published_core_commit\":\"daa89d542292a77a6d84d5df98877f17bfa4d9b3\",\"content_rule\":\"Herdar integralmente o núcleo clínico e os alarmes de pdf1500_1091. Preservar key e label desta variante para rastreabilidade, mas impedir que a palavra 'leve' reduza urgência, investigação, tratamento, seguimento ou critérios de alta.\"},\"mild_qualifier_interpretation\":{\"potential_meaning\":\"Em uma avaliação clínica específica, a criança pode ter comportamento e cor preservados, frequência respiratória normal ou pouco aumentada e nenhum ou mínimo trabalho respiratório, sem sinais de complicação; isso precisa ser documentado no contexto e reavaliado ao longo do tempo.\",\"requires_confirmation\":[\"Quem classificou e em que momento da doença ou do tratamento\",\"Comportamento, capacidade de falar ou mamar, cor e estado mental\",\"Frequência e trabalho respiratórios em repouso\",\"Oxigenação medida quando indicada e necessidade de suporte\",\"Perfusão, frequência cardíaca, diurese, febre e estado geral\",\"Capacidade de beber, mamar, alimentar-se e manter medicamentos prescritos\",\"Ausência ou presença de derrame, empiema, abscesso, necrose, pneumatocele, bacteremia ou outra complicação\",\"Idade, prematuridade, comorbidades, imunidade e evolução desde a última avaliação\"],\"does_not_establish\":[\"Ausência de hipoxemia, insuficiência respiratória, sepse ou choque\",\"Ausência de derrame, empiema, abscesso, pneumonia necrosante ou outra complicação\",\"Etiologia estafilocócica confirmada, MSSA, MRSA, sensibilidade ou foco da infecção\",\"Baixo risco de piora, prognóstico favorável ou prazo de recuperação\",\"Elegibilidade automática para manejo ambulatorial ou alta\",\"Antibiótico, combinação, dose, via, duração, troca ou interrupção\",\"Dispensa de retorno, imagem, especialista, internação ou monitorização\",\"Retorno imediato à escola, esporte ou atividades habituais\"],\"time_dependence\":\"A classificação respiratória é uma fotografia clínica e pode mudar com febre, fadiga, hidratação, complicação ou resposta. Sinais de alarme substituem imediatamente qualquer rótulo anterior de leve.\"},\"not_automatically_equivalent_to\":[\"Pneumonia não complicada confirmada\",\"Pneumonia sem hipoxemia\",\"Infecção limitada ao pulmão\",\"Criança estável para alta\",\"Tratamento exclusivamente por via oral\",\"Boa resposta ao tratamento\",\"Prognóstico favorável ou recuperação rápida\",\"Dispensa de retorno precoce ou exames\"],\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes. Menores de 3 meses, prematuros e crianças com doença pulmonar, cardíaca, neuromuscular, imunodeficiência ou suporte respiratório não podem ser considerados de baixo risco apenas pelo rótulo e exigem avaliação individual.\",\"counting_rule\":\"Preservar pdf1500_1099 para busca e rastreabilidade, mas contar zero nova entidade clínica além de pdf1500_1091. Classificar como SOURCE_TERM_ISSUE e specific=false porque 'leve' não traz critérios, momento ou decisão clínica verificável e não sustenta orientação terapêutica autônoma.\",\"reason\":\"O qualificador de gravidade está desacompanhado de sinais clínicos, oxigenação, hidratação, complicações, comorbidades e evolução. Usá-lo isoladamente pode reduzir alarmes ou produzir alta indevida.\",\"next_action\":\"Integrar como alias do núcleo publicado pdf1500_1091, exigir avaliação clínica atual para qualquer descrição de gravidade e testar que 'leve' não autoriza alta, manejo domiciliar, medicamento, dose, prognóstico ou seguimento reduzido.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A pneumonia estafilocócica é uma infecção pulmonar por Staphylococcus aureus e pode evoluir com líquido ou pus ao redor do pulmão, abscesso ou destruição de parte do tecido pulmonar. A palavra leve no cadastro não garante que essas complicações estejam ausentes.",
+          "Suspeita nova ou piora precisa de avaliação pediátrica no mesmo dia. Só cuide em casa se a criança foi examinada, a equipe decidiu que isso é seguro e entregou um plano claro; o rótulo leve, sozinho, não autoriza alta.",
+          "Depois da avaliação, observe respiração em repouso, cor dos lábios, estado de alerta, febre, dor no peito ou barriga, aceitação de líquidos e quantidade de urina. Qualquer piora substitui a classificação anterior de leve.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. Retome escola, esporte e esforço apenas quando a equipe liberar e a criança estiver recuperando respiração e disposição.",
+          "A tosse pode demorar a desaparecer, mas estado geral, febre e esforço para respirar devem melhorar progressivamente conforme o plano recebido. Piora rápida, febre persistente com cansaço ou retorno da febre não devem ser tratados como quadro leve."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Siga exatamente as orientações de curativo, dreno, fisioterapia respiratória ou exercícios recebidas no hospital. Não manipule dreno, curativo ou acesso e não faça tapotagem, nebulização caseira ou fisioterapia improvisada.",
+          "Higienize as mãos antes e depois de cuidar da criança, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Feridas de pele devem permanecer limpas e cobertas e ser avaliadas se houver pus, dor ou vermelhidão crescente.",
+          "Anote temperatura, ingestão, urina, vômitos, horários dos medicamentos prescritos e mudanças na respiração. Leve resumo da internação, culturas, exames e a classificação recebida aos retornos.",
+          "Não use aparência tranquila durante o sono, um único número do oxímetro doméstico ou melhora passageira para confirmar que o quadro continua leve. Observe o conjunto de sinais e siga o plano da equipe.",
+          "Mantenha as vacinas indicadas para a idade em dia e evite exposição à fumaça. Vacinas e medidas de higiene ajudam na prevenção geral, mas não substituem avaliação nem tratamento desta pneumonia."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente os medicamentos prescritos para esta criança, nos horários e pelo período definidos. Não use sobras, receita de outra pessoa ou antibiótico por conta própria e não interrompa por melhora parcial.",
+          "A escolha do antibiótico e da via depende de culturas, resistência local, alergias, idade, estado clínico, complicações e resposta. O adjetivo leve não define medicamento, associação, dose, via ou duração.",
+          "Use antitérmico ou analgésico apenas se já orientado. Não dê xarope para tosse, descongestionante, corticoide, anti-inflamatório ou fitoterápico sem confirmar com a equipe.",
+          "Procure orientação se houver vômitos que impeçam o medicamento, urticária, inchaço, falta de ar, diarreia intensa, redução importante da urina ou outro efeito preocupante.",
+          "Não dobre dose esquecida, troque a via nem encerre o tratamento sem orientação. Esta ficha não prescreve nem valida um esquema empírico."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver respirando confortavelmente e autorizada a alimentar-se, ofereça líquidos em pequenas quantidades e com frequência, mantenha leite materno quando possível e ofereça refeições conforme tolerância.",
+          "Não force comida. Procure atendimento se não conseguir beber ou mamar, tiver vômitos repetidos, boca seca, ausência de lágrimas, pouca urina ou sonolência em piora.",
+          "Durante falta de ar importante, gemência, engasgo ou redução da consciência, não ofereça alimento, líquido ou medicamento pela boca; procure emergência para evitar aspiração.",
+          "Se houver sonda ou orientação individual sobre líquidos, fórmula ou alimentação, siga somente o plano da equipe. A classificação leve não define volume, fórmula, velocidade ou restrição.",
+          "Boa aceitação em uma refeição não garante estabilidade; acompanhe a ingestão e a urina ao longo do dia conforme a equipe orientou."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por respiração muito rápida ou difícil, costelas afundando, gemência, batimento de asas do nariz, pausas respiratórias, lábios ou rosto arroxeados, ou incapacidade de falar, beber ou mamar por falta de ar.",
+          "Vá imediatamente se a criança estiver muito sonolenta, difícil de acordar, confusa, desmaiar, tiver convulsão, pele fria ou manchada, extremidades frias, pouca urina, piora rápida ou aparência de estar gravemente doente.",
+          "Dor forte ou crescente no peito ou barriga, tosse com sangue, falta de ar nova após aparente melhora ou redução importante de sons respiratórios percebida pela equipe podem indicar complicação.",
+          "Febre que persiste ou retorna junto com maior esforço respiratório, menor ingestão, prostração ou cansaço que não melhora exige reavaliação urgente; não espere o retorno agendado.",
+          "Em recém-nascido ou lactente pequeno, temperatura alta ou baixa, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor exigem avaliação hospitalar imediata, mesmo sem febre alta.",
+          "Se surgir qualquer sinal deste bloco, ignore o rótulo leve e procure atendimento imediatamente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. Se houver qualquer sinal de alarme, procure emergência imediatamente.",
+          "Se a equipe escolheu tratamento fora do hospital, cumpra a revisão definida; diretrizes pediátricas gerais recomendam revisão médica precoce, em 24 a 48 horas, sem esperar se houver piora.",
+          "Reavalie antes se os sintomas não começarem a melhorar no prazo explicado, se a febre persistir ou voltar, ou se houver mais esforço respiratório, menor ingestão, dor ou fadiga.",
+          "Derrame, empiema, abscesso ou pneumonia necrosante podem exigir especialistas e exames de controle. O rótulo leve não exclui essas complicações nem dispensa retornos já marcados.",
+          "Alta, imagem de controle e encerramento do seguimento dependem de oxigenação, ingestão, estado geral, evolução e plano clínico. Não decida por conta própria apenas porque a ficha usa a palavra leve.",
+          "O retorno à escola e às atividades depende de ausência de febre, respiração confortável, energia em recuperação, controle de eventuais feridas e orientação da equipe; não há prazo automático para esta variante."
+        ]
+      },
+      "ageMap": {
+        "u3m": [
+          "Recém-nascido e lactente menor de 3 meses com suspeita de pneumonia ou infecção bacteriana grave deve ser avaliado imediatamente em hospital; apneia, temperatura baixa ou alta, mamada fraca e pouca movimentação podem ser os primeiros sinais.",
+          "Não aplicar o rótulo leve para observação domiciliar nem orientar medicamento, dose, via ou alta por esta ficha."
+        ],
+        "3a5m": [
+          "Lactentes pequenos podem piorar rapidamente. Observe mamadas, pausas respiratórias, gemência, retrações, cor, interação e fraldas molhadas e mantenha limiar baixo para retorno.",
+          "Uma avaliação anterior como leve não substitui reavaliação se o padrão mudar."
+        ],
+        "6a11m": [
+          "Choro fraco, irritabilidade, sonolência, recusa de mamadas, menos fraldas e menor interação podem indicar piora mesmo sem dor localizada ou febre alta.",
+          "Um adulto deve supervisionar alimentação e medicamentos prescritos."
+        ],
+        "1a": [
+          "Um adulto deve observar se a criança deixa de brincar, respirar, beber ou comer como de costume e acompanhar urina, febre e esforço respiratório.",
+          "Não use energia momentânea para concluir que o quadro permanece leve."
+        ],
+        "2a5": [
+          "Explique de forma simples que a criança deve avisar dor ou cansaço; não peça para prender a tosse. Observe retrações, gemência, ingestão, atividade e urina.",
+          "Retorno à creche ou escola depende de recuperação clínica e orientação, não do adjetivo leve."
+        ],
+        "6a11": [
+          "Pergunte sobre dor no peito ou barriga, falta de ar ao falar ou caminhar, tontura e queda de energia. Combine escola e atividade física com a equipe.",
+          "Inclua a criança no registro de sintomas, mantendo um adulto responsável pelo plano."
+        ],
+        "12a17": [
+          "Inclua o adolescente no plano de horários e sinais de alarme sem transferir sozinho a responsabilidade. Reforce que vape, cigarro e abandono precoce do tratamento prejudicam a recuperação.",
+          "Explique que 'leve' não garante prognóstico nem libera esporte, escola ou interrupção do tratamento."
+        ],
+        "unknown": [
+          "Sem idade informada, use os alertas gerais e confirme idade, prematuridade, comorbidades, estado respiratório, hidratação, exames e plano recebido antes de individualizar orientação.",
+          "Não inferir baixo risco, prognóstico, medicamento, dose, via, restrição alimentar ou alta da palavra leve."
+        ]
+      },
+      "refs": [
+        {
+          "id": "pais259_op2913_1",
+          "name": "Clinical Practice Guidelines: Assessment of severity of respiratory conditions",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Assessment_of_severity_of_respiratory_conditions/"
+        },
+        {
+          "id": "pais259_op2913_2",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2913_3",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/~/link/018511fd86374a4ca01c5a77e570757c.aspx"
+        },
+        {
+          "id": "pais259_op2913_4",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2913_5",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903/"
+        },
+        {
+          "id": "pais259_op2913_6",
+          "name": "Schools and Daycares: MRSA Prevention and Response",
+          "url": "https://www.cdc.gov/mrsa/prevention/schools-and-daycares.html"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2914",
+      "specific": false,
+      "key": "pdf1500_1100",
+      "label": "Pneumonia estafilocócica moderado",
+      "entity": "Pneumonia pediátrica causada ou fortemente suspeita por Staphylococcus aureus, com gravidade atual a documentar e sem reconhecer ‘moderado’ como subtipo etiológico autônomo",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNDEFINED_MODERATE_SEVERITY_QUALIFIER\",\"normalized_entity\":\"Pneumonia por Staphylococcus aureus — gravidade atual a caracterizar\",\"canonical_entity\":\"Pneumonia por Staphylococcus aureus em criança ou adolescente\",\"canonical_key_suggestion\":\"pdf1500_1091\",\"assessment\":\"O núcleo ‘pneumonia estafilocócica’ é válido. ‘Moderado’ pode descrever um grau de sofrimento respiratório em uma escala específica, mas não é uma variante etiológica e não possui significado clínico seguro sem critérios, medidas, momento e protocolo. A literatura pediátrica reconhece heterogeneidade na classificação de gravidade; por isso, a ficha deve apresentar sinais observáveis e limites, não converter o rótulo em conduta.\",\"severity_operationalization\":[\"Estado de alerta, irritabilidade, sonolência, interação e capacidade de vocalizar\",\"Cor, palidez ou cianose\",\"Frequência respiratória em repouso e tendência, interpretada para idade e contexto\",\"Retrações, batimento de asas do nariz, gemência, uso de musculatura acessória e fadiga\",\"Oxigenação quando medida, sem usar o número isoladamente\",\"Frequência cardíaca, perfusão, pressão quando indicada e sinais de sepse\",\"Capacidade de beber ou mamar, vômitos, hidratação e quantidade de urina\",\"Derrame, empiema, abscesso, pneumonia necrosante, bacteremia ou outra complicação\",\"Idade, prematuridade, comorbidades, imunossupressão e necessidade de suporte\"],\"moderate_respiratory_distress_boundary\":\"Uma escala geral pode chamar de moderado o conjunto de atividade reduzida, alguma limitação para falar, palidez, aumento da frequência respiratória, esforço respiratório moderado e frequência cardíaca discretamente aumentada. Isso descreve o estado observado e não confirma o agente, não substitui avaliação de pneumonia complicada e não define tratamento.\",\"effusion_boundary\":\"Derrame parapneumônico ‘moderado’ é uma classificação do tamanho radiográfico do derrame, distinta da gravidade global da pneumonia. Derrame moderado com desconforto respiratório pode exigir intervenção; nunca usar esse termo como sinônimo de pneumonia estafilocócica moderada.\",\"dynamic_boundary\":\"Gravidade pode mudar rapidamente. Um registro anterior como moderado não prevalece sobre cianose, apneia, alteração de consciência, choque, incapacidade de beber/mamar, hipoxemia, piora respiratória ou complicação atual.\",\"microbiology_boundary\":\"Sintomas e uma categoria de gravidade não confirmam Staphylococcus aureus, sensibilidade ou resistência. Etiologia e tratamento dependem de avaliação clínica, microbiologia quando indicada, imagem, epidemiologia e evolução.\",\"treatment_boundary\":\"Esta ficha não escolhe antibiótico, combinação, via, dose, intervalo ou duração. A palavra ‘moderado’ não autoriza reduzir, prolongar, trocar, reiniciar ou tratar em casa.\",\"disposition_boundary\":\"O rótulo não autoriza alta nem cuidado domiciliar. Destino depende do estado atual, oxigenação, capacidade de hidratar/alimentar, necessidade de suporte, complicações, idade, comorbidades, resposta e possibilidade de seguimento seguro.\",\"not_automatically_equivalent_to\":[\"Pneumonia não grave\",\"Segurança para tratamento domiciliar\",\"Ausência de hipoxemia ou sepse\",\"Ausência de derrame, empiema, abscesso ou necrose\",\"Infecção confirmada por Staphylococcus aureus\",\"Sensibilidade antimicrobiana conhecida\",\"Escolha de antibiótico ou via\",\"Critério de internação ou alta\",\"Prognóstico individual\"],\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_1091\",\"canonical_label\":\"Pneumonia estafilocócica\",\"relationship\":\"SAME_BASE_ENTITY_WITH_UNDEFINED_SEVERITY_QUALIFIER\",\"decision\":\"Compartilhar integralmente o núcleo clínico e os alarmes de pdf1500_1091, acrescentando somente a resolução do qualificador e a exigência de documentar gravidade atual.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_SOURCE_TERM_VARIANT_MAPPED_TO_PDF1500_1091\"},\"urgency_rule\":\"Sinais atuais de gravidade substituem qualquer classificação anterior. Desconforto respiratório importante, cianose, apneia, alteração de consciência, incapacidade de beber ou mamar, choque/sepse ou piora rápida exigem atendimento imediato.\",\"counting_rule\":\"Contar zero entidade clínica adicional; ‘moderado’ é qualificador de gravidade não operacionalizado do núcleo pdf1500_1091.\",\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes. Neonatos, lactentes pequenos e pacientes com comorbidades, hipoxemia, desconforto respiratório, sepse ou complicações exigem limiar mais baixo para avaliação hospitalar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome do cadastro não cria uma doença separada chamada pneumonia estafilocócica moderada. A condição é pneumonia por Staphylococcus aureus; ‘moderado’ só pode ser usado se a equipe registrar quais sinais e critérios sustentam essa avaliação.",
+          "O rótulo não significa que a criança esteja segura para permanecer em casa. Pneumonia estafilocócica pode evoluir com líquido ou pus ao redor do pulmão, abscesso ou destruição do tecido pulmonar, e a gravidade pode mudar rapidamente.",
+          "Cuidados domiciliares só se aplicam após avaliação presencial e plano explícito da equipe; esta ficha não autoriza alta. Observe respiração, cor, estado de alerta, febre, dor no peito ou barriga, aceitação de líquidos e quantidade de urina.",
+          "Compare a criança com seu estado habitual e com a avaliação anterior. Mais cansaço, menor interação, dificuldade crescente para falar, brincar, beber ou mamar, ou necessidade de sentar-se para respirar indicam piora.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. Escola, esporte e esforço só devem ser retomados após recuperação e liberação da equipe."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Anote temperatura, frequência e esforço para respirar, cor, alerta, ingestão, vômitos e urina. Se recebeu oxímetro ou outro monitor da equipe, registre conforme o plano, mas não use um número isolado para tranquilizar diante de piora clínica.",
+          "Leve aos retornos resumos de atendimento, culturas, imagens, alergias e lista do que foi realmente administrado. Registre horário e evolução dos sinais que levaram à classificação de gravidade.",
+          "Siga exatamente orientações de curativo, dreno, fisioterapia ou exercícios recebidas no hospital. Não manipule dreno, curativo ou acesso e não faça tapotagem, nebulização ou fisioterapia improvisada.",
+          "Higienize as mãos, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. Mantenha feridas de pele limpas e cobertas e peça avaliação se houver pus, vermelhidão crescente ou dor.",
+          "Não fume perto da criança. Mantenha vacinas indicadas para idade e condições de saúde em dia; elas reduzem algumas infecções, mas não tratam o episódio atual nem definem sua gravidade."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente os medicamentos prescritos para esta criança, nos horários e pelo período definidos. Não escolha, reduza, prolongue, troque, combine ou reinicie tratamento por causa da palavra ‘moderado’.",
+          "A escolha do tratamento depende de estado clínico, culturas quando disponíveis, sensibilidade, alergias, epidemiologia local e complicações. Esta ficha não define fármaco, via, dose, intervalo nem duração.",
+          "Não use sobra, receita de outra pessoa, xarope para tosse, descongestionante, corticoide, anti-inflamatório ou fitoterápico sem confirmar com a equipe.",
+          "Se houver vômito que impeça a dose, esquecimento, erro de administração ou suspeita de reação, contate o serviço; não dobre nem compense automaticamente.",
+          "Urticária, inchaço, falta de ar, desmaio, diarreia intensa, redução importante da urina ou outro efeito preocupante exige orientação urgente conforme gravidade."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver respirando confortavelmente e a equipe tiver autorizado alimentação oral, ofereça líquidos em pequenas quantidades e com frequência; mantenha leite materno quando possível e alimentação adequada à idade conforme tolerância.",
+          "Não force comida. Observe mamadas, sede, vômitos, boca seca, lágrimas e urina. Incapacidade de beber ou mamar, vômitos repetidos, muito pouca urina ou sonolência crescente exige reavaliação.",
+          "Durante falta de ar importante, gemência, engasgo, lábios arroxeados ou redução da consciência, não ofereça alimento ou líquido pela boca; procure emergência para reduzir risco de aspiração.",
+          "Se houver sonda ou orientação de restrição de líquidos, siga apenas o plano individual. Não altere volume, fórmula, concentração ou velocidade por conta própria.",
+          "Cansaço progressivo para beber/mamar ou queda importante da ingestão não deve ser aceito como parte de um quadro moderado; antecipe a avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil, retrações importantes, gemência, batimento de asas do nariz, pausas respiratórias, lábios ou rosto arroxeados, ou incapacidade de falar, beber ou mamar por falta de ar.",
+          "Criança muito sonolenta, difícil de acordar, confusa, desmaio, convulsão, pele fria ou manchada, extremidades frias, pouca urina, piora rápida ou aparência de estar gravemente doente.",
+          "Dor forte ou crescente no peito ou barriga, tosse com sangue, falta de ar nova após aparente melhora, ou febre que persiste/retorna com piora respiratória, menor ingestão ou cansaço.",
+          "Em recém-nascido ou lactente pequeno, temperatura anormal, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor, mesmo sem febre alta.",
+          "Qualquer sinal atual mais grave que o registrado anteriormente substitui a palavra ‘moderado’; não espere nova consulta, a próxima dose ou o fim do dia."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ‘pneumonia estafilocócica moderada’ foi apenas um nome de cadastro e ainda não houve avaliação pediátrica, procure atendimento no mesmo dia para confirmar diagnóstico, gravidade e local seguro de cuidado.",
+          "Após avaliação, cumpra o prazo definido pela equipe. Se cuidado ambulatorial foi explicitamente autorizado, confirme revisão em 24–48 horas; procure antes diante de qualquer piora.",
+          "Falta de melhora clínica em 48–72 horas de tratamento adequado, febre persistente, novo esforço respiratório ou retorno dos sintomas exige reavaliação para derrame, empiema, abscesso, pneumonia necrosante ou outra causa; não aguarde o prazo se houver piora.",
+          "Peça que a equipe registre quais critérios sustentam a gravidade atual e o que mudaria o plano. Uma classificação pode mudar conforme alerta, respiração, oxigenação, ingestão, perfusão e complicações.",
+          "Não confunda ‘derrame moderado’ no laudo com pneumonia moderada. Se houver líquido ao redor do pulmão, o tamanho, a complexidade e o estado respiratório exigem avaliação específica.",
+          "Retorno à escola e às atividades depende de ausência de febre, respiração confortável, energia em recuperação e orientação da equipe; a palavra ‘moderado’ não define afastamento nem liberação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente menor de 3 meses com suspeita de pneumonia, apneia, temperatura alta ou baixa, mamada fraca, gemência, mudança de cor ou pouca responsividade deve ser avaliado imediatamente em hospital; não usar a categoria moderada para orientar casa ou alta.",
+        "3a5m": "Lactentes pequenos podem piorar rapidamente. Observe mamadas, pausas respiratórias, retrações, gemência, cor, interação e fraldas; qualquer piora substitui a classificação anterior e exige reavaliação precoce.",
+        "6a11m": "Recusa de mamadas, choro fraco, irritabilidade, sonolência, menor interação ou menos urina podem sinalizar gravidade mesmo sem relato de dor.",
+        "1a": "Um adulto deve supervisionar líquidos e medicamentos e observar se a criança deixa de brincar, alimentar-se, vocalizar ou respirar como de costume; função atual é mais útil que o adjetivo moderado.",
+        "2a5": "Observe retrações, gemência, palidez, frases mais curtas, dor, ingestão, urina e disposição para brincar. Limitação crescente para falar ou brincar exige reavaliação.",
+        "6a11": "Pergunte sobre dor, falta de ar, cansaço ao falar ou caminhar, tontura e dificuldade para beber. Retorno escolar/esportivo depende de recuperação e liberação, não da categoria anterior.",
+        "12a17": "Inclua o adolescente no plano de sinais e retorno, sem deixá-lo sozinho responsável. Não minimizar piora por ter sido chamado moderado, não usar cigarro/vape e não modificar tratamento por conta própria.",
+        "unknown": "Confirmar idade, prematuridade, comorbidades, alerta, cor, respiração, oxigenação quando medida, ingestão, hidratação, perfusão, complicações e suporte necessário antes de validar qualquer categoria de gravidade."
+      },
+      "refs": [
+        {
+          "id": "pais259_op2914_1",
+          "name": "Clinical Practice Guidelines: Assessment of severity of respiratory conditions",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Assessment_of_severity_of_respiratory_conditions/"
+        },
+        {
+          "id": "pais259_op2914_2",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2914_3",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-in-infants-and-children/"
+        },
+        {
+          "id": "pais259_op2914_4",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2914_5",
+          "name": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+          "url": "https://www.who.int/publications/i/item/9789240103412"
+        },
+        {
+          "id": "pais259_op2914_6",
+          "name": "Defining Pneumonia Severity in Children: A Delphi Study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32205802/"
+        },
+        {
+          "id": "pais259_op2914_7",
+          "name": "Manejo de pneumonia e derrame pleural em crianças",
+          "url": "https://www.scielo.br/j/jbpneu/a/mJm3ZrMgPKBMvZMxCnsqbDs/?lang=pt"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2915",
+      "specific": false,
+      "key": "pdf1500_1101",
+      "label": "Pneumonia estafilocócica não especificado",
+      "entity": "Pneumonia pediátrica por Staphylococcus aureus, reconciliada ao núcleo publicado pdf1500_1091, sem especificação adicional de confirmação, sensibilidade, localização, lateralidade, gravidade, complicação, contexto de aquisição ou tratamento",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNSPECIFIED_NONINFORMATIVE_QUALIFIER\",\"canonical_term\":\"Pneumonia por Staphylococcus aureus em criança ou adolescente\",\"normalized_entity\":\"Pneumonia estafilocócica — características adicionais não especificadas\",\"qualifier\":\"não especificado\",\"assessment\":\"Pneumonia estafilocócica é uma entidade pediátrica válida e indica pneumonia causada ou fortemente suspeita por Staphylococcus aureus. O complemento ‘não especificado’ não constitui subtipo clínico e não torna o agente ‘desconhecido’; apenas informa que o rótulo não fornece detalhes adicionais. Ele não permite inferir confirmação microbiológica, MSSA ou MRSA, lobo ou segmento acometido, unilateralidade ou bilateralidade, aquisição comunitária ou hospitalar, gravidade, derrame, empiema, abscesso, necrose, bacteremia, resposta ou tratamento.\",\"reconciliation\":{\"base_key\":\"pdf1500_1091\",\"base_label\":\"Pneumonia estafilocócica\",\"relationship\":\"SAME_BASE_ENTITY_WITH_UNSPECIFIED_NON_ADDITIVE_QUALIFIER\",\"content_rule\":\"Preservar este ID e rótulo, compartilhar o núcleo clínico seguro de pdf1500_1091 e explicitar os dados ausentes. Não completar localização, complicação, gravidade, resistência ou conduta por inferência.\",\"additional_entity_count\":0},\"not_automatically_equivalent_to\":[\"Pneumonia leve, moderada, grave, estável ou em melhora\",\"Pneumonia unilateral, bilateral, lobar, segmentar ou multifocal\",\"Infecção adquirida na comunidade, relacionada à assistência ou associada à ventilação\",\"Staphylococcus aureus sensível, resistente, MSSA ou MRSA confirmado\",\"Derrame parapneumônico, empiema, abscesso pulmonar ou pneumonia necrosante\",\"Bacteremia, sepse, choque ou foco extrapulmonar\",\"Doença aguda, crônica, recorrente ou refratária\",\"Indicação de medicamento, via, dose, intervalo, duração, drenagem, cirurgia, internação ou alta\"],\"critical_context_to_confirm\":[\"Idade, prematuridade, comorbidades e estado imunológico\",\"Início e evolução de febre, tosse, dor, esforço respiratório, alimentação, hidratação e estado de alerta\",\"Sinais vitais, oxigenação, perfusão e necessidade de suporte respiratório\",\"Imagem com localização real, extensão e presença ou ausência de derrame, empiema, abscesso ou necrose\",\"Culturas e outros testes microbiológicos, origem da amostra e sensibilidade antimicrobiana\",\"Possível bacteremia, sepse, infecção de pele ou outro foco associado\",\"Medicamentos realmente prescritos, alergias, adesão, eventos adversos e resposta\",\"Plano de retorno, especialistas envolvidos e critérios individualizados para atividades\"],\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com diagnóstico ou suspeita de pneumonia estafilocócica sem detalhes adicionais no cadastro. Neonatos, lactentes pequenos e qualquer criança com desconforto respiratório, hipoxemia conhecida, alteração de consciência, sinais de choque ou possível complicação exigem avaliação hospitalar; a falta de especificação nunca reduz a urgência.\",\"evidence_boundary\":\"As fontes sustentam o núcleo da pneumonia pediátrica, complicações e alertas, mas não reconhecem ‘não especificado’ como subtipo terapêutico ou prognóstico. A classificação do qualificador como marcador de informação ausente é inferência editorial conservadora. Este resultado não confirma localização, complicação, resistência ou diagnóstico individual e não escolhe tratamento.\",\"counting_rule\":\"Preservar pdf1500_1101 como resolução terminológica ligada a pdf1500_1091; contar zero entidade clínica adicional e zero forma específica nova.\",\"reason\":\"‘Não especificado’ não acrescenta característica clínica verificável à pneumonia estafilocócica e não pode ser convertido em localização, gravidade, complicação, resistência, prognóstico ou tratamento.\",\"next_action\":\"Integrar como variante inespecífica de pdf1500_1091, manter SOURCE_TERM_ISSUE e specific=false, recuperar os dados clínicos ausentes quando existirem e testar que a seleção por pdf1500_1101 preserve urgência sem inventar localização, complicação, esquema terapêutico ou alta.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pneumonia estafilocócica é uma infecção pulmonar por Staphylococcus aureus. A expressão ‘não especificado’ não significa doença leve nem agente desconhecido: apenas indica que o cadastro não traz detalhes suficientes sobre localização, gravidade ou complicações.",
+          "Essa pneumonia pode evoluir com líquido ou pus ao redor do pulmão, abscesso ou destruição de tecido pulmonar, mas nenhuma dessas complicações deve ser presumida pelo rótulo. Suspeita nova ou piora precisa de avaliação pediátrica no mesmo dia.",
+          "Esta ficha não serve para decidir permanecer em casa. Se a equipe já autorizou cuidados domiciliares, observe respiração, cor dos lábios, estado de alerta, febre, dor no peito ou barriga, aceitação de líquidos e quantidade de urina.",
+          "Mantenha repouso relativo e ambiente sem fumaça, vape, incenso ou aerossóis irritantes. Tosse pode durar mais que outros sintomas, mas febre, disposição e esforço para respirar devem melhorar conforme o prazo explicado pela equipe.",
+          "Febre que retorna, cansaço crescente ou nova dificuldade para respirar após aparente melhora exige reavaliação; ‘não especificado’ nunca autoriza apenas esperar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha a criança acompanhada e na posição em que respira melhor. Se houver falta de ar importante, não force que se deite e procure emergência.",
+          "Higienize as mãos antes e depois dos cuidados, cubra tosse e espirros e não compartilhe copos, talheres, toalhas ou objetos pessoais. As precauções específicas dependem da infecção documentada e da orientação da equipe.",
+          "Siga somente as orientações recebidas sobre curativo, dreno, acesso ou fisioterapia. Não manipule dispositivos e não faça tapotagem, nebulização caseira, aspiração profunda ou fisioterapia improvisada.",
+          "Anote temperatura, vômitos, ingestão de líquidos, urina e mudanças na respiração. Leve aos retornos o resumo do atendimento, imagens, culturas e lista dos medicamentos prescritos.",
+          "Mantenha vacinas indicadas para a idade em dia e evite fumaça, mas não use essas medidas para substituir o tratamento ou a reavaliação deste episódio."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o antibiótico e os demais medicamentos prescritos para esta criança, conforme o plano recebido. Não use sobra, receita de outra pessoa ou medicamento iniciado por conta própria.",
+          "A escolha do tratamento depende de confirmação microbiológica, sensibilidade, gravidade, idade, alergias, local de aquisição e complicações. ‘Não especificado’ não define medicamento, via, dose, intervalo ou duração.",
+          "Não interrompa nem troque o tratamento por melhora parcial. Se a criança vomitar o medicamento, não conseguir tomá-lo ou apresentar reação, procure orientação da equipe em vez de repetir ou dobrar por conta própria.",
+          "Não dê xarope para tosse, descongestionante, corticoide, anti-inflamatório, fitoterápico ou inalação sem confirmar com o profissional responsável.",
+          "Urticária, inchaço de face ou lábios, falta de ar, desmaio ou piora rápida após medicamento exige atendimento imediato."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver acordada, respirando confortavelmente e autorizada a alimentar-se, ofereça líquidos adequados à idade em pequenas quantidades e com frequência; mantenha leite materno quando possível.",
+          "Não force comida. Observe se consegue beber ou mamar e se continua urinando; boca seca, ausência de lágrimas, vômitos repetidos, pouca urina ou sonolência crescente exige reavaliação.",
+          "Durante falta de ar importante, gemência, engasgo, lábios arroxeados ou redução da consciência, não ofereça alimento, líquido ou medicamento pela boca; procure emergência para reduzir risco de aspiração.",
+          "Se houver sonda ou restrição de líquidos, siga apenas o volume, a fórmula e a velocidade definidos pela equipe; o rótulo não especificado não permite ajustes."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou difícil, costelas afundando, gemência, batimento de asas do nariz, pausas respiratórias, incapacidade de falar, beber ou mamar por falta de ar, ou lábios/rosto azulados ou acinzentados.",
+          "Criança muito sonolenta, difícil de acordar, confusa, desmaiada, com convulsão, pele fria ou manchada, extremidades frias, pouca resposta ou piora rápida.",
+          "Dor forte ou crescente no peito ou na barriga, tosse com sangue, falta de ar nova após aparente melhora ou assimetria respiratória já apontada pela equipe.",
+          "Febre que persiste ou retorna acompanhada de maior esforço respiratório, menor ingestão, cansaço crescente ou piora do estado geral, especialmente após início do tratamento.",
+          "Incapacidade de manter líquidos ou medicamento, vômitos repetidos, urina muito reduzida, boca muito seca ou outros sinais de desidratação.",
+          "Em recém-nascido ou lactente pequeno: temperatura anormal, recusa de mamadas, apneia, gemência, pouca movimentação ou mudança de cor, mesmo sem febre alta."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação pediátrica para suspeita de pneumonia estafilocócica, procure atendimento no mesmo dia. Desconforto respiratório, alteração da cor, sonolência ou piora rápida exige pronto atendimento imediato.",
+          "Se a equipe autorizou tratamento fora do hospital, cumpra o retorno no prazo definido. Não interprete ‘não especificado’ como estabilidade nem use prazo genérico para adiar atendimento diante de piora.",
+          "Reavalie antes do combinado se os sintomas não começarem a melhorar no prazo explicado, se a febre persistir ou voltar, ou se aumentar o esforço para respirar. Persistência de febre pode indicar complicação e precisa de avaliação, sem presumir qual.",
+          "Quando houver derrame, empiema, abscesso ou pneumonia necrosante documentados, podem ser necessários especialistas e exames de controle. O rótulo não especificado não confirma nem exclui essas condições.",
+          "A volta à escola, esporte e esforço depende de ausência de febre, respiração confortável, energia em recuperação e orientação da equipe; o rótulo não define sozinho afastamento ou contagiosidade."
+        ]
+      },
+      "ageMap": {
+        "u3m": [
+          "Recém-nascido ou lactente menor de 3 meses com suspeita de pneumonia, temperatura alta ou baixa, apneia, gemência, mamada fraca, pouca movimentação ou mudança de cor precisa de avaliação hospitalar imediata.",
+          "A falta de detalhes no rótulo não reduz o risco; não orientar observação domiciliar, antimicrobiano, dose ou via por esta ficha."
+        ],
+        "3a5m": [
+          "Lactentes pequenos podem piorar rapidamente. Observe mamadas, pausas respiratórias, gemência, retrações, cor e fraldas molhadas e mantenha limiar baixo para atendimento urgente."
+        ],
+        "6a11m": [
+          "Choro fraco, irritabilidade, sonolência, recusa de mamadas, menos fraldas e menor interação podem indicar piora mesmo quando o bebê não localiza dor."
+        ],
+        "1a": [
+          "Um adulto deve supervisionar líquidos e medicamentos e observar se a criança deixa de brincar, respirar ou alimentar-se como de costume."
+        ],
+        "2a5": [
+          "Observe retrações, gemência, cansaço para falar ou beber, dor no peito ou barriga e quantidade de urina; a ausência de localização descrita no cadastro não reduz a atenção aos sinais clínicos."
+        ],
+        "6a11": [
+          "Pergunte diretamente sobre dor no peito ou barriga, tontura e cansaço ao falar ou caminhar; escola e atividade física só devem voltar conforme recuperação e orientação da equipe."
+        ],
+        "12a17": [
+          "Inclua o adolescente no plano de horários e sinais de alarme sem transferir sozinho a responsabilidade. Evite vape e cigarro e não interrompa o tratamento por melhora parcial."
+        ],
+        "unknown": [
+          "Sem idade informada, aplique os alertas gerais e confirme idade, prematuridade, comorbidades, estado respiratório, localização em imagem, microbiologia, complicações e plano recebido antes de individualizar orientação."
+        ]
+      },
+      "refs": [
+        {
+          "id": "pais259_op2915_1",
+          "name": "WHO recommendations for management of serious bacterial infections in infants aged 0–59 days",
+          "url": "https://www.who.int/publications/i/item/9789240102903"
+        },
+        {
+          "id": "pais259_op2915_2",
+          "name": "IDSA/PIDS 2026 Guidelines for the Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age",
+          "url": "https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-in-infants-and-children/"
+        },
+        {
+          "id": "pais259_op2915_3",
+          "name": "Clinical Practice Guidelines: Parapneumonic effusion",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Parapneumonic_effusion/"
+        },
+        {
+          "id": "pais259_op2915_4",
+          "name": "Clinical Practice Guidelines: Community acquired pneumonia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/"
+        },
+        {
+          "id": "pais259_op2915_5",
+          "name": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+          "url": "https://www.who.int/publications/i/item/9789240103412"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

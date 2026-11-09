@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T17:48:31.000Z",
+  "baseline_version": 107,
+  "baseline_commit": "1540e8c54a0f8580fc1bf3ed6627a9acc5360f73",
+  "records": [
+    {"key":"pdf1500_921","label":"Intussuscepção intestinal de origem infecciosa","specific":false,"clinical_entity":"Intussuscepção com infecção recente/concomitante; causalidade não demonstrada","term_resolution":true},
+    {"key":"pdf1500_922","label":"Intussuscepção intestinal grave","specific":false,"clinical_entity":"Intussuscepção com possível instabilidade ou complicação","term_resolution":true},
+    {"key":"pdf1500_923","label":"Intussuscepção intestinal idiopático","specific":false,"clinical_entity":"Intussuscepção sem ponto causador identificado","term_resolution":true},
+    {"key":"pdf1500_924","label":"Intussuscepção intestinal induzido por medicamentos","specific":false,"clinical_entity":"Intussuscepção; atribuição medicamentosa não estabelecida","term_resolution":true},
+    {"key":"pdf1500_925","label":"Intussuscepção intestinal leve","specific":false,"clinical_entity":"Intussuscepção com sintomas descritos como leves","term_resolution":true},
+    {"key":"pdf1500_926","label":"Intussuscepção intestinal moderado","specific":false,"clinical_entity":"Intussuscepção com sintomas descritos como moderados","term_resolution":true},
+    {"key":"pdf1500_927","label":"Intussuscepção intestinal não especificado","specific":false,"clinical_entity":"Intussuscepção sem segmento, causa ou complicação especificados","term_resolution":true}
+  ]
+}

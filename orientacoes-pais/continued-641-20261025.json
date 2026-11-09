@@ -1,0 +1,82 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T20:22:27.976Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_ffec01d5b43c3b8a",
+      "label": "Língua geográfica — registro no PPS",
+      "entity": "Língua geográfica (glossite migratória benigna)",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Condição benigna da superfície da língua, confirmada pelo exame e história; manchas móveis não comprovam infecção ou alergia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Após confirmação pela equipe, língua geográfica é uma condição benigna: áreas lisas avermelhadas, com bordas claras, podem mudar de lugar e formato. Não é contagiosa nem sinal de câncer.",
+          "Pode desaparecer e voltar. Fotografe as alterações para mostrar na consulta se não estiverem presentes naquele dia; não raspe a língua para remover as manchas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha higiene oral suave e acompanhamento odontológico habitual. Evite produtos que ardam ou irritem; não use enxaguantes fortes para tentar apagar as manchas.",
+          "Observe se alimentos muito quentes, ácidos ou picantes causam ardor e reduza apenas os que incomodam. Manchas sem dor geralmente não precisam de tratamento."
+        ],
+        "MEDICAMENTOS": [
+          "Não iniciar antifúngico, antibiótico, vitamina ou anestésico oral por conta própria. A aparência da língua, sozinha, não confirma candidíase, falta de vitaminas ou alergia alimentar.",
+          "Dor persistente pede avaliação da causa. Se houver tratamento prescrito, siga o plano adequado à idade; sugestões de produtos para adultos não devem ser aplicadas automaticamente a crianças."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e líquidos adequados à idade, sem dietas de exclusão amplas. Se houver ardor, prefira temporariamente alimentos confortáveis, menos quentes e menos ácidos.",
+          "Antes dos seis meses, mantenha leite materno ou fórmula conforme o plano habitual. Dificuldade para mamar ou beber merece avaliação; não atribua recusa alimentar importante apenas à língua geográfica."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Falta de ar, inchaço súbito da língua ou garganta, dificuldade para engolir saliva, coloração arroxeada ou dificuldade para acordar não são manifestações habituais: procure emergência; em situação grave, ligue 192.",
+          "Procure atendimento rápido se a criança não consegue beber, urina muito menos ou está muito abatida. Febre em bebê menor de três meses exige avaliação imediata, independentemente das manchas."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie se houver dor persistente, dificuldade para comer, novas alterações na pele ou dúvida sobre o diagnóstico. O profissional decide se precisa investigar outras causas; exames não são automáticos.",
+          "Uma ferida fixa, caroço ou área que não cicatriza em duas a três semanas precisa de avaliação odontológica ou médica. Não espere esse prazo se houver piora, sangramento importante ou dificuldade para engolir."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Alteração na boca com febre ou dificuldade para mamar exige avaliação rápida; não presumir quadro benigno.",
+        "3a5m": "Confirme o diagnóstico; mantenha mamadas, sem produtos orais para adultos.",
+        "6a11m": "Observe alimentação e hidratação; não raspar a língua nem iniciar antifúngico sozinho.",
+        "1a": "Higiene suave com ajuda de adulto; dor ou recusa de líquidos exige reavaliação.",
+        "2a5": "Explique sem assustar: manchas móveis confirmadas pela equipe não passam para colegas.",
+        "6a11": "Evite apenas alimentos que causem ardor; não excluir grupos alimentares sem orientação.",
+        "12a17": "Respeite o desconforto; evite automedicação e procure avaliação de lesão fixa ou persistente.",
+        "unknown": "Confirme idade, diagnóstico e capacidade de beber antes de aplicar orientações."
+      },
+      "refs": [
+        {
+          "id": "pais227_op641_1",
+          "name": "Geographic Tongue",
+          "url": "https://www.ashfordstpeters.nhs.uk/leaflets/3558-oral-surgery-leaflet-geographic-tongue"
+        },
+        {
+          "id": "pais227_op641_2",
+          "name": "Managing geographic tongue",
+          "url": "https://yourhealth.leicestershospitals.nhs.uk/library/musculoskeletal-specialist-surgery-mss/maxillofacial/2157-managing-geographic-tongue/file"
+        },
+        {
+          "id": "pais227_op641_3",
+          "name": "Geographic tongue",
+          "url": "https://www.mayoclinic.org/diseases-conditions/geographic-tongue/symptoms-causes/syc-20354396"
+        },
+        {
+          "id": "pais227_op641_4",
+          "name": "Fever in children",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Fever_in_children/"
+        },
+        {
+          "id": "pais227_op641_5",
+          "name": "Dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        },
+        {
+          "id": "pais227_op641_6",
+          "name": "Allergic and anaphylactic reactions",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Allergic_and_anaphylactic_reactions/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

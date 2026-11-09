@@ -1,0 +1,73 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:40:08.602Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_d3ef8502a74eb12c",
+      "label": "Astigmatismo — registro no PPS",
+      "entity": "Astigmatismo",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Erro refrativo reconhecido; grau, lateralidade e necessidade de correção dependem do exame.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "No astigmatismo, a curvatura da córnea ou do cristalino faz a imagem ficar desfocada ou distorcida. A criança pode não reclamar, sobretudo quando um olho enxerga melhor; o exame mede a visão de cada olho e define se precisa de correção.",
+          "Use os óculos no período indicado pelo oftalmologista. Eles não enfraquecem os olhos. Não interrompa o uso só porque a criança parece enxergar bem ou porque não sente dor."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Confira se a armação está confortável e bem posicionada. Incentive o uso com tranquilidade; se machuca, escorrega ou a criança continua recusando, procure ajuste e orientação da equipe.",
+          "Avise a escola sobre os óculos e as dificuldades para enxergar. Óculos de outra pessoa ou escolhidos sem exame não substituem a receita individual. Tampão e exercícios visuais só devem ser usados quando indicados para uma condição avaliada."
+        ],
+        "MEDICAMENTOS": [
+          "O nome astigmatismo não indica iniciar colírio ou remédio por conta própria. Colírios usados no exame ou em outro tratamento têm finalidade e orientação específicas.",
+          "Se há colírio ou tampão prescrito para ambliopia ou outra condição associada, siga esse plano e não ajuste a duração sem orientação. Esta ficha não fornece doses nem substitui a receita."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos adequados à idade. Nenhum alimento, suco ou suplemento substitui a correção óptica indicada.",
+          "No bebê, mantenha a alimentação habitual orientada pela equipe; o diagnóstico de astigmatismo não exige troca de leite ou dieta especial."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Perda súbita da visão em um ou ambos os olhos ou dor ocular intensa e súbita exige pronto atendimento imediato. Não atribua isso ao grau dos óculos.",
+          "Olho vermelho e doloroso, visão dupla nova, flashes de luz ou sombra escura no campo visual precisam avaliação urgente, especialmente se acompanhados de piora da visão. Não espere a consulta de rotina."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha os exames e retornos indicados, mesmo sem queixas: o grau pode mudar durante o crescimento, e a visão de cada olho precisa acompanhamento. Alguns casos leves só precisam observação; essa decisão depende do exame.",
+          "Se os óculos quebrarem, forem perdidos, incomodarem ou a criança continuar enxergando mal, contate a equipe para ajuste ou reposição. Não passe meses sem a correção prescrita esperando o retorno habitual.",
+          "Piora progressiva apesar dos óculos ou mudanças frequentes do grau merecem revisão. O médico verifica outras causas, inclusive alterações da córnea, sem presumir que todo astigmatismo seja outra doença."
+        ]
+      },
+      "ageMap": {
+        "u3m": "É possível examinar a visão mesmo sem o bebê falar. A indicação de óculos depende do exame; não espere aprender letras para acompanhar.",
+        "3a5m": "Se houver correção prescrita, a armação deve ficar confortável e adequada ao bebê. Leve dificuldades de uso à equipe, sem apertar ou improvisar contenções.",
+        "6a11m": "Mantenha o acompanhamento e observe o conforto da armação. A ausência de queixa do bebê não confirma visão normal.",
+        "1a": "Não exija que a criança reconheça letras: há exames próprios para a idade. Incentive o uso da correção conforme o plano.",
+        "2a5": "Explique os óculos com linguagem simples e combine o uso com os cuidadores e a educação infantil. Dificuldades persistentes pedem ajuste.",
+        "6a11": "Confira se consegue enxergar o material e o quadro; avise a escola e peça revisão se continuar com dificuldade apesar da correção.",
+        "12a17": "Inclua o adolescente no cuidado dos óculos. Lentes de contato exigem avaliação e treinamento próprios; não compartilhe lentes nem substitua a receita por compra sem avaliação.",
+        "unknown": "Confirme idade, exame de cada olho e orientação de uso. Não escolha o grau ou o tempo de uso apenas pelo nome do diagnóstico."
+      },
+      "refs": [
+        {
+          "id": "pais174_op543_1",
+          "name": "Refractive Errors in Children",
+          "url": "https://aapos.org/glossary/refractive-errors-in-children"
+        },
+        {
+          "id": "pais174_op543_2",
+          "name": "Glasses for Children",
+          "url": "https://www.aapos.org/glossary/glasses-for-children"
+        },
+        {
+          "id": "pais174_op543_3",
+          "name": "Astigmatism",
+          "url": "https://www.uhsussex.nhs.uk/resources/astigmatism-2/"
+        },
+        {
+          "id": "pais174_op543_4",
+          "name": "Vision loss",
+          "url": "https://www.nhs.uk/conditions/vision-loss/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T19:53:13.221Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pdf1500_281",
+      "label": "Coqueluche",
+      "entity": "Coqueluche suspeita ou confirmada",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Coqueluche é entidade válida. Síndrome coqueluchoide tem outras causas e exige esclarecimento etiológico; não tratar o rótulo como exame positivo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Coqueluche pode causar crises repetidas de tosse, vômitos e cansaço, mas bebês podem apresentar pausas na respiração com pouca ou nenhuma tosse. Cuidados em casa só se a equipe avaliou e considerou seguro; lactentes precisam de avaliação rápida e podem necessitar internação.",
+          "Registre início da tosse, crises, mamadas e doses prescritas. A tosse pode persistir por semanas mesmo após tratamento; piora da respiração ou da alimentação não deve ser atribuída simplesmente à demora para melhorar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite fumaça, poeira e cheiros irritantes. Avise o serviço antes de comparecer para que organize a proteção de outras pessoas.",
+          "Na suspeita ou confirmação, mantenha afastamento da escola/creche por pelo menos cinco dias após começar antibiótico adequado; sem tratamento, a referência é 21 dias do início da tosse. A equipe deve confirmar a data de retorno. Evite contato com bebês e gestantes nesse período; não use o prazo como motivo para deixar de tratar.",
+          "Informe contatos próximos à equipe, principalmente quando há bebês, gestantes ou pessoas vulneráveis. Eles precisam de avaliação precoce; prevenção com antibiótico não é automática para todos."
+        ],
+        "MEDICAMENTOS": [
+          "Use o antibiótico somente conforme prescrição, sem compartilhar ou interromper por conta própria. A equipe pode iniciar tratamento pela suspeita, antes do resultado do exame.",
+          "Não acrescente xarope ou remédio para cortar tosse por conta própria. Se a criança vomitar uma dose, confirme com a equipe como proceder, sem repetir ou dobrar automaticamente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça pequenas quantidades mais vezes, de acordo com a idade, quando a criança estiver respirando confortavelmente. Durante crise de tosse, não force comida ou líquidos.",
+          "Mantenha leite materno ou fórmula habitual no lactente, sem diluir a fórmula nem substituir mamadas por água ou suco. Incapacidade de mamar, vômitos repetidos ou pouca urina exigem reavaliação rápida."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Pausa na respiração, lábios azulados, esforço importante para respirar, convulsão ou dificuldade de despertar exigem atendimento imediato; acione 192 se necessário. Não espere surgir o guincho típico ou completar vários dias de tosse.",
+          "Procure urgência se não consegue alimentar-se, fica muito abatida ou apresenta sinais importantes de desidratação. Bebê pequeno com suspeita de coqueluche deve ser avaliado prontamente, mesmo que pareça bem entre as crises."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação, procure o serviço prontamente. Após a consulta, confirme retorno e critérios de internação, especialmente no bebê; piora, febre nova ou redução das mamadas antecipam a avaliação.",
+          "Os contatos devem observar sintomas por 21 dias após a última exposição e procurar atendimento se adoecerem. Confira vacinas com a unidade de saúde conforme o calendário vigente; vacinação não substitui avaliação ou tratamento da exposição."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebê pode ter apneia sem tosse importante: avaliação imediata diante da suspeita, sem observação caseira prolongada.",
+        "3a5m": "Risco elevado de forma grave: avaliação pronta e plano explícito da equipe sobre internação e mamadas.",
+        "6a11m": "Bebês menores de um ano seguem vulneráveis; vigiar respiração e alimentação, sem esperar tosse típica.",
+        "1a": "Cuidados em casa somente após avaliação; dificuldade de beber ou respirar exige urgência.",
+        "2a5": "Não usar xarope por conta própria. A equipe define afastamento e retorno à creche/escola.",
+        "6a11": "Explique afastamento e evite contato com bebês durante o período orientado.",
+        "12a17": "Mesmo vacinado pode adoecer e transmitir; comunique contato próximo com bebês ou gestantes.",
+        "unknown": "Confirme idade e risco com a equipe antes de orientar cuidados domiciliares."
+      },
+      "refs": [
+        {
+          "id": "pais220_op625_1",
+          "name": "Coqueluche",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/coqueluche"
+        },
+        {
+          "id": "pais220_op625_2",
+          "name": "Nota Técnica Conjunta 165/2025 DPNI/SVSA/MS",
+          "url": "https://www.cevs.rs.gov.br/upload/arquivos/202511/17104909-nota-tecnica-conjunta-n-165-2025-dpni-svsa-ms.pdf"
+        },
+        {
+          "id": "pais220_op625_3",
+          "name": "Symptoms of Whooping Cough",
+          "url": "https://www.cdc.gov/pertussis/signs-symptoms/index.html"
+        },
+        {
+          "id": "pais220_op625_4",
+          "name": "Treatment of Whooping Cough",
+          "url": "https://www.cdc.gov/pertussis/treatment/index.html"
+        },
+        {
+          "id": "pais220_op625_5",
+          "name": "Coqueluche",
+          "url": "https://www.cevs.rs.gov.br/coqueluche"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_98bbc4fde2343eb6",
+      "label": "Coqueluche / Síndrome Coqueluchoide (Bordetella pertussis) — registro no PPS",
+      "entity": "Coqueluche suspeita ou confirmada",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Coqueluche é entidade válida. Síndrome coqueluchoide tem outras causas e exige esclarecimento etiológico; não tratar o rótulo como exame positivo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Síndrome coqueluchoide descreve um quadro que também pode ter outras causas: esse nome não confirma a bactéria Bordetella pertussis. Estas orientações se aplicam quando a equipe considera coqueluche; confirme o diagnóstico e o plano específico.",
+          "Coqueluche pode causar crises repetidas de tosse, vômitos e cansaço, mas bebês podem apresentar pausas na respiração com pouca ou nenhuma tosse. Cuidados em casa só se a equipe avaliou e considerou seguro; lactentes precisam de avaliação rápida e podem necessitar internação.",
+          "Registre início da tosse, crises, mamadas e doses prescritas. A tosse pode persistir por semanas mesmo após tratamento; piora da respiração ou da alimentação não deve ser atribuída simplesmente à demora para melhorar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite fumaça, poeira e cheiros irritantes. Avise o serviço antes de comparecer para que organize a proteção de outras pessoas.",
+          "Na suspeita ou confirmação, mantenha afastamento da escola/creche por pelo menos cinco dias após começar antibiótico adequado; sem tratamento, a referência é 21 dias do início da tosse. A equipe deve confirmar a data de retorno. Evite contato com bebês e gestantes nesse período; não use o prazo como motivo para deixar de tratar.",
+          "Informe contatos próximos à equipe, principalmente quando há bebês, gestantes ou pessoas vulneráveis. Eles precisam de avaliação precoce; prevenção com antibiótico não é automática para todos."
+        ],
+        "MEDICAMENTOS": [
+          "Use o antibiótico somente conforme prescrição, sem compartilhar ou interromper por conta própria. A equipe pode iniciar tratamento pela suspeita, antes do resultado do exame.",
+          "Não acrescente xarope ou remédio para cortar tosse por conta própria. Se a criança vomitar uma dose, confirme com a equipe como proceder, sem repetir ou dobrar automaticamente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça pequenas quantidades mais vezes, de acordo com a idade, quando a criança estiver respirando confortavelmente. Durante crise de tosse, não force comida ou líquidos.",
+          "Mantenha leite materno ou fórmula habitual no lactente, sem diluir a fórmula nem substituir mamadas por água ou suco. Incapacidade de mamar, vômitos repetidos ou pouca urina exigem reavaliação rápida."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Pausa na respiração, lábios azulados, esforço importante para respirar, convulsão ou dificuldade de despertar exigem atendimento imediato; acione 192 se necessário. Não espere surgir o guincho típico ou completar vários dias de tosse.",
+          "Procure urgência se não consegue alimentar-se, fica muito abatida ou apresenta sinais importantes de desidratação. Bebê pequeno com suspeita de coqueluche deve ser avaliado prontamente, mesmo que pareça bem entre as crises."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ainda não houve avaliação, procure o serviço prontamente. Após a consulta, confirme retorno e critérios de internação, especialmente no bebê; piora, febre nova ou redução das mamadas antecipam a avaliação.",
+          "Os contatos devem observar sintomas por 21 dias após a última exposição e procurar atendimento se adoecerem. Confira vacinas com a unidade de saúde conforme o calendário vigente; vacinação não substitui avaliação ou tratamento da exposição."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebê pode ter apneia sem tosse importante: avaliação imediata diante da suspeita, sem observação caseira prolongada.",
+        "3a5m": "Risco elevado de forma grave: avaliação pronta e plano explícito da equipe sobre internação e mamadas.",
+        "6a11m": "Bebês menores de um ano seguem vulneráveis; vigiar respiração e alimentação, sem esperar tosse típica.",
+        "1a": "Cuidados em casa somente após avaliação; dificuldade de beber ou respirar exige urgência.",
+        "2a5": "Não usar xarope por conta própria. A equipe define afastamento e retorno à creche/escola.",
+        "6a11": "Explique afastamento e evite contato com bebês durante o período orientado.",
+        "12a17": "Mesmo vacinado pode adoecer e transmitir; comunique contato próximo com bebês ou gestantes.",
+        "unknown": "Confirme idade e risco com a equipe antes de orientar cuidados domiciliares."
+      },
+      "refs": [
+        {
+          "id": "pais220_op626_1",
+          "name": "Coqueluche",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/coqueluche"
+        },
+        {
+          "id": "pais220_op626_2",
+          "name": "Nota Técnica Conjunta 165/2025 DPNI/SVSA/MS",
+          "url": "https://www.cevs.rs.gov.br/upload/arquivos/202511/17104909-nota-tecnica-conjunta-n-165-2025-dpni-svsa-ms.pdf"
+        },
+        {
+          "id": "pais220_op626_3",
+          "name": "Symptoms of Whooping Cough",
+          "url": "https://www.cdc.gov/pertussis/signs-symptoms/index.html"
+        },
+        {
+          "id": "pais220_op626_4",
+          "name": "Treatment of Whooping Cough",
+          "url": "https://www.cdc.gov/pertussis/treatment/index.html"
+        },
+        {
+          "id": "pais220_op626_5",
+          "name": "Coqueluche",
+          "url": "https://www.cevs.rs.gov.br/coqueluche"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

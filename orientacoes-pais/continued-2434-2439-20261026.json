@@ -1,0 +1,654 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T15:53:12.957Z",
+  "records": [
+    {
+      "jobId": "OP-2434",
+      "specific": false,
+      "key": "pdf1500_470",
+      "label": "Doença do refluxo gastroesofágico não especificado",
+      "entity": "Doença do refluxo gastroesofágico (DRGE) pediátrica, com qualificador cadastral ‘não especificado’ que não define causa, fenótipo, gravidade, complicação nem tratamento e deve ser reconciliado ao núcleo pdf1500_460",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_NONINFORMATIVE_UNSPECIFIED_QUALIFIER_NOT_A_PEDIATRIC_SUBTYPE\",\"normalized_entity\":\"Doença do refluxo gastroesofágico (DRGE) pediátrica\",\"assessment\":\"O núcleo ‘doença do refluxo gastroesofágico’ é uma entidade clínica válida: refluxo gastroesofágico passa a ser doença quando causa sintomas incômodos relevantes, prejuízo funcional ou complicações. O acréscimo ‘não especificado’ informa apenas que o cadastro não fornece detalhes e não constitui subtipo clínico pediátrico. Ele não permite inferir idade, causa, duração, frequência, fenótipo, presença ou ausência de esofagite, gravidade, estabilidade, comorbidade, resultado de exame ou resposta terapêutica. Também não transforma golfadas fisiológicas de um lactente saudável em DRGE. A resolução segura é preservar o nome e o ID, aplicar o núcleo clínico e todos os alertas de pdf1500_460 e pedir o contexto faltante antes de individualizar qualquer conduta.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_460\",\"canonical_label\":\"Doença do refluxo gastroesofágico\",\"relationship\":\"SAME_VALID_BASE_ENTITY_WITHOUT_ADDITIONAL_CLINICAL_SPECIFICATION\",\"decision\":\"Preservar pdf1500_470 e seu rótulo exato para rastreabilidade; compartilhar o núcleo clínico, as seis seções, as oito faixas etárias, o sono seguro e os alertas de pdf1500_460; não criar nova doença, gravidade, causa ou plano terapêutico.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_460\"},\"unspecified_interpretation\":{\"what_it_means\":\"O registro não traz especificação clínica suficiente além do nome da doença-base.\",\"what_it_does_not_mean\":\"Não significa automaticamente DRGE sem esofagite, sem complicação, leve, idiopática, crônica, estável, tratada ou liberada para cuidado exclusivamente domiciliar.\",\"safety_rule\":\"Até que idade, padrão dos sintomas, alimentação, crescimento, hidratação, respiração, deglutição, comorbidades, exame e plano sejam conhecidos, não individualizar dieta, medicamento, dose, exame, procedimento, retorno ou alta; sinais de alarme sempre prevalecem.\"},\"distinction_from_physiologic_reflux\":\"Refluxo gastroesofágico fisiológico é comum nos primeiros meses e pode causar golfadas sem esforço em bebê confortável, que se alimenta e cresce bem. DRGE requer sintomas incômodos relevantes, repercussão funcional ou complicações. A frequência de golfadas, choro, irritabilidade, arqueamento, tosse, rouquidão ou chiado isolados não confirma DRGE e não deve ser convertida em ‘DRGE não especificada’.\",\"not_automatically_equivalent_to\":[\"Refluxo gastroesofágico fisiológico do lactente ou ‘golfador feliz’\",\"DRGE sem esofagite, doença não erosiva ou qualquer fenótipo endoscópico\",\"Doença leve, moderada, grave, aguda, crônica, recorrente, refratária, idiopática ou induzida por medicamento\",\"Quadro estável, baixo risco ou ausência de complicações\",\"Choro, irritabilidade, arqueamento, tosse, rouquidão ou chiado isolados\",\"Vômito por obstrução, estenose pilórica, infecção, alergia alimentar, doença neurológica, metabólica ou outra causa\",\"Indicação automática de dieta, espessamento, troca de fórmula, medicamento, exame, procedimento ou cirurgia\",\"Autorização automática de cuidado exclusivamente domiciliar, retorno tardio ou alta\"],\"pediatric_scope\":\"A apresentação depende da idade. Lactentes podem ter regurgitação visível, dificuldade alimentar ou repercussão no crescimento; crianças maiores e adolescentes podem descrever azia, retorno de conteúdo, gosto ácido, dor retroesternal ou epigástrica e dificuldade ou dor para engolir. Prematuridade, neurodeficiência, doença pulmonar, obesidade, hérnia de hiato e cirurgia prévia de esôfago ou diafragma aumentam a complexidade. Sem esses dados, ‘não especificado’ não permite estimar risco nem conduta.\",\"critical_context_to_confirm\":[\"Idade, início, frequência, duração, evolução e impacto dos sintomas em alimentação, sono, escola, atividade e qualidade de vida\",\"Se há golfada sem esforço ou vômito repetido, progressivamente forte, em jato, verde, com sangue ou semelhante a borra de café\",\"Azia, retorno de conteúdo, dor, recusa, engasgos, tosse durante alimentação, dificuldade ou dor para engolir e sensação de alimento parado\",\"Peso, estatura, curva de crescimento, ingestão, urina ou fraldas, lágrimas, boca seca, atividade e demais sinais de hidratação\",\"Febre, prostração, diarreia, sangue nas fezes, distensão ou dor abdominal, cefaleia matinal, convulsão ou alteração da consciência\",\"Falta de ar, pausas respiratórias, mudança de cor, pneumonias, tosse, rouquidão ou chiado e explicações respiratórias alternativas\",\"Prematuridade, neurodeficiência, doença pulmonar, cirurgia digestiva, alergia, atopia e demais comorbidades\",\"Alimentação atual, técnica e volumes quando aplicáveis, preparo da fórmula, exposição a fumaça e medicamentos ou suplementos em uso\",\"Quem registrou o diagnóstico, quais critérios, exames, complicações, tratamentos e respostas foram documentados\"],\"reason\":\"‘Não especificado’ é um descritor de ausência de detalhe, não um subtipo pediátrico respaldado pelas fontes. Mantê-lo como entidade separada poderia transformar informação ausente em falsa conclusão sobre causa, gravidade, esofagite ou tratamento. O mapeamento seguro é ao núcleo pdf1500_460, sem contar nova entidade e sem reduzir alertas.\",\"next_action\":\"Integrar como resolução terminológica ligada a pdf1500_460, preservar o nome cadastral e testar que ‘não especificado’ nunca gere causa, gravidade, paciente, dieta, espessamento, medicamento, dose, exame, procedimento, retorno tardio ou alta; manter sono seguro e precedência integral dos alertas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "‘DRGE não especificada’ não é uma forma diferente de refluxo: o cadastro apenas não traz detalhes. DRGE significa que o retorno do conteúdo do estômago causa sintomas realmente incômodos, atrapalha alimentação, crescimento ou função, ou provoca complicações; o nome sozinho não confirma como isso ocorre nesta criança.",
+          "Em bebês saudáveis, golfadas sem esforço, com conforto, alimentação e crescimento preservados, costumam ser refluxo fisiológico e melhoram com a maturação. Não transforme esse padrão em doença apenas porque ocorre várias vezes.",
+          "Não atribua automaticamente choro, irritabilidade, arqueamento, tosse, rouquidão ou chiado ao refluxo. Esses sinais são inespecíficos e precisam de avaliação quando persistentes, intensos ou associados a dificuldade alimentar, respiratória ou de crescimento.",
+          "Observe e registre o sintoma real: golfada ou vômito, cor e força, azia, retorno de conteúdo, dor, recusa, engasgos, dificuldade para engolir, urina e impacto na alimentação, sono e crescimento. Não atrase atendimento urgente para completar registros ou tirar fotos.",
+          "Mantenha casa e carro sem fumaça de cigarro, vape, narguilé ou maconha. A exposição prejudica a saúde respiratória, mas não deve ser presumida como causa única dos sintomas.",
+          "DRGE não é contagiosa e não exige afastamento de escola ou creche por si só. Vômitos agudos, febre, diarreia ou outra doença possivelmente transmissível seguem avaliação e regras próprias. Esta ficha não confirma diagnóstico individual, estabilidade nem alta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para todo sono do bebê, coloque-o de barriga para cima em superfície própria para sono, firme, plana, nivelada e desimpedida. Mesmo com refluxo, não use posição lateral ou de bruços, elevação do colchão, cunha, travesseiro, ninho, rolo ou posicionador antirrefluxo.",
+          "Depois da mamada, enquanto bebê e cuidador estiverem acordados, pode mantê-lo no colo com cabeça e pescoço apoiados e tronco mais vertical. Quando for dormir, transfira-o para o local de sono seguro; sofá, poltrona, bebê-conforto e colo de adulto que pode adormecer não são locais de sono.",
+          "Peça observação profissional da mamada quando houver dor, recusa, tosse, engasgo, voz molhada ou dúvida sobre pega, fluxo ou deglutição. Não tente corrigir possível dificuldade de deglutição com posição ou utensílio por conta própria.",
+          "Não use massagem, manipulação, terapia postural durante o sono, chá, suplemento, produto herbal ou dispositivo comercial para testar ou tratar refluxo. Melhora temporária não confirma DRGE.",
+          "Em crianças maiores e adolescentes, registre se sintomas se relacionam de modo consistente com refeições ou com deitar para discutir com a equipe. Não transforme observação em restrição universal nem aplique atraso de mamadas a lactentes.",
+          "Se já existe plano individual, siga-o e comunique mudança de padrão ou aparecimento de alerta. O termo ‘não especificado’ não autoriza ampliar medidas caseiras, adiar avaliação ou copiar conduta de outra criança."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê antiácido, redutor de acidez, remédio para náusea, medicamento que acelere o estômago, produto herbal ou receita de outra pessoa por conta própria. O nome ‘DRGE não especificada’ não indica produto, dose, via, intervalo ou duração.",
+          "Regurgitação isolada em criança saudável e choro, irritabilidade ou arqueamento isolados em lactente não justificam teste de supressão ácida. Resposta ou ausência de resposta a um remédio usado sem avaliação não confirma o diagnóstico nem define sua gravidade.",
+          "Se há prescrição vigente, confirme na receita o produto e a forma de uso e siga apenas esse plano. Não inicie, aumente, reduza, prolongue, repita, troque ou interrompa por conta própria e não compense erro com dose extra.",
+          "Informe à equipe todos os medicamentos e suplementos em uso, inclusive os sem receita, e possíveis efeitos indesejados. Alguns produtos podem piorar sintomas ou causar manifestações semelhantes, mas o qualificador não prova relação causal.",
+          "Persistência, retorno ou mudança de sintomas exige revisar adesão, diagnóstico diferencial e possíveis complicações, não apenas trocar ou intensificar medicamento. A necessidade de supressão ácida prolongada deve ser reavaliada pela equipe.",
+          "Esta orientação não prescreve medicamento. Exames, procedimentos, cirurgia ou alimentação por sonda são decisões individualizadas e não decorrem da expressão ‘não especificado’."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "O rótulo ‘não especificado’ não define dieta, volume, intervalo, textura, fórmula ou suplemento. Preserve o plano alimentar adequado à idade que já foi orientado e procure revisão se houver dor, recusa, engasgos ou dificuldade de crescimento; não force ingestão.",
+          "Em lactentes, mantenha leite materno ou fórmula corretamente preparada conforme orientação. Não substitua mamadas por água, chá, suco ou preparo caseiro, não altere a concentração da fórmula e não reduza o total oferecido por conta própria para diminuir golfadas.",
+          "Não engrosse leite ou outro líquido, não troque para fórmula ‘antirrefluxo’ e não mude bico ou textura sem avaliação. Quando indicada em situação selecionada, a estratégia precisa considerar produto, técnica, nutrição e segurança da deglutição.",
+          "Não retire leite, derivados, soja, glúten ou outro alimento da dieta da criança ou de quem amamenta apenas pelo nome do cadastro. Alergia alimentar pode imitar refluxo, e exclusão sem hipótese e acompanhamento pode prejudicar a nutrição e o crescimento.",
+          "Em crianças maiores e adolescentes, faça refeições adequadas à idade e registre relações consistentes entre alimento, horário e sintomas para discutir na consulta. Não crie lista universal de alimentos proibidos nem inicie dieta para perda de peso sem avaliação do crescimento e da nutrição.",
+          "Tosse, engasgo, voz molhada, mudança de cor ou falta de ar durante alimentação, dor ou dificuldade para engolir, alimento parado ou recusa persistente exigem avaliação. Não ofereça alimento, líquido ou remédio pela boca durante dificuldade respiratória, incapacidade de engolir ou alteração da consciência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde ou amarelo-esverdeado pode indicar obstrução intestinal: procure emergência imediatamente, mesmo que tenha ocorrido uma vez ou que o cadastro diga ‘não especificado’.",
+          "Vômitos repetidamente fortes ou em jato, especialmente em lactente pequeno ou quando ficam progressivamente piores, exigem avaliação hospitalar no mesmo dia.",
+          "Sangue ou aspecto de borra de café no vômito, fezes pretas ou outro sangramento digestivo exige pronto atendimento; acione emergência se houver grande quantidade, palidez intensa, desmaio ou pouca resposta.",
+          "Barriga muito distendida, rígida ou dolorosa, massa abdominal, dor forte ou piora rápida exige avaliação imediata por possível causa cirúrgica ou outra doença grave.",
+          "Esforço para respirar, pausas, lábios ou pele azulados, engasgo com mudança de cor, desmaio, convulsão ou dificuldade para acordar exige acionar o serviço de emergência.",
+          "Incapacidade de mamar ou beber, vômitos que impedem manter líquidos, urina muito reduzida, boca seca, ausência de lágrimas, fraqueza ou sonolência incomum pode indicar desidratação e exige avaliação urgente.",
+          "Lactente menor de três meses com temperatura medida de 38 °C ou mais, ou que parece doente com suspeita de febre, precisa de avaliação médica imediata; febre não deve ser explicada por refluxo.",
+          "Dificuldade progressiva ou súbita para engolir, dor ao engolir, alimento preso, salivação excessiva ou dor torácica intensa exige avaliação sem demora; se não consegue engolir saliva ou respirar normalmente, acione emergência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se ‘não especificado’ é tudo o que consta no registro, marque consulta pediátrica para confirmar o sintoma, distinguir refluxo fisiológico de DRGE e revisar alimentação, crescimento, exame e diagnósticos alternativos. Sem contexto, não é possível definir tratamento ou alta.",
+          "Reavalie se azia, retorno de conteúdo, dor, regurgitação ou vômitos persistirem, ficarem mais frequentes, mudarem de padrão, acordarem a criança ou interferirem em alimentação, hidratação, sono, escola, atividade ou ganho de peso.",
+          "No lactente, início de regurgitação ou vômito depois dos seis meses ou persistência frequente além do primeiro ano não segue o curso típico do refluxo fisiológico e merece avaliação de outras causas.",
+          "Antecipe a consulta se houver recusa, tosse ou engasgos durante alimentação, rouquidão persistente, dificuldade ou dor para engolir, anemia, perda de peso, desaceleração do crescimento ou sintomas respiratórios recorrentes.",
+          "Crianças com prematuridade, neurodeficiência, doença pulmonar crônica, obesidade, hérnia de hiato ou cirurgia prévia de esôfago ou diafragma podem precisar de acompanhamento especializado mais próximo; siga o plano da equipe e use os mesmos alertas.",
+          "Exames não são obrigatórios para toda criança. Endoscopia, monitorização de refluxo, estudo contrastado ou avaliação de deglutição são escolhidos conforme dúvida e alertas; ‘não especificado’ não é indicação automática de nenhum exame.",
+          "Depois de uma avaliação, siga o prazo individual informado e retorne antes se surgir qualquer sinal de alarme. Melhorar a quantidade de golfadas, isoladamente, não comprova resolução de dor, prejuízo alimentar ou complicação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Golfadas sem esforço podem ser fisiológicas quando o bebê está confortável, mama e cresce bem, mas ‘não especificado’ não informa segurança. Febre medida de 38 °C ou mais, aparência doente, vômito verde, sangue, jato progressivo, barriga distendida, pouca urina ou dificuldade para mamar ou respirar exige avaliação imediata. Para dormir, sempre de barriga para cima em superfície firme, plana e vazia.",
+        "3a5m": "Regurgitação fisiológica é muito comum nesta fase e não vira DRGE apenas pela frequência. Avalie conforto, alimentação e crescimento; choro ou arqueamento isolado não confirma doença. Não use posição lateral ou de bruços, inclinação, espessante, exclusão alimentar ou medicamento por conta própria.",
+        "6a11m": "As golfadas tendem a diminuir com a maturação. Início novo depois dos seis meses, piora, recusa, dor, engasgos ou ganho de peso insuficiente merece consulta para buscar outra causa. Não mude fórmula, textura, dieta ou medicamento sozinho e preserve o sono seguro.",
+        "1a": "Regurgitação frequente que persiste depois do primeiro ano precisa ter a causa reavaliada, sobretudo com dor, recusa, dificuldade de deglutição ou crescimento inadequado. Não continue automaticamente dieta ou medicamento antigo; sangue, bile, desidratação, distensão ou dor intensa exige urgência.",
+        "2a5": "A criança pequena pode não conseguir explicar azia ou dor e mostrar recusa, desconforto ao comer ou mudança de comportamento. Observe deglutição e crescimento sem atribuir tosse, rouquidão ou choro isolados à DRGE. Dificuldade progressiva para engolir ou alimento preso exige avaliação rápida.",
+        "6a11": "Pode relatar queimação atrás do peito, gosto ácido, retorno de alimento ou dor na parte alta da barriga. Registre frequência e impacto sem criar proibições alimentares. Dor ou dificuldade ao engolir, perda de peso, anemia, vômito com sangue, fezes pretas ou dor torácica intensa precisa de avaliação sem demora.",
+        "12a17": "Inclua o adolescente na conversa e avalie, com privacidade apropriada, azia, regurgitação, dor, deglutição, padrão alimentar, medicamentos, cigarro, vape e possibilidade de gestação quando pertinente. Peso e alimentação devem ser abordados sem culpa ou dieta radical. Disfagia, alimento impactado, sangramento, perda de peso ou dor torácica importante exige avaliação rápida.",
+        "unknown": "Sem idade não é possível interpretar regurgitação, adaptar alimentação, estimar diagnósticos alternativos ou individualizar seguimento. Use apenas as medidas universais seguras e os alertas, preserve sono infantil supino e plano quando aplicável, não prescreva dieta ou medicamento e obtenha avaliação para completar o contexto."
+      },
+      "refs": [
+        {
+          "id": "pais245_op2434_1",
+          "name": "Guia Prático de Orientação nº 185 — Doença do Refluxo Gastroesofágico",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24664f-GPO_-_Doenca_de_Refluxo_Gastroesofagico_SITE.pdf"
+        },
+        {
+          "id": "pais245_op2434_2",
+          "name": "Pediatric Gastroesophageal Reflux Clinical Practice Guidelines: Joint Recommendations of NASPGHAN and ESPGHAN",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/"
+        },
+        {
+          "id": "pais245_op2434_3",
+          "name": "Gastro-oesophageal reflux disease in children and young people: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng1/chapter/Recommendations"
+        },
+        {
+          "id": "pais245_op2434_4",
+          "name": "Clinical Practice Guidelines: Gastrooesophageal reflux disease in infants",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastrooesophageal_reflux_disease_in_infants/"
+        },
+        {
+          "id": "pais245_op2434_5",
+          "name": "Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment",
+          "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+        },
+        {
+          "id": "pais245_op2434_6",
+          "name": "Medical management of gastro-esophageal reflux in healthy infants",
+          "url": "https://cps.ca/en/documents/position/gastro-esophageal-reflux-in-healthy-infants"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2435",
+      "specific": false,
+      "key": "pdf1500_471",
+      "label": "Doença do refluxo gastroesofágico recorrente",
+      "entity": "Doença do refluxo gastroesofágico pediátrica; ‘recorrente’ descreve apenas que sintomas teriam voltado e não define, sem história clínica, subtipo, frequência, causa, gravidade, complicação ou tratamento",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_AMBIGUOUS_NONSTANDARD_RECURRENCE_QUALIFIER\",\"normalized_entity\":\"Doença do refluxo gastroesofágico pediátrica\",\"assessment\":\"A doença do refluxo gastroesofágico (DRGE) é uma entidade válida quando o refluxo causa sintomas incômodos relevantes, prejuízo funcional ou complicações. ‘Recorrente’ pode, em linguagem comum, indicar que um sintoma reapareceu depois de melhora ou de interrupção de tratamento, mas as diretrizes pediátricas consultadas não o usam como subtipo diagnóstico autônomo. O rótulo não informa qual sintoma voltou, quantas vezes, em que intervalo, após qual intervenção, nem se a DRGE foi confirmada. Sintomas que não melhoram ou que retornam exigem rever história, adesão ao plano já prescrito, diagnóstico diferencial, necessidade real de tratamento e possíveis complicações; não permitem concluir causa, gravidade, resistência, recidiva de esofagite ou necessidade de reiniciar medicamento. O ID e o nome cadastral devem ser preservados, mas a orientação clínica deve ser reconciliada ao núcleo pdf1500_460 e contar zero entidade clínica adicional.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_460\",\"canonical_label\":\"Doença do refluxo gastroesofágico\",\"relationship\":\"SAME_BASE_ENTITY_WITH_AMBIGUOUS_TEMPORAL_RECURRENCE_QUALIFIER_REQUIRING_CLINICAL_REASSESSMENT\",\"decision\":\"Preservar pdf1500_471 e seu rótulo literal para busca e auditoria, compartilhar o núcleo clínico de pdf1500_460 e contar zero entidade clínica adicional. Não converter ‘recorrente’ em frequência, causa, paciente, gravidade, complicação, refratariedade, indicação de dieta, medicamento, dose, exame, internação ou alta.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_460\"},\"not_automatically_equivalent_to\":[\"DRGE confirmada em uma criança específica\",\"Frequência, intervalo, duração ou número de episódios conhecido\",\"DRGE refratária, resistente, crônica grave ou dependente de tratamento\",\"Recidiva endoscópica, esofagite erosiva ou outra complicação confirmada\",\"Retorno de sintomas após retirada documentada de tratamento\",\"Refluxo gastroesofágico fisiológico do lactente ou regurgitação isolada\",\"Vômito recorrente por obstrução, infecção, alergia alimentar, distúrbio de deglutição, doença neurológica, metabólica ou outra causa\",\"Indicação automática de exame, espessamento, troca de fórmula, exclusão alimentar, medicamento, cirurgia, internação ou alta\"],\"pediatric_scope\":\"Em lactentes, golfadas repetidas podem ser fisiológicas quando são sem esforço e o bebê permanece confortável, alimenta-se e cresce; o adjetivo ‘recorrente’ não as transforma em DRGE. Em crianças maiores e adolescentes, azia, regurgitação, gosto ácido, dor retroesternal ou epigástrica e dificuldade para engolir podem reaparecer, mas o padrão precisa ser confirmado. Em qualquer idade, sintomas que voltam após melhora pedem revisão do diagnóstico, do plano e de causas alternativas, com prioridade para sinais de alarme.\",\"critical_context_to_confirm\":[\"Idade e qual sintoma reapareceu: golfada sem esforço, vômito, azia, regurgitação, dor, recusa, engasgo ou dificuldade para engolir\",\"Início, duração, evolução e relação temporal real entre episódios, sem presumir frequência pelo rótulo\",\"Se houve intervalo completamente sem sintomas e o que mudou antes do retorno\",\"Cor, força e conteúdo do vômito, incluindo bile verde ou amarelo-esverdeada, sangue ou aspecto de borra de café\",\"Peso, estatura, curva de crescimento, alimentação, hidratação, urina e anemia\",\"Dor ou dificuldade para engolir, alimento parado, tosse ou engasgo durante alimentação e sintomas respiratórios\",\"Febre, prostração, diarreia, sangue nas fezes, distensão, dor abdominal, cefaleia matinal, convulsão ou alteração de consciência\",\"Prematuridade, neurodeficiência, doença pulmonar, alergia ou atopia, cirurgia digestiva prévia e outras comorbidades\",\"Plano já prescrito, forma real de uso, interrupções, resposta, efeitos adversos e todos os produtos utilizados\",\"Exames prévios, diagnóstico diferencial documentado e se DRGE ou alguma complicação foi realmente confirmada\"],\"counting_rule\":\"Contar pdf1500_471 e pdf1500_460 como uma única entidade clínica-base. ‘Recorrente’ permanece como qualificador temporal insuficiente e não acrescenta frequência, causa, gravidade, complicação, prognóstico ou indicação terapêutica.\",\"reason\":\"As diretrizes tratam sintomas que retornam como motivo para reavaliação de eficácia, adesão, causas alternativas e, conforme o caso, investigação; não como um subtipo autônomo definido apenas pelo adjetivo. Aceitar o rótulo literalmente poderia medicalizar refluxo fisiológico, reiniciar tratamento sem avaliação ou atrasar o reconhecimento de outra doença.\",\"next_action\":\"Mapear pdf1500_471 a pdf1500_460, preservar rótulo e ID, manter SOURCE_TERM_ISSUE e specific=false e testar que ‘recorrente’ não gere frequência, causa, paciente, dieta, medicamento, dose, exame, internação ou alta. Manter alertas clínicos e sono infantil supino, firme, plano, sem inclinação e sem acessórios.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A palavra ‘recorrente’ nesta ficha apenas sugere que algum sintoma teria voltado; ela não informa qual sintoma, com que frequência, por qual causa ou se a criança realmente tem DRGE. A orientação clínica corresponde ao núcleo pdf1500_460.",
+          "Refluxo gastroesofágico é a volta do conteúdo do estômago para o esôfago. Em muitos lactentes, golfadas sem esforço, com conforto, alimentação e crescimento preservados, são fisiológicas. Chama-se DRGE quando há sintomas incômodos, prejuízo funcional ou complicações.",
+          "Se os sintomas reapareceram, anote o que aconteceu, quando começou, se houve período sem sintomas, relação com mamadas ou refeições, aparência do vômito, dor, engasgos, líquidos aceitos, urina e disposição. Não atrase atendimento para completar o registro.",
+          "Acompanhe peso e crescimento nas consultas. Recusa persistente, dor ao engolir, alimento parado, perda de peso ou desaceleração do crescimento não devem ser explicados automaticamente como ‘refluxo recorrente’.",
+          "Não atribua automaticamente choro, arqueamento, tosse, rouquidão, chiado ou despertares à DRGE. Esses sinais têm muitas causas e precisam ser avaliados no contexto real.",
+          "Para todo sono no primeiro ano, coloque o bebê de barriga para cima, em superfície própria, firme, plana, sem inclinação e sem objetos soltos. Mesmo com refluxo, não use posição de lado ou de bruços, cunha, travesseiro, ninho, rolo ou elevação do berço."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha somente as rotinas seguras já orientadas. O retorno de sintomas não deve ser usado como teste para repetir automaticamente uma intervenção antiga.",
+          "Durante mamadas e refeições, supervisione, respeite pausas e sinais de saciedade e não force ingestão diante de engasgo, tosse persistente, dor, cansaço ou recusa. Peça avaliação da alimentação ou da deglutição quando esses sinais aparecem.",
+          "Enquanto o lactente estiver acordado, pode permanecer no colo com cabeça e pescoço apoiados conforme o cuidado habitual. Se adormecer, transfira-o para o espaço de sono seguro; cadeirinha, bebê-conforto, equipamento inclinado, sofá e colo de cuidador adormecido não são locais de sono rotineiro.",
+          "Não use monitor, aplicativo, faixa abdominal, massagem, manobra ou dispositivo antirrefluxo para confirmar que os sintomas são recorrência de DRGE. Eles não substituem avaliação clínica.",
+          "Em crianças maiores e adolescentes, registre relações consistentes entre sintomas, refeições, sono, atividade e produtos usados para discutir na consulta, sem transformar coincidência em causa ou impor restrições.",
+          "Se houver sinal de alarme, interrompa tentativas caseiras e procure atendimento conforme a prioridade. Medidas de conforto não devem atrasar avaliação de obstrução, sangramento, desidratação, comprometimento respiratório, neurológico ou outra doença."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não prescreve medicamento, dose, concentração, via, frequência ou duração. ‘Recorrente’ não autoriza reiniciar, repetir ou prolongar uma receita antiga.",
+          "Não dê antiácido, redutor de acidez, remédio para náusea, produto herbal, sobra de tratamento ou receita de outra pessoa para testar se os sintomas são refluxo.",
+          "Se já existe prescrição individual, siga somente o plano recebido e confirme dúvidas com o prescritor. Não aumente, reduza, associe, interrompa ou repita dose por causa do nome desta ficha.",
+          "Uma melhora ou piora após qualquer produto não confirma DRGE recorrente, causa ou complicação. Informe à equipe todos os produtos usados, horários, interrupções, alergias e efeitos observados.",
+          "Se ocorrer vômito após uma dose prescrita, não a repita automaticamente. Confirme com o serviço responsável, considerando o medicamento, o tempo transcorrido e o estado da criança.",
+          "Sintomas que voltam após melhora exigem revisar o diagnóstico, a forma de uso do plano e causas alternativas antes de qualquer mudança. Medicamento sintomático não substitui avaliação quando há alertas."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha aleitamento, fórmula corretamente preparada ou alimentação habitual adequada à idade conforme tolerância e plano já recebido. O rótulo não define volume, intervalo, fórmula, espessante, bico, textura, suplemento ou dieta.",
+          "Não reduza o total oferecido e não substitua mamadas por água, chá, suco ou preparo caseiro. Ajustes de volume e frequência dependem de idade, peso, crescimento e avaliação da alimentação.",
+          "Não engrosse líquidos, não troque fórmula e não retire leite, soja, glúten ou outro alimento para tratar uma suposta recorrência. Mudanças precisam de hipótese clínica, segurança de deglutição e acompanhamento nutricional.",
+          "Não force alimento ou líquido quando houver engasgo, dificuldade para respirar, sonolência anormal, alimento parado ou incapacidade de engolir. Procure atendimento conforme a gravidade.",
+          "Observe se a criança consegue manter líquidos e urina como de costume. Boca seca, ausência de lágrimas, olhos fundos, urina muito reduzida, mãos frias, sonolência ou prostração podem indicar desidratação e exigem avaliação urgente.",
+          "Vômito verde ou amarelo-esverdeado, sangue no vômito, aspecto de borra de café, fezes pretas ou sangramento intestinal não deve ser manejado com ajuste alimentar em casa: procure atendimento imediato."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde ou amarelo-esverdeado, barriga muito distendida, rígida ou dolorosa, massa abdominal ou piora rápida pode indicar obstrução ou outra urgência; procure atendimento hospitalar imediatamente.",
+          "Vômito com sangue ou aspecto de borra de café, fezes pretas, sangramento importante, palidez intensa, desmaio ou fraqueza extrema exige atendimento imediato.",
+          "Falta de ar, costelas afundando, lábios arroxeados, pausas respiratórias, engasgo com incapacidade de respirar, desmaio ou dificuldade para despertar exige acionar o serviço de emergência.",
+          "Vômitos repetidos com incapacidade de manter líquidos, urina muito reduzida, ausência de lágrimas, olhos fundos, extremidades frias, sonolência ou prostração exige avaliação urgente por possível desidratação ou choque.",
+          "Vômito persistente, progressivamente forte ou em jato, especialmente em recém-nascido ou lactente pequeno, precisa de avaliação urgente; não espere e não trate como refluxo recorrente.",
+          "Bebê com menos de três meses com temperatura medida de 38 °C ou mais, ou com suspeita de febre e aparência doente, precisa de avaliação imediata; febre não deve ser atribuída ao refluxo.",
+          "Alimento preso, incapacidade de engolir saliva, baba súbita, dor intensa ao engolir, convulsão, confusão ou pouca resposta exige pronto atendimento. Não force alimento, líquido ou comprimido."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure consulta para esclarecer o que ‘recorrente’ representa neste caso. A equipe deve confirmar o sintoma, comparar com o episódio anterior, revisar crescimento, alimentação, hidratação, plano já usado e causas alternativas.",
+          "Antecipe a consulta se houver recusa alimentar, dor nas mamadas ou refeições, engasgos, azia que volta, dor no peito ou alto do abdome, dor ao engolir, perda ou baixo ganho de peso, anemia ou sintomas que acordam a criança.",
+          "Regurgitação ou vômitos que começam depois dos 6 meses, persistem além de 12 a 18 meses ou reaparecem depois de cessarem merecem revisão da causa. Esses marcos não provam DRGE recorrente e não definem emergência na ausência de alertas.",
+          "Se sintomas retornaram durante ou depois de um tratamento, não o reinicie automaticamente. A equipe deve rever se DRGE foi confirmada, adesão, efeitos adversos, necessidade atual, complicações e diagnósticos que podem imitar refluxo.",
+          "Crianças com prematuridade, neurodeficiência, doença pulmonar crônica, obesidade, hérnia de hiato ou cirurgia prévia do esôfago ou diafragma podem precisar de avaliação especializada mais próxima; siga o plano da equipe responsável.",
+          "Exames não são automáticos para sintomas que voltam. A escolha de endoscopia, monitorização de refluxo, estudo anatômico ou avaliação de deglutição depende da dúvida clínica e dos alertas reais.",
+          "Mantenha o retorno definido pela equipe. Esta ficha não presume consulta anterior, frequência conhecida, estabilidade, resultado de exame, resposta terapêutica, cura, encerramento de seguimento nem alta."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Golfadas sem esforço podem ser fisiológicas, mas bebê pequeno com temperatura de 38 °C ou mais, aparência doente, recusa, vômito verde, sangue, jato progressivo, barriga distendida, pouca urina, dificuldade para respirar ou pouca resposta precisa de avaliação imediata. Não presuma recorrência de DRGE. Para dormir, sempre de barriga para cima em superfície firme, plana, vazia e sem inclinação.",
+        "3a5m": "Regurgitação fisiológica é comum nesta fase e não se torna DRGE recorrente por acontecer muitas vezes. Observe conforto, mamadas, hidratação e crescimento. Vômito em jato, sangue, febre, prostração ou desidratação antecipa avaliação. Preserve sono supino, firme, plano e sem acessórios.",
+        "6a11m": "Início novo depois dos 6 meses, reaparecimento depois de cessar ou piora precisa de avaliação de outras causas. Não inicie dieta, espessante ou medicamento. Até completar um ano, mantenha o bebê de barriga para cima em superfície firme, plana, vazia e sem inclinação para todo sono.",
+        "1a": "Regurgitação frequente que persiste após 12 a 18 meses ou reaparece depois de cessar, especialmente com dor, recusa, engasgo ou crescimento inadequado, deve ser reavaliada. Não continue automaticamente dieta ou medicamento antigo; sinais de alarme têm prioridade.",
+        "2a5": "Crianças pequenas podem não descrever azia e mostrar dor, vômitos, recusa ou irritabilidade. Confirme o que realmente voltou e observe alimentação, deglutição, hidratação e crescimento. Disfagia, sangue, vômito verde, prostração ou desidratação exige atendimento rápido.",
+        "6a11": "Pergunte diretamente sobre azia, regurgitação, gosto ácido, dor no peito ou alto do abdome e dificuldade para engolir, comparando com episódios anteriores sem sugerir respostas. Não reinicie dieta ou remédio automaticamente. Sangramento, alimento preso, perda de peso ou dor torácica intensa exige avaliação rápida.",
+        "12a17": "Inclua o adolescente na conversa, com privacidade apropriada, e confirme sintomas, padrão alimentar, produtos usados, cigarro ou vape e possibilidade de gestação quando pertinente. Não presuma causa ou frequência. Disfagia progressiva, alimento impactado, sangramento, perda de peso ou dor torácica importante exige avaliação rápida.",
+        "unknown": "Sem idade, sintoma que voltou, intervalo, alimentação, hidratação, crescimento, exame, diagnóstico e plano vigente, não presuma DRGE recorrente, frequência, causa, dieta, medicamento, dose, exame ou alta. Aplique imediatamente os sinais de alarme e obtenha avaliação apropriada."
+      },
+      "refs": [
+        {
+          "id": "pais245_op2435_1",
+          "name": "Pediatric Gastroesophageal Reflux Clinical Practice Guidelines: Joint Recommendations of NASPGHAN and ESPGHAN",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/"
+        },
+        {
+          "id": "pais245_op2435_2",
+          "name": "Gastro-oesophageal reflux disease in children and young people: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng1/chapter/Recommendations"
+        },
+        {
+          "id": "pais245_op2435_3",
+          "name": "Clinical Practice Guidelines: Gastrooesophageal reflux disease in infants",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastrooesophageal_reflux_disease_in_infants/"
+        },
+        {
+          "id": "pais245_op2435_4",
+          "name": "Refluxo e Doença do Refluxo Gastroesofágico em Pediatria",
+          "url": "https://www.sbp.com.br/refluxo-e-doenca-do-refluxo-gastroesofagico-em-pediatria/"
+        },
+        {
+          "id": "pais245_op2435_5",
+          "name": "Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment",
+          "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+        },
+        {
+          "id": "pais245_op2435_6",
+          "name": "Medical management of gastro-esophageal reflux in healthy infants",
+          "url": "https://cps.ca/en/documents/position/gastro-esophageal-reflux-in-healthy-infants"
+        },
+        {
+          "id": "pais245_op2435_7",
+          "name": "Symptoms & Causes of GER & GERD in Children",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-children/symptoms-causes"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2436",
+      "specific": false,
+      "key": "pdf1500_472",
+      "label": "Doença do refluxo gastroesofágico refratário",
+      "entity": "Doença do refluxo gastroesofágico (DRGE) pediátrica; ‘refratária’ é um qualificador clínico reconhecido para DRGE que não responde ao tratamento ótimo após oito semanas, mas não pode ser confirmado pelo rótulo cadastral sem diagnóstico, plano, execução, resposta e causas alternativas documentados",
+      "assessment": "{\"classification\":\"VALID_BASE_PEDIATRIC_GERD_ENTITY_WITH_RECOGNIZED_BUT_UNCONFIRMED_REFRACTORY_QUALIFIER_AND_GRAMMATICAL_DISCORDANCE\",\"normalized_entity\":\"Doença do refluxo gastroesofágico pediátrica; refratariedade a confirmar\",\"assessment\":\"O núcleo ‘doença do refluxo gastroesofágico’ é uma entidade clínica válida quando o refluxo causa sintomas incômodos relevantes, prejuízo funcional ou complicações. A diretriz conjunta NASPGHAN/ESPGHAN reconhece ‘DRGE refratária’ como DRGE que não responde ao tratamento ótimo após oito semanas. Portanto, ‘refratária’ não é uma doença independente nem sinônimo de sintoma persistente, golfada frequente, refluxo fisiológico, falha de uma tentativa incompleta ou necessidade automática de aumentar tratamento. O rótulo não informa se DRGE foi confirmada, quais sintomas persistem, qual plano foi indicado, se foi apropriado à idade e ao fenótipo, se foi executado corretamente, se houve resposta objetiva ou se diagnósticos diferenciais e sinais de alarme foram revistos. Há ainda discordância gramatical no cadastro: ‘doença’ pede o feminino ‘refratária’; o rótulo literal deve ser preservado para rastreabilidade, sem alterar seu significado clínico. Assim, o qualificador exige confirmação individual e a ficha deve ser reconciliada a pdf1500_460, com zero nova entidade clínica.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_460\",\"canonical_label\":\"Doença do refluxo gastroesofágico\",\"relationship\":\"SAME_BASE_ENTITY_WITH_RECOGNIZED_BUT_UNCONFIRMED_TREATMENT_RESPONSE_QUALIFIER\",\"decision\":\"Preservar pdf1500_472 e seu rótulo literal para busca e auditoria, compartilhar o núcleo clínico de pdf1500_460 e não declarar refratariedade sem confirmar DRGE, tratamento ótimo por oito semanas, execução real, resposta e causas alternativas. Não criar doença adicional nem inferir dieta, medicamento, dose, exame, procedimento, internação ou alta.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_460_WITH_UNCONFIRMED_QUALIFIER\"},\"refractory_qualifier\":{\"guideline_definition\":\"DRGE que não responde ao tratamento ótimo após oito semanas.\",\"confirmation_required\":[\"DRGE previamente estabelecida, distinta de refluxo fisiológico e de sintomas inespecíficos isolados\",\"Sintoma, repercussão ou complicação que persistiu e medida usada para acompanhar a resposta\",\"Plano considerado ótimo para idade, fenótipo e contexto pelo profissional responsável, sem inferi-lo a partir desta ficha\",\"Execução correta e tolerada do plano durante o intervalo pertinente, sem presumir adesão ou acesso\",\"Revisão de técnica, administração, interações, efeitos adversos e barreiras quando aplicável\",\"Reavaliação de sinais de alarme, complicações e diagnósticos alternativos que podem imitar DRGE\"],\"safety_interpretation\":\"Até que esses elementos estejam documentados, tratar ‘refratário’ como qualificador não confirmado. Persistência de sintomas aciona reavaliação clínica, não escalonamento automático de medicamento, dieta, exame ou cirurgia.\"},\"not_automatically_equivalent_to\":[\"DRGE confirmada em uma criança específica\",\"Refluxo gastroesofágico fisiológico do lactente ou regurgitação isolada\",\"Sintoma persistente sem diagnóstico estabelecido\",\"Falha após menos de oito semanas ou após plano incompleto, inadequado, não tolerado ou não executado\",\"Resistência a um medicamento específico, necessidade de dose maior ou indicação de associação terapêutica\",\"Esofagite erosiva, estenose, aspiração, síndrome de Sandifer ou outra complicação confirmada\",\"Alergia alimentar, esofagite eosinofílica, distúrbio de deglutição, doença anatômica, neurológica, respiratória, infecciosa ou metabólica\",\"Indicação automática de espessamento, troca de fórmula, exclusão alimentar, exame, cirurgia, alimentação por sonda, internação ou alta\"],\"pediatric_scope\":\"A interpretação muda com a idade. Em lactentes, golfadas e sintomas inespecíficos são comuns e frequentemente fisiológicos; choro, irritabilidade e arqueamento isolados não comprovam DRGE nem refratariedade. Crianças maiores e adolescentes conseguem descrever melhor azia, regurgitação, dor e dificuldade para engolir, mas persistência ainda exige confirmar diagnóstico, execução do plano e diferenciais. Prematuridade, neurodeficiência, doença pulmonar, obesidade, hérnia de hiato e cirurgia prévia do esôfago ou diafragma aumentam a complexidade e favorecem avaliação especializada, sem confirmar refratariedade por si sós.\",\"critical_context_to_confirm\":[\"Idade e qual sintoma persiste: golfada sem esforço, vômito, azia, regurgitação, dor, recusa, engasgo, tosse durante alimentação ou dificuldade para engolir\",\"Início, duração, frequência, evolução e repercussão real em alimentação, crescimento, sono, escola e atividade\",\"Se há vômito progressivamente forte, em jato, verde ou amarelo-esverdeado, com sangue ou aspecto de borra de café\",\"Peso, estatura, curva de crescimento, ingestão, hidratação, urina ou fraldas, anemia e estado geral\",\"Dor ou dificuldade para engolir, alimento parado, sangue, fezes pretas, distensão, dor abdominal e sintomas respiratórios ou neurológicos\",\"Como DRGE foi estabelecida e quais causas alternativas ou complicações foram avaliadas\",\"Plano realmente prescrito, objetivo, duração, forma de administração, execução, interrupções, tolerância, efeitos adversos e resposta observada, sem preencher lacunas por suposição\",\"Todos os medicamentos, suplementos e produtos usados e se podem causar, piorar ou imitar os sintomas\",\"Prematuridade, neurodeficiência, doença pulmonar, alergia ou atopia, obesidade, cirurgia digestiva e outras comorbidades\",\"Quem registrou ‘refratário’, em qual contexto e se a definição de ausência de resposta ao tratamento ótimo após oito semanas foi efetivamente atendida\"],\"counting_rule\":\"Contar pdf1500_472 e pdf1500_460 como uma única entidade clínica-base. ‘Refratário’ é qualificador clinicamente reconhecido, porém não confirmado pelo cadastro; não soma doença, gravidade, complicação ou orientação clínica específica enquanto faltarem os critérios individuais.\",\"reason\":\"A refratariedade tem definição clínica dependente de resposta a tratamento ótimo ao longo do tempo. Aceitar o adjetivo sem confirmação pode medicalizar refluxo fisiológico, mascarar falha de diagnóstico ou de execução, induzir escalonamento inseguro e atrasar o reconhecimento de complicação ou doença alternativa.\",\"next_action\":\"Mapear pdf1500_472 a pdf1500_460, preservar ID e rótulo, manter SOURCE_TERM_ISSUE e specific=false e, na avaliação clínica, confirmar separadamente diagnóstico, sintomas-alvo, plano ótimo, oito semanas, execução, resposta, alertas e diferenciais. Testar que o qualificador não gere paciente, terapia, dieta, dose, exame, cirurgia, internação ou alta e que o sono infantil permaneça supino, firme, plano, vazio e sem inclinação.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A palavra ‘refratário’ nesta ficha não confirma que uma criança tenha DRGE de difícil controle. Ela só pode ser usada depois de confirmar DRGE e ausência de resposta ao tratamento considerado ótimo após oito semanas; o rótulo não informa esses dados. A orientação clínica corresponde ao núcleo pdf1500_460.",
+          "Refluxo gastroesofágico é a volta do conteúdo do estômago para o esôfago. Em muitos lactentes, golfadas sem esforço com conforto, alimentação e crescimento preservados são fisiológicas. DRGE existe quando há sintomas incômodos relevantes, prejuízo funcional ou complicações; frequência de golfadas, choro, irritabilidade ou arqueamento isolados não prova doença ou refratariedade.",
+          "Registre o sintoma que continua, quando ocorre, sua relação com mamadas ou refeições, aparência e força do vômito, dor, engasgos, líquidos aceitos, urina e disposição. Leve também o plano recebido e como ele foi realmente seguido; não atrase atendimento para completar anotações.",
+          "Acompanhe peso, estatura e crescimento nas consultas. Recusa persistente, dor ao engolir, alimento parado, perda de peso ou desaceleração do crescimento precisam de avaliação e não devem ser explicados apenas como refluxo refratário.",
+          "Não atribua automaticamente tosse, rouquidão, chiado, pneumonias, dor torácica, despertares ou sintomas neurológicos à DRGE. Esses achados têm outras causas possíveis e exigem avaliação própria.",
+          "DRGE não é contagiosa. Escola, creche e atividade dependem do estado da criança e do plano clínico, não do adjetivo ‘refratário’. Esta ficha não confirma estabilidade, não substitui avaliação e não autoriza alta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para todo sono até um ano, coloque o bebê de barriga para cima em superfície própria, firme, plana, nivelada, sem inclinação e sem objetos soltos. Mesmo com refluxo ou suspeita de refratariedade, não use posição lateral ou de bruços, cunha, travesseiro antirrefluxo, ninho, rolo nem elevação do berço.",
+          "Enquanto bebê e cuidador estiverem acordados, o bebê pode ficar no colo com cabeça e pescoço apoiados conforme o cuidado habitual. Se adormecer, transfira-o ao espaço de sono seguro; bebê-conforto, cadeirinha, sofá, poltrona e colo de adulto que possa adormecer não são locais de sono rotineiro.",
+          "Peça observação profissional da mamada ou refeição quando houver tosse, engasgo, fluxo difícil, dor, cansaço ou recusa. Problema de pega, oferta, deglutição ou coordenação pode imitar falha do tratamento de refluxo.",
+          "Não use postura, massagem, manipulação, monitor, aplicativo ou dispositivo antirrefluxo para testar ou tratar suposta refratariedade. Medidas sem benefício comprovado podem criar risco e atrasar a reavaliação.",
+          "Em crianças maiores e adolescentes, registre relações consistentes entre sintomas, refeições, horário, sono, atividade e produtos usados para discutir com a equipe. Coincidência isolada não prova causa e não deve gerar restrições universais.",
+          "Se houver sinal de alarme, interrompa tentativas caseiras e procure atendimento conforme a prioridade. Conforto e registro não devem atrasar avaliação de obstrução, sangramento, desidratação, comprometimento respiratório, neurológico ou outra doença."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não prescreve medicamento, dose, concentração, via, frequência ou duração. O termo ‘refratário’ não autoriza iniciar, aumentar, associar, trocar, prolongar, reiniciar ou interromper tratamento.",
+          "Não dê antiácido, redutor de acidez, remédio para náusea, produto herbal, sobra de receita ou medicamento de outra pessoa para testar se o refluxo é resistente.",
+          "Se já existe prescrição individual, use somente como foi orientado e confirme dúvidas com o prescritor. Leve nomes, apresentações, horários realmente usados, dificuldades, esquecimentos e efeitos observados; não compense erro ou vômito após dose com dose extra sem orientação.",
+          "Persistência de sintomas não comprova falha do remédio nem refratariedade. A equipe precisa rever se DRGE foi estabelecida, se o sintoma-alvo é causado por refluxo, se o plano foi adequado e executado e se há outra explicação.",
+          "Uso prolongado de supressão ácida precisa de necessidade e segurança revistas. Não mantenha nem escale automaticamente porque o rótulo diz ‘refratário’; em lactentes saudáveis, regurgitação visível, choro ou irritabilidade isolados não justificam esse tratamento.",
+          "Exames, alimentação por sonda e cirurgia são decisões especializadas para situações selecionadas depois de avaliação apropriada. O qualificador, sozinho, não indica procedimento, internação nem tratamento invasivo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha aleitamento, fórmula corretamente preparada ou alimentação habitual adequada à idade conforme tolerância e plano já recebido. O rótulo não define volume, intervalo, fórmula, bico, textura, espessante, suplemento ou dieta.",
+          "Respeite sinais de fome e saciedade e não force. Não reduza o total oferecido e, em lactentes, não substitua mamadas por água, chá, suco ou preparo caseiro; qualquer ajuste depende de idade, crescimento, alimentação e avaliação individual.",
+          "Não engrosse líquidos, não troque fórmula e não retire leite, soja, glúten ou outro alimento para tentar vencer uma suposta refratariedade. Essas mudanças exigem hipótese clínica, segurança da deglutição e acompanhamento nutricional.",
+          "Tosse, engasgo, voz molhada, mudança de cor, cansaço durante alimentação, dor ao engolir ou sensação de alimento parado exige avaliação da deglutição e do esôfago. Não force alimento, líquido ou comprimido quando a criança não consegue engolir ou respirar bem.",
+          "Observe se consegue manter líquidos e se urina como de costume. Boca muito seca, ausência de lágrimas, olhos fundos, urina muito reduzida, mãos frias, sonolência ou prostração podem indicar desidratação e exigem avaliação urgente.",
+          "Vômito verde ou amarelo-esverdeado, sangue no vômito, aspecto de borra de café, fezes pretas ou distensão dolorosa não deve ser manejado com mudança alimentar em casa: procure atendimento imediato."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde ou amarelo-esverdeado, barriga muito distendida, rígida ou dolorosa, massa abdominal ou piora rápida pode indicar obstrução ou outra urgência; procure atendimento hospitalar imediatamente.",
+          "Vômito com sangue ou aspecto de borra de café, fezes pretas, sangramento importante, palidez intensa, desmaio ou fraqueza extrema exige atendimento imediato.",
+          "Falta de ar, costelas afundando, lábios ou rosto arroxeados, pausas respiratórias, engasgo com incapacidade de respirar, desmaio, convulsão ou dificuldade para despertar exige acionar o serviço de emergência.",
+          "Vômitos repetidos com incapacidade de manter líquidos, urina muito reduzida, ausência de lágrimas, olhos fundos, extremidades frias, sonolência ou prostração exige avaliação urgente por possível desidratação ou choque.",
+          "Vômito persistente, progressivamente forte ou em jato, especialmente em recém-nascido ou lactente pequeno, precisa de avaliação urgente; não espere e não trate como refluxo refratário.",
+          "Bebê com menos de três meses com temperatura medida de 38 °C ou mais, ou com suspeita de febre e aparência doente, precisa de avaliação imediata; febre não deve ser atribuída ao refluxo.",
+          "Alimento preso, incapacidade de engolir saliva, baba súbita, dor intensa ou progressiva ao engolir, dor torácica intensa, confusão ou pouca resposta exige pronto atendimento. Não force alimento, líquido ou comprimido."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure reavaliação pediátrica e, quando indicado, gastroenterologia pediátrica para confirmar o que ‘refratário’ representa. A equipe deve rever diagnóstico, sintomas-alvo, crescimento, alimentação, plano realmente prescrito e executado, resposta e causas alternativas.",
+          "A definição de refratariedade exige DRGE sem resposta ao tratamento ótimo após oito semanas. Esse marco serve para confirmar o qualificador, não para a família iniciar ou prolongar uma terapia nem para esperar oito semanas diante de alerta, piora ou efeito adverso.",
+          "Antecipe a avaliação se houver recusa alimentar, dor nas mamadas ou refeições, engasgos, azia persistente, dor no peito ou alto do abdome, dor ao engolir, perda ou baixo ganho de peso, anemia, tosse durante alimentação ou pneumonias repetidas.",
+          "Ausência de melhora pede revisar execução e tolerância do plano e procurar diagnósticos que podem imitar DRGE, como problema de deglutição, alergia alimentar, esofagite eosinofílica, alteração anatômica, infecção ou doença neurológica, respiratória ou metabólica. Não ajuste tratamento sozinho.",
+          "Crianças com prematuridade, neurodeficiência, doença pulmonar crônica, obesidade, hérnia de hiato ou cirurgia prévia do esôfago ou diafragma podem precisar de seguimento especializado mais próximo; essas condições não confirmam refratariedade por si sós.",
+          "Exames não são automáticos. Endoscopia com biópsias, monitorização de refluxo, estudo anatômico, avaliação de deglutição ou outros testes são escolhidos conforme a dúvida clínica, o histórico e os sinais de alarme.",
+          "Mantenha o retorno definido pela equipe e procure antes se houver piora. Esta ficha não presume plano anterior, oito semanas completas, estabilidade, resultado de exame, indicação cirúrgica, cura, encerramento de seguimento nem alta."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Golfadas sem esforço podem ser fisiológicas, e choro ou arqueamento isolados não provam DRGE refratária. Temperatura de 38 °C ou mais, aparência doente, recusa, vômito verde, sangue, jato progressivo, barriga distendida, pouca urina, dificuldade para respirar ou pouca resposta exige avaliação imediata. Para dormir, sempre de barriga para cima em superfície firme, plana, vazia e sem inclinação.",
+        "3a5m": "Regurgitação fisiológica é comum nesta fase e não se torna refratária por acontecer muitas vezes. Confirme conforto, mamadas, hidratação e crescimento antes de atribuir doença. Não iniciar ou escalar dieta ou medicamento pelo rótulo. Preserve sono supino, firme, plano, vazio e sem acessórios.",
+        "6a11m": "Início novo depois dos seis meses, piora, recusa, dor, engasgos ou baixo ganho de peso exige revisão de outras causas antes de falar em refratariedade. Não altere textura, fórmula, dieta ou remédio sozinho. Até um ano, mantenha sono de barriga para cima em superfície firme, plana, vazia e sem inclinação.",
+        "1a": "Regurgitação frequente que persiste depois da infância, principalmente com dor, recusa, engasgo ou crescimento inadequado, deve ter a causa reavaliada. Persistência não confirma tratamento ótimo nem refratariedade. Não mantenha automaticamente dieta ou medicamento antigo; sinais de alarme têm prioridade.",
+        "2a5": "A criança pequena pode não conseguir explicar azia e mostrar dor, vômitos, recusa ou irritabilidade. Confirme qual sintoma continua, sua repercussão, alimentação, deglutição, hidratação e crescimento. Não classifique como refratária por relato inespecífico. Disfagia, sangue, bile, prostração ou desidratação exige atendimento rápido.",
+        "6a11": "Pergunte diretamente sobre azia, regurgitação, gosto ácido, dor no peito ou alto do abdome e dificuldade para engolir, e compare com o objetivo do plano documentado. Sintoma persistente pede revisão de execução e diferenciais, não aumento automático. Sangramento, alimento preso, perda de peso ou dor torácica intensa exige avaliação rápida.",
+        "12a17": "Inclua o adolescente na conversa, com privacidade apropriada, e confirme sintomas, forma real de uso do plano, barreiras, padrão alimentar, medicamentos e suplementos, cigarro ou vape e possibilidade de gestação quando pertinente. Não presuma falha terapêutica. Disfagia progressiva, alimento impactado, sangramento, perda de peso ou dor torácica importante exige avaliação rápida.",
+        "unknown": "Sem idade, sintomas-alvo, diagnóstico estabelecido, plano ótimo, oito semanas, execução, resposta, crescimento, hidratação, exame e comorbidades, não confirme refratariedade nem crie terapia, dieta, dose, exame, cirurgia ou alta. Aplique imediatamente os sinais de alarme e obtenha avaliação apropriada."
+      },
+      "refs": [
+        {
+          "id": "pais245_op2436_1",
+          "name": "Pediatric Gastroesophageal Reflux Clinical Practice Guidelines: Joint Recommendations of NASPGHAN and ESPGHAN",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/"
+        },
+        {
+          "id": "pais245_op2436_2",
+          "name": "Gastro-oesophageal reflux disease in children and young people: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng1/chapter/Recommendations"
+        },
+        {
+          "id": "pais245_op2436_3",
+          "name": "Clinical Practice Guidelines: Gastrooesophageal reflux disease in infants",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastrooesophageal_reflux_disease_in_infants/"
+        },
+        {
+          "id": "pais245_op2436_4",
+          "name": "Refluxo e Doença do Refluxo Gastroesofágico em Pediatria",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23224c-GPO-Refluxo_e_Doenca_RefluxoGastroesof_em_Pediatria.pdf"
+        },
+        {
+          "id": "pais245_op2436_5",
+          "name": "About Back Sleeping",
+          "url": "https://safetosleep.nichd.nih.gov/reduce-risk/back-sleeping"
+        },
+        {
+          "id": "pais245_op2436_6",
+          "name": "Medical management of gastro-esophageal reflux in healthy infants",
+          "url": "https://cps.ca/en/documents/position/gastro-esophageal-reflux-in-healthy-infants"
+        },
+        {
+          "id": "pais245_op2436_7",
+          "name": "Symptoms & Causes of GER & GERD in Children",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-children/symptoms-causes"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2437",
+      "specific": false,
+      "key": "pdf1500_473",
+      "label": "Doença do refluxo gastroesofágico unilateral",
+      "entity": "Doença do refluxo gastroesofágico (DRGE) pediátrica; o qualificador cadastral ‘unilateral’ é anatomicamente inaplicável e não define subtipo, lado acometido, gravidade, complicação ou tratamento",
+      "assessment": "{\"classification\":\"VALID_BASE_PEDIATRIC_GERD_ENTITY_WITH_ANATOMICALLY_INAPPLICABLE_UNILATERAL_QUALIFIER\",\"normalized_entity\":\"Doença do refluxo gastroesofágico (DRGE) pediátrica\",\"assessment\":\"O núcleo ‘doença do refluxo gastroesofágico’ é uma entidade clínica válida: o refluxo passa a ser doença quando causa sintomas incômodos relevantes, prejuízo funcional ou complicações. ‘Unilateral’ é um qualificador anatômico inaplicável à DRGE. As fontes pediátricas descrevem a passagem do conteúdo gástrico para o esôfago, fenótipos definidos por sintomas, exposição ao refluxo, lesão e complicações, mas não uma DRGE de lado direito ou esquerdo. O rótulo cadastral isolado não informa idade, gravidade, causa, exame, complicação, tratamento nem estabilidade. A conclusão sobre a inaplicabilidade de lateralidade é uma inferência nosológica a partir da definição anatômica e das classificações das diretrizes, e não uma alegação de que uma fonte examinou este catálogo. O nome deve ser preservado para rastreabilidade, sem inventar lado, órgão pareado ou história clínica.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_460\",\"canonical_label\":\"Doença do refluxo gastroesofágico\",\"relationship\":\"SAME_BASE_ENTITY_WITH_INAPPLICABLE_LATERALITY_QUALIFIER\",\"decision\":\"Preservar pdf1500_473 e seu rótulo exato no catálogo, mapear o conteúdo educativo ao núcleo pdf1500_460 e não criar entidade clínica lateralizada. Não inferir que sintomas, esôfago, estômago, refluxo, esofagite ou complicações estejam de um lado.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_460\"},\"lateralization_interpretation\":{\"applicability\":\"INAPPLICABLE_TO_GERD_NOSOLOGY\",\"what_it_does_not_mean\":\"Não significa doença à direita ou à esquerda, refluxo por um único lado, esofagite unilateral, sintoma de um lado, exame anormal lateralizado nem indicação de posição lateral.\",\"positioning_distinction\":\"Uma posição corporal eventualmente estudada em contexto clínico não transforma DRGE em doença unilateral. Para o sono do lactente, a recomendação de segurança permanece de barriga para cima em superfície firme, plana, nivelada e vazia; posição lateral, prona ou inclinada não deve ser usada para tratar refluxo durante o sono.\",\"safety_rule\":\"O qualificador não reduz nem aumenta por si só a urgência. O destino é definido por idade, padrão do vômito, hidratação, respiração, deglutição, crescimento, exame e sinais de alarme.\"},\"distinction_from_physiologic_reflux\":\"Refluxo gastroesofágico fisiológico é comum nos primeiros meses e pode causar golfadas sem sofrimento, problema alimentar, alteração respiratória ou prejuízo de crescimento. DRGE exige sintomas incômodos relevantes e/ou complicações. Frequência de golfadas, choro, irritabilidade, arqueamento, tosse, rouquidão ou chiado isolados não confirma DRGE e não deve ser reinterpretada como ‘unilateral’.\",\"not_automatically_equivalent_to\":[\"Refluxo gastroesofágico fisiológico do lactente\",\"Doença ou sintoma localizado à direita ou à esquerda\",\"Esofagite, estenose, aspiração, síndrome de Sandifer ou outra complicação confirmada\",\"Dor torácica ou abdominal de um lado atribuída automaticamente ao refluxo\",\"Indicação de dormir ou permanecer de lado\",\"Vômito por obstrução, estenose pilórica, infecção, alergia alimentar, doença neurológica, metabólica ou outra causa\",\"Indicação automática de dieta, espessamento, fórmula, medicamento, exame, cirurgia, internação ou alta\"],\"pediatric_scope\":\"A apresentação varia com a idade. Lactentes podem ter regurgitação visível e sintomas inespecíficos; crianças maiores e adolescentes podem descrever azia, retorno de conteúdo, gosto ácido e dor retroesternal ou epigástrica. Prematuridade, neurodeficiência, doença pulmonar, obesidade, hérnia de hiato e cirurgia prévia do esôfago ou diafragma aumentam a complexidade. Nenhuma faixa etária torna ‘unilateral’ um subtipo válido.\",\"critical_context_to_confirm\":[\"Idade, início, frequência, duração, evolução e impacto dos sintomas em alimentação, crescimento, sono, escola e atividade\",\"Se há golfada sem esforço ou vômito forte, progressivo, em jato, verde, com sangue ou semelhante a borra de café\",\"Azia, retorno de conteúdo, dor, recusa alimentar, engasgos, tosse durante alimentação, dificuldade ou dor para engolir e sensação de alimento parado\",\"Peso, estatura, curva de crescimento, ingestão, urina ou fraldas, lágrimas, boca seca, atividade e outros sinais de hidratação\",\"Febre, prostração, diarreia, sangue nas fezes, distensão ou dor abdominal, cefaleia matinal, convulsão ou alteração de consciência\",\"Falta de ar, pausas, mudança de cor, pneumonias, tosse, rouquidão ou chiado e diagnósticos respiratórios alternativos\",\"Prematuridade, neurodeficiência, doença pulmonar, cirurgia digestiva, alergia ou atopia e demais comorbidades\",\"Alimentação atual, técnica quando aplicável, exposição a fumaça, medicamentos e suplementos em uso, sem presumir qualquer deles\",\"Quem registrou ‘unilateral’, qual era o contexto, se o termo veio de outro diagnóstico e quais avaliações, exames, plano e resposta estão documentados\"],\"counting_rule\":\"Não contar pdf1500_473 como nova orientação clínica específica nem como nova entidade. Contar como resolução de termo cadastral e mapeamento ao núcleo pdf1500_460 após integração e testes próprios, mantendo o ID e o rótulo.\",\"reason\":\"‘Unilateral’ pressupõe lateralidade que não integra a definição ou os fenótipos pediátricos de DRGE nas autoridades consultadas. Usá-lo como subtipo inventaria anatomia e significado clínico. A resolução segura é preservar o nome do catálogo, declarar a limitação e usar o núcleo pdf1500_460 sem lateralizar sintomas, exame, tratamento ou prognóstico.\",\"next_action\":\"Integrar como resolução terminológica vinculada a pdf1500_460; testar seleção por ID e rótulo, zero nova entidade clínica, oito faixas etárias, precedência dos alertas, diferenciação de refluxo fisiológico, sono seguro e ausência de lado, paciente, dieta, medicamento, dose, exame ou alta inventados.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O termo ‘unilateral’ não descreve um subtipo reconhecido de doença do refluxo gastroesofágico. Não tente localizar o refluxo à direita ou à esquerda nem use esse nome para concluir gravidade, causa ou tratamento; a orientação segura corresponde ao núcleo de DRGE pediátrica.",
+          "Na DRGE, o conteúdo do estômago retorna ao esôfago e causa sintomas que incomodam de forma relevante, atrapalham alimentação ou crescimento, ou provocam complicações. Isso difere da golfada fisiológica: muitos bebês saudáveis golfam sem esforço, permanecem confortáveis, mamam e crescem bem e melhoram com a maturação.",
+          "Não atribua automaticamente choro, irritabilidade, arqueamento, tosse, rouquidão, chiado ou dor de um lado ao refluxo. Esses sinais são inespecíficos e podem ter outras causas; procure avaliação se forem persistentes, intensos ou acompanhados de dificuldade alimentar, respiratória ou de crescimento.",
+          "Registre quando ocorrem golfadas, vômitos, azia, dor, engasgos ou recusa, a relação com mamadas ou refeições, a aparência do vômito, a urina e a evolução do peso nas consultas. Não atrase atendimento para fazer registros.",
+          "Mantenha casa e carro sem fumaça de cigarro, vape, narguilé ou maconha. DRGE não é infecção e não exige afastamento escolar por si só; febre, vômitos agudos, diarreia ou outra doença possivelmente transmissível seguem avaliação e regras próprias.",
+          "Se já existe um plano médico, siga-o e compare a evolução com os objetivos definidos. Esta ficha não confirma estabilidade, não substitui avaliação e não autoriza cuidado domiciliar isolado ou alta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para todo sono do bebê, coloque-o de barriga para cima em superfície firme, plana, nivelada e desimpedida. Mesmo com refluxo, não use posição de lado ou de bruços, cunha, travesseiro antirrefluxo, ninho, rolo nem elevação do colchão ou do berço.",
+          "Depois da mamada, enquanto bebê e cuidador estiverem acordados, pode mantê-lo no colo com cabeça e pescoço apoiados e tronco mais vertical. Para dormir, transfira-o ao local de sono seguro; não deixe dormir em bebê-conforto, cadeirinha, sofá, poltrona ou colo de adulto que possa adormecer.",
+          "Peça que um profissional observe uma mamada quando houver dor, tosse, engasgo, mudança de cor, fluxo difícil ou dúvida sobre pega e técnica. Isso pode identificar dificuldade de alimentação ou deglutição que não deve ser chamada de refluxo por suposição.",
+          "Não use posição lateral, massagem, manipulação ou dispositivo comercial para tentar tratar uma suposta DRGE ‘unilateral’. Posição usada em exame ou tratamento monitorado não deve ser copiada para o sono em casa.",
+          "Em crianças maiores e adolescentes, observe se deitar logo após comer ou alguma rotina coincide repetidamente com sintomas e leve a informação à consulta. Não aplique essa observação para atrasar ou reduzir mamadas de lactentes.",
+          "Atividade física, saúde bucal e controle de peso, quando pertinentes, devem respeitar idade, crescimento, nutrição e orientação profissional, sem plano improvisado."
+        ],
+        "MEDICAMENTOS": [
+          "O nome ‘unilateral’ não indica medicamento. Não dê antiácido, redutor de acidez, remédio para náusea, produto que acelere o estômago, fitoterápico ou receita de outra pessoa por conta própria.",
+          "Regurgitação isolada em criança saudável e choro isolado em lactente não justificam testar remédio. Melhora ou piora após uso sem avaliação não confirma nem exclui DRGE.",
+          "Se um profissional prescreveu tratamento, confira a receita e siga somente o plano individual. Não inicie, aumente, reduza, prolongue, repita, troque ou interrompa por conta própria; esta ficha não seleciona produto, apresentação, via, dose, intervalo ou duração.",
+          "Informe à equipe todos os medicamentos e suplementos em uso, inclusive os sem receita. Não atribua automaticamente um sintoma a produto ou refluxo e não tente compensar esquecimento ou erro com administração extra.",
+          "Uso prolongado de supressão ácida precisa ter a necessidade revista pela equipe. Sintomas persistentes ou que retornam exigem rever adesão, diagnóstico diferencial e possíveis complicações, não apenas trocar ou acrescentar tratamento.",
+          "Cirurgia, sonda e outros procedimentos são reservados a situações selecionadas por especialistas. O rótulo do catálogo, inclusive ‘unilateral’, não indica intervenção, internação nem alta."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno, fórmula preparada corretamente e alimentação complementar adequada à idade conforme o plano já recebido, sem forçar. Em lactentes, não substitua mamadas por água, chá, suco ou preparo caseiro.",
+          "Respeite sinais de fome e saciedade. A equipe pode revisar pega, fluxo, volume e frequência conforme idade, crescimento e alimentação atual; não reduza o total oferecido nem altere o preparo da fórmula por conta própria.",
+          "Não engrosse leite ou outros líquidos, não troque fórmula, bico ou textura e não imponha uma ‘dieta para refluxo unilateral’ sem avaliação. Segurança da deglutição, nutrição e crescimento precisam orientar qualquer mudança.",
+          "Não retire leite, derivados, soja, glúten ou outro alimento da dieta da criança ou de quem amamenta apenas por suspeita de refluxo. Alergia alimentar pode imitar DRGE, mas exclusão sem hipótese e acompanhamento pode prejudicar nutrição e crescimento.",
+          "Em crianças maiores e adolescentes, registre relações repetidas entre sintomas, horários e refeições para discutir na consulta; não crie uma lista universal de alimentos proibidos.",
+          "Tosse, engasgo, voz molhada, mudança de cor ou falta de ar durante alimentação, recusa persistente, dor ao engolir ou alimento parado exige avaliação. Não force alimento, líquido ou medicamento diante de dificuldade respiratória, alteração de consciência ou incapacidade de engolir."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde ou amarelo-esverdeado pode indicar obstrução intestinal e exige avaliação hospitalar imediata. Não espere repetir e não o trate como refluxo comum ou ‘unilateral’.",
+          "Vômitos repetidamente fortes ou em jato, sobretudo em lactente pequeno ou quando estão piorando, exigem avaliação no mesmo dia; com prostração, distensão, pouca urina ou piora rápida, procure imediatamente.",
+          "Sangue no vômito, vômito semelhante a borra de café, fezes pretas ou sangue importante nas fezes exige avaliação urgente. Palidez intensa, desmaio, sangramento importante ou pouca resposta é emergência.",
+          "Barriga muito inchada, endurecida ou dolorosa, massa percebida, dor abdominal forte ou piora rápida exige pronto atendimento por possível causa cirúrgica ou outra doença grave.",
+          "Grande dificuldade para respirar, costelas afundando, pausas, lábios ou rosto arroxeados, engasgo com mudança de cor, desmaio, convulsão ou dificuldade para acordar exige acionamento imediato do serviço de emergência.",
+          "Incapacidade de beber ou mamar, vômitos que impedem manter líquidos, urina muito reduzida, boca muito seca, ausência de lágrimas, olhos fundos ou sonolência incomum exige avaliação urgente por possível desidratação.",
+          "Bebê com menos de três meses com temperatura medida de 38 °C ou mais, ou com suspeita de febre e aparência doente, precisa de avaliação imediata; não atribua febre ao refluxo.",
+          "Dificuldade progressiva ou dor para engolir, alimento preso, recusa com perda de peso, dor no peito intensa ou novo sintoma neurológico precisa de avaliação sem demora; se houver falta de ar ou alteração da consciência, acione emergência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure consulta pediátrica para confirmar se existe DRGE, refluxo fisiológico ou outra causa e para corrigir o termo ‘unilateral’ no contexto clínico. Se já há diagnóstico, cumpra o retorno definido pela equipe; esta ficha não cria prazo de cura, tratamento ou alta.",
+          "Antecipe a reavaliação se houver recusa alimentar, dor nas mamadas ou refeições, engasgos, azia frequente, dor retroesternal ou epigástrica, dor ao engolir, perda ou desaceleração do peso, anemia, tosse durante alimentação ou pneumonias repetidas.",
+          "Em lactentes, regurgitação que começa somente depois dos seis meses ou permanece frequente após o primeiro ano merece revisão da causa. Esses marcos não diagnosticam sozinhos nem tornam todo episódio uma emergência; sinais de alarme têm prioridade.",
+          "Sintomas que não melhoram como esperado ou retornam exigem rever diagnósticos alternativos, como problema de deglutição, alergia alimentar, esofagite eosinofílica, alteração anatômica, infecção, doença neurológica ou efeito de medicamento.",
+          "Prematuridade, neurodeficiência, doença pulmonar, obesidade, hérnia de hiato ou cirurgia prévia do esôfago ou diafragma podem exigir seguimento especializado mais próximo conforme o plano da equipe.",
+          "Exames não são obrigatórios para toda criança. Endoscopia, monitorização de refluxo, estudo contrastado ou avaliação de deglutição são escolhidos conforme dúvida clínica e alertas; nenhum exame deve ser presumido por esta ficha.",
+          "Só mude alimentação, escola, atividade ou tratamento após revisar benefício, risco, crescimento e resposta com a equipe. O lado percebido de uma dor ou a quantidade de golfadas não define uma entidade ‘unilateral’."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Golfadas sem esforço podem ser fisiológicas se o bebê está confortável, mama e cresce bem; ‘unilateral’ não se aplica. Febre medida de 38 °C ou mais, prostração, vômito verde, sangue, jato progressivo, barriga distendida, pouca urina, dificuldade para mamar ou respirar exige avaliação imediata. Para dormir, sempre de barriga para cima em superfície firme, plana, nivelada e vazia.",
+        "3a5m": "Regurgitação fisiológica é comum nesta fase e não é DRGE apenas pela frequência nem ganha lado direito ou esquerdo. Avalie conforto, mamada e crescimento; choro e arqueamento isolados não confirmam doença. Não inclinar o berço, não colocar de lado ou de bruços e não iniciar espessante, exclusão ou remédio por conta própria.",
+        "6a11m": "As golfadas tendem a diminuir com a maturação. Início novo depois dos seis meses, piora, recusa, dor, engasgos ou baixo ganho de peso merece consulta para procurar outra causa. Mantenha alimentação adequada à idade sem mudar textura, fórmula ou dieta sozinho e preserve sono de barriga para cima em superfície plana.",
+        "1a": "Regurgitação frequente após o primeiro ano precisa ter a causa reavaliada, sobretudo com dor, recusa, dificuldade para engolir ou crescimento insuficiente. Não mantenha dieta ou medicamento antigo por conta própria e não use ‘unilateral’ para explicar sintomas de um lado. Vômito verde, sangue, desidratação ou distensão exige urgência.",
+        "2a5": "A criança pequena pode mostrar recusa, desconforto ao comer, regurgitação, tosse durante alimentação ou dor pouco localizada. Isso não estabelece DRGE nem lateralidade. Revise alimentação e crescimento com a equipe; vômito verde ou em jato, sangue, distensão, desidratação, dificuldade respiratória ou para engolir exige avaliação rápida.",
+        "6a11": "Pode relatar queimação, gosto ácido, retorno de alimento, dor na parte alta da barriga ou atrás do peito. Dor percebida de um lado não cria ‘DRGE unilateral’ e exige avaliar outras causas conforme o contexto. Disfagia, alimento preso, perda de peso, sangue, dor intensa ou falta de ar precisa de avaliação sem demora.",
+        "12a17": "Inclua o adolescente com privacidade apropriada ao revisar azia, regurgitação, dor, alimentação, suplementos e medicamentos, sem presumir causa ou lado. Disfagia, alimento impactado, sangramento, perda de peso, vômito persistente, dor torácica importante, desmaio ou dificuldade respiratória exige avaliação própria.",
+        "unknown": "Sem idade, crescimento, padrão do vômito, alimentação, hidratação, respiração, deglutição, comorbidades, exame e plano vigente, não confirme DRGE, gravidade ou lateralidade e não libere dieta, medicamento, exame, tratamento ou alta. Aplique imediatamente os sinais de alarme e preserve sono seguro se for lactente."
+      },
+      "refs": [
+        {
+          "id": "pais245_op2437_1",
+          "name": "Pediatric Gastroesophageal Reflux Clinical Practice Guidelines: Joint Recommendations of NASPGHAN and ESPGHAN",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5958910/"
+        },
+        {
+          "id": "pais245_op2437_2",
+          "name": "Doença do Refluxo Gastroesofágico",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24664f-GPO_-_Doenca_de_Refluxo_Gastroesofagico_SITE.pdf"
+        },
+        {
+          "id": "pais245_op2437_3",
+          "name": "Gastro-oesophageal reflux disease in children and young people: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng1/chapter/Recommendations"
+        },
+        {
+          "id": "pais245_op2437_4",
+          "name": "Clinical Practice Guidelines: Gastrooesophageal reflux disease in infants",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastrooesophageal_reflux_disease_in_infants/"
+        },
+        {
+          "id": "pais245_op2437_5",
+          "name": "About Back Sleeping",
+          "url": "https://safetosleep.nichd.nih.gov/reduce-risk/back-sleeping"
+        },
+        {
+          "id": "pais245_op2437_6",
+          "name": "Medical management of gastro-esophageal reflux in healthy infants",
+          "url": "https://cps.ca/en/documents/position/gastro-esophageal-reflux-in-healthy-infants"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2438",
+      "specific": true,
+      "key": "pdf1500_474",
+      "label": "Doença granulomatosa crônica",
+      "entity": "Doença granulomatosa crônica (DGC): erro inato da imunidade dos fagócitos, com falha do mecanismo oxidativo usado para eliminar determinadas bactérias e fungos e com risco de infecções recorrentes ou invasivas, granulomas obstrutivos e inflamação desregulada",
+      "assessment": "{\"classification\":\"VALID_RECOGNIZED_PEDIATRIC_PRIMARY_PHAGOCYTE_IMMUNODEFICIENCY_ENTITY\",\"normalized_entity\":\"Doença granulomatosa crônica (DGC; chronic granulomatous disease, CGD)\",\"assessment\":\"O termo é uma entidade clínica reconhecida e não é sinônimo de qualquer doença que forme granulomas. A DGC compromete a capacidade de fagócitos destruírem determinados microrganismos e pode causar infecções bacterianas e fúngicas graves, às vezes com sinais iniciais discretos, além de inflamação estéril e granulomas. O rótulo isolado não informa confirmação funcional, subtipo molecular, mutação, forma de herança, atividade infecciosa, órgão afetado, profilaxia atual, transplante, gravidade nem segurança para cuidado domiciliar. Nenhum desses dados foi presumido.\",\"validity\":\"VALID_DISTINCT_CLINICAL_ENTITY\",\"not_automatically_equivalent_to\":[\"Tuberculose, complicação da BCG ou outra infecção granulomatosa isolada\",\"Doença de Crohn, sarcoidose ou outra doença inflamatória granulomatosa\",\"Granuloma de pele ou de corpo estranho\",\"Neutropenia, deficiência de anticorpos ou outra imunodeficiência\",\"Infecção ativa, sepse ou estabilidade clínica no momento\",\"Um subtipo molecular, mutação ou padrão de herança específico\",\"Indicação automática de antibiótico, antifúngico, imunomodulador, transplante, internação ou alta\"],\"critical_context_to_confirm\":[\"Como o diagnóstico foi confirmado, incluindo teste funcional de fagócitos e laudo molecular apenas se já disponível\",\"Idade, início dos sintomas, histórico familiar e infecções anteriores, com órgãos, culturas, imagens, internações e resposta documentada\",\"Plano escrito para febre e suspeita de infecção, centro de referência, contatos e tempo de acesso ao atendimento\",\"Todos os medicamentos preventivos ou terapêuticos realmente prescritos, apresentações, horários, adesão, efeitos adversos, interações e monitorização\",\"Febre, tosse, cansaço, dor torácica, falta de ar, abscessos, gânglios, dor abdominal ou no lado direito superior, dor óssea ou na coluna e lesões perianais\",\"Diarreia, sangue nas fezes, vômitos, dificuldade para engolir, perda de peso, crescimento, dificuldade para urinar ou retenção urinária\",\"Exposição recente a composto, palha ou feno, folhas em decomposição, terra de vaso, jardinagem, celeiro, corte de grama, obra, demolição ou muita poeira\",\"Vacinas recebidas, especialmente BCG, evolução da cicatriz e presença de úlcera persistente, secreção ou gânglios\",\"Seguimento atual com imunologia, infectologia e outras equipes, exames de vigilância e avaliação de opções definitivas já discutidas\"],\"pediatric_scope\":\"Pode se manifestar desde o período neonatal até a vida adulta, mas a maioria dos diagnósticos ocorre na infância. Lactentes podem apresentar infecção de pele, osso, pulmão ou gânglios, baixo ganho de peso ou complicação da BCG; crianças maiores e adolescentes também podem ter pneumonia de evolução lenta, abscessos profundos, osteomielite, colite, granulomas obstrutivos e inflamação. A aparência inicialmente boa ou a ausência de febre não exclui infecção grave.\",\"counting_rule\":\"Contar como uma entidade clínica específica válida. Não criar subtipos por idade, gravidade, órgão, infecção, mutação, padrão de herança ou resposta terapêutica sem documentação individual.\",\"reason\":\"DGC é entidade pediátrica reconhecida, com cuidados ambientais, alertas infecciosos, vacinação e seguimento próprios suficientemente sustentados para orientação específica, sem necessidade de presumir paciente, mutação ou regime terapêutico.\",\"next_action\":\"O coordenador deve integrar o menor delta, preservar o label e o ID, testar as oito idades, os alertas de infecção e exposição ambiental, o bloqueio de vacinas bacterianas vivas e a ausência de medicamento, profilaxia, dose, duração ou alta inventados.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença granulomatosa crônica é uma imunodeficiência primária: certos glóbulos brancos não eliminam bem algumas bactérias e fungos. Ela não é contagiosa e não foi causada por falta de higiene ou por algo que a família fez.",
+          "Infecções na DGC podem começar de modo discreto. Observe febre ou temperatura diferente do habitual, cansaço novo, perda de apetite, tosse, dor no peito, falta de ar, gânglio aumentado, vermelhidão, inchaço, secreção, dor localizada, dor abdominal, dor óssea, mancar ou recusar usar um membro; não espere pus abundante ou aparência muito doente para pedir ajuda.",
+          "Mantenha acessível um plano escrito da imunologia ou infectologia para febre e suspeita de infecção, com telefones, serviço de referência e o que fazer fora do horário. Se ainda não existe plano, solicite-o; qualquer febre ou suspeita de infecção deve ser discutida imediatamente com a equipe especializada.",
+          "Leve em atendimentos uma lista atualizada do diagnóstico, alergias, infecções e culturas anteriores, medicamentos realmente usados e contatos do centro de referência. Informe DGC logo na triagem, mesmo que a criança pareça bem.",
+          "Examine a pele durante o banho e cuide de pequenos cortes com água corrente e higiene suave. Não esprema, fure, drene nem aplique produto caseiro em caroço, abscesso, ferida ou gânglio.",
+          "A criança pode conviver, brincar e frequentar escola quando está bem e o centro de referência não orientou restrição. Escola e cuidadores devem conhecer o plano de febre, os sinais de alerta e as exposições ambientais que precisam ser evitadas.",
+          "Não use ausência de febre, uma infecção anterior parecida ou melhora temporária para concluir que o episódio é leve. Infecção fúngica pulmonar pode evoluir lentamente e não causar febre no início."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite contato e inalação de composto, esterco, feno ou palha, folhas em decomposição, terra de vaso e cobertura vegetal ou mulch. A criança não deve revirar compostagem, replantar vasos, cavar terra, cortar grama, rastelar folhas nem entrar em celeiros com feno.",
+          "Afaste a criança de obra, demolição, retirada de carpete, limpeza muito empoeirada e locais onde terra ou matéria vegetal estejam sendo espalhadas. Se houver exposição intensa e surgirem cansaço, febre, tosse, dor no peito ou falta de ar, procure emergência e informe a exposição.",
+          "Evite nadar em lagoa, açude, rio, água parada ou água salobra. Combine com a imunologia quais ambientes aquáticos são aceitáveis; piscina bem clorada costuma ter risco diferente, mas não substitui orientação individual.",
+          "Mantenha higiene das mãos, água potável, preparo seguro dos alimentos, cuidado odontológico e ambientes sem fumaça. Não é necessário isolar a criança da família nem esterilizar a casa; as medidas devem reduzir exposições específicas sem impedir vida social e escolar segura.",
+          "Revise todas as vacinas com a imunologia e o CRIE antes da aplicação. Pessoas com DGC não devem receber vacinas bacterianas vivas, incluindo BCG e vacina oral viva contra febre tifoide. Não faça proibição automática de todas as vacinas vivas: outras vacinas dependem da confirmação diagnóstica e do plano individual.",
+          "Se a BCG já foi aplicada, não se culpe nem manipule a cicatriz. Úlcera que aumenta ou não cicatriza, secreção persistente, abscesso ou gânglios próximos precisam de avaliação especializada rápida.",
+          "Planeje viagens, acampamentos, atividades rurais, jardinagem escolar e reformas com antecedência com a equipe. Leve carta clínica, plano de emergência e contatos do centro de referência."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos preventivos e terapêuticos prescritos para esta criança pelo centro de referência. Esta ficha não escolhe antibiótico, antifúngico, imunomodulador ou outro produto e não define dose, via, horário ou duração.",
+          "Não inicie sobra de antibiótico ou antifúngico, não compartilhe receita e não troque, reduza, aumente, interrompa ou prolongue a profilaxia por conta própria. Essas mudanças podem mascarar cultura, deixar germes sem cobertura ou causar toxicidade e interação.",
+          "Se houver esquecimento, vômito após a tomada, recusa, falta do produto, efeito adverso ou divergência entre receita, rótulo e medidor, contate a equipe ou o farmacêutico; não repita nem dobre automaticamente.",
+          "Febre ou suspeita de infecção durante profilaxia continua exigindo o plano especializado imediato. Não dê dose extra e não conclua que o preventivo falhou ou que a criança está protegida sem avaliação, culturas e exames escolhidos pela equipe.",
+          "Antes de qualquer medicamento novo, inclusive sem receita, fitoterápico ou suplemento, informe todos os produtos em uso. Tratamentos prolongados podem ter interações e exigir monitorização individual de efeitos adversos.",
+          "Não use por conta própria medicamento que reduza a resposta imune para dor, colite, granuloma ou inflamação. Se um desses tratamentos já foi prescrito, não o interrompa abruptamente e comunique imediatamente febre ou sinal de infecção à equipe que acompanha.",
+          "Infecções profundas podem exigir coleta microbiológica, imagem, tratamento prolongado, drenagem ou internação. Essas decisões pertencem à imunologia, infectologia e equipe hospitalar; não há alta automática nesta ficha."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e apropriada à idade, com água potável e preparo seguro. Não existe dieta caseira, alimento, vitamina ou suplemento que corrija o defeito imune da DGC.",
+          "Lave as mãos antes de preparar alimentos, separe alimentos crus dos prontos e cozinhe adequadamente produtos de origem animal. Não imponha restrições extensas sem a equipe e a nutrição, pois isso pode prejudicar crescimento.",
+          "Mantenha leite materno ou fórmula preparada conforme o rótulo no lactente. Não dilua fórmula, não substitua mamadas por água, chá ou suco e não acrescente suplemento por conta própria.",
+          "Durante doença leve, ofereça líquidos em pequenas quantidades e com frequência se a criança estiver plenamente acordada e conseguir engolir. Incapacidade de beber ou mamar, vômitos repetidos ou pouca urina exige avaliação urgente.",
+          "Registre perda de apetite, vômitos, dor após comer, diarreia persistente, sangue nas fezes, distensão, aftas, dor perianal, perda de peso ou desaceleração do crescimento. DGC pode causar infecção ou inflamação intestinal, e as duas situações não devem ser diferenciadas em casa.",
+          "Se houver falta de ar, sonolência importante, vômito verde, barriga muito distendida, sangramento relevante ou dificuldade para engolir, não force alimento, líquido ou medicamento e procure emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Qualquer febre aferida, temperatura persistentemente diferente do habitual ou novo sinal de infecção deve ativar imediatamente o plano escrito e o contato com imunologia/infectologia. Se não houver acesso rápido, se a criança for lactente pequeno ou parecer doente, vá ao pronto atendimento e informe DGC na triagem.",
+          "Falta de ar, respiração rápida ou com esforço, lábios arroxeados, dor no peito, tosse progressiva, queda de saturação ou cansaço intenso exigem emergência, mesmo sem febre.",
+          "Febre, tosse, dor no peito ou falta de ar após contato com mulch, composto, feno, folhas em decomposição, terra de vaso, celeiro, obra ou demolição é emergência por risco de pneumonite fúngica fulminante; informe qual foi a exposição e quando ocorreu.",
+          "Prostração intensa, confusão, dificuldade para despertar, desmaio, pele fria ou manchada, coração muito acelerado, pouca urina ou piora rápida pode indicar sepse: acione o serviço de emergência.",
+          "Vermelhidão ou inchaço que cresce, dor importante, ferida com secreção, abscesso, gânglio doloroso ou febre com lesão de pele precisa de avaliação imediata; não esprema nem tente drenar.",
+          "Dor forte no lado direito superior da barriga, barriga inchada ou rígida, vômitos repetidos ou verdes, sangue nas fezes, incapacidade de evacuar ou eliminar gases ou perda rápida de condição geral exige pronto atendimento por possível abscesso, inflamação grave ou obstrução.",
+          "Dor focal em osso ou coluna, inchaço, recusa de apoiar ou usar um membro, mancar novo ou fraqueza precisa de avaliação rápida por possível infecção óssea ou extensão de infecção pulmonar.",
+          "Dor de cabeça intensa, rigidez de nuca, convulsão, nova fraqueza, alteração da fala ou visão, ou olho vermelho doloroso com sensibilidade à luz exige emergência.",
+          "Após BCG, úlcera que aumenta ou não cicatriza, secreção persistente, abscesso, gânglios, febre, perda de peso ou lesões em outros locais exige avaliação imediata em serviço com imunologia/infectologia."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha retorno regular com imunologia e infectologia mesmo quando a criança parece bem. A frequência, exames e equipes adicionais dependem do histórico de infecções, crescimento, pulmões, fígado, intestino, rins, efeitos dos medicamentos e plano do centro.",
+          "Contate a equipe no mesmo dia diante de febre, resfriado fora do padrão, tosse, dor, gânglio, lesão de pele, diarreia, dificuldade urinária ou qualquer suspeita de infecção; sinais discretos podem preceder doença invasiva.",
+          "Antecipe o retorno após exposição relevante a composto, feno, folhas em decomposição, terra de vaso ou muita poeira, mesmo se os sintomas respiratórios forem leves. Falta de ar, dor no peito ou piora exige emergência.",
+          "Leve aos retornos o registro de infecções, culturas e imagens, internações, doses realmente tomadas, esquecimentos, efeitos adversos, vacinas, exposições e crescimento. Isso permite ajustar o plano sem presumir falha ou resistência.",
+          "Peça revisão especializada se houver dor abdominal recorrente, diarreia, sangue nas fezes, vômitos, perda de peso, atraso de crescimento, dificuldade para urinar, tosse persistente, queda de tolerância ao esforço, dor óssea ou alteração ocular; podem refletir infecção, inflamação ou granuloma.",
+          "Vacinação deve ser revisada no CRIE/imunologia antes de cada vacina viva ou em caso de dúvida. Se a BCG já foi recebida, documente data e evolução local; não revacine nem trate a cicatriz por conta própria.",
+          "Avaliação de familiares, aconselhamento genético e opções como transplante ou terapia gênica dependem da confirmação diagnóstica, subtipo real, doador, riscos e preferências. O nome da ficha não define mutação, herança nem indicação de terapia definitiva."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em menor de três meses, febre, temperatura baixa ou instável, recusa de mamadas, sonolência, respiração diferente, vômitos, menos urina, pústula, abscesso, gânglio ou alteração da cicatriz da BCG exige avaliação imediata. Informe suspeita ou diagnóstico de DGC já na triagem; não aguarde piora nem dê antibiótico guardado.",
+        "3a5m": "Observe mamadas, respiração, disposição, pele, gânglios, movimento dos membros e cicatriz da BCG. Febre ou qualquer suspeita de infecção ativa o plano especializado imediatamente; recusa, prostração, dificuldade respiratória, lesão progressiva ou pouca urina exige pronto atendimento.",
+        "6a11m": "Evite que o bebê engatinhe ou brinque onde há composto, terra de vaso, folhas em decomposição ou obra empoeirada. Acompanhe crescimento, alimentação, evacuações e uso de membros; febre, tosse, caroço, abscesso, mancar ou perda de habilidades exige contato rápido.",
+        "1a": "Crianças pequenas não localizam bem dor e exploram terra e água. Adultos devem impedir acesso a compostagem, vasos, lama, água parada e poeira de obra e observar mancar, proteger um membro, irritabilidade localizada, barriga dolorosa, tosse ou queda de energia.",
+        "2a5": "Alinhe creche ou pré-escola para evitar jardinagem, composteira, horta com terra, passeio a celeiro e reforma empoeirada. Entregue plano de febre e contatos; a criança pode participar das demais atividades quando está bem e liberada pela equipe.",
+        "6a11": "Ensine a criança a relatar febre, tosse, dor no peito, ferida, gânglio, dor abdominal, óssea ou ao urinar sem esperar. Escola deve oferecer alternativa a jardinagem, compostagem, manejo de folhas, celeiro e obra; o adulto continua responsável pelo plano e pelos medicamentos.",
+        "12a17": "Inclua o adolescente nas decisões e revise, sem julgamento, doses esquecidas, acesso aos medicamentos, vape ou fumaça, maconha, trabalho ou lazer com terra, paisagismo, celeiro, construção, água natural e viagens. Planeje transição para cuidado adulto e garanta que saiba acionar o plano de febre.",
+        "unknown": "Sem idade, confirmação funcional, histórico infeccioso, exposições, vacinas e plano atual, não inferir subtipo, mutação, gravidade, profilaxia, tratamento ou alta. Aplicar os alertas conservadores, evitar exposições de alto risco e obter avaliação da imunologia/infectologia."
+      },
+      "refs": [
+        {
+          "id": "pais245_op2438_1",
+          "name": "Chronic Granulomatous Disease",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK99496/"
+        },
+        {
+          "id": "pais245_op2438_2",
+          "name": "How I Treat: Chronic granulomatous disease",
+          "url": "https://rupress.org/jhi/article/2/3/e20250162/281765/How-I-Treat-Chronic-granulomatous-diseaseHow-I"
+        },
+        {
+          "id": "pais245_op2438_3",
+          "name": "Altered Immunocompetence: General Best Practices for Immunization",
+          "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/altered-immunocompetence.html"
+        },
+        {
+          "id": "pais245_op2438_4",
+          "name": "Microbiological profile in chronic granulomatous disease patients in a single Brazilian primary immunodeficiency center",
+          "url": "https://www.all-imm.com/index.php/aei/article/view/82"
+        },
+        {
+          "id": "pais245_op2438_5",
+          "name": "Common Severe Infections in Chronic Granulomatous Disease",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4400412/"
+        },
+        {
+          "id": "pais245_op2438_6",
+          "name": "Fulminant mulch pneumonitis: an emergency presentation of chronic granulomatous disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17712749/"
+        },
+        {
+          "id": "pais245_op2438_7",
+          "name": "Chronic granulomatous disease (CGD) and other phagocytic cell disorders",
+          "url": "https://primaryimmune.org/understanding-primary-immunodeficiency/types-of-pi/chronic-granulomatous-disease-cgd-and-other"
+        },
+        {
+          "id": "pais245_op2438_8",
+          "name": "Vacinas para grupos especiais",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/grupos-especiais"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2439",
+      "specific": true,
+      "key": "pdf1500_475",
+      "label": "Drenagem anômala total das veias pulmonares",
+      "entity": "Drenagem anômala total das veias pulmonares (DATVP), também denominada conexão anômala total das veias pulmonares, cardiopatia congênita crítica",
+      "assessment": "{\"classification\":\"VALID_ESTABLISHED_CRITICAL_CONGENITAL_HEART_DEFECT\",\"normalized_entity\":\"Drenagem anômala total das veias pulmonares (DATVP)\",\"assessment\":\"O termo corresponde a uma entidade congênita válida: todas as veias pulmonares deixam de se conectar normalmente ao átrio esquerdo. O rótulo isolado, porém, não informa o trajeto anatômico da conexão, presença ou ausência de obstrução, cardiopatias associadas, condição fisiológica atual, diagnóstico confirmado por imagem, reparo realizado ou complicação pós-operatória. DATVP é considerada cardiopatia congênita crítica e, como entidade, requer correção cirúrgica; isso não permite afirmar que uma criança específica já foi operada, qual técnica foi usada, quando ocorreu a operação, quanto durou a internação ou se existe condição para alta.\",\"synonyms_and_acronyms\":[\"DATVP\",\"Conexão anômala total das veias pulmonares\",\"CATVP\",\"Total anomalous pulmonary venous return\",\"TAPVR\",\"Total anomalous pulmonary venous connection\",\"TAPVC\"],\"not_automatically_equivalent_to\":[\"Drenagem ou conexão anômala parcial das veias pulmonares\",\"Qualquer subtipo anatômico específico de DATVP\",\"DATVP obstruída ou não obstruída\",\"Estenose ou obstrução pulmonar venosa pós-operatória\",\"Hipertensão pulmonar, insuficiência cardíaca, arritmia ou choque confirmados\",\"Heterotaxia, isomerismo ou fisiologia univentricular\",\"DATVP reparada, estável, curada ou liberada de seguimento\",\"Indicação de medicamento, dose, oxigênio domiciliar, dieta, cirurgia específica, duração de internação ou alta\"],\"pediatric_scope\":\"A manifestação é mais comum ao nascimento ou nos primeiros meses, mas crianças maiores e adolescentes podem estar em seguimento após correção ou, raramente, receber diagnóstico tardio. Em qualquer idade, a urgência depende do estado cardiorrespiratório atual e do histórico anatômico e cirúrgico documentado, não apenas do nome cadastral.\",\"critical_context_to_confirm\":[\"Idade, peso atual, prematuridade e momento em que surgiu a suspeita ou confirmação\",\"Diagnóstico fetal ou pós-natal e relatório de ecocardiograma ou outro exame que descreva a anatomia\",\"Presença ou ausência de obstrução documentada, sem inferi-la por sintomas isolados\",\"Cardiopatias ou condições extracardíacas associadas e tipo de circulação\",\"Cor, esforço e frequência respiratória, nível de alerta, pulsos, perfusão e urina\",\"Saturação habitual definida pela equipe e mudança em relação a esse valor, se houver plano de monitorização\",\"Capacidade de mamar ou comer, suor e cansaço durante alimentação, vômitos, hidratação e evolução do peso\",\"Se houve correção, data, técnica, evolução, complicações, feridas ou drenos e resumo de alta\",\"Medicamentos, oxigênio ou equipamentos realmente prescritos e contatos do centro de cardiologia\",\"Plano de retornos, atividade, escola, vacinação, odontologia e transição para cardiologia congênita do adulto\"],\"counting_rule\":\"Contar pdf1500_475 como uma entidade clínica válida e específica. Preservar o nome cadastral e os sinônimos sem fundir com drenagem anômala parcial, sem criar subtipos não documentados e sem inferir estado pré ou pós-operatório.\",\"reason\":\"A entidade, a criticidade, os alertas e a necessidade de seguimento são sustentados por autoridades cardiológicas e pediátricas abertas e por coortes cirúrgicas. Dados individuais necessários para classificar anatomia, obstrução, gravidade atual, tratamento e alta não foram fornecidos.\",\"next_action\":\"Integrar a ficha com prioridade cardiorrespiratória, preservar as guardas de não inferência, exigir confirmação do estado de reparo e testar que sintomas atuais prevalecem sobre qualquer aparência de estabilidade ou histórico cirúrgico.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A DATVP é uma cardiopatia presente desde o nascimento. Nela, as veias que trazem sangue oxigenado dos pulmões não chegam ao átrio esquerdo pela conexão habitual. É uma cardiopatia congênita crítica; o nome, sozinho, não mostra o trajeto das veias, se existe obstrução nem como a criança está agora.",
+          "Se o diagnóstico é novo, ainda não foi corrigido ou não se sabe se houve correção, contate imediatamente um serviço de cardiologia pediátrica ou o hospital que acompanha a criança. Em bebê com mudança de cor, falta de ar, dificuldade para mamar, sonolência anormal ou pulso fraco, acione a emergência sem esperar consulta.",
+          "Se a criança já foi operada, os cuidados em casa só se aplicam após alta formal. Guarde o resumo de alta e siga exatamente o plano individual de ferida, alimentação, atividade, medicamentos, equipamentos, retornos e telefones; não use prazos ou restrições de outra criança.",
+          "Observe mudanças em relação ao habitual: cor dos lábios e da pele, respiração em repouso e durante alimentação ou atividade, suor, energia, quantidade ingerida, vômitos, urina, inchaço, febre e aparência da ferida, se houver. Uma mudança importante vale mais que um número isolado do oxímetro.",
+          "Mantenha casa e carro sem fumaça, vape, narguilé ou maconha e reduza contato com pessoas doentes conforme o plano da equipe. A DATVP não é contagiosa; ida à creche, escola, educação física, esporte e viagens dependem da recuperação e da liberação cardiológica, não do diagnóstico isolado.",
+          "Não interprete melhora de cor, apetite ou disposição como cura, e não interrompa o seguimento porque a criança parece bem. Mesmo após correção, são necessários controles cardiológicos para acompanhar veias pulmonares, ritmo cardíaco, função e capacidade de exercício."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acessíveis o diagnóstico, o resumo de alta ou relatório cardiológico, a lista atual de medicamentos e equipamentos, a saturação habitual se a equipe definiu uma, alergias e os contatos do centro que acompanha a criança. Não atrase uma emergência para reunir documentos.",
+          "Se houver dificuldade respiratória, deixe a criança na posição em que respira melhor, geralmente com o tronco elevado, mantenha-a acompanhada e acione ajuda. Não force caminhada, fisioterapia, banho, alimentação ou posição deitada.",
+          "Não inicie oxigênio, não mude fluxo ou alvo de saturação e não ajuste monitor, sonda ou outro equipamento sem o plano escrito. Em cardiopatias congênitas, a equipe interpreta saturação junto com anatomia, valor habitual, cor, esforço, consciência e perfusão.",
+          "Se houve operação, cuide de cada incisão ou local de dreno somente como orientado na alta. Não retire curativo, fita, ponto ou crosta; não aplique creme, óleo, antisséptico ou receita caseira; e não libere banho, colo por baixo dos braços, mochila, bicicleta, natação ou brincadeira de impacto por conta própria.",
+          "Atividade física deve ser individualizada pelo cardiologista. Criança ou adolescente reparado e estável pode muitas vezes participar de atividades, mas falta de ar, dor no peito, palpitação, tontura, desmaio ou queda de desempenho exige parar e comunicar a equipe.",
+          "Mantenha higiene oral e acompanhamento odontológico. Informe ao dentista a cardiopatia e a correção, se houve; a necessidade de antibiótico antes de procedimento depende da anatomia, do material utilizado, do tempo desde a intervenção e da avaliação cardiológica."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe um medicamento doméstico único para a DATVP, e remédios não corrigem a conexão anômala. Esta ficha não escolhe fármaco, oxigênio, dose, via, horário, duração, cirurgia ou alta.",
+          "Use somente os medicamentos e equipamentos que constam na prescrição individual vigente. Não inicie, suspenda, troque, reduza, aumente, triture, dilua ou prolongue tratamento porque outra criança com cardiopatia usou algo semelhante.",
+          "Confira nome, apresentação, concentração, volume e horário em cada administração e mantenha uma lista atualizada. Se a criança vomitar, cuspir ou perder uma dose, não repita nem dobre automaticamente; contate a equipe ou o farmacêutico responsável pelo plano.",
+          "Não dê descongestionante, xarope, anti-inflamatório, produto herbal, suplemento ou remédio de venda livre sem confirmar compatibilidade com o cardiologista ou pediatra. Informe todos os produtos usados antes de qualquer nova prescrição.",
+          "Antibiótico antes de tratamento dentário não é automático para toda pessoa com DATVP. O cardiologista deve definir se há indicação conforme anatomia e reparo; higiene oral regular continua importante com ou sem profilaxia.",
+          "Dificuldade para obter ou administrar uma prescrição, efeitos inesperados, sonolência incomum, piora da respiração, desmaio, inchaço, pouca urina ou incapacidade de manter doses exige contato imediato; sinais graves exigem pronto atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga o método, a textura, o volume e a frequência registrados pela equipe. Não presuma que toda criança com DATVP precisa de restrição de líquido, sal, fórmula especial, fortificante, espessante, sonda ou suplemento.",
+          "Em bebês, observe se a mamada provoca respiração muito rápida, afundamento das costelas, suor intenso, mudança de cor, pausas frequentes, engasgo, exaustão ou incapacidade de terminar. Interrompa a oferta se houver falta de ar importante ou alteração de consciência e procure emergência.",
+          "Não force comida ou líquido durante falta de ar, cianose, sonolência, desmaio ou vômitos repetidos. Há risco de aspiração, e a criança pode precisar de avaliação ou procedimento urgente.",
+          "Quando a criança estiver estável e a equipe tiver liberado alimentação, ofereça apenas o plano adequado à idade. Não altere a diluição da fórmula, não acrescente pó ou cereal e não substitua leite por água, chá ou suco por conta própria.",
+          "Acompanhe ingestão, urina ou fraldas, cansaço e peso conforme a orientação do centro. Menor volume ingerido, menos urina, suor ou exaustão para comer e peso parado ou caindo devem ser comunicados antes do retorno previsto.",
+          "Após operação, a via e o ritmo de alimentação podem mudar temporariamente, mas o plano deve estar definido na alta. Tosse, engasgo, voz molhada, vômitos, distensão, dor ou dificuldade nova para engolir precisa de avaliação; não improvise textura ou sonda."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios, língua, rosto ou pele mais azulados, arroxeados, cinzentos ou muito pálidos que o habitual, sobretudo com sonolência, fraqueza ou falta de ar. Acione o serviço de emergência se a mudança for intensa, rápida ou não melhorar.",
+          "Respiração muito rápida ou difícil, gemido, batimento das asas do nariz, costelas afundando, incapacidade de falar ou mamar, pausas respiratórias, exaustão ou piora súbita. Não espere um valor específico de saturação.",
+          "Desmaio, convulsão, confusão, dificuldade para acordar, flacidez, pulso muito fraco, pele fria ou manchada, mãos e pés muito frios, ou piora rápida pode indicar baixa oxigenação ou choque e exige emergência.",
+          "Recusa ou incapacidade de mamar ou beber, suor e cansaço marcantes na alimentação, vômitos repetidos com pouca urina, boca muito seca ou sonolência incomum exige avaliação urgente, especialmente em bebês.",
+          "Palpitação persistente com tontura, desmaio, dor no peito, falta de ar ou palidez; ou dor no peito forte ou nova acompanhada de dificuldade respiratória precisa de avaliação imediata.",
+          "Depois de uma operação, falta de ar crescente, mudança de cor, extremo cansaço, inchaço novo, pouca urina, febre com aparência doente, sangramento que não para, abertura da ferida ou secreção associada a piora geral exige pronto atendimento e contato com a equipe cardíaca."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita ou diagnóstico novo de DATVP, ou estado de correção desconhecido, exige avaliação imediata por cardiologia pediátrica; em recém-nascido ou lactente, o hospital deve ter capacidade de estabilização e articulação com centro de cardiologia e cirurgia cardíaca. Não aguarde um retorno de rotina para esclarecer.",
+          "Após alta, cumpra exatamente o retorno escrito com cardiologista e equipe cirúrgica, se aplicável. Se não recebeu data, contatos, plano de ferida, alimentação, atividade e medicamentos, procure o centro antes de improvisar; esta ficha não cria intervalo ou duração.",
+          "Antecipe o contato por aumento do cansaço ou suor, respiração mais rápida, mudança de cor, piora de alimentação, vômitos, queda de peso, menos urina, inchaço, febre, tosse persistente, queda de rendimento, palpitações, tontura ou dor no peito.",
+          "Mesmo sem sintomas, mantenha seguimento cardiológico ao longo da vida. Após correção, a equipe acompanha possível estreitamento das veias pulmonares, alterações de ritmo, função cardíaca, pressão pulmonar e necessidade de exames ou nova intervenção, sem presumir que alguma dessas complicações exista.",
+          "Crescimento, alimentação, audição, visão, linguagem, aprendizagem, comportamento e desenvolvimento merecem acompanhamento pediátrico. Bebês e crianças submetidos a cuidado cardíaco complexo podem precisar de avaliação do desenvolvimento, conforme risco e evolução individuais.",
+          "Na adolescência, planeje transição para cardiologia de cardiopatias congênitas do adulto e discuta atividade, trabalho, contracepção e futura gestação antes de decisões relevantes. Antes de cirurgia não cardíaca, procedimento invasivo ou tratamento dentário, informe a história de DATVP e confirme o plano com a cardiologia."
+        ]
+      },
+      "ageMap": {
+        "u3m": "DATVP suspeita ou confirmada sem estado de correção conhecido exige avaliação hospitalar e cardiologia neonatal imediatas. Cianose ou palidez, respiração rápida ou difícil, pausas, sucção fraca, suor ou exaustão na mamada, pulso fraco, pouca resposta, hipotermia ou febre e pouca urina são alarmes. Não presumir obstrução, anatomia, medicamento ou cirurgia já realizada.",
+        "3a5m": "Se a criança não foi corrigida ou não há documentação, não esperar sintomas: contatar imediatamente cardiologia pediátrica. Observar cor, esforço respiratório, suor, pausas e fadiga na mamada, ingestão, fraldas e peso. Após operação, seguir apenas plano de alta e antecipar contato por qualquer piora.",
+        "6a11m": "Confirmar relatório anatômico e cirúrgico, saturação habitual se definida, plano de alimentação e retornos. Menor interação, respiração ofegante em repouso ou ao comer, mudança de cor, suor, engasgo, peso parado e menos fraldas requerem contato; sinais intensos são emergência. Não mudar dieta, fórmula, oxigênio ou atividade sozinho.",
+        "1a": "A criança pode mostrar piora parando de brincar, pedindo colo, respirando mais rápido, ficando pálida ou azulada, suando, comendo menos ou urinando pouco. Diagnóstico não corrigido nesta idade é incomum e exige avaliação especializada imediata. Depois de cirurgia, não aplicar restrições genéricas de ferida ou esterno: usar a alta individual.",
+        "2a5": "Observar tolerância para brincar, fala entrecortada por falta de ar, cor, palpitação percebida, tontura, desmaio, alimentação, crescimento e desenvolvimento. Escola e atividade são possíveis conforme liberação; não excluir automaticamente nem liberar esporte competitivo sem cardiologia. Manter higiene oral e confirmar individualmente profilaxia odontológica.",
+        "6a11": "Ensinar a criança a relatar falta de ar, dor no peito, palpitação, tontura, cansaço novo ou piora do rendimento. Manter seguimento mesmo se assintomática e ajustar educação física pelo cardiologista. Dificuldade escolar ou de desenvolvimento merece avaliação, sem atribuir automaticamente à cardiopatia.",
+        "12a17": "Adolescente deve conhecer o nome da cardiopatia, anatomia e reparo documentados, medicamentos reais, sinais de urgência e contatos. Planejar transição para cardiologia congênita do adulto; discutir esporte, trabalho, procedimentos, contracepção e futura gestação individualmente. Síncope, cianose, palpitação persistente, dor no peito ou dispneia exigem avaliação rápida.",
+        "unknown": "Sem idade e estado de reparo, não presumir bebê, subtipo, obstrução, estabilidade ou alta. Confirmar imediatamente documentação e avaliar cor, respiração, consciência, perfusão, pulso, alimentação, urina e sintomas de esforço. Qualquer comprometimento cardiorrespiratório ativa emergência; se estável, contatar cardiologia congênita no mesmo dia para definir o fluxo."
+      },
+      "refs": [
+        {
+          "id": "pais245_op2439_1",
+          "name": "Total Anomalous Pulmonary Venous Return (TAPVR)",
+          "url": "https://www.cdc.gov/heart-defects/about/tapvr.html"
+        },
+        {
+          "id": "pais245_op2439_2",
+          "name": "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/total-anomalous-pulmonary-venous-connection-tapvc"
+        },
+        {
+          "id": "pais245_op2439_3",
+          "name": "Sistematização do atendimento ao recém-nascido com suspeita ou diagnóstico de cardiopatia congênita",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23544c-MO_Sistemat_atend_RN_cSuspeita_CardCongenita.pdf"
+        },
+        {
+          "id": "pais245_op2439_4",
+          "name": "Drenagem anômala total das veias pulmonares: 29 anos de experiência em uma única instituição",
+          "url": "https://www.scielo.br/j/abc/a/gHY85GMfhLNhhvQ96kJwC6H/?lang=pt"
+        },
+        {
+          "id": "pais245_op2439_5",
+          "name": "Total Anomalous Pulmonary Venous Connection: Surgical Outcomes and Risk Factors for Postoperative Pulmonary Vein Obstruction",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999182/"
+        },
+        {
+          "id": "pais245_op2439_6",
+          "name": "Total anomalous pulmonary venous connection: outcome of postoperative pulmonary venous obstruction",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22892140/"
+        },
+        {
+          "id": "pais245_op2439_7",
+          "name": "Patient Instructions: Care at Home after Cardiac Surgery",
+          "url": "https://www.chop.edu/sites/default/files/01-b-69.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

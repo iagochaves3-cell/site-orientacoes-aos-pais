@@ -1,0 +1,138 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T20:50:02.339Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps20261014_hidrocele",
+      "label": "Hidrocele",
+      "entity": "Hidrocele pediátrica",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Diagnóstico exige exame; aumento do escroto ou dor nova não deve ser atribuído automaticamente ao rótulo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Hidrocele é líquido ao redor do testículo, que pode aumentar o saco escrotal. A equipe deve confirmar o diagnóstico e se há comunicação com o abdome ou hérnia associada.",
+          "Em bebês, muitas formas sem comunicação diminuem no primeiro ano. Algumas mudam de tamanho ao longo do dia. Isso não permite concluir em casa que qualquer inchaço seja inofensivo."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Cuide da higiene e use fraldas/roupas confortáveis, sem apertar. Observe mudanças sem espremer, tentar esvaziar ou empurrar o volume.",
+          "Não faça punção, massagem, compressão ou teste com luz para decidir o diagnóstico. Mantenha o acompanhamento mesmo quando o inchaço não dói."
+        ],
+        "MEDICAMENTOS": [
+          "Não use diurético, antibiótico, pomada ou produto caseiro para retirar o líquido por conta própria.",
+          "A necessidade e o momento de cirurgia dependem do tipo e da evolução. Comunicação com o abdome, hérnia ou persistência precisam de avaliação especializada; não significam o mesmo plano para todo bebê."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos adequados à idade. No bebê, continue leite materno ou fórmula conforme o plano habitual; não reduza mamadas para tentar diminuir o inchaço.",
+          "Se houver procedimento programado, siga as instruções recebidas. Uma emergência não deve ser adiada para cumprir jejum em casa."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor escrotal súbita, aumento rápido, vômitos, bolsa vermelha ou escurecida, ou criança muito incomodada exige pronto-socorro imediatamente, mesmo com hidrocele conhecida. Pode haver torção ou hérnia presa; não espere exame marcado.",
+          "Febre com vermelhidão, calor ou mal-estar precisa de avaliação rápida. Em bebê menor de três meses, febre exige atendimento imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Confirme o retorno com a equipe. Se persistir ao redor de um ano de idade, reavalie a necessidade de acompanhamento cirúrgico, sem assumir que a cirurgia é automática.",
+          "Procure antes se o volume crescer, ficar firme, causar desconforto ou se surgir inchaço novo em criança maior. Não esperar meses para avaliar uma alteração nova."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirmar diagnóstico; febre ou dor súbita exige urgência. Não manipular o volume.",
+        "3a5m": "Acompanhar evolução e manter mamadas; alteração dolorosa não é esperada.",
+        "6a11m": "Observar sem comprimir e cumprir retorno; crescimento ou dor antecipa avaliação.",
+        "1a": "Persistência perto de um ano pede reavaliação do plano; não definir cirurgia apenas pela idade.",
+        "2a5": "Novo inchaço ou persistência deve ser reavaliado; não presumir o curso do recém-nascido.",
+        "6a11": "Investigar inchaço novo com a equipe, sobretudo após trauma ou com dor.",
+        "12a17": "Respeitar privacidade; dor súbita requer urgência mesmo com diagnóstico conhecido.",
+        "unknown": "Confirmar idade, início dos sintomas e tipo de hidrocele antes de definir acompanhamento."
+      },
+      "refs": [
+        {
+          "id": "pais232_op649_1",
+          "name": "Hydrocele",
+          "url": "https://www.seattlechildrens.org/conditions/hydrocele/"
+        },
+        {
+          "id": "pais232_op649_2",
+          "name": "Hydrocele in Children",
+          "url": "https://www.cedars-sinai.org/health-topics/hydrocele-in-children"
+        },
+        {
+          "id": "pais232_op649_3",
+          "name": "Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+        },
+        {
+          "id": "pais232_op649_4",
+          "name": "High temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_78d84f9eb554bfc5",
+      "label": "Varicocele — registro no PPS",
+      "entity": "Varicocele na infância/adolescência",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Diagnóstico exige exame; aumento do escroto ou dor nova não deve ser atribuído automaticamente ao rótulo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Varicocele é dilatação das veias ao redor do testículo, mais comum perto da puberdade. Pode causar sensação de peso ou não provocar sintomas; a equipe confirma pelo exame.",
+          "O acompanhamento observa dor e crescimento dos testículos. Ter varicocele não significa que o adolescente necessariamente terá dificuldade para ter filhos."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Converse com privacidade, sem brincadeiras ou vergonha sobre o corpo. Relate desconforto e mudanças à equipe, sem apertar ou massagear as veias.",
+          "Combine atividades conforme os sintomas e a orientação recebida. Não deixe uma dor súbita ser tratada apenas como o desconforto habitual de uma varicocele."
+        ],
+        "MEDICAMENTOS": [
+          "Não iniciar hormônios, suplementos, antibiótico ou produto para varizes por conta própria. Se houver prescrição para dor, siga apenas o plano individual.",
+          "Nem todos precisam de operação. Dor persistente ou diferença de crescimento dos testículos pode levar o especialista a discutir tratamento; a decisão não cabe ao nome da ficha ou a uma medida feita em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e hidratação habituais adequadas à idade. Não há indicação de dieta restritiva ou suplemento automático por esse diagnóstico.",
+          "Se houver procedimento marcado, peça instruções de preparo e recuperação à equipe; não improvise restrições."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor escrotal de início súbito, inchaço doloroso, náusea/vômitos ou alteração de cor exige pronto-socorro imediatamente: não atribuir automaticamente à varicocele, pois torção testicular precisa de avaliação rápida.",
+          "Febre com dor, vermelhidão ou piora importante do estado geral exige avaliação sem demora. Não espere a consulta de acompanhamento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha seguimento com urologia/pediatria para avaliar sintomas e crescimento testicular. Quando está estável e sem dor, a equipe pode indicar revisão anual; siga o intervalo definido para o adolescente.",
+          "Antecipe o retorno por dor persistente, aumento do volume ou diferença percebida no tamanho dos testículos. Em criança antes da puberdade, confirme a causa com avaliação própria."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Este diagnóstico é incomum nesta idade; confirmar a causa de inchaço, sem presumir varicocele puberal.",
+        "3a5m": "Avaliação própria do lactente; dor/inchaço novo ou febre não pode aguardar.",
+        "6a11m": "Não aplicar automaticamente o plano do adolescente; confirmar diagnóstico.",
+        "1a": "Criança pequena com alteração escrotal precisa de exame e acompanhamento individual.",
+        "2a5": "Antes da puberdade, confirmar causa com pediatria/urologia.",
+        "6a11": "Observar estágio puberal e crescimento com profissional; não medir ou manipular em casa.",
+        "12a17": "Seguimento de crescimento e sintomas com privacidade; não presumir infertilidade.",
+        "unknown": "Confirme idade e estágio puberal para definir acompanhamento e urgência."
+      },
+      "refs": [
+        {
+          "id": "pais232_op650_1",
+          "name": "Varicocele",
+          "url": "https://www.ucsfbenioffchildrens.org/conditions/varicocele"
+        },
+        {
+          "id": "pais232_op650_2",
+          "name": "Varicocele",
+          "url": "https://www.childrenscolorado.org/conditions-and-advice/conditions-and-symptoms/conditions/varicocele/"
+        },
+        {
+          "id": "pais232_op650_3",
+          "name": "Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+        },
+        {
+          "id": "pais232_op650_4",
+          "name": "High temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

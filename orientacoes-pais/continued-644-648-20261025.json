@@ -1,0 +1,381 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T20:46:02.454Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_79",
+      "label": "Fimose Fisiológica vs. Fimose Verdadeira e Parafimose Aguda",
+      "entity": "Fimose fisiológica, fimose patológica e reconhecimento de parafimose",
+      "assessment": "{\"classification\":\"VALID_ENTITY_FAMILY\",\"assessment\":\"Rótulo reúne condições distintas; higiene e observação só se aplicam sem parafimose ou sinais de urgência.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Na infância, a pele do prepúcio pode ainda não se retrair por uma etapa natural de separação. Quando isso é indolor, sem cicatriz e com xixi confortável, a equipe pode orientar observação. Não há uma idade única em que a pele de toda criança deva abrir.",
+          "Fimose verdadeira ou patológica envolve estreitamento com cicatriz e precisa de avaliação própria. Pele que antes abria e deixou de abrir, dor ou mudança do jato urinário merecem revisão; a família não precisa testar a abertura à força para decidir.",
+          "Parafimose é a pele presa para trás, diferente de uma pele que ainda não abre. As orientações de higiene abaixo só cabem quando não há pele presa, inflamação aguda ou outro sinal de urgência. Se a equipe já tratou uma parafimose, siga o plano recebido para esse episódio."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Antes de a pele se separar naturalmente, lave apenas por fora. Se ela já abre com facilidade e sem dor, e não há inflamação, faça higiene suave e recoloque-a imediatamente cobrindo a cabeça do pênis. Ensine esse cuidado aos maiores, sem forçar.",
+          "Não puxe, alongue à força ou use instrumentos para abrir a pele: isso causa feridas e cicatrizes. Não retire à força pequenos acúmulos esbranquiçados sob a pele; eles podem fazer parte da separação natural, mas dor, febre ou inflamação pedem exame.",
+          "Não trate pele presa para trás como fimose comum nem tente massagens ou redução caseira: atrasar atendimento pode prejudicar a circulação da ponta do pênis."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente a pomada ou outro tratamento que foi indicado para a situação realmente avaliada, com a aplicação e duração ensinadas. Persistir uma abertura estreita não autoriza aumentar o uso nem iniciar tratamento por conta própria.",
+          "Pomada com corticoide, antibiótico ou procedimento dependem da avaliação e do plano individual; não iniciar por causa do nome no cadastro."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha a alimentação habitual adequada à idade, sem forçar. Se ainda mama, continue o aleitamento; se recebe fórmula, mantenha o plano habitual. Antes dos 6 meses, água ou chá de rotina não substituem as mamadas. Preserve o plano de alimentação ou reidratação que a equipe indicou para a doença."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se a pele ficou presa atrás da cabeça do pênis e não volta a cobri-la, procure pronto atendimento imediatamente: pode ser parafimose. Não espere aparecer mudança de cor, não aguarde pomada fazer efeito e não tente manobras de redução em casa.",
+          "Incapacidade de urinar ou ponta do pênis azulada ou escura exige pronto atendimento imediatamente. Dor ou inchaço de início recente no saco escrotal também precisa de atendimento imediato.",
+          "Falta de ar importante, lábios arroxeados, desmaio, convulsão, confusão ou criança muito mole ou difícil de acordar: procure socorro imediatamente; em situação grave, ligue 192.",
+          "Febre com pênis vermelho ou inchado, dor forte, inchaço crescente ou dificuldade para urinar precisa de avaliação sem demora, mesmo quando já havia diagnóstico de fimose.",
+          "Em bebê menor de 3 meses, febre ou suspeita de febre exige avaliação imediata, mesmo que pareça bem. Entre 3 e 6 meses, temperatura de 39 °C ou mais pede avaliação sem demora; piora do estado geral exige atendimento mesmo abaixo desse valor."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque reavaliação se surgirem cicatriz, perda da abertura que antes existia, jato novo muito fino, dor ou inflamações repetidas. Pele que forma um pequeno balão ao urinar, isoladamente, não comprova obstrução; dificuldade real para urinar muda a urgência.",
+          "Mantenha o acompanhamento indicado para o subtipo avaliado, sem promessa de abertura em uma data. Se recebeu apenas o nome “fimose” e não entendeu qual situação foi encontrada, peça esclarecimento à equipe; isso não deve atrasar socorro diante dos sinais acima."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Prepúcio que ainda não abre costuma ser esperado; não retrair à força. Febre ou incapacidade de urinar exige avaliação imediata.",
+        "3a5m": "Higiene apenas externa se a pele não abre naturalmente; não fazer exercícios forçados.",
+        "6a11m": "Troque fraldas molhadas e observe micção; não presumir infecção só por material esbranquiçado.",
+        "1a": "Não impor abertura por idade; acompanhar sintomas e desenvolvimento.",
+        "2a5": "Ajude na higiene sem forçar; pele presa para trás exige emergência.",
+        "6a11": "Ensine higiene quando a pele abrir sem dor e recolocação imediata; dor ou cicatriz pede avaliação.",
+        "12a17": "Respeite privacidade; dor, perda da abertura prévia ou persistência ao final da puberdade merece avaliação.",
+        "unknown": "Confirme idade e subtipo; pele presa, retenção urinária ou mudança de cor não pode aguardar."
+      },
+      "refs": [
+        {
+          "id": "pais231_op644_1",
+          "name": "The penis and foreskin",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_penis_and_foreskin/"
+        },
+        {
+          "id": "pais231_op644_2",
+          "name": "Tight foreskin (phimosis)",
+          "url": "https://www.nhs.uk/conditions/phimosis/"
+        },
+        {
+          "id": "pais231_op644_3",
+          "name": "Penis and foreskin care",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Penis_and_foreskin_care/"
+        },
+        {
+          "id": "pais231_op644_4",
+          "name": "Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+        },
+        {
+          "id": "pais231_op644_5",
+          "name": "High temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_1da640763a96c991",
+      "label": "Fimose Fisiológica vs. Fimose Verdadeira e Parafimose Aguda — registro no PPS",
+      "entity": "Fimose fisiológica, fimose patológica e reconhecimento de parafimose",
+      "assessment": "{\"classification\":\"VALID_ENTITY_FAMILY\",\"assessment\":\"Rótulo reúne condições distintas; higiene e observação só se aplicam sem parafimose ou sinais de urgência.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Na infância, a pele do prepúcio pode ainda não se retrair por uma etapa natural de separação. Quando isso é indolor, sem cicatriz e com xixi confortável, a equipe pode orientar observação. Não há uma idade única em que a pele de toda criança deva abrir.",
+          "Fimose verdadeira ou patológica envolve estreitamento com cicatriz e precisa de avaliação própria. Pele que antes abria e deixou de abrir, dor ou mudança do jato urinário merecem revisão; a família não precisa testar a abertura à força para decidir.",
+          "Parafimose é a pele presa para trás, diferente de uma pele que ainda não abre. As orientações de higiene abaixo só cabem quando não há pele presa, inflamação aguda ou outro sinal de urgência. Se a equipe já tratou uma parafimose, siga o plano recebido para esse episódio."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Antes de a pele se separar naturalmente, lave apenas por fora. Se ela já abre com facilidade e sem dor, e não há inflamação, faça higiene suave e recoloque-a imediatamente cobrindo a cabeça do pênis. Ensine esse cuidado aos maiores, sem forçar.",
+          "Não puxe, alongue à força ou use instrumentos para abrir a pele: isso causa feridas e cicatrizes. Não retire à força pequenos acúmulos esbranquiçados sob a pele; eles podem fazer parte da separação natural, mas dor, febre ou inflamação pedem exame.",
+          "Não trate pele presa para trás como fimose comum nem tente massagens ou redução caseira: atrasar atendimento pode prejudicar a circulação da ponta do pênis."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente a pomada ou outro tratamento que foi indicado para a situação realmente avaliada, com a aplicação e duração ensinadas. Persistir uma abertura estreita não autoriza aumentar o uso nem iniciar tratamento por conta própria.",
+          "Pomada com corticoide, antibiótico ou procedimento dependem da avaliação e do plano individual; não iniciar por causa do nome no cadastro."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha a alimentação habitual adequada à idade, sem forçar. Se ainda mama, continue o aleitamento; se recebe fórmula, mantenha o plano habitual. Antes dos 6 meses, água ou chá de rotina não substituem as mamadas. Preserve o plano de alimentação ou reidratação que a equipe indicou para a doença."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se a pele ficou presa atrás da cabeça do pênis e não volta a cobri-la, procure pronto atendimento imediatamente: pode ser parafimose. Não espere aparecer mudança de cor, não aguarde pomada fazer efeito e não tente manobras de redução em casa.",
+          "Incapacidade de urinar ou ponta do pênis azulada ou escura exige pronto atendimento imediatamente. Dor ou inchaço de início recente no saco escrotal também precisa de atendimento imediato.",
+          "Falta de ar importante, lábios arroxeados, desmaio, convulsão, confusão ou criança muito mole ou difícil de acordar: procure socorro imediatamente; em situação grave, ligue 192.",
+          "Febre com pênis vermelho ou inchado, dor forte, inchaço crescente ou dificuldade para urinar precisa de avaliação sem demora, mesmo quando já havia diagnóstico de fimose.",
+          "Em bebê menor de 3 meses, febre ou suspeita de febre exige avaliação imediata, mesmo que pareça bem. Entre 3 e 6 meses, temperatura de 39 °C ou mais pede avaliação sem demora; piora do estado geral exige atendimento mesmo abaixo desse valor."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque reavaliação se surgirem cicatriz, perda da abertura que antes existia, jato novo muito fino, dor ou inflamações repetidas. Pele que forma um pequeno balão ao urinar, isoladamente, não comprova obstrução; dificuldade real para urinar muda a urgência.",
+          "Mantenha o acompanhamento indicado para o subtipo avaliado, sem promessa de abertura em uma data. Se recebeu apenas o nome “fimose” e não entendeu qual situação foi encontrada, peça esclarecimento à equipe; isso não deve atrasar socorro diante dos sinais acima."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Prepúcio que ainda não abre costuma ser esperado; não retrair à força. Febre ou incapacidade de urinar exige avaliação imediata.",
+        "3a5m": "Higiene apenas externa se a pele não abre naturalmente; não fazer exercícios forçados.",
+        "6a11m": "Troque fraldas molhadas e observe micção; não presumir infecção só por material esbranquiçado.",
+        "1a": "Não impor abertura por idade; acompanhar sintomas e desenvolvimento.",
+        "2a5": "Ajude na higiene sem forçar; pele presa para trás exige emergência.",
+        "6a11": "Ensine higiene quando a pele abrir sem dor e recolocação imediata; dor ou cicatriz pede avaliação.",
+        "12a17": "Respeite privacidade; dor, perda da abertura prévia ou persistência ao final da puberdade merece avaliação.",
+        "unknown": "Confirme idade e subtipo; pele presa, retenção urinária ou mudança de cor não pode aguardar."
+      },
+      "refs": [
+        {
+          "id": "pais231_op645_1",
+          "name": "The penis and foreskin",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_penis_and_foreskin/"
+        },
+        {
+          "id": "pais231_op645_2",
+          "name": "Tight foreskin (phimosis)",
+          "url": "https://www.nhs.uk/conditions/phimosis/"
+        },
+        {
+          "id": "pais231_op645_3",
+          "name": "Penis and foreskin care",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Penis_and_foreskin_care/"
+        },
+        {
+          "id": "pais231_op645_4",
+          "name": "Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+        },
+        {
+          "id": "pais231_op645_5",
+          "name": "High temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_variant_paraphimosis",
+      "label": "Parafimose aguda",
+      "entity": "Parafimose aguda",
+      "assessment": "{\"classification\":\"VALID_URGENT_ENTITY\",\"assessment\":\"Pele presa atrás da glande: emergência em todas as idades; cuidados domiciliares apenas após liberação.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Se a pele está presa atrás da cabeça do pênis agora, procure pronto-socorro imediatamente. Esta ficha não autoriza tratar a crise em casa.",
+          "A pele retraída fica apertada atrás da glande e pode prejudicar sua circulação. Não é o mesmo que o prepúcio naturalmente não retrátil de uma criança pequena. A equipe avaliará circulação e urina e fará a redução ou outro tratamento.",
+          "Muitos casos são resolvidos sem cirurgia. Após uma redução sem complicações, a necessidade de retorno e de qualquer tratamento adicional depende da avaliação; esta ficha não indica circuncisão automaticamente.",
+          "Em casa somente após liberação. Lave a parte externa delicadamente e siga o analgésico e a orientação de higiene recebidos. Evite retração por alguns dias ou pelo período indicado, para permitir a recuperação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não force a pele para frente ou para trás, não aperte com faixas e não use instrumentos, cortes, agulhas ou receitas caseiras para desinchar. A redução pertence à equipe treinada.",
+          "Não retraia um prepúcio que ainda não se solta naturalmente. Quando já for retrátil e a equipe liberar a higiene habitual, ensine a recolocar suavemente a pele cobrindo a glande logo após a limpeza."
+        ],
+        "MEDICAMENTOS": [
+          "Somente após avaliação e liberação, siga o medicamento prescrito para dor, se houver. Não espere pomada fazer efeito para buscar atendimento e não use anestésico ou outro produto para tentar reduzir em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Esta ficha não estabelece restrições de alimentos ou líquidos. Se a equipe indicar preparo para um procedimento, siga as instruções recebidas sem adiar o atendimento para cumprir jejum."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Prepúcio preso atrás da cabeça do pênis, com inchaço, é uma urgência: procure atendimento agora. Dor intensa, pele arroxeada/escura ou dificuldade para urinar aumentam a preocupação; não espere esses sinais para ir.",
+          "Se houver grande dificuldade para respirar, lábios arroxeados, desmaio, convulsão ou dificuldade para acordar, ligue 192 e siga as orientações do atendente.",
+          "Após redução, observe urina, dor, cor e inchaço sem puxar a pele para testar. Pele presa de novo, piora rápida, escurecimento ou incapacidade de urinar exige pronto-socorro imediatamente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se dor/inchaço não estiverem melhorando conforme orientado, houver febre ou secreção, contate a equipe antes. Cumpra a revisão se indicada e esclareça quando retomar higiene com retração; não tente nova redução em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual.",
+        "3a5m": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual.",
+        "6a11m": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual.",
+        "1a": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual.",
+        "2a5": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual.",
+        "6a11": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual.",
+        "12a17": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual.",
+        "unknown": "Parafimose aguda exige pronto-socorro nesta faixa etária; não forçar a pele nem esperar mudança de cor. Após tratamento, seguir liberação e retorno individual."
+      },
+      "refs": [
+        {
+          "id": "pais231_op646_1",
+          "name": "The penis and foreskin",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_penis_and_foreskin/"
+        },
+        {
+          "id": "pais231_op646_2",
+          "name": "Tight foreskin (phimosis)",
+          "url": "https://www.nhs.uk/conditions/phimosis/"
+        },
+        {
+          "id": "pais231_op646_3",
+          "name": "Penis and foreskin care",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Penis_and_foreskin_care/"
+        },
+        {
+          "id": "pais231_op646_4",
+          "name": "Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+        },
+        {
+          "id": "pais231_op646_5",
+          "name": "High temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_673",
+      "label": "Fimose bilateral",
+      "entity": "Fimose — qualificador de lateralidade não validado",
+      "assessment": "{\"classification\":\"UNSUPPORTED_LATERALITY_QUALIFIER\",\"assessment\":\"Unilateral/bilateral não define subtipo de fimose nas referências consultadas: o termo descreve o anel do prepúcio, não um órgão par. Preservar o nome do cadastro e confirmar se a lateralidade se referia a outro achado. Não deduzir gravidade ou tratamento.\",\"counting_rule\":\"Resolução terminológica, não nova doença ou ficha específica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O qualificador de lado neste registro não estabelece um tipo de fimose. Peça à equipe que esclareça o diagnóstico e a qual estrutura se referia. Os cuidados a seguir só valem para o quadro de prepúcio realmente avaliado, sem emergência.",
+          "Na infância, a pele do prepúcio pode ainda não se retrair por uma etapa natural de separação. Quando isso é indolor, sem cicatriz e com xixi confortável, a equipe pode orientar observação. Não há uma idade única em que a pele de toda criança deva abrir.",
+          "Fimose verdadeira ou patológica envolve estreitamento com cicatriz e precisa de avaliação própria. Pele que antes abria e deixou de abrir, dor ou mudança do jato urinário merecem revisão; a família não precisa testar a abertura à força para decidir.",
+          "Parafimose é a pele presa para trás, diferente de uma pele que ainda não abre. As orientações de higiene abaixo só cabem quando não há pele presa, inflamação aguda ou outro sinal de urgência. Se a equipe já tratou uma parafimose, siga o plano recebido para esse episódio."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Antes de a pele se separar naturalmente, lave apenas por fora. Se ela já abre com facilidade e sem dor, e não há inflamação, faça higiene suave e recoloque-a imediatamente cobrindo a cabeça do pênis. Ensine esse cuidado aos maiores, sem forçar.",
+          "Não puxe, alongue à força ou use instrumentos para abrir a pele: isso causa feridas e cicatrizes. Não retire à força pequenos acúmulos esbranquiçados sob a pele; eles podem fazer parte da separação natural, mas dor, febre ou inflamação pedem exame.",
+          "Não trate pele presa para trás como fimose comum nem tente massagens ou redução caseira: atrasar atendimento pode prejudicar a circulação da ponta do pênis."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente a pomada ou outro tratamento que foi indicado para a situação realmente avaliada, com a aplicação e duração ensinadas. Persistir uma abertura estreita não autoriza aumentar o uso nem iniciar tratamento por conta própria.",
+          "Pomada com corticoide, antibiótico ou procedimento dependem da avaliação e do plano individual; não iniciar por causa do nome no cadastro."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha a alimentação habitual adequada à idade, sem forçar. Se ainda mama, continue o aleitamento; se recebe fórmula, mantenha o plano habitual. Antes dos 6 meses, água ou chá de rotina não substituem as mamadas. Preserve o plano de alimentação ou reidratação que a equipe indicou para a doença."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se a pele ficou presa atrás da cabeça do pênis e não volta a cobri-la, procure pronto atendimento imediatamente: pode ser parafimose. Não espere aparecer mudança de cor, não aguarde pomada fazer efeito e não tente manobras de redução em casa.",
+          "Incapacidade de urinar ou ponta do pênis azulada ou escura exige pronto atendimento imediatamente. Dor ou inchaço de início recente no saco escrotal também precisa de atendimento imediato.",
+          "Falta de ar importante, lábios arroxeados, desmaio, convulsão, confusão ou criança muito mole ou difícil de acordar: procure socorro imediatamente; em situação grave, ligue 192.",
+          "Febre com pênis vermelho ou inchado, dor forte, inchaço crescente ou dificuldade para urinar precisa de avaliação sem demora, mesmo quando já havia diagnóstico de fimose.",
+          "Em bebê menor de 3 meses, febre ou suspeita de febre exige avaliação imediata, mesmo que pareça bem. Entre 3 e 6 meses, temperatura de 39 °C ou mais pede avaliação sem demora; piora do estado geral exige atendimento mesmo abaixo desse valor."
+        ],
+        "QUANDO REAVALIAR": [
+          "Confirme o significado do registro; dor ou inchaço localizado no saco escrotal não deve ser atribuído automaticamente à fimose e exige avaliação imediata quando recente.",
+          "Marque reavaliação se surgirem cicatriz, perda da abertura que antes existia, jato novo muito fino, dor ou inflamações repetidas. Pele que forma um pequeno balão ao urinar, isoladamente, não comprova obstrução; dificuldade real para urinar muda a urgência.",
+          "Mantenha o acompanhamento indicado para o subtipo avaliado, sem promessa de abertura em uma data. Se recebeu apenas o nome “fimose” e não entendeu qual situação foi encontrada, peça esclarecimento à equipe; isso não deve atrasar socorro diante dos sinais acima."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Prepúcio que ainda não abre costuma ser esperado; não retrair à força. Febre ou incapacidade de urinar exige avaliação imediata.",
+        "3a5m": "Higiene apenas externa se a pele não abre naturalmente; não fazer exercícios forçados.",
+        "6a11m": "Troque fraldas molhadas e observe micção; não presumir infecção só por material esbranquiçado.",
+        "1a": "Não impor abertura por idade; acompanhar sintomas e desenvolvimento.",
+        "2a5": "Ajude na higiene sem forçar; pele presa para trás exige emergência.",
+        "6a11": "Ensine higiene quando a pele abrir sem dor e recolocação imediata; dor ou cicatriz pede avaliação.",
+        "12a17": "Respeite privacidade; dor, perda da abertura prévia ou persistência ao final da puberdade merece avaliação.",
+        "unknown": "Confirme idade e subtipo; pele presa, retenção urinária ou mudança de cor não pode aguardar."
+      },
+      "refs": [
+        {
+          "id": "pais231_op647_1",
+          "name": "The penis and foreskin",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_penis_and_foreskin/"
+        },
+        {
+          "id": "pais231_op647_2",
+          "name": "Tight foreskin (phimosis)",
+          "url": "https://www.nhs.uk/conditions/phimosis/"
+        },
+        {
+          "id": "pais231_op647_3",
+          "name": "Penis and foreskin care",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Penis_and_foreskin_care/"
+        },
+        {
+          "id": "pais231_op647_4",
+          "name": "Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+        },
+        {
+          "id": "pais231_op647_5",
+          "name": "High temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_685",
+      "label": "Fimose unilateral",
+      "entity": "Fimose — qualificador de lateralidade não validado",
+      "assessment": "{\"classification\":\"UNSUPPORTED_LATERALITY_QUALIFIER\",\"assessment\":\"Unilateral/bilateral não define subtipo de fimose nas referências consultadas: o termo descreve o anel do prepúcio, não um órgão par. Preservar o nome do cadastro e confirmar se a lateralidade se referia a outro achado. Não deduzir gravidade ou tratamento.\",\"counting_rule\":\"Resolução terminológica, não nova doença ou ficha específica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O qualificador de lado neste registro não estabelece um tipo de fimose. Peça à equipe que esclareça o diagnóstico e a qual estrutura se referia. Os cuidados a seguir só valem para o quadro de prepúcio realmente avaliado, sem emergência.",
+          "Na infância, a pele do prepúcio pode ainda não se retrair por uma etapa natural de separação. Quando isso é indolor, sem cicatriz e com xixi confortável, a equipe pode orientar observação. Não há uma idade única em que a pele de toda criança deva abrir.",
+          "Fimose verdadeira ou patológica envolve estreitamento com cicatriz e precisa de avaliação própria. Pele que antes abria e deixou de abrir, dor ou mudança do jato urinário merecem revisão; a família não precisa testar a abertura à força para decidir.",
+          "Parafimose é a pele presa para trás, diferente de uma pele que ainda não abre. As orientações de higiene abaixo só cabem quando não há pele presa, inflamação aguda ou outro sinal de urgência. Se a equipe já tratou uma parafimose, siga o plano recebido para esse episódio."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Antes de a pele se separar naturalmente, lave apenas por fora. Se ela já abre com facilidade e sem dor, e não há inflamação, faça higiene suave e recoloque-a imediatamente cobrindo a cabeça do pênis. Ensine esse cuidado aos maiores, sem forçar.",
+          "Não puxe, alongue à força ou use instrumentos para abrir a pele: isso causa feridas e cicatrizes. Não retire à força pequenos acúmulos esbranquiçados sob a pele; eles podem fazer parte da separação natural, mas dor, febre ou inflamação pedem exame.",
+          "Não trate pele presa para trás como fimose comum nem tente massagens ou redução caseira: atrasar atendimento pode prejudicar a circulação da ponta do pênis."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente a pomada ou outro tratamento que foi indicado para a situação realmente avaliada, com a aplicação e duração ensinadas. Persistir uma abertura estreita não autoriza aumentar o uso nem iniciar tratamento por conta própria.",
+          "Pomada com corticoide, antibiótico ou procedimento dependem da avaliação e do plano individual; não iniciar por causa do nome no cadastro."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha a alimentação habitual adequada à idade, sem forçar. Se ainda mama, continue o aleitamento; se recebe fórmula, mantenha o plano habitual. Antes dos 6 meses, água ou chá de rotina não substituem as mamadas. Preserve o plano de alimentação ou reidratação que a equipe indicou para a doença."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se a pele ficou presa atrás da cabeça do pênis e não volta a cobri-la, procure pronto atendimento imediatamente: pode ser parafimose. Não espere aparecer mudança de cor, não aguarde pomada fazer efeito e não tente manobras de redução em casa.",
+          "Incapacidade de urinar ou ponta do pênis azulada ou escura exige pronto atendimento imediatamente. Dor ou inchaço de início recente no saco escrotal também precisa de atendimento imediato.",
+          "Falta de ar importante, lábios arroxeados, desmaio, convulsão, confusão ou criança muito mole ou difícil de acordar: procure socorro imediatamente; em situação grave, ligue 192.",
+          "Febre com pênis vermelho ou inchado, dor forte, inchaço crescente ou dificuldade para urinar precisa de avaliação sem demora, mesmo quando já havia diagnóstico de fimose.",
+          "Em bebê menor de 3 meses, febre ou suspeita de febre exige avaliação imediata, mesmo que pareça bem. Entre 3 e 6 meses, temperatura de 39 °C ou mais pede avaliação sem demora; piora do estado geral exige atendimento mesmo abaixo desse valor."
+        ],
+        "QUANDO REAVALIAR": [
+          "Confirme o significado do registro; dor ou inchaço localizado no saco escrotal não deve ser atribuído automaticamente à fimose e exige avaliação imediata quando recente.",
+          "Marque reavaliação se surgirem cicatriz, perda da abertura que antes existia, jato novo muito fino, dor ou inflamações repetidas. Pele que forma um pequeno balão ao urinar, isoladamente, não comprova obstrução; dificuldade real para urinar muda a urgência.",
+          "Mantenha o acompanhamento indicado para o subtipo avaliado, sem promessa de abertura em uma data. Se recebeu apenas o nome “fimose” e não entendeu qual situação foi encontrada, peça esclarecimento à equipe; isso não deve atrasar socorro diante dos sinais acima."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Prepúcio que ainda não abre costuma ser esperado; não retrair à força. Febre ou incapacidade de urinar exige avaliação imediata.",
+        "3a5m": "Higiene apenas externa se a pele não abre naturalmente; não fazer exercícios forçados.",
+        "6a11m": "Troque fraldas molhadas e observe micção; não presumir infecção só por material esbranquiçado.",
+        "1a": "Não impor abertura por idade; acompanhar sintomas e desenvolvimento.",
+        "2a5": "Ajude na higiene sem forçar; pele presa para trás exige emergência.",
+        "6a11": "Ensine higiene quando a pele abrir sem dor e recolocação imediata; dor ou cicatriz pede avaliação.",
+        "12a17": "Respeite privacidade; dor, perda da abertura prévia ou persistência ao final da puberdade merece avaliação.",
+        "unknown": "Confirme idade e subtipo; pele presa, retenção urinária ou mudança de cor não pode aguardar."
+      },
+      "refs": [
+        {
+          "id": "pais231_op648_1",
+          "name": "The penis and foreskin",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_penis_and_foreskin/"
+        },
+        {
+          "id": "pais231_op648_2",
+          "name": "Tight foreskin (phimosis)",
+          "url": "https://www.nhs.uk/conditions/phimosis/"
+        },
+        {
+          "id": "pais231_op648_3",
+          "name": "Penis and foreskin care",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Penis_and_foreskin_care/"
+        },
+        {
+          "id": "pais231_op648_4",
+          "name": "Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+        },
+        {
+          "id": "pais231_op648_5",
+          "name": "High temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

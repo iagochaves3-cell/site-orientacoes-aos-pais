@@ -1,0 +1,1085 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T15:46:20.167Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_4fc8628a60237cdc",
+      "label": "Anemia ferropriva descompensada — registro no PPS",
+      "entity": "Anemia ferropriva com descompensação clínica",
+      "assessment": "{\"classification\":\"VALID_URGENT_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_84\",\"assessment\":\"Descompensada sugere anemia com piora clínica ou repercussão importante. Procure avaliação presencial urgente; falta de ar em repouso, dor no peito, desmaio, muita sonolência ou sangramento exige emergência agora. A ficha não estabelece estabilidade nem autoriza cuidados domiciliares.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Contexto urgente específico, sem afirmar novo mecanismo de anemia.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Descompensada sugere anemia com piora clínica ou repercussão importante. Procure avaliação presencial urgente; falta de ar em repouso, dor no peito, desmaio, muita sonolência ou sangramento exige emergência agora. A ficha não estabelece estabilidade nem autoriza cuidados domiciliares.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Enquanto busca ajuda, mantenha a criança acompanhada e em repouso. Não force caminhada ou esforço. Com desmaio ou dificuldade respiratória importante, acione 192 e siga as instruções do socorro.",
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou.",
+          "O termo descompensada não indica transfusão automática. Ferro pela veia ou transfusão dependem de avaliação especializada, sintomas, exames e condições associadas; não são tratamentos para decidir em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "A primeira avaliação é urgente; não espere retorno agendado ou resposta ao ferro. Só após estabilização e plano individual a equipe define exames e revisão precoce. Leve informações sobre sangramento, menstruação, medicamentos e exames anteriores.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op509_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op509_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op509_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op509_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op509_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op509_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op509_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": false,
+      "key": "pps_catalog_79a5b1fbc8fbda26",
+      "label": "Anemia ferropriva grave — registro no PPS",
+      "entity": "Anemia por deficiência de ferro com gravidade a confirmar clinicamente",
+      "assessment": "{\"classification\":\"EXACT_CLINICAL_ALIAS\",\"canonical_key\":\"pdf1500_84\",\"assessment\":\"Este registro descreve a mesma anemia ferropriva grave da ficha canônica; o sufixo do cadastro não cria outra doença. Grave requer avaliação clínica e plano definido, e não significa transfusão automática.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Este registro descreve a mesma anemia ferropriva grave da ficha canônica; o sufixo do cadastro não cria outra doença. Grave requer avaliação clínica e plano definido, e não significa transfusão automática.",
+          "Anemia ferropriva grave precisa de avaliação médica urgente. Se recebeu esse resultado e ainda não foi examinado ou não tem plano definido, procure avaliação hoje; com sinais de perigo, vá à emergência imediatamente. O nome não informa sozinho o nível da hemoglobina nem garante estabilidade.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou.",
+          "A palavra grave não indica transfusão automática. Ferro pela veia ou transfusão dependem de avaliação especializada, sintomas, exames e condições associadas; não são tratamentos para decidir em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Depois de avaliada e iniciado o tratamento, a anemia grave precisa de revisão precoce, em geral dentro de uma semana ou antes conforme a equipe, para verificar resposta e uso do ferro. Isso não é prazo para esperar pela primeira avaliação nem para aguardar diante de piora.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op510_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op510_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op510_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op510_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op510_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op510_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op510_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_80",
+      "label": "Anemia ferropriva agudo",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Agudo pode descrever quando a anemia foi percebida ou uma piora recente. Falta de ferro e hemorragia aguda não são a mesma coisa. Piora rápida, sangramento ou sintomas importantes exigem avaliação imediata; não espere o ferro oral fazer efeito.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Agudo pode descrever quando a anemia foi percebida ou uma piora recente. Falta de ferro e hemorragia aguda não são a mesma coisa. Piora rápida, sangramento ou sintomas importantes exigem avaliação imediata; não espere o ferro oral fazer efeito.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op511_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op511_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op511_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op511_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op511_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op511_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op511_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_82",
+      "label": "Anemia ferropriva crônico",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Crônico informa duração, mas não explica por que o ferro continua baixo. Investigar alimentação, perdas e absorção continua necessário; não normalize cansaço persistente nem mantenha suplementação indefinida sem controle.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Crônico informa duração, mas não explica por que o ferro continua baixo. Investigar alimentação, perdas e absorção continua necessário; não normalize cansaço persistente nem mantenha suplementação indefinida sem controle.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op512_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op512_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op512_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op512_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op512_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op512_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op512_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_83",
+      "label": "Anemia ferropriva de origem infecciosa",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Infecção pode coexistir com deficiência de ferro, contribuir para perdas/absorção inadequada ou causar anemia por outro mecanismo. O nome não confirma qual situação existe. Inflamação pode alterar ferritina; exames e causa precisam ser interpretados pela equipe. Não iniciar antibiótico ou vermífugo apenas pelo rótulo.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Infecção pode coexistir com deficiência de ferro, contribuir para perdas/absorção inadequada ou causar anemia por outro mecanismo. O nome não confirma qual situação existe. Inflamação pode alterar ferritina; exames e causa precisam ser interpretados pela equipe. Não iniciar antibiótico ou vermífugo apenas pelo rótulo.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op513_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op513_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op513_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op513_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op513_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op513_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op513_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_85",
+      "label": "Anemia ferropriva idiopático",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Idiopático indica que a causa não está esclarecida. Na anemia ferropriva, é preciso confirmar deficiência de ferro e procurar por que ocorreu. Não concluir que basta repor ferro para sempre ou que não há causa investigável.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Idiopático indica que a causa não está esclarecida. Na anemia ferropriva, é preciso confirmar deficiência de ferro e procurar por que ocorreu. Não concluir que basta repor ferro para sempre ou que não há causa investigável.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op514_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op514_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op514_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op514_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op514_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op514_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op514_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_86",
+      "label": "Anemia ferropriva induzido por medicamentos",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Alguns medicamentos podem contribuir para sangramento digestivo ou dificultar absorção de ferro; outros podem causar anemias diferentes. Leve a lista e a cronologia dos produtos para avaliação. O rótulo não comprova causalidade nem orienta suspender tratamento essencial ou trocar remédio sozinho.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Alguns medicamentos podem contribuir para sangramento digestivo ou dificultar absorção de ferro; outros podem causar anemias diferentes. Leve a lista e a cronologia dos produtos para avaliação. O rótulo não comprova causalidade nem orienta suspender tratamento essencial ou trocar remédio sozinho.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op515_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op515_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op515_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op515_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op515_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op515_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op515_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_87",
+      "label": "Anemia ferropriva leve",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Leve descreve uma classificação dependente de exames, idade e contexto; não exclui sintomas ou perdas de sangue. Mantenha investigação e tratamento orientados, sem esperar que a anemia piore. Sinais de perigo exigem atendimento mesmo com esse nome no cadastro.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Leve descreve uma classificação dependente de exames, idade e contexto; não exclui sintomas ou perdas de sangue. Mantenha investigação e tratamento orientados, sem esperar que a anemia piore. Sinais de perigo exigem atendimento mesmo com esse nome no cadastro.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op516_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op516_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op516_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op516_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op516_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op516_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op516_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_88",
+      "label": "Anemia ferropriva moderado",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Moderado precisa ser interpretado com hemoglobina, idade, sintomas e evolução. Não corresponde a uma dose padrão nem permite decidir transfusão em casa. Procure avaliação rápida se houver piora ou se ainda não há plano definido.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Moderado precisa ser interpretado com hemoglobina, idade, sintomas e evolução. Não corresponde a uma dose padrão nem permite decidir transfusão em casa. Procure avaliação rápida se houver piora ou se ainda não há plano definido.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op517_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op517_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op517_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op517_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op517_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op517_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op517_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_89",
+      "label": "Anemia ferropriva não especificado",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"O nome indica suspeita de falta de ferro, mas não informa confirmação, intensidade ou causa. Leve exames e histórico à equipe; ferro sérico ou palidez isolados não bastam para definir o diagnóstico e o tratamento.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome indica suspeita de falta de ferro, mas não informa confirmação, intensidade ou causa. Leve exames e histórico à equipe; ferro sérico ou palidez isolados não bastam para definir o diagnóstico e o tratamento.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op518_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op518_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op518_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op518_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op518_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op518_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op518_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_90",
+      "label": "Anemia ferropriva recorrente",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Se a anemia voltou após melhorar, a equipe deve revisar reservas, duração/uso do tratamento, alimentação, perdas de sangue e absorção. Traga exames anteriores e o frasco usado; não reinicie sobras de ferro nem dobre a dose sem avaliação.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Se a anemia voltou após melhorar, a equipe deve revisar reservas, duração/uso do tratamento, alimentação, perdas de sangue e absorção. Traga exames anteriores e o frasco usado; não reinicie sobras de ferro nem dobre a dose sem avaliação.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op519_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op519_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op519_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op519_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op519_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op519_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op519_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_91",
+      "label": "Anemia ferropriva refratário",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"QUALIFIER_REQUIRES_CLINICAL_CONTEXT\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Falta de resposta ao ferro pede revisar diagnóstico, apresentação e uso real, tolerância, perdas e absorção. Existem causas raras que exigem especialista, mas o nome sozinho não as confirma. Não aumentar doses ou passar a ferro pela veia por conta própria.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Falta de resposta ao ferro pede revisar diagnóstico, apresentação e uso real, tolerância, perdas e absorção. Existem causas raras que exigem especialista, mas o nome sozinho não as confirma. Não aumentar doses ou passar a ferro pela veia por conta própria.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op520_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op520_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op520_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op520_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op520_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op520_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op520_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_92",
+      "label": "Anemia ferropriva unilateral",
+      "entity": "Anemia por deficiência de ferro",
+      "assessment": "{\"classification\":\"INVALID_LATERALITY\",\"canonical_key\":\"pdf1500_79\",\"assessment\":\"Anemia é alteração do sangue e não se classifica por lado do corpo. Palidez em uma região ou um sintoma localizado merece avaliação própria; não comprova falta de ferro nem define sua gravidade.\",\"inference\":\"Rótulo confrontado com etiologia, intensidade e resposta nas fontes; não há dados individuais além do cadastro.\",\"counting_rule\":\"Zero nova entidade; conservar nome/ID e esclarecer.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Anemia é alteração do sangue e não se classifica por lado do corpo. Palidez em uma região ou um sintoma localizado merece avaliação própria; não comprova falta de ferro nem define sua gravidade.",
+          "Anemia ferropriva significa que falta ferro para produzir adequadamente a parte do sangue que transporta oxigênio. Palidez ou cansaço sozinhos não confirmam a causa; a equipe interpreta sintomas e exames.",
+          "Siga o plano e registre o que foi realmente tomado. Conte sobre restrições alimentares, dificuldade para obter o remédio, sangue nas fezes ou menstruação intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize um horário e um responsável pelo medicamento para evitar esquecimentos ou repetição. Observe disposição e tolerância às atividades; não force esforço se houver cansaço ou tontura.",
+          "Guarde o ferro fechado e fora do alcance das crianças. Se houver possível ingestão excessiva ou quantidade desconhecida, procure atendimento imediatamente com a embalagem, mesmo sem sintomas."
+        ],
+        "MEDICAMENTOS": [
+          "Use o ferro exatamente como prescrito; produtos diferentes não têm a mesma quantidade de ferro por gota ou medida. Não troque apresentação, aumente dose nem substitua por multivitamínico.",
+          "Pode haver fezes escurecidas, prisão de ventre, náuseas ou manchas nos dentes. Avise a equipe se atrapalharem o uso; ela pode ajustar a forma de administração. Não abandone por conta própria nem pare apenas porque melhorou."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na alimentação complementar e nas demais refeições conforme a idade, ofereça fontes de ferro como carnes, feijões e lentilhas, em textura segura, junto de frutas ou vegetais com vitamina C. Alimentação ajuda, mas não substitui o tratamento indicado.",
+          "Mantenha amamentação. Não antecipe alimentos, troque fórmula ou dilua leite por conta própria. Em crianças maiores, excesso de leite pode substituir refeições; ajuste com a equipe sem aplicar um limite único a todos os bebês."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência por falta de ar em repouso, desmaio, dificuldade para despertar, dor no peito ou coração muito acelerado com mal-estar. Acione SAMU 192 se houver comprometimento importante.",
+          "Sangramento importante, vômito com sangue ou fezes negras pegajosas com fraqueza exigem avaliação; não atribua tudo ao ferro. Bebê muito pálido, pouco reativo ou com dificuldade para mamar precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça esclarecimento do qualificador e da causa. O retorno segue intensidade, sintomas e resposta, não apenas o nome do cadastro.",
+          "Combine a data do retorno e dos exames. Em lactentes estáveis, a SBP orienta conferir a resposta com hemograma em 30 a 45 dias; sintomas, gravidade ou problemas no tratamento podem exigir retorno antes.",
+          "O tratamento costuma continuar após melhorar o sangue para repor reservas, conforme exames e prescrição. Se não houver resposta, a equipe revisa uso, causa e diagnóstico; não dobre o ferro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, palidez com pouca reação ou má sucção exige avaliação imediata; não presumir falta de ferro nem iniciar dose por conta própria.",
+        "3a5m": "Prematuridade e peso ao nascer mudam o plano; não antecipar alimentação para tratar anemia.",
+        "6a11m": "Na alimentação complementar, inclua fontes de ferro em textura apropriada; mantenha amamentação e plano prescrito.",
+        "1a": "Converse sobre consumo de leite e aceitação das refeições, sem substituir tratamento por alimento.",
+        "2a5": "Um adulto deve administrar e guardar o ferro; não tratar como bala ou vitamina livre.",
+        "6a11": "Avise sobre cansaço e dificuldade de concentração; combine rotina do medicamento com o cuidador.",
+        "12a17": "Relate menstruação intensa, restrições alimentares e dificuldade de adesão, sem julgamento; não aumentar suplementos por conta própria.",
+        "unknown": "Confirme idade, peso, exames e apresentação prescrita; não calcular dose pela orientação impressa."
+      },
+      "refs": [
+        {
+          "id": "pais167_op521_1",
+          "name": "Iron deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/iron_deficiency/"
+        },
+        {
+          "id": "pais167_op521_2",
+          "name": "Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/anaemia/"
+        },
+        {
+          "id": "pais167_op521_3",
+          "name": "Recomendações para tratamento e prevenção da deficiência de ferro e anemia ferropriva em lactentes — Atualização 2026",
+          "url": "https://www.sbp.com.br/wp-content/uploads/2026/03/25239c-Diretrizes-Recom-p-tratam-e-prevencao-da-deficiencia-de-Fe-e-anemia-ferropriva.pdf"
+        },
+        {
+          "id": "pais167_op521_4",
+          "name": "PCDT Anemia por deficiência de ferro",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/a/anemia-deficiencia-de-ferro/@@download/file"
+        },
+        {
+          "id": "pais167_op521_5",
+          "name": "How to Meet Your Child’s Iron Needs?",
+          "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/147149/paeds_iron.pdf"
+        },
+        {
+          "id": "pais167_op521_6",
+          "name": "Iron poisoning",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Iron_poisoning/"
+        },
+        {
+          "id": "pais167_op521_7",
+          "name": "Iron-Deficiency Anemia",
+          "url": "https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

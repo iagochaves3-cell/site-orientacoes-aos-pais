@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T14:55:07.604Z",
+  "baseline_version": 105,
+  "baseline_commit": "78895f3eb3194b42e2e644eb98971e288f110913",
+  "records": [
+    {"key":"pdf1500_907","label":"Intolerância à lactose secundária induzido por medicamentos","specific":true,"clinical_entity":"Intolerância secundária por lesão intestinal relacionada a medicamento ou tratamento","term_resolution":false},
+    {"key":"pdf1500_908","label":"Intolerância à lactose secundária leve","specific":false,"clinical_entity":"Intolerância secundária com intensidade descrita como leve","term_resolution":true},
+    {"key":"pdf1500_909","label":"Intolerância à lactose secundária moderado","specific":false,"clinical_entity":"Intolerância secundária com intensidade descrita como moderada","term_resolution":true},
+    {"key":"pdf1500_910","label":"Intolerância à lactose secundária não especificado","specific":false,"clinical_entity":"Intolerância secundária sem causa registrada; classificação incompleta","term_resolution":true},
+    {"key":"pdf1500_911","label":"Intolerância à lactose secundária recorrente","specific":false,"clinical_entity":"Episódios recorrentes de sintomas atribuídos à intolerância secundária","term_resolution":true},
+    {"key":"pdf1500_912","label":"Intolerância à lactose secundária refratário","specific":false,"clinical_entity":"Sintomas persistentes apesar de manejo para intolerância secundária","term_resolution":true},
+    {"key":"pdf1500_913","label":"Intolerância à lactose secundária unilateral","specific":false,"clinical_entity":"Intolerância secundária; unilateralidade inaplicável","term_resolution":true}
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:42:09.799Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_575522e020b03689",
+      "label": "Pediculose da cabeça — registro no PPS",
+      "entity": "Pediculose do couro cabeludo (infestação ativa por Pediculus humanus capitis)",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"normalized_term\":\"Pediculose do couro cabeludo\",\"scope\":\"Crianças e adolescentes com piolhos vivos ou lêndeas viáveis próximas ao couro cabeludo; o manejo de lactentes pequenos, lesões infectadas, cílios acometidos ou falha terapêutica precisa de avaliação individual.\",\"distinctions\":[\"Não equivale à pediculose do corpo nem à pediculose pubiana, que têm exposição e manejo diferentes.\",\"Lêndeas vazias ou distantes do couro cabeludo, sem piolho vivo, não confirmam sozinhas infestação ativa.\",\"Não é sinal de falta de higiene, e os piolhos humanos não vêm de cães ou gatos.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pediculose do couro cabeludo é a infestação por piolhos que vivem junto à raiz dos cabelos. O sinal mais confiável de atividade é encontrar piolho vivo; lêndeas podem permanecer grudadas ao fio mesmo depois do tratamento.",
+          "Examine o cabelo com boa luz, principalmente atrás das orelhas e na nuca. Molhe o cabelo, separe em pequenas mechas e passe pente fino da raiz até as pontas; limpe o pente em papel ou pano claro a cada passagem.",
+          "Examine quem mora junto e os contatos próximos. Combine com a equipe o tratamento simultâneo de pessoas infestadas e de quem compartilha a cama, mesmo sem sintomas, conforme avaliação e protocolo de surto; cada pessoa precisa de produto adequado à idade e condição clínica.",
+          "Avise a escola ou creche para que outros contatos possam ser orientados sem expor ou constranger a criança. Após iniciar o tratamento adequado, a criança geralmente pode retornar; a presença isolada de lêndeas não deve exigir afastamento, respeitando a norma sanitária local."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha o pente fino regular conforme o plano recebido e confira se ainda há piolhos vivos. Prenda cabelos longos e evite contato cabeça a cabeça até o primeiro tratamento estar concluído.",
+          "Não compartilhe pentes, escovas, bonés, presilhas, toalhas, travesseiros ou fones que encostem no cabelo. Limpe pentes e escovas e lave roupas de cama, toalhas e peças usadas recentemente conforme orientação sanitária; não é necessário jogar objetos fora.",
+          "Aspire apenas as áreas onde a criança apoiou a cabeça. Não pulverize inseticida, fumigante ou veneno no quarto, nos móveis ou no corpo: além de desnecessários, podem intoxicar.",
+          "Cortar ou raspar o cabelo não é necessário. Evite gasolina, querosene, álcool, inseticida doméstico, produto veterinário, saco plástico na cabeça e receitas caseiras com óleos ou maionese."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o produto apropriado para a idade e já orientado por médico ou farmacêutico, seguindo exatamente o rótulo ou a prescrição. Um adulto deve aplicar e supervisionar; não aumente quantidade, tempo de contato nem misture produtos.",
+          "Se o plano usar pente fino em cabelo com condicionador, separe esse cuidado da aplicação medicamentosa: alguns produtos perdem efeito com condicionador antes do uso. Siga o modo de preparo específico do rótulo ou da receita.",
+          "Alguns produtos não matam os ovos e podem precisar de repetição em data específica; outros não devem ser repetidos. Não reaplique por conta própria apenas porque ainda há lêndeas ou coceira.",
+          "Se os piolhos continuarem vivos após o uso correto, confirme primeiro o diagnóstico, o modo de aplicação e possível reinfestação. Procure orientação antes de trocar de produto ou fazer uma segunda ou terceira tentativa.",
+          "Mantenha o produto longe dos olhos, boca e alcance das crianças. Se atingir os olhos, lave com água corrente e procure orientação; se for ingerido ou causar falta de ar, inchaço ou desmaio, busque atendimento imediato."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "A pediculose não exige dieta especial. Mantenha alimentação e líquidos habituais conforme a idade.",
+          "Não ofereça chás, óleos, suplementos ou remédios por boca para eliminar piolhos sem prescrição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se houver dificuldade para respirar, inchaço de rosto ou língua, desmaio, convulsão ou outro sinal de reação grave após um produto.",
+          "Vá ao atendimento se a criança engolir pediculicida, produto veterinário, inseticida, gasolina, querosene ou outra substância tóxica; leve a embalagem e não provoque vômito.",
+          "Procure avaliação urgente se a criança estiver muito abatida, tiver febre com piora rápida, vermelhidão dolorosa se espalhando pelo couro cabeludo ou face, pus, inchaço importante ou dor intensa, pois pode haver infecção da pele."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie conforme o prazo do produto ou do profissional para procurar piolhos vivos e decidir se há necessidade real de repetir o tratamento. Coceira isolada pode persistir e não prova falha.",
+          "Procure médico ou farmacêutico antes do tratamento em bebês pequenos, gestantes, pessoas com doença do couro cabeludo, alergias importantes ou uso de vários medicamentos.",
+          "Marque avaliação se houver piolhos vivos apesar do uso correto, reinfestações frequentes, dúvida entre lêndea e caspa, feridas, crostas, secreção, ínguas dolorosas ou acometimento de sobrancelhas/cílios.",
+          "Comunique vários casos ligados à mesma escola, creche ou instituição à equipe responsável e siga a orientação da vigilância local para controle do surto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não aplicar pediculicida sem avaliação direta. Usar apenas inspeção e remoção mecânica suave enquanto aguarda orientação; febre de 38 °C ou mais, prostração ou reação a produto exige avaliação imediata.",
+        "3a5m": "Confirmar piolho vivo e discutir o produto seguro para a idade antes de qualquer aplicação. Pente fino deve ser delicado para não ferir o couro cabeludo.",
+        "6a11m": "Produto e repetição dependem da idade e da formulação; um adulto deve aplicar, manter longe dos olhos e seguir apenas a orientação recebida.",
+        "1a": "Evitar que a criança toque ou leve o produto à boca. Examinar cuidadores e contatos próximos para reduzir reinfestação.",
+        "2a5": "Supervisionar todo o pente fino e a aplicação; nunca cobrir a cabeça com saco plástico. Avisar creche/escola sem estigmatizar a criança.",
+        "6a11": "Orientar a criança a não compartilhar acessórios e evitar contato cabeça a cabeça até o início do tratamento. Ela pode retornar à escola após iniciar manejo adequado, salvo regra sanitária local diferente.",
+        "12a17": "O adolescente pode participar da inspeção e do pente fino, mas não deve misturar produtos, aumentar o tempo de aplicação nem usar tratamento de outra pessoa.",
+        "unknown": "Sem idade informada, não selecionar produto nem intervalo. Confirmar idade, peso, gestação quando aplicável, integridade do couro cabeludo e diagnóstico de infestação ativa antes de qualquer medicamento."
+      },
+      "refs": [
+        {
+          "id": "pais203_op589_1",
+          "name": "Informe Técnico em Saúde Única — Pediculose, nº 17",
+          "url": "https://www.saude.ms.gov.br/wp-content/uploads/2026/04/Informe-Tecnico-em-Saude-Unica_Pediculose.pdf"
+        },
+        {
+          "id": "pais203_op589_2",
+          "name": "Treatment of Head Lice",
+          "url": "https://www.cdc.gov/lice/treatment/index.html"
+        },
+        {
+          "id": "pais203_op589_3",
+          "name": "Providing Care for Individuals with Head Lice",
+          "url": "https://www.cdc.gov/lice/caring-head/index.html"
+        },
+        {
+          "id": "pais203_op589_4",
+          "name": "Head lice and nits",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_ced4ee58cb8823b9",
+      "label": "Pediculose do Couro Cabeludo (Piolho - Pediculus humanus capitis) — registro no PPS",
+      "entity": "Pediculose do couro cabeludo (infestação ativa por Pediculus humanus capitis)",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"normalized_term\":\"Pediculose do couro cabeludo\",\"scope\":\"Crianças e adolescentes com piolhos vivos ou lêndeas viáveis próximas ao couro cabeludo; o manejo de lactentes pequenos, lesões infectadas, cílios acometidos ou falha terapêutica precisa de avaliação individual.\",\"distinctions\":[\"Não equivale à pediculose do corpo nem à pediculose pubiana, que têm exposição e manejo diferentes.\",\"Lêndeas vazias ou distantes do couro cabeludo, sem piolho vivo, não confirmam sozinhas infestação ativa.\",\"Não é sinal de falta de higiene, e os piolhos humanos não vêm de cães ou gatos.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pediculose do couro cabeludo é a infestação por piolhos que vivem junto à raiz dos cabelos. O sinal mais confiável de atividade é encontrar piolho vivo; lêndeas podem permanecer grudadas ao fio mesmo depois do tratamento.",
+          "Examine o cabelo com boa luz, principalmente atrás das orelhas e na nuca. Molhe o cabelo, separe em pequenas mechas e passe pente fino da raiz até as pontas; limpe o pente em papel ou pano claro a cada passagem.",
+          "Examine quem mora junto e os contatos próximos. Combine com a equipe o tratamento simultâneo de pessoas infestadas e de quem compartilha a cama, mesmo sem sintomas, conforme avaliação e protocolo de surto; cada pessoa precisa de produto adequado à idade e condição clínica.",
+          "Avise a escola ou creche para que outros contatos possam ser orientados sem expor ou constranger a criança. Após iniciar o tratamento adequado, a criança geralmente pode retornar; a presença isolada de lêndeas não deve exigir afastamento, respeitando a norma sanitária local."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha o pente fino regular conforme o plano recebido e confira se ainda há piolhos vivos. Prenda cabelos longos e evite contato cabeça a cabeça até o primeiro tratamento estar concluído.",
+          "Não compartilhe pentes, escovas, bonés, presilhas, toalhas, travesseiros ou fones que encostem no cabelo. Limpe pentes e escovas e lave roupas de cama, toalhas e peças usadas recentemente conforme orientação sanitária; não é necessário jogar objetos fora.",
+          "Aspire apenas as áreas onde a criança apoiou a cabeça. Não pulverize inseticida, fumigante ou veneno no quarto, nos móveis ou no corpo: além de desnecessários, podem intoxicar.",
+          "Cortar ou raspar o cabelo não é necessário. Evite gasolina, querosene, álcool, inseticida doméstico, produto veterinário, saco plástico na cabeça e receitas caseiras com óleos ou maionese."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o produto apropriado para a idade e já orientado por médico ou farmacêutico, seguindo exatamente o rótulo ou a prescrição. Um adulto deve aplicar e supervisionar; não aumente quantidade, tempo de contato nem misture produtos.",
+          "Se o plano usar pente fino em cabelo com condicionador, separe esse cuidado da aplicação medicamentosa: alguns produtos perdem efeito com condicionador antes do uso. Siga o modo de preparo específico do rótulo ou da receita.",
+          "Alguns produtos não matam os ovos e podem precisar de repetição em data específica; outros não devem ser repetidos. Não reaplique por conta própria apenas porque ainda há lêndeas ou coceira.",
+          "Se os piolhos continuarem vivos após o uso correto, confirme primeiro o diagnóstico, o modo de aplicação e possível reinfestação. Procure orientação antes de trocar de produto ou fazer uma segunda ou terceira tentativa.",
+          "Mantenha o produto longe dos olhos, boca e alcance das crianças. Se atingir os olhos, lave com água corrente e procure orientação; se for ingerido ou causar falta de ar, inchaço ou desmaio, busque atendimento imediato."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "A pediculose não exige dieta especial. Mantenha alimentação e líquidos habituais conforme a idade.",
+          "Não ofereça chás, óleos, suplementos ou remédios por boca para eliminar piolhos sem prescrição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se houver dificuldade para respirar, inchaço de rosto ou língua, desmaio, convulsão ou outro sinal de reação grave após um produto.",
+          "Vá ao atendimento se a criança engolir pediculicida, produto veterinário, inseticida, gasolina, querosene ou outra substância tóxica; leve a embalagem e não provoque vômito.",
+          "Procure avaliação urgente se a criança estiver muito abatida, tiver febre com piora rápida, vermelhidão dolorosa se espalhando pelo couro cabeludo ou face, pus, inchaço importante ou dor intensa, pois pode haver infecção da pele."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie conforme o prazo do produto ou do profissional para procurar piolhos vivos e decidir se há necessidade real de repetir o tratamento. Coceira isolada pode persistir e não prova falha.",
+          "Procure médico ou farmacêutico antes do tratamento em bebês pequenos, gestantes, pessoas com doença do couro cabeludo, alergias importantes ou uso de vários medicamentos.",
+          "Marque avaliação se houver piolhos vivos apesar do uso correto, reinfestações frequentes, dúvida entre lêndea e caspa, feridas, crostas, secreção, ínguas dolorosas ou acometimento de sobrancelhas/cílios.",
+          "Comunique vários casos ligados à mesma escola, creche ou instituição à equipe responsável e siga a orientação da vigilância local para controle do surto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não aplicar pediculicida sem avaliação direta. Usar apenas inspeção e remoção mecânica suave enquanto aguarda orientação; febre de 38 °C ou mais, prostração ou reação a produto exige avaliação imediata.",
+        "3a5m": "Confirmar piolho vivo e discutir o produto seguro para a idade antes de qualquer aplicação. Pente fino deve ser delicado para não ferir o couro cabeludo.",
+        "6a11m": "Produto e repetição dependem da idade e da formulação; um adulto deve aplicar, manter longe dos olhos e seguir apenas a orientação recebida.",
+        "1a": "Evitar que a criança toque ou leve o produto à boca. Examinar cuidadores e contatos próximos para reduzir reinfestação.",
+        "2a5": "Supervisionar todo o pente fino e a aplicação; nunca cobrir a cabeça com saco plástico. Avisar creche/escola sem estigmatizar a criança.",
+        "6a11": "Orientar a criança a não compartilhar acessórios e evitar contato cabeça a cabeça até o início do tratamento. Ela pode retornar à escola após iniciar manejo adequado, salvo regra sanitária local diferente.",
+        "12a17": "O adolescente pode participar da inspeção e do pente fino, mas não deve misturar produtos, aumentar o tempo de aplicação nem usar tratamento de outra pessoa.",
+        "unknown": "Sem idade informada, não selecionar produto nem intervalo. Confirmar idade, peso, gestação quando aplicável, integridade do couro cabeludo e diagnóstico de infestação ativa antes de qualquer medicamento."
+      },
+      "refs": [
+        {
+          "id": "pais203_op590_1",
+          "name": "Informe Técnico em Saúde Única — Pediculose, nº 17",
+          "url": "https://www.saude.ms.gov.br/wp-content/uploads/2026/04/Informe-Tecnico-em-Saude-Unica_Pediculose.pdf"
+        },
+        {
+          "id": "pais203_op590_2",
+          "name": "Treatment of Head Lice",
+          "url": "https://www.cdc.gov/lice/treatment/index.html"
+        },
+        {
+          "id": "pais203_op590_3",
+          "name": "Providing Care for Individuals with Head Lice",
+          "url": "https://www.cdc.gov/lice/caring-head/index.html"
+        },
+        {
+          "id": "pais203_op590_4",
+          "name": "Head lice and nits",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

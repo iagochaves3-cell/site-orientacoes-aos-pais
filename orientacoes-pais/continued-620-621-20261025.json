@@ -1,0 +1,116 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T19:43:32.215Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pdf1500_844",
+      "label": "Hérnia umbilical",
+      "entity": "Hérnia umbilical pediátrica",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Defeito da parede na região umbilical; encarceramento suspeito ou confirmado exige avaliação urgente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Quando avaliada como não complicada, a hérnia costuma aparecer mais ao chorar ou fazer força e diminuir quando a criança relaxa. Acompanhe mudanças e sintomas; não aperte para testar se entra."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não coloque moeda, faixa apertada, adesivo ou objeto sobre o umbigo para tentar fechar a hérnia. Isso não corrige a abertura e pode machucar a pele."
+        ],
+        "MEDICAMENTOS": [
+          "Não há remédio que feche a abertura da hérnia. Não use medicamento ou receita caseira para adiar avaliação de dor ou vômitos."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na hérnia não complicada, mantenha leite e alimentação adequados à idade. Se aparecerem vômitos, dor importante ou recusa alimentar, procure atendimento e siga a orientação da equipe sobre alimentação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure urgência se o caroço ficar doloroso, duro, vermelho ou escuro, permanecer saliente com a criança relaxada, ou vier acompanhado de vômitos, barriga distendida, febre ou recusa de mamar/comer. Não tente empurrá-lo com força."
+        ],
+        "QUANDO REAVALIAR": [
+          "Acompanhe com o pediatra. Muitas hérnias fecham na primeira infância; se persistir por volta de quatro a cinco anos, discuta avaliação cirúrgica. Dor ou outras complicações exigem avaliação antes, sem esperar essa idade."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Acompanhe com o pediatra; dor, vômitos, febre ou dificuldade para mamar exigem avaliação urgente.",
+        "3a5m": "Observe mamadas e mudanças no umbigo; não use faixas ou moedas.",
+        "6a11m": "Não manipule a saliência para tentar fechar; mantenha seguimento.",
+        "1a": "O tamanho visível não define sozinho necessidade de cirurgia; a equipe avalia a abertura.",
+        "2a5": "Converse sobre seguimento e eventual avaliação cirúrgica se persistir perto dos quatro a cinco anos.",
+        "6a11": "Hérnia persistente merece avaliação pediátrica/cirúrgica, sem esperar fechamento indefinidamente.",
+        "12a17": "Confirme avaliação cirúrgica para hérnia persistente ou sintomática.",
+        "unknown": "Confirme idade e ausência de complicação; sinais de perigo exigem urgência."
+      },
+      "refs": [
+        {
+          "id": "pais218_op620_1",
+          "name": "Umbilical Hernia in Babies & Children",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/umbilical-hernia-in-children.aspx"
+        },
+        {
+          "id": "pais218_op620_2",
+          "name": "Pediatric Umbilical Hernia",
+          "url": "https://www.facs.org/for-patients/the-day-of-your-surgery/pediatric-umbilical-hernia/"
+        },
+        {
+          "id": "pais218_op620_3",
+          "name": "Umbilical Hernia",
+          "url": "https://www.seattlechildrens.org/conditions/umbilical/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_8413d8f9bef29d81",
+      "label": "Hérnia umbilical encarcerada — registro no PPS",
+      "entity": "Hérnia umbilical encarcerada: urgência cirúrgica",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Defeito da parede na região umbilical; encarceramento suspeito ou confirmado exige avaliação urgente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Suspeita ou confirmação de hérnia encarcerada exige atendimento hospitalar imediato. Esta ficha não autoriza observação em casa, mesmo se houver melhora passageira da dor."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não tente reduzir, massagear, apertar ou cobrir a hérnia com faixa ou moeda. Leve informações sobre início da dor, vômitos e último alimento, sem atrasar a ida ao serviço."
+        ],
+        "MEDICAMENTOS": [
+          "Não tente resolver com laxante, pomada ou remédio caseiro. Informe medicamentos usados e siga a equipe de urgência; tratamento em casa não substitui avaliação cirúrgica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Procure urgência agora e confirme com a equipe a orientação sobre alimentação, pois pode haver necessidade de procedimento. Não force alimento ou bebida em criança que vomita ou está sonolenta; não espere completar um tempo de jejum para procurar ajuda."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "A própria suspeita de encarceramento exige urgência. Dor forte, caroço sensível ou escurecido, vômitos e piora do estado geral podem indicar comprometimento do intestino. Se a criança estiver muito abatida ou instável, acione 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "A avaliação é imediata, sem aguardar consulta marcada. Após tratamento hospitalar, siga o plano específico de retorno e cuidados pós-procedimento dado pela equipe."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa.",
+        "3a5m": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa.",
+        "6a11m": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa.",
+        "1a": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa.",
+        "2a5": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa.",
+        "6a11": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa.",
+        "12a17": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa.",
+        "unknown": "Urgência em qualquer idade: não manipular a hérnia nem aguardar melhora em casa."
+      },
+      "refs": [
+        {
+          "id": "pais218_op621_1",
+          "name": "Umbilical Hernia in Babies & Children",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/umbilical-hernia-in-children.aspx"
+        },
+        {
+          "id": "pais218_op621_2",
+          "name": "Pediatric Umbilical Hernia",
+          "url": "https://www.facs.org/for-patients/the-day-of-your-surgery/pediatric-umbilical-hernia/"
+        },
+        {
+          "id": "pais218_op621_3",
+          "name": "Umbilical Hernia",
+          "url": "https://www.seattlechildrens.org/conditions/umbilical/"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

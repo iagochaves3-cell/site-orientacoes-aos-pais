@@ -1,0 +1,250 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:52:47.076Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "ext_verrugas",
+      "label": "Verrugas cutâneas",
+      "entity": "Verrugas cutâneas não genitais",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Verrugas cutâneas virais não genitais; formas clínicas vulgar, plantar e plana não equivalem a diferentes vias de transmissão. Preservar IDs e nomes.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "As formas e locais variam; esta orientação geral não substitui avaliação de lesões na face ou genitais.",
+          "Verrugas cutâneas são causadas por vírus e muitas desaparecem sem tratamento, mas podem persistir por meses ou anos. Confirme o diagnóstico: nem toda elevação na pele é verruga.",
+          "Não corte, fure, queime ou arranque a lesão. Evite coçar e passar lâmina por cima dela."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos após tocar nas verrugas e evite roer unhas ou chupar dedos afetados. Não compartilhe toalhas, meias ou calçados.",
+          "Na piscina, cubra a lesão com curativo adequado; use calçado em áreas públicas e mantenha os pés secos. Não constranja a criança por ter verrugas."
+        ],
+        "MEDICAMENTOS": [
+          "Observar pode ser uma opção quando não há incômodo. A equipe escolhe o tratamento conforme local, idade, sintomas e condições de saúde.",
+          "Removedores podem queimar pele saudável; não use ácidos ou congeladores por conta própria, sobretudo na face, perto dos olhos ou nos genitais. Procedimentos podem causar dor, bolhas e marcas; precisam de indicação e orientação individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais adequados à idade. Esta ficha não indica dieta restritiva ou suplemento para eliminar verrugas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor intensa com vermelhidão ou inchaço que se espalha, secreção com febre ou prostração precisam de avaliação urgente; não são evolução esperada de uma verruga simples.",
+          "Após aplicação de produto, dor ocular ou alteração da visão exige urgência. Procure socorro se houver queimadura importante ou piora rápida do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a lesão muda, sangra sem trauma, cresce rapidamente, dói, dificulta atividades ou se há dúvida no diagnóstico. Lesões na face ou nos genitais precisam de avaliação própria.",
+          "Procure orientação antes de tratar se houver diabetes ou imunidade reduzida. Combine retorno para avaliar resposta e irritação; não aumente produto nem repita procedimento porque a verruga ainda está visível."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, confirme a causa da lesão antes de aplicar produtos; febre ou recusa de mamadas exige avaliação imediata.",
+        "3a5m": "Não aplique produto de adulto no bebê; a avaliação deve confirmar diagnóstico e segurança para a idade.",
+        "6a11m": "Mantenha produtos e curativos soltos fora do alcance da boca do bebê.",
+        "1a": "Um adulto deve cuidar da pele e evitar que a criança manipule a lesão.",
+        "2a5": "Ajude a evitar roer unhas ou arrancar a lesão; não culpe a criança pela infecção.",
+        "6a11": "Adapte esporte e atividades quando houver dor e converse sobre vergonha ou provocações.",
+        "12a17": "Evite depilar ou raspar sobre lesões; alterações genitais exigem avaliação reservada, sem concluir transmissão pela aparência.",
+        "unknown": "Confirme idade, local, diagnóstico e condições de saúde antes de escolher tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais205_op593_1",
+          "name": "Warts and verrucas",
+          "url": "https://www.nhs.uk/conditions/warts-and-verrucas/"
+        },
+        {
+          "id": "pais205_op593_2",
+          "name": "Warts: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/warts-treatment"
+        },
+        {
+          "id": "pais205_op593_3",
+          "name": "Warts",
+          "url": "https://www.pcds.org.uk/clinical-guidance/warts"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_181391f9000a4b09",
+      "label": "Verruga vulgar — registro no PPS",
+      "entity": "Verruga vulgar",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Verrugas cutâneas virais não genitais; formas clínicas vulgar, plantar e plana não equivalem a diferentes vias de transmissão. Preservar IDs e nomes.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A verruga vulgar costuma ser áspera e elevada, frequentemente nas mãos ou dedos. Lesões junto à unha exigem cuidado para evitar ferir a unha e a pele ao redor.",
+          "Verrugas cutâneas são causadas por vírus e muitas desaparecem sem tratamento, mas podem persistir por meses ou anos. Confirme o diagnóstico: nem toda elevação na pele é verruga.",
+          "Não corte, fure, queime ou arranque a lesão. Evite coçar e passar lâmina por cima dela."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos após tocar nas verrugas e evite roer unhas ou chupar dedos afetados. Não compartilhe toalhas, meias ou calçados.",
+          "Na piscina, cubra a lesão com curativo adequado; use calçado em áreas públicas e mantenha os pés secos. Não constranja a criança por ter verrugas."
+        ],
+        "MEDICAMENTOS": [
+          "Observar pode ser uma opção quando não há incômodo. A equipe escolhe o tratamento conforme local, idade, sintomas e condições de saúde.",
+          "Removedores podem queimar pele saudável; não use ácidos ou congeladores por conta própria, sobretudo na face, perto dos olhos ou nos genitais. Procedimentos podem causar dor, bolhas e marcas; precisam de indicação e orientação individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais adequados à idade. Esta ficha não indica dieta restritiva ou suplemento para eliminar verrugas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor intensa com vermelhidão ou inchaço que se espalha, secreção com febre ou prostração precisam de avaliação urgente; não são evolução esperada de uma verruga simples.",
+          "Após aplicação de produto, dor ocular ou alteração da visão exige urgência. Procure socorro se houver queimadura importante ou piora rápida do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a lesão muda, sangra sem trauma, cresce rapidamente, dói, dificulta atividades ou se há dúvida no diagnóstico. Lesões na face ou nos genitais precisam de avaliação própria.",
+          "Procure orientação antes de tratar se houver diabetes ou imunidade reduzida. Combine retorno para avaliar resposta e irritação; não aumente produto nem repita procedimento porque a verruga ainda está visível."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, confirme a causa da lesão antes de aplicar produtos; febre ou recusa de mamadas exige avaliação imediata.",
+        "3a5m": "Não aplique produto de adulto no bebê; a avaliação deve confirmar diagnóstico e segurança para a idade.",
+        "6a11m": "Mantenha produtos e curativos soltos fora do alcance da boca do bebê.",
+        "1a": "Um adulto deve cuidar da pele e evitar que a criança manipule a lesão.",
+        "2a5": "Ajude a evitar roer unhas ou arrancar a lesão; não culpe a criança pela infecção.",
+        "6a11": "Adapte esporte e atividades quando houver dor e converse sobre vergonha ou provocações.",
+        "12a17": "Evite depilar ou raspar sobre lesões; alterações genitais exigem avaliação reservada, sem concluir transmissão pela aparência.",
+        "unknown": "Confirme idade, local, diagnóstico e condições de saúde antes de escolher tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais205_op594_1",
+          "name": "Warts and verrucas",
+          "url": "https://www.nhs.uk/conditions/warts-and-verrucas/"
+        },
+        {
+          "id": "pais205_op594_2",
+          "name": "Warts: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/warts-treatment"
+        },
+        {
+          "id": "pais205_op594_3",
+          "name": "Warts",
+          "url": "https://www.pcds.org.uk/clinical-guidance/warts"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_693aef0c4efbb4ae",
+      "label": "Verruga plantar — registro no PPS",
+      "entity": "Verruga plantar",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Verrugas cutâneas virais não genitais; formas clínicas vulgar, plantar e plana não equivalem a diferentes vias de transmissão. Preservar IDs e nomes.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Na sola do pé, a verruga pode doer ao apoiar. Calos podem parecer semelhantes; não corte a pele para tentar distinguir. Escolha calçado confortável e procure avaliação se prejudicar a caminhada.",
+          "Verrugas cutâneas são causadas por vírus e muitas desaparecem sem tratamento, mas podem persistir por meses ou anos. Confirme o diagnóstico: nem toda elevação na pele é verruga.",
+          "Não corte, fure, queime ou arranque a lesão. Evite coçar e passar lâmina por cima dela."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos após tocar nas verrugas e evite roer unhas ou chupar dedos afetados. Não compartilhe toalhas, meias ou calçados.",
+          "Na piscina, cubra a lesão com curativo adequado; use calçado em áreas públicas e mantenha os pés secos. Não constranja a criança por ter verrugas."
+        ],
+        "MEDICAMENTOS": [
+          "Observar pode ser uma opção quando não há incômodo. A equipe escolhe o tratamento conforme local, idade, sintomas e condições de saúde.",
+          "Removedores podem queimar pele saudável; não use ácidos ou congeladores por conta própria, sobretudo na face, perto dos olhos ou nos genitais. Procedimentos podem causar dor, bolhas e marcas; precisam de indicação e orientação individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais adequados à idade. Esta ficha não indica dieta restritiva ou suplemento para eliminar verrugas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor intensa com vermelhidão ou inchaço que se espalha, secreção com febre ou prostração precisam de avaliação urgente; não são evolução esperada de uma verruga simples.",
+          "Após aplicação de produto, dor ocular ou alteração da visão exige urgência. Procure socorro se houver queimadura importante ou piora rápida do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a lesão muda, sangra sem trauma, cresce rapidamente, dói, dificulta atividades ou se há dúvida no diagnóstico. Lesões na face ou nos genitais precisam de avaliação própria.",
+          "Procure orientação antes de tratar se houver diabetes ou imunidade reduzida. Combine retorno para avaliar resposta e irritação; não aumente produto nem repita procedimento porque a verruga ainda está visível."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, confirme a causa da lesão antes de aplicar produtos; febre ou recusa de mamadas exige avaliação imediata.",
+        "3a5m": "Não aplique produto de adulto no bebê; a avaliação deve confirmar diagnóstico e segurança para a idade.",
+        "6a11m": "Mantenha produtos e curativos soltos fora do alcance da boca do bebê.",
+        "1a": "Um adulto deve cuidar da pele e evitar que a criança manipule a lesão.",
+        "2a5": "Ajude a evitar roer unhas ou arrancar a lesão; não culpe a criança pela infecção.",
+        "6a11": "Adapte esporte e atividades quando houver dor e converse sobre vergonha ou provocações.",
+        "12a17": "Evite depilar ou raspar sobre lesões; alterações genitais exigem avaliação reservada, sem concluir transmissão pela aparência.",
+        "unknown": "Confirme idade, local, diagnóstico e condições de saúde antes de escolher tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais205_op595_1",
+          "name": "Warts and verrucas",
+          "url": "https://www.nhs.uk/conditions/warts-and-verrucas/"
+        },
+        {
+          "id": "pais205_op595_2",
+          "name": "Warts: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/warts-treatment"
+        },
+        {
+          "id": "pais205_op595_3",
+          "name": "Warts",
+          "url": "https://www.pcds.org.uk/clinical-guidance/warts"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_9dfab8eb850cc1c2",
+      "label": "Verruga plana — registro no PPS",
+      "entity": "Verruga plana",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Verrugas cutâneas virais não genitais; formas clínicas vulgar, plantar e plana não equivalem a diferentes vias de transmissão. Preservar IDs e nomes.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Verrugas planas são pequenas elevações lisas e achatadas, muitas vezes no rosto ou dorso das mãos. Coçar ou raspar pode espalhá-las; na face, procure orientação antes de qualquer produto.",
+          "Verrugas cutâneas são causadas por vírus e muitas desaparecem sem tratamento, mas podem persistir por meses ou anos. Confirme o diagnóstico: nem toda elevação na pele é verruga.",
+          "Não corte, fure, queime ou arranque a lesão. Evite coçar e passar lâmina por cima dela."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos após tocar nas verrugas e evite roer unhas ou chupar dedos afetados. Não compartilhe toalhas, meias ou calçados.",
+          "Na piscina, cubra a lesão com curativo adequado; use calçado em áreas públicas e mantenha os pés secos. Não constranja a criança por ter verrugas."
+        ],
+        "MEDICAMENTOS": [
+          "Observar pode ser uma opção quando não há incômodo. A equipe escolhe o tratamento conforme local, idade, sintomas e condições de saúde.",
+          "Removedores podem queimar pele saudável; não use ácidos ou congeladores por conta própria, sobretudo na face, perto dos olhos ou nos genitais. Procedimentos podem causar dor, bolhas e marcas; precisam de indicação e orientação individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais adequados à idade. Esta ficha não indica dieta restritiva ou suplemento para eliminar verrugas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor intensa com vermelhidão ou inchaço que se espalha, secreção com febre ou prostração precisam de avaliação urgente; não são evolução esperada de uma verruga simples.",
+          "Após aplicação de produto, dor ocular ou alteração da visão exige urgência. Procure socorro se houver queimadura importante ou piora rápida do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque consulta se a lesão muda, sangra sem trauma, cresce rapidamente, dói, dificulta atividades ou se há dúvida no diagnóstico. Lesões na face ou nos genitais precisam de avaliação própria.",
+          "Procure orientação antes de tratar se houver diabetes ou imunidade reduzida. Combine retorno para avaliar resposta e irritação; não aumente produto nem repita procedimento porque a verruga ainda está visível."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em bebê pequeno, confirme a causa da lesão antes de aplicar produtos; febre ou recusa de mamadas exige avaliação imediata.",
+        "3a5m": "Não aplique produto de adulto no bebê; a avaliação deve confirmar diagnóstico e segurança para a idade.",
+        "6a11m": "Mantenha produtos e curativos soltos fora do alcance da boca do bebê.",
+        "1a": "Um adulto deve cuidar da pele e evitar que a criança manipule a lesão.",
+        "2a5": "Ajude a evitar roer unhas ou arrancar a lesão; não culpe a criança pela infecção.",
+        "6a11": "Adapte esporte e atividades quando houver dor e converse sobre vergonha ou provocações.",
+        "12a17": "Evite depilar ou raspar sobre lesões; alterações genitais exigem avaliação reservada, sem concluir transmissão pela aparência.",
+        "unknown": "Confirme idade, local, diagnóstico e condições de saúde antes de escolher tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais205_op596_1",
+          "name": "Warts and verrucas",
+          "url": "https://www.nhs.uk/conditions/warts-and-verrucas/"
+        },
+        {
+          "id": "pais205_op596_2",
+          "name": "Warts: Diagnosis and treatment",
+          "url": "https://www.aad.org/public/diseases/a-z/warts-treatment"
+        },
+        {
+          "id": "pais205_op596_3",
+          "name": "Warts",
+          "url": "https://www.pcds.org.uk/clinical-guidance/warts"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

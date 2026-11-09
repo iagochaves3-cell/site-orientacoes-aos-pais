@@ -1,0 +1,1001 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-11-01T16:06:18.824281+00:00",
+  "state": "PREPARED_OUTSIDE_SOURCE_NOT_INTEGRATED",
+  "source_commit": "963a165fffd1fda12c4981b5c5a3c6c90e0c6f3e",
+  "reviewScope": "Three archived cardiac artifacts with decisive current institutional sources rechecked, plus exact headache alias of current reviewed pps_49. No medicine/dose or claimed human review. Current versus historical disease context is explicit.",
+  "records": [
+    {
+      "jobId": "OP-3113",
+      "specific": true,
+      "key": "pps_catalog_c1afdc886e45f6e0",
+      "label": "Cardiopatia Congênita Acianótica Descompensada — registro no PPS",
+      "entity": "Síndrome de descompensação clínica em criança ou adolescente com cardiopatia congênita originalmente acianótica, caracterizada por piora de congestão/insuficiência cardíaca, perfusão sistêmica ou tolerância cardiorrespiratória; o rótulo não identifica o defeito anatômico, o mecanismo hemodinâmico, a fase pré ou pós-operatória, nem autoriza presumir cianose habitual, infecção, choque ou tratamento específico",
+      "assessment": "{\"classification\": \"VALID_PEDIATRIC_HIGH_RISK_CLINICAL_SYNDROME_WITH_UNDERLYING_ANATOMY_UNSPECIFIED\", \"normalized_entity\": \"Descompensação de cardiopatia congênita acianótica\", \"assessment\": \"O termo é clinicamente válido como apresentação sindrômica de alto risco, mas não é um diagnóstico anatômico completo. Cardiopatias originalmente acianóticas podem descompensar por excesso de fluxo pulmonar, insuficiência valvar, obstrução, disfunção ventricular, arritmia, lesão residual pós-reparo ou fator precipitante, com combinações diferentes de congestão e baixo débito. Insuficiência cardíaca indica incapacidade do coração de atender às necessidades do organismo e/ou congestão; baixo débito/choque significa hipoperfusão de órgãos e pode existir com ou sem edema. Cianose central nova ou pior que o basal não é esperada apenas por a lesão ter sido classificada como acianótica e exige avaliação imediata. Febre, prostração ou desconforto respiratório podem ser infecção/sepse, doença pulmonar ou fator que precipitou a descompensação e não devem ser atribuídos automaticamente ao coração. A ficha orienta reconhecimento e encaminhamento, sem escolher defeito, medicamento, dose, oxigênio, líquido, dieta, procedimento ou dispositivo.\", \"reconciliation\": {\"underlying_anatomy\": \"O rótulo não distingue comunicação interventricular/interatrial, canal arterial, defeito atrioventricular, obstrução esquerda, lesão valvar ou outro defeito; o laudo e o plano da cardiologia precisam definir a anatomia e a fisiologia.\", \"heart_failure_congestion\": \"Taquipneia, cansaço/suor na alimentação, baixo ganho de peso, edema e hepatomegalia podem compor insuficiência cardíaca/congestão, mas não são específicos e não provam o mecanismo em casa.\", \"low_output_shock\": \"Palidez ou moteamento, extremidades frias, pulso fraco, alteração de consciência e pouca urina sugerem hipoperfusão/baixo débito e exigem emergência mesmo sem edema ou falta de ar intensa.\", \"cyanosis\": \"A classificação acianótica não autoriza aceitar lábios ou língua azulados. Cianose central nova pode refletir hipoxemia, baixo fluxo, doença respiratória, mudança hemodinâmica ou outra emergência; saturação deve ser interpretada contra o basal documentado e a avaliação clínica.\", \"sepsis_and_respiratory_infection\": \"Febre ou hipotermia, prostração, perfusão ruim e respiração alterada podem indicar sepse, pneumonia, bronquiolite ou infecção pós-operatória; infecção pode imitar ou precipitar descompensação e requer avaliação própria.\", \"postoperative_state\": \"Reparo prévio não significa cura definitiva. Lesão residual, disfunção ventricular, arritmia, infecção ou complicação do procedimento devem ser consideradas conforme data e plano do centro.\", \"counting_effect\": \"UMA_APRESENTACAO_SINDROMICA_ESPECIFICA; conta-se uma síndrome clínica orientada e zero defeitos anatômicos subjacentes resolvidos. Baixo débito, insuficiência cardíaca, cianose, sepse e aliases de gravidade são diferenciais, componentes ou complicações e não somam doenças cobertas.\"}, \"not_automatically_equivalent_to\": [\"Qualquer defeito anatômico específico de cardiopatia congênita\", \"Insuficiência cardíaca congestiva estável ou assintomática\", \"Choque cardiogênico ou baixo débito confirmado\", \"Cardiopatia congênita cianótica\", \"Sepse, pneumonia, bronquiolite ou outra causa respiratória\", \"Estado pós-operatório sem lesão residual documentada\", \"Indicação automática de medicamento, dose, oxigênio, expansão ou restrição de líquidos, dieta, exame, cirurgia, cateterismo ou dispositivo\"], \"pediatric_scope\": \"Aplica-se do período neonatal à adolescência. Em recém-nascidos e lactentes, a piora pode aparecer como respiração rápida, pausas e suor na mamada, tempo excessivo para alimentar, vômitos, menos fraldas ou falha de crescimento; em crianças maiores, como queda de rendimento, dispneia, dor abdominal, edema, palpitação ou síncope. Crianças pequenas e as com cirurgia recente, síndrome genética ou doença crônica têm menor reserva e precisam de limiar baixo para avaliação presencial.\", \"counting_rule\": \"Contar este ID como um registro específico e uma síndrome clínica somente depois de integração, testes e publicação. Não contar como identificação ou orientação específica de nenhum defeito anatômico, nem como resolução independente de choque, sepse, cianose, pneumonia, arritmia ou estado pós-operatório.\", \"critical_context_to_confirm\": [\"Defeito anatômico, fisiologia e lesões associadas ou residuais documentadas\", \"Idade, peso, curva de crescimento, alimentação habitual e reserva funcional\", \"Saturação basal documentada, se houver, e padrão habitual de respiração e cor\", \"Sinais de congestão, perfusão/baixo débito e função ventricular já conhecidos\", \"Data e tipo de cirurgia ou cateterismo, ferida, material protético, ritmo e plano do centro\", \"Febre, contato infeccioso, sintomas respiratórios, vômitos/diarreia ou outra possível causa precipitante\", \"Medicamentos em uso, alergias, mudanças recentes e plano escrito para doses perdidas ou vômitos\", \"Plano individual de alimentação, líquidos, atividade, urgência e seguimento\"], \"reason\": \"Síndrome pediátrica válida e de alta gravidade potencial, com fontes abertas brasileiras, de sociedades profissionais e coorte multicêntrica que sustentam sinais respiratórios, alimentares, de crescimento, congestão e hipoperfusão, além da necessidade de avaliação urgente e individualizada. A evidência não autoriza inferir anatomia nem prescrever tratamento a partir do rótulo.\", \"next_action\": \"Integrar como ficha sindrômica específica, mantendo a anatomia e o plano terapêutico dependentes do prontuário e da cardiologia pediátrica. Testar ID, nome e aliases, oito faixas etárias, diferenciação entre congestão, baixo débito, cianose e sepse, e alarmes respiratórios/alimentares/pós-operatórios antes de publicar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Cardiopatia congênita acianótica descompensada significa que uma criança com defeito cardíaco que normalmente não causa cor azulada apresentou piora do funcionamento do coração ou da circulação. O nome sozinho não informa qual é o defeito nem a causa da piora.",
+          "Se a criança está descompensada agora ou recebeu orientação para avaliação hospitalar, não tente conduzir em casa. Siga o destino e o transporte indicados pela equipe; sinais graves exigem emergência imediata.",
+          "Observe mudança em respiração, cor de lábios e língua, disposição, suor, alimentação, urina, inchaço e tolerância para brincar ou caminhar. Compare com o padrão habitual e com o basal escrito pela cardiologia.",
+          "Em bebês, anote mamadas mais demoradas, pausas para respirar, suor, cansaço, engasgos ou vômitos, além do número de fraldas. Em todas as idades, acompanhe peso e crescimento nas consultas sem esperar perda acentuada para avisar a equipe.",
+          "Mantenha acessíveis o nome do defeito, resumo de cirurgias/cateterismos, laudo recente, lista de medicamentos, alergias, saturação basal quando documentada e contatos do centro. Leve esses dados a qualquer atendimento.",
+          "Não use oxímetro, relógio ou aplicativo isoladamente para excluir piora ou decidir tratamento. Cor azulada, perfusão ruim ou esforço respiratório importam mesmo se um aparelho doméstico parecer normal."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Durante falta de ar ou cansaço, interrompa esforço, mantenha a criança acompanhada na posição em que respira melhor e procure atendimento conforme a gravidade. Não a deixe caminhar até o serviço se estiver fraca, fria ou quase desmaiando.",
+          "Evite choro, esforço ou brincadeira intensa enquanto houver piora. Não force exercício para testar se o coração voltou ao normal e não imponha repouso permanente depois da recuperação sem orientação da cardiologia.",
+          "Para bebês, respeite pausas e sinais de fadiga durante a alimentação. Não force mamada prolongada, não tampe o nariz, não aperte mamadeira e não deite totalmente a criança que está respirando com dificuldade.",
+          "Registre quando começaram os sintomas, febre, vômitos/diarreia, quantidade aproximada ingerida, fraldas, inchaço e mudanças recentes de remédios. Isso ajuda a equipe a diferenciar coração, infecção, desidratação e outras causas.",
+          "Vacinação e higiene das mãos ajudam a reduzir infecções que podem precipitar piora. Cardiopatia congênita não é contagiosa, mas febre e sintomas respiratórios merecem avaliação própria.",
+          "Após cirurgia ou cateterismo, siga apenas as instruções do centro sobre ferida, banho, posição, escola e esforço. Não aplique produto nem faça manobra sobre ferida ou dispositivo sem orientação."
+        ],
+        "MEDICAMENTOS": [
+          "Esta orientação não indica medicamento, dose, via, duração, oxigênio, soro, restrição de líquidos, cirurgia, cateterismo ou dispositivo. Descompensação exige avaliação do defeito, da circulação e da causa antes de tratar.",
+          "Administre somente o que já foi prescrito para esta criança, conferindo nome, apresentação e horário. Não use receita de outra pessoa, sobra de internação, chá, suplemento, estimulante ou descongestionante para tratar falta de ar ou cansaço.",
+          "Não aumente, reduza ou suspenda diurético ou outro medicamento cardíaco por conta própria, mesmo se houver inchaço, menos urina, vômito ou melhora aparente. Esses sinais podem exigir exame e ajuste seguro pela equipe.",
+          "Se uma dose foi esquecida, vomitada ou dada em quantidade errada, contate o serviço ou farmacêutico responsável; não repita automaticamente nem dobre a próxima dose.",
+          "Leve os frascos ou fotos legíveis das embalagens e uma lista de horários ao atendimento. Informe qualquer mudança recente, dificuldade para obter ou administrar o produto e possível reação adversa.",
+          "Não ofereça antibiótico por conta própria quando houver febre. Infecção e sepse podem imitar ou precipitar a piora e precisam de avaliação sem atrasar o atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver ofegante, muito sonolenta, arroxeada, engasgando ou sem coordenar sucção, deglutição e respiração, interrompa a oferta e procure emergência; não force alimento ou líquido.",
+          "Quando estável e liberada para casa, mantenha o plano individual de leite, refeições e líquidos. Em lactentes, porções menores e pausas podem ser orientadas pela equipe, mas não faça mudança importante sem confirmação.",
+          "Não concentre ou dilua fórmula, acrescente suplemento, restrinja sal/líquido nem ofereça grande volume de água, soro caseiro ou bebida esportiva para corrigir pouca urina sem orientação. Tanto desidratação quanto sobrecarga podem ser perigosas.",
+          "Observe duração da mamada/refeição, fadiga, suor, tosse/engasgo, vômitos e volume aproximado quando solicitado. Menos fraldas, recusa persistente ou queda do ganho de peso precisa ser comunicada rapidamente.",
+          "Peso deve ser acompanhado na curva de crescimento; aumento rápido com inchaço e falta de ar pode refletir retenção de líquido, enquanto estagnação/perda pode indicar ingestão insuficiente ou maior gasto. Ambos exigem avaliação.",
+          "Se houver exame ou procedimento programado, siga o jejum informado pelo serviço e diga o horário da última ingestão. Esta ficha não fornece jejum genérico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver inconsciência, ausência de resposta, respiração ausente ou anormal, convulsão, desmaio sem recuperação rápida, ou lábios/língua azulados. Não espere uma medida doméstica confirmar a urgência.",
+          "Procure emergência imediatamente diante de respiração muito rápida, retrações entre as costelas, gemência, incapacidade de falar/chorar/mamar, exaustão, pausa respiratória ou piora rápida.",
+          "Palidez ou pele manchada e fria, suor frio, pulso fraco, confusão/sonolência diferente, fraqueza extrema ou pouca/nenhuma urina podem indicar baixo débito/choque e exigem emergência, mesmo sem inchaço.",
+          "Cianose central nova ou pior que o basal documentado não deve ser atribuída a uma cardiopatia chamada acianótica. Pode haver baixo fluxo, problema pulmonar, mudança da circulação ou outra emergência.",
+          "Febre ou temperatura baixa com prostração, respiração alterada, perfusão ruim, vômitos persistentes ou piora da ferida operatória pode ser infecção grave/sepse e exige avaliação urgente, sem presumir que tudo é do coração.",
+          "Inchaço crescente com falta de ar, dor no peito persistente, palpitação com mal-estar, desmaio/quase desmaio, ou piora súbita após cirurgia/cateterismo exige atendimento imediato e contato com o centro."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se houve diagnóstico de descompensação, a reavaliação deve ocorrer no prazo e no local definidos pela equipe; não adie por melhora parcial. Se o plano não foi informado, contate o serviço no mesmo dia.",
+          "Contate a equipe no mesmo dia diante de respiração ou cansaço maiores que o habitual, mamadas/refeições piores, suor novo, vômitos repetidos, menos urina, inchaço, queda de atividade ou dificuldade de ganhar peso, mesmo sem alarme grave.",
+          "Mantenha seguimento com cardiologia pediátrica antes e depois de cirurgia. Reparo prévio não elimina risco de lesão residual, disfunção do coração, arritmia ou nova descompensação.",
+          "Leve curva de peso/altura, registros de alimentação e sintomas, lista de medicamentos, laudos, resumo de procedimento e internações. Confirme qual é o defeito e qual a saturação basal, se a equipe usa esse parâmetro.",
+          "Peça plano escrito para alimentação, líquidos, atividade/escola, medicamentos, doses esquecidas/vomitadas, sinais de alarme e contatos. O plano individual prevalece sobre esta orientação geral.",
+          "Na adolescência, planeje transição para cardiologia de cardiopatias congênitas do adulto e aumente progressivamente a participação do jovem no autocuidado, sem interromper retornos por se sentir bem."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Qualquer dificuldade para mamar, taquipneia, suor, pausas respiratórias, cianose, sonolência ou menos fraldas exige contato rápido; incapacidade de alimentar, apneia, perfusão ruim ou cor azulada é emergência. Não oferecer água nem alterar fórmula ou remédio.",
+        "3a5m": "Acompanhar duração das mamadas, pausas, suor, respiração, fraldas e curva de peso. Piora pode ocorrer antes de grande perda de peso; não concentrar fórmula, restringir líquido ou ajustar diurético sem equipe.",
+        "6a11m": "Distinguir recusa alimentar e queda de atividade de dentição ou virose comum. Observar respiração, perfusão e urina; confirmar lesão, cirurgia prévia, ferida e plano nutricional com cardiologia.",
+        "1a": "Comparar disposição para andar/brincar, apetite, respiração e crescimento com o habitual. Irritabilidade, colo contínuo, palidez, suor ou menos urina podem ser as pistas de piora.",
+        "2a5": "Escola e cuidadores devem conhecer o defeito, medicamentos, limites e contatos. Queda de brincadeira, respiração difícil, inchaço ou febre com prostração requer comunicação; não aceitar cianose como normal sem basal documentado.",
+        "6a11": "Ensinar a relatar falta de ar, palpitação, dor, tontura, fadiga e redução do rendimento. Interromper esforço com sintomas; síncope, dor persistente, cianose ou perfusão ruim exige urgência.",
+        "12a17": "Adolescente deve saber o nome do defeito, procedimentos, medicamentos e alarmes, além de participar do plano de escola/esporte e transição. Não ajustar remédio, suplemento ou treino por conta própria.",
+        "unknown": "Confirmar idade, defeito, fisiologia, peso/crescimento, saturação basal, alimentação, perfusão, cirurgia/cateterismo e plano individual. Sem esses dados, aplicar somente reconhecimento de alarmes e encaminhamento seguro."
+      },
+      "refs": [
+        {
+          "id": "paisReadyReview20261101_sbp_failure",
+          "name": "Insuficiência Cardíaca - Sociedade Brasileira de Pediatria",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        },
+        {
+          "id": "paisReadyReview20261101_aha_failure",
+          "name": "Heart Failure and Congenital Heart Disease | American Heart Association",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "paisReadyReview20261101_rch_unwell_neonate",
+          "name": "Clinical Practice Guidelines : Recognition of the seriously unwell neonate and young infant",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Recognition_of_the_seriously_unwell_neonate_and_young_infant/"
+        },
+        {
+          "id": "paisReadyReview20261101_ms_samu",
+          "name": "SAMU192 — Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3115",
+      "specific": true,
+      "key": "pps_catalog_0f93c0a82dea146b",
+      "label": "Cardiopatia Congênita Cianótica em Crise de Hipóxia (Crise de Hipercianose) — registro no PPS",
+      "entity": "Crise hipercianótica (crise cianótica ou tet spell): piora aguda e potencialmente fatal da cianose e da oxigenação em criança com cardiopatia congênita cianótica suscetível, mais classicamente tetralogia de Fallot não reparada ou fisiologia com obstrução ao fluxo pulmonar, caracterizada por cor azul/cinza nitidamente mais intensa que a basal, respiração rápida/profunda, agitação e, se prolongada, prostração, alteração da consciência, convulsão ou colapso",
+      "assessment": "{\"classification\": \"VALID_ACUTE_EMERGENCY_PRESENTATION_OF_CYANOTIC_CONGENITAL_HEART_DISEASE\", \"normalized_entity\": \"Crise hipercianótica em cardiopatia congênita cianótica\", \"assessment\": \"O termo descreve uma apresentação aguda válida e de alto risco, não uma nova cardiopatia. 'Crise de hipóxia' é expressão ampla do cadastro; a denominação clínica mais precisa é crise hipercianótica/cianótica, também chamada tet spell quando associada à tetralogia de Fallot. O episódio é uma piora súbita em relação à cor, respiração e comportamento habituais da criança. É mais típico em lactentes com tetralogia de Fallot não reparada ou outra anatomia com fluxo pulmonar reduzido, mas o rótulo não deve ser aplicado automaticamente a toda cianose em toda cardiopatia congênita.\", \"emergency_boundary\": \"Este registro deve acionar emergência em todas as idades e não produzir alta domiciliar. A família pode manter a criança calma, reduzir o manuseio, aproximar os joelhos do peito em lactente quando isso for tolerado ou permitir que a criança maior permaneça agachada, enquanto aciona o SAMU 192. Essas medidas não substituem avaliação, monitorização ou tratamento profissional. Não há algoritmo profissional, indicação de medicamento, dose, oxigênio ou dispositivo nesta orientação.\", \"baseline_cyanosis_boundary\": \"Algumas crianças têm lábios/pele mais azulados como parte de sua linha de base e possuem metas individualizadas. Cianose basal estável, sem mudança de respiração, consciência, perfusão ou tolerância alimentar/atividade, não é sinônimo de crise. Porém cor subitamente mais azul/cinza que o habitual, respiração muito rápida ou profunda, agitação inconsolável, moleza, desmaio ou dificuldade para acordar deve ser tratada como emergência, mesmo que a leitura do oxímetro pareça próxima do valor habitual.\", \"seizure_boundary\": \"Rigidez, abalos, olhar fixo ou desvio dos olhos podem ocorrer por hipóxia grave ou representar convulsão de outra causa. Não tentar distinguir em casa nem presumir que seja apenas 'a crise habitual'; proteger contra quedas, não conter à força, não colocar objetos ou líquidos na boca e acionar o SAMU 192.\", \"airway_obstruction_boundary\": \"Engasgo/obstrução de via aérea costuma começar de forma súbita durante alimentação ou com objeto pequeno e pode causar incapacidade de chorar, falar, tossir ou respirar. A posição joelhos-ao-peito não trata engasgo. Acionar o SAMU 192 e aplicar apenas primeiros socorros específicos para a idade se o cuidador já tiver treinamento ou seguindo as instruções do atendente; não explorar a boca às cegas.\", \"other_differentials\": \"Também diferenciar de bronquiolite/pneumonia, crise de asma, sepse, arritmia, choque, desidratação, anemia, evento de perda de fôlego e deterioração de cardiopatia dependente do canal arterial. Nenhum desses diagnósticos pode ser resolvido pela família quando há cianose aguda, alteração da respiração ou consciência; o destino continua sendo atendimento imediato.\", \"qualifier_boundary\": \"Os qualificadores administrativos 'grave', 'crítica', 'aguda' ou 'refratária' não criam entidades adicionais. Todo episódio suspeito é urgente; duração, recorrência, recuperação incompleta, alteração neurológica e choque aumentam o risco, mas a ausência deles não autoriza observação domiciliar.\", \"not_automatically_equivalent_to\": [\"cianose basal estável conhecida e sem mudança clínica\", \"qualquer queda isolada do oxímetro sem avaliação do contexto\", \"convulsão primária, síncope ou evento de perda de fôlego\", \"engasgo ou obstrução de via aérea\", \"infecção respiratória, asma, sepse, arritmia, choque ou desidratação\", \"toda cardiopatia congênita cianótica\", \"indicação familiar de medicamento, dose, oxigênio ou dispositivo\"], \"pediatric_scope\": \"Maior relevância em lactentes, especialmente aproximadamente entre 2 e 6 meses antes do reparo definitivo, mas pode ocorrer fora dessa janela conforme anatomia e tratamento. Em recém-nascido, cianose nova ou piora pode indicar cardiopatia dependente do canal arterial, doença pulmonar, sepse ou outra emergência e não deve ser rotulada automaticamente como tet spell. Em criança maior ou adolescente, episódio semelhante é menos típico e exige excluir arritmia, obstrução residual, disfunção cardíaca e causas respiratórias/neurológicas.\", \"counting_rule\": \"Contar esta chave como uma orientação específica para uma apresentação emergencial da cardiopatia congênita cianótica apenas após integração, testes e publicação. Manter additional_entity_count=0: não somar crise hipercianótica, aliases, gravidades, tetralogia de Fallot, convulsão, engasgo ou outras causas de cianose como doenças adicionais cobertas.\", \"critical_context_to_confirm\": [\"cardiopatia exata, correção/paliação já realizada, fluxo pulmonar e plano de emergência individual\", \"cor, saturação e comportamento basais informados pela cardiologia\", \"início, duração, gatilho, recorrência e recuperação completa ou incompleta\", \"mudança de cor em relação ao habitual, respiração rápida/profunda, agitação, moleza, desmaio ou dificuldade para acordar\", \"alimentação/objeto na boca, tosse eficaz ou incapacidade de tossir/falar/chorar, para avaliar obstrução de via aérea\", \"rigidez, abalos, olhar fixo, trauma, febre, tosse, chiado, vômitos, diarreia ou pouca urina\", \"medicações de uso contínuo e adesão, sem criar dose ou resgate a partir desta ficha\", \"idade, peso, prematuridade, síndromes associadas, anemia, infecção e acesso ao centro cardiológico\"], \"next_action\": \"Integrar como override sempre urgente, revisar com cardiologia pediátrica, testar key/label/aliases nas oito faixas e confirmar que a ficha não exibe algoritmo profissional, medicamento, dose, oxigênio ou dispositivo; publicar somente após QA do coordenador e deployment terminal confirmado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Uma crise em curso é uma piora súbita da passagem de sangue para os pulmões em algumas cardiopatias cianóticas. A criança fica mais azul/cinza que sua cor habitual, pode respirar rápido e fundo, ficar muito agitada e depois mole ou sonolenta. É uma emergência: acione o SAMU 192 imediatamente. Se este nome é apenas o registro de um episódio anterior já avaliado e estabilizado, siga o plano de alta e de seguimento da cardiologia; novos sinais de crise exigem nova avaliação.",
+          "Mantenha a criança junto de um cuidador calmo, em ambiente arejado, com o mínimo de choro, esforço e manuseio. Não a deixe sozinha e não espere o oxímetro melhorar para pedir ajuda.",
+          "Se for bebê, aproxime delicadamente os joelhos do peito enquanto o segura com segurança, somente se isso não piorar o desconforto. Se for criança maior e ela espontaneamente quiser agachar, deixe-a nessa posição e dê apoio para não cair. Não force uma posição.",
+          "Observe e informe ao SAMU a cardiopatia, a cor e saturação habituais, o horário de início, o que estava acontecendo, se houve engasgo, febre, abalos, desmaio e se a criança voltou completamente ao normal.",
+          "Cianose basal conhecida não elimina risco. A pista é a mudança: mais azul/cinza, respiração diferente, irritação intensa, fraqueza, desmaio ou dificuldade para despertar. Um número do oxímetro isolado não distingue crise de outros problemas graves.",
+          "Se ficar inconsciente e não respirar normalmente, siga imediatamente as instruções do atendente do SAMU e inicie reanimação apenas conforme seu treinamento. Não transporte dirigindo sozinho se a criança estiver instável."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Reduza choro e esforço sem sacudir, correr com a criança no colo ou fazer procedimentos caseiros. Voz calma, contato do cuidador e mínimo manuseio podem reduzir a piora enquanto o resgate chega.",
+          "A posição joelhos-ao-peito ou o agachamento espontâneo são medidas temporárias para uma crise hipercianótica suspeita; não comprovam o diagnóstico e não substituem a ambulância.",
+          "Se o episódio começou com alimento ou objeto e a criança não consegue tossir, chorar, falar ou respirar, pense em engasgo. A posição da crise cardíaca não trata obstrução; chame o SAMU e use primeiros socorros próprios da idade apenas se treinado ou orientado pelo atendente. Não coloque o dedo às cegas na boca.",
+          "Se houver rigidez ou abalos, afaste objetos, proteja a cabeça e vire de lado quando possível sem conter à força. Não coloque nada na boca. Convulsão pode ser consequência de hipóxia grave ou outra emergência.",
+          "Não use banho frio, gelo, sopros no rosto, compressão do tórax, fumaça, cheiros fortes ou manobras improvisadas para tentar reverter a cor.",
+          "Mesmo que a cor melhore rapidamente, mantenha a avaliação de emergência. Um primeiro episódio, repetição ou recuperação incompleta pode exigir monitorização e antecipação do cuidado cardiológico."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê medicamento com base nesta ficha e não improvise tratamento de resgate. A crise exige atendimento imediato e decisões dependentes da anatomia, idade, cirurgia prévia, perfusão e avaliação profissional.",
+          "Não ofereça medicamento pela boca durante cianose intensa, sonolência, convulsão, engasgo ou respiração difícil, por risco de aspiração.",
+          "Não use sobra de receita, produto de outra criança nem aumente, repita ou interrompa remédio contínuo por conta própria. Informe ao SAMU e leve a lista/embalagens dos medicamentos habituais.",
+          "Se a cardiologia já forneceu um plano individual escrito, informe isso ao atendente e siga apenas as orientações específicas da equipe/serviço de emergência; esta ficha não substitui nem amplia o plano.",
+          "A melhora após qualquer medida não prova que o perigo passou. Medicamentos usados em ambiente profissional exigem monitorização e não são instruções para casa.",
+          "A ficha não contém nome, dose, via, concentração, oxigênio ou dispositivo. O objetivo é reconhecer a piora, reduzir estímulos, posicionar com segurança e acionar emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Durante a crise, não ofereça mamadeira, peito, água, alimento, chá ou bala. Respiração rápida, sonolência ou convulsão aumentam o risco de engasgo e aspiração.",
+          "Não force líquidos para tratar a cor. Desidratação pode facilitar episódios em algumas crianças, mas a correção durante uma crise deve ser definida pela equipe de emergência.",
+          "Quando estiver estável e após orientação da equipe, retome o plano habitual de alimentação. Lactentes com cardiopatia podem cansar ou suar ao mamar e podem precisar de plano nutricional individual; não mude volume ou concentração por conta própria.",
+          "Entre episódios, ofereça líquidos e alimentação conforme o plano da cardiologia/pediatria e procure ajuda cedo em febre, vômitos, diarreia, pouca urina ou recusa alimentar, pois desidratação e doença podem precipitar piora.",
+          "Se o evento começou durante alimentação, informe o tipo de alimento, a presença de tosse ou sufocação e se a criança conseguia chorar/falar. Isso ajuda a diferenciar crise cardíaca de obstrução de via aérea.",
+          "Após um episódio, a equipe deve dizer quando e como voltar a alimentar. Não recomece enquanto a criança estiver mais azul, ofegante, sonolenta ou com reflexos diminuídos."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Uma crise de hipercianose em curso é uma emergência: acione o SAMU 192 no início de cor mais azul/cinza que o habitual acompanhada de respiração rápida/profunda, agitação intensa, fraqueza ou alteração da consciência.",
+          "Acione imediatamente se a criança ficar mole, desmaiar, não responder, tiver rigidez/abalos, olhar fixo, dificuldade para acordar ou não respirar normalmente. Não coloque nada na boca.",
+          "Se não consegue tossir, chorar, falar ou respirar após alimento/objeto, trate como possível obstrução de via aérea: chame o SAMU e siga as instruções do atendente; não faça busca cega na boca.",
+          "Também é emergência se a cor não volta ao basal, a respiração continua difícil, há suor frio, palidez/cinza, extremidades frias, pulso muito fraco, dor no peito, batimento muito rápido/irregular ou queda/trauma.",
+          "Febre, tosse, chiado, vômitos, diarreia, pouca urina ou recusa alimentar junto com piora da cianose pode indicar infecção/desidratação ou outra descompensação e não deve ser observado em casa.",
+          "Não dirija sozinho com a criança instável e não adie o chamado para procurar aparelho, documento ou medir repetidamente a saturação. Informe a cardiopatia e o centro de referência ao resgate."
+        ],
+        "QUANDO REAVALIAR": [
+          "Todo episódio suspeito precisa de avaliação imediata, mesmo que tenha durado pouco e a cor tenha voltado ao habitual. Não aguarde consulta eletiva para relatar o primeiro evento.",
+          "Após o atendimento, avise a equipe de cardiologia congênita no mesmo dia ou no prazo que o serviço indicar. A repetição pode mudar o momento de investigação, monitorização ou intervenção.",
+          "Antes da alta, peça um plano escrito para casa e escola/creche: linha de base, sinais de crise, número do resgate, posição segura, cuidados com alimentação e quem avisar. Todos os cuidadores devem saber onde está o plano.",
+          "Reavalie com antecedência se houver episódios mais frequentes, mais longos, em repouso, durante alimentação/sono, com recuperação incompleta, desmaio ou manifestações neurológicas.",
+          "Mantenha seguimento cardiológico mesmo após cirurgia, pois algumas crianças podem ter obstrução residual, arritmia ou outras causas de cianose/síncope. A ausência de crises por um período não encerra o acompanhamento.",
+          "Se o diagnóstico ou a anatomia ainda não forem conhecidos, cianose nova em qualquer idade exige investigação hospitalar. Não use esta ficha para atribuir automaticamente o episódio a uma cardiopatia."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em recém-nascido e lactente menor de 3 meses, cianose nova ou piora é emergência e pode decorrer de cardiopatia dependente do canal arterial, doença pulmonar, sepse ou outra causa; não presuma crise hipercianótica. Acione o SAMU 192, mantenha aquecido e com mínimo manuseio, não alimente durante desconforto/sonolência e use joelhos-ao-peito apenas se houver suspeita/diagnóstico prévio de spell e sem atrasar o resgate.",
+        "3a5m": "Faixa típica para crises em tetralogia de Fallot não reparada. Choro, mamada, evacuação, despertar, febre e desidratação podem precipitar o episódio. Compare com a cor basal, acione o SAMU, acalme e aproxime delicadamente os joelhos do peito se tolerado; não dê alimento nem medicamento.",
+        "6a11m": "Pode ocorrer com esforço, alimentação, choro ou doença. Segure com segurança, reduza estímulos e use joelhos-ao-peito se a criança tolerar, enquanto aciona emergência. Se começou com alimento/objeto e não consegue tossir ou chorar, priorize a possibilidade de obstrução e siga o atendente do SAMU.",
+        "1a": "A criança pode assumir agachamento espontâneo; permita e apoie sem forçar. Cor mais azul/cinza, respiração rápida/profunda, irritação intensa, moleza ou desmaio exigem SAMU 192. Não confunda perda de fôlego com crise cardíaca sem avaliação.",
+        "2a5": "Crise hipercianótica é menos típica após a primeira infância, mas continua possível conforme anatomia/reparo. Deixe agachar se quiser, evite caminhada/corrida e acione emergência. Síncope, convulsão, engasgo, arritmia e doença respiratória são diferenciais que exigem avaliação, não teste em casa.",
+        "6a11": "Cianose ou desmaio agudo em escolar com cardiopatia reparada ou não reparada é emergência e pode refletir obstrução residual, arritmia, disfunção cardíaca ou causa respiratória/neurológica. Interrompa atividade, mantenha em posição confortável/agachada se espontâneo, acione o SAMU e não deixe voltar a esporte no mesmo dia.",
+        "12a17": "Em adolescente, spell clássico é incomum; cianose, palpitação, dor no peito, síncope ou quase-síncope — especialmente no esforço — exige emergência. Não dirigir, nadar, praticar esporte nem ficar sozinho. Levar identificação da cardiopatia, cirurgias e medicamentos habituais ao atendimento.",
+        "unknown": "Sem idade/anatomia/linha de base, trate cianose aguda, respiração diferente, desmaio, convulsão ou incapacidade de responder como emergência. Acione o SAMU 192, reduza estímulos, não dê nada pela boca e informe se há cardiopatia conhecida, cirurgia, engasgo, febre ou saturação basal."
+      },
+      "refs": [
+        {
+          "id": "paisReadyReview20261101_rch_cyanotic",
+          "name": "Clinical Practice Guidelines : Cyanotic episodes in congenital heart disease",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cyanotic_episodes_in_congenital_heart_disease/"
+        },
+        {
+          "id": "paisReadyReview20261101_qld_tet",
+          "name": "Tetralogy spells (tet spells) | Children's Health Queensland",
+          "url": "https://www.childrens.health.qld.gov.au/health-a-to-z/cardiac/tet-spells"
+        },
+        {
+          "id": "paisReadyReview20261101_ms_samu",
+          "name": "SAMU192 — Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3116",
+      "specific": true,
+      "key": "pps_catalog_5ad7d8d2ad94e31a",
+      "label": "Cardiopatia ducto-dependente — registro no PPS",
+      "entity": "Categoria fisiológica de cardiopatias congênitas críticas do recém-nascido/lactente pequeno nas quais a manutenção de fluxo pulmonar, de fluxo sistêmico ou de mistura adequada entre as circulações depende temporariamente da permeabilidade do canal arterial; o rótulo não identifica sozinho o defeito anatômico, o tipo de dependência, o grau de mistura, a estabilidade atual nem a situação após intervenção",
+      "assessment": "{\"classification\": \"VALID_HIGH_RISK_PHYSIOLOGIC_CATEGORY_OF_CRITICAL_CONGENITAL_HEART_DISEASE_WITH_ANATOMY_UNSPECIFIED\", \"normalized_entity\": \"Cardiopatia congênita crítica ducto-dependente\", \"assessment\": \"O termo é válido como categoria fisiológica de altíssimo risco, mas não é um diagnóstico anatômico único. O canal arterial é uma comunicação fetal normal entre a artéria pulmonar e a aorta que costuma fechar nos primeiros dias após o nascimento. Em certos defeitos graves, esse fechamento pode reduzir de modo abrupto o fluxo para os pulmões, o fluxo para o corpo ou a mistura entre as circulações, produzindo cianose, hipoperfusão, acidose, choque ou colapso. É indispensável confirmar o defeito específico e o plano da cardiologia; uma criança inicialmente rosada ou com triagem neonatal normal ainda pode ter cardiopatia crítica.\", \"pulmonary_flow_boundary\": \"Na dependência de fluxo pulmonar, o canal arterial ajuda o sangue a alcançar os pulmões quando a saída do lado direito está criticamente obstruída. Exemplos incluem atresia pulmonar, estenose pulmonar crítica e algumas formas de atresia tricúspide ou tetralogia de Fallot. Cianose central progressiva pode predominar, mas o rótulo não autoriza atribuir uma dessas anatomias sem confirmação.\", \"systemic_flow_boundary\": \"Na dependência de fluxo sistêmico, o canal arterial ajuda o sangue a alcançar a aorta e os órgãos quando a saída do lado esquerdo ou o arco aórtico estão criticamente obstruídos. Exemplos incluem síndrome do coração esquerdo hipoplásico, estenose aórtica crítica, coarctação crítica e interrupção do arco aórtico. Palidez ou aspecto cinzento, extremidades frias, pulsos fracos, respiração rápida, sonolência, alimentação ruim e pouca urina podem surgir antes de cianose evidente.\", \"mixing_boundary\": \"Algumas cardiopatias precisam de comunicação suficiente entre as circulações para misturar sangue, como a transposição das grandes artérias. O canal arterial pode contribuir para a mistura, mas não garante sozinho mistura adequada; uma comunicação atrial restritiva pode causar hipoxemia e choque mesmo com o canal permeável. Portanto, dependência de mistura não deve ser fundida automaticamente com dependência apenas pulmonar ou apenas sistêmica.\", \"ductal_closure_boundary\": \"Fechamento fisiológico do canal ocorre após o nascimento, muitas vezes nos primeiros dias. A deterioração pode ser súbita ou progressiva e coincidir com alta da maternidade. O fato de o recém-nascido ter parecido bem antes não reduz a urgência de mudança de cor, respiração, alimentação, perfusão, alerta ou urina.\", \"screening_boundary\": \"O teste do coraçãozinho é triagem, não diagnóstico. Ele identifica parte das cardiopatias críticas, mas um resultado normal não exclui todas, especialmente lesões obstrutivas que podem manter saturação aparentemente aceitável antes de piorar. Sintomas atuais e exame clínico prevalecem sobre uma triagem anterior.\", \"age_scope_boundary\": \"A dependência do canal arterial nativo é principalmente neonatal e do início da lactância. Em faixas etárias posteriores, o rótulo só deve ser usado se houver anatomia congênita confirmada e circulação ainda dependente de uma intervenção ou estratégia paliativa específica; não se deve presumir que o canal fetal permaneça aberto ou que uma criança maior sem história conhecida tenha a mesma fisiologia.\", \"pda_boundary\": \"Cardiopatia ducto-dependente não é sinônimo de persistência do canal arterial isolada. Na persistência do canal, a comunicação permanece aberta e pode produzir sobrecarga; na cardiopatia ducto-dependente, manter comunicação suficiente é temporariamente necessário para preservar fluxo ou mistura até o tratamento especializado.\", \"not_automatically_equivalent_to\": [\"persistência do canal arterial isolada\", \"uma única anatomia, como atresia pulmonar, coarctação, síndrome do coração esquerdo hipoplásico ou transposição\", \"cianose obrigatória em todos os casos\", \"presença obrigatória de sopro\", \"triagem normal como exclusão de cardiopatia crítica\", \"indicação automática de medicamento, dose, oxigênio, exame, acesso, dispositivo ou procedimento\", \"segurança para observação domiciliar de recém-nascido sintomático\", \"dependência persistente do canal fetal em criança maior sem confirmação anatômica\"], \"critical_context_to_confirm\": [\"defeito anatômico exato e se a dependência é de fluxo pulmonar, fluxo sistêmico, mistura ou combinação\", \"idade, idade gestacional, diagnóstico pré-natal/pós-natal, data da alta e mudança clínica desde o nascimento\", \"cor dos lábios/língua, padrão respiratório, alerta, temperatura das extremidades, perfusão, pulsos avaliados pela equipe e quantidade de urina\", \"em lactentes: vigor e duração da mamada, pausas, suor, engasgos, vômitos, volume prescrito, fraldas e tendência do peso\", \"resultado do teste do coraçãozinho, exame físico e ecocardiograma, sem tratar triagem como diagnóstico definitivo\", \"procedimentos prévios, circulação atual, saturação basal individual e plano escrito de emergência quando já fornecidos pela cardiologia\", \"medicamentos e equipamentos já prescritos, sem iniciar, suspender, ajustar ou substituir por conta própria\", \"contatos da cardiologia/serviço de referência e hospital definido para urgência\"], \"urgency_rule\": \"Recém-nascido ou lactente pequeno com suspeita ou diagnóstico de cardiopatia ducto-dependente e qualquer piora de cor, respiração, alimentação, alerta, perfusão ou urina deve receber avaliação emergencial, sem aguardar consulta, nova triagem ou leitura doméstica. Acionar SAMU 192 diante de inconsciência, respiração ausente/anormal, cianose central intensa, colapso, convulsão ou sinais de choque.\", \"counting_rule\": \"Contar pps_catalog_5ad7d8d2ad94e31a como uma orientação específica para a categoria fisiológica ‘cardiopatia congênita crítica ducto-dependente’. Não contar separadamente cada defeito anatômico, dependência de fluxo pulmonar, dependência de fluxo sistêmico, dependência de mistura, persistência do canal arterial ou estados pós-procedimento sem os respectivos IDs e evidências. O sufixo administrativo ‘registro no PPS’ não cria outra entidade.\", \"resolution\": \"Termo válido e específico como categoria fisiológica neonatal crítica, preservando três mecanismos distintos e a necessidade de confirmação anatômica e plano individual.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Cardiopatia ducto-dependente é uma cardiopatia congênita crítica em que, por um período, o bebê precisa que o canal arterial permaneça permitindo fluxo para os pulmões, para o corpo ou mistura entre as circulações. Não é uma única malformação e não deve ser confundida com persistência isolada do canal arterial.",
+          "Esta condição não é adequada para observação domiciliar quando ainda há suspeita, diagnóstico recente ou sintomas. Um recém-nascido pode parecer bem e piorar à medida que o canal arterial fecha, principalmente nos primeiros dias após o nascimento.",
+          "Se o bebê recebeu alta com plano especializado, mantenha à mão o nome exato da cardiopatia, resumo de alta, circulação/procedimento atual, contatos da cardiologia, hospital de referência e parâmetros individuais escritos. Informe esse diagnóstico imediatamente em qualquer atendimento.",
+          "Observe cor dos lábios e língua, respiração, alerta, temperatura de mãos/pés, alimentação, suor, vômitos, fraldas molhadas e tendência do peso conforme o plano. Não espere aparecer sopro ou coloração azul para reconhecer piora; lesões de fluxo sistêmico podem começar com palidez, pele manchada, extremidades frias, sonolência e pouca urina.",
+          "O teste do coraçãozinho normal não exclui todas as cardiopatias críticas. Também não use uma leitura isolada de oxímetro doméstico para decidir que está tudo bem; siga somente monitoramento prescrito e procure ajuda diante de mudança clínica.",
+          "Não deixe a criança sob cuidado de alguém que desconheça o plano. Ensine cuidadores a acionar emergência para cianose central, dificuldade respiratória importante, desmaio/colapso, pouca resposta ou sinais de má perfusão."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Diante de piora, mantenha o bebê aquecido sem superaquecer, em posição confortável, reduza manipulação desnecessária e acione o serviço de emergência. Não atrase a saída tentando confirmar diagnóstico, saturação ou pulso em casa.",
+          "Pare a mamada ou oferta pela boca se houver respiração difícil ou muito rápida, sonolência, engasgos repetidos, cianose ou fraqueza importante. Não force alimento ou líquido durante o transporte ou enquanto aguarda ajuda.",
+          "Se estiver inconsciente e não respirar normalmente, acione o SAMU 192 e inicie reanimação conforme treinamento ou orientação do atendente. Não faça manobras caseiras para ‘abrir o canal’ ou melhorar a circulação.",
+          "Não inicie, retire ou ajuste oxigênio por conta própria. O efeito e as metas dependem do defeito e do equilíbrio entre fluxo pulmonar e sistêmico; qualquer equipamento já prescrito deve seguir o plano individual da equipe.",
+          "Evite fumaça de cigarro/vape e contato com pessoas com infecção respiratória. Higienize as mãos e mantenha vacinas conforme pediatria/cardiologia, mas prevenção não substitui avaliação quando o bebê muda de cor, respiração, alimentação ou perfusão.",
+          "Em crianças maiores com cardiopatia congênita conhecida, escola e cuidadores devem ter plano de emergência, contatos e limites de atividade definidos pela cardiologia. O rótulo ducto-dependente não libera nem proíbe atividade de forma automática."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, dose, via, intervalo ou duração. Medidas hospitalares para preservar fluxo pelo canal arterial e estabilizar a circulação são tempo-dependentes, especializadas e exigem monitorização; não são tratamento domiciliar.",
+          "Dê somente os medicamentos já prescritos para esta criança, exatamente na apresentação e horário conferidos. Não inicie, suspenda, reduza, dobre, repita após vômito ou substitua produto sem orientação da equipe responsável.",
+          "Não use remédio de outra criança, sobra de receita, descongestionante, anti-inflamatório, chá, fitoterápico ou suplemento para tratar cansaço, cianose, respiração rápida ou má alimentação. Esses sinais exigem avaliação, não tentativa caseira.",
+          "Se vômitos, diarreia, recusa alimentar ou sonolência impedirem o plano prescrito, contate imediatamente o serviço de cardiologia e procure emergência se houver mudança de cor, respiração, perfusão, alerta ou urina.",
+          "Leve a lista e as embalagens de tudo que a criança usa para o atendimento. O tipo de dependência ductal, a anatomia e a circulação após eventual intervenção precisam ser conhecidos antes de qualquer decisão terapêutica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se o bebê está estável e tem alta autorizada, siga o plano individual de leite, volume, intervalo, via e ganho de peso. Alguns bebês cansam ao mamar e precisam de estratégia nutricional própria; não há volume ou fórmula universal para esta categoria.",
+          "Observe mamada mais demorada ou fraca, pausas frequentes, respiração acelerada, suor, mudança de cor, engasgos, vômitos, menor número de fraldas ou perda/baixo ganho de peso. Esses sinais podem indicar que a circulação não está sustentando alimentação e crescimento.",
+          "Não concentre nem dilua fórmula, não acrescente açúcar, sal, espessante ou suplemento e não mude leite, volume ou via sem o plano da equipe. Alterações de líquido podem ser perigosas em circulação com fluxo pulmonar e sistêmico delicadamente equilibrados.",
+          "Não force alimentação se houver esforço respiratório, cianose, palidez/cor cinzenta, pele fria/manchada, sonolência ou fraqueza. Interrompa a oferta e procure emergência.",
+          "Vômitos ou diarreia podem causar desidratação e alterar rapidamente a perfusão de uma criança de alto risco. Contate a equipe no mesmo dia mesmo se a criança ainda parecer alerta; antecipe para emergência diante de menos urina, extremidades frias, prostração ou piora respiratória.",
+          "Peso, ingestão e saturação só devem ser registrados em casa quando houver programa formal e parâmetros individuais ensinados pela equipe. Uma meta usada para outra criança não deve ser copiada."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se o bebê estiver inconsciente, muito difícil de acordar, não respirar normalmente, tiver pausa respiratória com mudança de cor, convulsão, desmaio/colapso ou deterioração rápida.",
+          "Procure emergência imediatamente diante de lábios ou língua azulados/acinzentados, cianose mais intensa que o padrão individual, respiração muito rápida/difícil, gemência, retrações, suor frio ou incapacidade de chorar/mamar por falta de ar.",
+          "Palidez ou aspecto cinzento, pele manchada, mãos/pés muito frios, fraqueza, pulso percebido muito fraco, sonolência fora do habitual, quase nenhuma urina ou piora rápida sugerem fluxo sistêmico insuficiente e são emergência mesmo sem cianose.",
+          "Mamada muito fraca ou interrompida por cansaço, recusa completa, vômitos repetidos, engasgos com alteração de cor ou queda importante das fraldas em recém-nascido/lactente de risco exige avaliação emergencial.",
+          "Uma saturação fora do parâmetro individual prescrito, ou mudança importante de sintomas apesar de leitura aparentemente normal, exige seguir o plano de emergência. Não repita medidas por longo tempo nem ajuste oxigênio esperando melhora.",
+          "Qualquer recém-nascido ainda sem diagnóstico definido que pareça séptico, em choque ou com cianose pode ter cardiopatia crítica ou outra emergência. Procure atendimento imediato; esta ficha não permite distinguir as causas em casa."
+        ],
+        "QUANDO REAVALIAR": [
+          "Recém-nascido com suspeita de cardiopatia ducto-dependente deve ser avaliado em emergência agora, não em retorno eletivo. Diagnóstico pré-natal também exige plano de nascimento e avaliação neonatal no serviço definido pela equipe.",
+          "Após alta especializada, cumpra exatamente os retornos da cardiologia e pediatria e os contatos programados. Não adie porque o bebê está corado ou ganhou peso; a anatomia, a circulação e o tratamento em etapas precisam de seguimento.",
+          "Contate a equipe no mesmo dia diante de mudança, mesmo transitória, em mamada, respiração, suor, cor, alerta, vômitos, fraldas ou peso. Se a alteração estiver presente ou vier com má perfusão/cianose, procure emergência diretamente.",
+          "Peça que o plano identifique por escrito o defeito específico, o tipo de dependência, o padrão basal individual, sinais de alarme, alimentação, medicamentos já prescritos, contatos e hospital de referência. Não use metas genéricas de outra cardiopatia.",
+          "Depois de procedimento paliativo ou corretivo, confirme qual é a circulação atual e quais riscos permanecem. O nome histórico ‘ducto-dependente’ não descreve sozinho o estado presente e não autoriza interromper o seguimento.",
+          "Em criança maior ou adolescente, reavalie se o rótulo continua correto, qual anatomia foi tratada, se há lesões residuais e quais limites de atividade/escola são individuais. Não presumir dependência do canal nativo apenas porque o termo permanece no cadastro."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Faixa de maior aplicabilidade. O bebê pode piorar com o fechamento do canal nos primeiros dias: cianose central, respiração difícil, mamada fraca/cansativa, suor, palidez/cor cinzenta, extremidades frias, sonolência e menos urina exigem emergência. Triagem normal ou ausência de sopro não exclui.",
+        "3a5m": "Nessa idade, dependência do canal nativo ainda não reconhecida é menos comum; confirmar anatomia e circulação atual. Em lactente conhecido, queda de ingestão, cianose/palidez, suor, respiração rápida, menos fraldas ou baixo ganho exige contato imediato, com emergência se estiver sintomático.",
+        "6a11m": "Não presumir canal fetal aberto. Aplicar apenas a criança com cardiopatia confirmada e circulação ainda dependente de estratégia especializada. Observar alimentação, crescimento, cor, respiração, perfusão, atividade e urina conforme plano individual.",
+        "1a": "Queda de brincadeira, cansaço ao comer, respiração rápida, suor, cianose/palidez, sonolência ou pouca urina pode indicar deterioração da cardiopatia, mas o rótulo histórico não define o mecanismo atual. Procurar urgência conforme sinais e confirmar circulação com cardiologia.",
+        "2a5": "Usar somente se houver cardiopatia anatômica conhecida e plano atual. Escola/cuidadores precisam reconhecer cianose, fraqueza, respiração difícil, desmaio e perfusão ruim; atividade e alimentação permanecem individualizadas.",
+        "6a11": "O termo geralmente descreve a fisiologia neonatal passada, não a condição completa atual. Confirmar diagnóstico, intervenções e lesões residuais. Cianose nova, síncope, dor torácica, palpitação com mal-estar, falta de ar ou queda importante de rendimento exige avaliação urgente.",
+        "12a17": "Não classificar adolescente como dependente do canal nativo sem documentação especializada. Revisar anatomia, procedimentos, saturação basal, atividade, escola, adesão e transição do cuidado; sintomas agudos cardiovasculares seguem sendo urgentes.",
+        "unknown": "Confirmar idade, anatomia, tipo de dependência, momento do nascimento/alta, procedimentos prévios, circulação atual, padrão basal, alimentação, cor, respiração, perfusão, urina e plano de emergência. Se for recém-nascido/lactente sintomático, tratar como emergência sem esperar esclarecimento completo."
+      },
+      "refs": [
+        {
+          "id": "paisReadyReview20261101_rch_unwell_neonate",
+          "name": "Clinical Practice Guidelines : Recognition of the seriously unwell neonate and young infant",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Recognition_of_the_seriously_unwell_neonate_and_young_infant/"
+        },
+        {
+          "id": "paisReadyReview20261101_cdc_screen",
+          "name": "Clinical Screening and Diagnosis for Critical Congenital Heart Defects | Congenital Heart Defects (CHDs) | CDC",
+          "url": "https://www.cdc.gov/heart-defects/hcp/screening/"
+        },
+        {
+          "id": "paisReadyReview20261101_nhs_duct",
+          "name": "Southampton Oxford Neonatal Transport Guideline — Duct dependent congenital heart disease",
+          "url": "https://www.sort.nhs.uk/Media/SONeT/Guidelines/Cardiac/Duct%20dependent%20congenital%20heart%20disease.pdf"
+        },
+        {
+          "id": "paisReadyReview20261101_ms_samu",
+          "name": "SAMU192 — Ministério da Saúde",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3124",
+      "specific": false,
+      "key": "pps_catalog_53b6eafa4aad472c",
+      "label": "Cefaleia Primária Tensional na Infância — registro no PPS",
+      "entity": "Cefaleia do tipo tensional primária na infância e adolescência, após avaliação e sem sinais de causa secundária, abrangendo formas episódicas e crônica conforme frequência e duração documentadas",
+      "assessment": "{\"classification\": \"VALID_PEDIATRIC_PRIMARY_HEADACHE_ENTITY_BUT_EXACT_NOMINAL_ALIAS_OF_PPS_49\", \"normalized_entity\": \"Cefaleia do tipo tensional na infância\", \"assessment\": \"Cefaleia do tipo tensional é entidade válida de cefaleia primária. O rótulo deste registro é um invólucro nominal do núcleo pps_49, cuja etiqueta canônica é ‘Cefaleia Primária Tensional na Infância’; portanto, deve compartilhar conteúdo clínico e não acrescentar nova entidade. O padrão típico é dor recorrente em pressão ou aperto, geralmente bilateral, leve a moderada, que não piora com atividade habitual e não apresenta náusea/vômito nem combinação marcante de fotofobia e fonofobia. Essas características não confirmam diagnóstico isoladamente, especialmente em crianças pequenas, nas quais enxaqueca e cefaleias secundárias podem se apresentar de forma atípica. ‘Aguda’, ‘complicada/refratária’ e ‘grave/crítica’, presentes como aliases cadastrais, não são subtipos ICHD-3 de cefaleia tensional e nunca autorizam presumir benignidade ou cuidado domiciliar. O diagnóstico requer história, exame apropriado, ausência de sinais de alarme e exclusão de explicação melhor.\", \"reconciliation\": {\"core_key\": \"pps_49\", \"core_label\": \"Cefaleia Primária Tensional na Infância\", \"queue_label\": \"Cefaleia Primária Tensional na Infância — registro no PPS\", \"relationship\": \"SAME_TENSION_TYPE_HEADACHE_ENTITY_PPS_NOMINAL_WRAPPER\", \"content_rule\": \"Reutilizar o núcleo clínico, os limites diagnósticos e os alarmes de pps_49; preservar este ID e rótulo sem contar entidade adicional.\", \"additional_entity_count\": 0, \"core_result_state_at_research\": \"O resultado OP-3123-pps_49.json foi recebido e lido após a pesquisa inicial (sha256 2a33fb43a9750dc1b3d3f13cba73b118134e24ad79fa06f15430467cc0b51445). Ele confirma pps_49 como núcleo canônico, esta chave de catálogo como alias administrativo sem entidade adicional e os limites de segurança: qualificadores aguda, complicada/refratária e grave/crítica não são subtipos ICHD-3; gravidade exige triagem de causa secundária e refratariedade exige reavaliação.\", \"ichd3_taxonomy\": \"A ICHD-3 divide cefaleia tensional em episódica infrequente, episódica frequente, crônica e provável. O rótulo genérico não estabelece frequência, cronicidade, sensibilidade pericraniana nem subtipo.\", \"migraine_boundary\": \"Enxaqueca pode ser bilateral em crianças e sobrepor sintomas. Pulsatilidade, piora com atividade, náusea/vômito, fotofobia e fonofobia juntas, aura ou incapacidade maior favorecem outro fenótipo e exigem reavaliação.\", \"secondary_headache_boundary\": \"Primeira ou pior cefaleia, início explosivo, progressão, despertar noturno, padrão matinal, vômitos, febre/meningismo, trauma, alteração neurológica/visual, crise epiléptica, hipertensão ou piora com tosse/posição não deve ser rotulada como tensional sem avaliação.\", \"stress_boundary\": \"Estresse, sono ruim ou tensão muscular podem precipitar ou agravar episódios, mas não provam o diagnóstico e não significam que a dor é imaginária ou exclusivamente psicológica.\", \"counting_effect\": \"ZERO_ENTIDADE_ADICIONAL; este ID preserva rastreabilidade nominal e compartilha a única entidade clínica do núcleo pps_49. Formas episódicas/crônicas, enxaqueca, cefaleia por uso excessivo e causas secundárias não são cobertas adicionalmente.\"}, \"not_automatically_equivalent_to\": [\"Qualquer dor de cabeça leve, bilateral ou relacionada a estresse\", \"Cefaleia episódica infrequente, episódica frequente ou crônica sem contagem documentada\", \"Enxaqueca sem aura, com aura ou provável\", \"Nova cefaleia diária persistente\", \"Cefaleia por uso excessivo de medicamento\", \"Cefaleia por febre, meningite, encefalite, sinusite, trauma, hipertensão, pressão intracraniana, hemorragia, tumor, doença ocular ou intoxicação\", \"Indicação automática de analgésico, dose, exame de imagem, terapia preventiva ou alta domiciliar\"], \"pediatric_scope\": \"Aplica-se principalmente a crianças que conseguem descrever um padrão recorrente e a adolescentes, sempre com correlação entre relato da criança, observações da família/escola e exame. Idade menor que quatro anos é sinal de alarme em diretriz pediátrica para cefaleia; lactentes e crianças pequenas não devem receber diagnóstico domiciliar de cefaleia tensional. Em escolares, dor pode afetar concentração e frequência escolar mesmo quando leve ou moderada. Em adolescentes, sono, refeições, hidratação, telas, estresse, humor, uso de cafeína e medicamentos precisam ser avaliados sem reduzir o quadro a causa emocional.\", \"counting_rule\": \"Manter este ID rastreado, specific=false, alias_of_core=true e additional_entity_count=0. Somente pps_49 conta a entidade cefaleia tensional pediátrica após integração, testes e publicação; este wrapper não aumenta nomes clínicos ou doenças resolvidas.\", \"critical_context_to_confirm\": [\"Idade, desenvolvimento e capacidade de descrever a dor\", \"Primeiro episódio ou padrão recorrente; início súbito ou gradual; frequência, duração e tendência\", \"Localização, pressão/aperto ou pulsação, intensidade e efeito da atividade habitual\", \"Náusea, vômitos, fotofobia, fonofobia, aura, sintomas autonômicos ou déficits focais\", \"Febre, rigidez de nuca, exantema, trauma, despertar noturno, padrão matinal, tosse/esforço/posição e perda de peso\", \"Exame neurológico e ocular, marcha, estado de consciência e pressão arterial aferida com referência pediátrica\", \"Medicamentos, cafeína/energéticos, substâncias e frequência de analgésicos\", \"Sono, refeições, hidratação, telas, postura, escola, atividade, humor, ansiedade, bullying e estressores\", \"História familiar e coexistência de enxaqueca ou outro tipo de cefaleia\"], \"reason\": \"Entidade clínica válida, mas o ID é duplicata nominal exata de pps_49. Há evidência suficiente para conteúdo completo, limites pediátricos, medidas não farmacológicas e alarmes, sem criar subtipo ou nova entidade e sem prescrever medicamento/dose.\", \"next_action\": \"Integração deve mesclar este wrapper ao núcleo canônico OP-3123/pps_49 já reconciliado, preservando ambos os IDs. Testar que os dois registros resolvem para o mesmo conteúdo sem aumentar a contagem clínica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Estas orientações valem para cefaleia do tipo tensional já avaliada, sem sinais de causa secundária. Ela costuma causar pressão ou aperto, muitas vezes dos dois lados, de intensidade leve a moderada e sem piorar ao caminhar ou subir escadas. O diagnóstico não deve ser feito apenas porque houve estresse, tela ou cansaço.",
+          "Durante a dor, acolha a criança e permita uma pausa em ambiente confortável. Reduza esforço e estímulos que incomodem, sem obrigar escuridão total. Assim que estiver melhor, retome gradualmente a rotina habitual; evitar toda atividade por medo pode ampliar o impacto da cefaleia.",
+          "Faça um diário por tempo suficiente para mostrar o padrão. Registre data e horário, duração, intensidade, local e tipo da dor, atividade no momento, sono, refeições, líquidos, escola, estresse, menstruação quando pertinente, sintomas associados e tudo o que foi usado para aliviar.",
+          "O diário ajuda a separar forma episódica da crônica e cefaleia tensional de enxaqueca. Menos de 15 dias por mês é padrão episódico; 15 ou mais dias por mês por mais de 3 meses pode ser crônico e exige reavaliação, não autodiagnóstico.",
+          "Observe impacto real: faltas, queda de rendimento, abandono de brincadeiras, acordar à noite, irritabilidade e limitação familiar. A dor é válida mesmo sem exame alterado; evite culpar, desacreditar ou atribuir automaticamente a problemas emocionais.",
+          "Se a dor mudar de padrão, ficar claramente diária desde o primeiro dia, ganhar características de enxaqueca ou surgir qualquer sinal de alarme, deixe de tratar o episódio como a cefaleia tensional habitual e procure avaliação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha horários regulares de sono e despertar, inclusive nos fins de semana, com rotina calma antes de dormir. Ronco importante, pausas respiratórias, sonolência excessiva ou dor que acorda a criança merecem avaliação e não devem ser tratados apenas como falta de sono.",
+          "Faça refeições regulares e pausas planejadas durante estudo, tela ou postura mantida. Ajuste cadeira, iluminação e distância da tela de modo confortável, mas não considere postura ou visão a causa sem avaliação.",
+          "Estimule atividade física adequada à idade nos dias bons, de forma gradual. Se exercício desencadear dor nova ou muito intensa, ou vier com desmaio, falta de ar, dor no peito ou alteração neurológica, interrompa e procure avaliação.",
+          "Use técnicas simples de relaxamento que a criança aceite, como respiração lenta, pausa curta, alongamento leve e atividade calma. Isso pode ajudar no conforto, mas não substitui a avaliação de dor nova, progressiva ou com alarme.",
+          "Converse com a criança e a escola sobre sobrecarga, bullying, dificuldades de aprendizagem, ansiedade ou mudanças familiares, sem concluir que a dor é imaginária. Combine acesso a água, refeição, pausa breve e retorno à atividade quando estiver bem.",
+          "Não faça manipulação brusca do pescoço, massagem dolorosa, jejum, dietas de exclusão extensas ou rotina rígida de repouso. Procure padrões do próprio diário antes de remover alimentos ou atividades."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não inicia analgésico, anti-inflamatório, remédio para enxaqueca, relaxante muscular, suplemento, fitoterápico ou tratamento preventivo; não define produto, apresentação, dose, intervalo, duração ou limite individual.",
+          "Use somente o que foi prescrito ou orientado especificamente para esta criança, na forma e no horário recebidos. Não use receita de outra pessoa, medicamento de adulto, combinação de produtos ou sobra de tratamento anterior.",
+          "Registre no diário todo medicamento usado, inclusive produtos sem receita e cafeína. Necessidade frequente, aumento progressivo ou efeito cada vez menor exige reavaliação; repetir por conta própria pode contribuir para cefaleia por uso excessivo.",
+          "Não aumente dose, encurte intervalo, misture analgésicos, inicie tratamento preventivo nem interrompa de repente medicamento contínuo sem falar com a equipe. O diagnóstico do cadastro, sozinho, não escolhe terapia.",
+          "Não use opioides para tratar cefaleia tensional por conta própria. Chás, óleos, vitaminas, magnésio e outros suplementos não devem substituir diagnóstico, rotina ou acompanhamento e podem ter contraindicações e interações.",
+          "Se houver reação ao medicamento, erro de administração, sonolência incomum, vômitos persistentes ou dificuldade para tomar o plano prescrito, procure orientação. Diante de sinal de alarme, não espere o remédio fazer efeito para buscar atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação habitual e variada, em horários regulares, sem pular refeições. Jejum e longos intervalos podem acompanhar episódios, mas não confirmam a causa da dor.",
+          "Ofereça líquidos adequados à idade ao longo do dia e aumente a atenção em calor e atividade física. Não force grandes volumes de uma vez e não trate dor de cabeça com água em excesso.",
+          "Antes dos 6 meses, mantenha leite materno ou a fórmula já indicada; não substitua mamadas por água, chá, suco ou alimento para tentar tratar a dor. Em bebê, suspeita de dor de cabeça exige avaliação e não deve receber o rótulo de cefaleia tensional em casa.",
+          "Após 6 meses, mantenha água e alimentação adequadas à idade junto do leite habitual. Vômitos repetidos, recusa persistente, dificuldade para engolir, pouca urina ou sonolência exigem avaliação e não são evolução típica atribuível à cefaleia tensional.",
+          "Não retire glúten, lactose, chocolate ou muitos alimentos sem um padrão consistente e avaliação. Use o diário para discutir possíveis relações, evitando dietas restritivas que prejudiquem crescimento e convivência.",
+          "Cafeína e bebidas energéticas não devem ser usadas como tratamento. Em adolescentes que já consomem cafeína, registre quantidade e horário e discuta redução segura com a equipe, sem mudança brusca se houver uso elevado."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor que começa de forma súbita e atinge intensidade máxima em poucos minutos, ou a pior dor já sentida, exige pronto atendimento imediato. Não espere repouso ou medicamento fazer efeito.",
+          "Ligue para o SAMU 192 diante de dificuldade para acordar, confusão, desmaio, convulsão, nova fraqueza ou dormência de um lado, fala alterada, perda de equilíbrio importante, visão súbita perdida ou dupla, ou piora rápida do estado geral.",
+          "Febre com rigidez de nuca, manchas roxas que não somem à pressão, fotofobia intensa, vômitos repetidos ou aparência de doença grave exige atendimento imediato por possível infecção ou outra causa secundária.",
+          "Dor depois de trauma importante na cabeça, especialmente com vômitos, desmaio, confusão, sonolência crescente, convulsão, sangramento ou saída de líquido pelo nariz/ouvido, exige avaliação imediata.",
+          "Procure avaliação no mesmo dia se a dor acorda a criança, está presente ao despertar, piora progressivamente, muda muito do padrão, é desencadeada por tosse/esforço ou varia claramente com a posição, sobretudo quando acompanhada de vômito ou alteração visual.",
+          "Em criança imunocomprometida, com câncer, distúrbio de coagulação, hipertensão conhecida ou derivação ventricular, cefaleia nova ou diferente precisa de avaliação sem demora. Não a trate como episódio tensional habitual."
+        ],
+        "QUANDO REAVALIAR": [
+          "Cumpra o retorno definido na avaliação. Se o prazo não ficou claro, marque reavaliação quando os episódios se repetirem, para confirmar frequência, padrão, impacto e se o diagnóstico ainda se mantém.",
+          "Antecipe a consulta se as dores passarem a ocorrer em 15 ou mais dias do mês, durarem por mais de 3 meses, tornarem-se diárias, exigirem medicamento com frequência ou reduzirem escola, sono, brincadeiras, esporte ou convivência.",
+          "Reavalie se aparecer dor pulsátil ou forte, piora com atividade, náusea, vômito, incômodo simultâneo importante com luz e som ou aura. Esses achados podem indicar enxaqueca ou coexistência de tipos e não devem ser corrigidos pela família apenas mudando o nome da ficha.",
+          "Dor claramente diária e contínua desde o primeiro dia, ou lembrada como tendo se tornado contínua em menos de 24 horas, precisa de nova avaliação para separar cefaleia nova diária persistente de forma tensional crônica.",
+          "Procure avaliação urgente em menores de 4 anos com queixa de dor de cabeça. Em qualquer idade, bebê que chora, fica irritado, toca a cabeça, recusa alimentação ou muda o comportamento não deve receber diagnóstico de cefaleia tensional apenas por esses sinais.",
+          "Leve o diário, a lista de todos os medicamentos e produtos usados, os horários de sono/alimentação e informação sobre faltas e limitações. A equipe decide se algum exame, encaminhamento ou tratamento é necessário; esta ficha não os seleciona."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Cefaleia tensional não deve ser inferida em recém-nascido ou lactente pequeno por choro, irritabilidade, fontanela, sono ou tocar a cabeça. Mudança de comportamento, febre ou suspeita de febre, recusa alimentar, vômitos, gemido, choro agudo, sonolência ou convulsão exige avaliação imediata. Mantenha leite materno ou fórmula indicada; não ofereça água, chá, alimento ou remédio para 'dor de cabeça' sem avaliação.",
+        "3a5m": "O bebê não consegue descrever uma cefaleia tensional. Choro persistente, irritabilidade incomum, fontanela abaulada, vômitos, alteração do olhar, pouca resposta, febre ou recusa de mamadas requer avaliação imediata. Não substitua mamadas por água ou chá e não use medicamento por conta própria.",
+        "6a11m": "Não rotule desconforto, choro, bater/tocar a cabeça ou irritabilidade como cefaleia tensional. Vômitos repetidos, alteração do olhar, regressão, convulsão, sonolência, febre, recusa alimentar ou mudança importante do comportamento exige avaliação urgente. Registre quando ocorre, mas não espere diário ou remédio para procurar ajuda.",
+        "1a": "Nesta idade a criança não descreve com segurança local, qualidade e sintomas associados. Dor de cabeça aparente, regressão, alteração do equilíbrio/olhar, vômitos, despertar noturno, sonolência, febre ou mudança de comportamento deve ser avaliada com urgência. Não atribua a dente, tela ou estresse sem avaliação.",
+        "2a5": "Abaixo de 4 anos, queixa de cefaleia é incomum e requer avaliação neurológica urgente. Dos 4 aos 5 anos, use palavras simples ou escala visual e registre comportamento, duração, vômitos, sono e atividade; a descrição pode ser incompleta. Dor ao acordar, que desperta, piora, vem com vômito, ataxia, febre/rigidez, trauma ou alteração do olhar exige avaliação no mesmo dia ou imediata conforme gravidade.",
+        "6a11": "A criança pode ajudar no diário com desenho ou escala simples; o cuidador registra frequência, duração, escola, sono, refeições, sintomas e tudo o que foi usado. Diferencie pressão leve/moderada que não piora com atividade de dor pulsátil/forte com náusea, vômito ou incômodo com luz e som. Sob 12 anos, dor que acorda, ocorre ao despertar, piora, surge com vômitos, ataxia, febre/rigidez, trauma, tosse/posição ou alteração de consciência precisa de avaliação no mesmo dia.",
+        "12a17": "O adolescente pode preencher o diário, incluindo sono, refeições, água, telas, exercício, menstruação quando pertinente, estresse, escola e todos os medicamentos. Preserve privacidade ao perguntar sobre bullying, saúde mental, cafeína/energéticos e substâncias, sem atribuir a dor ao psicológico. Procure urgência para início súbito, déficit neurológico, febre/rigidez, trauma, vômitos repetidos, piora progressiva, dor ao acordar ou relacionada a esforço/posição.",
+        "unknown": "Sem idade e capacidade de comunicação confirmadas, não classificar episódio, subtipo ou segurança de cuidado domiciliar. Aplique os sinais de alarme sem atraso; se puder ser menor de 4 anos, adote limiar baixo e avaliação urgente. Não indicar medicamento, dose, exame ou profilaxia até confirmar idade, história e avaliação."
+      },
+      "refs": [
+        {
+          "id": "pais20261101_op3123_1",
+          "name": "2.1 Infrequent episodic tension-type headache",
+          "url": "https://ichd-3.org/2-tension-type-headache/2-1-infrequent-episodic-tension-type-headache/"
+        },
+        {
+          "id": "pais20261101_op3123_2",
+          "name": "2.2 Frequent episodic tension-type headache",
+          "url": "https://ichd-3.org/2-tension-type-headache/2-2-frequent-episodic-tension-type-headache/"
+        },
+        {
+          "id": "pais20261101_op3123_3",
+          "name": "2.3 Chronic tension-type headache",
+          "url": "https://ichd-3.org/2-tension-type-headache/2-3-chronic-tension-type-headache/"
+        },
+        {
+          "id": "pais20261101_op3123_4",
+          "name": "Clinical Practice Guidelines: Headache",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Headache/"
+        },
+        {
+          "id": "pais20261101_op3123_5",
+          "name": "Headaches in over 12s: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/cg150/chapter/recommendations"
+        },
+        {
+          "id": "pais20261101_op3123_6",
+          "name": "Suspected neurological conditions: recognition and referral — Headaches in children",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+        },
+        {
+          "id": "pais20261101_op3123_7",
+          "name": "Migraine and other headache disorders",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/headache-disorders%E2%81%A0"
+        },
+        {
+          "id": "pais20261101_op3123_8",
+          "name": "Tension-Type Headache in Children and Adolescents",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10056425/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ],
+  "clinicalChangesFromArchivedArtifacts": [
+    {
+      "job": "OP-3115",
+      "section": "CUIDADOS EM CASA",
+      "index": 0,
+      "old": "Esta crise é uma piora súbita da passagem de sangue para os pulmões em algumas cardiopatias cianóticas. A criança fica mais azul/cinza que sua cor habitual, pode respirar rápido e fundo, ficar muito agitada e depois mole ou sonolenta. É uma emergência: acione o SAMU 192 imediatamente.",
+      "new": "Uma crise em curso é uma piora súbita da passagem de sangue para os pulmões em algumas cardiopatias cianóticas. A criança fica mais azul/cinza que sua cor habitual, pode respirar rápido e fundo, ficar muito agitada e depois mole ou sonolenta. É uma emergência: acione o SAMU 192 imediatamente. Se este nome é apenas o registro de um episódio anterior já avaliado e estabilizado, siga o plano de alta e de seguimento da cardiologia; novos sinais de crise exigem nova avaliação.",
+      "reason": "Separar episódio atual de registro histórico, sem retirar a ação emergencial no episódio atual."
+    },
+    {
+      "job": "OP-3115",
+      "section": "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO",
+      "index": 0,
+      "old": "Este diagnóstico já é uma emergência fixa: acione o SAMU 192 no início de cor mais azul/cinza que o habitual acompanhada de respiração rápida/profunda, agitação intensa, fraqueza ou alteração da consciência.",
+      "new": "Uma crise de hipercianose em curso é uma emergência: acione o SAMU 192 no início de cor mais azul/cinza que o habitual acompanhada de respiração rápida/profunda, agitação intensa, fraqueza ou alteração da consciência.",
+      "reason": "Não presumir crise atual apenas pelo nome histórico no cadastro."
+    }
+  ],
+  "primarySourcesRechecked": [
+    {
+      "key": "rch_bronchiolitis",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/",
+      "final": "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/",
+      "http": 200,
+      "title": "Clinical Practice Guidelines : Bronchiolitis",
+      "accessed_at": "2026-11-01T16:03:05.077968+00:00",
+      "sha256": "b6d507e0df7d7585de9f6c510b99b8829a0c8f91926d6b9f47d05b551cb804ce",
+      "characters": 9192,
+      "passages": [
+        {
+          "line": 80,
+          "text": "indicated Infants with a history of prematurity or cardiopulmonary disease are at higher risk of deterioration and are more likely to require admission Use nasal prong oxygen for persistent SpO"
+        },
+        {
+          "line": 85,
+          "text": "Background Bronchiolitis is a viral lower respiratory tract infection, generally affecting children                            <12 months of age"
+        },
+        {
+          "line": 91,
+          "text": "A cough may persist for weeks Assessment History"
+        },
+        {
+          "line": 96,
+          "text": "Fever Difficulty feeding Apnoeic episodes"
+        },
+        {
+          "line": 100,
+          "text": "Risk factors for more serious illness Consider hospital admission for these children, even if presenting early in illness with mild symptoms Chronic lung disease"
+        },
+        {
+          "line": 116,
+          "text": "Hypoxia See assessment of severity of respiratory conditions Management"
+        },
+        {
+          "line": 121,
+          "text": "Investigations should only be undertaken when there is deterioration or diagnostic uncertainty (eg cardiac murmur with signs of congestive cardiac failure) Chest X-ray (CXR) is not"
+        },
+        {
+          "line": 133,
+          "text": "minimal handling Some young infants with risk factors (see above) or apnoeas (absence of breathing for >15 seconds, often associated with bradycardia and/or oxygen desaturation) may benefit from a period of hospital observation, even if they do not require fluid or supplemental oxygen therapy. Bronchiolitis management approach"
+        },
+        {
+          "line": 141,
+          "text": "targets Infants with bronchiolitis will have brief episodes of mild/moderate desaturations                            <90%. These brief desaturations are not a reason to commence supplemental oxygen"
+        },
+        {
+          "line": 142,
+          "text": "Infants with bronchiolitis will have brief episodes of mild/moderate desaturations                            <90%. These brief desaturations are not a reason to commence supplemental oxygen Nasal prong oxygen should only be instituted when oxygen saturations are persistently                                   "
+        },
+        {
+          "line": 143,
+          "text": "        <90%. These brief desaturations are not a reason to commence supplemental oxygen Nasal prong oxygen should only be instituted when oxygen saturations are persistently                                                    <90%. If oxygen saturations remain persistently <90% and there is no improvement in respiratory state despite 2 hours of low flow oxygen, consider HFNP"
+        },
+        {
+          "line": 144,
+          "text": "Nasal prong oxygen should only be instituted when oxygen saturations are persistently                                                    <90%. If oxygen saturations remain persistently <90% and there is no improvement in respiratory state despite 2 hours of low flow oxygen, consider HFNP HFNP is not recommended in children with SpO"
+        },
+        {
+          "line": 155,
+          "text": "                        <90% Once no longer requiring supplemental oxygen for 2 hours, discontinue oxygen saturation monitoring. Continue observations 2-4 hourly and reinstate intermittent oxygen monitoring if clinically deteriorating Hydration/nutrition"
+        },
+        {
+          "line": 158,
+          "text": "Children are often more settled if comfort      oral feeds are continued When non-oral hydration is required,      nasogastric (NG) hydration is the route of choice and can be safely used      in children on respiratory support NG"
+        },
+        {
+          "line": 160,
+          "text": "NG bolus feeding is safe and should be commenced      at two-thirds maintenance rate because of potential      for increased ADH secretion"
+        },
+        {
+          "line": 162,
+          "text": "potential      for increased ADH secretion IV hydration should be reserved for      children in whom NG feeding is not possible. If IV fluid is used it should      be isotonic with added glucose. See IV      fluids"
+        },
+        {
+          "line": 166,
+          "text": "Beyond simple analgesia, medications are not routinely indicated Chloral hydrate may be used to reduce agitation in children with worsening respiratory distress, regardless of need for respiratory support. It is most effective in children <2years and <15kg Dose 0-2 years: 10mg/kg initial dose, every 4-6 hours"
+        },
+        {
+          "line": 169,
+          "text": "May increase to 15mg/kg and then up to 20mg/kg every 4-6 hourly if required, but recommend increased monitoring and senior clinician involvement is required outside of critical care areas Adverse effects: excess sedation, respiratory depression, hypotension, paradoxical agitation Caution in patients with renal or hepatic impairment"
+        },
+        {
+          "line": 171,
+          "text": "Caution in patients with renal or hepatic impairment There is insufficient evidence for the use of caffeine in prevention of bronchiolitis-associated apnoea Do not administer"
+        },
+        {
+          "line": 183,
+          "text": "not recommended. Superficial nasal suction may be      considered in those with moderate disease to assist feeding Nasal saline drops may be considered at time      of feeding"
+        },
+        {
+          "line": 184,
+          "text": "recommended. Superficial nasal suction may be      considered in those with moderate disease to assist feeding Nasal saline drops may be considered at time      of feeding Chest physiotherapy"
+        },
+        {
+          "line": 185,
+          "text": "Nasal saline drops may be considered at time      of feeding Chest physiotherapy Is"
+        },
+        {
+          "line": 190,
+          "text": "Consider consultation with local paediatric team when Child has specific risk factors (detailed in      assessment section) Requiring supplemental oxygen"
+        },
+        {
+          "line": 192,
+          "text": "Requiring supplemental oxygen Less than half normal oral intake and      clinically dehydrated Respiratory status assessed as"
+        },
+        {
+          "line": 193,
+          "text": "Less than half normal oral intake and      clinically dehydrated Respiratory status assessed as moderate or severe"
+        }
+      ]
+    },
+    {
+      "key": "nice_bronchiolitis",
+      "url": "https://www.nice.org.uk/guidance/ng9/chapter/Recommendations",
+      "final": "https://www.nice.org.uk/guidance/ng9/chapter/Recommendations",
+      "http": 200,
+      "title": "Recommendations | Bronchiolitis in children: diagnosis and management | Guidance | NICE",
+      "accessed_at": "2026-11-01T16:03:04.920317+00:00",
+      "sha256": "a5a9a2529d7d8d3e546c858c3040028d4d7b35b7d1b17d60e9a109e2ee6f937b",
+      "characters": 22739,
+      "passages": [
+        {
+          "line": 12,
+          "text": "Recommendations 1.1 Assessment and diagnosis 1.1.1"
+        },
+        {
+          "line": 23,
+          "text": "and either tachypnoea or chest recession (or both) and"
+        },
+        {
+          "line": 25,
+          "text": "and either wheeze or crackles on chest auscultation (or both). [2015]"
+        },
+        {
+          "line": 30,
+          "text": "fever (in around 30% of cases, usually of less than 39°C) poor feeding (typically after 3 to 5 days of illness). [2015]"
+        },
+        {
+          "line": 33,
+          "text": "1.1.5 When diagnosing bronchiolitis, take into account that young infants with this disease (in particular those under 6 weeks of age) may present with apnoea without other clinical signs. [2015]"
+        },
+        {
+          "line": 54,
+          "text": "1.1.8 Measure oxygen saturation in every baby and child presenting with suspected bronchiolitis, including those presenting to primary care if pulse oximetry is available. [2015]"
+        },
+        {
+          "line": 63,
+          "text": ". Be aware that some pulse oximeters can underestimate or overestimate oxygen saturation levels, especially if the saturation level is borderline. Overestimation has been reported in people with dark skin. 1.1.10"
+        },
+        {
+          "line": 65,
+          "text": "1.1.10 Suspect impending respiratory failure, and take appropriate action as these babies and children may need intensive care (see recommendation 1.2.1"
+        },
+        {
+          "line": 70,
+          "text": "), if any of the following are present: signs of exhaustion, for example listlessness or decreased respiratory effort recurrent apnoea"
+        },
+        {
+          "line": 71,
+          "text": "signs of exhaustion, for example listlessness or decreased respiratory effort recurrent apnoea failure to maintain adequate oxygen saturation despite oxygen supplementation."
+        },
+        {
+          "line": 72,
+          "text": "recurrent apnoea failure to maintain adequate oxygen saturation despite oxygen supplementation. [2015]"
+        },
+        {
+          "line": 76,
+          "text": "1.2.1 Immediately refer babies and children with bronchiolitis for emergency hospital care (usually by 999 ambulance) if they have any of the following: apnoea (observed or reported)"
+        },
+        {
+          "line": 77,
+          "text": "Immediately refer babies and children with bronchiolitis for emergency hospital care (usually by 999 ambulance) if they have any of the following: apnoea (observed or reported) baby or child looks seriously unwell to a healthcare professional"
+        },
+        {
+          "line": 79,
+          "text": "baby or child looks seriously unwell to a healthcare professional severe respiratory distress, for example grunting, marked chest recession, or a respiratory rate of over 70 breaths/minute central cyanosis."
+        },
+        {
+          "line": 80,
+          "text": "severe respiratory distress, for example grunting, marked chest recession, or a respiratory rate of over 70 breaths/minute central cyanosis. [2015]"
+        },
+        {
+          "line": 84,
+          "text": "Consider referring babies and children with bronchiolitis to hospital if they have any of the following: a respiratory rate of over 60 breaths/minute [2015]"
+        },
+        {
+          "line": 86,
+          "text": "[2015] difficulty with breastfeeding or inadequate oral fluid intake (50% to 75% of usual volume, taking account of risk factors [see recommendation 1.3.3"
+        },
+        {
+          "line": 92,
+          "text": "[2015] persistent oxygen saturation of less than 92%, when breathing air. [2021]"
+        },
+        {
+          "line": 99,
+          "text": "Why the committee made the 2021 recommendation The committee did not consider any of the evidence on oxygen saturation thresholds that they reviewed to be directly relevant to referral, because the studies focused on admission, management, and discharge. However, they needed to review these recommendations to ensure that they were in line with the changes to the recommendations on admission, management and discharge, and to avoid any contradictions. For most babies and children, the oxygen saturation threshold has been lowered to 90% for admission, management and discharge, but the committee felt that the original threshold of 92% remained appropriate for referral. They agreed with the rationale in the 2015 guideline that this threshold of 92% enabled a safety margin for babies and children whose condition may be deteriorating, because their oxygen saturation level may drop further."
+        },
+        {
+          "line": 100,
+          "text": "The committee did not consider any of the evidence on oxygen saturation thresholds that they reviewed to be directly relevant to referral, because the studies focused on admission, management, and discharge. However, they needed to review these recommendations to ensure that they were in line with the changes to the recommendations on admission, management and discharge, and to avoid any contradictions. For most babies and children, the oxygen saturation threshold has been lowered to 90% for admission, management and discharge, but the committee felt that the original threshold of 92% remained appropriate for referral. They agreed with the rationale in the 2015 guideline that this threshold of 92% enabled a safety margin for babies and children whose condition may be deteriorating, because their oxygen saturation level may drop further. Although an oxygen saturation level of less than 92% indicates that a baby or child needs further clinical assessment, the committee did not feel that this criterion alone was enough to justify immediate transfer to hospital (as specified in the 2015 "
+        },
+        {
+          "line": 101,
+          "text": "For most babies and children, the oxygen saturation threshold has been lowered to 90% for admission, management and discharge, but the committee felt that the original threshold of 92% remained appropriate for referral. They agreed with the rationale in the 2015 guideline that this threshold of 92% enabled a safety margin for babies and children whose condition may be deteriorating, because their oxygen saturation level may drop further. Although an oxygen saturation level of less than 92% indicates that a baby or child needs further clinical assessment, the committee did not feel that this criterion alone was enough to justify immediate transfer to hospital (as specified in the 2015 guideline). Oxygen saturation measurement may be less accurate in primary care than in hospital (for example, because paediatric oximeters are often not available in primary care). As a result, the committee removed the oxygen saturation threshold as a criterion that requires immediate referral to hospital and instead included it as a criterion that requires consideration of referral to hospital. They di"
+        },
+        {
+          "line": 102,
+          "text": "Although an oxygen saturation level of less than 92% indicates that a baby or child needs further clinical assessment, the committee did not feel that this criterion alone was enough to justify immediate transfer to hospital (as specified in the 2015 guideline). Oxygen saturation measurement may be less accurate in primary care than in hospital (for example, because paediatric oximeters are often not available in primary care). As a result, the committee removed the oxygen saturation threshold as a criterion that requires immediate referral to hospital and instead included it as a criterion that requires consideration of referral to hospital. They did not think that this change is likely to mean significant changes in practice, because: it is unlikely for a baby or child to have an oxygen saturation level of less than 92% but none of the other criteria for immediate referral, so seriously unwell babies and children will still be immediately referred to hospital the oxygen saturation threshold has been moved to recommendation 1.2.2 and can still be used to justify a referral to hospit"
+        },
+        {
+          "line": 103,
+          "text": "it is unlikely for a baby or child to have an oxygen saturation level of less than 92% but none of the other criteria for immediate referral, so seriously unwell babies and children will still be immediately referred to hospital the oxygen saturation threshold has been moved to recommendation 1.2.2 and can still be used to justify a referral to hospital, based on the clinical judgement of the healthcare professional. Because the oxygen saturation thresholds are now lower for discharge from hospital than they are for referral to hospital, the committee discussed whether this could lead to babies and children being inappropriately referred straight back to hospital after discharge. The committee agreed that the changes to the referral recommendations would avoid this, because the recommendations now put less emphasis on using oxygen saturation level alone as the reason for referral. They also noted that many babies and children would have a post-discharge management plan, which could give guidance on when re-referral would and would not be needed."
+        },
+        {
+          "line": 104,
+          "text": "the oxygen saturation threshold has been moved to recommendation 1.2.2 and can still be used to justify a referral to hospital, based on the clinical judgement of the healthcare professional. Because the oxygen saturation thresholds are now lower for discharge from hospital than they are for referral to hospital, the committee discussed whether this could lead to babies and children being inappropriately referred straight back to hospital after discharge. The committee agreed that the changes to the referral recommendations would avoid this, because the recommendations now put less emphasis on using oxygen saturation level alone as the reason for referral. They also noted that many babies and children would have a post-discharge management plan, which could give guidance on when re-referral would and would not be needed. Full details of the evidence and the committee's discussion are in"
+        },
+        {
+          "line": 106,
+          "text": "Full details of the evidence and the committee's discussion are in evidence review A: criteria for referral, admission, oxygen supplementation and discharge ."
+        }
+      ]
+    },
+    {
+      "key": "rch_cyanotic",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cyanotic_episodes_in_congenital_heart_disease/",
+      "final": "https://www.rch.org.au/clinicalguide/guideline_index/Cyanotic_episodes_in_congenital_heart_disease/",
+      "http": 200,
+      "title": "Clinical Practice Guidelines : Cyanotic episodes in congenital heart disease",
+      "accessed_at": "2026-11-01T16:03:05.118758+00:00",
+      "sha256": "aa0def7665e3eae2771d1582977259f89b211700c3a17dba65dda1298d59ad42",
+      "characters": 5078,
+      "passages": [
+        {
+          "line": 77,
+          "text": "Background Cyanotic episodes in children with  congenital heart disease (also known as hypercyanotic spells, hypoxic spells or  “tet spells”) are acute episodes of cyanosis or exaggerated cyanosis compared  to the child’s baseline. They most often occur in children with Tetralogy of  Fallot and pulmonary atresia Cyanotic episodes are due to an  imbalance between pulmonary and systemic vascular resistance with decreased  pulmonary flow, and increased right to left shunting of blood"
+        },
+        {
+          "line": 82,
+          "text": "Most episodes are self-limiting Assessment History"
+        },
+        {
+          "line": 85,
+          "text": "Known history or evidence of structural  heart disease Severe cyanosis (more than usual) Hyperpnoea"
+        },
+        {
+          "line": 92,
+          "text": "Minimal handling approach with limited and  gentle examination to avoid distressing child Degree of cyanosis compared to baseline  – apply oxygen saturation monitoring Assess hydration and perfusion"
+        },
+        {
+          "line": 99,
+          "text": "Minimal handling approach, child remaining  with parent as much as possible Place child in knee to chest position to  increase systemic vascular resistance Knee to chest position lying supine"
+        },
+        {
+          "line": 100,
+          "text": "Place child in knee to chest position to  increase systemic vascular resistance Knee to chest position lying supine Knee to chest position held upright"
+        },
+        {
+          "line": 101,
+          "text": "Knee to chest position lying supine Knee to chest position held upright Post-episode management"
+        },
+        {
+          "line": 113,
+          "text": "Consider transfer when Child requiring ICU admission or review by Cardiology For emergency advice and  paediatric or neonatal ICU transfers, see"
+        },
+        {
+          "line": 114,
+          "text": "Child requiring ICU admission or review by Cardiology For emergency advice and  paediatric or neonatal ICU transfers, see Retrieval Services"
+        },
+        {
+          "line": 128,
+          "text": "Hypercyanotic episodes in Tetralogy of Fallot. https://www.clinicalguidelines.scot.nhs.uk/nhsggc-guidelines/nhsggc-guidelines/emergency-medicine/hypercyanotic-episodes-in-tetralogy-of-fallot/ (viewed 1 June 2022)"
+        },
+        {
+          "line": 132,
+          "text": "Hypercyanotic spells. https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/Hypercyanotic-spells (viewed 1 June 2022)"
+        }
+      ]
+    },
+    {
+      "key": "qld_tet",
+      "url": "https://www.childrens.health.qld.gov.au/health-a-to-z/cardiac/tet-spells",
+      "final": "https://www.childrens.health.qld.gov.au/health-a-to-z/cardiac/tet-spells",
+      "http": 200,
+      "title": "Tetralogy spells (tet spells) | Children's Health Queensland",
+      "accessed_at": "2026-11-01T16:03:08.519659+00:00",
+      "sha256": "1351e9c86be7b6e303246b181abc8acbaa079e395391b81b8a69820ba71822f6",
+      "characters": 2800,
+      "passages": [
+        {
+          "line": 14,
+          "text": "What causes a tet spell? Tet spells can be spontaneous or triggered by certain events such as prolonged crying and episodes of exertion such as during feeding or even pooing. Illness can also trigger a tet spell. If your baby has a fever and is not hungry or feeding, contact your cardiac care coordinator or GP for advice. What to do if your child is having a tet spell"
+        },
+        {
+          "line": 17,
+          "text": "If you think your baby or child is having a tet spell, try to calm them down to prevent it from getting worse. Place your baby’s knees on their chest (see pictures below which show how to do this). This helps increase blood flow to the lungs. Toddlers and older children may prefer to squat. When to seek help"
+        },
+        {
+          "line": 22,
+          "text": "and ask for an ambulance. If your baby becomes blue, floppy and unresponsive before an ambulance arrives, you should perform CPR. If it’s not an emergency but you have any concerns, contact your GP or call 13 HEALTH (13 43 25 84)"
+        },
+        {
+          "line": 25,
+          "text": "and speak to a registered nurse. If your child is taken to emergency for treatment of a tet spell, tell their cardiac team at your child’s next appointment. Developed by Queensland Paediatric Cardiac Service, Queensland Children's Hospital."
+        }
+      ]
+    },
+    {
+      "key": "rch_unwell_neonate",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Recognition_of_the_seriously_unwell_neonate_and_young_infant/",
+      "final": "https://www.rch.org.au/clinicalguide/guideline_index/Recognition_of_the_seriously_unwell_neonate_and_young_infant/",
+      "http": 200,
+      "title": "Clinical Practice Guidelines : Recognition of the seriously unwell neonate and young infant",
+      "accessed_at": "2026-11-01T16:03:05.663002+00:00",
+      "sha256": "521ab5ce7dc87c87e05911f4285099ae3c4cc0c0a384db090c55fa2ae3b0ec99",
+      "characters": 11305,
+      "passages": [
+        {
+          "line": 82,
+          "text": ") being the most common bacterial infection Fever is not always present. Neonates and young infants can present with a normal or low temperature (<36.5°C) Neonates and young infants at particular risk include"
+        },
+        {
+          "line": 88,
+          "text": "Other causes of an unwell neonate or infant include cardiac, metabolic and surgical causes Assessment History"
+        },
+        {
+          "line": 94,
+          "text": "or increased sleepiness Poor feeding (volume taken in previous 24 hours <50% of normal)"
+        },
+        {
+          "line": 95,
+          "text": "Poor feeding (volume taken in previous 24 hours <50% of normal) Urine output (<4 wet nappies in 24 hours)"
+        },
+        {
+          "line": 99,
+          "text": "bilious Apnoea History of brief resolved unexplained event (BRUE) or seizures"
+        },
+        {
+          "line": 103,
+          "text": "Maternal and perinatal history Antenatal complications: intrauterine growth restriction (IUGR), gestational diabetes, congenital abnormality, maternal infections or sexually-transmitted infections, medication and toxin exposure Birth history: prematurity, maternal Group B strep (GBS) colonisation, perinatal stress, prolonged rupture of membranes, maternal fever, Apgars and resuscitation requirements, history of postnatal investigations and antibiotics, vitamin K after birth"
+        },
+        {
+          "line": 116,
+          "text": "acute upper airway obstruction Anatomical abnormality, anticipated airway difficulty Breathing"
+        },
+        {
+          "line": 122,
+          "text": "Hypoxia Apnoea Any chest deformity"
+        },
+        {
+          "line": 123,
+          "text": "Apnoea Any chest deformity Circulation"
+        },
+        {
+          "line": 126,
+          "text": "Colour: pallor, mottling, cyanosis Tachycardia or bradycardia"
+        },
+        {
+          "line": 134,
+          "text": "Lethargy or decreased activity Poor feeding Irritability"
+        },
+        {
+          "line": 136,
+          "text": "Irritability Not responding normally to social cues Difficult to wake"
+        },
+        {
+          "line": 140,
+          "text": "Reduced tone Abnormal movements Focal neurological signs"
+        },
+        {
+          "line": 157,
+          "text": "Glucose Apnoea Jitteriness"
+        },
+        {
+          "line": 174,
+          "text": "UTI/pyelonephritis Fever vomiting, poor feeding Bacteraemia/sepsis"
+        },
+        {
+          "line": 189,
+          "text": "Skin vesicles (not present in 1/3 of neonates and can be afebrile), seizures or encephalopathy Influenza and other respiratory viruses Fever, poor feeding, lethargic, nasal congestion"
+        },
+        {
+          "line": 190,
+          "text": "Influenza and other respiratory viruses Fever, poor feeding, lethargic, nasal congestion Enterovirus or parechovirus"
+        },
+        {
+          "line": 192,
+          "text": "Enterovirus or parechovirus Fever, rash, poor feeding, irritable, possible seizures, persistent or marked tachycardia (myocardial involvement) Surgical"
+        },
+        {
+          "line": 205,
+          "text": "Intussusception Intermittent severe abdominal pain, vomiting, pallor, lethargy and rectal bleeding (red currant stool, a late sign) Cardiac"
+        },
+        {
+          "line": 208,
+          "text": "Congenital cardiac disease Cyanosis, murmur (not always present), diaphoresis (sweating) with feeding, cardiac failure (tachypnoea, enlarged liver, hypoperfusion), poor or absent peripheral pulses Supraventricular tachycardia ("
+        },
+        {
+          "line": 212,
+          "text": ") and other arrhythmias Persistent marked tachycardia, pallor, poor feeding Respiratory"
+        },
+        {
+          "line": 213,
+          "text": "Persistent marked tachycardia, pallor, poor feeding Respiratory Meconium aspiration"
+        },
+        {
+          "line": 215,
+          "text": "Meconium aspiration Meconium-stained liquor, tachypnoea, increased work of breathing, cyanosis Transient tachypnoea of the newborn (TTN) and respiratory distress syndrome"
+        },
+        {
+          "line": 216,
+          "text": "Meconium-stained liquor, tachypnoea, increased work of breathing, cyanosis Transient tachypnoea of the newborn (TTN) and respiratory distress syndrome Tachypnoea, increased WOB, possible cyanosis, radiological findings"
+        },
+        {
+          "line": 217,
+          "text": "Transient tachypnoea of the newborn (TTN) and respiratory distress syndrome Tachypnoea, increased WOB, possible cyanosis, radiological findings Pneumothorax"
+        }
+      ]
+    },
+    {
+      "key": "cdc_screen",
+      "url": "https://www.cdc.gov/heart-defects/hcp/screening/",
+      "final": "https://www.cdc.gov/heart-defects/hcp/screening/",
+      "http": 200,
+      "title": "Clinical Screening and Diagnosis for Critical Congenital Heart Defects | Congenital Heart Defects (CHDs) | CDC",
+      "accessed_at": "2026-11-01T16:03:06.054098+00:00",
+      "sha256": "3407e0290c4f88e55e577e549f2da67973fae4cbdd7b8eb9a2a08ae551b505e7",
+      "characters": 9720,
+      "passages": [
+        {
+          "line": 1,
+          "text": "Clinical Screening and Diagnosis for Critical Congenital Heart Defects | Congenital Heart Defects (CHDs) | CDC Skip directly to site content"
+        },
+        {
+          "line": 17,
+          "text": "means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Clinical Screening and Diagnosis for Critical Congenital Heart Defects For Health Care Providers"
+        },
+        {
+          "line": 21,
+          "text": "Key points Screening for critical congenital heart defects (CCHDs) can help identify some babies with a CCHD before they go home from the birth hospital. Screening allows babies to be treated early and may prevent disability or death early in life."
+        },
+        {
+          "line": 22,
+          "text": "Screening for critical congenital heart defects (CCHDs) can help identify some babies with a CCHD before they go home from the birth hospital. Screening allows babies to be treated early and may prevent disability or death early in life. Importance of screening"
+        },
+        {
+          "line": 23,
+          "text": "Screening allows babies to be treated early and may prevent disability or death early in life. Importance of screening Newborn screening may identify critical congenital heart defects (CCHDs) before signs are evident. Identifying newborns with these conditions before hospital discharge can help ensure they receive prompt care and treatment. Timely care may prevent disability or death early in life."
+        },
+        {
+          "line": 24,
+          "text": "Importance of screening Newborn screening may identify critical congenital heart defects (CCHDs) before signs are evident. Identifying newborns with these conditions before hospital discharge can help ensure they receive prompt care and treatment. Timely care may prevent disability or death early in life. Screening has prevented early infant death"
+        },
+        {
+          "line": 25,
+          "text": "Newborn screening may identify critical congenital heart defects (CCHDs) before signs are evident. Identifying newborns with these conditions before hospital discharge can help ensure they receive prompt care and treatment. Timely care may prevent disability or death early in life. Screening has prevented early infant death Mandated CCHD screening using pulse oximetry reduces early infant deaths from CCHD by 33%, or 120 early infant deaths from CCHD averted per year."
+        },
+        {
+          "line": 26,
+          "text": "Screening has prevented early infant death Mandated CCHD screening using pulse oximetry reduces early infant deaths from CCHD by 33%, or 120 early infant deaths from CCHD averted per year. Screening guidelines"
+        },
+        {
+          "line": 27,
+          "text": "Mandated CCHD screening using pulse oximetry reduces early infant deaths from CCHD by 33%, or 120 early infant deaths from CCHD averted per year. Screening guidelines Current recommendations focus on screening healthy-appearing newborns in:"
+        },
+        {
+          "line": 28,
+          "text": "Screening guidelines Current recommendations focus on screening healthy-appearing newborns in: Newborn nurseries"
+        },
+        {
+          "line": 31,
+          "text": "Neonatal intensive care unit (NICU) or other settings after the child has been weaned off supplemental oxygen Screening is done when a baby is at least 24 hours of age or as late as possible if the baby is to be discharged before 24 hours of age. Timing the screening around the time of the newborn hearing screening can help improve efficiency. A pulse oximeter is used to measure the percentage of hemoglobin in the blood that is saturated with oxygen. The following is the recommended algorithm for newborn screening for critical congenital heart disease using pulse oximetry ("
+        },
+        {
+          "line": 32,
+          "text": "Screening is done when a baby is at least 24 hours of age or as late as possible if the baby is to be discharged before 24 hours of age. Timing the screening around the time of the newborn hearing screening can help improve efficiency. A pulse oximeter is used to measure the percentage of hemoglobin in the blood that is saturated with oxygen. The following is the recommended algorithm for newborn screening for critical congenital heart disease using pulse oximetry ( Oster et al., 2025"
+        },
+        {
+          "line": 37,
+          "text": "Download NOTE: Percentages refer to O2 saturation as measured by pulse oximeter Pulse oximetry screening should not replace taking a complete family health history, pregnancy history, or physical examination. These exams may detect CCHDs before the development of low oxygen levels (hypoxemia) in the blood. Screening with pulse oximetry identifies several types of CCHDs, the most common are below."
+        },
+        {
+          "line": 38,
+          "text": "NOTE: Percentages refer to O2 saturation as measured by pulse oximeter Pulse oximetry screening should not replace taking a complete family health history, pregnancy history, or physical examination. These exams may detect CCHDs before the development of low oxygen levels (hypoxemia) in the blood. Screening with pulse oximetry identifies several types of CCHDs, the most common are below. Screening targets"
+        },
+        {
+          "line": 39,
+          "text": "Pulse oximetry screening should not replace taking a complete family health history, pregnancy history, or physical examination. These exams may detect CCHDs before the development of low oxygen levels (hypoxemia) in the blood. Screening with pulse oximetry identifies several types of CCHDs, the most common are below. Screening targets Screening with pulse oximetry can identify a number of types of CCHDs, the most common of which are shown below. While not the main targets of screening, many conditions other than CCHDs may present with hypoxemia.  As a result, such conditions may also be detected via pulse oximetry."
+        },
+        {
+          "line": 40,
+          "text": "Screening targets Screening with pulse oximetry can identify a number of types of CCHDs, the most common of which are shown below. While not the main targets of screening, many conditions other than CCHDs may present with hypoxemia.  As a result, such conditions may also be detected via pulse oximetry. Critical Congenital Heart Defects"
+        },
+        {
+          "line": 65,
+          "text": "Other hypoxic conditions not otherwise specified Screening outcomes Failed screens"
+        },
+        {
+          "line": 72,
+          "text": "2 ) saturation measure is <90% in either the right hand or foot (initial screen/repeat screen) O"
+        },
+        {
+          "line": 75,
+          "text": "2 saturation is <95% in  either the right hand or foot on 2 measures* A >3% difference in O"
+        },
+        {
+          "line": 78,
+          "text": "2 saturation between the right hand and foot on 2 measures* *Each separated by one hour"
+        },
+        {
+          "line": 80,
+          "text": "*Each separated by one hour Any infant who fails the screen should have an evaluation for causes of hypoxemia. In most cases this will include an echocardiogram. If a reversible cause of hypoxemia is identified and appropriately treated, an echocardiogram may not be necessary. The infant's pediatrician should be notified immediately and the infant might need to be seen by a cardiologist. Passed screens"
+        },
+        {
+          "line": 82,
+          "text": "Passed screens A screen is considered passed when there is an oxygen saturation measure that is: ≥95% in"
+        },
+        {
+          "line": 87,
+          "text": "≤3% absolute difference between the right hand and foot When the above conditions are met, screening would end. Pulse oximetry screening does not detect all CCHDs.  Therefore, it is possible for a baby with a passing screening result to still have a CCHD or other congenital heart defect. Ways to reduce false positive screens"
+        },
+        {
+          "line": 96,
+          "text": "Online resources American Academy of Pediatrics: Newborn Screening for Critical Congenital Heart Defect (CCHD) . This online resource provides medical staff with comprehensive instructions on how to perform newborn screening for CCHD."
+        },
+        {
+          "line": 97,
+          "text": "American Academy of Pediatrics: Newborn Screening for Critical Congenital Heart Defect (CCHD) . This online resource provides medical staff with comprehensive instructions on how to perform newborn screening for CCHD. Children's National Medical Center's Congenital Heart Disease Screening Program has created"
+        }
+      ]
+    },
+    {
+      "key": "sbp_failure",
+      "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/",
+      "final": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/",
+      "http": 200,
+      "title": "Insuficiência Cardíaca - Sociedade Brasileira de Pediatria",
+      "accessed_at": "2026-11-01T16:03:07.331864+00:00",
+      "sha256": "1b02e303d77f200d3c7933150745a94e2bd4192511c758f9dd8a768935e9a05d",
+      "characters": 4508,
+      "passages": [
+        {
+          "line": 1,
+          "text": "Insuficiência Cardíaca - Sociedade Brasileira de Pediatria Voltar ao Portal SBP"
+        },
+        {
+          "line": 6,
+          "text": "OK Insuficiência Cardíaca Publicado/atualizado: junho/2023"
+        },
+        {
+          "line": 9,
+          "text": "Departamento Científico de Cardiologia O que é Insuficiência cardíaca (IC)? Insuficiência cardíaca (IC) pode ser definida como aquela situação em que o coração não está sendo capaz de bombear e distribuir adequadamente a quantidade de sangue e de oxigênio necessários para o funcionamento dos órgãos do corpo."
+        },
+        {
+          "line": 10,
+          "text": "O que é Insuficiência cardíaca (IC)? Insuficiência cardíaca (IC) pode ser definida como aquela situação em que o coração não está sendo capaz de bombear e distribuir adequadamente a quantidade de sangue e de oxigênio necessários para o funcionamento dos órgãos do corpo. Quase são as principais causas de IC na criança?"
+        },
+        {
+          "line": 12,
+          "text": "Quase são as principais causas de IC na criança? As cardiopatias congênitas são a principal causa na criança. Essas cardiopatias são defeitos que ocorrem na estrutura do coração da criança desde a sua formação inicial, ainda na vida fetal. Comunicação interventricular (CIV), persistência do canal arterial (PCA), defeito do septo atrioventricular, coarctação de aorta são exemplos de cardiopatias congênitas que podem causar insuficiência cardíaca na criança. Doenças que acometem o musculo cardíaco (miocárdio), tais como miocardite aguda (inflamação aguda do miocárdio) e miocardiopatia dilatada, também podem acarretar IC na criança. Além disso, doenças das valvas cardíacas decorrentes de febre reumática ainda são causa comum de IC em nosso meio."
+        }
+      ]
+    },
+    {
+      "key": "aha_failure",
+      "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects",
+      "final": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects",
+      "http": 200,
+      "title": "Heart Failure and Congenital Heart Disease | American Heart Association",
+      "accessed_at": "2026-11-01T16:03:06.975435+00:00",
+      "sha256": "d053627f6f46ce9e27d62532c050cc574f775bcef035ba4c182c983e2362ee85",
+      "characters": 1971,
+      "passages": [
+        {
+          "line": 18,
+          "text": "(CHD) and heart failure may experience fatigue. They may have difficulty keeping up with peers during physical activity. Infants with CHD and heart failure usually show symptoms during feeding. These include sweating, fast breathing (tachypnea) and fatigue. These infants may also have poor weight gain. To help the body remove extra fluid, a moderate low-sodium diet may be recommended. Medication options include:"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sort.nhs.uk/Media/SONeT/Guidelines/Cardiac/Duct%20dependent%20congenital%20heart%20disease.pdf",
+      "title": "Southampton Oxford Neonatal Transport Guideline — Duct dependent congenital heart disease",
+      "accessed_at": "2026-11-01T16:06:18.824281+00:00",
+      "version": "SONeT v2 July2024; review October2027",
+      "sha256": "fb553e0156747b1980abe5243588ca18e877ccd9c37bb97df975695d71fc2da8"
+    },
+    {
+      "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+      "title": "SAMU192 — Ministério da Saúde",
+      "accessed_at": "2026-11-01T16:06:18.824281+00:00",
+      "version": "Página vigente; data editorial não localizada",
+      "sha256": "1aa2b0ad84365890026b497f75a90d2b8507ccfae15809c1e6e47be49d1acac8"
+    }
+  ]
+}

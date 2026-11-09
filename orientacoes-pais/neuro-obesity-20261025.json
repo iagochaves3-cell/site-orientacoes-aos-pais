@@ -1,0 +1,25 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-25T04:00:00.000Z",
+  "baseline_version": 117,
+  "baseline_commit": "2eb61031bd87e0247a69666a63797d2cddb14c00",
+  "records": [
+    {"key":"pdf1500_988","label":"Neuroblastoma retroperitoneal","specific":true,"clinical_entity":"Neuroblastoma originado no retroperitônio","term_resolution":false},
+    {"key":"pdf1500_989","label":"Neurofibromatose tipo 1","specific":true,"clinical_entity":"Neurofibromatose tipo 1 (NF1)","term_resolution":false},
+    {"key":"pdf1500_990","label":"Neutropenia congênita grave","specific":true,"clinical_entity":"Neutropenia congênita grave","term_resolution":false},
+    {"key":"pdf1500_991","label":"Obesidade infantojuvenil","specific":true,"clinical_entity":"Obesidade na infância ou adolescência","term_resolution":false},
+    {"key":"pdf1500_992","label":"Obesidade infantojuvenil agudo","specific":false,"clinical_entity":"Obesidade; agudo inadequado","term_resolution":true},
+    {"key":"pdf1500_993","label":"Obesidade infantojuvenil bilateral","specific":false,"clinical_entity":"Obesidade; bilateralidade inaplicável","term_resolution":true},
+    {"key":"pdf1500_994","label":"Obesidade infantojuvenil crônico","specific":false,"clinical_entity":"Obesidade; crônico redundante","term_resolution":true},
+    {"key":"pdf1500_995","label":"Obesidade infantojuvenil de origem infecciosa","specific":false,"clinical_entity":"Obesidade; etiologia não estabelecida","term_resolution":true},
+    {"key":"pdf1500_996","label":"Obesidade infantojuvenil grave","specific":false,"clinical_entity":"Obesidade; gravidade requer medidas","term_resolution":true},
+    {"key":"pdf1500_997","label":"Obesidade infantojuvenil idiopático","specific":false,"clinical_entity":"Obesidade; etiologia não definida","term_resolution":true},
+    {"key":"pdf1500_998","label":"Obesidade infantojuvenil induzido por medicamentos","specific":false,"clinical_entity":"Obesidade possivelmente associada a medicamento","term_resolution":true},
+    {"key":"pdf1500_999","label":"Obesidade infantojuvenil leve","specific":false,"clinical_entity":"Obesidade; leve sem critério","term_resolution":true},
+    {"key":"pdf1500_1000","label":"Obesidade infantojuvenil moderado","specific":false,"clinical_entity":"Obesidade; moderado sem critério","term_resolution":true},
+    {"key":"pdf1500_1001","label":"Obesidade infantojuvenil não especificado","specific":false,"clinical_entity":"Obesidade não especificada","term_resolution":true},
+    {"key":"pdf1500_1002","label":"Obesidade infantojuvenil recorrente","specific":false,"clinical_entity":"Obesidade; recorrência não definida","term_resolution":true},
+    {"key":"pdf1500_1003","label":"Obesidade infantojuvenil refratário","specific":false,"clinical_entity":"Obesidade; resposta insuficiente não caracterizada","term_resolution":true},
+    {"key":"pdf1500_1004","label":"Obesidade infantojuvenil unilateral","specific":false,"clinical_entity":"Obesidade; unilateralidade inaplicável","term_resolution":true}
+  ]
+}

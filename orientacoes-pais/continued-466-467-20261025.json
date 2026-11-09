@@ -1,0 +1,137 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T15:24:17.236Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_e91d375930ebf23f",
+      "label": "Amputação traumática de dedo — registro no PPS",
+      "entity": "Amputação traumática de dedo",
+      "assessment": "{\"classification\":\"VALID_EMERGENCY_ENTITY\",\"normalized_entity\":\"Amputação traumática de dedo\",\"canonical_key\":\"pps_catalog_e91d375930ebf23f\",\"assessment\":\"Perda traumática parcial ou total de dedo/segmento; ambas exigem avaliação imediata. Preservar segmento sem comprometer socorro à criança.\",\"clinical_scope\":\"Primeiros socorros e encaminhamento emergencial; não alta domiciliar.\",\"not_automatically_equivalent_to\":[\"Corte superficial\",\"Somente lesão de unha\"],\"counting_rule\":\"Uma entidade; aliases aguda/complicada/refratária/grave/crítica não criam doenças.\",\"pediatric_scope\":\"Todas as idades com trauma; cuidado maior em lactentes.\",\"reason_for_source_term_issue\":null,\"next_action\":\"Revisão sequencial e QA pelo coordenador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Amputação parcial ou completa é urgência: vá imediatamente ao pronto atendimento. Estes passos são apenas primeiros socorros enquanto chega ajuda.",
+          "Afaste o perigo com segurança. Mantenha a criança acompanhada e aquecida; informe horário e mecanismo do acidente. Não atrase o transporte procurando o segmento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Pressione o local que sangra com gaze ou pano limpo, sem esmagar tecido ainda preso. Se houver objeto encravado, não retire; pressione ao redor. Sangramento importante: SAMU 192.",
+          "Se ainda houver ligação com o dedo, não corte, torça nem tente encaixar. Cubra e apoie a mão evitando movimentos; não aperte com elástico ou barbante.",
+          "Leve toda parte separada: envolva em gaze limpa levemente umedecida com soro fisiológico, coloque em saco bem fechado e depois em recipiente resfriado com gelo. O tecido não deve tocar gelo ou ficar mergulhado em água. Não congele nem use gelo seco. Identifique com nome e horário."
+        ],
+        "MEDICAMENTOS": [
+          "Não aplique álcool, pomada, pó ou cola na lesão nem no segmento. A equipe cuidará da dor, limpeza, vacinação antitetânica e eventual antibiótico.",
+          "Não atrase o atendimento para dar remédio. Informe alergias, medicamentos usados e vacinação; esta ficha não prescreve dose."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Pode ser necessário procedimento com anestesia. Informe a última alimentação e peça orientação ao socorro sobre comida e bebida; não atrase atendimento para cumprir jejum.",
+          "Se houver sonolência, desmaio ou dificuldade respiratória, não ofereça nada por boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento agora mesmo que o sangramento diminua ou a parte pareça pequena. Dedo parcialmente preso também é emergência.",
+          "Acione 192 se o sangue não parar com pressão, houver palidez intensa, suor frio, desmaio ou alteração de consciência. Continue pressão e siga instruções do socorro."
+        ],
+        "QUANDO REAVALIAR": [
+          "A primeira avaliação é imediata. A equipe de cirurgia da mão decide reparo e possibilidade de reimplante; não descarte o segmento por achar que não servirá.",
+          "Só a equipe que tratou a lesão define alta, curativo, retorno e reabilitação. Esta orientação não autoriza observação domiciliar."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Bebê com trauma precisa de emergência; proteger e aquecer sem atrasar socorro.",
+        "3a5m": "Cuidador deve manter curativo e apoio sem compressão excessiva.",
+        "6a11m": "Não permitir que leve lesão ou curativo à boca; supervisão contínua até atendimento.",
+        "1a": "Acalmar e proteger a mão sem forçar o dedo; avaliação imediata.",
+        "2a5": "Acidentes em portas podem lesar estruturas profundas; não avaliar gravidade só pela aparência.",
+        "6a11": "Levar segmento protegido com a criança; não delegar a ela os primeiros socorros.",
+        "12a17": "Não dirigir ou ir sozinho se ferido; informe mecanismo, horário e outras lesões.",
+        "unknown": "Confirmar idade e mecanismo no atendimento; isso não muda a urgência."
+      },
+      "refs": [
+        {
+          "id": "pais163_op466_1",
+          "name": "Fingertip and nail injuries – Emergency Department",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/fractures/Fingertip_and_nail_injuries_%E2%80%93_Emergency_Department/"
+        },
+        {
+          "id": "pais163_op466_2",
+          "name": "Fingertip Injuries and Amputations",
+          "url": "https://www.orthoinfo.org/diseases--conditions/fingertip-injuries-and-amputations/"
+        },
+        {
+          "id": "pais163_op466_3",
+          "name": "Severe Bleeding First Aid",
+          "url": "https://www.sja.org.uk/first-aid-advice/severe-bleeding/"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_578dfa8e643a519e",
+      "label": "Anafilaxia induzida por exercício — registro no PPS",
+      "entity": "Anafilaxia induzida por exercício",
+      "assessment": "{\"classification\":\"VALID_EMERGENCY_ENTITY\",\"normalized_entity\":\"Anafilaxia induzida por exercício\",\"canonical_key\":\"pps_catalog_578dfa8e643a519e\",\"assessment\":\"Anafilaxia durante ou após atividade, com ou sem cofatores. Forma dependente de alimento não equivale a toda anafilaxia por exercício. Piora de alergia comum com esforço também não confirma esta síndrome.\",\"clinical_scope\":\"Primeiros socorros e encaminhamento emergencial; não alta domiciliar.\",\"not_automatically_equivalent_to\":[\"Asma de esforço\",\"Urticária colinérgica isolada\",\"Alergia universal ao trigo\",\"Desmaio de qualquer causa\"],\"counting_rule\":\"Uma entidade; aliases aguda/complicada/refratária/grave/crítica não criam doenças.\",\"pediatric_scope\":\"Mais plausível em crianças capazes de atividade e adolescentes; não atribuir sintomas em lactentes ao exercício sem investigação.\",\"reason_for_source_term_issue\":null,\"next_action\":\"Revisão sequencial e QA pelo coordenador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Suspeita de anafilaxia durante ou após exercício é emergência, não motivo para observar em casa. Pare a atividade e peça ajuda.",
+          "Após tratamento hospitalar, registre exercício, alimentos, medicamentos e condições ao redor do episódio. Não tente repetir a combinação para confirmar a causa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não continue o treino nem caminhe até o socorro. Deite; se respirar melhor sentado, mantenha pernas estendidas. Se vomitar, vire de lado.",
+          "O retorno ao esporte depende de plano do alergista. Quando liberado, pratique acompanhado de alguém treinado, com telefone, identificação e resgate acessíveis. Atividade leve também pode desencadear reação."
+        ],
+        "MEDICAMENTOS": [
+          "Com sinais de anafilaxia, use imediatamente o dispositivo de adrenalina prescrito conforme treinamento e plano e acione SAMU 192. Sem dispositivo, chame ajuda imediatamente; não improvise dose.",
+          "Antialérgico ou bombinha não substitui adrenalina. Não use remédio preventivo para tentar completar o exercício apesar dos sintomas.",
+          "Revise com o alergista os medicamentos, especialmente anti-inflamatórios, e outros cofatores; não suspenda tratamento essencial sem orientação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não retire trigo, glúten ou vários alimentos por conta própria. A investigação define se existe alimento associado e quais intervalos ou restrições são necessários. Não use jejum como garantia de proteção.",
+          "Não teste alimento suspeito antes ou depois do treino. Calor, álcool e medicamentos podem alterar o risco; siga o plano individual.",
+          "Durante reação grave, dificuldade para engolir ou alteração de consciência, não dê comida, bebida ou remédios por boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Falta de ar, tosse persistente súbita, chiado, voz rouca, língua/garganta inchada, tontura persistente ou desmaio exigem adrenalina conforme plano e 192, mesmo sem urticária.",
+          "Dor abdominal forte ou vômitos repetidos com outros sinais de reação também exigem emergência. Não atribua o quadro apenas ao cansaço ou calor.",
+          "Após adrenalina ou suspeita de anafilaxia, avaliação e observação hospitalar são necessárias mesmo se melhorar."
+        ],
+        "QUANDO REAVALIAR": [
+          "A crise exige atendimento agora. Antes de voltar a exercitar-se, obtenha avaliação e plano específico; não faça provocação em casa.",
+          "Depois da alta hospitalar, revise gatilhos, acesso/técnica do resgate e plano escolar/esportivo com alergista. Não há intervalo universal seguro entre comida e exercício para todos."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Exercício não é explicação habitual nessa idade; reação sistêmica exige emergência e investigação de outras causas.",
+        "3a5m": "Palidez, corpo mole ou respiração alterada são sinais graves; não presumir causa pelo choro.",
+        "6a11m": "Investigação especializada antes de associar quadro a movimento ou alimentação.",
+        "1a": "Atividade cotidiana não confirma diagnóstico; observar sintomas e buscar emergência se sistêmicos.",
+        "2a5": "Adultos devem reconhecer sintomas e interromper brincadeira; não provocar crise para testar.",
+        "6a11": "Escola e educação física precisam de plano de emergência e acesso ao resgate prescrito.",
+        "12a17": "Não minimizar sintomas em competição; combinar acompanhante e revisar cofatores sem dieta arbitrária.",
+        "unknown": "Confirmar idade, atividade, exposição e sintomas; urgência segue sinais clínicos."
+      },
+      "refs": [
+        {
+          "id": "pais163_op467_1",
+          "name": "Wheat Dependent Exercise Induced Anaphylaxis",
+          "url": "https://www.allergy.org.au/patients/food-allergy/wheat-dependant-exercise-induced-anaphylaxis"
+        },
+        {
+          "id": "pais163_op467_2",
+          "name": "Exercise-induced anaphylaxis",
+          "url": "https://allergyfacts.org.au/__interest/exercise-induced-anaphylaxis/"
+        },
+        {
+          "id": "pais163_op467_3",
+          "name": "Anaphylaxis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaphylaxis/"
+        },
+        {
+          "id": "pais163_op467_4",
+          "name": "Acute Management of Anaphylaxis",
+          "url": "https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

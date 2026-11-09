@@ -1,0 +1,72 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T19:03:01.622Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_54ddb8808a14d353",
+      "label": "Cerume impactado — registro no PPS",
+      "entity": "Cerume impactado",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Acúmulo que obstrui canal ou dificulta avaliação; cera visível normal não basta para diagnosticar impactação. Confirmar por exame, sem presumir toda perda auditiva como cerume.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A cera protege o ouvido e normalmente sai sozinha. Acúmulo impactado pode abafar a audição ou causar sensação de ouvido tampado, mas precisa ser confirmado por exame.",
+          "Não tente retirar cera profunda em casa. Dor, secreção ou perda de audição podem ter outra causa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Limpe somente a parte externa com pano macio e úmido, sem entrar no canal. Não use cotonete, pinça, grampo, câmera raspadora ou vela auricular.",
+          "Não faça lavagem com seringa ou jato sem orientação profissional. Pode machucar, sobretudo se houver tubo de ventilação ou perfuração.",
+          "Enquanto aguarda avaliação, fale de frente para a criança e reduza ruído ao redor; não atribua dificuldade de ouvir à desatenção."
+        ],
+        "MEDICAMENTOS": [
+          "Gotas para amolecer a cera só devem ser usadas após orientação para esta criança. Informe tubos no ouvido, perfuração, cirurgia anterior, dor ou secreção antes de usar qualquer produto.",
+          "Não coloque misturas caseiras, álcool ou água oxigenada por conta própria. Se gotas prescritas provocarem dor ou tontura, interrompa e contate a equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais para a idade. Não há indicação de dieta ou suplemento nesta ficha para remover cerume."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Perda súbita de audição ou piora rápida exige avaliação urgente; não espere dias tentando remover cera.",
+          "Dor ou sangramento após introduzir objeto, dor forte após lavagem, grande desequilíbrio para andar ou criança muito abatida exigem atendimento imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação se houver dor persistente, secreção, dificuldade de ouvir ou incômodo em bebê que puxa a orelha. Perda auditiva com dor ou secreção precisa de atendimento urgente.",
+          "Depois de remover o cerume, se a audição não voltar ao habitual, retorne para investigar outras causas. Combine seguimento se os episódios se repetem, sem limpeza interna preventiva por conta própria."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não use gotas nem lavagem por conta própria. Febre, recusa de mamadas ou prostração em bebê pequeno exige avaliação.",
+        "3a5m": "Confirme a causa do desconforto; puxar a orelha não prova cerume impactado.",
+        "6a11m": "Mantenha cotonetes, pequenos objetos e frascos fora do alcance; não force imobilização para limpar por dentro.",
+        "1a": "Se não tolera o exame ou a remoção, deixe que a equipe escolha a abordagem; não use força em casa.",
+        "2a5": "Antes de seis anos, gotas ou lavagens só com orientação específica do profissional.",
+        "6a11": "Combine comunicação na escola enquanto a audição está alterada; não use objetos para tentar desentupir.",
+        "12a17": "Evite ferramentas com câmera e cotonetes no canal; relate uso de fones, dor, zumbido e dificuldade de ouvir.",
+        "unknown": "Confirme idade, exame do ouvido, tubos/perfuração e cirurgia anterior antes de qualquer produto."
+      },
+      "refs": [
+        {
+          "id": "pais208_op601_1",
+          "name": "Earwax Buildup",
+          "url": "https://www.healthychildren.org/English/tips-tools/symptom-checker/Pages/symptomviewer.aspx?symptom=Earwax+Buildup"
+        },
+        {
+          "id": "pais208_op601_2",
+          "name": "How Do I Safely Clean My Child’s Ears?",
+          "url": "https://www.connecticutchildrens.org/growing-healthy/how-do-i-safely-clean-my-childs-ears"
+        },
+        {
+          "id": "pais208_op601_3",
+          "name": "The No.1 rule about cleaning out earwax",
+          "url": "https://www.childrensmercy.org/parent-ish/2022/04/earwax/"
+        },
+        {
+          "id": "pais208_op601_4",
+          "name": "Hearing loss",
+          "url": "https://www.nhs.uk/conditions/hearing-loss/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

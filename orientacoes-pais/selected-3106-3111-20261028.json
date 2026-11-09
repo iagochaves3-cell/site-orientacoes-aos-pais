@@ -1,0 +1,627 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T16:52:18.863Z",
+  "records": [
+    {
+      "jobId": "OP-3106",
+      "specific": true,
+      "key": "pps_catalog_cb6639dcb150022d",
+      "label": "Campilobacteriose — registro no PPS",
+      "entity": "Campilobacteriose pediátrica: gastroenterite bacteriana causada por Campylobacter, geralmente adquirida por alimento ou água contaminados ou contato com fezes de animais, que pode provocar diarreia inclusive com sangue, febre e dor abdominal; não equivale automaticamente a qualquer gastroenterite, disenteria, intoxicação alimentar, sepse, síndrome de Guillain-Barré ou indicação de antimicrobiano",
+      "assessment": "{\"classification\":\"VALID_SPECIFIC_BACTERIAL_ENTERIC_INFECTION\",\"normalized_entity\":\"Campilobacteriose pediátrica (enterite por Campylobacter)\",\"assessment\":\"O termo é uma entidade infecciosa válida e etiologicamente específica. A apresentação típica inclui diarreia que pode ser sanguinolenta, febre e cólica/dor abdominal, às vezes náusea ou vômito, em geral iniciando 2 a 5 dias após a exposição. A maioria dos casos é autolimitada e melhora em cerca de uma semana, mas lactentes, crianças desidratadas, imunocomprometidas ou com doença grave exigem avaliação mais precoce. Sangue nas fezes descreve disenteria/inflamação e não confirma Campylobacter sem avaliação; bacteremia/sepse, síndrome de Guillain-Barré, artrite reativa e síndrome do intestino irritável são complicações possíveis, não sinônimos nem desfechos inevitáveis. O rótulo não autoriza antimicrobiano, antidiarreico, probiótico, exame ou dose automática.\",\"not_automatically_equivalent_to\":[\"Gastroenterite ou doença diarreica aguda de causa não definida\",\"Disenteria por Shigella, Salmonella, E. coli ou outra causa\",\"Intoxicação alimentar por toxina pré-formada\",\"Apendicite, doença inflamatória intestinal ou outra causa de dor abdominal/sangramento\",\"Bacteremia, sepse ou infecção extraintestinal por Campylobacter\",\"Síndrome de Guillain-Barré, artrite reativa ou síndrome do intestino irritável pós-infecciosa\",\"Indicação automática de antibiótico, antidiarreico, probiótico, cultura, PCR ou internação\"],\"pediatric_scope\":\"Aplica-se a crianças e adolescentes com diagnóstico clínico/laboratorial de campilobacteriose ou forte suspeita após avaliação. Menores de 1 ano, sobretudo abaixo de 6 meses, desidratam mais rapidamente. Recém-nascido ou lactente pequeno com febre, sangue nas fezes, má aceitação ou prostração deve ser avaliado imediatamente. Imunossupressão, doença intestinal, renal, cardíaca ou metabólica, viagem recente, surto e exposição a água/alimento/animal contaminado reduzem o limiar para avaliação.\",\"counting_rule\":\"Contar este ID como uma orientação específica para campilobacteriose somente após integração, testes e publicação. Não contar gastroenterite genérica, disenteria, sepse, Guillain-Barré, artrite reativa ou outras causas de diarreia como entidades cobertas. O sufixo administrativo ‘registro no PPS’ não cria entidade adicional.\",\"critical_context_to_confirm\":[\"Idade, duração e número de evacuações/vômitos, presença e quantidade de sangue ou muco\",\"Capacidade de beber/mamar, diurese, lágrimas, boca seca, sede, estado mental, cor e perfusão\",\"Febre medida, dor abdominal localizada/intensa, distensão, vômito verde ou piora rápida\",\"Imunossupressão, doença crônica relevante, gestação, viagem recente, surto ou internação\",\"Consumo de ave malcozida, leite não pasteurizado, água não tratada e contato com fezes de cães, gatos ou animais de fazenda\",\"Fraqueza, formigamento, dificuldade para andar/respirar e dor ou inchaço articular após a diarreia\",\"Medicamentos já usados e antimicrobiano prescrito especificamente após avaliação\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Campilobacteriose é uma infecção intestinal bacteriana. Pode causar diarreia aquosa ou com sangue, febre e cólica/dor abdominal, às vezes náusea ou vômito. Os sintomas costumam começar 2 a 5 dias após a exposição e, na maioria dos casos, melhoram em cerca de uma semana, mas isso não substitui reavaliação se houver sangue, desidratação ou piora.",
+          "Observe disposição, sede, boca, lágrimas, olhos, cor da pele, frequência das evacuações e vômitos, capacidade de beber/mamar e quantidade de urina ou fraldas molhadas. Crianças pequenas podem desidratar rapidamente.",
+          "Lave as mãos com água e sabão após usar o banheiro, trocar fraldas, limpar fezes e tocar em animais, e antes de preparar ou servir alimentos. Álcool em gel não substitui a lavagem quando as mãos estiverem sujas com fezes.",
+          "Não prepare comida para outras pessoas enquanto estiver com diarreia. Separe carnes cruas de alimentos prontos, lave utensílios e superfícies após contato com ave crua, cozinhe bem carnes, use água tratada e ofereça apenas leite e derivados pasteurizados.",
+          "Mantenha a criança fora da creche/escola enquanto houver diarreia ou vômito. Como regra de segurança para gastroenterite, o retorno deve ocorrer somente após pelo menos 48 horas sem esses sintomas e quando conseguir participar das atividades; siga exigências locais ou da vigilância em surtos.",
+          "Procure orientação de saúde pública se houver vários doentes após a mesma refeição, viagem, creche ou contato com animal. Guarde informações sobre alimentos, água, locais, datas e outros doentes, sem provar ou guardar alimento estragado para consumo."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Ofereça solução de reidratação oral preparada exatamente conforme o rótulo, em pequenos goles frequentes. Se vomitar, aguarde alguns minutos e recomece devagar; vômitos repetidos ou incapacidade de manter líquidos exigem avaliação.",
+          "Continue o aleitamento materno e observe a criança durante a oferta. Não force líquidos ou alimento se estiver muito sonolenta, confusa, engasgando, com respiração difícil ou vômito verde; procure emergência.",
+          "Anote o início dos sintomas, número de evacuações e vômitos, febre, sangue nas fezes, líquidos aceitos e urina. Leve essa linha do tempo, lista de medicamentos e possíveis exposições à consulta.",
+          "Não use tampões caseiros, carvão, argila, chás concentrados, bebidas energéticas ou receitas para ‘prender o intestino’. Não faça lavagem intestinal nem tente provocar vômito.",
+          "Use banheiro separado se possível; caso contrário, limpe assento, descarga, torneiras e superfícies tocadas. Não compartilhe toalhas. Descarte fraldas de modo seguro e lave roupa suja com fezes sem sacudir.",
+          "Não nade em piscina durante a diarreia; orientações de gastroenterite recomendam evitar piscina por duas semanas após o último episódio. Siga também as regras locais de saúde pública."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não prescreve antimicrobiano, antidiarreico, antiemético, probiótico, analgésico, apresentação, dose, intervalo ou duração. A decisão depende da gravidade, idade, condições de risco, diagnóstico e, quando necessário, resultados de exames.",
+          "A maioria das infecções por Campylobacter melhora sem antibiótico. Antimicrobianos podem ser considerados pela equipe em doença grave ou em pessoas com maior risco; resistência existe e a escolha não deve ser feita em casa.",
+          "Não use sobra de antibiótico, receita de outra pessoa ou produto comprado sem avaliação. Se foi prescrito especificamente para esta criança, use exatamente como orientado e procure o serviço se não conseguir manter as doses, houver alergia, piora ou ausência de melhora.",
+          "Não dê medicamento para paralisar o intestino por conta própria, especialmente com sangue nas fezes, febre ou dor importante. Esses produtos podem mascarar gravidade ou causar efeitos adversos.",
+          "Não combine remédios para febre, dor, náusea ou resfriado sem conferir os princípios ativos e a orientação individual. Esta ficha não fornece dose nem autoriza produto de adulto.",
+          "Exame de fezes, cultura/PCR, teste de sensibilidade, sangue ou imagem não são automáticos. A equipe decide conforme sangue, gravidade, duração, surto, viagem, imunossupressão e dúvida diagnóstica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Priorize solução de reidratação oral quando houver perdas. Prepare com a quantidade correta de água; não concentre, não dilua além do rótulo e não acrescente açúcar, sal, suco ou refrigerante.",
+          "Mantenha leite materno, fórmula habitual e alimentação normal conforme tolerância. Após reidratar, ofereça pequenas porções frequentes; não é necessário jejum nem dieta restritiva automática.",
+          "Evite refrigerantes, energéticos, bebidas esportivas e sucos muito açucarados, pois não têm a proporção adequada de sais e açúcar e podem piorar a diarreia. Água sozinha pode complementar, mas não substitui SRO quando há perdas relevantes.",
+          "Não force comida. A prioridade é conseguir beber e urinar. Se a criança recusar líquidos, vomitar tudo, ficar sonolenta ou urinar muito menos, procure atendimento no mesmo dia ou emergência conforme a gravidade.",
+          "Não ofereça leite cru/não pasteurizado, água não tratada, ave malpassada ou alimento contaminado por tábua/utensílio que tocou carne crua. Cozinhar bem e evitar contaminação cruzada ajudam a prevenir novos casos.",
+          "Se houver doença renal, cardíaca, metabólica, dieta especial, ostomia ou orientação prévia de restrição de líquidos/sais, não improvise volume ou solução; contate a equipe responsável mais cedo."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se a criança estiver inconsciente, muito confusa, difícil de acordar, convulsionando, sem conseguir ficar em pé, com respiração ausente/anormal, coloração azulada ou sinais de choque como pele fria/manchada e pulso fraco.",
+          "Procure emergência diante de sinais importantes de desidratação: quase não urinar, boca muito seca, ausência de lágrimas, olhos fundos, extremidades frias, sonolência crescente, tontura/desmaio ou incapacidade de beber/manter líquidos.",
+          "Sangue em grande quantidade nas fezes, fezes pretas, vômito com sangue ou verde, dor abdominal forte/localizada ou contínua, barriga muito distendida/dura ou piora rápida exige avaliação imediata; pode haver outra causa além de gastroenterite.",
+          "Febre com prostração importante, rigidez de nuca, dificuldade respiratória, pouca urina, pele manchada ou aparência de doença grave exige emergência para excluir sepse ou infecção invasiva.",
+          "Fraqueza ou formigamento que começa nas pernas, dificuldade para andar, subir escadas, levantar, engolir ou respirar após a diarreia pode indicar síndrome de Guillain-Barré e exige hospital imediatamente.",
+          "Recém-nascido ou lactente pequeno com febre, sangue nas fezes, vômitos repetidos, recusa de mamada, menos fraldas, choro fraco, palidez ou sonolência fora do habitual deve ser avaliado imediatamente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação no mesmo dia se houver sangue nas fezes, febre alta/persistente, dor abdominal importante, vômitos repetidos, pouca ingestão, diminuição de urina ou se a criança parecer mais doente, mesmo sem sinais de choque.",
+          "Criança menor de 6 meses, imunocomprometida ou com doença crônica relevante deve ser avaliada mais cedo. Não espere vários dias se houver febre, diarreia intensa ou dificuldade para manter hidratação.",
+          "Se diarreia ou vômito durarem mais de 2 dias sem melhora clara, contate o serviço. A maioria melhora em cerca de uma semana; persistência, retorno dos sintomas ou diarreia por mais de 7 a 10 dias exige nova avaliação e possível investigação.",
+          "Retorne antes se a febre ou dor melhorarem e depois voltarem, se o sangue aumentar, se surgirem sintomas fora do intestino ou se outro familiar/criança da creche adoecer após a mesma exposição.",
+          "Nas semanas seguintes, procure atendimento se aparecer fraqueza/formigamento, dificuldade para andar, dor ou inchaço nas articulações, ou sintomas intestinais persistentes. Essas complicações são incomuns e não devem ser presumidas, mas precisam de avaliação.",
+          "No retorno, leve a linha do tempo, urina, número de evacuações/vômitos, fotos apenas se já feitas sem atrasar cuidado, viagens, alimentos/água, contato com animais, outros doentes e medicamentos. Peça prazo individual para escola, exames e seguimento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou menor de 3 meses com diarreia, febre, sangue nas fezes, vômito, mamada fraca, menos fraldas ou sonolência precisa de avaliação imediata. Continue amamentação apenas se estiver alerta e sugando com segurança; não dê antimicrobiano, antidiarreico, chá ou água por conta própria.",
+        "3a5m": "Menor de 6 meses tem maior risco de desidratação. Ofereça peito/fórmula e SRO conforme orientação, em pequenas quantidades; procure avaliação no mesmo dia com febre, sangue, vômitos repetidos, recusa ou menos urina, e emergência se houver prostração ou má perfusão.",
+        "6a11m": "No primeiro ano, acompanhe mamadas, aceitação da SRO e fraldas. Mantenha alimentação habitual após reidratar. Sangue nas fezes, febre com mau estado, vômitos persistentes ou queda importante da urina exige avaliação rápida.",
+        "1a": "Criança pequena pode desidratar antes de verbalizar sede ou dor. Ofereça SRO em goles frequentes, mantenha supervisão e higiene rigorosa de fraldas/mãos. Dor localizada, sangue, letargia ou incapacidade de beber não deve ser manejada apenas em casa.",
+        "2a5": "Em idade de creche, ensine lavagem das mãos e não compartilhe copos/toalhas. Fique fora da creche durante diarreia/vômito e por pelo menos 48 horas após cessarem, conforme regra local. Observe urina, sede, atividade, sangue e dor.",
+        "6a11": "Escolar pode relatar cólica, tontura, formigamento ou fraqueza. Mantenha SRO e dieta habitual conforme tolerância, sem antidiarreico automático. Volte à escola somente após recuperação clínica e período de exclusão local; nova fraqueza exige urgência.",
+        "12a17": "Inclua o adolescente na investigação de viagens, alimentos, água, contato com animais e trabalho com comida, sem julgamento. Reforce hidratação, não preparar alimentos durante diarreia e alerta para sangue, desmaio, fraqueza ascendente ou dor articular.",
+        "unknown": "Sem idade confirmada, não selecionar medicamento, dose ou volume. Priorize estado mental, capacidade de beber, urina, perfusão, sangue, dor e vômitos. Encaminhe imediatamente com choque, alteração de consciência, incapacidade de hidratar ou sinais neurológicos."
+      },
+      "refs": [
+        {
+          "id": "pais265_op3106_1",
+          "name": "Clinical Overview of Campylobacter",
+          "url": "https://www.cdc.gov/campylobacter/hcp/clinical-overview/index.html"
+        },
+        {
+          "id": "pais265_op3106_2",
+          "name": "Symptoms of Campylobacter Infection",
+          "url": "https://www.cdc.gov/campylobacter/signs-symptoms/index.html"
+        },
+        {
+          "id": "pais265_op3106_3",
+          "name": "Preventing Campylobacter Infection",
+          "url": "https://www.cdc.gov/campylobacter/prevention/index.html"
+        },
+        {
+          "id": "pais265_op3106_4",
+          "name": "Campylobacter — Fact sheet",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/campylobacter"
+        },
+        {
+          "id": "pais265_op3106_5",
+          "name": "Manejo do paciente com diarreia: avaliação do estado de hidratação do paciente",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/doencas-diarreicas-agudas/manejo-do-paciente-com-diarreia-avaliacao-do-estado-do-paciente/view"
+        },
+        {
+          "id": "pais265_op3106_6",
+          "name": "Diarrhoea and vomiting caused by gastroenteritis in under 5s: diagnosis and management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+        },
+        {
+          "id": "pais265_op3106_7",
+          "name": "Clinical Practice Guideline: Gastroenteritis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Gastroenteritis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3107",
+      "specific": true,
+      "key": "pps_catalog_8b942f09117c7e30",
+      "label": "Canal atrioventricular — registro no PPS",
+      "entity": "Defeito do septo atrioventricular (DSAV), também chamado canal atrioventricular ou defeito dos coxins endocárdicos: espectro de cardiopatia congênita que envolve a junção/valvas atrioventriculares e o septo entre as câmaras do coração; pode ser completo, intermediário/transicional ou parcial, e o rótulo isolado não define subtipo, repercussão, insuficiência valvar, hipertensão pulmonar nem estado pós-operatório",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CONGENITAL_HEART_DISEASE_WITH_SUBTYPE_UNSPECIFIED\",\"normalized_entity\":\"Defeito do septo atrioventricular (canal atrioventricular/AVSD)\",\"assessment\":\"O termo é válido e é sinônimo de defeito do septo atrioventricular, mas descreve um espectro anatômico. Na forma completa há comunicação central envolvendo átrios e ventrículos e uma valva atrioventricular comum; nas formas parcial ou transicional a anatomia e a repercussão são diferentes. A forma completa tende a causar sintomas nas primeiras semanas ou meses, enquanto a parcial pode permanecer pouco sintomática por mais tempo. O rótulo não permite presumir a forma, o tamanho dos fluxos, a função das valvas, a pressão pulmonar, a indicação ou data de cirurgia. Trissomia 21 é uma associação importante, não requisito diagnóstico nem causa a presumir. Após correção, a criança continua necessitando seguimento por risco de insuficiência da valva atrioventricular esquerda, obstrução da via de saída, arritmia e outras lesões residuais.\",\"reconciliation\":{\"complete_partial_transitional\":\"São subtipos do espectro DSAV e têm apresentação e seguimento diferentes; o cadastro genérico não autoriza escolher um deles.\",\"heart_failure\":\"Pode ser repercussão do DSAV, especialmente com grande fluxo pulmonar ou insuficiência valvar, mas não está presente em toda criança e não é sinônimo do defeito.\",\"down_syndrome\":\"A trissomia 21 aumenta a associação com DSAV e hipertensão pulmonar, porém não deve ser presumida; crianças sem trissomia também podem ter o defeito.\",\"postoperative_state\":\"Correção cirúrgica muda a fase clínica, mas não elimina a necessidade de seguimento; sintomas novos não devem ser atribuídos automaticamente ao defeito original nem tratados como evolução normal.\",\"counting_effect\":\"UMA_ENTIDADE_CLINICA_ESPECIFICA; aliases de apresentação aguda, evolução complicada/refratária e forma grave/crítica são apresentações/gravidade da mesma entidade e não somam doenças.\"},\"not_automatically_equivalent_to\":[\"Comunicação interatrial ou interventricular isolada\",\"Insuficiência cardíaca, hipertensão pulmonar ou insuficiência valvar sem anatomia de DSAV\",\"Síndrome de Down/trissomia 21\",\"Canal arterial persistente\",\"Estado pós-operatório sem lesão residual documentada\",\"Indicação automática de medicamento, restrição hídrica, oxigênio, cirurgia, cateterismo, exame ou dispositivo\"],\"pediatric_scope\":\"Aplica-se desde o diagnóstico fetal/neonatal até adolescência e transição para cardiologia de congênitos. Recém-nascidos e lactentes exigem atenção especial a respiração, mamada, suor, cor, crescimento e perfusão; crianças maiores podem apresentar intolerância ao esforço, palpitação, síncope ou edema. A conduta depende do subtipo, fisiologia, valva, pressão pulmonar, sintomas, crescimento e situação pré ou pós-reparo.\",\"counting_rule\":\"Contar este ID como um registro específico e uma entidade clínica somente após integração, testes e publicação. Não contar separadamente os aliases de gravidade nem considerar insuficiência cardíaca, trissomia 21, hipertensão pulmonar ou complicações pós-operatórias como resolvidas por esta ficha.\",\"critical_context_to_confirm\":[\"Subtipo anatômico: completo, intermediário/transicional, parcial ou outro, e comunicações/valva associadas\",\"Idade, peso, curva de crescimento, saturação basal e presença de taquipneia, cansaço/suor na mamada, edema ou cianose\",\"Grau de insuficiência da valva atrioventricular, repercussão sobre câmaras e função ventricular\",\"Hipertensão pulmonar ou doença vascular pulmonar documentada e seus limites de segurança\",\"Trissomia 21 ou outra condição genética, sem presumir causalidade nem reduzir o cuidado ao diagnóstico sindrômico\",\"Situação pré-operatória, tipo/data do reparo, lesões residuais, arritmia, marca-passo e plano do centro\",\"Medicamentos, alimentação, líquidos, atividade física, odontologia e retorno definidos individualmente\"],\"reason\":\"Entidade pediátrica válida e potencialmente de alta repercussão, com evidência institucional e profissional aberta suficiente para orientar reconhecimento de insuficiência cardíaca/hipoperfusão, segurança da alimentação e continuidade do seguimento, sem converter o cadastro genérico em prescrição ou decisão cirúrgica.\",\"next_action\":\"Integrar como ficha específica do espectro DSAV; testar ID, nome e aliases, oito faixas, alarmes em lactentes, crescimento e estado pós-reparo. Manter subtipo e plano terapêutico dependentes da cardiologia pediátrica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Canal atrioventricular é uma cardiopatia congênita que envolve as paredes e as valvas no centro do coração. Existem formas completa, parcial e transicional; o subtipo e a repercussão precisam estar escritos no plano da cardiologia.",
+          "Observe o padrão habitual de respiração, cor, disposição, mamadas/alimentação, urina, inchaço e tolerância ao esforço. Mudança do padrão é mais importante do que um número isolado de pulso ou saturação.",
+          "Em bebês, registre mamadas muito longas, pausas para respirar, suor, cansaço, vômitos frequentes e número de fraldas. Compare peso e crescimento nas consultas; não espere perda importante para avisar a equipe.",
+          "Mantenha resumo do diagnóstico, ecocardiograma/laudo mais recente, cirurgias, medicamentos, saturação-alvo quando existir e contatos do centro acessíveis à família, escola e cuidadores.",
+          "Não trate sopro, cansaço, cor arroxeada ou inchaço com medidas caseiras. Não use relógio, aplicativo ou oxímetro doméstico para autorizar esforço, suspender remédio ou excluir piora.",
+          "Vacinação, higiene das mãos e redução de contato com pessoas doentes ajudam a evitar infecções que podem descompensar a criança. O DSAV não é contagioso e, quando estável, escola e convívio seguem o plano individual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Durante cansaço ou falta de ar, interrompa esforço, mantenha a criança na posição em que respira melhor e supervisione. Se houver sinal de alarme, procure atendimento sem esperar melhora em casa.",
+          "Faça pausas na alimentação conforme orientação da equipe e respeite sinais de cansaço. Não force mamada, exercício ou choro para testar a capacidade do coração.",
+          "Atividade física e esporte dependem do subtipo, função das valvas, pressão pulmonar, arritmias e fase pré ou pós-operatória. Não imponha repouso permanente nem libere competição sem orientação da cardiologia.",
+          "Pese e meça a criança nas consultas e anote mudanças relevantes de apetite, respiração e capacidade de brincar. Pesagem excessiva em casa não substitui avaliação clínica.",
+          "Mantenha saúde bucal e acompanhamento odontológico. Informe o cardiologista e o dentista sobre o defeito e cirurgias; não presuma necessidade de antibiótico preventivo.",
+          "Após cirurgia, siga apenas as orientações do centro sobre ferida, banho, levantar peso, escola e atividade. Não massageie a cicatriz nem aplique produto não orientado."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não indica medicamento, dose, via, duração, oxigênio, restrição hídrica, cirurgia, cateterismo, exame ou dispositivo. O tratamento depende do subtipo e da repercussão individual.",
+          "Use somente o que foi prescrito para esta criança, conferindo nome, apresentação, horário e forma de administrar. Não compartilhe remédios nem use sobra de receita.",
+          "Não aumente, reduza ou suspenda diurético, medicamento cardíaco, anticoagulante ou outro produto por conta própria, mesmo se a criança parecer melhor ou urinar mais/menos.",
+          "Se vomitar uma dose, esquecer horário ou houver dificuldade para administrar, contate a equipe/farmácia; não repita automaticamente nem misture em grande volume que pode não ser consumido.",
+          "Não use descongestionante, estimulante, chá, suplemento ou anti-inflamatório para tratar cansaço, inchaço ou falta de ar sem conferir segurança com a equipe.",
+          "Antibiótico antes de procedimento odontológico não é necessário para toda criança com DSAV; siga a indicação escrita da cardiologia conforme anatomia, reparo e material protético."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça leite materno, fórmula ou alimentação habitual conforme o plano individual. Em bebês cansados, porções menores e mais frequentes podem ser orientadas pela equipe, mas não altere a concentração por conta própria.",
+          "Não concentre fórmula, adicione suplemento, restrinja sal/líquido ou ofereça água extra sem orientação. Erros de concentração e volume podem causar desidratação ou sobrecarga.",
+          "Pare a oferta e procure avaliação se a criança ficar arroxeada, muito suada, ofegante, sonolenta, engasgar ou não conseguir coordenar sucção, deglutição e respiração.",
+          "Anote duração e volume aproximado das mamadas quando solicitado, vômitos e fraldas. Menos urina, boca seca, recusa persistente ou perda/estagnação de peso precisam ser comunicados rapidamente.",
+          "Crianças maiores devem manter alimentação variada conforme tolerância e plano da equipe; nenhum alimento fecha o defeito ou substitui o acompanhamento cardiológico.",
+          "Se houver exame ou procedimento programado, siga o jejum informado pelo serviço e diga a última ingestão. Esta ficha não fornece jejum genérico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 diante de inconsciência, ausência de resposta, respiração ausente/anormal, lábios ou língua azulados, convulsão, desmaio sem recuperação rápida ou dificuldade para acordar.",
+          "Procure emergência imediatamente se houver respiração muito rápida ou com retrações, gemência, incapacidade de falar/chorar/mamar, exaustão ou piora súbita da cor.",
+          "Palidez intensa, pele fria/manchada, suor frio, pulso fraco, confusão, pouca/nenhuma urina ou fraqueza extrema podem indicar baixo débito/choque e exigem atendimento imediato.",
+          "Em lactente, recusa ou cansaço extremo nas mamadas, menos fraldas, vômitos repetidos, sonolência fora do habitual ou inchaço crescente junto de respiração diferente exige avaliação urgente.",
+          "Dor no peito persistente, palpitação com mal-estar, desmaio ou quase desmaio, especialmente no esforço, requer suspensão da atividade e avaliação urgente.",
+          "Após cirurgia/cateterismo, febre com prostração, ferida vermelha com secreção/abertura, falta de ar nova, edema crescente, ritmo muito diferente ou piora rápida exige contato imediato com o centro ou emergência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe no mesmo dia se houver aumento do cansaço, mamadas piores, suor novo, vômitos frequentes, inchaço, menos urina, queda do rendimento ou dificuldade de ganhar peso, mesmo sem sinais de emergência.",
+          "Mantenha retornos com cardiologia pediátrica antes e depois do reparo. A frequência depende do subtipo, insuficiência valvar, função cardíaca, pressão pulmonar, crescimento e sintomas; não adie por a criança parecer bem.",
+          "Após correção, o defeito não é considerado simplesmente curado: o seguimento verifica insuficiência da valva atrioventricular, obstrução da saída do ventrículo, arritmia e comunicações residuais.",
+          "Leve curva de peso/altura, lista de medicamentos, registros de sintomas, internações, laudos e resumo de cirurgia. Confirme qual é o subtipo e quais sinais exigem antecipar o retorno.",
+          "Peça plano escrito para alimentação, líquidos, atividade/escola, odontologia, vacinas, viagens e contatos de urgência; o plano individual prevalece sobre esta orientação geral.",
+          "Na adolescência, programe transição para cardiologia de cardiopatias congênitas do adulto e revise autocuidado, atividade, saúde reprodutiva e compreensão do diagnóstico sem interromper o seguimento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirmar subtipo e plano do centro. Taquipneia, suor/cansaço na mamada, cianose, sonolência, menos fraldas ou ganho de peso ruim exigem contato rápido; apneia, choque ou incapacidade de mamar é emergência.",
+        "3a5m": "Acompanhar respiração, mamadas, peso e urina de perto; não concentrar fórmula nem ajustar remédios. Confirmar subtipo, pressão pulmonar e situação pré/pós-reparo com cardiologia.",
+        "6a11m": "Revisar cirurgia/lesões residuais, curva de crescimento e introdução alimentar. Queda de atividade, respiração difícil, suor, edema ou regressão da alimentação não é atribuída apenas à dentição ou virose.",
+        "1a": "Observar tolerância para andar/brincar, respiração, cor e crescimento. Manter seguimento mesmo se assintomático, sobretudo após reparo ou quando o subtipo parcial teve poucos sintomas no primeiro ano.",
+        "2a5": "Criança pode parecer bem apesar de lesão parcial/transicional. Escola deve conhecer limites e alarmes; não liberar esporte competitivo nem faltar aos retornos com base apenas na ausência de sintomas.",
+        "6a11": "Ensinar a relatar falta de ar, palpitação, dor, tontura e queda de rendimento. Revisar atividade, saúde bucal e seguimento pós-reparo; síncope no esforço exige urgência.",
+        "12a17": "Adolescente deve saber nome/subtipo, cirurgia, remédios e sinais de alarme. Planejar transição, atividade e saúde reprodutiva com cardiologia especializada; não interromper acompanhamento por se sentir bem.",
+        "unknown": "Confirmar idade, subtipo, insuficiência valvar, pressão pulmonar, sintomas, crescimento, saturação basal, cirurgia/lesões residuais e plano individual antes de aplicar orientação específica."
+      },
+      "refs": [
+        {
+          "id": "pais265_op3107_1",
+          "name": "Atrioventricular Septal Defect (AVSD)",
+          "url": "https://www.cdc.gov/heart-defects/about/atrioventricular-septal-defect.html"
+        },
+        {
+          "id": "pais265_op3107_2",
+          "name": "Complete Atrioventricular Canal Defect",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/complete-atrioventricular-canal-defect-cavc"
+        },
+        {
+          "id": "pais265_op3107_3",
+          "name": "Clinical Practice Algorithm For the Follow-Up of Repaired and Unrepaired Atrioventricular Septal Defects",
+          "url": "https://www.acc.org/latest-in-cardiology/articles/2025/02/03/12/17/clinical-practice-algorithm-for-the-follow-up-of-repaired-and-unrepaired-atrioventricular-septal-defects"
+        },
+        {
+          "id": "pais265_op3107_4",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        },
+        {
+          "id": "pais265_op3107_5",
+          "name": "Dia Nacional de Conscientização da Cardiopatia Congênita 2026",
+          "url": "https://bvsms.saude.gov.br/12-6-dia-nacional-de-conscientizacao-da-cardiopatia-congenita-2026/"
+        },
+        {
+          "id": "pais265_op3107_6",
+          "name": "Surgical Interventions for Atrioventricular Septal Defect Subtypes: The Pediatric Heart Network Experience",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3331799/"
+        },
+        {
+          "id": "pais265_op3107_7",
+          "name": "Long-term outcome after early repair of complete atrioventricular septal defect in young infants",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32919770/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3108",
+      "specific": true,
+      "key": "pps_catalog_76e89626786af82f",
+      "label": "Candidíase cutânea — registro no PPS",
+      "entity": "Candidíase cutânea superficial pediátrica, sobretudo intertrigo por Candida em dobras úmidas ou dermatite da área da fralda com envolvimento das pregas e lesões satélites; não equivale automaticamente a dermatite irritativa, impetigo, dermatofitose, candidíase vulvovaginal, candidíase mucosa ou doença invasiva",
+      "assessment": "{\"classification\":\"VALID_SUPERFICIAL_PEDIATRIC_CUTANEOUS_CANDIDIASIS_WITH_DIFFERENTIAL_AND_INVASIVE_DISEASE_BOUNDARIES\",\"normalized_entity\":\"Candidíase cutânea superficial pediátrica (intertrigo/dermatite da fralda por Candida)\",\"assessment\":\"O termo é uma entidade clínica válida. Em crianças, Candida pode proliferar em pele úmida e macerada, especialmente nas pregas do pescoço, axilas, virilhas, entre os dedos e na área coberta pela fralda. Placas muito vermelhas e maceradas, com bordas definidas, descamação periférica e pápulas ou pústulas satélites, sobretudo dentro das pregas, apoiam a hipótese, mas não confirmam sozinhas o agente. Dermatite irritativa da fralda costuma predominar nas superfícies convexas que encostam na fralda e poupar as pregas; impetigo tende a produzir crostas, bolhas ou secreção; dermatofitose costuma formar borda anular descamativa. Mais de uma condição pode coexistir. Candida é comensal da pele e do trato gastrointestinal, portanto cultura positiva ou colonização isolada não prova que seja a causa da lesão. Candidíase superficial em criança saudável não deve ser confundida com candidemia ou candidíase invasiva. Febre persistente, prostração, rápida piora, prematuridade extrema, internação, cateter venoso, nutrição parenteral, neutropenia ou imunossupressão mudam o risco e exigem avaliação própria. O sufixo administrativo ‘registro no PPS’ não cria nova entidade.\",\"not_automatically_equivalent_to\":[\"Dermatite irritativa da fralda, eczema, dermatite de contato, dermatite seborreica ou psoríase\",\"Impetigo, celulite, abscesso, infecção estreptocócica perianal ou herpes\",\"Dermatofitose/tínea, eritrasma ou outras micoses superficiais\",\"Candidíase oral, vulvovaginal, ungueal, crônica mucocutânea ou invasiva\",\"Toda vermelhidão de dobra, toda cultura positiva para Candida ou toda lesão após antibiótico\",\"Indicação automática de antifúngico, corticoide, combinação, exame, dose ou duração\"],\"pediatric_scope\":\"Aplica-se a crianças e adolescentes com infecção superficial da pele por Candida. Na área da fralda, é mais comum em lactentes e pode complicar dermatite irritativa. Em recém-nascido, especialmente prematuro ou de muito baixo peso, erupção disseminada, pústulas extensas, instabilidade térmica, apneia, recusa alimentar ou prostração exige avaliação urgente para doença neonatal/invasiva. Em crianças maiores, dobras úmidas, oclusão, suor, obesidade, diabetes, antibióticos e imunossupressão podem predispor; recorrência ou extensão incomum requer investigação dirigida, não repetição automática de creme.\",\"counting_rule\":\"Contar este ID como uma orientação específica e uma entidade clínica superficial após integração, testes e publicação. Não contar dermatite irritativa, impetigo, dermatofitose, candidíase vulvovaginal, candidíase oral, imunodeficiência, diabetes ou candidíase invasiva como cobertas; permanecem diagnósticos/contextos próprios. O sufixo ‘registro no PPS’ não acrescenta entidade.\",\"critical_context_to_confirm\":[\"Idade, prematuridade, peso ao nascer, internação recente, cateter, nutrição parenteral, imunossupressão, diabetes e antibiótico recente\",\"Localização, extensão, presença de pregas envolvidas, lesões satélites, borda anular, crostas, bolhas, pus, dor, fissuras ou mau cheiro\",\"Febre, prostração, rápida expansão, dor desproporcional, listras vermelhas, edema, pouca urina, recusa de líquidos ou alteração do estado mental\",\"Diarreia, frequência de trocas de fralda, produtos de higiene, fricção, roupas/calçados oclusivos e suor\",\"Candidíase oral, vulvovaginal ou ungueal associada e episódios prévios persistentes/recorrentes\",\"Produto realmente prescrito, local de aplicação, alergias, resposta, irritação e uso de corticoide/combinação sem supervisão\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Candidíase cutânea é uma infecção superficial por uma levedura chamada Candida, que normalmente pode viver na pele e no intestino. Ela prolifera mais em áreas quentes, úmidas e com atrito, como pregas do pescoço, axilas, virilhas, entre os dedos e região da fralda.",
+          "Na área da fralda, Candida costuma deixar as pregas muito vermelhas e pode formar pontinhos ou pequenas pústulas ao redor da placa principal. Irritação comum por urina e fezes geralmente atinge mais as partes que encostam na fralda e pode poupar as pregas. Como quadros podem coexistir, não conclua a causa apenas pela aparência.",
+          "Lave delicadamente com água morna e produto suave sem perfume quando necessário. Retire sujeira sem esfregar, seque com leves toques e mantenha as pregas arejadas e secas. Troque fralda molhada ou suja assim que possível e ofereça períodos curtos sem fralda em local seguro.",
+          "Use toalha individual, lave as mãos antes e depois de cuidar da área e não compartilhe potes, aplicadores, roupas úmidas ou toalhas. Candida superficial costuma decorrer de proliferação local, não de falta de limpeza; evite culpa e limpeza agressiva.",
+          "Observe diariamente extensão, dor, coceira, fissuras, secreção, crostas, bolhas e resposta ao plano prescrito. Fotografia datada pode ajudar no retorno, desde que preserve a privacidade e nunca atrase atendimento.",
+          "Creche ou escola costuma ser possível quando a criança está bem e a área pode permanecer limpa e coberta, mas febre, diarreia importante, secreção não contida ou regra local podem exigir afastamento. Oriente cuidadores sobre higiene, trocas de fralda e o plano individual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Reduza calor, umidade e atrito: prefira roupas leves, respiráveis e sem aperto; troque roupa suada, seque bem as dobras após banho e evite calçado fechado úmido por longos períodos.",
+          "Na área da fralda, faça trocas frequentes, limpe com suavidade, seque sem fricção e deixe a pele respirar. Se a equipe recomendou barreira protetora, aplique-a conforme o plano sem esfregar vigorosamente para remover toda a camada a cada troca.",
+          "Não use talco, amido de milho ou pós soltos: podem irritar e ser inalados por bebês. Não aplique álcool, água sanitária, vinagre, bicarbonato, alho, óleo essencial, perfume ou desodorante na lesão.",
+          "Não estoure pústulas, retire crostas à força, raspe a pele nem faça curativo plástico oclusivo. Compressão e oclusão aumentam umidade e podem piorar maceração.",
+          "Lave roupas, fraldas de pano e toalhas de acordo com a orientação do fabricante e deixe secar completamente. Enxágue bem detergente e suspenda produto novo perfumado se coincidiu com piora, comunicando ao serviço.",
+          "Em adolescente, planeje banho e secagem das dobras após esporte, troca rápida de uniforme molhado e roupa respirável. Essas medidas reduzem umidade, mas não substituem avaliação quando a lesão é extensa, recorrente ou diferente do habitual."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o produto que foi indicado para esta criança, no local e pelo período orientados. Esta ficha não escolhe antifúngico, apresentação, concentração, quantidade, frequência ou duração.",
+          "Não use antifúngico oral, sobra de receita, medicamento veterinário ou creme de outra pessoa. Candidíase superficial e doença invasiva exigem abordagens completamente diferentes.",
+          "Não aplique corticoide sozinho nem combinação com corticoide/antibiótico sem orientação. Corticoide potente pode mascarar outra infecção, afinar a pele e dificultar o controle de Candida, especialmente sob fralda ou em pregas.",
+          "Não coloque o produto dentro dos olhos, boca ou vagina e não trate automaticamente candidíase oral ou vulvovaginal com o mesmo creme. Cada localização precisa de avaliação e apresentação adequada.",
+          "Se houver ardor forte, inchaço, bolhas, urticária, falta de ar ou piora após aplicação, suspenda o produto suspeito e procure orientação; falta de ar ou inchaço de face/língua é emergência.",
+          "Se a lesão não estiver melhorando conforme o prazo combinado, não aumente a quantidade nem prolongue por conta própria. O diagnóstico pode ser irritativo, bacteriano, dermatofítico ou outra doença de pele, e pode ser necessário reexaminar."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Candidíase superficial da pele não exige dieta especial. Mantenha alimentação e líquidos habituais conforme idade e tolerância; nenhum alimento ‘mata o fungo’ na pele.",
+          "Não retire leite, açúcar, frutas, glúten ou outros grupos alimentares sem indicação. Dietas restritivas não tratam a lesão e podem prejudicar crescimento e nutrição.",
+          "Se houver diarreia, ofereça líquidos com maior frequência e siga o plano de hidratação orientado. Menos urina, boca seca, ausência de lágrimas, olhos fundos, sonolência ou incapacidade de beber exige avaliação rápida.",
+          "Em lactente, mantenha leite materno ou fórmula habitual, salvo orientação individual. Não dilua nem concentre fórmula e não passe alimento, leite ou amido sobre a pele.",
+          "Recusa de mamada, vômitos repetidos, perda de peso ou crescimento ruim não devem ser atribuídos a uma candidíase cutânea simples; procure avaliação pediátrica.",
+          "Diabetes pode favorecer recorrência, mas a família não deve medir, corrigir ou restringir carboidratos por conta própria. Sede excessiva, muita urina, perda de peso ou recorrência importante devem ser relatadas ao pediatra."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se houver dificuldade para respirar, lábios arroxeados, desmaio, convulsão, confusão, sonolência difícil de interromper ou criança que não responde como de costume.",
+          "Procure atendimento imediato com febre e prostração, rápida piora, pele muito dolorosa/quente/inchada, vermelhidão que se espalha, listras vermelhas, pus, mau cheiro intenso, bolhas extensas ou áreas escuras: pode haver infecção bacteriana ou doença mais profunda.",
+          "Em recém-nascido, sobretudo prematuro ou de muito baixo peso, erupção disseminada, muitas pústulas, instabilidade de temperatura, apneia, recusa de mamada, palidez, pouca urina ou prostração exige avaliação imediata; não trate como simples assadura em casa.",
+          "Criança hospitalizada ou recentemente internada, com cateter venoso, nutrição pela veia, neutropenia, transplante, quimioterapia ou imunossupressão deve ser avaliada imediatamente se apresentar febre, calafrios ou deterioração; candidíase invasiva pode ter sinais inespecíficos.",
+          "Procure atendimento rápido se a lesão envolver olhos, grande área de pele, ferida cirúrgica ou queimadura, ou se houver dor intensa, incapacidade de caminhar/mover o membro ou sinais de desidratação.",
+          "Inchaço de face ou língua, chiado, falta de ar, urticária generalizada ou desmaio após produto aplicado exige emergência e suspensão do produto suspeito."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie no prazo combinado pela equipe para confirmar que a vermelhidão, umidade e lesões satélites estão diminuindo. Procure antes se houver expansão, dor crescente, secreção, febre ou efeito adverso.",
+          "Se não houver melhora progressiva após alguns dias do plano correto, ou se a lesão persistir ao final do período indicado, marque reavaliação na mesma semana. Não repita nem troque creme sem confirmar o diagnóstico.",
+          "Lesão grave, incomum ou que não responde a cuidados simples precisa ser examinada para diferenciar irritação, impetigo, celulite, dermatofitose, eczema, psoríase, deficiência de zinco ou outra condição; em dúvida, a equipe pode decidir por raspado/cultura, mas exames não são automáticos.",
+          "Recorrência frequente, doença extensa, candidíase em vários locais, crescimento ruim, infecções incomuns, sede/muita urina ou uso de imunossupressor justificam avaliação pediátrica dirigida para fatores predisponentes, diabetes ou imunodeficiência.",
+          "Em bebê com dermatite de fralda, revise frequência das trocas, diarreia, produtos, alimentação, crescimento e presença de sapinho. Persistência apesar do plano ou dúvida diagnóstica merece pediatria/dermatologia.",
+          "No retorno, leve nomes e embalagens de todos os produtos aplicados, datas de início, fotografias de evolução, alergias, antibióticos recentes e condições de base. Peça plano escrito com local, modo de uso, prazo e sinais que antecipam atendimento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Menor de 3 meses, especialmente prematuro ou de muito baixo peso, não deve ter erupção extensa, pústulas, febre/temperatura baixa, apneia, mamada fraca ou prostração atribuídas a assadura simples; procure avaliação imediata. Troque fraldas frequentemente, limpe suavemente e não use talco ou creme não prescrito.",
+        "3a5m": "Candidíase na área da fralda pode ocorrer nessa idade e costuma envolver pregas e pontos satélites. Mantenha pele seca, trocas frequentes e produto somente conforme orientação; febre, recusa alimentar, expansão rápida ou pouca urina exige avaliação urgente.",
+        "6a11m": "Observe dobras do pescoço e área da fralda, sobretudo com calor, saliva, diarreia ou antibiótico recente. Evite talco, amido e receitas caseiras; lesão extensa, dolorosa, com pus/crostas ou sem melhora precisa ser reavaliada.",
+        "1a": "Mantenha trocas frequentes, secagem suave e períodos seguros sem fralda. Não confunda pontos satélites nas pregas com toda assadura; crostas, bolhas, pus, febre ou rápida extensão sugerem outro diagnóstico e exigem avaliação.",
+        "2a5": "Em pré-escolar, considere fralda, suor e pregas, mas também impetigo e tínea. Ensine higiene das mãos sem culpar a criança, use toalha individual e não compartilhe cremes; recorrência ou vários locais exige pediatra.",
+        "6a11": "Escolar pode ter lesão em virilha, axila, entre dedos ou outras dobras. Troque roupa suada e seque bem após esporte; borda em anel, crostas ou dor importante podem indicar outra causa. Preserve privacidade durante exame e aplicação.",
+        "12a17": "Inclua o adolescente sem julgamento na revisão de suor, roupas apertadas, obesidade, diabetes, antibióticos e imunossupressão. Diferencie pele de candidíase vulvovaginal; não introduza creme na vagina e não compartilhe produto. Recorrência, febre ou lesão extensa exige avaliação.",
+        "unknown": "Sem idade e contexto confirmados, não selecione produto ou duração. Priorize estado geral, febre, extensão, dor, pus/crostas, hidratação e fatores de alto risco; recém-nascido, imunocomprometido ou criança prostrada precisa de limiar baixo para avaliação urgente."
+      },
+      "refs": [
+        {
+          "id": "pais265_op3108_1",
+          "name": "Antifungal agents for common outpatient paediatric infections",
+          "url": "https://cps.ca/en/documents/position/antifungal-agents-common-infections"
+        },
+        {
+          "id": "pais265_op3108_2",
+          "name": "Clinical Practice Guideline: Nappy rash",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Nappy_rash/"
+        },
+        {
+          "id": "pais265_op3108_3",
+          "name": "Diaper rash",
+          "url": "https://caringforkids.cps.ca/handouts/health-conditions-and-treatments/diaper_rash"
+        },
+        {
+          "id": "pais265_op3108_4",
+          "name": "Candidal intertrigo",
+          "url": "https://dermnetnz.org/topics/candidiasis-of-skin-folds"
+        },
+        {
+          "id": "pais265_op3108_5",
+          "name": "Risk Factors for Candidiasis",
+          "url": "https://www.cdc.gov/candidiasis/risk-factors/index.html"
+        },
+        {
+          "id": "pais265_op3108_6",
+          "name": "Clinical Overview of Invasive Candidiasis",
+          "url": "https://www.cdc.gov/candidiasis/hcp/clinical-overview/"
+        },
+        {
+          "id": "pais265_op3108_7",
+          "name": "Topical miconazole nitrate ointment in the treatment of diaper dermatitis complicated by candidiasis",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16570675/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3109",
+      "specific": true,
+      "key": "pps_catalog_64655aaccd3ffd0e",
+      "label": "Candidíase vulvovaginal — registro no PPS",
+      "entity": "Candidíase vulvovaginal sintomática em pessoa pediátrica, pertinente sobretudo após o início da puberdade: crescimento excessivo de Candida na vulva/vagina associado a prurido, ardor, eritema, edema, fissuras e/ou corrimento, cuja confirmação exige correlação clínica e, quando indicado, exame; em crianças pré-púberes é incomum e os mesmos sintomas exigem avaliação de causas irritativas, bacterianas, dermatológicas, parasitárias, corpo estranho, trauma e segurança",
+      "assessment": "{\"classification\":\"VALID_VULVOVAGINAL_ENTITY_WITH_PUBERTAL_PREDOMINANCE_AND_STRICT_PREPUBERTAL_LIMITS\",\"normalized_entity\":\"Candidíase vulvovaginal sintomática na infância/adolescência, predominante após a puberdade\",\"assessment\":\"O termo é uma entidade clínica válida, mas não se aplica de modo uniforme a todas as idades pediátricas. Candida pode integrar a flora genital/digestiva; colonização ou cultura positiva sem sintomas não equivale a doença. Coceira, ardor, vermelhidão, dor ao urinar e corrimento branco grumoso podem ocorrer, porém nenhum desses achados é específico. Entre aproximadamente 2 anos e a puberdade, candidíase vaginal é incomum; irritantes, higiene/umidade, dermatose, oxiúros, bactéria e corpo estranho são causas mais usuais de vulvovaginite e não devem ser tratados empiricamente como Candida. Após a puberdade, a entidade é mais plausível. Candidíase vaginal é uma infecção endógena e não é classificada como IST; o diagnóstico isolado não prova atividade sexual nem violência. Ainda assim, corrimento, sangramento, lesão, dor, relato ou outra preocupação de segurança em criança/adolescente exige avaliação acolhedora e específica, sem inferência automática em nenhuma direção.\",\"diagnostic_boundary\":\"Diferenciar de vulvovaginite irritativa inespecífica, dermatite de contato, dermatose vulvar, oxiuríase, vaginose bacteriana, tricomoníase e outras IST conforme idade/contexto, infecção urinária, vulvodínia, corpo estranho, trauma e violência. Odor forte, corrimento amarelo/verde ou sanguinolento, dor pélvica, febre, úlcera/vesícula e secreção persistente não devem ser atribuídos automaticamente a Candida. Dermatite de fralda por Candida ou candidíase cutânea não é sinônimo de candidíase vulvovaginal.\",\"puberty_and_safety_boundary\":\"Do nascimento à pré-puberdade, o rótulo exige cautela especial e avaliação pediátrica; exame interno e coleta vaginal interna não devem ser improvisados. Em adolescente, obter história de forma privada e respeitosa, incluindo puberdade, menstruação, possível gestação, atividade sexual quando pertinente, produtos usados, antibióticos, diabetes e imunossupressão. A candidíase em si não prova transmissão sexual; suspeita de violência decorre do relato, lesão, sangramento, coerção, comportamento/sintomas preocupantes ou contexto, devendo acionar equipe experiente e rede de proteção sem revitimização.\",\"recurrence_boundary\":\"Definições profissionais não são idênticas: o CDC usa três ou mais episódios sintomáticos em menos de um ano e o PCDT brasileiro descreve quatro ou mais em um ano. Para responsáveis, episódios repetidos no mesmo ano, falha ou retorno rápido após tratamento exigem reavaliação e possível confirmação microbiológica; não autorizam repetir antifúngico por conta própria. Diabetes descompensado, antibióticos, gestação e imunossupressão podem contribuir, mas a recorrência não confirma nenhuma dessas condições isoladamente.\",\"qualifier_boundary\":\"Os aliases 'apresentação pediátrica aguda', 'evolução complicada/refratária' e 'forma grave/crítica' são qualificadores administrativos do mesmo cadastro, não novas doenças. Complicação depende de intensidade, recorrência, espécie não-albicans, comorbidade, gestação, imunossupressão, falha terapêutica e diagnóstico alternativo; o nome não define gravidade nem tratamento.\",\"not_automatically_equivalent_to\":[\"qualquer corrimento, coceira, ardor ou vermelhidão vulvar\",\"colonização ou cultura positiva por Candida sem sinais e sintomas\",\"dermatite de fralda/candidíase cutânea\",\"vaginose bacteriana, tricomoníase, cervicite ou outra IST\",\"infecção urinária, dermatose, oxiúros, corpo estranho, trauma ou violência\",\"prova de atividade sexual ou de abuso\",\"indicação automática de antifúngico, produto, via, dose ou duração\"],\"pediatric_scope\":\"Aplicabilidade principal: adolescente após puberdade. Em escolar pré-púbere, Candida é possível, porém incomum e não deve ser presumida; investigar contexto e diferenciais com técnica pediátrica. Em lactentes e crianças pequenas, secreção, irritação, dermatite da fralda e vulvovaginite precisam ser avaliadas em seus próprios contextos. Sinais sistêmicos, sangramento, trauma, corpo estranho, possível violência e imunocomprometimento mudam a prioridade.\",\"counting_rule\":\"Contar esta chave como uma orientação específica para uma entidade clínica — candidíase vulvovaginal pediátrica com predominância puberal — somente após integração, testes e publicação. Não contar aliases de gravidade, candidíase cutânea/da fralda, vaginose, IST, corpo estranho, diabetes, imunodeficiência ou violência como entidades cobertas.\",\"critical_context_to_confirm\":[\"idade, estágio puberal, menstruação e possível gestação\",\"início, duração, recorrência, odor, cor, sangue, dor, coceira, ardor e sintomas urinários\",\"febre, dor abdominal/pélvica, vômitos, prostração, retenção urinária ou piora rápida\",\"produtos perfumados, duchas, sabonetes, roupas úmidas/apertadas e medicamentos tópicos usados\",\"antibióticos recentes, diabetes, HIV/imunodeficiência, corticoide, quimioterapia ou outra imunossupressão\",\"atividade sexual quando pertinente, risco de IST e possível gestação, com privacidade apropriada\",\"sangramento, lesão, corpo estranho, relato, coerção ou preocupação de violência/abuso\",\"diagnóstico e tratamento já prescritos, resposta, adesão e retorno precoce dos sintomas\"],\"next_action\":\"Integrar preservando seis seções e oito faixas, testar key/label/aliases, confirmar que pré-púberes não recebem diagnóstico ou tratamento automático e que sangramento, dor pélvica/febre, reação alérgica, retenção urinária e preocupação de violência levam ao destino correto; publicar somente após revisão do coordenador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Candidíase vulvovaginal é o crescimento excessivo de um fungo que pode viver normalmente no corpo. Pode causar coceira, ardor, vermelhidão, inchaço, pequenas fissuras e corrimento branco grumoso, mas esses sintomas também ocorrem em irritação e outras infecções; não confirme o diagnóstico apenas pela aparência.",
+          "Em criança que ainda não entrou na puberdade, Candida é uma causa incomum de corrimento ou irritação vaginal. Procure avaliação pediátrica em vez de usar antifúngico por conta própria; sabonete/perfume, umidade, bactéria, oxiúros, dermatose e corpo estranho são possibilidades diferentes.",
+          "Lave somente a parte externa com água morna; se usar sabonete, prefira pouco produto suave e sem perfume. Seque sem esfregar. Não faça ducha, não lave por dentro e não introduza algodão, cotonete ou objeto para retirar secreção.",
+          "Use roupa íntima limpa e respirável, roupa folgada e troque biquíni, maiô, roupa de treino ou roupa suada assim que possível. Evite banho de espuma, desodorante íntimo, lenço perfumado, talco e protetor diário perfumado se irritarem.",
+          "Ajude crianças pequenas a limpar da frente para trás e a não permanecer com roupa molhada. Unhas curtas reduzem feridas ao coçar. Não culpe higiene, alimentação, atividade sexual ou a criança/adolescente pelo problema.",
+          "Candidíase vaginal não é classificada como IST e não prova relação sexual ou violência. Mesmo assim, respeite qualquer relato de toque, coerção, dor, lesão ou medo; não interrogue repetidamente e procure equipe de saúde/rede de proteção."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Suspenda temporariamente produtos perfumados ou irritantes na vulva e lave roupas íntimas com produto simples, enxaguando bem. A melhora com retirada do irritante não confirma Candida, mas reduz desconforto e ajuda a avaliação.",
+          "Uma compressa fria limpa por poucos minutos, apenas por fora e sem gelo direto, pode aliviar coceira enquanto aguarda avaliação. Não esfregue, raspe nem tente remover placas ou secreção.",
+          "Não introduza iogurte, alho, vinagre, bicarbonato, óleo essencial, ácido bórico, probiótico ou qualquer receita caseira na vagina. Esses produtos podem causar queimadura, intoxicação, irritação e atraso do diagnóstico correto.",
+          "Evite compartilhar toalha úmida ou roupa íntima por higiene geral, mas não isole a criança: candidíase endógena não se transmite pelo convívio comum, abraço, vaso sanitário ou sala de aula. Se estiver bem e confortável, não precisa faltar à escola apenas por esse diagnóstico.",
+          "Em adolescente sexualmente ativa, dor, corrimento ou irritação podem ter mais de uma causa. Pausar atividade que cause dor até avaliação pode evitar piora; o atendimento deve incluir privacidade, prevenção de IST e gestação conforme o contexto, sem julgamento.",
+          "Não faça exame interno, coleta ou teste caseiro. Em criança pré-púbere, qualquer exame/coleta deve ser decidido e realizado por profissional experiente, minimizando dor e trauma."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe antifúngico, apresentação, via, dose ou duração. Use somente o produto prescrito para esta criança/adolescente, do modo e pelo tempo orientados, após confirmação clínica adequada.",
+          "Não use sobra de creme ou comprimido, produto de adulto, medicamento de outra pessoa nem repita automaticamente uma receita antiga. Outros problemas podem parecer candidíase e alguns produtos irritam ou atrasam o diagnóstico.",
+          "Não aplique produto vaginal em bebê ou criança pré-púbere sem orientação específica. Dermatite de fralda por Candida e candidíase vulvovaginal são situações diferentes e não compartilham automaticamente o mesmo tratamento.",
+          "Informe todos os medicamentos e produtos usados, especialmente antibióticos recentes, corticoides e imunossupressores. Não suspenda medicamento necessário por conta própria; a equipe decide se há relação e como proceder.",
+          "Se houver possibilidade de gestação, avise antes de usar qualquer produto oral ou vaginal. Não use medicamento oral ou via intravaginal com base nesta ficha; idade, gestação, espécie, recorrência, comorbidades e interações mudam a decisão.",
+          "Episódios repetidos, sintomas que não melhoram ou que voltam logo exigem reavaliação e, às vezes, confirmação da espécie. Não prolongue, combine ou aumente tratamento sem a equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e hidratação habituais conforme tolerância. Nenhum alimento, chá, suco, iogurte ou dieta elimina Candida ou substitui avaliação e tratamento prescritos.",
+          "Não corte açúcar, leite, glúten ou grupos alimentares para 'matar o fungo' sem indicação nutricional. Restrições desnecessárias podem prejudicar crescimento e relação com a comida.",
+          "Não coloque iogurte, probiótico, alimento ou suplemento na vulva/vagina. Probióticos e dietas não devem ser usados como tratamento automático da candidíase vulvovaginal.",
+          "Se houver diabetes, siga o plano habitual de alimentação, líquidos, glicemia e insulina/medicamentos. Não ajuste dose por conta própria; glicemia muito alta, cetonas, vômitos ou prostração precisam do plano de urgência individual.",
+          "Se a criança/adolescente estiver com febre, vômitos, dor forte, muita sonolência ou não conseguir beber/urinar, não force grandes volumes; procure atendimento porque isso não é esperado de uma candidíase simples.",
+          "Em adolescente com possível gestação, alimentação não trata corrimento. Dor pélvica, sangramento, desmaio ou mal-estar exigem avaliação urgente para outras causas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se houver febre com prostração, dor abdominal/pélvica forte, vômitos persistentes, barriga muito dolorosa ou piora rápida; esses sinais não devem ser atribuídos a uma candidíase simples.",
+          "Acione o SAMU 192 se, após usar qualquer produto, ocorrer falta de ar, inchaço de face/língua, urticária disseminada, desmaio ou dificuldade para acordar. Suspenda o produto e leve a embalagem.",
+          "Sangramento genital fora do esperado, secreção com sangue, trauma, ferida profunda, objeto introduzido ou incapacidade de urinar exige avaliação urgente, especialmente em criança pré-púbere.",
+          "Se a criança/adolescente relatar toque sexual, coerção ou violência, ou houver lesão/medo que gere preocupação, acolha sem culpar nem interrogar repetidamente e procure imediatamente serviço de saúde/rede de proteção; emergência médica ou perigo atual exige SAMU 192/segurança local.",
+          "Em diabetes, imunodeficiência, quimioterapia ou uso importante de imunossupressor, febre, prostração, dor intensa ou disseminação rápida da vermelhidão exige avaliação imediata.",
+          "Procure urgência se houver pouca urina, sede intensa com fraqueza, incapacidade de manter líquidos, confusão, respiração diferente ou sinais de desidratação/doença metabólica."
+        ],
+        "QUANDO REAVALIAR": [
+          "Toda criança pré-púbere com suspeita de candidíase vulvovaginal deve ser avaliada, porque a condição é incomum nessa faixa e irritação, bactéria, oxiúros, dermatose, corpo estranho e questões de segurança precisam ser consideradas.",
+          "Na adolescente, procure avaliação no primeiro episódio, quando o diagnóstico não foi confirmado ou quando há odor forte, corrimento amarelo/verde, úlcera, dor pélvica, sintomas urinários ou risco de IST/gestação. Não trate apenas pelo aspecto do corrimento.",
+          "Retorne no prazo combinado após o tratamento prescrito. Antecipe se não houver melhora, se piorar ou se os sintomas voltarem logo; isso pode indicar diagnóstico diferente, espécie não-albicans, resistência, adesão difícil ou fator predisponente.",
+          "Episódios repetidos no mesmo ano precisam de revisão clínica. Definições profissionais variam entre três e quatro episódios/ano; o importante para a família é não repetir receita por conta própria e levar datas, produtos usados e resposta.",
+          "Na recorrência ou difícil controle, a equipe pode avaliar antibióticos recentes, diabetes, gestação, HIV/outra imunodeficiência, corticoide/imunossupressor e outras causas de sintomas. Isso não significa que qualquer uma esteja presente.",
+          "Peça plano escrito com diagnóstico, produto já prescrito, modo de uso, sinais de alarme, prazo de retorno e cuidados de higiene. A orientação da equipe que examinou a criança/adolescente prevalece sobre esta ficha geral."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Candidíase vulvovaginal não deve ser presumida em recém-nascida. Secreção branca/mucoide e pequeno sangramento na primeira semana podem refletir hormônios maternos; secreção persistente, odor, febre, má alimentação, ferida, sangramento importante ou prostração exige avaliação pediátrica. Dermatite da fralda é entidade diferente.",
+        "3a5m": "Em lactente pequena, vermelhidão na fralda não confirma candidíase vaginal. Troque fraldas, lave suavemente por fora e procure avaliação se houver secreção vaginal, febre, ferida, bolhas, dor, dificuldade para urinar ou piora; não use produto intravaginal.",
+        "6a11m": "Irritação e dermatite da fralda são mais prováveis que candidíase vulvovaginal. Se houver secreção vinda da vagina, odor, sangue, febre, dor ou falha de medidas simples, procure pediatria e não reutilize antifúngico sem diagnóstico.",
+        "1a": "Aos 12–23 meses, Candida vaginal é incomum. Priorize higiene externa suave e avaliação de dermatite, irritante, bactéria e corpo estranho se houver corrimento; exame interno ou produto vaginal não deve ser feito em casa.",
+        "2a5": "Entre 2 anos e a puberdade, candidíase vaginal é incomum. Coceira/corrimento pede avaliação de irritantes, oxiúros, bactéria, dermatose, corpo estranho, trauma e segurança. Sangue, dor forte, febre, lesão ou relato de toque exige atendimento rápido e acolhedor.",
+        "6a11": "Em escolar ainda pré-púbere, não presuma Candida nem faça coleta interna. Confirme estágio puberal e diferenciais; preserve privacidade e escute a criança sem perguntas repetidas. Após sinais de puberdade, Candida torna-se mais plausível, mas sintomas continuam inespecíficos.",
+        "12a17": "Em adolescente após a puberdade, a ficha é mais aplicável. Ofereça conversa privada e sem julgamento sobre menstruação, possível gestação, atividade sexual/IST quando pertinente, produtos usados, antibióticos, diabetes e imunossupressão; não automedique nem trate o diagnóstico como prova de atividade sexual.",
+        "unknown": "Confirme idade e estágio puberal. Em pré-púbere, candidíase vulvovaginal é incomum e precisa de avaliação de outras causas; em adolescente, confirme diagnóstico e contexto. Em qualquer idade, febre/prostração, dor pélvica forte, sangramento/trauma, reação alérgica ou preocupação de violência exige atendimento prioritário."
+      },
+      "refs": [
+        {
+          "id": "pais265_op3109_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis",
+          "url": "https://www.gov.br/aids/pt-br/central-de-conteudo/pcdts/2022/ist/pcdt-ist-2022_isbn-1.pdf"
+        },
+        {
+          "id": "pais265_op3109_2",
+          "name": "Vulvovaginal Candidiasis — STI Treatment Guidelines",
+          "url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm"
+        },
+        {
+          "id": "pais265_op3109_3",
+          "name": "Clinical Practice Guidelines: Vulval and vaginal conditions",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Vulval_and_vaginal_conditions/"
+        },
+        {
+          "id": "pais265_op3109_4",
+          "name": "Prepubertal Vulvovaginitis",
+          "url": "https://www.naspag.org/assets/docs/prepubertalvulvovaginitis_ap.pdf"
+        },
+        {
+          "id": "pais265_op3109_5",
+          "name": "Microbiological findings in prepubertal and pubertal girls with vulvovaginitis",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9649474/"
+        },
+        {
+          "id": "pais265_op3109_6",
+          "name": "Sexual Assault or Abuse of Children — STI Treatment Guidelines",
+          "url": "https://www.cdc.gov/std/treatment-guidelines/sexual-assault-children.htm"
+        },
+        {
+          "id": "pais265_op3109_7",
+          "name": "Vaginite — perguntas frequentes",
+          "url": "https://www.acog.org/womens-health/faqs/vaginitis"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3110",
+      "specific": false,
+      "key": "pps_catalog_75c2669398804e6d",
+      "label": "Carbúnculo — registro no PPS",
+      "entity": "Termo não desambiguado: pode indicar carbúnculo bacteriano cutâneo (aglomerado profundo de furúnculos) ou antraz/carbúnculo hemático por Bacillus anthracis",
+      "assessment": "{\"classification\":\"AMBIGUOUS_BETWEEN_BACTERIAL_CARBUNCLE_AND_ANTHRAX\",\"normalized_entity\":null,\"assessment\":\"No uso dermatológico, carbúnculo bacteriano é uma lesão cutânea profunda na qual vários furúnculos/folículos infectados se unem, frequentemente com múltiplos pontos de drenagem espontânea e possibilidade de febre, celulite ou bacteremia. No uso infectológico e de saúde pública brasileiro, carbúnculo também nomeia antraz por Bacillus anthracis; a forma cutânea pode evoluir de pápula/vesícula para úlcera com escara negra e edema. Compartilhar o nome não torna as entidades sinônimas.\",\"distinct_entities\":[{\"name\":\"Carbúnculo bacteriano cutâneo\",\"nature\":\"Conglomerado profundo de furúnculos/abscessos originados em múltiplos folículos, geralmente associado a Staphylococcus aureus\",\"clues\":\"Nódulo doloroso, quente, avermelhado, com pus ou múltiplos orifícios; pode haver febre e expansão da vermelhidão\",\"care_context\":\"Avaliação clínica de infecção cutânea; procedimentos e antimicrobianos dependem do exame, extensão, cultura quando indicada e condições da criança\"},{\"name\":\"Antraz cutâneo / carbúnculo hemático\",\"nature\":\"Infecção por Bacillus anthracis, de relevância epidemiológica e de saúde pública\",\"clues\":\"Exposição compatível a animal doente/morto, produtos animais ou material suspeito; lesão que pode formar escara negra central com edema importante e dor desproporcionalmente pequena\",\"care_context\":\"Avaliação imediata, diagnóstico laboratorial de referência e condução segundo vigilância/saúde pública; não deve ser tratado como furúnculo comum\"}],\"not_automatically_equivalent_to\":[\"Furúnculo isolado\",\"Abscesso cutâneo de qualquer causa\",\"Foliculite superficial\",\"Antraz/carbúnculo hemático sem exposição ou descrição compatível\",\"Escara negra de qualquer etiologia\",\"Indicação automática de antibiótico, dose ou procedimento\"],\"pediatric_scope\":\"As duas entidades podem ocorrer em crianças, mas antraz é raro e depende fortemente de exposição epidemiológica. Em recém-nascidos, lactentes pequenos, imunossuprimidos e crianças com sinais sistêmicos, qualquer lesão infecciosa suspeita exige limiar mais baixo para avaliação presencial.\",\"reason_for_source_term_issue\":\"Uma única ficha específica não consegue preservar simultaneamente a segurança de uma infecção cutânea comum e a urgência epidemiológica de antraz sem inventar qual doença o cadastro pretende representar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Este nome pode significar duas doenças diferentes. Confirme no diagnóstico escrito se o profissional quis dizer um AGLOMERADO DE FURÚNCULOS/ABSCESSOS ou ANTRAZ (CARBÚNCULO HEMÁTICO). Não use esta ficha como confirmação do diagnóstico.",
+          "Enquanto aguarda avaliação, não aperte, fure, corte, esprema nem tente retirar crosta ou escara. Se houver secreção, cubra sem apertar com gaze ou pano limpo, lave as mãos antes e depois e descarte o curativo em saco fechado.",
+          "Não compartilhe toalhas, roupas, lâminas, pinças ou objetos que tocaram a lesão. Lave roupas e toalhas usadas pela criança e mantenha unhas curtas para reduzir manipulação.",
+          "Se houve contato com animal doente ou morto, couro/lã/pelo/carne suspeitos, material biológico ou pó suspeito, pare de manipular o material, afaste outras pessoas e procure avaliação imediata informando claramente a exposição. Não trate como furúnculo comum.",
+          "Observe e anote início, crescimento da área vermelha, dor, temperatura, secreção, novas lesões e estado geral. Uma foto diária com escala, sem atrasar atendimento, pode ajudar a equipe a avaliar evolução."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha a área limpa e protegida de atrito. Não faça compressas, curativos oclusivos ou produtos caseiros sobre lesão com suspeita de antraz antes de orientação presencial.",
+          "Na hipótese de infecção cutânea bacteriana comum, higiene das mãos, cobertura da secreção e não compartilhar objetos reduzem contato com pus; não permita piscina, esporte de contato ou atividade que exponha a lesão enquanto houver drenagem não contida.",
+          "Não raspe os pelos sobre a área, não massageie e não use agulha. Qualquer coleta ou procedimento deve ser decidido e realizado por profissional em ambiente adequado.",
+          "Avise creche/escola apenas com informação confirmada e siga a orientação da equipe/vigilância. Não rotule a criança como portadora de antraz com base apenas no nome 'carbúnculo'."
+        ],
+        "MEDICAMENTOS": [
+          "Não iniciar antibiótico, pomada antibiótica, corticoide ou antisséptico por conta própria. As duas possíveis doenças exigem escolhas diferentes, e tratamento prévio pode dificultar a coleta diagnóstica.",
+          "Se já existe prescrição atual, use somente o medicamento, horário e duração escritos para esta criança e este episódio. Não reutilize sobra, não compartilhe e não ajuste dose pela aparência da lesão.",
+          "Medicamento para dor ou febre só deve ser usado se já estiver orientado para a idade, peso e condições da criança. Não aplique anestésico, pasta, erva, álcool ou substância corrosiva na pele.",
+          "A necessidade de antimicrobiano, coleta ou procedimento é decisão clínica após definir a entidade; este registro ambíguo não autoriza nenhum deles."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança estiver alerta e sem dificuldade para engolir, mantenha alimentação habitual e ofereça líquidos adequados à idade. Não há alimento ou suplemento que trate qualquer uma das duas doenças.",
+          "Amamentação pode continuar, salvo orientação individual contrária, desde que a lesão esteja coberta e não exista lesão na mama em contato com a boca do bebê; em caso de dúvida, peça orientação no mesmo dia.",
+          "Recusa persistente, vômitos repetidos, boca seca, pouca urina, sonolência ou incapacidade de beber são sinais de piora e exigem avaliação urgente.",
+          "Não ofereça comida ou bebida a criança muito sonolenta, confusa, convulsionando ou com dificuldade respiratória; acione emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediatamente se houver febre com prostração, confusão, desmaio, convulsão, dificuldade para respirar, pele arroxeada/cinza, vômitos repetidos, dor intensa, batimento acelerado ou criança difícil de acordar.",
+          "Procure urgência se a vermelhidão/inchaço aumentar rapidamente, surgirem listras vermelhas, dor forte, mau cheiro, muitas lesões, acometimento da face/ao redor dos olhos, ou se a criança for recém-nascida, imunossuprimida ou tiver doença crônica relevante.",
+          "Suspeite de antraz e informe a equipe sem demora diante de escara negra central com edema importante, especialmente se a lesão for pouco dolorosa, ou após contato com animal doente/morto, pele, lã, pelo, carne ou material/pó suspeito.",
+          "Se houver exposição suspeita e sintomas gerais, não espere a lesão 'amadurecer' nem tente abrir. Vá à emergência e relate quem, quando e a que material a criança foi exposta.",
+          "Acione SAMU 192 se a criança não responder, não respirar normalmente, estiver em convulsão prolongada ou apresentar deterioração rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "Este rótulo deve ser esclarecido antes de qualquer orientação específica. Contate no mesmo dia o serviço que registrou 'carbúnculo' para obter a descrição completa, a hipótese etiológica e o plano de seguimento.",
+          "Lesão dolorosa, purulenta ou com vários pontos de secreção precisa avaliação presencial, mesmo sem febre. Não aguarde resolução espontânea se estiver crescendo, recidivando ou não houver melhora no prazo definido pela equipe.",
+          "Se houver qualquer contexto compatível com antraz/carbúnculo hemático, a avaliação é imediata e deve incluir comunicação da exposição; não aguarde consulta de rotina.",
+          "Após avaliação, confirme por escrito: diagnóstico final, cuidados do curativo, necessidade de afastamento, sinais de alarme, prazo de retorno e quem contatar se novas pessoas ou animais adoecerem.",
+          "Se o diagnóstico continuar indefinido, manter SOURCE_TERM_ISSUE e encaminhar o registro para revisão terminológica; não convertê-lo em ficha publicada por simples alias."
+        ]
+      },
+      "ageMap": {
+        "unknown": "Confirmar idade, peso, comorbidades, local/aspecto da lesão, presença de pus ou escara, febre, contato com pessoas com furúnculos e exposição a animais/produtos animais/material suspeito antes de qualquer orientação específica.",
+        "u3m": "Recém-nascido ou lactente menor de 3 meses com lesão purulenta, vermelhidão crescente, temperatura de 38 °C ou mais, temperatura baixa, recusa, sonolência ou piora do estado geral precisa avaliação imediata; não manipular a lesão nem aguardar em casa.",
+        "3a5m": "Lactentes podem piorar com poucos sinais. Procurar avaliação no mesmo dia para qualquer lesão compatível e imediatamente se houver febre, pouca alimentação, menos urina, prostração ou exposição que levante suspeita de antraz.",
+        "6a11m": "Impedir coçar/espremer, cobrir secreção sem apertar e manter objetos pessoais separados. Febre, crescimento rápido, face acometida, recusa de líquidos ou exposição epidemiológica exigem urgência.",
+        "1a": "Crianças pequenas não devem receber compressas caseiras nem ter a lesão furada. Avaliar presencialmente no mesmo dia e informar exposição a animais ou materiais suspeitos.",
+        "2a5": "Ensinar a não tocar na lesão, usar toalha individual e manter a área coberta se houver secreção. Creche deve seguir plano do serviço; não afastar ou rotular como antraz sem diagnóstico.",
+        "6a11": "Evitar compartilhar equipamento esportivo, toalhas e lâminas; pausar contato físico/piscina enquanto secreção não puder ser contida. Perguntar diretamente sobre contato com animais, fazenda, couro/lã e material suspeito.",
+        "12a17": "Adolescentes devem ser orientados a não espremer, depilar ou tratar com sobras de antibiótico. Investigar esportes de contato, compartilhamento de lâminas, trabalho rural e exposição a animais/produtos animais sem estigma."
+      },
+      "refs": [
+        {
+          "id": "pais265_op3110_1",
+          "name": "Guia para Diagnóstico Laboratorial em Saúde Pública",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dtha/publicacoes/guia-para-diagnostico-laboratorial-em-saude-publica"
+        },
+        {
+          "id": "pais265_op3110_2",
+          "name": "Solicitar diagnóstico de referência em Bacillus anthracis em materiais clínicos",
+          "url": "https://www.gov.br/pt-br/servicos/solicitar-diagnostico-de-referencia-em-bacillus-anthracis-em-materiais-clinicos"
+        },
+        {
+          "id": "pais265_op3110_3",
+          "name": "Módulo 3: Principais Síndromes Infecciosas",
+          "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/servicosdesaude/publicacoes/modulo-3-principais-sindromes-infecciosas/@@download/file"
+        },
+        {
+          "id": "pais265_op3110_4",
+          "name": "Foliculite",
+          "url": "https://www.sbd.org.br/doencas/foliculite/"
+        },
+        {
+          "id": "pais265_op3110_5",
+          "name": "Boils",
+          "url": "https://www.nhs.uk/conditions/boils/"
+        },
+        {
+          "id": "pais265_op3110_6",
+          "name": "Staphylococcal infections",
+          "url": "https://www.nhs.uk/conditions/staphylococcal-infections/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3111",
+      "specific": true,
+      "key": "pps_catalog_51eef7edf131e0bf",
+      "label": "Cardiomiopatia dilatada — registro no PPS",
+      "entity": "Cardiomiopatia dilatada pediátrica confirmada, fenótipo de dilatação ventricular com disfunção sistólica não explicado apenas por sobrecarga hemodinâmica ou outra condição transitória, com gravidade e evolução variáveis; pode causar insuficiência cardíaca e arritmias, mas o rótulo não define etiologia, estabilidade, prognóstico, tratamento, dispositivo ou liberação para atividade",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CARDIOMYOPATHY_PHENOTYPE_WITH_ETIOLOGY_AND_SEVERITY_UNSPECIFIED\",\"normalized_entity\":\"Cardiomiopatia dilatada pediátrica\",\"assessment\":\"O termo é uma entidade clínica válida. Em crianças, exige dilatação ventricular e função sistólica reduzida interpretadas em relação ao tamanho corporal e após excluir condições capazes de produzir o mesmo fenótipo, como sobrecarga por cardiopatia estrutural, isquemia/coronária anômala ou doença sistêmica transitória. O rótulo isolado não informa se a causa é genética/familiar, miocardite, metabólica, neuromuscular, tóxica/oncológica, induzida por arritmia ou desconhecida; também não informa se há insuficiência cardíaca, arritmia, trombo, recuperação ou indicação de transplante/dispositivo.\",\"heart_failure_boundary\":\"Cardiomiopatia dilatada é a doença/fenótipo do músculo cardíaco; insuficiência cardíaca é uma síndrome de congestão e/ou baixo débito que pode estar presente, ausente, compensada ou descompensada. Respiração rápida, dificuldade alimentar, suor, baixo ganho de peso, fadiga, intolerância ao esforço, edema, dor abdominal, pouca urina e alteração de consciência ajudam a reconhecer repercussão, mas não confirmam sozinhos a cardiomiopatia.\",\"myocarditis_boundary\":\"Miocardite é uma inflamação do miocárdio que pode causar disfunção aguda e fenótipo dilatado, mas não deve ser presumida por infecção viral recente, febre ou pela dilatação isolada. A etiologia requer avaliação dirigida; esta ficha não trata miocardite como sinônimo nem orienta anti-inflamatório ou imunoterapia.\",\"genetic_metabolic_boundary\":\"Causas genéticas, familiares, metabólicas, mitocondriais e neuromusculares são relevantes na infância, mas não podem ser inferidas pela aparência do coração. História familiar, exame, evolução e testes selecionados pela equipe podem indicar avaliação genética/metabólica e rastreamento de parentes; resultado negativo também não exclui todas as causas hereditárias.\",\"arrhythmia_boundary\":\"Arritmias podem ser consequência, complicação ou, em alguns casos, fator causal da disfunção ventricular. Palpitação, síncope, colapso ou ritmo muito rápido/lento exigem correlação com ECG/monitorização; não autorizam diagnóstico de arritmia nem dispositivo por relógio, oxímetro ou aplicativo.\",\"course_boundary\":\"A evolução é heterogênea. Algumas crianças apresentam remodelamento reverso e melhora da função, outras persistem estáveis ou pioram e algumas necessitam terapias avançadas. Melhora de sintomas ou normalização de medida não equivale a cura garantida e não encerra o seguimento; não é seguro fornecer prognóstico individual pelo rótulo.\",\"not_automatically_equivalent_to\":[\"insuficiência cardíaca descompensada em toda criança\",\"miocardite viral ou bacteriana\",\"doença genética, metabólica, mitocondrial ou neuromuscular confirmada\",\"arritmia como causa ou complicação comprovada\",\"coração aumentado em radiografia sem confirmação do fenótipo\",\"indicação automática de medicamento, restrição de sal/líquido, dispositivo, cirurgia ou transplante\",\"proibição universal de escola ou atividade física\",\"cura definitiva após melhora de sintomas ou função\"],\"critical_context_to_confirm\":[\"idade, início dos sintomas, diagnóstico confirmado e função ventricular no último plano da cardiologia\",\"respiração, cor, perfusão, estado mental, urina, edema e mudança rápida de peso quando monitoramento foi prescrito\",\"em lactentes: duração e vigor da mamada, suor, pausas, vômitos, fraldas e ganho de peso\",\"em crianças maiores: fadiga, tolerância a brincar/subir escadas/esporte, dor torácica, palpitação, tontura e síncope\",\"medicamentos atuais, doses prescritas, adesão, efeitos adversos e orientação para dias de vômitos/doença, sem alteração caseira\",\"história de miocardite, arritmia, cardiopatia estrutural, doença sistêmica, quimioterapia/toxina, doença neuromuscular/metabólica e história familiar\",\"plano individual para alimentação, líquidos, sal, atividade, escola, viagens, vacinas, retorno e contatos de urgência\"],\"urgency_rule\":\"Acionar SAMU 192/emergência diante de inconsciência, respiração ausente ou anormal, coloração azulada/cinza, falta de ar intensa, confusão, convulsão, desmaio sem recuperação rápida, dor torácica importante, palpitação com mal-estar grave ou sinais de choque/baixo débito. Piora da respiração, mamadas, urina, edema, peso, tolerância ao esforço ou vômitos que impedem o plano prescrito exige contato no mesmo dia, com antecipação para emergência se houver deterioração rápida.\",\"counting_rule\":\"Contar pps_catalog_51eef7edf131e0bf como uma orientação específica para cardiomiopatia dilatada pediátrica. Não contar separadamente insuficiência cardíaca, miocardite, arritmia ou etiologias genéticas/metabólicas sem os respectivos IDs e evidências. O sufixo administrativo ‘registro no PPS’ não cria outra entidade.\",\"resolution\":\"Termo válido e específico, preservado como fenótipo pediátrico com etiologia, gravidade e tratamento individualizados.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Cardiomiopatia dilatada é uma doença em que uma ou mais câmaras do coração ficam aumentadas e o músculo bombeia com menos força. A gravidade varia muito; o diagnóstico não informa sozinho a causa nem se a criança está estável hoje.",
+          "Siga o plano escrito da cardiologia e mantenha consultas mesmo quando a criança parece melhor. Leve aos atendimentos a lista de medicamentos, laudos, ECGs, exames de imagem e uma linha do tempo de sintomas e internações.",
+          "Observe mudança no padrão de respiração, cor, energia, suor, alimentação, vômitos, urina e inchaço. Em bebês, anote duração das mamadas, pausas para respirar, cansaço/suor e fraldas; em maiores, observe brincar, caminhar, escadas e escola.",
+          "Peso, pressão, frequência e saturação só devem ser medidos na frequência e com a técnica combinadas com a equipe. Uma medida isolada de balança, relógio ou oxímetro não prova estabilidade nem piora; sintomas e tendência precisam ser interpretados juntos.",
+          "Não deixe a criança sozinha em água, altura ou atividade intensa após desmaio, palpitação com mal-estar, dor no peito ou episódio ainda não esclarecido. Escola e cuidadores devem conhecer os sinais de alarme e os contatos do plano.",
+          "Pergunte à equipe se a história sugere avaliação de parentes ou genética. Não presuma causa hereditária, não teste familiares por conta própria e não culpe alimentação, exercício, infecção ou comportamento pela doença."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize horários, receitas e retornos em um plano simples; use lembretes e confirme com a equipe o que fazer se houver vômitos, jejum, febre ou dose esquecida. Não improvise compensações.",
+          "Atividade física e participação escolar devem ser individualizadas. Evite tanto proibição permanente sem avaliação quanto esforço forçado; pare a atividade se surgirem falta de ar fora do habitual, dor no peito, palpitação, tontura, fraqueza ou desmaio.",
+          "Para lactentes que cansam ao mamar, faça pausas e ofereça conforme o plano de nutrição/cardiologia. Não prolongue uma mamada exaustiva nem force alimento quando houver respiração difícil ou sonolência.",
+          "Evite fumaça de cigarro/vape, energéticos, estimulantes e substâncias não informadas à equipe. Adolescentes devem ter oportunidade de conversar em particular sobre suplementos, álcool, nicotina e outras substâncias sem julgamento.",
+          "Mantenha vacinas e prevenção de infecções conforme orientação pediátrica; doença viral comum não prova miocardite, mas febre, vômitos ou piora respiratória podem descompensar uma criança vulnerável e merecem contato precoce.",
+          "Se estiver inconsciente e não respirar normalmente, acione o SAMU 192, peça um DEA e inicie reanimação conforme treinamento ou orientação do atendente. Não atrase para buscar aparelho doméstico ou laudo."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, dose, via, intervalo ou duração. O tratamento depende de sintomas, função cardíaca, pressão, ritmo, rins, eletrólitos, causa e plano da cardiologia pediátrica.",
+          "Dê somente o que foi prescrito, no horário e na apresentação conferidos. Não inicie, suspenda, reduza, dobre ou substitua medicamento porque a criança melhorou, piorou ou vomitou sem falar com a equipe.",
+          "Não use remédio de outra pessoa, sobra de receita, descongestionante, anti-inflamatório, chá, fitoterápico, suplemento ou energético sem verificar compatibilidade com o plano cardíaco. Produtos comuns podem interagir ou afetar pressão, ritmo, rim e líquidos.",
+          "Se houver vômitos repetidos, diarreia, recusa de líquidos, pouca urina ou dificuldade para manter os medicamentos, contate o serviço no mesmo dia; não repita automaticamente uma dose vomitada.",
+          "Leve a lista completa de produtos em toda urgência. A necessidade de anticoagulação, antiarrítmico, dispositivo, suporte mecânico ou transplante não pode ser deduzida do rótulo e pertence à equipe especializada."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação habitual adequada à idade, em porções menores e mais frequentes se houver cansaço, seguindo o plano de nutrição/cardiologia. O objetivo é crescer sem tornar a refeição uma prova de esforço.",
+          "Não restrinja nem aumente água, sal ou calorias por conta própria. Necessidades mudam conforme congestão, rins, medicamentos, idade e crescimento; siga apenas metas individuais escritas.",
+          "Não concentre fórmula, não dilua de modo diferente do rótulo/plano e não acrescente açúcar, sal, espessante ou suplemento sem orientação. Em lactentes, conte fraldas e observe ganho de peso conforme combinado.",
+          "Não force mamada, alimento ou líquido se houver respiração muito rápida/difícil, sonolência, engasgos, coloração azulada/cinza ou vômitos repetidos. Nessa situação procure atendimento, pois oferecer pela boca pode aumentar o risco de aspiração.",
+          "Procure contato no mesmo dia se a criança passa a cansar mais para comer, demora muito mais, reduz bastante a ingestão, vomita repetidamente, urina menos ou perde/ganha peso rapidamente em relação ao padrão orientado.",
+          "Se houver exame ou procedimento programado, cumpra apenas o jejum informado pelo serviço e avise o que foi ingerido; esta ficha não fornece jejum genérico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 diante de inconsciência, ausência de resposta, respiração ausente ou anormal, desmaio sem recuperação rápida, confusão, convulsão ou dificuldade importante para acordar.",
+          "Procure emergência imediatamente se houver falta de ar intensa ou em piora rápida, lábios/pele azulados ou acinzentados, pele fria/manchada, suor frio, pulso muito fraco, hipotensão conhecida ou deterioração rápida.",
+          "Dor no peito importante ou persistente, palpitação com tontura/desmaio, ritmo muito rápido ou lento com mal-estar, ou desmaio durante esforço exige emergência mesmo que a criança pareça melhor depois.",
+          "Em bebê, mamada muito fraca ou interrompida por falta de ar, suor intenso, gemência, retrações, sonolência fora do habitual, cor anormal, extremidades frias ou poucas fraldas exige avaliação emergencial.",
+          "Procure emergência se a criança não consegue deitar por falta de ar, acorda com sufocamento, apresenta inchaço que aumenta rapidamente, abdome muito distendido/doloroso, quase não urina ou fica progressivamente prostrada.",
+          "Febre/doença recente com dor no peito, palpitação, desmaio, falta de ar, prostração intensa ou piora súbita exige avaliação urgente; não presuma miocardite nem trate em casa como causa confirmada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno programado com cardiologia mesmo sem sintomas. Função e tamanho do coração, ritmo, crescimento, efeitos do tratamento e possível causa precisam ser acompanhados; melhora não encerra automaticamente o seguimento.",
+          "Contate o serviço no mesmo dia se houver piora de respiração, alimentação, energia, sono, urina, inchaço, tolerância ao esforço, vômitos ou dificuldade de manter o plano, ainda que não existam sinais imediatos de choque.",
+          "Antecipe o retorno se surgirem palpitações, tontura, pré-síncope, dor no peito, desmaio, queda de rendimento escolar/esportivo ou nova limitação para brincar, caminhar ou subir escadas.",
+          "Leve registros objetivos solicitados pela equipe, embalagens/lista de medicamentos e perguntas sobre atividade, escola, alimentação, líquidos, vacinas, viagens e o que fazer em dias de doença.",
+          "Se houver suspeita de causa genética/familiar, metabólica, neuromuscular, inflamatória, tóxica/oncológica ou por arritmia, confirme com a equipe quais avaliações são realmente indicadas; nenhuma é universal por esta ficha.",
+          "Peça plano escrito com sinais de alarme, contatos, prazo de retorno e regras individuais para medicamentos, líquidos, alimentação e atividade. Reavalie o plano à medida que a criança cresce ou a doença muda."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente pequeno pode descompensar com mamada fraca/cansativa, suor, pausas, respiração rápida, palidez/cianose, sonolência, extremidades frias ou menos fraldas. Qualquer combinação com piora rápida exige emergência pediátrica; não dependa de relógio ou saturação doméstica.",
+        "3a5m": "Compare duração e vigor das mamadas, suor, respiração, vômitos, cor, alerta, fraldas e ganho de peso com o padrão individual. Cansaço crescente para alimentar ou urina reduzida exige contato no mesmo dia; sinais de baixo débito antecipam para emergência.",
+        "6a11m": "Observe menor interação, menos movimento, alimentação mais demorada, suor, respiração rápida, palidez, edema e menos urina. Não force comida/líquido se houver esforço respiratório ou sonolência.",
+        "1a": "Queda de brincadeira, pausas frequentes, recusa alimentar, irritabilidade/sonolência, respiração rápida, inchaço ou poucas fraldas podem substituir o relato de fadiga. Piora rápida, cianose ou desmaio é emergência.",
+        "2a5": "Observe se parou de acompanhar pares, precisa de colo/pausas, fica ofegante, sua muito, relata dor ou tem quedas/desmaio. Escola e cuidadores devem conhecer o plano; atividade é individualizada, não liberada nem proibida automaticamente.",
+        "6a11": "Compare esforço em brincar, caminhar, escadas e educação física; pergunte sobre dor torácica, palpitação, tontura ou síncope. Ajustes de atividade e plano escolar devem vir da cardiologia e ser revistos com crescimento e evolução.",
+        "12a17": "Inclua o adolescente nas decisões, revise adesão, treino, energéticos, suplementos, álcool/nicotina/outras substâncias e ofereça conversa confidencial apropriada. Desmaio no esforço, dor torácica ou palpitação com mal-estar exige avaliação urgente; planeje transição do cuidado.",
+        "unknown": "Confirmar idade, diagnóstico/última função cardíaca, sintomas atuais, alimentação/crescimento, perfusão/urina, edema, ritmo, tratamento, causa investigada e plano de atividade antes de definir urgência, prognóstico ou conduta."
+      },
+      "refs": [
+        {
+          "id": "pais265_op3111_1",
+          "name": "Cardiomyopathy in Children: Classification and Diagnosis: A Scientific Statement From the American Heart Association",
+          "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000682"
+        },
+        {
+          "id": "pais265_op3111_2",
+          "name": "Insuficiência Cardíaca na Criança",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/agosto/14/24449f-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        },
+        {
+          "id": "pais265_op3111_3",
+          "name": "Insuficiência Cardíaca",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/insuficiencia-cardiaca/"
+        },
+        {
+          "id": "pais265_op3111_4",
+          "name": "Evaluation and Management of the Child With Acute Decompensated Heart Failure: A Scientific Statement From the American Heart Association",
+          "url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001428"
+        },
+        {
+          "id": "pais265_op3111_5",
+          "name": "Physical Activity in Pediatric Cardiomyopathies: Top Things to Know",
+          "url": "https://professional.heart.org/en/science-news/physical-activity-in-pediatric-cardiomyopathies/top-things-to-know"
+        },
+        {
+          "id": "pais265_op3111_6",
+          "name": "Progressive Left Ventricular Remodeling for Predicting Mortality in Children With Dilated Cardiomyopathy: The Pediatric Cardiomyopathy Registry",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10926795/"
+        },
+        {
+          "id": "pais265_op3111_7",
+          "name": "Survival and cardiac recovery in pediatric dilated cardiomyopathy: A long-term cohort study of risk factors, prognosis, and health outcomes followed into adulthood",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049613/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

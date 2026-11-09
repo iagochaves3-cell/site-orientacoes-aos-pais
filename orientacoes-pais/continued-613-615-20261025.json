@@ -1,0 +1,237 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T19:31:40.380Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_9be66afa38636788",
+      "label": "Enurese noturna — registro no PPS",
+      "entity": "Enurese noturna na infância",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Molhar a cama exige contexto etário; sintomas urinários diurnos ou retorno após seis meses seco precisam de avaliação própria.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Molhar a cama não é culpa da criança. Evite castigos, comparações e recompensas condicionadas a uma noite seca. Valorize ações que ela consegue realizar e preserve sua privacidade.",
+          "Anote noites molhadas, idas ao banheiro, líquidos, evacuações e sintomas durante o dia. Leve o diário à consulta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Facilite o banheiro, inclusive à noite, e incentive urinar regularmente durante o dia e antes de dormir. Protetor de colchão e roupa limpa acessível podem diminuir o desconforto.",
+          "Um alarme de umidade pode ajudar quando escolhido com a equipe e com participação da família. Não é o mesmo que acordar ou carregar a criança repetidamente para urinar; isso não ensina controle duradouro."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie remédio para segurar urina por conta própria. Se houver desmopressina prescrita, confirme apresentação, horário e regras de líquidos com a equipe; não aumente nem repita dose esquecida ou vomitada.",
+          "A desmopressina exige restrição de líquidos desde uma hora antes até oito horas depois, conforme o plano prescrito. Se não for possível cumprir, ou houver vômitos ou diarreia, não dê a dose e procure orientação. Essa restrição não é uma regra geral para crianças sem esse medicamento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha hidratação habitual distribuída durante o dia, sem deixar a criança com sede para evitar cama molhada. Evite bebidas com cafeína. Não imponha corte geral de líquidos ou dietas.",
+          "Informe fezes duras, dor para evacuar ou escapes na roupa: constipação pode acompanhar o problema e precisa de plano próprio."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Sede excessiva, muita urina, emagrecimento ou cansaço novo exigem avaliação no mesmo dia. Se vierem com vômitos, dor abdominal, sonolência, confusão ou respiração rápida e profunda, procure emergência imediatamente.",
+          "Durante uso de desmopressina, dor de cabeça forte, vômitos, sonolência incomum ou convulsão podem indicar alteração grave do equilíbrio de água: procure hospital imediatamente. Não dê outra dose enquanto aguarda avaliação."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação se voltou a molhar após seis meses seco, houver ardor, escapes diurnos, jato fraco, muita urgência, ronco importante ou dificuldade emocional. Ardor novo, sangue na urina, febre com sintomas urinários ou dor nas costas merecem atendimento no mesmo dia.",
+          "Combine revisão da resposta ao alarme ou medicamento, em geral nas primeiras semanas. Falta de resposta precisa de revisão do plano; não aumente tratamento em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Controle noturno não é esperado em lactentes; não aplicar alarme, restrição de líquidos ou medicamento desta ficha.",
+        "3a5m": "Fraldas molhadas são esperadas; alterações de mamadas, urina ou estado geral exigem avaliação própria.",
+        "6a11m": "Esta ficha não transforma fralda molhada em doença; mantenha cuidados adequados à idade.",
+        "1a": "Não exigir continência durante o sono nem restringir líquidos para secar a fralda.",
+        "2a5": "Antes dos cinco anos, molhar a cama é comum; avaliação depende de sintomas e sofrimento, sem medicalizar automaticamente.",
+        "6a11": "Escolha o plano com a criança e a equipe; apoio familiar é essencial, sem punição.",
+        "12a17": "Respeite privacidade e participação do adolescente, inclusive em viagens e pernoites.",
+        "unknown": "Confirme idade, sintomas diurnos e período prévio seco antes de aplicar esta orientação."
+      },
+      "refs": [
+        {
+          "id": "pais215_op613_1",
+          "name": "Bedwetting in children",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/"
+        },
+        {
+          "id": "pais215_op613_2",
+          "name": "Enuresis: Bed wetting and Monosymptomatic Enuresis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Enuresis_-_Bed_wetting_and_Monosymptomatic_Enuresis/"
+        },
+        {
+          "id": "pais215_op613_3",
+          "name": "Nocturnal Enuresis in children",
+          "url": "https://www.cuh.nhs.uk/patient-information/nocturnal-enuresis-bedwetting-in-children/"
+        },
+        {
+          "id": "pais215_op613_4",
+          "name": "Desmopressin for bedwetting",
+          "url": "https://www.medicinesforchildren.org.uk/medicines/desmopressin-for-bedwetting/"
+        },
+        {
+          "id": "pais215_op613_5",
+          "name": "Symptoms of type 1 diabetes",
+          "url": "https://www.nhs.uk/conditions/type-1-diabetes/symptoms/"
+        },
+        {
+          "id": "pais215_op613_6",
+          "name": "Urinary tract infections",
+          "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pdf1500_534",
+      "label": "Enurese noturna monossintomática",
+      "entity": "Enurese noturna na infância",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Molhar a cama exige contexto etário; sintomas urinários diurnos ou retorno após seis meses seco precisam de avaliação própria.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Monossintomática significa que não há outros sintomas urinários durante o dia. Se surgirem escapes, ardor, urgência ou dificuldade para urinar, o quadro precisa ser reavaliado.",
+          "Molhar a cama não é culpa da criança. Evite castigos, comparações e recompensas condicionadas a uma noite seca. Valorize ações que ela consegue realizar e preserve sua privacidade.",
+          "Anote noites molhadas, idas ao banheiro, líquidos, evacuações e sintomas durante o dia. Leve o diário à consulta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Facilite o banheiro, inclusive à noite, e incentive urinar regularmente durante o dia e antes de dormir. Protetor de colchão e roupa limpa acessível podem diminuir o desconforto.",
+          "Um alarme de umidade pode ajudar quando escolhido com a equipe e com participação da família. Não é o mesmo que acordar ou carregar a criança repetidamente para urinar; isso não ensina controle duradouro."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie remédio para segurar urina por conta própria. Se houver desmopressina prescrita, confirme apresentação, horário e regras de líquidos com a equipe; não aumente nem repita dose esquecida ou vomitada.",
+          "A desmopressina exige restrição de líquidos desde uma hora antes até oito horas depois, conforme o plano prescrito. Se não for possível cumprir, ou houver vômitos ou diarreia, não dê a dose e procure orientação. Essa restrição não é uma regra geral para crianças sem esse medicamento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha hidratação habitual distribuída durante o dia, sem deixar a criança com sede para evitar cama molhada. Evite bebidas com cafeína. Não imponha corte geral de líquidos ou dietas.",
+          "Informe fezes duras, dor para evacuar ou escapes na roupa: constipação pode acompanhar o problema e precisa de plano próprio."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Sede excessiva, muita urina, emagrecimento ou cansaço novo exigem avaliação no mesmo dia. Se vierem com vômitos, dor abdominal, sonolência, confusão ou respiração rápida e profunda, procure emergência imediatamente.",
+          "Durante uso de desmopressina, dor de cabeça forte, vômitos, sonolência incomum ou convulsão podem indicar alteração grave do equilíbrio de água: procure hospital imediatamente. Não dê outra dose enquanto aguarda avaliação."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação se voltou a molhar após seis meses seco, houver ardor, escapes diurnos, jato fraco, muita urgência, ronco importante ou dificuldade emocional. Ardor novo, sangue na urina, febre com sintomas urinários ou dor nas costas merecem atendimento no mesmo dia.",
+          "Combine revisão da resposta ao alarme ou medicamento, em geral nas primeiras semanas. Falta de resposta precisa de revisão do plano; não aumente tratamento em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Controle noturno não é esperado em lactentes; não aplicar alarme, restrição de líquidos ou medicamento desta ficha.",
+        "3a5m": "Fraldas molhadas são esperadas; alterações de mamadas, urina ou estado geral exigem avaliação própria.",
+        "6a11m": "Esta ficha não transforma fralda molhada em doença; mantenha cuidados adequados à idade.",
+        "1a": "Não exigir continência durante o sono nem restringir líquidos para secar a fralda.",
+        "2a5": "Antes dos cinco anos, molhar a cama é comum; avaliação depende de sintomas e sofrimento, sem medicalizar automaticamente.",
+        "6a11": "Escolha o plano com a criança e a equipe; apoio familiar é essencial, sem punição.",
+        "12a17": "Respeite privacidade e participação do adolescente, inclusive em viagens e pernoites.",
+        "unknown": "Confirme idade, sintomas diurnos e período prévio seco antes de aplicar esta orientação."
+      },
+      "refs": [
+        {
+          "id": "pais215_op614_1",
+          "name": "Bedwetting in children",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/"
+        },
+        {
+          "id": "pais215_op614_2",
+          "name": "Enuresis: Bed wetting and Monosymptomatic Enuresis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Enuresis_-_Bed_wetting_and_Monosymptomatic_Enuresis/"
+        },
+        {
+          "id": "pais215_op614_3",
+          "name": "Nocturnal Enuresis in children",
+          "url": "https://www.cuh.nhs.uk/patient-information/nocturnal-enuresis-bedwetting-in-children/"
+        },
+        {
+          "id": "pais215_op614_4",
+          "name": "Desmopressin for bedwetting",
+          "url": "https://www.medicinesforchildren.org.uk/medicines/desmopressin-for-bedwetting/"
+        },
+        {
+          "id": "pais215_op614_5",
+          "name": "Symptoms of type 1 diabetes",
+          "url": "https://www.nhs.uk/conditions/type-1-diabetes/symptoms/"
+        },
+        {
+          "id": "pais215_op614_6",
+          "name": "Urinary tract infections",
+          "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_abb57ede8fb1fdd8",
+      "label": "Enurese Noturna Monossintomática Primária — registro no PPS",
+      "entity": "Enurese noturna na infância",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Molhar a cama exige contexto etário; sintomas urinários diurnos ou retorno após seis meses seco precisam de avaliação própria.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Primária indica que não houve período de pelo menos seis meses de noites secas sem ajuda. Retorno após esse período não deve ser tratado automaticamente como a mesma situação.",
+          "Monossintomática significa que não há outros sintomas urinários durante o dia. Se surgirem escapes, ardor, urgência ou dificuldade para urinar, o quadro precisa ser reavaliado.",
+          "Molhar a cama não é culpa da criança. Evite castigos, comparações e recompensas condicionadas a uma noite seca. Valorize ações que ela consegue realizar e preserve sua privacidade.",
+          "Anote noites molhadas, idas ao banheiro, líquidos, evacuações e sintomas durante o dia. Leve o diário à consulta."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Facilite o banheiro, inclusive à noite, e incentive urinar regularmente durante o dia e antes de dormir. Protetor de colchão e roupa limpa acessível podem diminuir o desconforto.",
+          "Um alarme de umidade pode ajudar quando escolhido com a equipe e com participação da família. Não é o mesmo que acordar ou carregar a criança repetidamente para urinar; isso não ensina controle duradouro."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie remédio para segurar urina por conta própria. Se houver desmopressina prescrita, confirme apresentação, horário e regras de líquidos com a equipe; não aumente nem repita dose esquecida ou vomitada.",
+          "A desmopressina exige restrição de líquidos desde uma hora antes até oito horas depois, conforme o plano prescrito. Se não for possível cumprir, ou houver vômitos ou diarreia, não dê a dose e procure orientação. Essa restrição não é uma regra geral para crianças sem esse medicamento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha hidratação habitual distribuída durante o dia, sem deixar a criança com sede para evitar cama molhada. Evite bebidas com cafeína. Não imponha corte geral de líquidos ou dietas.",
+          "Informe fezes duras, dor para evacuar ou escapes na roupa: constipação pode acompanhar o problema e precisa de plano próprio."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Sede excessiva, muita urina, emagrecimento ou cansaço novo exigem avaliação no mesmo dia. Se vierem com vômitos, dor abdominal, sonolência, confusão ou respiração rápida e profunda, procure emergência imediatamente.",
+          "Durante uso de desmopressina, dor de cabeça forte, vômitos, sonolência incomum ou convulsão podem indicar alteração grave do equilíbrio de água: procure hospital imediatamente. Não dê outra dose enquanto aguarda avaliação."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação se voltou a molhar após seis meses seco, houver ardor, escapes diurnos, jato fraco, muita urgência, ronco importante ou dificuldade emocional. Ardor novo, sangue na urina, febre com sintomas urinários ou dor nas costas merecem atendimento no mesmo dia.",
+          "Combine revisão da resposta ao alarme ou medicamento, em geral nas primeiras semanas. Falta de resposta precisa de revisão do plano; não aumente tratamento em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Controle noturno não é esperado em lactentes; não aplicar alarme, restrição de líquidos ou medicamento desta ficha.",
+        "3a5m": "Fraldas molhadas são esperadas; alterações de mamadas, urina ou estado geral exigem avaliação própria.",
+        "6a11m": "Esta ficha não transforma fralda molhada em doença; mantenha cuidados adequados à idade.",
+        "1a": "Não exigir continência durante o sono nem restringir líquidos para secar a fralda.",
+        "2a5": "Antes dos cinco anos, molhar a cama é comum; avaliação depende de sintomas e sofrimento, sem medicalizar automaticamente.",
+        "6a11": "Escolha o plano com a criança e a equipe; apoio familiar é essencial, sem punição.",
+        "12a17": "Respeite privacidade e participação do adolescente, inclusive em viagens e pernoites.",
+        "unknown": "Confirme idade, sintomas diurnos e período prévio seco antes de aplicar esta orientação."
+      },
+      "refs": [
+        {
+          "id": "pais215_op615_1",
+          "name": "Bedwetting in children",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/"
+        },
+        {
+          "id": "pais215_op615_2",
+          "name": "Enuresis: Bed wetting and Monosymptomatic Enuresis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Enuresis_-_Bed_wetting_and_Monosymptomatic_Enuresis/"
+        },
+        {
+          "id": "pais215_op615_3",
+          "name": "Nocturnal Enuresis in children",
+          "url": "https://www.cuh.nhs.uk/patient-information/nocturnal-enuresis-bedwetting-in-children/"
+        },
+        {
+          "id": "pais215_op615_4",
+          "name": "Desmopressin for bedwetting",
+          "url": "https://www.medicinesforchildren.org.uk/medicines/desmopressin-for-bedwetting/"
+        },
+        {
+          "id": "pais215_op615_5",
+          "name": "Symptoms of type 1 diabetes",
+          "url": "https://www.nhs.uk/conditions/type-1-diabetes/symptoms/"
+        },
+        {
+          "id": "pais215_op615_6",
+          "name": "Urinary tract infections",
+          "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

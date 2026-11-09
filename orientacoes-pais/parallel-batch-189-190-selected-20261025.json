@@ -1,0 +1,199 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T09:10:36.629Z",
+  "records": [
+    {
+      "key": "pdf1500_1414",
+      "label": "Síndrome de Turner (45,X)",
+      "entity": "Síndrome de Turner com cariótipo 45,X, condição cromossômica multissistêmica que exige seguimento pediátrico e cardiovascular ao longo da vida",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_SPECIFIC_KARYOTYPE\",\"normalized_entity\":\"Síndrome de Turner com monossomia X não mosaico (45,X)\",\"assessment\":\"O termo é válido: 45,X é um cariótipo clássico da síndrome de Turner, mas não representa todas as formas da síndrome. A condição decorre da ausência completa ou parcial de um segundo cromossomo sexual e pode afetar crescimento, ovários e puberdade, coração e aorta, pressão arterial, rins, audição, tireoide, metabolismo, ossos, visão e aprendizagem em combinações muito variáveis. O rótulo 45,X não informa sozinho quais manifestações a criança apresenta nem determina prognóstico, fertilidade, capacidade intelectual ou tratamento individual.\",\"not_automatically_equivalent_to\":[\"Todas as formas mosaico ou estruturais da síndrome de Turner\",\"Cardiopatia, dilatação da aorta, coarctação, hipertensão, doença renal ou perda auditiva sem avaliação própria\",\"Infertilidade absoluta, ausência completa de puberdade espontânea ou necessidade imediata de reposição hormonal\",\"Deficiência intelectual; a inteligência geral costuma ser preservada, embora algumas meninas precisem de apoio visuoespacial, executivo, matemático ou social\",\"Indicação automática de somatropina, estrógeno, progesterona, medicamento cardíaco, cirurgia ou restrição de atividade\",\"Presença de material do cromossomo Y ou indicação automática de retirada das gônadas\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de Turner com cariótipo 45,X. Não contar como cobertura específica de cada cardiopatia, aortopatia, insuficiência ovariana, doença autoimune, renal, auditiva, metabólica ou cromossômica associada sem diagnóstico próprio.\",\"pediatric_scope\":\"Recém-nascidas, lactentes, crianças e adolescentes com cariótipo 45,X confirmado. O cuidado muda com idade, anatomia cardíaca e aórtica, pressão arterial, crescimento, função ovariana e puberdade, rins, audição, tireoide, doença celíaca, metabolismo, ossos, visão, desenvolvimento, saúde mental e objetivos da paciente e da família.\",\"reason_for_specific\":\"É entidade cromossômica reconhecida e o cariótipo 45,X é clinicamente válido. Há recomendações pediátricas próprias para vigilância cardiovascular vitalícia, crescimento e puberdade, audição, rins, autoimunidade, metabolismo, neurodesenvolvimento e transição.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Turner é uma condição genética que pode afetar vários órgãos. O cariótipo 45,X é uma forma reconhecida, mas cada menina tem necessidades diferentes. Não é contagiosa, não foi causada por algo que a família fez e não define inteligência, autonomia ou qualidade de vida.",
+          "Mantenha um resumo de saúde com cariótipo, ecocardiogramas e ressonâncias cardíacas, medidas da aorta, pressão arterial, alterações renais, audição, tireoide, crescimento, puberdade, cirurgias, alergias e medicamentos. Leve-o a consultas, urgências, dentista e procedimentos.",
+          "Observe cansaço, falta de ar, desmaio, dor no peito, palpitação, dor forte no pescoço, costas ou barriga, inchaço, dor de cabeça, visão, urina, audição, infecções de ouvido, crescimento, puberdade, rendimento escolar e habilidades já adquiridas. Sintoma novo não deve ser atribuído automaticamente à síndrome.",
+          "Meça a pressão arterial nas consultas e cumpra o seguimento cardíaco mesmo quando a criança parece bem. Cardiopatia, pressão alta e dilatação da aorta podem não causar sintomas no início, e o risco cardiovascular exige vigilância ao longo da vida.",
+          "Mantenha vacinas conforme o Programa Nacional de Imunizações e o plano individual. A síndrome, por si só, não exige afastamento da escola, creche ou convivência; informe à escola apenas os apoios, adaptações e sinais de alerta necessários, preservando a privacidade.",
+          "Inclua a menina nas explicações e decisões de acordo com a idade. Evite comentários depreciativos sobre altura, puberdade ou fertilidade; procure apoio psicológico e educacional quando houver ansiedade, tristeza, baixa autoestima, isolamento ou dificuldade escolar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acompanhamento coordenado por pediatria, endocrinologia, cardiologia e genética. Audiologia, otorrino, nefrologia, oftalmologia, odontologia, ortopedia, nutrição e psicologia entram conforme idade e achados.",
+          "Faça a vigilância cardíaca no intervalo definido pela cardiologia. Ecocardiograma é necessário no diagnóstico, e a ressonância cardíaca deve ser realizada quando for possível sem anestesia ou conforme indicação; atividade física deve ser individualizada pela anatomia e pelas medidas da aorta.",
+          "Acompanhe peso e altura em cada consulta. Baixa estatura pode fazer parte da síndrome, mas queda na velocidade de crescimento, dor persistente, claudicação, alteração de marcha, piora de escoliose ou cefaleia com alteração visual exigem avaliação, sobretudo durante tratamento de crescimento.",
+          "Avalie audição objetivamente e trate otites de forma precoce. A criança pode não perceber ou comunicar perda auditiva; atraso de fala, aumento do volume, dificuldade em sala, respostas inconsistentes e infecções repetidas justificam antecipar audiometria e otorrino.",
+          "Confirme ultrassom dos rins no diagnóstico e reavalie diante de infecção urinária, sangue ou proteína na urina, redução de urina ou pressão alta. Não presuma função renal normal apenas porque a criança não tem dor.",
+          "Ofereça atividade física regular, sono adequado, alimentação equilibrada e apoio escolar individual. Dificuldade visuoespacial, matemática, atenção ou organização pode ocorrer com inteligência geral preservada; avaliação neuropsicológica e adaptações específicas são preferíveis a reduzir expectativas."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que elimine a síndrome de Turner. Hormônios e outros tratamentos são usados somente para manifestações documentadas, com objetivos e monitorização definidos pela equipe.",
+          "Somatropina pode ser indicada para crescimento em algumas meninas, mas não deve ser iniciada, ajustada, compartilhada ou interrompida por conta própria. Crescimento, IGF-1, pressão, glicose, coluna, quadril e sintomas neurológicos precisam ser acompanhados conforme o plano.",
+          "Estrógeno pode ser necessário para induzir ou completar a puberdade e proteger útero e ossos; progesterona é acrescentada no momento apropriado. A idade, a via, a apresentação e a progressão são individualizadas por endocrinologia e não podem ser inferidas apenas pelo cariótipo.",
+          "Medicamentos para tireoide, pressão, diabetes, coração, ossos ou outras condições só devem ser usados quando prescritos. Não use anticoncepcional, suplemento, vitamina, fitoterápico ou produto anunciado para crescimento ou puberdade sem revisão da equipe.",
+          "Use exatamente o produto e a apresentação prescritos. Se houver dose esquecida, vômito após a dose, reação, divergência entre receita e rótulo ou dificuldade para aplicar um hormônio, confirme com a equipe; não dobre a dose nem improvise fracionamento.",
+          "Antes de anestesia, cirurgia, exame com contraste ou tratamento odontológico, informe síndrome de Turner, cardiopatia, medidas da aorta, hipertensão, rim único ou alterado e todos os medicamentos. Não suspenda hormônio ou medicamento cardiovascular sem orientação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça leite materno e/ou fórmula no bebê e, depois, alimentação variada adequada à idade. Não há alimento, chá, suplemento ou dieta que corrija o cromossomo ou substitua o seguimento cardíaco e endócrino.",
+          "Observe sucção fraca, cansaço, suor, respiração rápida, tosse ou engasgo nas mamadas, refeições muito longas e baixo ganho de peso. Esses sinais podem exigir avaliação da alimentação e do coração; não force nem mude a textura por conta própria.",
+          "Para crianças maiores, priorize água, feijão, frutas, verduras, proteínas e outros alimentos in natura. Reduza bebidas açucaradas e ultraprocessados; risco metabólico maior não justifica dieta restritiva, jejum ou produto para emagrecer sem acompanhamento.",
+          "Não restrinja sal ou líquidos automaticamente. Cardiopatia, pressão alta ou alteração renal podem exigir plano individual; siga a orientação escrita e observe urina, inchaço, sede, peso e tolerância ao esforço.",
+          "Procure avaliação se houver perda de peso, sede e urina excessivas, dor abdominal persistente, diarreia crônica, distensão, anemia ou queda de crescimento, pois diabetes e doença celíaca são mais frequentes e precisam de diagnóstico, não de dieta de teste em casa.",
+          "Não retire glúten antes da investigação de doença celíaca, pois isso pode dificultar os exames. Mantenha cálcio, vitamina D e saúde óssea conforme alimentação, atividade e avaliação; não use altas doses de suplemento sem prescrição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência se houver dor súbita ou intensa no peito, pescoço, ombro, costas, flanco ou barriga, especialmente com desmaio, palidez, suor frio, falta de ar, fraqueza ou sensação de gravidade. Informe imediatamente que a paciente tem síndrome de Turner e risco de doença da aorta.",
+          "Procure pronto atendimento diante de dificuldade para respirar, lábios arroxeados, desmaio, palpitação persistente, dor no peito, fraqueza de um lado, fala alterada, convulsão ou criança muito sonolenta e difícil de despertar.",
+          "Bebê menor de 3 meses com febre, temperatura baixa anormal, recusa repetida das mamadas, prostração, respiração alterada, suor ou cansaço para mamar precisa de avaliação hospitalar imediata.",
+          "Vá sem demora se houver dor de cabeça forte ou progressiva com vômitos, alteração visual, confusão ou piora rápida, especialmente durante tratamento com hormônio do crescimento.",
+          "Procure urgência por dor súbita no quadril, virilha ou joelho, mancar ou não conseguir apoiar a perna, sobretudo durante fase de crescimento ou uso de somatropina; não force atividade até avaliação.",
+          "Vá ao pronto atendimento se houver inchaço rápido de face ou pescoço, falta de ar, redução importante da urina, sangue visível na urina, vômitos repetidos, sinais de desidratação ou piora acentuada do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Após o diagnóstico, confirme genética, endocrinologia e cardiologia com exame, pressão arterial, eletrocardiograma e ecocardiograma; organize imagem completa da aorta por ressonância quando for possível e seguro. A frequência posterior depende dos achados e do risco.",
+          "Confirme ultrassom renal, avaliação auditiva e otorrinolaringológica, visão, saúde bucal, crescimento, desenvolvimento, quadril e coluna. Antecipe retorno por infecção de ouvido repetida, menor resposta a sons, infecção urinária, pressão alta, dor, regressão ou dificuldade escolar nova.",
+          "Revise peso, altura, pressão, crescimento e puberdade em todas as consultas. O PCDT brasileiro recomenda acompanhamento clínico regular em serviço especializado; o intervalo de 4 a 6 meses é usual durante crescimento e tratamento, podendo ser encurtado pela equipe.",
+          "A partir da infância, siga o plano de rastreamento de tireoide e doença celíaca; na idade indicada, inclua glicemia, fígado, vitamina D, lipídios e saúde óssea. Sintomas justificam investigação antes do calendário.",
+          "Por volta da idade esperada para puberdade, endocrinologia deve avaliar função ovariana e desenvolvimento. Não espere indefinidamente por sinais espontâneos nem inicie hormônio em casa; a indução gradual é planejada para crescimento, útero, ossos e bem-estar.",
+          "Na adolescência, organize transição para cuidado adulto, imagem cardiovascular e pressão, uso correto de hormônios, saúde sexual, menstrual e óssea, fertilidade e aconselhamento genético, saúde mental, atividade física, escola ou trabalho e autonomia com medicamentos."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme coração e aorta, pressão nos membros, rins, edema, audição e alimentação. Febre ou hipotermia, recusa, suor ou cansaço para mamar, respiração rápida, arroxeamento, prostração ou pouco xixi exigem atendimento imediato.",
+        "3a5m": "Revise cardiologia, rim, audição, ganho de peso e desenvolvimento. Respiração rápida, suor, mamada longa, engasgos, edema persistente ou baixo ganho precisam de avaliação antecipada.",
+        "6a11m": "Mantenha vigilância de coração, pressão, rim, otites, audição, visão, crescimento e marcos motores. Introdução alimentar deve respeitar a deglutição; regressão, pouco ganho ou menor resposta a sons exige reavaliação.",
+        "1a": "Revise altura, peso, pressão, cardiologia, audição, otites, visão, linguagem, marcha, quadril e coluna. Organize intervenção precoce e não atribua atraso ou perda de habilidade apenas à síndrome.",
+        "2a5": "Acompanhe crescimento, pressão, coração e aorta, tireoide, doença celíaca, audição, visão, rim, dentes e aprendizagem inicial. Otites repetidas, mancar, cefaleia ou queda na curva antecipam consulta.",
+        "6a11": "Revise crescimento, pressão, imagem cardiovascular, audição, tireoide, metabolismo, coluna e apoio escolar. Planeje avaliação da função ovariana e da puberdade no tempo apropriado e adapte esporte à orientação cardíaca.",
+        "12a17": "Inclua a adolescente no plano de puberdade e hormônios, saúde óssea e mental, fertilidade, transição e autocuidado. Dor súbita no peito, pescoço, costas ou barriga, desmaio, falta de ar ou sinal neurológico exige emergência.",
+        "unknown": "Antes de personalizar, confirme idade, cariótipo, anatomia e medidas da aorta, pressão, rins, audição, crescimento, puberdade, tireoide, doença celíaca, metabolismo, ossos, desenvolvimento, medicamentos e plano de cardiologia/endocrinologia."
+      },
+      "refs": [
+        {
+          "id": "pais142_op189_1",
+          "name": "Clinical practice guidelines for the care of girls and women with Turner syndrome: Proceedings from the 2023 Aarhus International Turner Syndrome Meeting",
+          "url": "https://academic.oup.com/ejendo/article/190/6/G53/7674241"
+        },
+        {
+          "id": "pais142_op189_2",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Síndrome de Turner",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/s/sindrome-de-turner/@@download/file"
+        },
+        {
+          "id": "pais142_op189_3",
+          "name": "Turner syndrome — Knowledge Hub",
+          "url": "https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/turner-syndrome/"
+        },
+        {
+          "id": "pais142_op189_4",
+          "name": "Turner syndrome",
+          "url": "https://www.nhs.uk/conditions/turner-syndrome/"
+        },
+        {
+          "id": "pais142_op189_5",
+          "name": "Cardiac surveillance and management in patients with Turner’s syndrome",
+          "url": "https://www.cuh.nhs.uk/patient-information/cardiac-surveillance-and-management-in-patients-with-turners-syndrome/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1415",
+      "label": "Síndrome de West",
+      "entity": "Síndrome de West no espectro da síndrome de espasmos epilépticos infantis (IESS)",
+      "assessment": "{\"classification\":\"VALID_CLASSIC_SYNDROMIC_TERM_WITH_UPDATED_NOMENCLATURE\",\"normalized_entity\":\"Síndrome de West / síndrome de espasmos epilépticos infantis (IESS)\",\"assessment\":\"O termo é válido. Classicamente, síndrome de West descreve a combinação de espasmos epilépticos, hipsarritmia no EEG e interrupção ou regressão do desenvolvimento. A nomenclatura atual da ILAE usa síndrome de espasmos epilépticos infantis para incluir também lactentes com espasmos que não apresentam ainda todos os componentes da tríade clássica. Os espasmos costumam surgir entre 1 e 24 meses, sobretudo entre 3 e 12 meses, podem ser muito breves e ocorrer em salvas, especialmente ao despertar. A suspeita é urgência neurológica: filmar ajuda, mas não se deve esperar nova salva nem consulta eletiva para buscar avaliação.\",\"not_automatically_equivalent_to\":[\"Todo susto, cólica, refluxo, tremor, sobressalto do sono ou movimento repetitivo do bebê\",\"Todo espasmo epiléptico fora da faixa de 1 a 24 meses\",\"Hipsarritmia isolada sem espasmos clínicos\",\"Epilepsia focal, mioclonia ou crise tônica sem avaliação eletroclínica\",\"Uma causa única: alterações estruturais, genéticas, cromossômicas, metabólicas e adquiridas podem estar associadas\",\"Indicação automática de corticoide, ACTH, vigabatrina, dieta cetogênica, cirurgia ou outra terapia sem neurologia pediátrica\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de West/IESS. Não contar como cobertura separada de cada causa, tipo de crise, alteração do EEG, atraso do desenvolvimento ou tratamento específico sem diagnóstico próprio.\",\"pediatric_scope\":\"Principalmente lactentes de 1 a 24 meses, inclusive crianças com desenvolvimento prévio normal ou com condição neurológica, genética ou estrutural já conhecida. Criança maior com espasmos exige classificação e plano próprios, sem assumir automaticamente síndrome de West.\",\"reason_for_specific\":\"É síndrome epiléptica pediátrica reconhecida, dependente do tempo, com apresentação frequentemente sutil, risco de regressão do desenvolvimento, necessidade de EEG urgente e tratamento especializado rápido.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de West é uma forma grave de epilepsia do bebê. Os espasmos podem parecer pequenos sustos, flexões do tronco, abertura ou elevação dos braços, extensão do corpo, queda breve da cabeça ou apenas desvio dos olhos. Em geral duram poucos segundos e se repetem em salvas, muitas vezes ao acordar.",
+          "Se suspeitar de espasmos novos, procure avaliação médica urgente no mesmo dia; diretrizes recomendam neurologia pediátrica e EEG do sono rapidamente, idealmente em até 24 horas. Não espere a próxima consulta nem uma salva mais forte para confirmar.",
+          "Quando for seguro, filme o episódio inteiro, incluindo o rosto e o corpo. Anote horário, relação com sono ou despertar, número aproximado de movimentos, duração da salva, lado mais afetado e como o bebê ficou antes e depois. O vídeo ajuda, mas não substitui EEG e avaliação.",
+          "Durante uma salva, coloque o bebê em local plano e seguro, afaste objetos, observe a respiração e cronometre. Não segure os movimentos, não coloque nada na boca, não ofereça alimento ou líquido enquanto houver alteração de consciência e não tente interromper a salva com manobras caseiras.",
+          "Observe diariamente sorriso, contato visual, sustentação da cabeça, rolar, sentar, balbucio, uso das mãos e outras habilidades. Perda, estagnação ou menor interação deve ser informada imediatamente, mesmo que os movimentos tenham diminuído.",
+          "Mantenha com a criança um plano escrito com diagnóstico, causa quando conhecida, medicamentos, alergias, plano de resgate, contatos e datas de EEG e retorno. Oriente todos os cuidadores e a creche sobre primeiros socorros e quando acionar emergência."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não existe manobra, massagem, posição, chá ou estímulo que trate os espasmos. A medida mais importante é reconhecer cedo, registrar quando seguro e obter avaliação neurológica e EEG sem atraso.",
+          "Mantenha rotina de sono segura e regular. Deite o bebê de barriga para cima em superfície firme, sem travesseiros, protetores, mantas soltas ou objetos. Não use posicionadores nem monitores caseiros como substitutos de supervisão ou do plano médico.",
+          "Proteja a cabeça e afaste objetos durante crises, mas não restrinja o corpo. Se o bebê estiver deitado e vomitar ou tiver muita saliva, vire-o gentilmente de lado mantendo a via aérea livre; não introduza dedos ou objetos na boca.",
+          "Intervenção precoce, fisioterapia, fonoaudiologia, terapia ocupacional e apoio à visão ou audição devem ser definidos conforme desenvolvimento e causa. Estimule brincadeiras simples e interação sem forçar a criança durante sonolência, crises ou recuperação.",
+          "Siga o calendário vacinal apenas conforme orientação da equipe, especialmente se houver tratamento hormonal ou imunossupressor. Informe febre, contato com varicela e vacinação recente antes de iniciar corticoide; não adie ou antecipe vacina por conta própria.",
+          "A síndrome não é contagiosa. Creche e atividades podem ser adaptadas ao controle das crises, ao estado de alerta e ao desenvolvimento; todos os cuidadores precisam reconhecer salvas e saber que recorrência exige contato rápido com a equipe."
+        ],
+        "MEDICAMENTOS": [
+          "O tratamento precisa ser iniciado e acompanhado por neurologia pediátrica. Corticoides ou ACTH e vigabatrina estão entre as terapias específicas; a escolha depende da causa, dos riscos e do plano especializado. Medicamentos comuns para outras crises podem não controlar espasmos infantis.",
+          "Use exatamente o medicamento, apresentação, quantidade, horário e período prescritos. Não inicie, aumente, reduza ou suspenda corticoide, ACTH, vigabatrina ou outro anticonvulsivante por conta própria e não copie receita de outra criança.",
+          "O objetivo é cessar totalmente os espasmos e melhorar o EEG, não apenas reduzir sua frequência. Persistência de um único espasmo, nova salva, retorno após melhora ou dúvida no vídeo deve ser comunicada no mesmo dia; não aguarde o fim do frasco.",
+          "Tratamento hormonal pode aumentar pressão e glicose, reduzir a defesa contra infecções e causar risco de insuficiência adrenal se interrompido inadequadamente. Mantenha cartão ou alerta de corticoide e plano para doença intercorrente quando fornecidos; febre ou criança abatida em tratamento exige orientação imediata.",
+          "Vigabatrina exige monitorização especializada, inclusive de efeitos visuais e neurológicos. Sonolência intensa, alteração respiratória, movimentos novos, reação importante ou piora do estado geral devem ser avaliados; não ajuste a dose sozinho.",
+          "Se houver vômito após a dose, dose esquecida, erro de medida ou divergência entre receita e rótulo, contate a equipe ou o farmacêutico. Não repita nem dobre a dose sem orientação e não use seringa, colher ou diluição diferente da prescrita."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno e/ou fórmula e alimentação complementar conforme idade e segurança da deglutição. Não é necessário suspender a alimentação apenas pelo diagnóstico, mas não ofereça nada durante crise, sonolência intensa ou recuperação incompleta.",
+          "Alimente o bebê desperto, bem apoiado e em posição segura. Interrompa se houver tosse, engasgo, mudança de cor, voz ou choro molhado, respiração rápida, cansaço ou redução do estado de alerta; episódios repetidos pedem avaliação de deglutição e nutrição.",
+          "Não dilua fórmula, não espesse líquidos e não use dieta cetogênica, suplemento, vitamina, erva ou produto anunciado como anticonvulsivante sem equipe especializada. Dieta cetogênica é tratamento médico e requer cálculo, exames e acompanhamento.",
+          "Ofereça volumes e texturas orientados para a idade. Registre mamadas muito longas, recusa, vômitos, perda de peso, menos fraldas molhadas ou constipação importante, pois crises, causa de base e medicamentos podem afetar alimentação e hidratação.",
+          "Se estiver usando corticoide ou ACTH, não faça restrição de sal ou líquidos sem prescrição. A equipe pode acompanhar peso, pressão e glicose e ajustar alimentação conforme os efeitos do tratamento.",
+          "Procure atendimento urgente diante de engasgo com dificuldade respiratória, arroxeamento, vômitos repetidos com sonolência, incapacidade de beber, poucas fraldas molhadas ou sinais de desidratação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Suspeita de primeira salva de espasmos — movimentos breves e repetidos de flexão, extensão, queda da cabeça ou desvio dos olhos — mesmo que o bebê pareça bem depois. Leve o vídeo quando houver, sem atrasar a ida.",
+          "Espasmos que voltaram após terem cessado, aumentaram, ficaram mais longos, mudaram de padrão, passaram a afetar mais um lado ou vieram com perda de interação ou habilidade. Contate também a neurologia no mesmo dia.",
+          "Crise convulsiva com 5 minutos ou mais, crises repetidas sem recuperação, dificuldade para respirar, lábios arroxeados, lesão importante, episódio na água ou criança que não desperta como habitual: acione imediatamente o serviço de emergência.",
+          "Bebê menor de 3 meses com febre ou temperatura baixa anormal, recusa de mamadas, prostração, respiração alterada, vômitos repetidos ou mudança de comportamento precisa de avaliação hospitalar imediata.",
+          "Durante corticoide ou ACTH, febre, criança muito abatida, vômitos ou diarreia importantes, dificuldade para receber o medicamento, contato com varicela, respiração alterada ou sinais de infecção exigem avaliação urgente e apresentação do cartão ou plano de esteroide.",
+          "Procure urgência por engasgo, aspiração, arroxeamento, queda com trauma, fraqueza nova, alteração súbita de um lado do corpo, fontanela muito abaulada ou regressão rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "Na suspeita inicial, a reavaliação não é eletiva: procure serviço com pediatria/neurologia imediatamente para organizar EEG acordado e durante o sono. A investigação da causa pode incluir ressonância, exames genéticos e metabólicos conforme o quadro.",
+          "Após iniciar tratamento, mantenha retornos muito precoces e frequentes. Diretrizes recomendam revisão ao menos semanal durante a fase inicial e EEG do sono cerca de 2 semanas após o início, ou antes se os espasmos persistirem ou houver piora.",
+          "Avise no mesmo dia se ainda houver qualquer espasmo, se uma salva reaparecer ou se o bebê perder habilidades. Redução parcial não equivale a controle; a equipe precisa confirmar resposta clínica e no EEG e decidir rapidamente o próximo passo.",
+          "Mesmo após cessarem os espasmos, mantenha acompanhamento regular de neurologia e desenvolvimento. Outras crises podem surgir e o EEG deve ser repetido diante de recorrência, episódios duvidosos ou preocupação clínica.",
+          "Revise alimentação, peso, visão, audição, tônus, mobilidade, comunicação, interação, sono e efeitos do tratamento em cada consulta. Antecipe fonoaudiologia, nutrição e terapias do desenvolvimento conforme as necessidades observadas.",
+          "Ao sair do hospital, confirme por escrito medicamentos, retirada gradual quando houver, plano de resgate, sinais de infecção ou insuficiência adrenal, datas de EEG e retorno e contato para recorrência. Não aceite alta sem saber a quem ligar se houver nova salva."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Início entre 1 e 2 meses é possível, mas exige atenção especial a outras encefalopatias epilépticas. Qualquer salva suspeita, febre ou temperatura baixa, recusa, prostração ou respiração alterada precisa de avaliação hospitalar imediata.",
+        "3a5m": "Esta é uma faixa típica de início. Observe salvas ao despertar, flexões ou extensões repetidas, pequenos acenos da cabeça, desvio dos olhos e perda de sorriso ou contato. Filme quando seguro e procure avaliação urgente no mesmo dia.",
+        "6a11m": "Faixa de pico frequente. Compare rolar, sentar, balbuciar, alcançar objetos e interação com semanas anteriores. Estagnação ou perda de habilidade junto de movimentos em salva exige neurologia e EEG sem atraso.",
+        "1a": "Espasmos ainda cabem no espectro até 24 meses. Registre mudanças na marcha inicial, uso das mãos, linguagem e interação. Não atribua salvas repetidas a birra, refluxo ou susto sem avaliação neurológica.",
+        "2a5": "Início novo depois de 24 meses não preenche o padrão etário clássico de IESS e precisa de classificação própria. Crises repetidas, regressão ou perda de interação continuam urgentes; não reutilize automaticamente um plano de lactente.",
+        "6a11": "Síndrome de West costuma ter começado na primeira infância. Revise tipos atuais de crise, EEG, desenvolvimento, aprendizagem, mobilidade, alimentação e segurança escolar; movimentos novos não devem ser chamados automaticamente de espasmos infantis.",
+        "12a17": "Na adolescência, confirme síndrome epiléptica atual, plano de resgate, efeitos dos medicamentos, sono, saúde mental, participação escolar e transição. Crise prolongada, dificuldade respiratória ou regressão aguda continua sendo emergência.",
+        "unknown": "Antes de adaptar a orientação, confirme idade atual e de início, descrição e vídeo dos episódios, relação com sono, desenvolvimento, causa conhecida, EEG, medicamentos, resposta clínica, alimentação e plano de resgate."
+      },
+      "refs": [
+        {
+          "id": "pais142_op190_1",
+          "name": "ILAE classification and definition of epilepsy syndromes with onset in neonates and infants: Position statement",
+          "url": "https://www.ilae.org/D64E7BA8-CA74-E99F-B1E3941488ADFB81"
+        },
+        {
+          "id": "pais142_op190_2",
+          "name": "Infantile Epileptic Spasms Syndrome (IESS) — Diagnostic Criteria",
+          "url": "https://www.epilepsydiagnosis.org/syndrome/west-syndrome-diagcriteria.html"
+        },
+        {
+          "id": "pais142_op190_3",
+          "name": "Epilepsies in children, young people and adults — Treating childhood-onset epilepsies",
+          "url": "https://www.nice.org.uk/guidance/ng217/chapter/treating-childhood-onset-epilepsies"
+        },
+        {
+          "id": "pais142_op190_4",
+          "name": "Clinical Practice Guidelines: Infantile spasms",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Infantile_Spasms/"
+        },
+        {
+          "id": "pais142_op190_5",
+          "name": "Understanding Pediatric Epilepsy: Infantile Spasms",
+          "url": "https://www.aap.org/en/patient-care/epilepsy/understanding-pediatric-epilepsy/understanding-pediatric-epilepsy-infantile-spasms/"
+        },
+        {
+          "id": "pais142_op190_6",
+          "name": "First Aid for Seizures",
+          "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

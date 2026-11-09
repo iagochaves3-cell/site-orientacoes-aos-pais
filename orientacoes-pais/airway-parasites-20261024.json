@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-24T19:15:00.000Z",
+  "baseline_version": 108,
+  "baseline_commit": "1fadb36fc7bbaacc61c5a67d02682e48cba04d1a",
+  "records": [
+    {"key":"pdf1500_928","label":"Intussuscepção intestinal recorrente","specific":false,"clinical_entity":"Intussuscepção intestinal recorrente após redução ou novo episódio","term_resolution":true},
+    {"key":"pdf1500_929","label":"Intussuscepção intestinal refratário","specific":false,"clinical_entity":"Intussuscepção intestinal persistente ou não reduzida","term_resolution":true},
+    {"key":"pdf1500_930","label":"Intussuscepção intestinal unilateral","specific":false,"clinical_entity":"Intussuscepção intestinal; lateralidade não aplicável","term_resolution":true},
+    {"key":"pdf1500_931","label":"Laringotraqueobronquite aguda (Crupe viral)","specific":true,"clinical_entity":"Crupe viral (laringotraqueobronquite aguda)","term_resolution":false},
+    {"key":"pdf1500_932","label":"Larva migrans cutânea","specific":true,"clinical_entity":"Larva migrans cutânea por larvas de ancilostomídeos animais","term_resolution":false},
+    {"key":"pdf1500_933","label":"Larva migrans visceral","specific":true,"clinical_entity":"Toxocaríase visceral (larva migrans visceral)","term_resolution":false},
+    {"key":"pdf1500_934","label":"Leishmaniose tegumentar americana","specific":true,"clinical_entity":"Leishmaniose tegumentar, forma cutânea ou mucosa","term_resolution":false}
+  ]
+}

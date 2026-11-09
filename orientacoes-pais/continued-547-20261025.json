@@ -1,0 +1,78 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:56:45.015Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_0cd82ad043f8d8c6",
+      "label": "Apneia obstrutiva do sono pediátrica — registro no PPS",
+      "entity": "Apneia obstrutiva do sono pediátrica",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Obstrução durante sono reconhecida; distinta da apneia da prematuridade e de ronco isolado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Na apneia obstrutiva do sono, a passagem de ar fica parcialmente ou totalmente bloqueada durante o sono. Ronco frequente, esforço para respirar, pausas e engasgos noturnos precisam avaliação; roncar não confirma sozinho o diagnóstico.",
+          "Conte à equipe como a criança dorme e como fica durante o dia. Sonolência, irritabilidade e dificuldade de atenção também podem ocorrer. Um vídeo curto pode ajudar na consulta quando a criança está segura, mas nunca atrase socorro para filmar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha rotina de sono e ambiente sem fumaça. Se foi prescrito CPAP ou outro suporte, siga a orientação da equipe e peça ajuda se a máscara incomoda ou o aparelho não funciona; não altere pressão ou substitua o tratamento por dispositivos comprados por conta própria.",
+          "Para bebês menores de um ano, mantenha sono de barriga para cima em superfície firme, plana e sem travesseiros, cunhas ou objetos soltos. Não improvise posição lateral, elevação ou contenção para tratar ronco. Situações médicas especiais exigem plano individual explícito."
+        ],
+        "MEDICAMENTOS": [
+          "Não use remédios para fazer a criança dormir nem descongestionantes como tratamento da apneia por conta própria. Tratamento de rinite ou outros problemas depende de avaliação e receita individual.",
+          "Informe o diagnóstico aos profissionais antes de sedação, anestesia ou procedimento. Não suspenda nem ajuste medicamentos já prescritos sem orientação; esta ficha não indica doses."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação adequada à idade. Se o peso faz parte do problema, o acompanhamento deve proteger crescimento e saúde, sem dietas restritivas improvisadas ou culpa.",
+          "Dificuldade para engolir, engasgos ou pouco ganho de peso precisam ser informados à equipe. Não mude leite, consistência ou volume das refeições apenas pelo nome apneia."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se a criança não está respirando normalmente, fica arroxeada, acinzentada ou muito pálida, mole, difícil de acordar ou com grande esforço respiratório, acione 192 imediatamente. Siga as orientações do atendente; não espere contar um número de segundos.",
+          "Pausas acompanhadas de mudança de cor, perda de tônus ou febre/doença no bebê precisam avaliação imediata, mesmo que melhore. Não atribua automaticamente a respiração periódica normal ou ao diagnóstico já conhecido."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure pediatra e avaliação de sono ou otorrinolaringologia conforme encaminhamento. A equipe decide se precisa de estudo do sono e qual tratamento é adequado; cirurgia não é automática para todo ronco.",
+          "Mantenha a reavaliação após cirurgia ou início de CPAP. O tratamento pode precisar de ajustes, e sintomas podem persistir ou voltar. Informe pausas, esforço respiratório ou sonolência persistentes sem esperar o retorno distante.",
+          "Se o suporte prescrito não pode ser usado, contate a equipe prontamente para um plano seguro. Se houver dificuldade respiratória ou alteração de consciência, procure emergência."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Pausas com alteração de cor, tônus ou resposta são emergência. O bebê precisa avaliação própria; não presuma apneia da prematuridade ou respiração normal pelo cadastro.",
+        "3a5m": "Mantenha sono seguro de barriga para cima; não use travesseiros ou inclinação para reduzir ruídos. Sinais de esforço ou mudança de cor exigem atendimento.",
+        "6a11m": "Mesmo que ronque, coloque para dormir de barriga para cima em superfície firme e livre de objetos. Não improvise aparelhos ou posicionadores.",
+        "1a": "Informe ronco, pausas, esforço e dificuldades de crescimento; não conclua que todo ruído é causado por adenoides.",
+        "2a5": "Aumento de amígdalas/adenoides pode contribuir, mas o exame e a gravidade orientam tratamento. Não adie avaliação por achar que crescer resolverá.",
+        "6a11": "Avise a equipe sobre atenção, aprendizagem e cansaço na escola, além dos sintomas noturnos; há outras causas que também precisam avaliação.",
+        "12a17": "Inclua o adolescente no cuidado do aparelho e rotina de sono. Sono insuficiente pode coexistir, mas não explica sozinho pausas respiratórias.",
+        "unknown": "Confirmar idade, sintomas, exames e suporte atual. Apneia obstrutiva e apneia da prematuridade não são diagnósticos intercambiáveis."
+      },
+      "refs": [
+        {
+          "id": "pais178_op547_1",
+          "name": "Obstructive sleep apnoea (OSA)",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/childhood_obstructive_sleep_apnoea_osa/"
+        },
+        {
+          "id": "pais178_op547_2",
+          "name": "Sleep Apnea in Children: Detection & Treatment",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Sleep-Apnea-Detection.aspx"
+        },
+        {
+          "id": "pais178_op547_3",
+          "name": "Obstructive Sleep Apnea in Children",
+          "url": "https://site.thoracic.org/advocacy-patients/patient-resources/obstructive-sleep-apnea-in-children-2"
+        },
+        {
+          "id": "pais178_op547_4",
+          "name": "How to Keep Your Sleeping Baby Safe: AAP Policy Explained",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/a-parents-guide-to-safe-sleep.aspx"
+        },
+        {
+          "id": "pais178_op547_5",
+          "name": "Procedural sedation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Procedural_sedation/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

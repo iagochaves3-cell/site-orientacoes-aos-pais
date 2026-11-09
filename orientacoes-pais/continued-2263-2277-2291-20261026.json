@@ -1,0 +1,309 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T10:53:42.096Z",
+  "records": [
+    {
+      "jobId": "OP-2263",
+      "specific": true,
+      "key": "pdf1500_297",
+      "label": "Crise febril complexa",
+      "entity": "Crise febril complexa em criança, isto é, crise associada à febre com característica focal, duração prolongada, repetição na mesma doença febril ou recuperação neurológica anormal, após excluir infecção do sistema nervoso central, distúrbio metabólico, epilepsia e outras causas",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ACUTE_NEUROLOGIC_PRESENTATION_REQUIRING_URGENT_ASSESSMENT\",\"normalized_entity\":\"Crise febril complexa\",\"assessment\":\"O termo é válido e descreve uma apresentação clínica aguda, mais comum entre 6 meses e 5–6 anos. É considerada complexa quando há ao menos uma característica como início ou sinais focais, duração superior a 15 minutos, repetição na mesma doença febril ou em 24 horas, ou recuperação neurológica persistentemente anormal. A designação não confirma causa benigna, não equivale automaticamente a epilepsia e não exclui meningite, encefalite, sepse, alteração metabólica, intoxicação ou doença estrutural; por isso exige avaliação urgente e investigação individualizada.\",\"not_automatically_equivalent_to\":[\"Crise febril simples e breve com recuperação completa\",\"Epilepsia ou indicação de tratamento antiepiléptico contínuo\",\"Convulsão provocada por meningite, encefalite, hipoglicemia, distúrbio eletrolítico, intoxicação ou trauma\",\"Calafrio, tremor, síncope, espasmo do choro ou evento não epiléptico\",\"Febre alta isolada, independentemente da aparência e do exame da criança\",\"Permissão para observação domiciliar automática após uma crise focal, prolongada, repetida ou com recuperação incompleta\",\"Indicação automática de EEG, imagem, punção lombar, antibiótico, antiviral ou medicação de resgate sem decisão clínica\"],\"pediatric_scope\":\"A faixa habitual é de 6 meses a 5–6 anos. Crise com febre antes de 6 meses, depois dos 6 anos, em criança com crise afebril anterior, alteração neurológica conhecida ou regressão do desenvolvimento é atípica e requer avaliação de diagnósticos alternativos. Lactentes pequenos, imunização incompleta, uso recente de antibiótico, sinais meníngeos, toxemia ou alteração prolongada da consciência aumentam a preocupação com infecção grave.\",\"critical_context_to_confirm\":[\"Idade, temperatura aferida, momento de início da febre e possível foco infeccioso\",\"Hora de início e fim da crise, duração total e recuperação entre episódios\",\"Movimentos de um lado, desvio dos olhos ou da cabeça, assimetria, fraqueza ou paralisia após a crise\",\"Número de crises na mesma doença febril ou nas últimas 24 horas\",\"Retorno ao estado habitual, tempo de sonolência, interação, fala, marcha e comportamento\",\"Rigidez de nuca, fontanela abaulada, fotofobia, vômitos persistentes, petéquias, púrpura, dificuldade respiratória, má perfusão ou choque\",\"Vacinação para Haemophilus influenzae tipo b e pneumococo, antibiótico recente, imunossupressão e viagem/exposição infecciosa\",\"História de crise afebril, atraso ou regressão do desenvolvimento, doença neurológica, trauma, ingestão ou exposição a medicamento/substância\",\"Plano escrito de resgate previamente prescrito, medicamento disponível, horário e resposta, sem repetir doses além do plano\",\"História familiar de crise febril, epilepsia ou morte súbita e existência de vídeo seguro do evento\"],\"counting_rule\":\"Contar pdf1500_297 como uma apresentação clínica pediátrica específica somente após revisão, integração, testes e publicação. Não contar separadamente cada característica complexa, a febre ou a doença infecciosa subjacente por esta ficha, nem usar o rótulo para cobrir epilepsia ou convulsões fora da faixa típica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Crise febril complexa é uma convulsão junto de febre que dura mais tempo, repete na mesma doença, começa ou predomina em um lado do corpo, ou deixa a criança com recuperação neurológica fora do esperado. Essas características exigem avaliação urgente, mesmo que a crise já tenha parado.",
+          "Durante a crise, marque o horário de início, afaste objetos perigosos, proteja a cabeça e mantenha a criança em superfície baixa e segura. Quando for possível sem forçar o corpo, deixe-a de lado para saliva ou vômito escorrer e observe a respiração.",
+          "Não segure braços ou pernas, não tente abrir a boca, não coloque dedo, colher, pano, água ou remédio na boca e não faça banho, compressa gelada ou álcool durante a convulsão. A criança não engole a língua.",
+          "Acione o SAMU 192 se a crise completar 5 minutos, se outra crise começar sem recuperação completa, se houver dificuldade para respirar, coloração azulada/pálida, trauma importante ou transporte inseguro. Use o cronômetro; a percepção de tempo durante a crise costuma falhar.",
+          "Depois que os movimentos terminarem, mantenha de lado, observe respiração e cor e não deixe a criança sozinha até recuperar o estado habitual. Sonolência pode ocorrer, mas dificuldade de despertar, confusão prolongada, fraqueza de um lado ou piora progressiva são sinais de emergência.",
+          "Se for seguro, anote ou filme brevemente o padrão dos movimentos sem atrasar socorro. Informe duração, lado acometido, número de episódios, febre, medicamentos administrados e tempo até a recuperação; esses dados ajudam a diferenciar crise febril de outras causas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Toda crise febril complexa precisa de avaliação presencial urgente da criança e da causa da febre. A equipe decide observação, internação e exames conforme idade, recuperação, exame neurológico, vacinação e sinais de infecção; nenhum exame é automático para todos.",
+          "Após alta formal, mantenha supervisão próxima enquanto houver febre ou sonolência e deixe o ambiente livre de queda, água sem vigilância, altura, fogo e objetos cortantes. Não tranque a porta do banheiro e não permita banho ou natação sem adulto ao alcance.",
+          "Aprenda com a equipe a posição lateral de segurança e peça um plano escrito para nova crise. Todos os cuidadores e a escola devem saber cronometrar, proteger, quando chamar o SAMU e onde está o plano; isso não substitui avaliação médica.",
+          "Não use banho frio, gelo, álcool, excesso de roupa ou retirada completa de roupa para tentar prevenir convulsão. Vista de forma confortável e evite aquecer ou resfriar excessivamente a criança.",
+          "Trate a doença transmissível conforme orientação e mantenha higiene das mãos, etiqueta respiratória e vacinação atualizada. A convulsão não é contagiosa, mas a infecção que causou a febre pode ser.",
+          "Creche ou escola só deve ser retomada quando a criança estiver sem febre, recuperada e de acordo com o diagnóstico da infecção e o plano médico. Compartilhe apenas as informações necessárias para segurança e não estigmatize a criança como tendo epilepsia sem diagnóstico."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, apresentação, via, dose nem duração. Uma crise febril complexa pode ter causas diferentes e o tratamento depende da avaliação de emergência e do peso, idade, respiração, exames e medicamentos já usados.",
+          "Antitérmico pode aliviar desconforto da febre quando a criança está consciente e consegue engolir, mas não impede com segurança outra convulsão febril. Não antecipe, alterne, combine ou repita doses para tentar evitar crise sem orientação e sem conferir produto, concentração e horário.",
+          "Durante convulsão ou consciência reduzida, não dê nada pela boca. Medicamento de resgate só deve ser usado se já foi prescrito para aquela criança, com treinamento e plano escrito; siga exatamente via, dose, tempo e limite do plano enquanto aciona ajuda quando indicado.",
+          "Não use sobras de anticonvulsivante, antibiótico, antiviral, corticoide ou receita de outra pessoa. Tratamento contínuo para prevenir crises não é automático e exige decisão do pediatra/neuropediatra após avaliar benefícios, riscos e diagnóstico.",
+          "Leve à emergência as embalagens e horários de tudo que foi administrado, inclusive antitérmicos, xaropes, fitoterápicos e medicamento de resgate. Informe alergias, uso recente de antibiótico, acesso possível a remédios ou substâncias e qualquer erro de dose.",
+          "Após medicamento de resgate, sonolência intensa, respiração lenta ou difícil, lábios azulados, vômitos com pouca resposta ou nova crise exige SAMU 192. Não repita a dose além do plano nem transporte a criança sozinho enquanto estiver convulsionando ou inconsciente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não ofereça água, leite, comida, comprimido ou xarope durante a crise nem enquanto a criança estiver sonolenta, confusa ou sem engolir normalmente, pois há risco de aspiração.",
+          "Quando estiver totalmente acordada, sentando e engolindo normalmente, ofereça líquidos adequados à idade em pequenas quantidades e com frequência. Para lactente, mantenha leite materno; não force se houver náusea ou tosse.",
+          "Observe sinais de desidratação: pouca urina, boca seca, ausência de lágrimas, olhos fundos, piora do estado geral ou incapacidade de manter líquidos. Esses sinais, principalmente com sonolência ou vômitos repetidos, exigem reavaliação rápida.",
+          "Não há alimento, vitamina, chá, suplemento ou dieta que previna crise febril. Mantenha alimentação habitual e leve após a recuperação, respeitando apetite e a orientação dada para a infecção de base.",
+          "Engasgo, tosse persistente, voz molhada, respiração ruidosa ou arroxeamento após a crise pode indicar aspiração. Interrompa oferta oral e procure emergência; não tente empurrar alimento ou líquido.",
+          "Vômitos persistentes, dor de cabeça intensa, rigidez de nuca, fontanela abaulada, manchas roxas ou vermelhas que não clareiam à pressão, ou recusa completa de líquidos não são cuidados alimentares simples e precisam de avaliação imediata."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se a criança está convulsionando há 5 minutos, tem crises repetidas sem recuperar a consciência, respira mal, fica azulada ou muito pálida, sofreu trauma importante ou está difícil transportá-la com segurança, acione o SAMU 192 imediatamente.",
+          "Procure emergência em qualquer crise com movimentos ou rigidez de um lado, desvio persistente dos olhos/cabeça, duração superior a 15 minutos, mais de uma crise na mesma doença febril ou fraqueza de um lado após o episódio.",
+          "Dificuldade de despertar, confusão ou sonolência que não melhora progressivamente, comportamento muito diferente, perda de habilidade, fala alterada ou ausência de retorno ao estado habitual em até uma hora exige avaliação imediata.",
+          "Rigidez de nuca, fontanela abaulada, dor de cabeça intensa, fotofobia, vômitos repetidos, manchas roxas/vermelhas que não somem à pressão, gemência, extremidades frias ou piora rápida pode indicar meningite, encefalite ou sepse; não aguarde em casa.",
+          "Toda primeira crise, crise com febre antes dos 6 meses ou depois dos 6 anos, crise após trauma ou possível ingestão de remédio/substância, ou crise em criança imunossuprimida precisa de emergência, mesmo se tiver parado.",
+          "Desidratação importante, incapacidade de beber, pouca urina, dificuldade respiratória, dor intensa, febre em lactente pequeno ou cuidador que percebe que a criança está muito doente justifica retorno imediato, independentemente do número do termômetro."
+        ],
+        "QUANDO REAVALIAR": [
+          "Uma suspeita de crise febril complexa deve ser avaliada no pronto atendimento no mesmo episódio; não espere consulta eletiva. A alta só deve ocorrer após decisão da equipe, retorno neurológico adequado e plano para a causa da febre e possíveis recorrências.",
+          "Após a alta, cumpra o retorno definido pelo serviço. Se nenhum prazo foi dado, contate pediatria em até uma semana para revisar a infecção, evolução e plano de segurança; volte antes diante de nova crise, febre persistente ou piora.",
+          "Revisão pediátrica ou neuropediátrica é especialmente importante após crise prolongada, focal, recorrente, em menor de 18 meses, depois dos 6 anos, com atraso/regressão do desenvolvimento, exame neurológico anormal ou história familiar de epilepsia.",
+          "EEG, imagem, punção lombar, exames de sangue/urina e teste genético não são decididos pelo nome isolado. A equipe os indica conforme foco, duração, recuperação, exame, suspeita de infecção, alteração metabólica ou síndrome epiléptica.",
+          "Procure reavaliação da febre se durar 5 dias ou mais, se não houver foco esclarecido, se os sintomas piorarem ou se aparecer rash que não clareia, dificuldade para respirar, pouca urina, dor localizada ou prostração, mesmo sem nova crise.",
+          "Revise periodicamente o plano de primeiros socorros, os contatos de emergência, a validade do medicamento de resgate quando prescrito e as orientações da escola. Mudança de peso, nova medicação ou nova característica da crise exige atualização profissional, não ajuste em casa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crise com febre nesta idade não deve ser rotulada como crise febril típica. É emergência por risco de infecção neonatal, alteração metabólica ou outra doença grave. Acione atendimento imediato; não dê nada pela boca durante alteração de consciência.",
+        "3a5m": "A idade ainda está fora da faixa habitual de crise febril. Convulsão, olhar parado, rigidez, abalos ou pouca resposta junto de febre exige pronto atendimento imediato, investigação de infecção do sistema nervoso e outras causas; não observe em casa.",
+        "6a11m": "Está na faixa possível, mas lactentes têm maior dificuldade de mostrar sinais de meningite e desidratação. Crise focal, prolongada, repetida ou recuperação lenta exige avaliação urgente; informe vacinação, antibiótico recente, fontanela, mamadas e número de fraldas molhadas.",
+        "1a": "É faixa frequente de crise febril. Cronometre, proteja, não coloque nada na boca e busque emergência por qualquer característica complexa. Após a crise, observe recuperação, respiração, hidratação e sinais de infecção sem confiar apenas na temperatura.",
+        "2a5": "Continua na faixa típica. Explique que o episódio não é culpa da criança e não significa automaticamente epilepsia. Escola e cuidadores precisam de plano de primeiros socorros; uma nova crise focal, com 5 minutos em curso ou repetida na mesma doença exige ação urgente.",
+        "6a11": "A partir de cerca de 6 anos, crise com febre é atípica e merece investigação de epilepsia, infecção, causa estrutural, metabólica ou tóxica. Não aplique automaticamente prognóstico de crise febril da primeira infância; procure emergência e seguimento especializado.",
+        "12a17": "Crise com febre em adolescente não é crise febril típica. É emergência para avaliar infecção do sistema nervoso, epilepsia, intoxicação/substância, distúrbio metabólico e outras causas. Perguntas sobre medicamentos e substâncias devem ser feitas com privacidade, sem atraso do cuidado.",
+        "unknown": "Confirme idade, febre, duração, focalidade, repetição, recuperação, vacinação, desenvolvimento e história de crise afebril. Sem esses dados, não classifique como crise febril complexa em casa; trate crise em curso por 5 minutos, dificuldade respiratória ou consciência anormal como emergência."
+      },
+      "refs": [
+        {
+          "id": "pais240_op2263_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Epilepsia",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/e/epilepsia"
+        },
+        {
+          "id": "pais240_op2263_2",
+          "name": "Clinical Practice Guidelines: Febrile seizure",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Febrile_seizure/"
+        },
+        {
+          "id": "pais240_op2263_3",
+          "name": "Kids Health Info: Febrile seizures",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/febrile_convulsions/"
+        },
+        {
+          "id": "pais240_op2263_4",
+          "name": "Febrile seizure — Emergency management in children",
+          "url": "https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/febrile-seizure"
+        },
+        {
+          "id": "pais240_op2263_5",
+          "name": "Fever in under 5s: assessment and initial management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng143/chapter/Recommendations"
+        },
+        {
+          "id": "pais240_op2263_6",
+          "name": "Febrile seizures",
+          "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-2277",
+      "specific": true,
+      "key": "pdf1500_311",
+      "label": "Crise febril simples",
+      "entity": "Crise febril simples na infância: crise generalizada associada a febre, com duração inferior a 15 minutos, recuperação neurológica completa em até uma hora e sem recorrência na mesma doença febril, depois de excluir infecção do sistema nervoso central, distúrbio metabólico, intoxicação, trauma, epilepsia e outras causas",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ACUTE_NEUROLOGIC_PRESENTATION\",\"normalized_entity\":\"Crise febril simples\",\"assessment\":\"O termo é válido para uma apresentação aguda, tipicamente entre 6 meses e 5–6 anos. A classificação simples exige simultaneamente crise generalizada, duração inferior a 15 minutos, retorno completo ao estado neurológico habitual em até uma hora e ausência de repetição na mesma doença febril. O rótulo não pode ser presumido durante uma crise em andamento, antes da recuperação, fora da faixa etária típica ou quando há focalidade, repetição, alteração persistente da consciência, sinais de infecção do sistema nervoso central, crise afebril prévia, distúrbio metabólico, intoxicação ou trauma.\",\"not_automatically_equivalent_to\":[\"Epilepsia ou necessidade de anticonvulsivante contínuo\",\"Qualquer convulsão acompanhada de temperatura elevada, sem excluir meningite, encefalite ou outra causa aguda sintomática\",\"Crise focal, com duração superior a 15 minutos, recorrente na mesma doença ou com recuperação neurológica incompleta\",\"Calafrio, tremor, síncope, espasmo do choro ou evento não epiléptico\",\"Permissão para observação domiciliar automática na primeira crise ou antes de avaliar a causa da febre\",\"Indicação automática ou dispensa automática de exames sem história e exame clínico\"],\"pediatric_scope\":\"A faixa habitual é de 6 meses a 5–6 anos. Crise com febre antes de 6 meses, após cerca de 6 anos, em criança com crise afebril anterior, regressão do desenvolvimento, doença neurológica relevante, imunossupressão, trauma ou possível exposição tóxica é atípica e precisa de avaliação de diagnósticos alternativos.\",\"critical_context_to_confirm\":[\"Idade, temperatura medida, início da febre e provável foco infeccioso\",\"Hora de início e fim da crise e duração cronometrada\",\"Se os movimentos foram generalizados ou começaram/predominaram em um lado\",\"Número de crises na mesma doença febril e recuperação entre episódios\",\"Tempo para voltar completamente ao comportamento, fala, marcha e interação habituais\",\"Rigidez de nuca, fontanela abaulada, cefaleia intensa, vômitos persistentes, petéquias ou púrpura, dificuldade respiratória e má perfusão\",\"Vacinação, antibiótico recente, imunossupressão e sinais de infecção grave\",\"Crise afebril prévia, desenvolvimento, trauma, diabetes/jejum, ingestão de medicamento ou substância\",\"Medicamentos administrados e eventual plano individual de resgate já prescrito\",\"História familiar de crise febril, epilepsia ou morte súbita\"],\"counting_rule\":\"Contar pdf1500_311 como uma apresentação clínica pediátrica específica somente após revisão, integração, testes e publicação. Não contar a doença febril subjacente, recorrências futuras ou epilepsia como cobertas por esta ficha.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Crise febril simples é uma convulsão generalizada durante uma doença com febre que dura menos de 15 minutos, não se repete na mesma doença e é seguida de recuperação completa em até uma hora. A equipe só pode confirmar essa classificação depois que a crise termina, a criança volta ao normal e outras causas preocupantes são afastadas.",
+          "Durante a crise, marque o horário, afaste objetos perigosos, proteja a cabeça e mantenha a criança em superfície baixa e segura. Quando for possível sem forçar, deixe-a de lado para saliva ou vômito escorrer e observe respiração e cor.",
+          "Não segure braços ou pernas, não sacuda, não tente abrir a boca e não coloque dedo, colher, pano, água, alimento ou remédio na boca. A criança não engole a língua; inserir objetos pode causar trauma e aspiração.",
+          "Acione o SAMU 192 se a crise completar 5 minutos, se a duração for desconhecida, se outra crise começar sem recuperação completa, se houver dificuldade para respirar, coloração azulada ou muito pálida, trauma importante ou transporte inseguro.",
+          "Depois dos movimentos, mantenha de lado e fique junto até recuperar totalmente. Sonolência breve pode ocorrer, mas confusão ou sonolência que não melhora, fraqueza de um lado, fala diferente, nova crise ou piora geral exigem pronto atendimento imediato.",
+          "Anote duração, temperatura, sintomas da infecção, movimentos observados, medicamentos já usados e tempo para voltar ao habitual. Um vídeo curto pode ajudar apenas se for seguro e não atrasar proteção ou socorro."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "A primeira crise da vida precisa de avaliação médica urgente mesmo que pare antes de 5 minutos e pareça simples. A equipe examina a criança, procura a causa da febre e confirma se houve recuperação completa antes de decidir observação, alta ou investigação.",
+          "Após alta formal, mantenha ambiente confortável, roupas adequadas e supervisão proporcional enquanto houver febre ou cansaço. Não use banho frio, gelo, álcool ou resfriamento agressivo para tentar prevenir outra crise.",
+          "A classificação simples não depende apenas da duração: movimentos de um lado, repetição na mesma doença ou recuperação incompleta tornam o episódio complexo e mudam a urgência. Informe qualquer uma dessas características imediatamente.",
+          "Creche, escola e outros cuidadores devem conhecer primeiros socorros: cronometrar, afastar perigos, proteger a cabeça, não conter, não colocar nada na boca e chamar emergência aos 5 minutos ou antes se houver problema respiratório.",
+          "A convulsão não é contagiosa, mas a doença que causou a febre pode ser. Mantenha higiene das mãos, etiqueta respiratória e as medidas indicadas para o diagnóstico infeccioso; retorno à escola depende da recuperação dessa doença.",
+          "Exames como glicose, eletrólitos, punção lombar, EEG ou imagem não são automáticos na crise simples típica nem devem ser descartados por conta própria quando a apresentação é atípica. A decisão depende de idade, vacinação, exame, recuperação e sinais de infecção."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, apresentação, via, dose ou duração. Use apenas o plano entregue para esta criança e confira produto, concentração e horário antes de administrar qualquer medicamento após recuperação completa.",
+          "Antitérmico pode aliviar dor ou desconforto quando a criança está desperta e consegue engolir, mas não previne de forma confiável outra crise febril. Não use antitérmico apenas para tentar impedir convulsão.",
+          "Durante a crise ou enquanto a criança estiver sonolenta, confusa ou engolindo mal, não dê nada pela boca. Há risco de engasgo e aspiração.",
+          "Medicamento de resgate anticonvulsivante só deve ser usado se foi prescrito para aquela criança, com plano escrito e treinamento. Siga exatamente o plano e acione o SAMU 192 quando o limiar de emergência for atingido; não use prescrição de outra pessoa.",
+          "Não inicie anticonvulsivante diário, antibiótico, antiviral, corticoide, fitoterápico ou combinação de antitérmicos por conta própria. A crise febril simples não define a causa da febre nem indica tratamento contínuo automático.",
+          "Leve ou fotografe com segurança as embalagens e registre horários do que foi administrado. Procure orientação se houve duplicidade, concentração errada, ingestão acidental, dose desconhecida ou possível intoxicação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não ofereça água, leite, alimento ou medicamento durante a crise nem até a criança estar plenamente acordada, sentada com segurança e engolindo normalmente.",
+          "Depois da recuperação completa, ofereça líquidos em pequenas quantidades e com frequência. Mantenha leite materno e alimentação habitual conforme tolerância, sem forçar grandes volumes.",
+          "Observe urina, boca seca, ausência de lágrimas, olhos fundos, recusa persistente e vômitos repetidos. Incapacidade de beber ou sinais de desidratação precisam de avaliação no mesmo dia, imediatamente se houver prostração ou pouca resposta.",
+          "Não existe alimento, chá, suplemento ou dieta que previna crise febril. Não retire leite, glúten ou outros alimentos e não use cafeína, álcool ou misturas caseiras para baixar febre.",
+          "Tosse, engasgo, voz molhada, respiração alterada ou vômito enquanto ainda está sonolenta pode indicar risco de aspiração. Interrompa a oferta e procure atendimento.",
+          "Bebês pequenos e crianças com doença renal, cardíaca, metabólica ou restrição de líquidos precisam seguir o plano específico da equipe; não aumente líquidos ou dilua fórmula por conta própria."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Crise em andamento por 5 minutos, duração desconhecida, nova crise sem recuperação, dificuldade para respirar, lábios arroxeados, palidez extrema, trauma grave ou crise na água: acione o SAMU 192 imediatamente.",
+          "Primeira crise da vida requer avaliação urgente mesmo que seja breve. Não dirija com a criança ainda convulsionando ou inconsciente; chame emergência e mantenha os primeiros socorros.",
+          "Movimentos de um lado, olhar ou cabeça desviados, duração superior a 15 minutos, repetição na mesma doença, fraqueza após a crise ou retorno incompleto ao normal tornam o episódio não simples e exigem pronto atendimento imediato.",
+          "Rigidez de nuca, fontanela abaulada, dor de cabeça intensa, vômitos repetidos, manchas roxas ou avermelhadas que não somem à pressão, respiração difícil, pele fria/manchada ou piora rápida podem indicar meningite, encefalite ou sepse.",
+          "Crise com febre em menor de 6 meses ou maior de cerca de 6 anos, após trauma ou possível ingestão, com glicose baixa possível, crise afebril anterior ou regressão do desenvolvimento precisa de investigação de outras causas.",
+          "Dificuldade para acordar, confusão crescente, fala ou marcha alteradas, pouca resposta, desmaio ou qualquer preocupação de que a criança está pior do que antes exige emergência; não espere a temperatura baixar."
+        ],
+        "QUANDO REAVALIAR": [
+          "A primeira crise febril deve ser avaliada no mesmo episódio. A classificação simples e a possibilidade de cuidados em casa só podem ser definidas após exame, retorno neurológico completo e avaliação da causa da febre.",
+          "Se houve alta formal, siga o prazo de revisão da doença febril e procure antes se a febre durar 5 dias, surgir novo sintoma, a criança beber ou urinar menos, ou o cuidador estiver mais preocupado ou sem condições de manter o cuidado.",
+          "Uma nova crise na mesma doença febril, mesmo curta, torna o episódio complexo. Procure pronto atendimento; se estiver em curso por 5 minutos ou houver dificuldade respiratória, acione o SAMU 192.",
+          "Reavalie com pediatra se houver crises febris repetidas em doenças diferentes, desenvolvimento diferente, história familiar de epilepsia, crises prolongadas ou idade atípica. Isso não confirma epilepsia, mas pode exigir avaliação individualizada.",
+          "Após recuperação da doença, peça um plano escrito de primeiros socorros para família e escola, especialmente se já houve recorrência. Confirme quando chamar emergência e se existe indicação individual de medicamento de resgate.",
+          "Não marque seguimento neurológico ou exames como obrigatórios apenas pelo nome da ficha. A equipe decide conforme história, exame e fatores de risco, mantendo retorno imediato para qualquer sinal de alarme."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crise com febre nesta idade não é crise febril simples típica. É emergência por risco de infecção neonatal, alteração metabólica ou outra doença grave; acione atendimento imediato e não dê nada pela boca durante alteração de consciência.",
+        "3a5m": "Ainda está fora da faixa habitual. Convulsão, olhar parado, rigidez, abalos ou pouca resposta junto de febre exige pronto atendimento imediato e investigação de infecção do sistema nervoso e outras causas; não observe em casa.",
+        "6a11m": "Está na faixa possível, mas lactentes podem mostrar sinais inespecíficos de meningite e desidratação. Primeira crise requer avaliação urgente; informe vacinação, antibiótico recente, fontanela, mamadas e fraldas molhadas.",
+        "1a": "É faixa frequente. Cronometre, proteja, não coloque nada na boca e acione emergência aos 5 minutos. Mesmo que o episódio pareça simples, a primeira crise precisa de avaliação e a causa da febre deve ser examinada.",
+        "2a5": "Continua na faixa típica. Explique que crise febril simples não significa automaticamente epilepsia e não é culpa da criança. Escola e cuidadores devem conhecer primeiros socorros e o plano individual.",
+        "6a11": "A partir de cerca de 6 anos, crise com febre é atípica e não deve receber automaticamente o prognóstico de crise febril simples. Procure emergência para avaliar infecção, epilepsia, causa metabólica, estrutural ou tóxica.",
+        "12a17": "Crise com febre em adolescente não é crise febril simples típica. É emergência para avaliar infecção do sistema nervoso, epilepsia, intoxicação/substância, distúrbio metabólico e outras causas.",
+        "unknown": "Confirme idade, febre, duração, padrão generalizado ou focal, repetição, recuperação, vacinação e história de crise afebril. Sem esses dados, não classifique como simples em casa; crise em curso por 5 minutos, dificuldade respiratória ou recuperação anormal é emergência."
+      },
+      "refs": [
+        {
+          "id": "pais240_op2277_1",
+          "name": "Clinical Practice Guidelines: Febrile seizure",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Febrile_seizure/"
+        },
+        {
+          "id": "pais240_op2277_2",
+          "name": "Kids Health Info: Febrile seizures",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/febrile_convulsions/"
+        },
+        {
+          "id": "pais240_op2277_3",
+          "name": "Febrile seizure — Emergency management in children",
+          "url": "https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/febrile-seizure"
+        },
+        {
+          "id": "pais240_op2277_4",
+          "name": "Febrile seizures",
+          "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+        },
+        {
+          "id": "pais240_op2277_5",
+          "name": "Fever in under 5s: assessment and initial management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng143/chapter/recommendations"
+        },
+        {
+          "id": "pais240_op2277_6",
+          "name": "Optimizing Advanced Imaging of the Pediatric Patient in the Emergency Department: Policy Statement",
+          "url": "https://publications.aap.org/pediatrics/article/154/1/e2024066854/197588/Optimizing-Advanced-Imaging-of-the-Pediatric"
+        },
+        {
+          "id": "pais240_op2277_7",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Epilepsia",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/e/epilepsia"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2291",
+      "specific": true,
+      "key": "pdf1500_325",
+      "label": "Crupe espasmódico",
+      "entity": "Crupe espasmódico na infância: apresentação de crupe com tosse ladrante, rouquidão e possível estridor de início abrupto, frequentemente noturno e recorrente, às vezes sem pródromo viral ou febre; a gravidade e o destino são definidos pela obstrução da via aérea, não pelo rótulo espasmódico",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CROUP_PRESENTATION_WITH_NOSOLOGIC_OVERLAP\",\"normalized_entity\":\"Crupe espasmódico (fenótipo de crupe de início abrupto, frequentemente noturno e recorrente)\",\"assessment\":\"O termo é uma apresentação pediátrica reconhecida. Pode começar subitamente à noite, melhorar entre episódios e ocorrer sem febre ou doença viral evidente. Entretanto, não existe limite doméstico seguro que separe crupe espasmódico de crupe viral, obstrução grave ou diagnósticos alternativos. Diretriz governamental aberta afirma que crupe espasmódico pode ocorrer sem doença viral aguda, mas sua avaliação e tratamento são idênticos aos do crupe. Associação com atopia, asma ou refluxo não prova causa individual e não autoriza tratamento empírico. Estridor em repouso, esforço, fadiga, alteração de cor ou consciência, salivação/dificuldade para engolir e aparência tóxica mudam o destino independentemente de febre.\",\"not_automatically_equivalent_to\":[\"Crupe viral confirmado ou exclusão de infecção apenas porque não há febre\",\"Alergia, asma ou refluxo gastroesofágico comprovados\",\"Broncoespasmo, bronquiolite ou doença das vias aéreas inferiores\",\"Permissão para observar estridor em repouso ou dificuldade respiratória em casa\",\"Indicação de vapor, xaropes, antibiótico, corticoide, adrenalina, antialérgico ou tratamento de refluxo sem avaliação e prescrição\",\"Exclusão de corpo estranho, anafilaxia, epiglotite, traqueíte bacteriana, abscesso ou anomalia estrutural da via aérea\"],\"pediatric_scope\":\"Crupe é mais comum aproximadamente entre 6 meses e 5–6 anos. Apresentação abaixo de 6 meses, acima de 6 anos, recorrente, prolongada, muito grave, sem resposta esperada ou associada a engasgo, disfagia, salivação ou aparência tóxica exige avaliação de diagnósticos alternativos e possível via aérea estruturalmente estreita.\",\"critical_context_to_confirm\":[\"Idade, início súbito ou após coriza, horário noturno, febre e duração do episódio\",\"Tosse ladrante, rouquidão, estridor apenas ao chorar ou também em repouso\",\"Retrações, batimento de asa nasal, esforço abdominal, fadiga, apneia, cor e nível de consciência\",\"Capacidade de falar/chorar, engolir saliva, beber e manter hidratação\",\"Engasgo ou possível corpo estranho, urticária/inchaço, exposição a fumaça ou irritante\",\"Febre alta, aparência muito doente, dor cervical, secreção espessa, disfagia ou salivação\",\"Número de episódios, idade em cada episódio, duração e resposta a tratamentos prescritos\",\"Prematuridade, traqueomalácia, estenose subglótica, intubação prévia, síndrome genética ou doença neuromuscular\",\"História pessoal/familiar de asma ou atopia e sintomas de refluxo, sem assumir causalidade\",\"Medicamentos já administrados e plano individual fornecido pela equipe\"],\"counting_rule\":\"Contar pdf1500_325 como apresentação clínica pediátrica específica somente após revisão, integração, testes e publicação. Não contar alergia, refluxo, asma, crupe viral, anomalia estrutural ou outro diagnóstico diferencial como coberto por esta ficha.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Crupe espasmódico causa tosse seca e ladrante, rouquidão e, às vezes, um ruído agudo ao puxar o ar chamado estridor. Pode começar de repente, principalmente à noite, e ocorrer sem febre; ainda assim, a gravidade depende da respiração, da cor e do estado da criança, não do nome ou da presença de febre.",
+          "Mantenha a criança calma, no colo ou na posição em que respira melhor. Choro, luta e exames forçados podem piorar a obstrução; fale baixo, reduza estímulos e não a obrigue a deitar.",
+          "Observe se o estridor aparece somente ao chorar ou também quando está quieta, se há retração entre as costelas ou no pescoço, esforço abdominal, dificuldade para falar ou beber, cansaço, palidez, coloração azulada ou mudança de comportamento.",
+          "Confira a criança durante a noite. Um episódio pode melhorar e voltar; piora, estridor em repouso ou esforço respiratório após melhora não deve ser atribuído automaticamente ao padrão espasmódico.",
+          "Não examine a garganta à força nem tente retirar algo com os dedos. Salivação, dificuldade para engolir, posição inclinada para frente, febre alta, aparência muito doente ou início após engasgo sugerem outros diagnósticos e exigem emergência.",
+          "Anote horário, duração, febre, estridor em repouso, esforço, cor, capacidade de beber e quantas vezes ocorreu. Vídeo curto do som pode ajudar a equipe apenas se for seguro e não atrasar cuidado ou socorro."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não use vapor quente, chaleira, panela, banho muito quente ou umidificador como tratamento. Vapor não demonstrou reduzir a gravidade e pode causar queimaduras; nunca leve a criança para perto de água fervente.",
+          "Ar frio pode aliviar sintomas em algumas crianças, mas a resposta é imprevisível e não substitui avaliação. Não exponha ao frio se isso causar tremor ou desconforto e não atrase o atendimento para testar essa medida.",
+          "Evite fumaça de cigarro, vape, incenso, perfumes fortes, sprays e outros irritantes. Areje o ambiente com segurança, sem deixar a criança sozinha ou exposta a risco térmico.",
+          "Mantenha atividades tranquilas e supervisão próxima enquanto houver tosse ladrante ou ruído respiratório. Não faça exercício, fisioterapia respiratória, tapotagem ou manobras no pescoço durante o episódio.",
+          "A tosse não é contagiosa por si; se houver coriza, febre ou infecção respiratória, use higiene das mãos, etiqueta da tosse e evite compartilhar utensílios. Retorno à creche ou escola depende da recuperação e das regras para a doença associada.",
+          "Episódios repetidos, apresentação fora da idade típica, sintomas prolongados ou pouca resposta ao manejo precisam de reavaliação. A equipe pode investigar estreitamento da via aérea ou outras causas; não conclua em casa que é apenas alergia ou refluxo."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não escolhe medicamento, apresentação, via, dose ou duração. Crupe espasmódico é avaliado e tratado conforme a mesma gravidade do crupe; use apenas o plano prescrito para esta criança.",
+          "Não use xaropes para tosse, descongestionantes, antibióticos, adrenalina, corticoide, antialérgico, broncodilatador ou medicamento para refluxo por conta própria. Alguns não ajudam, podem causar sedação ou podem atrasar o tratamento correto.",
+          "Se a equipe prescreveu medicamento para este episódio, confira nome, concentração, via e horário na receita. Não repita receita antiga nem use remédio de irmão ou de episódio anterior sem confirmar o plano atual.",
+          "Não force medicamento pela boca se a criança estiver com dificuldade respiratória importante, muito sonolenta, salivando ou sem conseguir engolir com segurança. Procure atendimento imediato.",
+          "Medicamento administrado no serviço não elimina a necessidade de observação orientada. Retorno de estridor em repouso, esforço ou piora após tratamento exige nova avaliação urgente conforme o plano recebido.",
+          "Leve as embalagens e informe tudo o que foi dado. Possível dose duplicada, produto ou concentração errada, reação alérgica ou ingestão acidental exige orientação imediata e não deve ser corrigida com outra dose."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança respira confortavelmente, está alerta e engole normalmente, ofereça pequenos goles com frequência. Não force copos grandes durante tosse ou agitação.",
+          "Não ofereça alimento, bebida ou remédio pela boca se houver estridor importante em repouso, esforço intenso, salivação, dificuldade para engolir, sonolência ou lábios arroxeados; há risco de engasgo e a prioridade é a via aérea.",
+          "Mantenha leite materno ou alimentação habitual quando a respiração permitir, com pausas e posição confortável. Não dilua fórmula nem acrescente chás, óleos, mel ou misturas caseiras.",
+          "Boca seca, ausência de lágrimas, poucas micções, recusa persistente ou vômitos repetidos sugerem desidratação e precisam de avaliação no mesmo dia; junto de cansaço ou dificuldade respiratória, procure emergência.",
+          "Não há alimento ou suplemento que interrompa a crise. Não retire leite, glúten ou outros alimentos para tratar suposta alergia ou refluxo sem avaliação, pois a causa do episódio não é confirmada pelo rótulo.",
+          "Bebês pequenos e crianças com restrição hídrica, doença cardíaca, renal, neuromuscular ou dificuldade de deglutição devem seguir o plano individual e ter limiar baixo para avaliação presencial."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Estridor quando a criança está quieta, retrações no pescoço ou costelas, esforço abdominal, respiração muito rápida ou ficando mais lenta/fraca, dificuldade para falar ou chorar e piora progressiva exigem pronto atendimento imediato.",
+          "Lábios ou língua azulados, pele muito pálida ou manchada, pausas respiratórias, confusão, sonolência difícil de interromper, pouca resposta, exaustão ou ruído que fica mais fraco enquanto a criança piora são sinais de obstrução crítica: acione o SAMU 192.",
+          "Salivação excessiva, incapacidade de engolir, voz abafada, posição inclinada para frente, dor forte ao engolir, febre alta ou aparência muito doente podem indicar epiglotite, traqueíte ou abscesso; não examine a garganta e busque emergência.",
+          "Início súbito durante alimentação ou brincadeira com objeto pequeno, engasgo, assimetria da entrada de ar ou tosse persistente pode indicar corpo estranho e requer emergência, mesmo que haja melhora parcial.",
+          "Urticária, inchaço de lábios ou língua, vômitos súbitos, chiado ou desmaio junto do estridor pode ser anafilaxia. Siga o plano individual se já existir e acione o SAMU 192; não espere para ver se passa.",
+          "Em menor de 6 meses, criança com via aérea previamente estreita ou doença neuromuscular, qualquer estridor em repouso, dificuldade para mamar ou piora merece avaliação urgente por menor reserva respiratória."
+        ],
+        "QUANDO REAVALIAR": [
+          "O primeiro episódio de tosse ladrante com estridor deve ser avaliado por profissional, especialmente se não há diagnóstico prévio ou plano escrito. A equipe confirma a gravidade e afasta diagnósticos alternativos antes de decidir cuidado em casa.",
+          "Após avaliação e alta formal, retorne imediatamente se surgir estridor em repouso, esforço, alteração de cor ou consciência, dificuldade para engolir/beber ou se o cuidador perceber piora. Não espere a noite terminar.",
+          "Procure reavaliação no mesmo dia se os sintomas não melhorarem como explicado, se voltarem repetidamente na mesma noite, se houver desidratação, febre persistente, dor, secreção espessa ou resposta pequena ao tratamento prescrito.",
+          "Agende revisão pediátrica quando houver mais de dois episódios por ano, sintomas por semanas, pouca resposta ao manejo usual, apresentação antes de 6 meses ou depois de cerca de 6 anos, ou história de intubação/estreitamento da via aérea.",
+          "Recorrência não prova asma, alergia ou refluxo. A equipe decide se há necessidade de otorrinolaringologia, pneumologia ou investigação da via aérea conforme idade, padrão, gravidade e exame.",
+          "Peça um plano escrito para família, creche e escola: sinais de alarme, quando buscar urgência e como usar somente medicamentos prescritos. A possibilidade de cuidado em casa deve ser confirmada para cada episódio."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crupe é raro nesta idade. Tosse ladrante, estridor, dificuldade para mamar, pausas, mudança de cor, febre ou temperatura baixa exige emergência para avaliar anomalia da via aérea, infecção e outras causas; não testar vapor ou alimentação.",
+        "3a5m": "Ainda está abaixo da faixa mais típica. Primeiro episódio ou qualquer estridor em repouso precisa de avaliação urgente, com atenção a laringomalácia, hemangioma subglótico, infecção e corpo estranho.",
+        "6a11m": "Está na faixa possível, mas a via aérea é estreita e pode piorar rapidamente. Mantenha no colo e calma, observe mamadas e fraldas e procure urgência diante de estridor em repouso ou esforço.",
+        "1a": "É faixa frequente de crupe. Use posição de conforto e supervisão noturna; choro pode piorar o ruído. Estridor em repouso, retrações, cansaço ou dificuldade para beber exige atendimento imediato.",
+        "2a5": "Continua na faixa típica. Explique os sinais à creche/escola e não confunda melhora diurna com resolução definitiva. Episódios repetidos ou atípicos merecem revisão da via aérea e de diagnósticos alternativos.",
+        "6a11": "Crupe torna-se menos comum. Apresentação nova, recorrente ou grave nesta idade precisa de avaliação para corpo estranho, disfunção de cordas vocais, estreitamento, reação alérgica, infecção bacteriana ou outra causa.",
+        "12a17": "Crupe espasmódico é incomum em adolescentes. Estridor é emergência potencial e requer avaliação de anafilaxia, corpo estranho, infecção profunda, lesão da laringe e outras causas; não observar em casa pelo rótulo.",
+        "unknown": "Confirme idade, início, febre, tosse ladrante, estridor em repouso, esforço, cor, deglutição, engasgo, alergia e recorrência. Sem esses dados, não classifique como leve; obstrução, salivação, cianose ou pouca resposta é emergência."
+      },
+      "refs": [
+        {
+          "id": "pais240_op2291_1",
+          "name": "Croup — Emergency management in children",
+          "url": "https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/croup"
+        },
+        {
+          "id": "pais240_op2291_2",
+          "name": "Clinical Practice Guidelines: Croup (Laryngotracheobronchitis)",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Croup_Laryngotracheobronchitis/"
+        },
+        {
+          "id": "pais240_op2291_3",
+          "name": "Croup in Young Children",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/chest-lungs/Pages/Croup-Treatment.aspx"
+        },
+        {
+          "id": "pais240_op2291_4",
+          "name": "Croup factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/croup"
+        },
+        {
+          "id": "pais240_op2291_5",
+          "name": "Acute management of croup in the emergency department",
+          "url": "https://cps.ca/en/documents/position/acute-management-of-croup"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

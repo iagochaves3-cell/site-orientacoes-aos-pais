@@ -1,0 +1,813 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T19:57:53.682Z",
+  "records": [
+    {
+      "jobId": "OP-3250",
+      "specific": true,
+      "key": "pps_catalog_ccc478b9c76dd905",
+      "label": "Crise Hemolítica Aguda (G6PD) — registro no PPS",
+      "entity": "Crise hemolítica aguda em criança ou adolescente com deficiência de G6PD",
+      "assessment": "{\"classification\":\"VALID_ACUTE_PRESENTATION_OF_CANONICAL_DISEASE\",\"normalized_entity\":\"Hemólise aguda associada à deficiência de glicose-6-fosfato desidrogenase (G6PD)\",\"related_queue_keys\":[\"pps_catalog_6a00b34cc6bb36bf\"],\"assessment\":\"O termo descreve uma complicação aguda válida da deficiência hereditária de G6PD, não uma segunda doença genética. A crise pode ser desencadeada por infecção, medicamento, alimento ou substância oxidante e causar anemia rápida, icterícia, hemoglobinúria e lesão renal; por isso necessita de orientação urgente própria, distinta do acompanhamento assintomático.\",\"reconciliation\":{\"canonical_rule\":\"Manter esta key como apresentação aguda específica e vinculá-la à entidade canônica de deficiência de G6PD; não duplicar aconselhamento genético nem transformar listas de oxidantes em proibição universal.\",\"diagnostic_boundary\":\"Urina escura, icterícia e palidez não confirmam G6PD isoladamente. Hemólise imune, hemoglobinopatias, infecção, sangramento, hepatopatia, rabdomiólise e outras causas precisam de avaliação.\",\"testing_boundary\":\"A atividade de G6PD pode ser falsamente normal durante ou logo após hemólise/transfusão; resultado normal no episódio não exclui deficiência e pode exigir repetição quantitativa após recuperação.\",\"sex_boundary\":\"Embora ligada ao X e mais frequentemente reconhecida em meninos, meninas e mulheres heterozigotas também podem ter atividade baixa e hemólise clinicamente importante.\",\"trigger_boundary\":\"Risco depende da variante, atividade enzimática, agente, dose e contexto. Infecção é gatilho comum; fava e naftalina são exposições reconhecidas, mas uma lista fixa de medicamentos não substitui checagem atual por médico/farmacêutico.\",\"counting_effect\":\"UMA apresentação clínica aguda específica vinculada à deficiência de G6PD; não conta como nova doença hereditária independente.\"},\"pediatric_scope\":\"Aplica-se do período neonatal à adolescência. No recém-nascido, icterícia precoce/intensa ou progressiva é emergência pelo risco de neurotoxicidade; nas demais idades, hemólise pode evoluir com anemia grave, hipóxia, choque e lesão renal.\",\"reason\":\"A crise exige reconhecimento de hemólise, interrupção segura da exposição sob avaliação profissional, investigação da infecção e suporte hospitalar conforme gravidade.\",\"next_action\":\"Integrar como apresentação aguda da deficiência de G6PD e testar alarmes de anemia, hemoglobinúria, icterícia neonatal, oligúria, choque, infecção e resultado enzimático falsamente normal.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Suspeita de crise hemolítica por G6PD não é situação para observar apenas em casa: procure avaliação presencial urgente hoje; se houver desmaio, falta de ar, dificuldade para acordar ou sinais de choque, chame o SAMU 192.",
+          "Observe e informe quando começaram palidez, fraqueza, olhos/pele amarelados, urina cor de chá ou coca-cola, dor abdominal/lombar, febre, respiração/coração acelerados e redução da urina.",
+          "Leve a lista, embalagem ou foto de todos os medicamentos, vitaminas, chás, produtos químicos e alimentos usados nos últimos dias, além do cartão/resultado de G6PD. Não atrase o atendimento para reunir tudo.",
+          "Afaste a criança de possível produto químico e não repita produto não prescrito. Se o possível gatilho for medicamento prescrito, contate imediatamente o serviço que avaliará a crise antes da próxima dose; não ajuste tratamento crônico por conta própria.",
+          "Mantenha repouso, supervisão e ambiente seguro enquanto busca atendimento. Evite esforço físico, calor intenso e ficar sozinho, pois anemia rápida pode causar tontura ou desmaio.",
+          "A crise não é contagiosa. A infecção que a desencadeou pode ser transmissível; siga higiene, máscara/isolamento e regras de escola conforme a infecção identificada."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "A equipe deve avaliar sinais vitais, perfusão, grau de palidez/icterícia, hidratação e volume urinário, além de investigar infecção e outras causas de hemólise.",
+          "Hemograma/hemoglobina, reticulócitos, bilirrubina, marcadores de hemólise, urina e função renal podem ser necessários; repetição seriada é decidida pela evolução, não por um valor isolado.",
+          "Informe exposição a fava, naftalina/bolinhas contra traças, produto desconhecido, medicamento novo ou aumento de dose, mas não presuma que qualquer exposição explica tudo.",
+          "Não provoque vômito, não use carvão, leite, receitas caseiras ou 'desintoxicante'. Em exposição química recente, leve a embalagem e siga orientação do CIATox/serviço de emergência.",
+          "Após a recuperação, use identificação de alerta e avise médicos, dentistas, farmacêuticos, escola e cuidadores sobre G6PD; peça uma orientação escrita individual e atualizada.",
+          "Não use listas da internet como garantia absoluta de segurança. Antes de qualquer produto novo, confira nome, composição, dose e necessidade com profissional que conheça a deficiência."
+        ],
+        "MEDICAMENTOS": [
+          "Não iniciar ferro, ácido fólico, vitamina, antibiótico, corticoide ou outro remédio para 'anemia' sem diagnóstico e prescrição. Ferro só trata deficiência de ferro comprovada, não a hemólise por si.",
+          "Não reutilize antibiótico, antimalárico, analgésico ou remédio de outra pessoa. Alguns medicamentos podem oxidar as hemácias, e a segurança varia com agente, dose e situação clínica.",
+          "Mostre ao médico/farmacêutico todos os nomes comerciais e princípios ativos antes de receber nova prescrição; registre G6PD no prontuário e em alertas de medicação.",
+          "O tratamento da crise é hospitalar conforme gravidade e pode incluir retirada médica do gatilho, tratamento da infecção, hidratação monitorada, oxigênio e transfusão; nenhum desses cuidados tem dose domiciliar nesta ficha.",
+          "Não repita a suposta substância desencadeante para 'testar' a reação. Exposição anterior sem sintomas também não garante segurança futura.",
+          "Esta orientação não fornece lista completa de fármacos seguros/proibidos nem prescreve dose, intervalo ou duração; a decisão precisa considerar variante, atividade enzimática, idade, função renal e indicação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se estiver alerta, respirando bem e sem vômitos, ofereça pequenos goles enquanto se dirige ao atendimento; não force grandes volumes e não adie a avaliação para tentar hidratar em casa.",
+          "Se houver sonolência intensa, vômitos repetidos, falta de ar ou dificuldade para engolir, não ofereça nada pela boca por risco de aspiração.",
+          "Não ofereça fava/feijão-fava e evite contato com seu preparo em quem já foi orientado a evitá-la; informe exposição acidental, mas não provoque vômito.",
+          "Não imponha outras restrições alimentares amplas sem orientação individual. Feijões comuns, corantes e alimentos diversos não devem ser proibidos apenas por listas não verificadas.",
+          "Urina escura ou em pouca quantidade, boca seca, recusa de líquidos e vômitos exigem avaliação renal e de hidratação; aumentar líquido por conta própria não corrige anemia grave.",
+          "Após liberação médica, retome alimentação adequada à idade e siga o plano da equipe; nenhum alimento substitui avaliação ou transfusão quando indicada."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o SAMU 192 se houver desmaio, dificuldade para acordar, falta de ar, lábios arroxeados, dor no peito, confusão, fraqueza extrema ou piora rápida.",
+          "Pele fria/manchada, pulso muito rápido ou fraco, tontura importante, mãos/pés frios ou redução de resposta podem indicar choque por anemia grave.",
+          "Urina muito escura, diminuição importante ou ausência de urina, inchaço ou dor lombar podem indicar hemoglobinúria e lesão renal aguda.",
+          "Palidez nova/intensa, olhos ou pele amarelados, coração acelerado, cansaço para mamar/andar/falar ou respiração rápida sugerem hemólise relevante.",
+          "Febre, prostração, rigores, manchas roxas, vômitos persistentes ou piora do estado geral exigem urgência: infecção pode ser o gatilho e também causar sepse.",
+          "Recém-nascido com icterícia nas primeiras 24 horas, icterícia que aumenta rapidamente, sonolência, sucção fraca, choro agudo, arqueamento ou alteração de tônus precisa de emergência imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "A avaliação inicial é hoje/agora; crise hemolítica aguda suspeita não deve aguardar consulta eletiva nem melhora espontânea da cor da urina.",
+          "Após atendimento, faça hemograma/hemoglobina, bilirrubina, função renal e outros controles exatamente no prazo do serviço; hemólise pode continuar ou a hemoglobina cair depois da primeira coleta.",
+          "Retorne antes do prazo por nova urina escura, icterícia, palidez, febre, cansaço, vômitos, menor ingestão ou menor volume urinário.",
+          "Se o teste de G6PD foi normal durante hemólise aguda ou após transfusão, confirme com a equipe quando repetir teste quantitativo; não use o resultado inicial para descartar sozinho.",
+          "Na consulta de seguimento, revise o possível gatilho, a infecção, todos os medicamentos/produtos, o plano de emergência e a necessidade de hematologia, triagem familiar ou aconselhamento genético.",
+          "Peça documento individual com substâncias a evitar e alternativas adequadas; atualize o plano quando medicamentos, peso, doenças associadas ou evidências mudarem."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Icterícia <24 horas, progressão rápida, sucção fraca, sonolência ou alteração de tônus exige emergência imediata; deficiência de G6PD pode causar hiperbilirrubinemia grave mesmo sem hemólise evidente.",
+        "3a5m": "Observar cor, mamadas, respiração e fraldas. Recusa alimentar, palidez, icterícia ou menos urina exige urgência, pois o lactente compensa pouco a anemia rápida.",
+        "6a11m": "Rastrear infecção, medicamento novo, naftalina e alimento desencadeante; urina escura ou cansaço para mamar/brincar requer avaliação imediata.",
+        "1a": "Cuidadores podem notar prostração, palidez e fralda escura antes de a criança explicar sintomas; mantenha químicos e medicamentos fora do alcance.",
+        "2a5": "Ensine cuidadores/escola a reconhecer urina escura, icterícia e cansaço e a não oferecer remédio ou alimento desconhecido sem plano.",
+        "6a11": "A criança pode ajudar a portar alerta e relatar exposição, dor lombar, tontura ou mudança da urina; não deve voltar a esporte enquanto houver suspeita de anemia.",
+        "12a17": "Incluir automedicação, suplementos, produtos de academia, drogas recreativas e exposição ocupacional na história; meninas também podem ter hemólise significativa e não devem ser excluídas pelo sexo.",
+        "unknown": "Sem idade, atividade de G6PD, exposição, sinais vitais e exame, tratar palidez/icterícia/urina escura como urgência e não fornecer lista automática de medicamentos."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3250_1",
+          "name": "Kids Health Info: G6PD deficiency",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/G6PD_deficiency/"
+        },
+        {
+          "id": "pais266_op3250_2",
+          "name": "Clinical Practice Guidelines: Anaemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Anaemia_Guideline/"
+        },
+        {
+          "id": "pais266_op3250_3",
+          "name": "Triagem neonatal para deficiência de glicose-6-fosfato desidrogenase",
+          "url": "https://www.gov.br/conitec/pt-br/midias/consultas/relatorios/2018/relatorio_glicose-6-fosfato_triagemneonatal.pdf"
+        },
+        {
+          "id": "pais266_op3250_4",
+          "name": "Glucose-6-Phosphate Dehydrogenase Deficiency",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470315/"
+        },
+        {
+          "id": "pais266_op3250_5",
+          "name": "G6PD rapid diagnostic tests",
+          "url": "https://www.who.int/teams/global-malaria-programme/case-management/diagnosis/rapid-diagnostic-tests/g6pd-rapid-diagnostic-tests"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-3252",
+      "specific": true,
+      "key": "pps_catalog_461db773f82fffa8",
+      "label": "Crise hipertensiva — registro no PPS",
+      "entity": "Crise hipertensiva pediátrica: elevação aguda e grave da pressão arterial, classificada como emergência quando há lesão aguda de órgão-alvo e como urgência quando essa lesão não está presente, sempre exigindo confirmação técnica, avaliação presencial e redução controlada por equipe",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ACUTE_HYPERTENSION_UMBRELLA_WITH_URGENCY_EMERGENCY_BRANCHES\",\"normalized_entity\":\"Crise hipertensiva pediátrica — urgência versus emergência hipertensiva\",\"canonical_key\":\"pps_94\",\"assessment\":\"Crise hipertensiva é um termo guarda-chuva válido para elevação aguda e grave da pressão em relação ao esperado/basal da criança. Emergência hipertensiva significa pressão muito elevada com lesão aguda ou ameaça imediata ao cérebro, olhos, coração/pulmões, rins ou vasos; urgência hipertensiva significa elevação grave confirmada sem sinais de lesão aguda de órgão-alvo, mas ainda requer avaliação e tratamento profissionais. Um número isolado, principalmente de aparelho automático, com criança chorando/dolorida ou manguito pequeno, não basta para classificar a crise. Em pediatria, os limites dependem de idade, sexo e estatura, e crianças menores têm maior probabilidade de causa secundária. Redução rápida e não monitorada pode comprometer perfusão cerebral, cardíaca e renal, por isso não se orienta baixar a pressão em casa.\",\"alias_reconciliation\":{\"same_entity_cluster\":[\"pps_94 — Crise Hipertensiva Pediátrica (Emergência vs. Urgência Hipertensiva)\",\"pps_catalog_461db773f82fffa8 — Crise hipertensiva — registro no PPS\",\"pps_catalog_5134489ee3a08ded — Crise Hipertensiva na Infância (Urgência e Emergência) — registro no PPS\",\"pps_catalog_9cbf495a87e7f163 — Crise Hipertensiva Pediátrica (Emergência vs. Urgência Hipertensiva) — registro no PPS\"],\"branches_not_separate_diseases\":[\"pps_catalog_795e24526c94a147 — Urgência hipertensiva — registro no PPS\",\"pps_catalog_c53c3fe4fe6e5c — Emergência hipertensiva — registro no PPS\"],\"related_but_not_automatic_alias\":[\"pps_catalog_213b4f306688452e — Crise hipertensiva renal — causa/contexto específico\",\"Hipertensão arterial pediátrica crônica/confirmada\",\"Hipertensão renovascular pediátrica\",\"Hipertensão pulmonar ou crise de hipertensão pulmonar\",\"Hipertensão intracraniana\"],\"artificial_qualifiers\":[\"apresentação pediátrica aguda\",\"evolução complicada/refratária\",\"forma grave/crítica\",\"registro no PPS\"]},\"target_organ_injury_examples\":{\"neurologic\":\"cefaleia intensa/persistente com vômitos, confusão, sonolência, agitação incomum, convulsão, desmaio, déficit focal, dificuldade para falar/andar ou coma\",\"visual\":\"visão borrada, dupla, perda visual ou alterações retinianas avaliadas pela equipe\",\"cardiopulmonary\":\"dor torácica, falta de ar, respiração rápida, dificuldade para deitar, estertores/edema pulmonar, palpitações, insuficiência cardíaca ou choque\",\"renal\":\"redução importante da urina, sangue/proteína na urina, edema, lesão renal aguda\",\"vascular_other\":\"dor torácica/dorsal súbita, diferença importante de pulsos/pressões ou sinais de isquemia, conforme avaliação\"},\"pediatric_scope\":\"Aplica-se de recém-nascidos a adolescentes, com valores e causas próprios de cada idade. Neonatos/lactentes podem apresentar irritabilidade, recusa de mamadas, apneia, taquipneia, insuficiência cardíaca, convulsão ou alteração de consciência; menores de 6 anos têm maior chance de doença renal, renovascular, cardíaca, endócrina, tumoral ou medicamentosa. Adolescentes também podem ter hipertensão primária, mas drogas estimulantes, descongestionantes, energéticos, substâncias recreativas, gravidez e outros fatores devem ser avaliados sem julgamento.\",\"measurement_boundary\":\"Se a criança está estável e sem sinais de órgão-alvo, a leitura anormal deve ser repetida após repouso, preferencialmente no braço, com manguito pediátrico adequado e confirmação manual por profissional. Manguito pequeno pode elevar falsamente o resultado. Se há sintomas graves, não atrasar SAMU/pronto atendimento para fazer várias medidas ou procurar uma leitura 'melhor'.\",\"treatment_boundary\":\"Não iniciar, repetir, triturar, colocar sob a língua, dobrar ou emprestar anti-hipertensivo; não usar diurético, captopril, nifedipino, clonidina ou qualquer outro produto para redução caseira. A equipe escolhe via, medicamento, velocidade e alvo conforme lesão de órgão-alvo, causa e pressão habitual, com monitorização. A redução controlada evita isquemia por queda abrupta.\",\"counting_rule\":\"Contar uma entidade clínica específica para todo o cluster de crise hipertensiva pediátrica. Contar zero entidades adicionais para urgência, emergência, registro no PPS ou qualificadores de gravidade/evolução; causas renais, cardíacas, endócrinas, tóxicas e outras mantêm registros próprios.\",\"critical_context_to_confirm\":[\"Idade, sexo, estatura, peso, pressão basal, braço/manguito/aparelho, repouso e repetição manual quando seguro\",\"Cefaleia, vômitos, visão, consciência, convulsão, fraqueza/fala/marcha e outros sinais neurológicos\",\"Dor torácica, palpitações, falta de ar, ortopneia, edema, perfusão, pulsos e sinais de insuficiência cardíaca\",\"Diurese, edema, urina escura/com sangue/espuma, doença renal e cirurgia/transplante\",\"Hipertensão conhecida, doses omitidas/duplicadas, acesso a medicamentos, corticoides, estimulantes, descongestionantes, hormônios, imunossupressores, energéticos e substâncias\",\"Prematuridade, cardiopatia/coarctação, doença endócrina, tumor, dor/agitação, trauma craniano, gravidez e história familiar\",\"Tempo de início, progressão e possibilidade de transporte seguro, sem atrasar emergência por investigação doméstica\"],\"reason\":\"Há evidência pediátrica suficiente para orientação específica de reconhecimento e encaminhamento, com separação entre urgência e emergência e proibição de redução caseira.\",\"next_action\":\"Integrar no núcleo canônico pps_94, resolver os aliases administrativos para a mesma ficha, manter rotas de urgência/emergência e testar precedência de sinais de órgão-alvo em todas as idades.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Crise hipertensiva é uma elevação aguda e grave da pressão arterial. Em crianças, o valor esperado muda com idade e tamanho; uma leitura isolada não confirma a crise, mas sintomas de lesão do cérebro, olhos, coração/pulmões ou rins tornam a situação emergencial.",
+          "Se houver cefaleia intensa com vômitos, confusão, sonolência, convulsão, fraqueza de um lado, alteração visual, dor no peito, falta de ar, desmaio ou pouca urina, acione o SAMU 192 e não espere outra medição.",
+          "Se a criança está bem e a leitura veio alta, mantenha-a sentada ou deitada, calma, sem esforço, e procure avaliação no mesmo dia. Uma repetição com manguito correto no braço e confirmação profissional é importante, mas não faça dezenas de medidas nem atrase o atendimento.",
+          "Anote os valores, horário, braço, aparelho, tamanho do manguito, sintomas, medicamentos usados/omitidos e doenças conhecidas. Leve o aparelho, receitas e embalagens ao serviço se possível.",
+          "Não tente baixar a pressão rapidamente em casa. Não dê dose extra, remédio de outra pessoa, comprimido sob a língua, diurético, chá ou suplemento; queda brusca pode reduzir sangue para cérebro, coração e rins.",
+          "Mantenha a criança acompanhada e em repouso. Não dirija sozinho se ela estiver confusa, convulsionando, com falta de ar, dor torácica ou desmaiada; use o SAMU 192."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para uma criança estável e sem sinais graves, a pressão deve ser medida no braço após alguns minutos de repouso, com costas e braço apoiados e manguito adequado. Manguito pequeno e choro/dor podem elevar falsamente a leitura.",
+          "Se o aparelho automático mostrar valor anormal, a equipe deve confirmar preferencialmente por medida manual. Aparelho de punho, manguito adulto em braço pequeno ou técnica inadequada não são base segura para automedicação.",
+          "Suspenda exercício e mantenha ambiente calmo, mas não use banho gelado/quente, respiração forçada, massagem, sangria ou qualquer manobra para baixar a pressão.",
+          "Não ofereça café, energético, pré-treino, nicotina/vape, descongestionante ou outro estimulante. Informe exposição acidental ou intencional com honestidade; isso muda o tratamento e não deve atrasar o socorro.",
+          "Se houver convulsão, afaste objetos, proteja a cabeça, marque o tempo e não coloque nada na boca. Após a crise, se estiver inconsciente mas respirando, proteja a via aérea conforme orientação do SAMU; se não respirar normalmente, inicie RCP conforme treinamento/instruções.",
+          "Mudanças de dieta, peso, sono e atividade ajudam no controle crônico, mas não tratam uma crise. A prioridade aguda é confirmar a pressão, identificar órgão-alvo e causa e monitorar a redução no serviço."
+        ],
+        "MEDICAMENTOS": [
+          "Não há anti-hipertensivo doméstico universal para crise em crianças. Medicamento, via, dose, velocidade e alvo dependem da idade, causa, pressão habitual, sintomas e órgãos comprometidos.",
+          "Não dobre nem repita uma dose esquecida/atrasada sem orientação. Não use captopril, nifedipino, clonidina, diurético ou remédio de adulto/irmão para 'fazer baixar'; alguns podem causar queda imprevisível ou interagir.",
+          "Se a criança usa anti-hipertensivo contínuo, leve os frascos/receitas e informe a última dose. Pergunte ao SAMU/serviço se deve tomar a dose que vence durante o trajeto; não suspenda nem administre extra por conta própria.",
+          "Informe corticoides, estimulantes para TDAH, descongestionantes, anticoncepcionais, imunossupressores, anti-inflamatórios, suplementos, energéticos e substâncias recreativas. Não esconda ingestão acidental.",
+          "Emergência hipertensiva exige medicamento de ação controlável em ambiente monitorado; urgência hipertensiva também requer avaliação e plano profissional. A distinção não pode ser feita em casa apenas porque a criança parece bem.",
+          "Não use remédio para dor ou náusea sem conferir segurança e prescrição, pois alguns produtos podem afetar rins, pressão ou mascarar sinais. O serviço definirá o que pode ser usado."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Nenhum alimento, limão, alho, chá ou grande volume de água reduz com segurança uma crise hipertensiva. Não atrase o atendimento tentando receitas caseiras.",
+          "Se a criança está alerta, sem vômitos, falta de ar ou alteração neurológica, pode receber pequenos goles enquanto aguarda orientação. Não force líquidos em doença renal, edema ou insuficiência cardíaca conhecida.",
+          "Não ofereça alimento ou bebida se está sonolenta/confusa, convulsionou, vomita repetidamente ou tem falta de ar importante, pelo risco de aspiração e necessidade de procedimentos; siga o SAMU/serviço.",
+          "Evite energético, café, refrigerante com cafeína, pré-treino e alimentos muito salgados. Isso não substitui o atendimento nem corrige a pressão imediatamente.",
+          "Depois da estabilização, alimentação com menos ultraprocessados/sódio e adequada à idade pode integrar o plano crônico, mas restrição de sal, potássio ou líquidos deve considerar doença renal/cardíaca e ser individualizada.",
+          "Em lactentes, não dilua fórmula nem altere leite/mamada para tratar pressão. Recusa de mamadas, suor, respiração rápida ou menos urina são sinais para avaliação urgente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 diante de confusão, sonolência incomum, dificuldade para despertar, convulsão, desmaio, fraqueza/assimetria, fala ou marcha alterada, cefaleia intensa/progressiva com vômitos ou comportamento muito diferente.",
+          "Dor no peito, palpitações intensas, falta de ar, respiração rápida, dificuldade para deitar, tosse espumosa, lábios arroxeados, extremidades frias ou colapso podem indicar lesão cardíaca/edema pulmonar/choque e exigem emergência.",
+          "Visão borrada, dupla, perda visual ou dor ocular associada a pressão muito alta exige avaliação emergencial por possível lesão de órgão-alvo.",
+          "Pouca ou nenhuma urina, sangue/espuma na urina, edema súbito de face/pernas, ganho rápido de peso, palidez intensa ou dor lombar com pressão alta exige pronto atendimento por possível lesão renal/causa secundária.",
+          "Valor repetidamente muito alto com técnica e manguito adequados, mesmo sem sintomas, precisa de avaliação urgente no mesmo dia; não esperar consulta de rotina nem tentar redução caseira.",
+          "Em recém-nascido/lactente, irritabilidade extrema, mamada ruim, apneia, respiração rápida, suor, convulsão, flacidez, fontanela tensa ou pouca urina com pressão elevada exige avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Emergência hipertensiva é avaliada agora no hospital. Urgência hipertensiva — pressão grave confirmada sem lesão aguda aparente — também requer avaliação no mesmo dia e plano de redução/seguimento profissional.",
+          "Após estabilização, cumpra o retorno definido pelo serviço, mesmo que a pressão normalize. A equipe precisa confirmar a causa, revisar técnica/medidas, adesão, medicamentos e lesão de órgão-alvo.",
+          "Crianças pequenas e casos graves/súbitos costumam exigir investigação de causas secundárias renais, renovasculares, cardíacas, endócrinas, neurológicas, tumorais ou medicamentosas; exames são escolhidos pela equipe, não pela ficha.",
+          "Leve registro das pressões com data, horário, braço, manguito, sintomas e doses, sem medir compulsivamente. Monitorização residencial ou ambulatorial só deve usar aparelho validado e orientação clínica.",
+          "Reavalie antes do prazo se surgirem novos sintomas, pressão voltar a subir, houver vômitos/recusa de medicamento, redução da urina, edema, efeitos adversos ou dificuldade de acesso ao tratamento.",
+          "Escola e cuidadores devem ter plano atualizado para sintomas e medicações crônicas, mas não devem administrar dose extra ou decidir metas de redução durante possível crise."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Pressão neonatal depende de idade gestacional/pós-natal e contexto; não usar tabela de criança maior. Irritabilidade, apneia, taquipneia, insuficiência cardíaca, convulsão, flacidez, mamada ruim ou pouca urina exige avaliação hospitalar imediata; não medir/tratar em casa.",
+        "3a5m": "Lactente pode ter sinais inespecíficos e causas renais, vasculares, cardíacas ou relacionadas a medicamentos/procedimentos. Pressão muito alta confirmada ou sintomas neurológicos/respiratórios exigem emergência.",
+        "6a11m": "Observe mamada, respiração, suor, irritabilidade, consciência e fraldas. Não use manguito/aparelho adulto nem remédio de familiar; avaliação pediátrica urgente é necessária diante de pressão alta repetida ou sintomas.",
+        "1a": "Criança pequena pode não relatar cefaleia ou visão; mudança de comportamento, vômitos, desequilíbrio, convulsão, respiração rápida e recusa de brincar/mamar são relevantes. Causas secundárias são mais comuns que em adolescentes.",
+        "2a5": "Use manguito pediátrico adequado e confirmação profissional. Pressão muito alta com cefaleia, vômitos, sonolência, visão alterada, falta de ar ou pouca urina é emergência; sem sintomas ainda requer avaliação no mesmo dia.",
+        "6a11": "Pergunte sobre cefaleia, visão, dor torácica, palpitações, falta de ar, urina/edema e remédios/substâncias. Não atribua automaticamente a ansiedade ou obesidade e não interrompa/dobre tratamento.",
+        "12a17": "Use critérios e manguito apropriados para adolescente, mas sintomas de órgão-alvo prevalecem. Pergunte sem julgamento sobre estimulantes, descongestionantes, energéticos, vape/nicotina, drogas, hormônios e possibilidade de gravidez; isso muda avaliação e tratamento.",
+        "unknown": "Sem idade/estatura e técnica confirmadas, não interpretar número isolado nem escolher dose. Sintomas neurológicos, visuais, cardíacos, respiratórios ou renais exigem emergência; leitura muito alta repetida sem sintomas exige avaliação urgente."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3252_1",
+          "name": "Hipertensão arterial na infância e adolescência",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/21635c-MO_-_Hipertensao_Arterial_Infanc_e_Adolesc.pdf"
+        },
+        {
+          "id": "pais266_op3252_2",
+          "name": "Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents",
+          "url": "https://publications.aap.org/pediatrics/article/140/3/e20171904/38358/Clinical-Practice-Guideline-for-Screening-and"
+        },
+        {
+          "id": "pais266_op3252_3",
+          "name": "Clinical Practice Guideline: Hypertension in children and adolescents",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hypertension/"
+        },
+        {
+          "id": "pais266_op3252_4",
+          "name": "“Pressão Alta”: Pressão Arterial Elevada ou Hipertensão Arterial",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/pressao-alta-pressao-arterial-elevada-ou-hipertensao-arterial/"
+        },
+        {
+          "id": "pais266_op3252_5",
+          "name": "Hypertension Inpatient — Clinical Pathway Synopsis",
+          "url": "https://www.childrensmercy.org/siteassets/media-documents-for-depts-section/documents-for-health-care-providers/block-clinical-practice-guidelines/mobileview/hypertension-inpatient-md.pdf"
+        },
+        {
+          "id": "pais266_op3252_6",
+          "name": "The Management of Elevated Blood Pressure in the Acute Care Setting: A Scientific Statement From the American Heart Association",
+          "url": "https://www.ahajournals.org/doi/10.1161/HYP.0000000000000238"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-3254",
+      "specific": true,
+      "key": "pps_94",
+      "label": "Crise Hipertensiva Pediátrica (Emergência vs. Urgência Hipertensiva)",
+      "entity": "Hipertensão aguda grave em recém-nascido, criança ou adolescente, distinguida em emergência quando há lesão/disfunção aguda de órgão-alvo e em urgência quando essa lesão aguda não é demonstrada, ambas exigindo avaliação médica imediata ou muito rápida",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ACUTE_SEVERE_HYPERTENSION_CANONICAL_PRESENTATION\",\"normalized_entity\":\"Hipertensão aguda grave/crise hipertensiva pediátrica\",\"canonical_queue_keys\":[\"pps_94\"],\"related_alias_keys\":[\"pps_catalog_461db773f82fffa8\",\"pps_catalog_5134489ee3a08ded\",\"pps_catalog_9cbf495a87e7f163\",\"pps_catalog_c53c3fe4fe4f6e5c\",\"pps_catalog_795e24526c94a147\"],\"assessment\":\"É uma apresentação pediátrica válida e o pps_94 é o registro canônico. Emergência hipertensiva significa pressão gravemente elevada com disfunção/lesão aguda de cérebro, olhos, coração/pulmões, rins ou vasos e requer tratamento monitorado imediato. Urgência hipertensiva descreve elevação grave sem lesão aguda demonstrada; ainda requer avaliação rápida por equipe experiente, confirmação correta da medida e investigação da causa. Em crianças pequenas não existe um único número absoluto para todas as idades/tamanhos, e a velocidade de subida pode ser tão importante quanto o valor. Não cabe ao cuidador classificar, baixar rapidamente a pressão ou ajustar medicamento em casa.\",\"reconciliation\":{\"canonical_rule\":\"Preservar pps_94 como núcleo canônico e mapear os registros de crise/emergência/urgência hipertensiva como aliases ou apresentações, sem multiplicar doenças.\",\"emergency_vs_urgency\":\"A distinção depende de lesão aguda de órgão-alvo, sintomas, exame e testes — não apenas de um número. Ausência de sintomas não exclui lesão subclínica e uma urgência pode evoluir.\",\"measurement_boundary\":\"Dor, medo, choro, técnica/manguito inadequados e alguns fármacos podem elevar a medida, mas isso não autoriza descartar valor extremo. Confirmar com técnica adequada se seguro; sinais graves proíbem atraso para repetir várias vezes.\",\"etiologic_boundary\":\"Doença renal/glomerulonefrite, renovascular, coarctação, endocrinopatia, tumor, doença neurológica, gravidez, intoxicação/estimulantes, retirada de fármaco e hipertensão primária são causas/contextos, não sinônimos.\",\"counting_effect\":\"UMA entidade clínica canônica de hipertensão aguda grave; urgência e emergência são apresentações conforme órgão-alvo, não duas doenças adicionais.\"},\"not_automatically_equivalent_to\":[\"Uma medida isolada levemente elevada por dor, choro ou manguito inadequado\",\"Hipertensão crônica estável ou estágio 1/2 sem crise aguda\",\"Emergência definida somente por número sem avaliação de órgão-alvo\",\"Urgência como situação segura para automanejo ou redução rápida em casa\",\"Cefaleia, convulsão, dispneia, edema ou lesão renal de qualquer causa\",\"Autorização para dose extra, medicamento sublingual, diurético, sedativo ou suspensão abrupta\"],\"pediatric_scope\":\"Aplica-se do período neonatal à adolescência, mas limites, causas e apresentação variam com idade, sexo e altura. Lactentes podem ter irritabilidade, má alimentação, dificuldade respiratória, insuficiência cardíaca, convulsão ou alteração de consciência, sem relatar cefaleia. Crianças pequenas têm mais causas secundárias/renais. Adolescentes também exigem avaliação de medicamentos, estimulantes/drogas, anticoncepcionais, gravidez e pré-eclâmpsia, com privacidade apropriada.\",\"counting_rule\":\"Contar pps_94 como um registro específico e uma entidade clínica após integração/testes. Não somar emergência e urgência como doenças distintas nem multiplicar por causa, órgão-alvo ou alias.\",\"critical_context_to_confirm\":[\"Idade, sexo, altura, manguito/técnica, braço, aparelho e medidas repetidas/confirmadas pela equipe\",\"Cefaleia/vômitos, visão, fala, força, equilíbrio, convulsão, confusão e nível de consciência\",\"Dor torácica, palpitação, dispneia/ortopneia, cianose, edema e perfusão\",\"Urina, edema, hematúria, doença renal, infecção recente e função renal\",\"Medicamentos prescritos/omitidos, corticoides, estimulantes, descongestionantes, anti-inflamatórios, hormônios, suplementos, cafeína/energéticos e drogas\",\"Prematuridade/cateter umbilical, cardiopatia/coarctação, endocrinopatia, tumor, trauma/dor e doença neurológica\",\"Adolescente: possibilidade de gravidez, hipertensão gestacional/pré-eclâmpsia, anticoncepcional e substâncias\",\"Pressão habitual, hipertensão conhecida, adesão, mudança recente e acesso ao plano/equipe\"],\"reason\":\"Apresentação canônica válida e de alto risco; a classificação depende de pressão confirmada e lesão de órgão-alvo, com ação imediata e sem automanejo.\",\"next_action\":\"Integrar pps_94 como orientação específica, mapear aliases de urgência/emergência e testar órgão-alvo, técnica de medida, todas as idades e bloqueio de dose/queda rápida domiciliar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Se houver pressão muito alta junto com dor de cabeça intensa, vômitos, visão alterada, confusão, convulsão, fraqueza/fala alterada, dor no peito, falta de ar, lábios azulados, desmaio ou pouca urina, ligue 192. Não espere nova medida nem tente baixar em casa.",
+          "Mesmo sem sintomas, uma medida extremamente alta em criança precisa de avaliação médica rápida no mesmo evento. A família não consegue excluir lesão de cérebro, coração, olhos ou rins apenas pela aparência.",
+          "Se a criança está estável e sem sinais graves, sente-a quieta por alguns minutos e repita uma única vez com manguito infantil adequado, braço apoiado e sem falar. Valor ainda muito alto deve ser comunicado imediatamente à equipe; não faça dezenas de medidas.",
+          "Leve registros anteriores, aparelho/manguito se domiciliar, lista/embalagens de medicamentos e suplementos, horários usados e contatos da nefrologia/cardiologia. Informe dose esquecida, troca recente, descongestionante, estimulante, energético ou substância sem julgamento.",
+          "Mantenha a criança acompanhada e em repouso confortável. Não permita exercício, direção pelo adolescente, banho frio/quente extremo, esforço para ‘baixar a pressão’ nem viagem sozinho ao hospital se houver sintomas.",
+          "Não classifique em casa como ‘só urgência’. Emergência se define por lesão aguda de órgão-alvo, que pode exigir exame de fundo de olho, sangue/urina, ECG/eco e imagem neurológica."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Reduza estímulos e ansiedade enquanto organiza atendimento, sem atribuir o valor apenas ao nervosismo. Fale com calma, afrouxe roupa apertada e mantenha posição confortável, mas não atrase o transporte.",
+          "Para medir, use manguito correto para o braço, no membro e posição orientados, com braço apoiado à altura do coração. Medida automática anormal deve ser confirmada manualmente pela equipe quando possível.",
+          "Não use respiração forçada, gelo, compressa, massagem, chá, limão, alho, exercício, sangria ou repouso prolongado como tratamento da crise. Nenhuma medida caseira substitui avaliação de órgão-alvo.",
+          "Não tente descobrir percentil ou meta no meio de sintomas graves. Em crianças, o valor é interpretado por idade/sexo/altura e pelo aumento em relação ao basal; a rapidez da elevação também importa.",
+          "Evite cafeína, energético, pré-treino, nicotina/vape e drogas estimulantes e informe exposições. Não provoque vômito em suspeita de intoxicação.",
+          "Após estabilização, atividade física, sono, alimentação e redução de sal fazem parte do cuidado crônico quando orientados, mas não tratam hipertensão aguda grave."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê dose extra, remédio emprestado, diurético, calmante ou medicamento ‘debaixo da língua’. Redução rápida e não monitorada pode diminuir a irrigação do cérebro, coração e rins.",
+          "Use apenas o tratamento habitual exatamente como prescrito enquanto recebe orientação da equipe. Não dobre dose esquecida, não suspenda abruptamente e não esmague/alterne formulação sem confirmação.",
+          "Leve e informe anti-hipertensivos, corticoides, estimulantes para TDAH, descongestionantes, broncodilatadores, anti-inflamatórios, hormônios/anticoncepcionais, suplementos, cafeína/energéticos e substâncias recreativas; podem contribuir ou mudar a conduta.",
+          "Emergência hipertensiva requer medicamento titulável e monitorização hospitalar; urgência também precisa prescrição e seguimento médicos. Esta ficha não fornece fármaco, dose, alvo ou velocidade de redução.",
+          "Se houve superdose, ingestão acidental ou droga desconhecida, não dê antídoto caseiro. Acione 192 se houver sintomas graves e contate o Disque-Intoxicação 0800 722 6001, levando embalagem/foto do produto se seguro.",
+          "Depois de iniciar ou mudar tratamento, desmaio, fraqueza, sonolência, palpitação, dor no peito, falta de ar, redução da urina, reação alérgica ou piora neurológica exige contato urgente/emergência conforme gravidade."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não existe alimento ou bebida que baixe com segurança uma crise. Não ofereça grande volume de água, bebida esportiva, chá, café, energético ou suplemento para tentar corrigir a pressão.",
+          "Se estiver plenamente acordada, respirando e engolindo normalmente, pode receber pequenos goles de água e alimentação habitual enquanto aguarda orientação, salvo jejum/restrição já indicada pela equipe.",
+          "Se confusa, convulsionando, muito sonolenta, vomitando repetidamente, com falta de ar ou dificuldade para engolir, não dê nada por boca e ligue 192.",
+          "Edema, falta de ar, doença renal/cardíaca ou pouca urina podem exigir controle de líquidos e sal. Siga o plano individual; não force hidratação e não administre soro/diurético em casa.",
+          "Evite refeições muito salgadas enquanto aguarda avaliação, mas não use restrição extrema, jejum ou substituto de sal por conta própria; alguns substitutos contêm potássio e podem ser inseguros na doença renal.",
+          "Em adolescente grávida ou com possibilidade de gravidez, cefaleia forte, visão alterada, dor na parte alta do abdome, falta de ar, convulsão ou inchaço súbito exige emergência obstétrica."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Ligue 192 para convulsão, confusão/sonolência, fraqueza ou dormência de um lado, fala/visão/marcha alterada, cefaleia súbita muito forte, vômitos repetidos ou desmaio: pode haver encefalopatia, AVC ou outra lesão neurológica.",
+          "Ligue 192 para dor no peito, falta de ar/ortopneia, respiração rápida, lábios azulados, tosse espumosa, palpitação intensa, pele fria ou sinais de choque: pode haver insuficiência cardíaca/edema pulmonar ou lesão cardiovascular.",
+          "Procure emergência por pouca ou nenhuma urina, sangue na urina, edema súbito de rosto/pernas, dor lombar, palidez/prostração ou piora após infecção: pode haver lesão renal/glomerulonefrite ou outra causa secundária.",
+          "Perda visual, visão embaçada nova, dor ocular ou manchas luminosas com pressão alta exige avaliação imediata por possível lesão ocular/neurológica.",
+          "Em bebê, má alimentação, irritabilidade extrema, falta de ar, suor, palidez/cianose, convulsão, flacidez ou pouca resposta é emergência; não espere que consiga relatar dor de cabeça.",
+          "Valor ainda extremamente alto após uma repetição correta, mesmo sem sintomas, requer avaliação médica urgente. Sintoma novo durante a espera transforma a situação em emergência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Emergência hipertensiva é reavaliada continuamente no hospital/UTI; a pressão deve ser reduzida de forma controlada pela equipe para evitar lesão por queda rápida. Não há prazo seguro de observação domiciliar.",
+          "Urgência hipertensiva, sem lesão aguda demonstrada, ainda exige avaliação rápida, investigação de causa e plano de retorno próximo. Alta só cabe após confirmação, estabilidade, tratamento definido e acesso a seguimento.",
+          "Após qualquer crise, mantenha retorno com pediatria e, conforme causa, nefrologia/cardiologia/endocrinologia. Leve diário de pressão feito somente na frequência/técnica indicadas, sem obsessão por medidas repetidas.",
+          "Antecipe o retorno por nova elevação, cefaleia/vômitos, alteração visual, dor torácica, falta de ar, edema, menos urina, efeitos adversos ou dificuldade de obter/tomar o remédio.",
+          "A investigação pode incluir rim/urina, coração, vasos, hormônios, medicamentos/substâncias e gravidez; a maioria das crises pediátricas graves tem causa secundária, especialmente em crianças pequenas.",
+          "Não pare o seguimento quando a pressão melhorar. Técnica, adesão, crescimento, função renal, coração/olhos e causas modificáveis precisam revisão contínua."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não usar tabelas de criança maior nem aparelho/manguito doméstico inadequado. Má alimentação, irritabilidade, apneia/falta de ar, insuficiência cardíaca, convulsão ou pouca resposta exige emergência neonatal; considerar causas renais/vasculares e história de cateter umbilical/prematuridade.",
+        "3a5m": "Lactente pode apresentar irritabilidade, vômitos, recusa alimentar, suor, dificuldade respiratória, convulsão ou alteração de consciência. Pressão grave exige avaliação especializada, não ajuste doméstico.",
+        "6a11m": "Confirmar manguito e técnica sem atrasar atendimento. Doença renal, cardiopatia/coarctação, medicamentos e causas endócrinas precisam investigação; sinais inespecíficos podem representar órgão-alvo.",
+        "1a": "Não depende de queixa verbal: mudança de comportamento, vômitos, visão/marcha alterada, convulsão, falta de ar, edema ou pouca urina são alarmes. Valores são interpretados por idade/sexo/altura.",
+        "2a5": "Choro/dor podem elevar a medida, mas valor extremo persistente e qualquer sintoma exigem avaliação. Causas renais e vasculares são prioritárias; não usar corte de adulto.",
+        "6a11": "Confirmar técnica/manguito e interpretar por idade, sexo e altura. Perguntar sobre rim, estimulantes, descongestionantes, corticoides, cafeína e sintomas de cérebro/coração/olhos/rins.",
+        "12a17": "Além de técnica e órgão-alvo, avaliar energéticos, vape/nicotina, drogas/estimulantes, anticoncepcional e gravidez com privacidade. Possível pré-eclâmpsia/eclâmpsia ou uso de substância exige via de emergência apropriada.",
+        "unknown": "Sem idade, sexo, altura, técnica e sintomas, não classificar por número nem recomendar dose. Se medida é extrema ou há qualquer sinal de órgão-alvo, emergência/avaliação imediata."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3254_1",
+          "name": "Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents",
+          "url": "https://publications.aap.org/pediatrics/article-pdf/140/3/e20171904/1104403/peds_20171904.pdf"
+        },
+        {
+          "id": "pais266_op3254_2",
+          "name": "Australian Guideline for the Identification and Management of Hypertension in Children and Adolescents",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/jpc.70491"
+        },
+        {
+          "id": "pais266_op3254_3",
+          "name": "Clinical Practice Guideline: Hypertension in children and adolescents",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hypertension/"
+        },
+        {
+          "id": "pais266_op3254_4",
+          "name": "Evaluation and Management of Elevated BP in Children in the Emergency Department",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37975974/"
+        },
+        {
+          "id": "pais266_op3254_5",
+          "name": "2023 ESH Guidelines for the management of arterial hypertension",
+          "url": "https://www.hypertenzia.org/media/files/2023_ESH_Guidelines_for_the_management_of_arterial_hypertension.pdf"
+        },
+        {
+          "id": "pais266_op3254_6",
+          "name": "Linha de Cuidado da Criança — Pressão arterial por faixa etária",
+          "url": "https://linhasdecuidado.saude.gov.br/portal/puericultura/unidade-de-atencao-primaria/crianca/"
+        },
+        {
+          "id": "pais266_op3254_7",
+          "name": "Serviço de Atendimento Móvel de Urgência — SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        },
+        {
+          "id": "pais266_op3254_8",
+          "name": "Disque-Intoxicação",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/agrotoxicos/disque-intoxicacao"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-3256",
+      "specific": true,
+      "key": "pps_catalog_59def0d2aaaad25a",
+      "label": "Apendicite Aguda Pediátrica (Suspeita e Conduta Inicial) — registro no PPS",
+      "entity": "Suspeita de apendicite aguda pediátrica que exige avaliação urgente e diferenciação de outras causas de abdome agudo",
+      "assessment": "{\"classification\":\"VALID_EXACT_PPS_PROVENANCE_ALIAS_OF_RESEARCHED_PRESENTATION_AND_PUBLISHED_DISEASE_CORE\",\"normalized_entity\":\"Apendicite aguda pediátrica — suspeita e avaliação inicial\",\"provenance_qualifier\":\"registro no PPS\",\"qualifier_assessment\":\"Proveniência técnica sem significado nosológico, prognóstico ou terapêutico.\",\"canonical_core_key\":\"pps_26\",\"canonical_disease_key\":\"pps_catalog_ac7321164b2e404d\",\"alias_of_core\":true,\"additional_entity_count\":0,\"assessment\":\"Apendicite é entidade cirúrgica válida. Na fase de suspeita, dor pode começar ao redor do umbigo, migrar para a parte inferior direita e piorar ao movimento, mas crianças pequenas podem apresentar apenas febre, vômitos, diarreia, irritabilidade, recusa alimentar, distensão ou prostração. História, exame repetido, marcadores e imagem são escolhidos conforme risco; escores ou ultrassom isolados não substituem julgamento clínico.\",\"pediatric_scope\":\"Todas as idades pediátricas. Lactentes e menores de cinco anos têm maior chance de apresentação atípica e diagnóstico tardio. Em adolescentes, causas urinárias, testiculares, ovarianas e relacionadas à gestação devem ser consideradas conforme anatomia e contexto, com privacidade.\",\"diagnostic_boundary\":\"Não confirmar nem excluir apendicite em casa; ausência de febre, dor clássica ou apêndice visualizado no ultrassom não exclui sozinha a doença.\",\"treatment_boundary\":\"O rótulo não autoriza escolher antibiótico, analgésico, hidratação venosa, imagem, operação ou tratamento não operatório. Essas decisões dependem de avaliação, estado clínico e presença de complicação.\",\"disposition_boundary\":\"Suspeita clinicamente relevante exige avaliação urgente. Alta só após avaliação de baixa probabilidade, estabilidade, tolerância adequada quando liberada e plano explícito de retorno.\",\"not_automatically_equivalent_to\":[\"apendicite confirmada\",\"apendicite não complicada\",\"apendicite perfurada, abscesso ou peritonite\",\"gastroenterite, constipação ou infecção urinária\",\"invaginação, obstrução, volvo ou divertículo de Meckel\",\"torção testicular ou ovariana, doença pélvica ou gestação ectópica\",\"indicação automática de exame, antibiótico, cirurgia ou alta\"],\"reconciliation\":{\"pps_26\":\"Mesmo rótulo clínico sem o sufixo de proveniência; compartilhar integralmente a ficha.\",\"pps_catalog_ac7321164b2e404d\":\"Entidade canônica publicada de apendicite aguda; a suspeita é uma apresentação relacionada, não nova doença.\",\"pps_catalog_088b0263fb81a44e\":\"Forma não complicada; não presumir durante suspeita.\",\"pps_catalog_c7cb984c92387e48\":\"Forma perfurada; não presumir, mas reconhecer sinais de alarme.\",\"pps_catalog_df5dc757b0d29eb2\":\"Forma complicada/peritonite; não presumir, mas encaminhar imediatamente diante de sinais compatíveis.\",\"counting_effect\":\"Zero entidades adicionais; manter todos os IDs rastreados e testar o alias.\"},\"counting_rule\":\"Não acrescentar doença ou entidade clínica. Contar cobertura somente quando este ID estiver ligado ao núcleo específico, testado e publicado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Suspeita de apendicite precisa de avaliação urgente no pronto atendimento no mesmo dia. Não espere a dor migrar para o lado direito, surgir febre ou ficar insuportável; em crianças pequenas os sinais podem ser vagos.",
+          "Informe quando começou, onde dói e como evoluiu, febre, vômitos, diarreia ou constipação, última urina e evacuação, recusa alimentar, piora ao andar ou tossir, doenças, cirurgias, medicamentos e alergias. Não aperte repetidamente a barriga para testar.",
+          "Leve a criança acompanhada, com documentos e lista de medicamentos. Se estiver confusa, desmaiando, muito pálida, com pele fria/manchada, respiração difícil ou transporte inseguro, acione o SAMU 192.",
+          "Não presuma que está tudo bem porque a dor melhorou por pouco tempo ou um exame inicial foi normal. Ultrassom inconclusivo ou que não visualizou o apêndice não exclui sozinho apendicite quando os sintomas persistem.",
+          "Alta para casa só é segura após avaliação profissional considerar baixa probabilidade, a criança estar clinicamente bem e existir plano claro de reavaliação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha repouso em posição confortável enquanto organiza atendimento. Não faça massagem, compressão profunda, enema, supositório, lavagem intestinal ou exercício para ‘soltar gases’.",
+          "Não coloque calor intenso na barriga, não provoque vômito e não peça para a criança pular repetidamente como teste doméstico.",
+          "No hospital, a avaliação pode incluir exame abdominal e genital, urina, sangue, teste de gravidez quando pertinente e imagem. A escolha depende de idade, anatomia, risco e evolução.",
+          "Exames repetidos são úteis porque os sinais podem evoluir. Analgesia adequada não impede a avaliação, mas não atrase o atendimento esperando melhora.",
+          "Garanta privacidade ao adolescente para relatar sintomas urinários, genitais, menstruais ou possibilidade de gestação, sem presumir atividade sexual."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê antibiótico que sobrou de outra doença. Antibiótico pode ser necessário após avaliação, mas escolha, via e duração pertencem à equipe e não substituem avaliação cirúrgica.",
+          "Não use laxante, enema, antiespasmódico, anti-inflamatório, opioide ou antiemético por conta própria para testar melhora. Alívio temporário não exclui apendicite ou perfuração.",
+          "Se um profissional orientar analgésico já conhecido como seguro para a criança, use somente a apresentação e a dose prescritas para ela e informe nome e horário no pronto atendimento. Esta ficha não fornece fármaco nem dose.",
+          "Hidratação venosa, antibiótico e tratamento cirúrgico ou não operatório dependem da probabilidade, exames, apendicolito, perfuração, abscesso e avaliação da cirurgia pediátrica; não há esquema automático pelo rótulo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Durante o encaminhamento por suspeita relevante, não ofereça refeição nem alimento sólido até orientação do serviço, pois podem ser necessários sedação, anestesia ou cirurgia.",
+          "Não force nada pela boca se houver dor intensa, vômitos, sonolência ou dificuldade para engolir. Se o transporte demorar, pergunte ao serviço sobre pequenos goles, especialmente em lactentes, diabetes ou outras condições.",
+          "Não mantenha jejum prolongado por conta própria depois que a equipe afastar causa cirúrgica; siga o plano fornecido.",
+          "Vômitos repetidos, boca seca, ausência de lágrimas, pouca urina, olhos fundos, mãos frias ou sonolência sugerem desidratação e aumentam a urgência; não ofereça grande volume de uma vez."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal que piora, não passa, se localiza à direita, faz a criança andar curvada, recusar movimento ou vem com defesa ou rigidez da barriga.",
+          "Melhora breve de dor localizada seguida de dor forte espalhada, barriga dura ou distendida, febre alta, palidez ou piora geral, pois pode indicar perfuração ou peritonite.",
+          "Vômito verde ou com sangue, sangue nas fezes, incapacidade de beber, pouca urina, pele fria/manchada, respiração difícil, confusão, desmaio, convulsão ou dificuldade para acordar.",
+          "Dor abdominal com dor ou inchaço testicular, testículo alto, dor pélvica súbita, sangramento genital, possibilidade de gestação ou desmaio, pois outras emergências podem imitar apendicite.",
+          "Após liberação com diagnóstico ainda incerto, retorno da dor, febre ou vômitos, piora do estado geral ou qualquer sinal acima, mesmo com exames iniciais normais ou inconclusivos."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o pronto atendimento liberar sem confirmar apendicite, cumpra exatamente o prazo escrito de reavaliação e retorne antes diante de piora. Não use esta ficha para decidir observar por conta própria.",
+          "Leve os laudos e anote temperatura, localização da dor, vômitos, líquidos, urina e medicamentos desde a alta. Exame seriado pode revelar evolução que não estava evidente na primeira avaliação.",
+          "Se apendicite for confirmada, a cirurgia pediátrica define operação, antibióticos, observação ou estratégia não operatória selecionada. Pergunte se há perfuração ou abscesso, quando alimentar, cuidados da ferida, atividade e retorno.",
+          "Após tratamento, volte antes do prazo se houver febre, dor crescente, vômitos persistentes, barriga distendida, pus ou vermelhidão da ferida, pouca urina ou dificuldade respiratória.",
+          "A orientação de suspeita não substitui instruções individualizadas de alta nem as fichas específicas das formas não complicada, perfurada ou com peritonite."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Apendicite é rara, mas doença abdominal grave pode ser inespecífica. Recusa alimentar, distensão, vômito verde, temperatura alta ou baixa, letargia, choro inconsolável ou pouca urina exige emergência; não diagnosticar em casa.",
+        "3a5m": "Lactente pode demonstrar dor por choro, pernas encolhidas, menos movimento, alimentação ruim e sonolência. Invaginação, hérnia, obstrução e sepse também precisam ser consideradas.",
+        "6a11m": "Vômitos, febre, distensão, irritabilidade e recusa alimentar podem ser pouco específicos. Vômito verde, prostração ou piora rápida é emergência.",
+        "1a": "Observe recusa de andar ou mover-se, choro ao trocar fralda ou tocar a barriga, febre, vômitos e diarreia. Criança pequena tem maior risco de diagnóstico tardio e perfuração.",
+        "2a5": "Pode não localizar a dor e ter diarreia parecida com gastroenterite. Dor persistente, febre, vômitos, prostração ou recusa de caminhar exige pronto atendimento.",
+        "6a11": "Pode ocorrer dor ao redor do umbigo que migra para baixo à direita, falta de apetite e piora com movimento, mas ausência desse padrão não exclui. Avaliar também urina, pulmões e testículos.",
+        "12a17": "Além de apendicite, avaliar torção testicular ou ovariana, gestação ectópica e infecção urinária. Oferecer privacidade para história menstrual, sexual e genital e testar somente quando indicado.",
+        "unknown": "Confirmar idade, início, evolução e local da dor, febre, vômitos, fezes, urina, movimento, exames prévios, cirurgias, medicamentos e contexto genital ou gestacional. Peritonismo, choque ou obstrução exige emergência."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3256_1",
+          "name": "Suspected Appendicitis Clinical Pathway — Emergency Department",
+          "url": "https://www.chop.edu/clinical-pathway/suspected-appendicitis-emergency-department-clinical-pathway"
+        },
+        {
+          "id": "pais266_op3256_2",
+          "name": "ACR Appropriateness Criteria: Suspected Appendicitis — Child",
+          "url": "https://acsearch.acr.org/list/GenerateAppendixPDF?PanelName=Pediatric&TopicId=273"
+        },
+        {
+          "id": "pais266_op3256_3",
+          "name": "Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163/"
+        },
+        {
+          "id": "pais266_op3256_4",
+          "name": "Appendicitis — Conditions A–E",
+          "url": "https://apsapedsurg.org/parents/learn-about-a-condition/a-e/"
+        },
+        {
+          "id": "pais266_op3256_5",
+          "name": "Clinical Practice Guideline: Abdominal pain — acute",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain_-_acute/"
+        },
+        {
+          "id": "pais266_op3256_6",
+          "name": "Protocolos da Atenção Básica — Saúde da Criança: dor abdominal/abdome agudo",
+          "url": "https://www.palmas.to.gov.br/wp-content/uploads/2024/01/PROTOLOS-DA-ATENCAO-BASICA-SAUDE-DA-CRIANCA_compressed-1.pdf"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-3258",
+      "specific": true,
+      "key": "pps_catalog_171e01f8143d2fe8",
+      "label": "Avulsão dentária — registro no PPS",
+      "entity": "Avulsão dentária traumática, com saída completa do dente do alvéolo e condutas imediatas diferentes para dente permanente e dente decíduo",
+      "assessment": "{\"classification\":\"VALID_EXACT_ALIAS_OF_PUBLISHED_ACUTE_DENTAL_TRAUMA\",\"normalized_entity\":\"Avulsão traumática de dente permanente ou decíduo\",\"assessment\":\"O termo é válido, mas esta key de catálogo é um alias exato da entidade já publicada em pps20261014_avulsao_dentaria (Avulsão dentária — dente que saiu após trauma). Deve compartilhar a mesma ficha específica sem criar uma nova doença ou lesão na contagem. A distinção crítica é entre dente permanente, que pode se beneficiar de reimplante imediato seguro, e dente decíduo, que nunca deve ser reimplantado.\",\"diagnostic_boundary\":\"Avulsão é a saída completa do dente. Não é intrusão, quando o dente foi empurrado para dentro do osso e pode parecer ausente; não é luxação ou extrusão, quando o dente permanece parcial ou totalmente no alvéolo; e não é fratura com perda apenas de fragmento.\",\"permanent_vs_primary_boundary\":\"Dente permanente confirmado: reimplante imediato é a melhor primeira medida na maioria das situações, se a pessoa estiver consciente e cooperativa, não houver emergência mais importante e o dente entrar sem força. Dente decíduo: nunca reimplantar. Na dentição mista ou quando houver dúvida, não adivinhar apenas pela idade; manter o dente úmido, fora da boca, e buscar dentista imediatamente.\",\"handling_boundary\":\"Segurar somente pela coroa branca; não tocar, raspar, escovar ou secar a raiz. Se houver sujeira visível, enxaguar suavemente, sem esfregar. Se o dente permanente não puder ser recolocado, mantê-lo em leite ou solução balanceada própria; soro fisiológico é alternativa. Não transportar seco, embrulhado ou em água. Não guardar dente solto na boca de criança ou pessoa sonolenta, confusa ou traumatizada.\",\"urgency_boundary\":\"Toda avulsão dentária exige atendimento odontológico imediato. Dificuldade respiratória, possível aspiração, alteração da consciência, convulsão, sangramento importante ou trauma de cabeça, face ou pescoço têm prioridade de emergência médica sobre o dente.\",\"medication_boundary\":\"Antibiótico, analgésico, antisséptico, contenção, tratamento pulpar e avaliação de tétano dependem de exame e prescrição. Esta ficha não escolhe medicamento, dose, via, intervalo ou duração.\",\"pediatric_scope\":\"Em bebês e pré-escolares, os dentes presentes são em geral decíduos. Dos 6 aos 11 anos há dentição mista, e a idade isolada não define o tipo do dente. Em adolescentes, dentes anteriores são geralmente permanentes, mas o tipo precisa ser confirmado e traumas associados continuam prioritários.\",\"reconciliation\":{\"canonical_key\":\"pps20261014_avulsao_dentaria\",\"canonical_label\":\"Avulsão dentária — dente que saiu após trauma\",\"canonical_queue_status\":\"PUBLISHED\",\"canonical_publication_version\":263,\"canonical_publication_commit\":\"3cbd6ea01cf6735cbf5187ffa57e4d3e8c72fd58\",\"equivalence_basis\":\"Mesmo evento traumático, mesma definição, mesmos limites diagnósticos e mesmas condutas diferenciadas por dentição; o sufixo 'registro no PPS' é proveniência cadastral, não qualificador clínico.\",\"counting_effect\":\"Nenhuma entidade clínica adicional. Integrar esta key como alias do núcleo já publicado, preservando ambos os IDs e sem duplicar a ficha.\"},\"next_action\":\"Mapear esta key ao conteúdo publicado de pps20261014_avulsao_dentaria, testar seleção por ID/nome/aliases e confirmar que a contagem de entidades não aumenta.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Avulsão é quando o dente sai inteiro do local onde estava. É uma urgência odontológica: interrompa a atividade, acalme a criança, confira se ela respira normalmente e procure um dentista imediatamente, mesmo que o dente não seja encontrado, o sangramento pare ou o dente já tenha sido recolocado.",
+          "Encontre o dente e segure apenas pela coroa, a parte branca que ficava visível. Não toque na raiz, não raspe, não escove, não seque e não use álcool, água oxigenada, sabão, pasta de dente ou outro produto.",
+          "Se houver certeza de que é um dente permanente, a criança estiver acordada e cooperativa, não houver outra emergência e o dente entrar facilmente, recoloque-o delicadamente no alvéolo sem forçar. Peça para morder suavemente uma gaze ou pano limpo para mantê-lo no lugar e vá imediatamente ao dentista.",
+          "Se for dente decíduo, de leite, nunca recoloque. Isso pode machucar o dente permanente em formação e criar risco de aspiração. Controle o sangramento com pressão suave de gaze limpa, guarde o dente fora da boca e procure avaliação odontológica imediata.",
+          "Se não souber se o dente é permanente ou de leite, não force o reimplante. Mantenha-o úmido em leite, fora da boca, e vá imediatamente ao dentista. Na dentição mista, idade, tamanho ou aparência isolados podem enganar.",
+          "A prioridade é a vida. Se a pessoa estiver inconsciente, confusa, convulsionando, com dificuldade para respirar, sangramento importante ou possível lesão de cabeça, face ou pescoço, não tente recolocar o dente; busque emergência médica."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se um dente permanente confirmado estiver sujo, segure pela coroa e enxágue suavemente por poucos segundos em leite ou soro fisiológico. Não esfregue a raiz e não retire fibras ou coágulos aderidos.",
+          "Se não for possível recolocar o dente permanente, coloque-o imediatamente em recipiente limpo com leite ou, se disponível, solução balanceada própria para dentes avulsionados. Soro fisiológico é uma alternativa até chegar ao dentista.",
+          "Não transporte o dente seco, embrulhado em papel, algodão ou pano, nem mergulhado em água. Não guarde o dente solto dentro da boca de criança ou de pessoa sonolenta, agitada, confusa ou traumatizada, pois pode ser engolido ou aspirado.",
+          "Não cave o alvéolo, não retire coágulos, não endireite osso e não tente empurrar um dente que apenas parece ausente. Um dente intruído pode estar dentro do osso e precisa de exame e, quando indicado, radiografia.",
+          "Se o dente ou um fragmento não for localizado, avise imediatamente. Tosse súbita, engasgo, chiado ou falta de ar depois do trauma pode indicar aspiração e exige emergência médica.",
+          "Depois do atendimento, siga exatamente as orientações sobre contenção, higiene, alimentação, esportes e retornos. Não puxe, teste, aperte nem tente consertar a contenção em casa."
+        ],
+        "MEDICAMENTOS": [
+          "Não coloque anestésico, antibiótico, antisséptico, comprimido, pomada, álcool, água oxigenada ou produto caseiro no dente, na raiz ou dentro do alvéolo.",
+          "Dê somente medicamentos prescritos por dentista ou médico para esta criança e para este episódio. Não use antibiótico, analgésico, anti-inflamatório ou enxaguante que sobrou de outro tratamento e não invente dose ou intervalo.",
+          "Após reimplante de dente permanente, o profissional avaliará idade, peso, alergias, contaminação, feridas e doenças para decidir se algum medicamento é indicado. Esta orientação não substitui a prescrição e não recomenda produto, dose, via ou duração.",
+          "Leve a lista de medicamentos, alergias e doenças e, se disponível, a caderneta de vacinação. O profissional avaliará a situação vacinal contra tétano e a necessidade de alguma medida; não aplique ou adie vacina por conta própria.",
+          "Se houver trauma craniano, vômitos, sonolência ou dificuldade para engolir, não ofereça medicamento pela boca até avaliação. Qualquer remédio não deve atrasar o dentista ou a emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Até a avaliação imediata, não mastigue no lado traumatizado e evite alimentos duros, crocantes, pegajosos ou muito quentes. Não use a mordida para testar se o dente recolocado está firme, além da pressão suave na gaze durante o transporte.",
+          "Se houver sonolência, vômitos, dificuldade para engolir, falta de ar ou possibilidade de procedimento com sedação, não ofereça alimento, líquido ou medicamento pela boca e procure emergência.",
+          "Depois do atendimento, siga o plano do dentista. Em geral, alimentos macios e mastigação longe da área protegem o dente e os tecidos, mas textura e duração dependem da lesão, da contenção e da avaliação individual.",
+          "Faça higiene suave com escova macia conforme orientação profissional. Não faça bochecho em criança que não consegue cuspir e não use antisséptico ou enxaguante sem prescrição.",
+          "Dor que impede beber, recusa persistente, vômitos repetidos, sangramento que recomeça ou dificuldade para engolir após trauma facial exigem reavaliação; não presuma que seja apenas medo."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento odontológico agora para qualquer dente que saiu após trauma, permanente ou de leite, mesmo que tenha sido recolocado, esteja seco, não seja encontrado ou o sangramento tenha parado. A rapidez é especialmente importante para o dente permanente.",
+          "Acione o SAMU 192 ou vá à emergência se houver dificuldade para respirar, engasgo, tosse ou chiado após o desaparecimento do dente, lábios arroxeados, sangramento intenso que não cede com pressão, palidez acentuada, desmaio ou pouca resposta.",
+          "Após pancada na cabeça, procure emergência diante de perda de consciência, convulsão, vômitos repetidos, confusão, comportamento incomum, sonolência crescente ou dificuldade para acordar, fala enrolada, fraqueza, falta de coordenação, dor de cabeça que piora, pupilas diferentes ou visão dupla.",
+          "Dor forte no pescoço, deformidade da face ou mandíbula, mordida que ficou desalinhada, dificuldade para abrir ou fechar a boca, dormência ou osso exposto sugerem trauma associado e exigem pronto atendimento.",
+          "Depois do tratamento, febre, inchaço crescente, pus, mau cheiro, dor que piora, novo sangramento, dente reimplantado que mudou de posição ou contenção solta exigem contato odontológico urgente; falta de ar ou piora geral é emergência médica."
+        ],
+        "QUANDO REAVALIAR": [
+          "A primeira avaliação é imediata, no momento do trauma. Não espere o dia seguinte, a consulta de rotina ou a dor melhorar. Leve o dente no meio de conservação e informe o horário do acidente, o tempo seco e tudo que foi feito.",
+          "Dente permanente reimplantado precisa de confirmação de posição, contenção e plano de acompanhamento pelo dentista. Tratamento de canal pode ser necessário conforme a maturidade da raiz e a evolução, mas não é decidido nem iniciado em casa.",
+          "Compareça a todos os retornos clínicos e radiográficos definidos pelo dentista, mesmo sem dor. A diretriz IADT prevê controles em 2 e 4 semanas, 3 e 6 meses, 1 ano e depois anualmente por pelo menos 5 anos para dentes permanentes reimplantados; o profissional individualiza o calendário.",
+          "Após avulsão de dente de leite, o dentista acompanha a cicatrização e o desenvolvimento e a erupção do dente permanente. Não reimplantar o decíduo é a conduta segura, mas não elimina a necessidade de seguimento.",
+          "Antecipe a reavaliação se surgirem bolinha ou fístula na gengiva, escurecimento, inchaço, secreção, mobilidade nova ou crescente, dor, febre, alteração da mordida ou dificuldade para comer.",
+          "Retorno à escola, esporte e atividade física depende também de trauma de cabeça ou face. Não volte ao esporte no mesmo dia se houver suspeita de concussão; use protetor bucal em atividades indicadas após liberação profissional."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Dentes natais, neonatais ou erupção muito precoce precisam de avaliação própria. Não tente reimplantar nenhuma estrutura que saiu da boca; mantenha-a fora da boca e priorize respiração, sangramento e trauma associado.",
+        "3a5m": "Um dente presente nessa idade é decíduo de erupção precoce: nunca reimplante. Guarde-o fora da boca, controle sangramento com gaze e procure atendimento imediato, sobretudo diante de engasgo ou pancada na cabeça.",
+        "6a11m": "Os dentes presentes costumam ser decíduos: nunca reimplante. Crianças pequenas podem engolir ou aspirar o dente; não o mantenha na boca e procure odontopediatria imediatamente.",
+        "1a": "Trate o dente avulsionado como decíduo e não o recoloque. Atendimento imediato diferencia avulsão de intrusão ou fratura, controla feridas e registra o dente permanente em desenvolvimento.",
+        "2a5": "A dentição é tipicamente decídua: nunca reimplante. Guarde o dente fora da boca, controle o sangramento e procure dentista imediatamente, avaliando também trauma de cabeça e face.",
+        "6a11": "Pode ser dente de leite ou permanente. Se houver certeza de que é permanente e for seguro, reimplante sem força; se não for possível ou houver dúvida, mantenha em leite, fora da boca, e vá imediatamente ao dentista. Nunca reimplante dente de leite.",
+        "12a17": "O dente anterior avulsionado costuma ser permanente. Se o adolescente estiver consciente, cooperativo, sem outra emergência e o dente entrar sem força, reimplante segurando pela coroa; caso contrário, conserve em leite ou solução apropriada e procure dentista imediatamente.",
+        "unknown": "Confirme idade, posição e tipo do dente, tempo fora da boca, tempo seco, conservação, reimplante e traumas associados. Sem certeza de que é permanente, não force o reimplante: mantenha em leite, fora da boca, e procure dentista imediatamente."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3258_1",
+          "name": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 2. Avulsion of Permanent Teeth",
+          "url": "https://www.aapd.org/globalassets/media/policies_guidelines/e_iadt-avulsion25.pdf"
+        },
+        {
+          "id": "pais266_op3258_2",
+          "name": "IADT Guidelines for the Management of Traumatic Dental Injuries: 3. Injuries in the Primary Dentition",
+          "url": "https://www.aapd.org/research/oral-health-policies--recommendations/guidelines-for-the-management-of-traumatic-dental-injuries-in-the-primary-dentition/"
+        },
+        {
+          "id": "pais266_op3258_3",
+          "name": "Diretriz para a prática clínica odontológica na Atenção Primária à Saúde: manejo clínico de traumatismos alveolodentários em dentes permanentes — versão resumida",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/diretriz_aps_manejo_clinico_resumidodig.pdf"
+        },
+        {
+          "id": "pais266_op3258_4",
+          "name": "Clinical Practice Guidelines: Dental trauma",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Dental_injuries/"
+        },
+        {
+          "id": "pais266_op3258_5",
+          "name": "Protocolo de Promoção de Saúde Bucal — Anexo B: Orientações em caso de trauma bucal",
+          "url": "https://mid.curitiba.pr.gov.br/2026/00464383.pdf"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-3259",
+      "specific": true,
+      "key": "pps_catalog_213b4f306688452e",
+      "label": "Crise hipertensiva renal — registro no PPS",
+      "entity": "Crise hipertensiva pediátrica com suspeita ou confirmação de causa renal, sobrecarga de volume e/ou lesão renal aguda; apresentação clínica renal do núcleo canônico de crise hipertensiva pediátrica, não uma doença independente",
+      "assessment": "{\"classification\":\"VALID_RENAL_CONTEXT_OVERLAY_OF_PEDIATRIC_HYPERTENSIVE_CRISIS_NOT_SEPARATE_DISEASE\",\"normalized_entity\":\"Crise hipertensiva pediátrica com contexto renal\",\"assessment\":\"O rótulo é clinicamente compreensível, mas não define sozinho uma doença nosológica separada. Pode significar hipertensão aguda grave causada por doença renal/renovascular ou retenção de sal e água, ou lesão renal aguda causada/agravada pela própria emergência hipertensiva. Essas duas direções não podem ser distinguidas em casa. A ficha deve resolver para o núcleo canônico pps_94 e aplicar uma camada renal que priorize diurese, edema, peso, urina, função renal, balanço hídrico e medicamentos nefrotóxicos, sem presumir a causa nem criar uma entidade adicional.\",\"alias_reconciliation\":{\"canonical_core\":\"pps_94 — Crise Hipertensiva Pediátrica (Emergência vs. Urgência Hipertensiva)\",\"same_core_records\":[\"pps_catalog_461db773f82fffa8 — Crise hipertensiva — registro no PPS\",\"pps_catalog_5134489ee3a08ded — Crise Hipertensiva na Infância (Urgência e Emergência) — registro no PPS\",\"pps_catalog_9cbf495a87e7f163 — Crise Hipertensiva Pediátrica — registro no PPS\"],\"renal_overlay_record\":\"pps_catalog_213b4f306688452e — Crise hipertensiva renal — registro no PPS\",\"not_automatic_aliases\":[\"Doença renal crônica pediátrica\",\"Lesão renal aguda\",\"Glomerulonefrite/nefrite aguda\",\"Síndrome nefrítica ou nefrótica\",\"Hipertensão renovascular\",\"Síndrome hemolítico-urêmica\",\"Pós-transplante renal\"]},\"bidirectional_boundary\":\"Doença renal pode causar hipertensão grave por retenção de sódio/água ou ativação vascular/hormonal; por outro lado, pressão agudamente grave pode lesar os rins. O texto não atribui causalidade sem avaliação clínica, creatinina, urina, diurese, estado volêmico e investigação.\",\"renal_specific_features\":[\"redução importante ou ausência de urina\",\"urina escura, avermelhada, com sangue ou muito espumosa\",\"edema de pálpebras, face, pernas ou corpo e ganho rápido de peso\",\"falta de ar ou dificuldade para deitar, possível sobrecarga de líquido/edema pulmonar\",\"doença renal, anomalia urinária, diálise ou transplante conhecidos\",\"uso recente de anti-inflamatórios, imunossupressores ou outros medicamentos relevantes\"],\"pediatric_scope\":\"Aplica-se de recém-nascidos a adolescentes. Em bebês e crianças pequenas, doença renal/renovascular e outras causas secundárias são especialmente importantes; sinais podem ser irritabilidade, recusa alimentar, sonolência, convulsão, respiração difícil, edema ou pouca urina. Valores de adulto não devem ser usados para classificar a pressão pediátrica.\",\"home_management_boundary\":\"Esta apresentação não é tratada em casa. Não forçar água, não impor restrição de líquido, sal, potássio ou proteína, não dar diurético nem dose extra de anti-hipertensivo e não suspender tratamento crônico por conta própria. A oferta de líquido e a redução da pressão dependem do estado de volume, eletrólitos, função renal e lesão de órgão-alvo.\",\"counting_rule\":\"Contar este registro como apresentação específica do núcleo pps_94, mas zero nova entidade clínica. Doenças renais subjacentes só contam separadamente quando o diagnóstico correspondente estiver documentado e orientado em registro próprio.\",\"reason\":\"Há evidência suficiente para uma orientação renal contextualizada, mantendo a emergência e o encaminhamento do núcleo de crise hipertensiva e sem inflar a nomenclatura.\",\"next_action\":\"Integrar como overlay renal de pps_94; preservar o ID e os aliases; testar que sinais renais e sobrecarga de volume acionam urgência, que não há oferta forçada de líquidos nem ajuste doméstico de medicação e que o registro soma zero entidade adicional.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Crise hipertensiva renal é uma forma de crise hipertensiva em que há suspeita de participação dos rins. A doença renal pode elevar muito a pressão, e a pressão muito alta também pode lesar os rins; somente a avaliação hospitalar pode definir o que aconteceu primeiro.",
+          "Pressão muito alta acompanhada de pouca ou nenhuma urina, inchaço, urina escura/com sangue, falta de ar, cefaleia intensa, vômitos, alteração visual, confusão ou convulsão é emergência. Ligue para o SAMU 192 e não espere uma nova medida melhorar.",
+          "Mantenha a criança em repouso, acompanhada, na posição em que respira melhor e sem esforço. Se estiver confusa, convulsionando, desmaiada ou com falta de ar, não a transporte sozinho; siga as orientações do 192.",
+          "Separe valores e horários da pressão, peso recente, quantidade de urina, aparência da urina, início do edema, doenças renais conhecidas, lista de medicamentos e últimas doses. Leve receitas, embalagens e caderneta do tratamento.",
+          "Não tente baixar a pressão rapidamente em casa e não tente ‘fazer o rim funcionar’ com muita água, chá ou diurético. Tanto excesso quanto falta de líquido podem piorar uma criança com problema renal.",
+          "Se a leitura alta ocorreu sem sintomas, mantenha repouso e procure avaliação pediátrica urgente no mesmo dia para confirmação com manguito adequado e investigação; não transforme uma leitura isolada em automedicação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se a criança estiver estável e sem sinais de órgão-alvo, a pressão deve ser repetida após repouso, no braço e com manguito pediátrico adequado, preferencialmente com confirmação manual por profissional. Choro, dor e manguito pequeno podem elevar a leitura, mas não explicam sinais renais ou neurológicos graves.",
+          "Observe e informe a última vez que urinou, volume aproximado, cor, sangue/espuma, edema de olhos/face/pernas, mudança de peso e dificuldade para respirar ou deitar. Não atrase o atendimento tentando medir com precisão em casa.",
+          "Não faça banho gelado/quente, compressão, massagem, sangria, exercício, respiração forçada ou outra manobra para reduzir a pressão. Mantenha ambiente calmo enquanto organiza o socorro.",
+          "Não ofereça energético, café, pré-treino, nicotina/vape, descongestionante ou suplemento estimulante. Informe qualquer exposição, dose perdida, dose duplicada ou ingestão acidental sem esconder dados.",
+          "Se houver convulsão, afaste objetos, proteja a cabeça, marque o tempo e não coloque nada na boca. Acione 192; se a criança não respirar normalmente, siga as instruções de reanimação do regulador.",
+          "Dieta, controle de sal e atividade física ajudam no seguimento de algumas doenças crônicas, mas não resolvem a crise. Na fase aguda, a prioridade é monitorização, avaliação renal/neurológica/cardiorrespiratória e redução controlada da pressão."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe remédio doméstico universal para crise hipertensiva renal em crianças. A equipe escolhe medicamento, via, velocidade e alvo conforme idade, pressão habitual, função renal, eletrólitos, volume de líquido e lesão de órgão-alvo.",
+          "Não dê dose extra, não dobre dose esquecida, não use comprimido sob a língua e não empreste anti-hipertensivo ou diurético. Uma queda brusca pode reduzir a perfusão do cérebro, coração, olhos e rins.",
+          "Não suspenda por conta própria anti-hipertensivo, corticoide, imunossupressor ou tratamento de diálise/transplante. Ligue para o serviço que acompanha a criança ou informe o SAMU sobre a última dose e siga a orientação recebida.",
+          "Informe anti-inflamatórios, antibióticos, contraste recente, suplementos, ervas, estimulantes, descongestionantes, anticoncepcionais e todos os medicamentos de uso contínuo. Alguns precisam ser revistos quando há lesão renal, mas essa decisão é profissional.",
+          "Não dê ibuprofeno, diclofenaco, naproxeno ou outro anti-inflamatório por iniciativa própria durante suspeita de lesão renal/crise; leve o nome e a dose se já foram usados. Não provoque vômito após ingestão acidental.",
+          "Tratamento hospitalar pode incluir controle da pressão, correção do volume e dos eletrólitos e tratamento da causa; diálise é decisão da equipe em situações específicas, não consequência automática deste rótulo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não force água, soro caseiro, água de coco, chá ou suco para aumentar a urina. Com pouca urina, edema ou falta de ar, excesso de líquido pode piorar a sobrecarga; com desidratação, restringir sem avaliação também pode ser prejudicial.",
+          "Se a criança está alerta, respira bem e não vomita, ofereça apenas pequenos goles enquanto busca orientação. Se há sonolência, confusão, convulsão, vômitos repetidos ou falta de ar, não ofereça nada pela boca até orientação do 192/serviço.",
+          "Não use sal, açúcar, limão, alho, chá ou suplemento para alterar a pressão. Evite energéticos e cafeína; nenhuma receita caseira substitui avaliação urgente.",
+          "Não imponha dieta sem sal, sem potássio, sem proteína ou restrição de líquidos por conta própria. Crianças com diferentes doenças renais podem precisar de orientações opostas, inclusive reposição de sal em condições perdedoras de sal.",
+          "Em lactentes, não dilua fórmula, não troque leite e não suspenda mamadas para tratar a pressão. Recusa alimentar, suor, respiração rápida, edema ou menos fraldas molhadas exigem avaliação urgente.",
+          "Após a estabilização, nefrologia/nutrição definirá sal, líquidos, potássio, proteína e calorias conforme idade, crescimento, causa renal, diurese, exames e tratamento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Ligue para o SAMU 192 diante de confusão, sonolência incomum, dificuldade para acordar, convulsão, desmaio, fraqueza de um lado, alteração da fala/marcha, cefaleia intensa com vômitos ou comportamento muito diferente.",
+          "Procure emergência imediatamente se a urina diminuir muito ou parar, ficar vermelha/escura, surgir edema rápido da face ou do corpo, ou houver ganho de peso súbito com pressão alta.",
+          "Dor no peito, falta de ar, respiração rápida, dificuldade para deitar, tosse espumosa, lábios arroxeados, extremidades frias ou desmaio podem indicar sobrecarga de líquido/lesão cardíaca e exigem 192.",
+          "Visão borrada, dupla, perda visual ou dor ocular associada a pressão muito alta exige avaliação emergencial.",
+          "Criança com doença renal, diálise ou transplante que apresenta pressão muito alta, dose perdida/duplicada, febre com redução de urina ou incapacidade de manter medicamentos precisa contatar a equipe e ser avaliada sem demora; sinais graves acionam 192.",
+          "Mesmo sem sintomas, pressão repetidamente muito alta com técnica adequada ou valor que um profissional classificou como crítico requer avaliação urgente no mesmo dia; não aguarde consulta de rotina."
+        ],
+        "QUANDO REAVALIAR": [
+          "Esta ficha não autoriza alta domiciliar em emergência hipertensiva. Após estabilização, confirme por escrito onde retornar, em quanto tempo, quais exames serão repetidos e quais valores/sintomas exigem voltar antes.",
+          "Se a avaliação concluir hipertensão grave sem lesão aguda de órgão-alvo, ainda é necessário seguimento próximo. Não espere semanas nem ajuste remédios sozinho.",
+          "O acompanhamento renal deve rever pressão, creatinina/função renal, eletrólitos, urina/proteína, diurese, edema e peso conforme o diagnóstico. Algumas crianças precisarão de ultrassom, avaliação vascular ou outros exames definidos pela equipe.",
+          "Meça a pressão e o peso em casa somente se a equipe ensinou técnica, aparelho/manguito e frequência. Registre urina, edema, sintomas e doses; não repita medidas compulsivamente nem use uma leitura melhor para ignorar alarme.",
+          "Retorne imediatamente se a pressão voltar a subir conforme o plano, a urina diminuir, o edema aumentar, surgir falta de ar ou aparecer qualquer sintoma neurológico, visual ou torácico.",
+          "Volta à escola, educação física e esportes depende da estabilização e da causa. Crianças com doença renal crônica, diálise ou transplante devem manter seguimento com pediatria/nefrologia mesmo após normalizar a pressão."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem apresentar irritabilidade, sonolência, dificuldade para mamar, respiração rápida, convulsão, edema ou poucas fraldas molhadas. Não use limite de adulto e não observe em casa; procure emergência pediátrica.",
+        "3a5m": "Pressão e função renal exigem referências próprias. Recusa de mamadas, vômitos, menos urina, edema, fontanela abaulada, alteração de consciência ou falta de ar são sinais de alto risco.",
+        "6a11m": "Como o lactente não relata cefaleia ou visão, observe irritabilidade extrema, pouca resposta, convulsão, respiração difícil, edema e redução de urina; sinais graves exigem 192.",
+        "1a": "Doença renal/renovascular é causa importante. Manguito pequeno pode falsear a leitura, mas repetir a pressão não deve atrasar atendimento quando há edema, pouca urina, alteração neurológica ou falta de ar.",
+        "2a5": "A interpretação depende de idade, sexo e altura. Choro e dor podem elevar a pressão, porém não justificam sinais de órgão-alvo; registre diurese, urina e edema para a equipe.",
+        "6a11": "Além de doença renal conhecida, glomerular/vascular e medicamentos devem ser avaliados. Suspenda esporte até avaliação se houver pressão grave, cefaleia, alteração visual, edema ou redução de urina.",
+        "12a17": "Informe sem julgamento estimulantes, energéticos, nicotina, drogas, hormônios, anticoncepcionais, possível gravidez e falhas de tratamento renal/anti-hipertensivo. Sintomas neurológicos, torácicos, respiratórios ou pouca urina exigem emergência.",
+        "unknown": "Sem idade, altura, técnica, sintomas e dados renais, não classifique pela tabela de adulto. Sinais de órgão-alvo acionam 192; leitura muito alta repetida requer avaliação urgente."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3259_1",
+          "name": "Australian Guideline for the Identification and Management of Hypertension in Children and Adolescents",
+          "url": "https://doi.org/10.1111/jpc.70491"
+        },
+        {
+          "id": "pais266_op3259_2",
+          "name": "Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents",
+          "url": "https://publications.aap.org/pediatrics/article/140/3/e20171904/38358/Clinical-Practice-Guideline-for-Screening-and"
+        },
+        {
+          "id": "pais266_op3259_3",
+          "name": "Recognition and management of acute kidney injury in children",
+          "url": "https://cps.ca/en/documents/position/acute-kidney-injury"
+        },
+        {
+          "id": "pais266_op3259_4",
+          "name": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+          "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf"
+        },
+        {
+          "id": "pais266_op3259_5",
+          "name": "Clinical Practice Guideline: Hypertension in children and adolescents",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hypertension/"
+        },
+        {
+          "id": "pais266_op3259_6",
+          "name": "Serviço de Atendimento Móvel de Urgência — SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-3260",
+      "specific": true,
+      "key": "pps_catalog_e89dd821869fefcb",
+      "label": "Crise miastênica — registro no PPS",
+      "entity": "Crise miastênica pediátrica — piora aguda da miastenia gravis com fraqueza respiratória e/ou bulbar que ameaça ventilação ou proteção da via aérea",
+      "assessment": "{\"classification\":\"VALID_LIFE_THREATENING_ACUTE_PRESENTATION_OF_MYASTHENIA_GRAVIS\",\"normalized_entity\":\"Crise miastênica em criança ou adolescente com miastenia gravis\",\"related_queue_keys\":[\"pps_catalog_2857e21da116e19c\",\"pps_catalog_b314719ad9cbd7eb\",\"pps_catalog_b87ddc388043d199\"],\"assessment\":\"O termo é válido para piora grave da miastenia com comprometimento respiratório e/ou bulbar que ameaça ventilação ou proteção da via aérea. É uma emergência e uma apresentação aguda da miastenia gravis, não uma doença neuromuscular independente.\",\"reconciliation\":{\"canonical_rule\":\"Vincular esta key à miastenia gravis juvenil e reutilizar a mesma orientação na key 'Miastenia Gravis Juvenil em Crise Miastênica' quando a equivalência for confirmada, preservando todos os IDs; não duplicar a entidade nem o texto.\",\"crisis_boundary\":\"Exacerbação miastênica pode aumentar ptose, diplopia ou fraqueza sem necessidade de suporte respiratório. Crise miastênica implica falência respiratória ou risco iminente por fraqueza ventilatória/bulbar e requer monitorização hospitalar/intensiva.\",\"diagnostic_boundary\":\"Dispneia, disfagia e fraqueza não confirmam sozinhas crise miastênica. Infecção, aspiração, asma, pneumonia, sepse, intoxicação, distúrbios metabólicos, síndrome miastênica congênita e outras causas precisam ser avaliadas em paralelo.\",\"cholinergic_boundary\":\"Crise colinérgica por excesso de inibidor da acetilcolinesterase é rara, mas pode produzir fraqueza e secreções; família e equipe não devem aumentar nem suspender doses por conta própria para tentar diferenciar.\",\"trigger_boundary\":\"Infecção, aspiração, cirurgia, calor, atraso/interrupção de tratamento e alguns medicamentos podem precipitar piora, mas a busca do gatilho não deve atrasar suporte de via aérea e ventilação.\",\"counting_effect\":\"UMA apresentação clínica aguda específica ligada à miastenia gravis juvenil; não contar como doença adicional nem contar os aliases 'grave/crítica/refratária' como entidades distintas.\"},\"pediatric_scope\":\"Aplica-se principalmente a crianças e adolescentes com miastenia gravis juvenil. Em recém-nascidos e lactentes muito pequenos, fraqueza, sucção débil e insuficiência respiratória exigem emergência, mas também avaliação de miastenia neonatal transitória, síndrome miastênica congênita, botulismo e outras causas.\",\"reason\":\"A fraqueza dos músculos respiratórios pode piorar rapidamente e a oximetria normal não exclui comprometimento ventilatório inicial; disfagia, voz fraca/nasal, tosse ineficaz e dificuldade para lidar com saliva são alertas de proteção de via aérea.\",\"next_action\":\"Integrar como apresentação emergencial específica da miastenia gravis, reconciliar com a key de crise juvenil e testar todos os aliases, oito faixas etárias, seis seções, alarmes respiratórios/bulbares e ausência de dose domiciliar inventada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Crise miastênica é uma emergência: falta de ar, dificuldade importante para engolir, voz cada vez mais fraca/nasal, tosse ineficaz ou acúmulo de saliva exigem avaliação hospitalar imediata; se a respiração estiver ruim, chame o SAMU 192.",
+          "Enquanto aguarda ajuda, mantenha a criança sentada ou com a cabeceira elevada se estiver acordada e isso facilitar a respiração. Mantenha o ambiente calmo, fresco e sem esforço; não a deixe sozinha.",
+          "Observe se precisa pausar para falar ou respirar, não consegue deitar sem piorar, usa o pescoço/barriga para respirar, não sustenta a cabeça, engasga, baba, não elimina secreções ou fica sonolenta. Informe isso à equipe.",
+          "O oxímetro pode continuar normal no início, apesar de fraqueza respiratória importante. Não use uma saturação normal para adiar o atendimento se houver piora da respiração, fala, tosse ou deglutição.",
+          "Leve o cartão/plano de miastenia, lista e horários de todos os medicamentos, alergias, contatos da neurologia e informações sobre infecção, febre, cirurgia, dose atrasada ou remédio novo. Não atrase a saída para reunir documentos.",
+          "A crise não é contagiosa, mas uma infecção desencadeante pode ser. Escola, creche, esporte e viagens devem ser suspensos até liberação após estabilização."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não faça exercício, teste de força repetido, contagem respiratória forçada ou treino de sopro em casa durante a piora; fadigar os músculos não ajuda e pode atrasar o socorro.",
+          "Não deite a criança totalmente se isso piorar a falta de ar. Se houver vômito ou muita saliva e ela estiver consciente, mantenha de lado ou sentada com supervisão, sem colocar objetos na boca.",
+          "Não tente retirar secreção profunda com o dedo e não ofereça aparelho respiratório improvisado. Use apenas equipamento domiciliar previamente prescrito e conforme o plano individual enquanto o socorro é acionado.",
+          "Registre o horário de início e a progressão de ptose, diplopia, voz fraca/nasal, dificuldade para mastigar/engolir, engasgos, fraqueza de pescoço/membros, tosse fraca e falta de ar; a tendência é mais importante do que uma medida isolada.",
+          "Após a recuperação, mantenha plano de emergência escrito, identificação de alerta e orientação para escola/cuidadores sobre sintomas, horários de medicação e contato rápido com a família/equipe.",
+          "Previna infecções com higiene e vacinação conforme a equipe, respeitando a imunossupressão. Febre ou quadro respiratório em criança com miastenia merece contato precoce com o serviço responsável."
+        ],
+        "MEDICAMENTOS": [
+          "Não aumente, dobre, repita nem suspenda piridostigmina, corticoide, imunossupressor ou outro tratamento por conta própria. Erro de horário e retirada abrupta podem piorar a doença, mas excesso de medicamento também pode aumentar secreções e fraqueza.",
+          "Se a criança não consegue engolir com segurança, não force comprimido, líquido ou dose por boca. Acione a emergência e informe o horário da última dose; a equipe decidirá a via e a continuidade.",
+          "Antes de qualquer antibiótico, magnésio, sedativo, anestésico, relaxante muscular ou outro medicamento novo, avise que a criança tem miastenia. Alguns produtos podem agravar a transmissão neuromuscular, mas a necessidade e alternativas devem ser avaliadas pelo médico/farmacêutico.",
+          "Não use sobra de antibiótico, antialérgico sedativo, xarope para tosse, fitoterápico, suplemento ou medicamento de outra pessoa. Não interrompa um remédio necessário apenas porque aparece em uma lista da internet; confirme o risco e a alternativa com a equipe.",
+          "Crise miastênica é tratada no hospital com suporte respiratório e terapia de resgate definida por neurologia/intensivismo, como imunoglobulina intravenosa ou troca plasmática. Esta ficha não prescreve dose, sequência nem duração domiciliar.",
+          "Corticoide e outros imunossupressores podem aumentar risco de infecção; febre, tosse, dor ao urinar ou contato infeccioso devem ser relatados cedo, sem automedicação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na suspeita de crise com engasgo, voz molhada/nasal, tosse fraca, baba ou dificuldade para engolir saliva, não ofereça alimento, bebida nem medicamento por boca: há risco de aspiração.",
+          "Se estiver completamente alerta, respirando e engolindo normalmente e a equipe não orientou jejum, ofereça apenas a dieta habitual sem forçar; qualquer tosse, fadiga ou mudança da voz durante a refeição exige interromper e buscar avaliação.",
+          "Não use canudo, espessante, seringa, mamadeira diferente ou consistência modificada por conta própria. Fonoaudiologia/equipe deve definir a forma segura de alimentação após avaliar a deglutição.",
+          "Quando estável, refeições menores e pausas podem reduzir fadiga; alimentos mais difíceis de mastigar devem ser ajustados conforme plano individual, sem transformar isso em tratamento da crise.",
+          "Em bebês, sucção fraca, mamada muito longa, suor/cansaço ao mamar, tosse, leite saindo pelo nariz, menos fraldas ou baixo ganho de peso exigem avaliação urgente. Não dilua fórmula nem substitua leite por água/chá.",
+          "Após alta, retome líquidos e alimentos conforme orientação hospitalar. Pneumonia aspirativa ou necessidade de sonda exige plano específico; não retirar nem reposicionar sonda sem treinamento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o SAMU 192 se houver falta de ar em repouso, respiração rápida/superficial, retrações, incapacidade de falar frases, dificuldade de deitar, lábios arroxeados/pálidos, confusão, desmaio ou dificuldade para acordar.",
+          "Vá imediatamente se houver tosse muito fraca, incapacidade de eliminar saliva ou catarro, baba nova, engasgos repetidos, voz muito fraca/nasal/molhada ou incapacidade de engolir alimento, líquido, medicamento ou a própria saliva.",
+          "Fraqueza que piora rapidamente, cabeça caindo, incapacidade de sentar/andar como de costume, quedas ou braços/pernas muito mais fracos junto de qualquer sintoma respiratório ou bulbar pode anunciar crise.",
+          "Febre, calafrios, prostração, tosse, dor no peito, vômitos ou piora após engasgo exigem urgência por possível infecção, aspiração ou sepse, gatilhos que podem acelerar a crise.",
+          "Procure emergência se a criança recebeu medicamento novo e em seguida desenvolveu piora de fraqueza, respiração, fala ou deglutição. Leve a embalagem e não repita a dose até orientação presencial.",
+          "Mesmo com saturação normal, a combinação de falta de ar, fraqueza de pescoço, fala entrecortada, tosse fraca ou dificuldade de deglutição justifica emergência; não espere o oxímetro cair."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita de crise precisa ser avaliada agora, em serviço com suporte respiratório e possibilidade de terapia intensiva; não aguarde consulta eletiva nem tente observar durante a noite.",
+          "Após estabilização, siga o retorno de neuropediatria/neurologia no prazo da alta e antecipe diante de ptose/diplopia em progressão, voz diferente, fadiga ao mastigar, quedas, fraqueza de pescoço, febre ou necessidade crescente de repouso.",
+          "Revise com a equipe o provável gatilho, culturas/exames, episódios de aspiração, aderência e horários, medicamentos novos, plano de vacinação e necessidade de fonoaudiologia, fisioterapia respiratória ou nutrição.",
+          "Peça um plano escrito com sinais pessoais de piora, contato 24 horas, lista de medicamentos a revisar, conduta para dose perdida e instruções para escola/cuidadores; listas genéricas não substituem o plano individual.",
+          "Crises recorrentes, internação, intubação ou resposta incompleta exigem reavaliação do diagnóstico, subtipo/anticorpos, atividade da doença e tratamento de manutenção em centro experiente.",
+          "Se a criança for muito pequena, soronegativa ou tiver fraqueza desde o nascimento, confirme se o diagnóstico é miastenia gravis juvenil, miastenia neonatal transitória ou síndrome miastênica congênita, pois seguimento e tratamentos não são automaticamente iguais."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Sucção fraca, choro débil, pausas/apneia, flacidez, dificuldade para lidar com secreções ou cansaço ao mamar exige emergência. Nessa idade, não presumir miastenia juvenil: avaliar miastenia neonatal transitória, síndrome congênita, infecção, botulismo e outras causas.",
+        "3a5m": "Observar esforço e duração da mamada, tosse, leite pelo nariz, choro mais fraco, menos fraldas e perda de controle da cabeça. Qualquer piora respiratória ou de deglutição requer emergência.",
+        "6a11m": "Fadiga para mamar/comer, engasgos, voz/choro fraco, cabeça caindo, menos movimentos ou respiração superficial são alertas. Não force alimento ou medicamento se a deglutição estiver insegura.",
+        "1a": "A criança pode não descrever falta de ar: observe retrações, pausas na fala/choro, baba, recusa alimentar, quedas, incapacidade de manter a cabeça e sonolência.",
+        "2a5": "Cuidadores e escola devem reconhecer voz nasal/fraca, mastigação que para por cansaço, engasgos, cabeça caída e perda súbita de habilidades; sintomas respiratórios/bulbares exigem socorro, não repouso na escola.",
+        "6a11": "Ensine a criança a avisar falta de ar, dificuldade para engolir ou falar e a portar plano de emergência. Suspenda esporte e mande para avaliação se houver fraqueza progressiva ou infecção.",
+        "12a17": "Incluir o adolescente no plano e revisar adesão, doses atrasadas, suplementos, álcool/drogas, contraceptivos e medicamentos novos. Não minimizar voz alterada, ortopneia ou fadiga como ansiedade.",
+        "unknown": "Sem idade, diagnóstico confirmado e estado respiratório/deglutição, tratar piora bulbar ou respiratória como emergência; confirmar subtipo de miastenia e tratamentos atuais antes de personalizar."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3260_1",
+          "name": "International consensus guidance for management of myasthenia gravis: Executive summary",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4977114/"
+        },
+        {
+          "id": "pais266_op3260_2",
+          "name": "Management of Juvenile Myasthenia Gravis",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7393473/"
+        },
+        {
+          "id": "pais266_op3260_3",
+          "name": "Guideline for the management of myasthenic syndromes",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10752078/"
+        },
+        {
+          "id": "pais266_op3260_4",
+          "name": "MG Emergencies",
+          "url": "https://myasthenia.org/living-with-mg/mg-emergency-preparedness/mg-emergencies/"
+        },
+        {
+          "id": "pais266_op3260_5",
+          "name": "Myasthenia gravis — Symptoms",
+          "url": "https://www.nhs.uk/conditions/myasthenia-gravis/symptoms/"
+        },
+        {
+          "id": "pais266_op3260_6",
+          "name": "Myasthenia gravis — Treatment",
+          "url": "https://www.nhs.uk/conditions/myasthenia-gravis/treatment/"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "jobId": "OP-3261",
+      "specific": true,
+      "key": "pps_catalog_f91d8eebd1d414a2",
+      "label": "Crise parcial complexa — registro no PPS",
+      "entity": "Crise epiléptica focal com comprometimento da consciência (terminologia ILAE 2025; anteriormente chamada crise parcial complexa)",
+      "assessment": "{\"classification\":\"VALID_ENTITY_WITH_OBSOLETE_HISTORICAL_LABEL\",\"normalized_entity\":\"Crise focal com comprometimento da consciência\",\"preferred_term_2025\":\"Crise focal com comprometimento da consciência\",\"historical_aliases\":[\"Crise parcial complexa\",\"Crise focal com alteração da consciência\",\"Crise focal com comprometimento da percepção\"],\"assessment\":\"'Crise parcial complexa' foi eliminada da nomenclatura moderna. A ILAE 2025 classifica crises focais pela consciência preservada ou comprometida, avaliada por percepção e responsividade. A designação não implica, por si, automatismos, origem temporal, epilepsia estabelecida, estado de mal ou evolução tônico-clônica.\",\"reconciliation\":{\"nomenclature_2017_to_2025\":\"Em 2017, o equivalente era 'crise focal com comprometimento da percepção/awareness'; em 2025, consciência substitui awareness e é operacionalizada por percepção e responsividade.\",\"catalog_qualifiers\":\"'Apresentação pediátrica aguda', 'evolução complicada/refratária' e 'forma grave/crítica' são contexto e gravidade, não novas doenças ou novos tipos de crise.\",\"absence_boundary\":\"Ausência é uma crise generalizada própria. Olhar fixo ou falta de resposta isolados não permitem distinguir ausência, crise focal, síncope, evento comportamental ou outro diagnóstico.\",\"epilepsy_boundary\":\"Uma crise isolada não estabelece automaticamente epilepsia; é necessária avaliação da história, exame, recorrência, risco e, quando indicado, EEG/imagem.\",\"counting_effect\":\"Uma entidade clínica específica. Não multiplicar por aliases nem por qualificadores de gravidade.\"},\"not_automatically_equivalent_to\":[\"Crise de ausência\",\"Crise focal com consciência preservada\",\"Crise tônico-clônica generalizada\",\"Crise focal para bilateral tônico-clônica, a menos que haja evolução documentada\",\"Síncope ou pré-síncope\",\"Evento dissociativo/não epiléptico\",\"Confusão, intoxicação, hipoglicemia, enxaqueca ou distúrbio do sono\",\"Crise febril complexa\"],\"critical_context_to_confirm\":[\"Idade, primeira ocorrência ou epilepsia conhecida, febre, trauma, doença recente, diabetes, gestação e exposição a tóxicos/medicamentos\",\"Início e fim, duração cronometrada, estado antes/depois e recuperação completa ou não\",\"Percepção, responsividade, fala, memória, direção dos olhos/cabeça e sequência dos sinais\",\"Automatismos como mastigar, mexer na roupa, caminhar sem objetivo ou repetir movimentos\",\"Rigidez/abalos, queda, mudança de cor/respiração, lesão, episódio na água e recorrência sem recuperação\",\"Adesão ao tratamento, doses perdidas/vomitadas, privação de sono e plano de resgate individual\"],\"pediatric_scope\":\"Aplica-se a lactentes maiores, crianças e adolescentes, mas a expressão clínica depende da idade e do desenvolvimento. Em recém-nascidos e lactentes muito pequenos, episódios sutis exigem avaliação especializada e não devem receber esse rótulo apenas pela observação familiar; a classificação ILAE 2025 geral exclui crises neonatais, que têm classificação própria.\",\"urgency_rule\":\"Primeira crise, duração de 5 minutos ou mais, repetição sem recuperação, dificuldade para respirar/acordar, evolução para rigidez/abalos bilaterais, lesão importante, episódio na água, febre com prostração/rigidez de nuca, diabetes com alteração de consciência ou recuperação muito diferente do habitual exige SAMU 192/pronto atendimento.\",\"evidence_boundary\":\"A família pode proteger, cronometrar, observar e seguir plano individual; não deve conter, colocar objetos na boca, oferecer alimento/líquido durante alteração de consciência nem improvisar medicamento. Diagnóstico, causa, EEG/imagem, escolha de antiepiléptico e decisão de internação são clínicos.\",\"counting_rule\":\"Contar uma orientação específica somente após integração, testes e publicação; aliases não contam como entidades adicionais.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Durante o episódio, fique com a criança, mantenha a calma, marque a hora e afaste trânsito, fogo, escadas, quinas, objetos cortantes e outras fontes de trauma.",
+          "A criança pode parar o que fazia, olhar fixamente, parecer confusa, não responder, falar de modo estranho ou repetir movimentos como mastigar, mexer na roupa ou caminhar sem objetivo. Não grite, não sacuda e não tente obrigá-la a responder.",
+          "Guie-a suavemente para um local seguro, sem segurar à força. Se cair ou houver rigidez/abalos, proteja a cabeça, afrouxe roupa apertada no pescoço e vire de lado assim que for possível com segurança.",
+          "Não coloque dedo, colher ou qualquer objeto na boca. A criança não engole a língua, e tentar abrir a boca pode causar ferimentos e aspiração.",
+          "Observe a sequência: o que fazia antes, sensação/aviso, direção dos olhos ou cabeça, resposta ao nome/comando, movimentos, cor, respiração, duração e comportamento depois. Se for seguro e não atrasar ajuda, um vídeo curto pode auxiliar a avaliação.",
+          "Após cessar, permaneça ao lado até recuperação completa. Confusão e sono podem ocorrer, mas dificuldade para respirar, acordar ou voltar ao padrão habitual é sinal de emergência."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não restrinja os movimentos, não dê tapa, banho, cheiro forte ou estímulo doloroso e não tente interromper automatismos pela força; apenas impeça que a criança se machuque.",
+          "Não mova a criança, exceto se houver perigo imediato. Se estiver em cadeira de rodas, trave as rodas, mantenha o cinto/harness e apoie a cabeça sem retirar à força.",
+          "Anote em diário data, horário, duração, possíveis gatilhos, febre/doença, sono, doses perdidas e recuperação. Leve o registro e eventuais vídeos à consulta.",
+          "Organize plano escrito para família, escola e cuidadores: sinais habituais, primeiros socorros, quando chamar 192, contato responsável e eventual medicação de resgate prescrita.",
+          "Até avaliação médica após primeira crise ou mudança do padrão, mantenha supervisão próxima em banho, piscina, altura, rua, bicicleta e perto de fogo. Prefira chuveiro com porta destrancada e nunca deixe criança pequena sozinha na água.",
+          "Sono regular e uso correto do tratamento prescrito ajudam a reduzir recorrências em algumas epilepsias. Não atribua o episódio apenas a estresse ou falta de sono sem avaliação."
+        ],
+        "MEDICAMENTOS": [
+          "Se já usa antiepiléptico, ofereça apenas conforme a prescrição habitual. Não interrompa, dobre, antecipe ou repita dose por conta própria, inclusive após dose esquecida ou vomitada.",
+          "Medicação de resgate só deve ser usada se houver plano individual escrito, produto prescrito, treinamento e critério de tempo claramente definido. Siga o plano e chame o SAMU quando indicado.",
+          "Não dê comprimido, líquido, alimento ou remédio pela boca enquanto a consciência estiver alterada, houver sonolência intensa, vômito ou dificuldade para engolir, pelo risco de aspiração.",
+          "Não use medicamento de outra pessoa nem reutilize receita antiga. A escolha do antiepiléptico depende do tipo de crise, síndrome, idade, comorbidades e possibilidade de gestação.",
+          "Informe à equipe todos os remédios, suplementos, fitoterápicos, álcool/drogas e doses perdidas; interações, intoxicação ou retirada abrupta podem alterar o risco de crises.",
+          "Esta orientação não prescreve antiepiléptico, dose, intervalo ou duração. Primeira crise ou mudança do padrão exige avaliação antes de iniciar ou trocar tratamento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não ofereça água, comida, bala ou medicamento durante o episódio ou enquanto a criança estiver confusa/sonolenta. Aguarde estar totalmente acordada, responsiva e engolindo normalmente.",
+          "Após recuperação completa, ofereça líquidos e alimentação habituais em pequenos volumes se não houver náusea, vômito ou outra orientação do serviço.",
+          "Se houver diabetes, alteração de consciência pode ser hipoglicemia ou outro problema; siga apenas o plano individual de diabetes e chame ajuda. Não force nada pela boca se não estiver plenamente consciente.",
+          "Vômitos repetidos, recusa persistente, pouca urina ou incapacidade de manter o antiepiléptico prescrito precisam de orientação médica no mesmo dia, pois podem favorecer desidratação e doses perdidas.",
+          "Não há dieta caseira universal para essa crise. Dieta cetogênica é tratamento especializado para situações selecionadas e não deve ser iniciada, interrompida ou flexibilizada sem a equipe.",
+          "Evite álcool, energéticos e outras substâncias em adolescentes; pergunte de modo acolhedor sobre exposições, pois podem interferir no sono, no tratamento e no diagnóstico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Ligue para o SAMU 192 se o episódio durar 5 minutos ou mais, durar mais que o habitual/plano, repetir sem recuperação completa ou se o tempo de início for desconhecido e a alteração persistir.",
+          "Chame 192 se houver dificuldade para respirar, lábios azulados/cinzentos, ferimento importante, crise na água, queimadura, queda de altura, engasgo ou suspeita de intoxicação.",
+          "Primeira crise, evolução para rigidez e abalos dos dois lados, fraqueza de um lado que não melhora, fala muito alterada, dor de cabeça súbita intensa ou recuperação muito diferente do habitual exigem avaliação urgente.",
+          "Dificuldade para acordar, confusão prolongada, nova crise antes de recuperar, vômitos repetidos, piora progressiva ou comportamento muito fora do padrão são sinais de alerta.",
+          "Febre com prostração intensa, rigidez de nuca, manchas roxas, dificuldade respiratória ou piora geral pode indicar infecção grave; não presuma que seja apenas epilepsia.",
+          "Em bebê pequeno, criança com diabetes, gestante ou pessoa com doença neurológica importante, tenha limiar mais baixo para chamar emergência, especialmente se o episódio for novo ou atípico."
+        ],
+        "QUANDO REAVALIAR": [
+          "Primeiro episódio suspeito deve ser avaliado presencialmente no mesmo dia/fluxo de urgência definido pelo serviço, mesmo que a criança pareça bem depois; uma crise isolada não confirma epilepsia.",
+          "Se a criança já tem epilepsia e o episódio foi breve, igual ao habitual e com recuperação completa, siga o plano individual e comunique no prazo definido pela neurologia; procure antes se frequência, duração ou padrão mudarem.",
+          "Após crise prolongada, repetida, com resgate, trauma ou recuperação incompleta, a reavaliação é imediata e não há alta domiciliar automática.",
+          "Leve descrição/testemunha, vídeo seguro, diário, lista de medicamentos e horários das últimas doses. História detalhada e exame orientam a necessidade de EEG, imagem ou outros exames; um exame isolado não substitui a avaliação clínica.",
+          "Reveja com a equipe segurança em banho/piscina, esporte, sono, escola, viagens, saúde mental, plano de resgate e efeitos adversos do tratamento; não imponha restrições além do necessário.",
+          "Adolescentes precisam de revisão confidencial de adesão, álcool/drogas, sono, contracepção e possibilidade de gestação antes de mudanças medicamentosas, sem interromper tratamento abruptamente."
+        ]
+      },
+      "ageMap": {
+        "u3m": "A classificação ILAE 2025 geral não inclui crises neonatais. Episódio de olhar parado, apneia, mudança de cor, movimentos repetidos ou baixa responsividade nessa idade exige emergência e não deve ser rotulado apenas como 'parcial complexa'.",
+        "3a5m": "Sinais podem ser sutis e se confundir com refluxo, sono, apneia ou infecção. Mudança de cor/respiração, febre, pouca resposta ou repetição exige pronto atendimento.",
+        "6a11m": "Registrar olhar, parada da atividade, movimentos de boca/mãos, resposta à voz/toque, febre e recuperação. Primeira ocorrência ou evento atípico precisa avaliação urgente.",
+        "1a": "Impeça caminhada sem rumo para escadas, rua, água ou fogo sem conter à força. Cuidadores devem cronometrar e descrever a sequência.",
+        "2a5": "Olhar fixo e falta de resposta também podem ter outras causas. Escola precisa de plano escrito e não deve dar comida, bebida ou remédio sem prescrição/treinamento.",
+        "6a11": "Pergunte sobre sensação no estômago, cheiro/gosto, medo súbito, déjà vu ou perda de tempo; mantenha supervisão em água/altura e plano acessível na escola.",
+        "12a17": "Revisar privação de sono, doses perdidas, álcool/drogas, direção/atividades de risco e possibilidade de gestação. Não suspender antiepiléptico por medo de efeito adverso sem equipe.",
+        "unknown": "Sem idade, diagnóstico, duração e recuperação conhecidos, priorizar segurança, cronometragem, SAMU para persistência/alarme e avaliação presencial; não classificar apenas pelo rótulo."
+      },
+      "refs": [
+        {
+          "id": "pais266_op3261_1",
+          "name": "Updated classification of epileptic seizures (2025)",
+          "url": "https://www.ilae.org/guidelines/definition-and-classification/updated-classification-of-epileptic-seizures-2025"
+        },
+        {
+          "id": "pais266_op3261_2",
+          "name": "Updated classification of epileptic seizures: Position paper of the International League Against Epilepsy",
+          "url": "https://www.ilae.org/files/dmfile/updated-classification-of-epileptic-seizures-2025.pdf"
+        },
+        {
+          "id": "pais266_op3261_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Epilepsia",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/e/epilepsia/@@download/file"
+        },
+        {
+          "id": "pais266_op3261_4",
+          "name": "Types of Seizures",
+          "url": "https://www.cdc.gov/epilepsy/about/types-of-seizures.html"
+        },
+        {
+          "id": "pais266_op3261_5",
+          "name": "First Aid for Seizures",
+          "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/"
+        },
+        {
+          "id": "pais266_op3261_6",
+          "name": "Epilepsies in children, young people and adults — status epilepticus, repeated/cluster and prolonged seizures",
+          "url": "https://www.nice.org.uk/guidance/ng217/chapter/7-Treating-status-epilepticus-repeated-or-cluster-seizures-and-prolonged-seizures"
+        },
+        {
+          "id": "pais266_op3261_7",
+          "name": "Safety-netting information following a first seizure without a fever in children and young people",
+          "url": "https://www.rcpch.ac.uk/resources/safety-netting-information-following-first-seizure-without-fever-children-young-people"
+        },
+        {
+          "id": "pais266_op3261_8",
+          "name": "What to do if someone has a seizure (fit)",
+          "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

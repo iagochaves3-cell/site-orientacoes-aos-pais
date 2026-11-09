@@ -1,0 +1,512 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T12:15:14.836Z",
+  "records": [
+    {
+      "key": "pps_catalog_35046fb85882bfb1",
+      "label": "Torção de ovário — registro no PPS",
+      "entity": "Torção ovariana ou anexial suspeita ou confirmada em recém-nascida, criança ou adolescente, emergência cirúrgica tempo-dependente que requer avaliação imediata, destorção e preservação do ovário sempre que possível",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_TIME_CRITICAL_GYNECOLOGIC_EMERGENCY_WITH_CROSS_CATALOG_SUFFIX\",\"normalized_entity\":\"Torção ovariana (torção anexial com comprometimento do ovário)\",\"assessment\":\"A torção ovariana é entidade pediátrica válida e tempo-dependente: o ovário, por vezes junto com a tuba, gira sobre seus ligamentos e pedículo vascular, prejudicando o fluxo sanguíneo. Pode ocorrer antes ou depois da menarca e com ovário aparentemente normal ou associado a cisto/massa, geralmente benignos nessa população. Dor súbita pélvica ou no baixo ventre, frequentemente unilateral e acompanhada de náusea ou vômito, pode melhorar e voltar; essa melhora não exclui a emergência. Não há combinação clínica, laboratorial ou de imagem capaz de confirmar ou excluir todos os casos antes da cirurgia, e fluxo arterial presente no Doppler não descarta torção. Suspeita clínica exige avaliação ginecológica/cirúrgica urgente e, quando indicada, laparoscopia com destorção e preservação do ovário independentemente da aparência inicial. O sufixo ‘registro no PPS’ é origem administrativa e não altera a entidade clínica.\",\"not_automatically_equivalent_to\":[\"Cisto ou massa ovariana sem torção\",\"Ruptura ou hemorragia de cisto ovariano\",\"Torção isolada de tuba, paraovário ou apêndice paratubário\",\"Apendicite, gastroenterite, constipação, infecção urinária ou cálculo urinário\",\"Gravidez ectópica, abortamento ou outra urgência obstétrica quando há possibilidade de gravidez\",\"Doença inflamatória pélvica, endometriose, dismenorreia ou dor do meio do ciclo\",\"Dor abdominal ou pélvica sem avaliação presencial\"],\"counting_rule\":\"Contar este ID como orientação específica de torção ovariana somente após integração no gerador, testes e publicação comprovada. Não usar a ficha para cobrir automaticamente todo cisto/massa, dor pélvica, apendicite, gravidez ectópica ou torção tubária isolada.\",\"pediatric_scope\":\"Abrange recém-nascidas, lactentes, crianças pré-púberes e adolescentes. Menarca ausente não exclui torção. Em lactentes e crianças pequenas, os sinais podem ser pouco localizados, como choro intenso, vômitos, distensão, palidez ou recusa alimentar. Em adolescentes, história menstrual e possibilidade de gravidez devem ser abordadas com privacidade, consentimento e sem julgamento, mas sem atrasar a avaliação cirúrgica.\",\"reason_for_source_term_issue\":null}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A torção acontece quando o ovário — às vezes junto com a tuba — gira e compromete sua circulação. É uma emergência porque atraso pode reduzir a chance de recuperação do ovário. Suspeita ativa não tem período seguro de observação em casa.",
+          "Dor súbita no baixo ventre ou na pelve, geralmente de um lado, com náusea ou vômito, precisa de pronto atendimento hospitalar imediato. A dor pode diminuir e voltar quando o ovário torce e destorce; melhora espontânea ou após analgésico não torna seguro esperar.",
+          "Não tente confirmar o diagnóstico apertando a barriga, aguardando a próxima menstruação, pesquisando sintomas ou conseguindo ultrassom por conta própria. Vá a um serviço capaz de acionar ginecologia ou cirurgia; exames não devem atrasar a avaliação quando a suspeita é alta.",
+          "Anote a hora exata do início e das crises, lado da dor, vômitos, febre, sangramento ou corrimento, última menstruação quando aplicável, possibilidade de gravidez, última alimentação, cirurgias anteriores e cisto/massa já conhecido. Leve exames, lista de medicamentos e alergias, sem atrasar a saída.",
+          "Não massageie, comprima, aqueça intensamente nem tente ‘destorcer’ a barriga. Mantenha a criança ou adolescente acompanhada, em posição confortável, e use transporte seguro; se houver desmaio, fraqueza intensa ou dificuldade de transporte, acione o serviço de emergência.",
+          "Depois de cirurgia ou alta hospitalar, siga apenas o plano escrito para ferida, atividade, escola, banho e retorno. A condição não é causada por higiene, atividade sexual ou comportamento; preserve privacidade e evite culpa ou constrangimento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Procure emergência imediatamente ao suspeitar de torção. Não espere horário de consulta, não marque ultrassom ambulatorial e não adie porque a dor ficou intermitente ou começou há muitas horas; ainda pode haver benefício em destorcer e preservar o ovário.",
+          "Ultrassom pélvico, geralmente transabdominal, pode ajudar, mas resultado normal ou fluxo presente no Doppler não exclui torção. A decisão é clínica e cirúrgica; tomografia ou outro exame já realizado não deve atrasar avaliação especializada se sugerir torção.",
+          "A confirmação costuma ocorrer por laparoscopia. Quando há torção, o objetivo é destorcer e conservar ovário e tuba sempre que possível; aparência escura do ovário, isoladamente, não prova perda definitiva de função nem justifica remoção automática.",
+          "Não tente diferenciar em casa de apendicite. Dor do lado direito, vômitos, febre, piora ao andar ou barriga endurecida podem ocorrer em mais de uma urgência e exigem avaliação hospitalar.",
+          "Se houver qualquer possibilidade de gravidez, a equipe deve considerar teste com consentimento e excluir gravidez ectópica. Isso deve ser perguntado de forma reservada e respeitosa; dor pélvica com atraso menstrual, sangramento, dor no ombro, tontura ou desmaio é emergência.",
+          "Adolescentes devem ter oportunidade de conversar em privado com a equipe. Exame ginecológico interno raramente é necessário em crianças e não deve ser imposto; qualquer exame deve ser explicado, consentido e apropriado à idade, sem atrasar medidas de emergência."
+        ],
+        "MEDICAMENTOS": [
+          "Não use medicamento para adiar o pronto atendimento. Alívio da dor ou do vômito não exclui torção nem restaura sozinho a circulação do ovário.",
+          "Use apenas o analgésico, antiemético ou outro medicamento administrado ou prescrito pela equipe para esta paciente, na apresentação e no horário escritos. Esta ficha não informa idade, peso, alergias, gestação possível, função renal/hepática ou outras doenças e não libera fármaco nem dose.",
+          "Não dê sobra de receita, remédio de adulto, antibiótico, hormônio, laxante, chá medicinal ou anti-inflamatório por conta própria. Nenhum desses produtos destorce o ovário, e efeitos adversos podem confundir a avaliação ou agravar desidratação e sangramento.",
+          "Informe à equipe tudo o que foi tomado, com nome, quantidade e horário, além de alergias, anticoagulantes, doença renal/hepática, sangramento e possibilidade de gravidez. Leve as embalagens quando isso não atrasar a ida.",
+          "Após cirurgia, não dobre doses esquecidas nem repita automaticamente um medicamento vomitado. Confirme com o serviço que prescreveu e mantenha o plano individual de dor, náusea e cuidados da ferida.",
+          "Dificuldade para respirar, inchaço de boca ou língua, urticária disseminada, desmaio, sonolência extrema ou suspeita de dose excessiva após medicamento exige atendimento imediato; leve a embalagem."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Como pode ser necessária anestesia e cirurgia de urgência, não ofereça refeição para ‘ver se melhora’. Ao procurar a emergência, informe a hora da última comida e bebida e siga a orientação do serviço sobre jejum; não atrase o atendimento se a paciente já tiver comido.",
+          "Não imponha jejum prolongado por conta própria antes de falar com o serviço. Se houver vômitos, sonolência ou dor intensa, não force comida nem grande volume de líquido; mantenha posição segura e procure atendimento imediatamente.",
+          "Depois da cirurgia ou alta, reintroduza líquidos e alimentos conforme a equipe orientar e a tolerância permitir. Não existe alimento, chá ou suplemento capaz de destorcer o ovário ou recuperar fluxo sanguíneo.",
+          "Vômitos repetidos, incapacidade de beber, boca seca, poucas micções, olhos fundos, palidez, tontura ou sonolência sugerem desidratação ou piora e exigem reavaliação urgente, sobretudo em lactentes e crianças pequenas.",
+          "Se o serviço programar novo procedimento, siga exatamente os horários de líquidos claros, leite e sólidos fornecidos pela anestesia; esses horários variam com idade, alimento e condição clínica.",
+          "Após liberação, não é necessária dieta especial apenas por causa da torção. Dieta, hidratação e restrições devem considerar o procedimento realizado, náusea, constipação e outras condições da paciente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor pélvica ou no baixo ventre súbita, forte, unilateral ou generalizada — principalmente com náusea, vômito, palidez ou suor frio — exige emergência agora por possível torção ovariana. Não espere a dor passar.",
+          "Dor que vai e volta, acorda do sono ou reaparece após melhora ou analgésico também é emergência: torção e destorção intermitente pode manter fluxo no Doppler e ainda ameaçar o ovário.",
+          "Desmaio, confusão, fraqueza intensa, pele fria, batimento muito acelerado, dificuldade para respirar ou incapacidade de ficar em pé exige acionar emergência, pois pode haver choque, sangramento ou outra complicação grave.",
+          "Atraso menstrual ou teste de gravidez positivo com dor pélvica/abdominal, sangramento vaginal, dor no ombro, tontura ou desmaio pode ser gravidez ectópica com sangramento interno. Procure emergência imediatamente e informe a possibilidade de gravidez em privado à equipe.",
+          "Dor do lado direito com febre, piora ao andar/pular, recusa alimentar, vômitos persistentes ou barriga rígida/distendida pode ser apendicite ou outro abdome agudo. Não atribua automaticamente à torção, menstruação ou virose; procure emergência.",
+          "Em bebê ou criança pequena, choro inconsolável, crises de dor, encolher as pernas, vômito verde, distensão, palidez, prostração, recusa de mamadas ou pouca urina exige atendimento imediato, mesmo sem conseguir localizar a dor.",
+          "Depois da cirurgia, dor crescente ou diferente, vômitos repetidos, febre com piora geral, sangramento importante, barriga muito distendida, ferida abrindo, vermelhidão que se espalha, pus, mau cheiro ou dificuldade para urinar exige retorno urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Na suspeita de torção, a reavaliação é agora, em hospital: não substitua por consulta eletiva nem por observação até o dia seguinte. Se já houve avaliação e a dor persiste, volta ou piora, retorne imediatamente mesmo que exame ou ultrassom anterior tenha sido tranquilizador.",
+          "Torção confirmada requer tratamento cirúrgico de emergência para destorcer e tentar preservar ovário e tuba. A decisão individual cabe à equipe cirúrgica; o aspecto escuro do ovário não significa automaticamente que ele precise ser removido.",
+          "Depois da alta, cumpra o retorno definido pela ginecologia/cirurgia para examinar recuperação, ferida e função ovariana. Se havia cisto ou massa e ele não foi retirado no momento da destorção, a equipe pode programar ultrassom de controle, frequentemente em 6–12 semanas, e decidir se outro procedimento é necessário.",
+          "Volte antes do prazo se dor, vômitos, febre, sangramento, distensão, secreção da ferida ou dificuldade para beber, urinar ou evacuar não estiverem melhorando conforme o plano. Não espere a consulta marcada diante de sinal de alarme.",
+          "Novo episódio de dor pélvica súbita no mesmo lado ou no outro é uma nova emergência. Recorrência pode acontecer; eventual fixação do ovário e investigação de fator anatômico ou massa são decisões individualizadas, não garantias de que a dor futura seja benigna.",
+          "No seguimento, peça explicação sobre preservação do ovário, achado de cisto/massa, anatomopatológico se houver tecido retirado, necessidade de imagem e impacto esperado em puberdade, menstruação e fertilidade. Não presumir câncer nem perda de fertilidade sem os achados do caso."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nesta idade os sinais são inespecíficos. Choro inconsolável, palidez, distensão, massa abdominal, vômito verde, recusa de mamadas, prostração ou mudança súbita exigem avaliação hospitalar imediata; não atribua a cólica ou refluxo e não tente localizar ou massagear o ovário em casa.",
+        "3a5m": "O lactente não consegue apontar a dor. Crises súbitas de choro, encolher as pernas, vômitos, barriga distendida, palidez ou mamada fraca requerem emergência para excluir torção e outras causas cirúrgicas; não espere febre ou localização pélvica.",
+        "6a11m": "Irritabilidade episódica, parar de brincar, proteger a barriga, vômitos ou distensão podem ser a única pista. Procure emergência imediatamente, pois ultrassom normal isolado não encerra a investigação se a equipe mantiver alta suspeita.",
+        "1a": "A criança pode apontar para toda a barriga, virilha ou perna. Dor súbita, vômito, palidez, recusa alimentar ou dificuldade para andar exige hospital agora; ausência de menstruação não exclui torção ovariana.",
+        "2a5": "Use perguntas simples e não force exame íntimo. Dor de início súbito ou em crises, especialmente com vômitos ou andar curvado, precisa de avaliação cirúrgica urgente; não trate como constipação ou virose sem exame.",
+        "6a11": "Torção pode ocorrer antes da primeira menstruação e até em ovário sem cisto. Dor súbita de um lado ou na parte baixa da barriga, com náusea/vômito ou crises intermitentes, exige emergência imediata e não deve esperar consulta ou ultrassom ambulatorial.",
+        "12a17": "Garanta conversa privada, sem julgamento, sobre menstruação, atividade sexual, contracepção e possibilidade de gravidez. A equipe deve excluir gravidez ectópica quando pertinente e apendicite quando compatível, mas essas investigações não devem atrasar cirurgia por torção suspeita.",
+        "unknown": "Confirmar idade, desenvolvimento puberal/menarca, hora de início e recorrência, lado, náusea/vômito, febre, sangramento/corrimento, última menstruação, possibilidade de gravidez, sintomas urinários/intestinais, cisto/massa conhecida, cirurgias prévias, exame, imagem e parecer ginecológico/cirúrgico. Sem exclusão segura de torção, não liberar observação domiciliar."
+      },
+      "refs": [
+        {
+          "id": "pais150_op284_1",
+          "name": "Adnexal Torsion in Adolescents — Committee Opinion No. 783",
+          "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents"
+        },
+        {
+          "id": "pais150_op284_2",
+          "name": "Clinical Practice Guidelines: Adolescent gynaecology — lower abdominal pain",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Adolescent_gynaecology_lower_abdominal_pain/"
+        },
+        {
+          "id": "pais150_op284_3",
+          "name": "Adnexal Torsion",
+          "url": "https://www.nationwidechildrens.org/conditions/adnexal-torsion"
+        },
+        {
+          "id": "pais150_op284_4",
+          "name": "Ovarian Torsion: What Parents Need to Know",
+          "url": "https://www.nationwidechildrens.org/family-resources-education/700childrens/2017/06/ovarian-torsion-what-parents-need-to-know"
+        },
+        {
+          "id": "pais150_op284_5",
+          "name": "Consulta ginecológica na adolescência exige acolhimento, sigilo e atenção aos limites éticos",
+          "url": "https://www.febrasgo.org.br/noticia/consulta-ginecologica-na-adolescencia-exige-acolhimento-sigilo-e-atencao-aos-limites-eticos/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pps_catalog_ff1370fbce40d312",
+      "label": "Torção peniana congênita — registro no PPS",
+      "entity": "Torção ou rotação congênita do pênis: anomalia presente desde a formação fetal em que o pênis está rodado sobre o próprio eixo longitudinal, isolada ou associada a hipospádia, curvatura peniana congênita ou outra anomalia genital",
+      "assessment": "{\"classification\":\"VALID_CONGENITAL_PEDIATRIC_PENILE_ANOMALY_WITH_HIGH_RISK_HOMONYM\",\"normalized_entity\":\"Torção (rotação) peniana congênita\",\"assessment\":\"O termo corresponde a uma entidade pediátrica válida, chamada congenital penile torsion na literatura: o pênis apresenta rotação ao redor do eixo longitudinal, geralmente percebida no exame neonatal, antes de circuncisão ou mais tarde pela aparência do jato urinário ou das ereções. Em geral é uma alteração anatômica estável, não dolorosa e não isquêmica; graus leves frequentemente não exigem correção, enquanto rotação mais importante, alteração funcional, anomalia associada ou incômodo relevante exigem avaliação individual pela urologia pediátrica. A palavra 'torção' cria risco de confusão: esta entidade congênita não é torção testicular, não é uma torção aguda do pênis e não explica dor genital súbita. Dor, edema, mudança de cor, retenção urinária ou início recente devem ser avaliados como outro problema, inclusive emergência. O diagnóstico e a estimativa do grau dependem de exame físico; a rafe mediana desviada é apenas uma pista e não confirma sozinha. Quando houver suspeita no recém-nascido, a circuncisão eletiva deve ser adiada até avaliação por profissional habilitado, sobretudo se houver hipospádia, curvatura, pênis oculto ou outra anomalia associada.\",\"not_automatically_equivalent_to\":[\"Torção testicular ou escroto agudo, que pode interromper o fluxo sanguíneo e exige avaliação cirúrgica imediata\",\"Parafimose, em que o prepúcio retraído fica preso atrás da glande e pode causar isquemia\",\"Torniquete de cabelo ou fibra ao redor do pênis, que causa sulco, edema e comprometimento vascular\",\"Priapismo, isto é, ereção prolongada e potencialmente isquêmica\",\"Fratura, contusão ou outra lesão aguda do pênis\",\"Curvatura peniana congênita (chordee), que é dobra do eixo e pode coexistir com a rotação\",\"Doença de Peyronie ou curvatura adquirida por cicatriz, condição de mecanismo e população distintos\",\"Hipospádia, pênis oculto, epispádia ou web penoescrotal, embora possam coexistir e mudar o planejamento\",\"Assimetria isolada da rafe mediana ou rotação aparente sem confirmação no exame especializado\",\"Indicação automática de cirurgia, circuncisão, técnica, idade operatória ou correção por motivo apenas estético\"],\"counting_rule\":\"Contar este ID como orientação específica para torção/rotação peniana congênita somente após integração, testes e publicação. Não contar como cobertura de torção testicular, paraphimosis, torniquete de cabelo, priapismo, trauma, curvatura congênita isolada, hipospádia ou doença de Peyronie.\",\"pediatric_scope\":\"Pode ser observada desde o nascimento até a adolescência. A avaliação considera se a rotação estava presente desde cedo ou apareceu após trauma/procedimento, posição do meato, direção e grau estimado, jato urinário, ereções dolorosas ou funcionais, hipospádia/curvatura/pênis oculto, circuncisão ou cirurgia prévia e o impacto para a criança ou adolescente. A conduta é individual e geralmente programada; qualquer quadro agudo doloroso ou isquêmico segue uma via de emergência diferente.\",\"reason_for_source_term_issue\":null}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Torção peniana congênita significa que o pênis nasceu rodado ao redor do próprio eixo. Isso costuma ser uma diferença anatômica estável e não uma torção que está acontecendo agora; em muitos casos leves não há dor nem prejuízo funcional.",
+          "Não tente girar, endireitar, massagear ou tracionar o pênis. Faixas, moedas, moldes, fitas, aparelhos, exercícios e manipulação não corrigem a anatomia e podem causar ferida, edema ou perda de circulação.",
+          "Observe sem constranger se o jato de urina sai com boa força, se é muito desviado ou dividido e se a criança precisa fazer esforço. Não filme nem fotografe a genitália para acompanhar; descreva a mudança ao profissional e preserve a privacidade.",
+          "Faça higiene suave adequada à idade. Em criança não circuncidada, não force a retração do prepúcio; quando ele já retrair livremente, recoloque-o sobre a glande após a higiene para evitar parafimose.",
+          "Fraldas, roupas, banho, brincadeiras e escola podem seguir normalmente se não houver dor, ferida ou restrição da equipe. A condição não é contagiosa e não foi causada pelos cuidados dos pais ou pela criança.",
+          "Converse sem culpa ou vergonha. Com crianças maiores e adolescentes, use linguagem respeitosa, permita perguntas em privacidade e ensine que dor genital súbita, dificuldade para urinar ou mudança rápida de cor precisam ser comunicadas imediatamente."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha avaliação com pediatria e urologia pediátrica para confirmar se há rotação verdadeira, estimar sua importância e procurar hipospádia, curvatura congênita, pênis oculto ou outra alteração associada. Uma rafe mediana inclinada sozinha não fecha o diagnóstico.",
+          "Se a alteração foi percebida antes da circuncisão neonatal, não faça circuncisão eletiva até a avaliação especializada. O urologista define se ela pode ser realizada com segurança, se deve ser adiada ou se pode ser combinada com eventual correção.",
+          "Graus leves e assintomáticos podem ser apenas observados após avaliação. Rotação mais importante, jato urinário funcionalmente ruim, ereção dolorosa/difícil, anomalia associada ou sofrimento relevante podem levar a discussão cirúrgica, mas a ficha não escolhe técnica nem momento para um paciente não examinado.",
+          "Não use a aparência em fotografia, o desvio do jato ou um número de graus estimado em casa para decidir cirurgia. O exame especializado diferencia rotação, curvatura, hipospádia, cicatriz pós-procedimento e outras causas.",
+          "Se houver procedimento programado, siga somente as instruções escritas do serviço sobre jejum, banho, curativo, atividade, retorno à escola e sinais de complicação. Não aplique gelo, pomada, antisséptico ou curativo compressivo sem orientação.",
+          "Em adolescentes, inclua a própria pessoa na decisão, respeite privacidade e considere função, dor, imagem corporal e expectativas realistas. Pressão estética da família não substitui indicação clínica nem consentimento adequado."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento, hormônio, vitamina, creme ou pomada que desfaça a rotação congênita do pênis. Não use produtos anunciados para 'endireitar' ou 'corrigir' a genitália.",
+          "Antibióticos e anti-inflamatórios não tratam a anatomia e não devem ser usados preventivamente. Vermelhidão, secreção, febre ou dor nova precisam de avaliação para outra causa, em vez de tratamento por conta própria.",
+          "Não dê remédio apenas para esperar passar uma dor súbita no pênis, escroto ou virilha. Analgésico pode aliviar sem corrigir torção testicular, parafimose, torniquete ou trauma; procure atendimento conforme os sinais de alarme.",
+          "Após eventual cirurgia, use apenas o medicamento, a apresentação, o volume e o horário escritos pela equipe. Não adapte dose de adulto, não use sobra de receita e não dobre a próxima dose se houver esquecimento ou vômito sem confirmar com o serviço.",
+          "Informe alergias, medicamentos contínuos, doença falciforme, problema de coagulação e reações anestésicas anteriores antes de qualquer procedimento. Não suspenda tratamento crônico por conta própria.",
+          "Sangramento persistente, dor que piora apesar do plano prescrito, reação ao medicamento, vômitos repetidos, febre com piora geral ou dificuldade para urinar após procedimento exigem contato imediato com o serviço ou avaliação urgente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Sem sedação ou cirurgia marcada, não há dieta especial para torção peniana congênita. Mantenha alimentação e líquidos habituais, adequados à idade e às condições clínicas da criança.",
+          "Água, leite, vitaminas, chás, suplementos ou alimentos não modificam o grau de rotação. Hidratação normal ajuda a observar o jato urinário, mas não corrige a anatomia.",
+          "Não faça jejum para consulta comum nem por achar que uma cirurgia poderá ocorrer no mesmo dia. Se houver procedimento programado, siga exatamente o jejum e os líquidos permitidos pelo serviço de anestesia.",
+          "Em lactentes, mantenha leite materno ou fórmula habitual salvo orientação da equipe. Recusa persistente, vômitos, menos urina ou prostração junto de dor/inchaço genital são sinais de urgência por outra condição.",
+          "Após eventual procedimento, retome líquidos e alimentação conforme a orientação do serviço e a tolerância da criança. Vômitos repetidos, incapacidade de beber ou ausência de urina precisam de contato rápido.",
+          "Não use comida como recompensa ou punição por exame da genitália. Explique o cuidado de forma simples e preserve uma rotina tranquila e respeitosa."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor súbita ou intensa no testículo, escroto, virilha ou parte baixa da barriga, principalmente com náusea, vômito, palidez, testículo mais alto ou escroto vermelho/inchado, pode ser torção testicular. Vá imediatamente; não confunda com a rotação congênita do pênis e não espere ultrassom ambulatorial.",
+          "Pênis que fica de repente muito dolorido, inchado, frio, azul, roxo ou preto precisa de avaliação imediata por possível perda de circulação. Procure também se houver um sulco com cabelo, fio ou fibra apertando o pênis; não use agulha ou lâmina para tentar cortar em casa.",
+          "Prepúcio retraído que ficou preso atrás da glande, com inchaço e dificuldade para voltar à posição, é parafimose e exige atendimento urgente, especialmente se a glande estiver escura ou muito dolorosa.",
+          "Ereção dolorosa que não cede, sobretudo se estiver se aproximando de quatro horas, é emergência. Em criança ou adolescente com doença falciforme, procure ajuda ainda mais cedo conforme o plano da hematologia e não aplique gelo por conta própria.",
+          "Incapacidade de urinar, dor com bexiga distendida, jato que cessou ou piora rápida do inchaço exige atendimento urgente. Sangue na ponta do pênis ou dificuldade para urinar após queda, pancada ou acidente também precisa de avaliação imediata.",
+          "Trauma com estalo, hematoma/inchaço rápido, deformidade nova, ferida aberta ou sangramento importante, bem como febre com pênis muito vermelho, inchado e criança prostrada, não deve ser atribuído à condição congênita e requer pronto atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se a rotação foi notada no recém-nascido, organize avaliação pediátrica/urológica antes de qualquer circuncisão eletiva, principalmente se o meato não parecer na ponta, houver curvatura, pouco tecido ventral, pênis oculto ou outra alteração genital.",
+          "Se o especialista confirmar grau leve, sem sintomas nem anomalias associadas, siga o intervalo de observação definido. Antecipe se a aparência mudar, o jato ficar fraco/muito desviado, surgir esforço para urinar, infecção urinária, dor ou incômodo crescente.",
+          "Criança em desfralde deve ser reavaliada se o jato dificulta usar o vaso, molha repetidamente roupa/ambiente apesar de postura adequada ou se há queixa de ardor; isso pode revelar problema funcional ou outro diagnóstico associado.",
+          "Na idade escolar e adolescência, reavalie quando ereções revelarem rotação ou curvatura mais importante, houver dor, dificuldade funcional ou sofrimento com a imagem corporal. Não presuma doença adquirida nem indicação cirúrgica sem exame respeitoso.",
+          "Após eventual correção, compareça aos retornos para avaliar cicatrização, posição, jato, sensibilidade e rotação residual. Não declare cura ou necessidade de nova cirurgia apenas pela aparência nas primeiras semanas.",
+          "Procure consulta fora do cronograma se a alteração surgiu apenas depois de trauma, circuncisão ou outra cirurgia, pois isso não deve ser automaticamente rotulado como congênito. Qualquer início agudo com dor, edema ou mudança de cor segue a via de emergência."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme no exame neonatal se há rotação verdadeira e procure hipospádia, curvatura, pênis oculto ou meato fora da posição esperada. Adie circuncisão eletiva até avaliação pediátrica/urológica quando houver suspeita. Não manipule para medir o ângulo em casa; pênis escuro, frio, muito inchado, retenção urinária ou testículo/escroto agudamente alterado é emergência.",
+        "3a5m": "Mantenha consulta especializada e registre se a rotação estava presente desde o nascimento, como é o jato e se existe anomalia associada. A avaliação pode concluir por observação ou planejar correção posterior; não faça circuncisão, exercícios, fita ou pomadas sem essa decisão.",
+        "6a11m": "Se a rotação for relevante, a urologia pode discutir correção programada e, quando desejada/indicada, coordenação com circuncisão. A família deve entender benefícios, riscos e possibilidade de rotação residual; esta ficha não define técnica, data, anestesia ou medicamento.",
+        "1a": "Se ainda não houve avaliação, procure urologia pediátrica, sobretudo se a alteração é marcada ou o jato é muito desviado. Higiene e rotina são habituais; não force o prepúcio nem tente girar o pênis. Dor ou inchaço agudo não é evolução normal da condição congênita.",
+        "2a5": "Durante o desfralde, observe função do jato sem envergonhar a criança. Reavalie se precisa se posicionar de modo incomum, molha roupa repetidamente, faz esforço, tem jato fraco/dividido ou dor. Não fotografe a genitália nem transforme a aparência em motivo de punição ou brincadeira.",
+        "6a11": "Pergunte com privacidade sobre urina, dor e incômodo, e respeite a autonomia progressiva. Caso leve e estável pode continuar apenas em acompanhamento; alteração funcional, dor, mudança nova ou sofrimento justificam reavaliação especializada, sem promessa automática de cirurgia.",
+        "12a17": "A rotação ou curvatura pode ficar mais evidente nas ereções. Ofereça consulta confidencial apropriada à idade, avalie dor, função, imagem corporal e se estava presente desde cedo. Não confunda com trauma, curvatura adquirida ou priapismo; dor súbita, estalo/hematoma, escroto agudo ou ereção dolorosa prolongada exige emergência.",
+        "unknown": "Antes de personalizar, confirme idade, início congênito versus recente, presença de dor/edema/mudança de cor, posição do meato, curvatura, direção/grau estimado pelo profissional, jato, ereções, circuncisão/cirurgia/trauma prévios e impacto para a criança. Sem esses dados, não liberar técnica, data cirúrgica, circuncisão, medicamento ou tranquilização de quadro agudo."
+      },
+      "refs": [
+        {
+          "id": "pais150_op286_1",
+          "name": "Contraindications to Routine Circumcision",
+          "url": "https://med.stanford.edu/newborns/professional-education/circumcision/contraindications.html"
+        },
+        {
+          "id": "pais150_op286_2",
+          "name": "Genitourinary — Penile Torsion",
+          "url": "https://med.stanford.edu/newborns/professional-education/photo-gallery/genitourinary.html"
+        },
+        {
+          "id": "pais150_op286_3",
+          "name": "Isolated penile torsion in newborns",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26600889/"
+        },
+        {
+          "id": "pais150_op286_4",
+          "name": "Penile Torsion: Causes, Symptoms & Treatment",
+          "url": "https://my.clevelandclinic.org/health/diseases/15454-penile-torsion"
+        },
+        {
+          "id": "pais150_op286_5",
+          "name": "Clinical Practice Guidelines: The penis and foreskin",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_penis_and_foreskin/"
+        },
+        {
+          "id": "pais150_op286_6",
+          "name": "Clinical Practice Guidelines: Acute scrotal pain or swelling",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_Scrotal_Pain_or_Swelling/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pps_catalog_6f76e180947ccfec",
+      "label": "Torção tibial interna — registro no PPS",
+      "entity": "Torção tibial interna idiopática do desenvolvimento, rotação interna da tíbia que produz marcha com os pés voltados para dentro, mais evidente quando a criança começa a andar",
+      "assessment": "{\"classification\":\"VALID_SPECIFIC_PEDIATRIC_ORTHOPEDIC_VARIATION\",\"normalized_entity\":\"Torção tibial interna do desenvolvimento\",\"assessment\":\"O termo corresponde a uma entidade ortopédica pediátrica válida e a uma variação rotacional frequentemente fisiológica. É a causa mais comum de marcha com os pés para dentro entre 1 e 3 anos; decorre da rotação interna da tíbia, costuma ser bilateral e em geral melhora espontaneamente com o crescimento, habitualmente antes da idade escolar. Dor, inchaço, claudicação, progressão, grande assimetria ou alteração neurológica não são explicados automaticamente pela forma fisiológica e exigem nova avaliação.\",\"not_automatically_equivalent_to\":[\"Metatarso aduto, no qual o antepé é curvo para dentro\",\"Pé torto congênito ou outra deformidade rígida do pé\",\"Anteversão femoral, na qual fêmur, joelhos e pés rodam para dentro\",\"Torção tibial externa ou qualquer marcha com os pés para fora\",\"Doença de Blount, displasia esquelética, doença metabólica óssea ou discrepância de membros\",\"Paralisia cerebral, hipertonia ou outra causa neuromuscular de marcha anormal\",\"Dor aguda, recusa para apoiar ou claudicação sem diagnóstico\"],\"counting_rule\":\"Contar este ID como orientação específica para torção tibial interna do desenvolvimento somente após integração, testes e publicação. Não reutilizar como cobertura de metatarso aduto, pé torto, anteversão femoral, torção externa ou marcha patológica por causa neurológica/óssea.\",\"pediatric_scope\":\"Mais típica no lactente que começa a ficar em pé e no toddler de 1–3 anos. A maior parte corrige gradualmente com crescimento; persistência relevante depois da idade escolar, deformidade grave, limitação funcional ou achados atípicos requerem avaliação ortopédica pediátrica.\",\"critical_context_to_confirm\":[\"Idade, início, progressão, unilateralidade ou assimetria e se joelhos ou apenas pés apontam para dentro\",\"Dor, inchaço, rigidez, claudicação, recusa para apoiar, quedas e impacto em brincadeira, escola ou esporte\",\"Formato e flexibilidade dos pés, arqueamento das pernas, diferença de comprimento e trauma prévio\",\"Gestação/nascimento, marcos do desenvolvimento, regressão, fraqueza, hipertonia e coordenação\",\"Doença neuromuscular, metabólica ou esquelética e história familiar de alterações rotacionais\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A torção tibial interna é uma rotação para dentro do osso da perna, entre o joelho e o tornozelo. Ela costuma ficar evidente quando a criança começa a andar e faz o pé apontar para dentro mesmo com a patela voltada para a frente.",
+          "Na forma típica, a criança não sente dor e consegue andar, correr e brincar. A tíbia costuma girar gradualmente para fora com o crescimento; a melhora é lenta, ao longo de anos, e geralmente ocorre antes da idade escolar.",
+          "Deixe a criança brincar e praticar atividade física conforme tolerado. Não é necessário limitar corrida, parque, educação física ou esporte se não houver dor, claudicação ou dificuldade funcional.",
+          "Use calçado comum, confortável e do tamanho correto. O sapato não precisa forçar os pés para fora nem ter palmilha corretiva.",
+          "Quedas ocasionais são comuns em quem está aprendendo a andar. Mantenha o ambiente seguro e observe se elas diminuem com coordenação e idade; quedas frequentes em criança escolar ou que impedem atividades merecem avaliação.",
+          "Uma foto ou vídeo anual da marcha, feito sem pedir que a criança corrija os pés, pode ajudar a perceber a evolução. Evite comparações semanais, porque a mudança costuma ser muito gradual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Observação e acompanhamento do crescimento são a conduta habitual na torção tibial interna típica e sem sintomas.",
+          "Sapatos corretivos, palmilhas, talas, barras entre os calçados, gessos, cabos de rotação, exercícios forçados e manipulação quiroprática não aceleram a rotação normal da tíbia e não devem ser iniciados por conta própria.",
+          "Fisioterapia não destorce o osso e não é indicada apenas para corrigir uma variação assintomática. Pode ter outro objetivo quando há atraso motor, fraqueza, hipertonia ou condição neuromuscular, após avaliação individual.",
+          "Não force os pés ou as pernas para fora e não impeça posições confortáveis apenas por medo de piorar a tíbia; postura e calçado não substituem o crescimento natural.",
+          "Se houver piora, dor ou limitação, registre quando começou, qual lado é mais afetado e em quais atividades ocorre para levar à consulta."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que corrija a rotação da tíbia, e a forma fisiológica não precisa de remédio.",
+          "Não use vitaminas, cálcio, vitamina D, anti-inflamatório ou qualquer outro produto para 'desentortar' a perna sem uma indicação médica específica; suplementos não corrigem torção tibial.",
+          "Dor não é característica esperada da torção tibial interna simples. Em vez de mascarar dor persistente com remédio, procure avaliação para identificar lesão, inflamação, infecção ou outra causa.",
+          "Se algum medicamento tiver sido prescrito por outro diagnóstico, siga apenas a orientação profissional e não altere dose ou duração com base nesta ficha."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não há dieta, alimento ou líquido capaz de mudar a rotação da tíbia.",
+          "Mantenha alimentação variada e hidratação habitual para a idade. Cálcio e vitamina D são importantes para a saúde óssea geral, mas não devem ser usados em excesso nem como tratamento da torção.",
+          "Não é necessário jejum nem restrição alimentar por causa da torção tibial interna."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se surgir dor intensa ou súbita na perna, quadril ou joelho, ou se a criança passar a mancar muito, recusar-se a apoiar o pé ou não conseguir andar.",
+          "Procure atendimento imediato se houver febre junto com articulação ou perna quente, vermelha, inchada ou muito dolorosa, pois isso não é esperado na torção fisiológica.",
+          "Após queda ou trauma, vá ao pronto atendimento se houver deformidade nova, inchaço rápido, incapacidade de apoiar, estalo importante ou dor forte.",
+          "Vá imediatamente se o pé ficar pálido, azulado ou frio, ou se aparecer dormência, perda de sensibilidade ou dificuldade súbita para mexer o pé/perna.",
+          "Procure atendimento urgente se aparecer fraqueza súbita, perda de movimentos, desequilíbrio novo importante ou regressão rápida da marcha."
+        ],
+        "QUANDO REAVALIAR": [
+          "Na forma típica, sem dor e com desenvolvimento normal, mostre a marcha nas consultas de rotina para acompanhar a melhora ao longo dos anos.",
+          "Marque avaliação antes se apenas um lado estiver muito diferente, se a deformidade estiver piorando, se o pé for rígido, se houver arqueamento importante, diferença no comprimento das pernas ou alteração visível do quadril, joelho ou pé.",
+          "Converse com o pediatra se houver dor, inchaço, claudicação ou dificuldade para andar; se o início for súbito ou a criança não apoiar, use o pronto atendimento conforme os alertas acima.",
+          "Peça avaliação se houver atraso ou regressão do desenvolvimento, hipertonia, fraqueza, coordenação anormal ou outra condição neuromuscular.",
+          "Encaminhamento ortopédico é indicado quando a marcha para dentro ultrapassa o esperado para a idade, é progressiva ou muito assimétrica, ou quando tropeços em criança escolar impedem participação nas atividades.",
+          "Se não houver melhora até a entrada na escola ou se a torção relevante persistir por volta de 7–8 anos, reavalie. Cirurgia é excepcional e só costuma ser considerada em criança mais velha, geralmente após 8 anos, com deformidade grave persistente e problema funcional importante; não é tratamento de rotina."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Em recém-nascido, o pé voltado para dentro não confirma torção tibial isolada. O exame deve diferenciar metatarso aduto flexível de pé torto rígido e avaliar quadris e membros; pé rígido, deformidade marcada ou assimetria deve ser examinado cedo, sem manipulação forçada em casa.",
+        "3a5m": "Antes de a marcha começar, observe formato e flexibilidade dos pés e simetria das pernas. Não use sapatos, barras, palmilhas ou exercícios para forçar correção; procure avaliação se o pé for rígido, houver grande assimetria ou dificuldade de movimento.",
+        "6a11m": "A aparência das pernas pode refletir a posição intrauterina, mas a origem do desvio deve ser confirmada no exame. Permita movimentos e desenvolvimento motor livres; não tente endireitar a perna à força nem use órtese sem diagnóstico específico.",
+        "1a": "É comum a torção tibial interna ficar aparente quando a criança começa a andar. Se não há dor, claudicação, rigidez ou atraso motor, observe, mantenha ambiente seguro para as quedas próprias do aprendizado e acompanhe nas consultas de rotina.",
+        "2a5": "Esta é a faixa mais típica. A maioria melhora espontaneamente com o crescimento e pode brincar sem restrição. Reavalie antes se houver piora, assimetria importante, dor, mancar, pé rígido, arqueamento acentuado, quedas que impedem atividades ou alteração neurológica.",
+        "6a11": "Persistência depois da entrada na escola merece revisão do diagnóstico e do impacto funcional. Encaminhe se a torção for progressiva ou muito assimétrica, ultrapassar o esperado para a idade, ou se tropeços, dor ou marcha anormal limitarem educação física, brincadeiras e vida diária; cirurgia continua rara e não se decide apenas pela aparência.",
+        "12a17": "Torção interna importante e sintomática na adolescência não deve ser presumida como simples variação do toddler. Avaliação ortopédica deve confirmar o nível da rotação e excluir causa de quadril, joelho, pé, osso ou sistema neuromuscular; dor aguda ou incapacidade de apoiar exige atendimento imediato.",
+        "unknown": "Confirme idade, quando começou, lado afetado, evolução, dor, claudicação, rigidez, quedas, marcos motores e exame da marcha. Sem esses dados, não é seguro classificar todo pé para dentro como torção tibial fisiológica nem indicar órtese, exercício, medicamento ou cirurgia."
+      },
+      "refs": [
+        {
+          "id": "pais150_op287_1",
+          "name": "Torsional Problems — Study Guide",
+          "url": "https://posna.org/physician-education/study-guide/torsional-problems"
+        },
+        {
+          "id": "pais150_op287_2",
+          "name": "In-Toeing",
+          "url": "https://www.orthokids.org/conditions/in-toeing/"
+        },
+        {
+          "id": "pais150_op287_3",
+          "name": "Intoeing",
+          "url": "https://www.orthoinfo.org/diseases--conditions/intoeing/"
+        },
+        {
+          "id": "pais150_op287_4",
+          "name": "Pigeon Toes (Intoeing)",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/orthopedic/Pages/Pigeon-Toes-Intoeing.aspx"
+        },
+        {
+          "id": "pais150_op287_5",
+          "name": "In-toeing — Orthopaedic referral guidance",
+          "url": "https://www.rch.org.au/ortho/for_health_professionals/In-toeing/"
+        },
+        {
+          "id": "pais150_op287_6",
+          "name": "In-toeing — Paediatric Orthopaedic Physiotherapy referral criteria",
+          "url": "https://rms.cornwall.nhs.uk/rms/primary_care_clinical_referral_criteria/primary_care_clinical_referral_criteria/orthopaedics/rms/primary_care_clinical_referral_criteria/primary_care_clinical_referral_criteria/orthopaedics/paediatric_orthopaedic_physiotherapy_service/rms/INT"
+        },
+        {
+          "id": "pais150_op287_7",
+          "name": "In-toe walking — Internal Tibial Torsion",
+          "url": "https://www.ouh.nhs.uk/paediatricorthopaedics/information/conditions/in-toe-walking/"
+        },
+        {
+          "id": "pais150_op287_8",
+          "name": "Lower-extremity rotational problems in children. Normal values to guide management",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/3968103/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pps_catalog_9827a8a38faf1396",
+      "label": "Torcicolo adquirido — registro no PPS",
+      "entity": "Torcicolo adquirido na criança ou no adolescente: inclinação/rotação nova da cabeça e do pescoço, tratada como sinal clínico que exige identificação da causa e não como diagnóstico etiológico único",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CLINICAL_SIGN_WITH_MULTIPLE_ETIOLOGIES_AND_ADMINISTRATIVE_SUFFIX\",\"normalized_entity\":\"Torcicolo adquirido pediátrico\",\"assessment\":\"‘Torcicolo adquirido’ é um termo pediátrico válido para uma posição nova em que a cabeça fica inclinada e o queixo rodado, mas é um sinal, não uma doença única. A causa mais comum é espasmo muscular simples, porém trauma cervical, subluxação/fixação rotatória atlantoaxial, infecção profunda de cabeça e pescoço, doença neurológica ou tumoral, inflamação, alteração ocular e reação distônica a medicamentos também podem produzir o mesmo aspecto. O sufixo ‘registro no PPS’ é administrativo e não modifica a entidade clínica. A orientação domiciliar só é apropriada depois de avaliação que não identifique sinais de causa secundária grave.\",\"not_automatically_equivalent_to\":[\"Torcicolo muscular congênito ou fibromatose coli do lactente\",\"Espasmo muscular benigno já confirmado\",\"Subluxação/fixação rotatória atlantoaxial, inclusive síndrome de Grisel\",\"Lesão traumática da coluna cervical\",\"Abscesso retrofaríngeo/parafaríngeo, meningite ou outra infecção profunda\",\"Distonia aguda causada por medicamento\",\"Torcicolo paroxístico benigno da infância\",\"Tumor de fossa posterior, medula ou osso cervical\",\"Torcicolo ocular ou inflamatório\"],\"counting_rule\":\"Contar este ID como orientação específica para a apresentação ‘torcicolo adquirido’ somente após integração, testes e publicação. A ficha orienta a triagem segura do sinal, mas não conta como cobertura específica de cada causa secundária listada.\",\"pediatric_scope\":\"Aplica-se a recém-nascidos, lactentes, crianças e adolescentes com inclinação/rotação cervical de início após o nascimento. Em menores que não conseguem relatar sintomas, a ausência de queixa não exclui lesão, infecção ou doença neurológica. Trauma, infecção recente de vias aéreas superiores, cirurgia de ouvido/nariz/garganta, doença dentária, alteração neurológica, uso recente de medicamento que bloqueia dopamina e condições com instabilidade atlantoaxial aumentam a urgência.\",\"reason_for_source_term_issue\":null}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Torcicolo adquirido é quando a criança passa a manter a cabeça inclinada para um lado e o queixo virado para o outro. É um sinal com várias causas: muitas são musculares e melhoram, mas algumas envolvem a coluna cervical, infecção, sistema nervoso, olhos ou reação a medicamento.",
+          "Cuidados em casa só são seguros depois de avaliação profissional quando não há trauma, febre ou sinais de infecção, alteração neurológica, dor intensa, condição de risco para instabilidade cervical nem suspeita de reação a remédio. Não presuma que seja apenas ‘mau jeito’ pela aparência.",
+          "Se a equipe confirmou espasmo muscular simples, permita repouso relativo em posição confortável. A melhora deve começar de forma clara nos primeiros dias e a inclinação e a dor costumam desaparecer em até 7–10 dias; piora ou falta de melhora muda a conduta.",
+          "Não force a cabeça para o centro, não estale o pescoço e não faça tração, manipulação ou massagem profunda. Se houve queda, colisão, mergulho, trampolim, esporte ou outro trauma, minimize movimentos e trate como possível lesão cervical até avaliação.",
+          "Observe temperatura, dor, mobilidade, disposição, caminhada, fala, visão, deglutição, respiração, força e sensibilidade dos braços e pernas. Infecção profunda pode existir sem vermelhidão ou caroço visível no pescoço.",
+          "O torcicolo em si não é contagioso. Se a causa for uma infecção respiratória, de garganta ou outra doença transmissível, siga a orientação específica dada para essa infecção e mantenha a criança fora da escola enquanto estiver febril ou sem condições de participar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Somente no espasmo muscular simples já avaliado, uma compressa morna envolta em pano pode ser usada por até 20 minutos, sem contato direto com a pele e sem deixar a criança dormir sobre ela. Interrompa se aumentar a dor, a vermelhidão ou o desconforto.",
+          "Evite movimentos repetidos, mochila pesada, brinquedos de impacto, trampolim, bicicleta, lutas e esportes enquanto houver dor ou limitação. O retorno deve ser gradual, quando a criança estiver sem dor e com movimento normal; trauma ou doença da coluna requer liberação da equipe responsável.",
+          "Não coloque colar cervical por conta própria. Colar, imobilização, fisioterapia e exercícios dependem da causa; em trauma suspeito, mantenha a posição encontrada e siga a orientação do serviço de emergência.",
+          "Não faça alongamentos passivos em uma criança com torcicolo adquirido novo sem diagnóstico. Exercícios usados no torcicolo congênito do lactente não devem ser transferidos automaticamente para trauma, infecção ou instabilidade atlantoaxial.",
+          "Para dormir, use superfície e posição seguras para a idade. Bebês devem dormir de barriga para cima, em superfície firme e sem travesseiros, rolos ou objetos para prender a cabeça; não improvise posicionadores para corrigir o pescoço.",
+          "Anote quando começou, se houve trauma, resfriado, dor de garganta/ouvido/dente, cirurgia recente de ouvido/nariz/garganta, vômito, dor de cabeça, alteração dos olhos ou da marcha e todos os medicamentos usados. Essas informações ajudam a identificar a causa."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o analgésico que foi orientado para esta criança, na apresentação, quantidade e intervalo escritos. Esta ficha não informa idade, peso, alergias, doenças, hidratação nem outros remédios e, por isso, não autoriza medicamento ou dose.",
+          "Não use por conta própria antibiótico, corticoide, relaxante muscular, sedativo, pomada, medicamento de adulto ou sobra de receita. O tratamento muda conforme a causa: infecção, lesão da coluna, subluxação atlantoaxial e distonia por medicamento não são tratados como um simples espasmo.",
+          "Informe todos os medicamentos tomados nos últimos dias, especialmente remédios para náusea/vômito, enxaqueca, agitação ou saúde mental. Metoclopramida, prochlorperazina e outros bloqueadores de dopamina podem causar torção dolorosa do pescoço, mandíbula ou olhos.",
+          "Se a postura começou logo após um remédio, não dê doses extras para ‘corrigir’ o quadro. Procure avaliação urgente e leve a embalagem e a prescrição; não interrompa tratamento crônico de forma definitiva sem orientação da equipe que o acompanha.",
+          "Alívio após analgésico não exclui fratura, infecção, subluxação atlantoaxial ou doença neurológica. Se persistirem dor importante, pescoço travado ou qualquer sinal de alarme, procure atendimento mesmo que o remédio tenha ajudado por algumas horas.",
+          "Dificuldade para respirar, língua ou mandíbula presas, olhos desviados para cima, espasmos generalizados, desmaio, urticária disseminada, inchaço de boca/língua ou sonolência extrema após medicamento exige atendimento imediato."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "O espasmo muscular simples não exige dieta especial. Se a criança estiver alerta e engolindo sem dor ou engasgo, ofereça água e alimentação habitual adequada à idade, sem obrigar a virar o pescoço.",
+          "Dor para engolir, baba aumentada, voz abafada ou diferente, recusa de líquidos, dificuldade para abrir a boca, engasgos ou respiração ruidosa podem indicar infecção profunda ou comprometimento da via aérea. Não force comida ou bebida; vá ao pronto atendimento.",
+          "Em bebês, ofereça mamada em posição segura e confortável, sem torcer ou apoiar à força a cabeça. Mamada fraca, cansaço, engasgo, mudança de cor, menos fraldas molhadas ou recusa persistente exige avaliação rápida.",
+          "Vômitos junto com torcicolo, especialmente com dor de cabeça, palidez, sonolência, irritabilidade ou desequilíbrio, não são explicados automaticamente por espasmo muscular e exigem reavaliação urgente.",
+          "Não use chá, suplemento, bebida energética, jejum ou alimento específico para ‘desinflamar’ ou colocar a coluna no lugar. Nenhum alimento corrige subluxação, infecção, lesão neurológica ou reação distônica.",
+          "Se estiver indo ao hospital por trauma, alteração neurológica, dificuldade de engolir ou possível procedimento, siga a orientação do serviço sobre jejum; não atrase a ida para oferecer uma refeição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Torcicolo após queda, colisão, mergulho, trampolim, esporte, sacudida ou pancada — ou quando a criança sustenta a própria cabeça com a mão — deve ser tratado como possível lesão da coluna cervical. Chame ajuda, minimize movimentos e não tente alinhar o pescoço.",
+          "Febre, prostração, baba aumentada, dor de garganta importante, dificuldade para engolir ou respirar, voz abafada, respiração ruidosa, inchaço do pescoço, dificuldade de abrir a boca ou piora rápida exige emergência por possível infecção profunda.",
+          "Dor ou inclinação fixa após resfriado, infecção de ouvido/garganta/dente ou cirurgia recente de ouvido, nariz ou garganta pode ser subluxação rotatória C1–C2 (síndrome de Grisel). Procure pronto atendimento e não force rotação nem faça massagem.",
+          "Dor de cabeça forte ou progressiva, vômitos repetidos, visão dupla, olhos desalinhados, sensibilidade à luz, fala diferente, desequilíbrio, fraqueza, formigamento, perda de sensibilidade, convulsão, desmaio, sonolência ou mudança de comportamento exige avaliação neurológica imediata.",
+          "Dor intensa que não melhora, dor bem no meio da coluna, pescoço completamente travado, deformidade crescente ou piora apesar do cuidado prescrito exige reavaliação urgente, mesmo sem febre e mesmo que a pele pareça normal.",
+          "Torção do pescoço, olhos, mandíbula ou língua após medicamento, principalmente com dificuldade para falar, engolir ou respirar, pode ser distonia aguda. Vá imediatamente e leve a lista e as embalagens dos remédios.",
+          "Criança com síndrome de Down, síndrome de Morquio, síndrome de Larsen, síndrome de Marfan, doença reumatológica, malformação cervical ou cirurgia/lesão cervical prévia precisa de avaliação urgente se surgir torcicolo novo, por maior risco de instabilidade da coluna."
+        ],
+        "QUANDO REAVALIAR": [
+          "Torcicolo adquirido novo sem causa já examinada deve ser avaliado no mesmo dia. Não use esta ficha para fechar diagnóstico em casa; a equipe precisa procurar trauma, infecção, alteração neurológica/ocular, problema de coluna e reação a medicamento.",
+          "Depois de alta com diagnóstico de espasmo muscular simples, siga o retorno definido pelo serviço. Reavalie antes do prazo se a dor ou a inclinação aumentar, se o movimento diminuir ou se surgir qualquer sinal de alarme.",
+          "A melhora deve ser progressiva nos primeiros dias. Se não houver melhora clara em 48–72 horas, procure o serviço que avaliou a criança ou o pediatra para reconsiderar a causa; casos graves podem precisar de retorno ainda mais cedo conforme a orientação recebida.",
+          "Se dor ou torcicolo não tiverem desaparecido em 7–10 dias, é necessária nova avaliação. Persistência pode exigir exame especializado e imagem; não prolongue automedicação nem inicie manipulação ou fisioterapia por conta própria.",
+          "Torcicolo recorrente, dor noturna, dor que acorda a criança, perda de peso, mudança escolar/comportamental, dor de cabeça repetida, alterações visuais ou da marcha precisa de avaliação pediátrica/neurológica, mesmo entre episódios aparentemente leves.",
+          "Após trauma, infecção recente de cabeça/pescoço ou cirurgia de ouvido/nariz/garganta, não aguarde o prazo de 7–10 dias: torcicolo doloroso novo precisa de avaliação de emergência para excluir lesão ou patologia atlantoaxial."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Torcicolo adquirido nessa idade não deve ser presumido como ‘mau jeito’ nem confundido automaticamente com torcicolo muscular congênito. Inclinação nova, irritabilidade, moleza, qualquer febre, mamada fraca, vômitos, choro ao mexer, alteração dos olhos ou após queda exige avaliação hospitalar imediata. Não use travesseiro, rolo, alongamento ou manipulação.",
+        "3a5m": "O lactente não consegue localizar dor. Cabeça inclinada de início recente, recusa de mamadas, menos fraldas molhadas, febre, sonolência, choro ao tocar o pescoço, vômitos ou história de trauma exige avaliação urgente. Mantenha sono seguro de barriga para cima, sem posicionadores.",
+        "6a11m": "Observe se o bebê deixou de acompanhar objetos dos dois lados, parece dolorido ao sentar/engatinhar, perdeu habilidades, tem febre ou sofreu queda. Novo torcicolo precisa ser examinado; exercícios usados para torcicolo congênito só devem ser feitos se um profissional confirmar essa indicação.",
+        "1a": "A criança pode mostrar apenas irritabilidade, andar diferente, recusar comida ou sustentar a cabeça com a mão. Queda, febre, baba, vômito, desequilíbrio ou movimento reduzido exige pronto atendimento; não force a criança a apontar o que dói nem a girar o pescoço.",
+        "2a5": "Infecções de garganta, ouvido, dentes e espaços profundos do pescoço podem causar torcicolo nessa faixa. Dor fixa após resfriado ou cirurgia de ouvido/nariz/garganta levanta suspeita de síndrome de Grisel e deve ser avaliada urgentemente. Pergunte também sobre medicamentos recentes para vômito.",
+        "6a11": "Investigue quedas, trampolim, mergulho, esporte, resfriado/infecção e cirurgia de cabeça e pescoço. Em crianças com síndrome de Down ou outra condição de instabilidade cervical, qualquer torcicolo novo merece avaliação urgente. Não voltar à educação física enquanto houver dor ou limitação.",
+        "12a17": "Considere trauma esportivo, mergulho, colisão, cefaleia/alteração neurológica e distonia após antiemético ou antipsicótico. O adolescente não deve dirigir, pedalar nem treinar com o pescoço travado. Garanta espaço privado para relatar trauma, substâncias e medicamentos sem julgamento.",
+        "unknown": "Antes de orientar alta, confirmar idade, início e duração, trauma, febre e sintomas de garganta/ouvido/dente, cirurgia recente de ouvido/nariz/garganta, dor de cabeça/vômitos, visão, marcha, exame neurológico, medicamentos recentes, comorbidades de instabilidade cervical e evolução após analgesia. Sem esses dados, não classificar como espasmo muscular simples."
+      },
+      "refs": [
+        {
+          "id": "pais150_op288_1",
+          "name": "Clinical Practice Guidelines: Acquired torticollis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acquired_Torticollis/"
+        },
+        {
+          "id": "pais150_op288_2",
+          "name": "Clinical Practice Guidelines: Cervical spine assessment",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cervical_Spine_Assessment/"
+        },
+        {
+          "id": "pais150_op288_3",
+          "name": "Torticollis — Emergency Department Guideline",
+          "url": "https://www.healthywa.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Emergency-Department-Guidelines/Torticollis"
+        },
+        {
+          "id": "pais150_op288_4",
+          "name": "Torticollis — Information for parents and carers",
+          "url": "https://www.leedsth.nhs.uk/patients/resources/torticollis/"
+        },
+        {
+          "id": "pais150_op288_5",
+          "name": "Torticollis Advice Leaflet",
+          "url": "https://www.alderhey.nhs.uk/conditions/patient-information-leaflets/torticollis-advice-leaflet/"
+        },
+        {
+          "id": "pais150_op288_6",
+          "name": "Diagnostic Approach and Treatment Options for Pediatric Cases of Grisel’s Syndrome Post Otolaryngology Procedure: A Systematic Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10771032/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "ext_torcicolo",
+      "label": "Torcicolo agudo — após avaliação",
+      "entity": "Torcicolo agudo adquirido em criança ou adolescente, já avaliado presencialmente e liberado com hipótese de espasmo muscular não complicado, sem trauma relevante, infecção, alteração neurológica, comprometimento de via aérea/deglutição, distonia medicamentosa ou instabilidade cervical identificada",
+      "assessment": "{\"classification\":\"VALID_POST_EVALUATION_ACUTE_ACQUIRED_TORTICOLLIS_SYNDROME_WITH_MANDATORY_SECONDARY_CAUSE_SAFETY_NET\",\"normalized_entity\":\"Torcicolo agudo adquirido, após avaliação e liberação para cuidado domiciliar\",\"assessment\":\"Torcicolo descreve uma posição inclinada e rodada da cabeça; é um sinal, não uma causa única. O cadastro é clinicamente utilizável porque o qualificador ‘após avaliação’ restringe esta ficha ao quadro agudo adquirido já examinado e considerado compatível com espasmo muscular não complicado. Essa restrição deve aparecer no texto: a ficha não serve para diagnosticar torcicolo em casa nem para liberar automaticamente uma criança com trauma, febre, sintomas de garganta, salivação, cefaleia, vômitos, alteração visual, desequilíbrio, déficit neurológico ou reação a medicamento. O cuidado domiciliar complementa, mas não substitui, a avaliação que definiu a causa provável e o seguimento.\",\"not_automatically_equivalent_to\":[\"Torcicolo adquirido — registro no PPS, que é um termo mais amplo e ainda exige reconciliação própria\",\"Torcicolo congênito ou torcicolo muscular congênito do recém-nascido/lactente\",\"Torcicolo paroxístico benigno da infância, que ocorre em episódios recorrentes e tem avaliação própria\",\"Torcicolo espasmódico ou distonia cervical crônica\",\"Reação distônica aguda a metoclopramida, antipsicótico ou outro medicamento\",\"Subluxação/fixação rotatória atlantoaxial, inclusive síndrome de Grisel após infecção de vias aéreas ou cirurgia de ouvido/nariz/garganta\",\"Lesão da coluna cervical após trauma\",\"Abscesso retrofaríngeo, meningite, infecção da coluna, linfadenite, infecção dentária ou outra infecção profunda\",\"Causa neurológica, ocular, inflamatória, tumoral ou óssea\"],\"duplicate_reconciliation\":\"O ID ext_torcicolo é uma ficha de alta/continuidade para apresentação aguda avaliada. Pode compartilhar conceitos de segurança com ‘Torcicolo adquirido’, mas não deve absorver os IDs congênito, paroxístico, espasmódico ou de etiologias secundárias. Se o gerador resolver ‘torcicolo agudo’ para este ID, precisa manter visível o escopo ‘após avaliação’ e bloquear qualquer leitura de diagnóstico domiciliar.\",\"counting_rule\":\"Contar este ID como uma orientação específica somente após integração, testes e publicação, preservando o rótulo ‘após avaliação’. Não contar como cobertura de todas as causas de torcicolo nem somar seus diagnósticos diferenciais como entidades orientadas.\",\"pediatric_scope\":\"Aplica-se principalmente a criança previamente sem torcicolo, com início agudo e avaliação presencial compatível com espasmo muscular simples. Em recém-nascido ou lactente pequeno, inclinação persistente pode representar torcicolo congênito, problema ocular, neurológico ou ósseo; um quadro novo, doloroso ou acompanhado de febre não deve ser enquadrado automaticamente nesta ficha.\",\"critical_context_to_confirm\":[\"Idade, momento exato do início, duração e se a posição é fixa ou varia\",\"Avaliação presencial e diagnóstico/hipótese que autorizou cuidado domiciliar\",\"Queda, colisão, mergulho, cama elástica, esporte de contato, tração ou outro mecanismo de trauma\",\"Febre, dor de garganta/ouvido/dente, infecção respiratória recente, cirurgia de ouvido/nariz/garganta, salivação ou dificuldade para engolir\",\"Cefaleia, vômitos, fotofobia, visão dupla/estrabismo, desequilíbrio, fraqueza, formigamento ou alteração de comportamento/consciência\",\"Medicamentos novos, sobretudo antieméticos e antipsicóticos, e movimentos involuntários de olhos, mandíbula, língua ou outras partes do corpo\",\"Síndrome de Down ou outra condição com risco de instabilidade cervical, doença inflamatória, câncer, imunossupressão ou cirurgia cervical prévia\",\"Plano de analgésico, restrições de atividade e prazo de retorno entregues pela equipe\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Esta ficha só vale depois de avaliação presencial e liberação para casa com hipótese de torcicolo muscular simples. Torcicolo é a posição inclinada/rodada do pescoço e pode ter várias causas; a melhora em casa não confirma sozinha que a causa era apenas muscular.",
+          "Nas formas musculares não complicadas, dor e movimento costumam melhorar progressivamente e o quadro geralmente se resolve em até 7 a 10 dias. Piora, novos sintomas ou pescoço cada vez mais fixo não fazem parte dessa evolução esperada.",
+          "Deixe a criança manter a cabeça na posição mais confortável. Não tente endireitar à força, dar trancos, ‘estalar’ o pescoço ou fazer manipulação quiroprática/osteopática enquanto houver dor ou sem liberação específica.",
+          "Observe a temperatura, intensidade da dor, capacidade de olhar para os lados, caminhar, brincar, falar, engolir e usar braços e pernas. Anote cefaleia, vômitos, visão dupla, desequilíbrio ou medicamento iniciado recentemente.",
+          "Evite carregar a criança puxando pelos braços ou pela cabeça. Em criança pequena, apoie tronco e cabeça durante trocas e transporte, sem forçar alinhamento.",
+          "Escola pode ser retomada quando estiver bem, sem febre, com dor controlada e capaz de participar com segurança. Avise que deve evitar brincadeiras de impacto; esporte e educação física esperam movimento confortável e orientação recebida."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Faça repouso relativo: atividades leves e movimentos espontâneos dentro do conforto são preferíveis a imobilizar completamente. Pare qualquer movimento que aumente muito a dor, cause formigamento, fraqueza ou tontura.",
+          "Uma compressa morna pode ajudar no espasmo se a equipe permitiu. Use temperatura confortável, envolta em pano, por pouco tempo e com supervisão contínua; nunca adormeça com bolsa quente nem aplique calor em pele dormente, machucada ou de bebê sem orientação.",
+          "Não faça alongamento passivo, massagem forte ou fisioterapia improvisada. Exercícios só devem ser os demonstrados para esta criança; torcicolo após trauma, infecção recente ou com posição fixa pode precisar de investigação antes de qualquer manipulação.",
+          "Para dormir, use a posição que permita respirar e descansar com conforto, em superfície habitual e segura. Não prenda a cabeça e não improvise colar, faixa, rolo ou travesseiro especial; bebês permanecem nas recomendações de sono seguro.",
+          "Suspenda temporariamente cama elástica, bicicleta, patins, mergulho, ginástica, lutas, esportes de contato e atividades com risco de queda. O retorno deve ocorrer quando estiver sem dor, com movimento normal e conforme a liberação profissional.",
+          "Se foi prescrito colar ou fisioterapia, use somente como orientado e pelo tempo definido. Colares comprados por conta própria podem ajustar mal, pressionar a pele ou mascarar piora."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas o analgésico já orientado para esta criança, na apresentação, quantidade, intervalo e duração escritos. Esta ficha não escolhe medicamento nem calcula dose.",
+          "Não use sobras de relaxante muscular, sedativo, corticoide, antibiótico ou medicamento de adulto. Esses produtos podem causar sonolência, esconder piora ou tratar a causa errada.",
+          "Antibiótico não trata espasmo muscular. Se foi prescrito por uma infecção confirmada ou suspeita, siga a receita e o retorno; não conclua que o torcicolo está seguro só porque começou o antibiótico.",
+          "Se o pescoço entortou ou surgiram contrações depois de um remédio novo, especialmente para enjoo/vômito ou comportamento, procure atendimento urgente e leve a embalagem. Não repita a dose até receber orientação específica.",
+          "Em erro de dose, ingestão acidental, vômito logo após o remédio ou dúvida sobre combinar produtos, não dobre nem repita automaticamente. Confirme com o prescritor, farmacêutico ou toxicologia e leve a embalagem se precisar de atendimento.",
+          "Sonolência excessiva, dificuldade para acordar, respiração anormal, desmaio ou movimentos involuntários de olhos, boca, língua ou corpo após medicamento exigem urgência; não ofereça outra dose para ‘relaxar’."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais conforme a idade e aceitação. O torcicolo muscular isolado não exige dieta especial, suplemento, chá ou jejum.",
+          "Ofereça água e refeições em posição confortável, sem obrigar a girar o pescoço. Para bebês, mantenha leite materno ou fórmula habitual e suporte cabeça e tronco sem forçar a inclinação.",
+          "Dor para engolir, recusa de líquidos, salivação que a criança não consegue engolir, voz abafada, engasgos ou dificuldade para respirar não são cuidados de casa: procure pronto atendimento imediatamente.",
+          "Vômitos repetidos, especialmente com cefaleia, sonolência, desequilíbrio ou piora do torcicolo, exigem reavaliação e não devem ser atribuídos apenas à dor.",
+          "Se um medicamento prescrito tiver instrução de ser tomado com alimento, siga a receita/bula. Não esconda remédios em grande volume de comida ou bebida que a criança possa não terminar sem confirmar a técnica."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Trauma recente, queda, colisão, mergulho, cama elástica, esporte, dor no meio da coluna do pescoço ou criança sustentando a cabeça com as mãos exige avaliação imediata. Mantenha o pescoço na posição encontrada, reduza movimentos e não tente endireitar nem colocar colar rígido por conta própria.",
+          "Febre, aparência muito abatida, rigidez intensa, dor de garganta/ouvido/dente, inchaço no pescoço, salivação excessiva, dificuldade ou dor importante para engolir, voz abafada, ruído ou dificuldade para respirar exigem pronto atendimento agora.",
+          "Procure imediatamente se o torcicolo começou após resfriado/infecção de vias aéreas ou após cirurgia de amígdalas, adenoide, ouvido, nariz ou garganta, sobretudo com dor e limitação fixa: é preciso excluir subluxação atlantoaxial/síndrome de Grisel.",
+          "Cefaleia forte ou progressiva, vômitos repetidos, fotofobia, visão dupla, olhos desalinhados, desequilíbrio, marcha anormal, fraqueza, formigamento, fala alterada, confusão, convulsão ou dificuldade para acordar são sinais neurológicos de urgência.",
+          "Contrações súbitas do pescoço com olhos desviados para cima, mandíbula travada, língua projetada, movimentos involuntários ou dificuldade para falar/respirar após medicamento sugerem reação distônica e exigem atendimento urgente com a embalagem do produto.",
+          "Dor muito forte que não melhora com o plano recebido, piora rápida, posição cada vez mais fixa, incapacidade de caminhar/brincar ou qualquer mudança que preocupe os responsáveis exige reavaliação sem esperar o retorno marcado.",
+          "Ligue 192 se houver dificuldade importante para respirar, lábios arroxeados, desmaio, convulsão, perda de força súbita ou dificuldade para acordar. Siga as orientações do regulador e não dê comida ou bebida se a criança não consegue engolir com segurança."
+        ],
+        "QUANDO REAVALIAR": [
+          "Cumpra o retorno definido na avaliação inicial. Mesmo com alta, o acompanhamento pelo pediatra ou serviço que examinou a criança é aconselhável para confirmar melhora e revisar a causa provável.",
+          "Antecipe para o mesmo dia se não houver melhora clara nas primeiras 24 a 48 horas, se a dor aumentar ou se o movimento diminuir. Duração maior que 24 horas acompanhada de cefaleia ou vômitos exige avaliação diagnóstica, não apenas observação.",
+          "Se o torcicolo não tiver desaparecido em até uma semana, retorne para investigação mesmo que a dor seja suportável. Persistência pode exigir exame neurológico/ocular/otorrinolaringológico e avaliação da coluna; não prolongue automedicação.",
+          "Retorne antes se o quadro reaparecer em episódios, alternar de lado, ocorrer sem dor, começar em lactente ou vier com palidez, vômitos ou desequilíbrio. Isso pode corresponder a outra entidade, como torcicolo paroxístico, e não deve ser rotulado como novo espasmo simples.",
+          "Dor ou torcicolo recorrente após infecção de garganta/ouvido, cirurgia otorrinolaringológica ou trauma leve precisa de avaliação específica para instabilidade/subluxação cervical, mesmo que tenha melhorado entre episódios.",
+          "Crianças com síndrome de Down, doença óssea/metabólica, artrite, câncer, imunossupressão, cirurgia cervical prévia ou risco conhecido de instabilidade atlantoaxial devem seguir retorno mais precoce e individualizado; não iniciar alongamentos sem liberação.",
+          "Se a criança mantém inclinação depois que a dor melhora, apresenta assimetria facial/cabeça, alteração visual ou dificuldade escolar/esportiva por movimento limitado, programe revisão pediátrica e a especialidade indicada em vez de adaptar-se à posição."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Torcicolo novo em recém-nascido ou lactente menor de 3 meses não deve ser presumido espasmo simples. Mesmo após uma avaliação, siga retorno próximo; temperatura de 38,0 °C ou mais, recusa de mamadas, sonolência, choro fraco, dificuldade respiratória ou movimento reduzido exige atendimento imediato. Não faça alongamento, calor ou travesseiro posicionador sem orientação presencial.",
+        "3a5m": "Inclinação pode ser congênita/posicional, ocular, neurológica ou dolorosa. Confirme que o bebê foi examinado, mantenha sono seguro e transporte com apoio de cabeça e tronco. Febre, irritabilidade intensa, recusa alimentar, vômitos, pouco movimento ou início súbito doloroso exigem reavaliação no mesmo dia.",
+        "6a11m": "Observe quedas não presenciadas, capacidade de sentar/engatinhar, uso simétrico dos braços, olhar e alimentação. Não use almofada ou colar improvisado. Torticolo recorrente com vômitos, palidez ou desequilíbrio precisa de avaliação própria para torcicolo paroxístico ou outra causa.",
+        "1a": "A criança pode não descrever dor nem trauma; observe quedas, marcha, olhos, deglutição e uso dos braços. Evite brincadeiras de impacto e não force o pescoço. Febre, salivação, recusa de líquidos, vômitos, sonolência ou piora rápida exige pronto atendimento.",
+        "2a5": "Pergunte por queda, infecção recente, dor de garganta/dente/ouvido e medicamento novo. Ofereça atividades calmas e supervisão. Cefaleia, vômitos, visão alterada, desequilíbrio, salivação ou pescoço fixo são motivos para reavaliação urgente.",
+        "6a11": "Revise esporte, cama elástica, mergulho, mochila, colisões e infecção/cirurgia recente de ouvido, nariz ou garganta. Afaste educação física e esporte até ficar sem dor, com movimento normal e liberação recebida. Cefaleia, vômitos ou sintomas com mais de 24 horas pedem revisão rápida.",
+        "12a17": "Converse diretamente sobre esporte, trauma, mergulho, medicamentos para enjoo ou saúde mental, álcool/drogas e manipulação do pescoço. Garanta privacidade sem retirar o responsável do plano de segurança. Déficit neurológico, distonia medicamentosa, dor intensa ou cefaleia/vômitos exigem urgência.",
+        "unknown": "Antes de personalizar, confirme idade, início e duração, avaliação que liberou para casa, trauma, febre/infecção, cirurgia de ouvido-nariz-garganta, deglutição/respiração, cefaleia/vômitos, visão/equilíbrio/força, medicamentos e condições de instabilidade cervical. Sem esses dados, não presumir espasmo simples nem recomendar manipulação."
+      },
+      "refs": [
+        {
+          "id": "pais150_op289_1",
+          "name": "Clinical Practice Guidelines: Acquired torticollis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acquired_Torticollis/"
+        },
+        {
+          "id": "pais150_op289_2",
+          "name": "Emergency Department Guideline: Torticollis",
+          "url": "https://www.pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines/Torticollis"
+        },
+        {
+          "id": "pais150_op289_3",
+          "name": "Clinical Practice Guidelines: Cervical spine assessment",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cervical_Spine_Assessment/"
+        },
+        {
+          "id": "pais150_op289_4",
+          "name": "Orthopaedics: Torticollis",
+          "url": "https://www.rch.org.au/ortho/for_health_professionals/Torticollis/"
+        },
+        {
+          "id": "pais150_op289_5",
+          "name": "Pediatric torticollis: clinical report and predictors of urgency of 1409 cases",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38659045/"
+        },
+        {
+          "id": "pais150_op289_6",
+          "name": "Predictors of clinically significant underlying etiologies in children presenting with torticollis",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41821840/"
+        },
+        {
+          "id": "pais150_op289_7",
+          "name": "Fever in under 5s: assessment and initial management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/NG143/chapter/recommendations"
+        },
+        {
+          "id": "pais150_op289_8",
+          "name": "SAMU 192 — Serviço de Atendimento Móvel de Urgência",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T17:20:32.712Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_d4ac25c5c3703e85",
+      "label": "Artrite Séptica Pediátrica — registro no PPS",
+      "entity": "Artrite séptica pediátrica",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Infecção articular, distinta de artrite reativa/AIJ e de osteomielite, embora possa coexistir com infecção óssea.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Artrite séptica é uma infecção dentro de uma articulação. Precisa de avaliação hospitalar urgente para proteger a articulação e tratar a infecção. Na suspeita ou no diagnóstico atual, procure atendimento agora; não espere febre aparecer.",
+          "Cuidados domiciliares só se aplicam depois de a equipe tratar e autorizar a alta. Dor nova com dificuldade de usar um braço ou perna não deve ser atribuída automaticamente a uma queda, artrite inflamatória ou sinovite transitória."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Enquanto busca atendimento, mantenha o membro confortável. Não force a criança a andar, alongar ou movimentar uma articulação dolorida para testar se está melhor.",
+          "Após alta, siga as orientações de curativo, tala e apoio do peso. A equipe ou fisioterapia orientará quando recuperar movimentos e atividades; não comece exercícios intensos por conta própria."
+        ],
+        "MEDICAMENTOS": [
+          "Nos casos bacterianos, antibióticos fazem parte do tratamento. Pode ser necessário retirar material infectado da articulação por um procedimento. A equipe decide conforme avaliação e exames; não substitua o atendimento por remédio que sobrou em casa.",
+          "Após alta, dê o antibiótico conforme a receita até o término orientado, mesmo que a criança pareça melhor. Não mude a duração usando o prazo de outra pessoa encontrado na internet. Informe no mesmo dia se há dificuldade para obter, tomar ou manter as doses por vômitos."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se estiver indo ao hospital, informe a última alimentação e peça orientação sobre eventual jejum para procedimentos. Não atrase o atendimento nem mantenha jejum prolongado em casa sem plano assistencial.",
+          "Após alta, siga a alimentação liberada. Observe se bebe, mama e urina como de costume; incapacidade de beber ou redução importante da urina precisa avaliação. Não há alimento que substitua o tratamento da infecção."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor importante numa articulação, inchaço ou dificuldade para usar o membro exigem avaliação imediata quando há suspeita de infecção. A ausência de febre, especialmente em bebês, não exclui o problema.",
+          "Depois de iniciar tratamento, volte com febre nova, dor ou inchaço aumentando, piora para andar ou mexer o membro, prostração ou dificuldade para beber. Não espere terminar o antibiótico para relatar piora.",
+          "Com dificuldade para respirar ou acordar, desmaio ou confusão, acione 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Saia do hospital com retorno e contato da equipe definidos. Mantenha o acompanhamento mesmo com melhora, até a equipe confirmar controle da infecção e recuperação da função. Exames adicionais e duração do seguimento dependem da evolução.",
+          "Avise a equipe se persistir limitação dos movimentos ou mancar. Crianças com complicações, infecção no osso próximo ou maior risco podem precisar de acompanhamento prolongado; não encerre o seguimento por conta própria."
+        ]
+      },
+      "ageMap": {
+        "u3m": "No bebê pequeno, irritação ao trocar fraldas ou pegá-lo no colo, recusa de mamadas e menor movimento de um membro podem ser sinais. Procure atendimento imediatamente, mesmo sem febre.",
+        "3a5m": "Observe redução dos movimentos espontâneos e choro ao manusear. Não espere conseguir localizar a dor; a avaliação precisa ser urgente.",
+        "6a11m": "Parar de engatinhar ou usar um braço/perna, ou chorar ao trocar fraldas, merece avaliação. Não force movimentação.",
+        "1a": "Recusa repentina de ficar em pé ou andar, com dor ou inchaço, precisa avaliação urgente. Uma queda pequena não explica necessariamente a piora.",
+        "2a5": "A criança pode apontar mal o local da dor. Não espere febre ou vermelhidão para buscar avaliação se deixa de apoiar o membro.",
+        "6a11": "Ajude a relatar dor e dificuldade para movimentar; retorno à escola e esporte deve seguir a recuperação orientada.",
+        "12a17": "Combine como tomar os medicamentos e comparecer aos retornos. Permita conversa reservada com a equipe quando necessário; não use melhora parcial para voltar ao esporte.",
+        "unknown": "Confirme a idade e se é quadro atual ou recuperação após alta. Suspeita atual de infecção articular precisa de atendimento urgente."
+      },
+      "refs": [
+        {
+          "id": "pais182_op552_1",
+          "name": "Septic arthritis",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Septic_arthritis/"
+        },
+        {
+          "id": "pais182_op552_2",
+          "name": "Bone and joint infection",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Bone_and_joint_infection/"
+        },
+        {
+          "id": "pais182_op552_3",
+          "name": "Septic arthritis",
+          "url": "https://www.nhs.uk/conditions/septic-arthritis/"
+        },
+        {
+          "id": "pais182_op552_4",
+          "name": "PIDS/IDSA2023 Acute Bacterial Arthritis in Pediatrics",
+          "url": "https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

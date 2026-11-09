@@ -1,0 +1,79 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:51:27.103Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_42ada680a5d28a87",
+      "label": "Artrite idiopática juvenil — registro no PPS",
+      "entity": "Artrite idiopática juvenil",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Grupo reconhecido; ficha geral não determina subtipo nem tratamento individual.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Artrite idiopática juvenil (AIJ) reúne formas de inflamação persistente das articulações. O diagnóstico e o subtipo dependem da avaliação especializada e da exclusão de outras causas. Não é culpa da criança nem resultado de ter passado frio.",
+          "Observe rigidez ao acordar, inchaço, dor, cansaço e dificuldade para usar mãos ou andar. Leve essas mudanças ao reumatologista; melhora da dor não significa necessariamente que toda a inflamação acabou."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha movimentos e exercícios orientados pela fisioterapia e equipe, ajustados à atividade da doença. Não force uma articulação dolorosa nem deixe a criança imobilizada por longos períodos sem indicação.",
+          "Combine com a escola pausas, tempo para deslocamento e adaptações para escrever ou participar das atividades. A meta é manter participação com segurança, sem exigir esforço doloroso."
+        ],
+        "MEDICAMENTOS": [
+          "Siga a receita individual e os exames de acompanhamento. Não aumente anti-inflamatórios, suspenda corticoides ou modifique imunossupressores por conta própria, mesmo quando a criança melhora.",
+          "Avise a equipe sobre febre, sinais de infecção, efeitos indesejados ou dificuldade para tomar o tratamento. Antes de novas vacinas ou medicamentos, confira as orientações com quem acompanha a AIJ; esta ficha não escolhe tratamento ou doses."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e adequada à idade. Não há dieta que substitua o controle da inflamação; evitar alimentos sem indicação pode prejudicar crescimento e nutrição.",
+          "Necessidades de suplementos ou ajustes por efeitos de medicamentos dependem da avaliação individual. Mantenha a hidratação habitual, respeitando qualquer restrição específica já orientada."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Articulação subitamente muito dolorosa, quente ou inchada, principalmente com febre, ou incapacidade nova de apoiar a perna precisa atendimento imediato. Infecção articular é uma emergência e não deve ser assumida como crise habitual de AIJ.",
+          "Olho vermelho com dor, incômodo importante com luz ou mudança da visão precisa avaliação oftalmológica urgente. Perda súbita da visão é emergência.",
+          "Febre com prostração importante, falta de ar, confusão ou dificuldade para acordar exige pronto atendimento; acione 192 se houver instabilidade."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha reumatologia e exames conforme o plano. Antecipe contato se houver novas articulações inchadas, rigidez crescente, perda de função ou piora persistente.",
+          "Mantenha também os exames com oftalmologista nos intervalos definidos para o subtipo e risco individual. A uveíte pode não causar dor ou vermelhidão e só ser encontrada no exame; não espere sintomas nos olhos para comparecer.",
+          "A frequência do acompanhamento pode mudar com a evolução e o tratamento. Confirme retorno e contato da equipe, inclusive quando a artrite parece controlada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Dor, febre, inchaço ou redução de movimento no bebê exigem avaliação pediátrica urgente. Não atribua esses sinais automaticamente à AIJ pelo cadastro.",
+        "3a5m": "Observe recusa de mover um membro ou dor durante os cuidados. O diagnóstico nessa idade exige avaliação própria; não inicie exercícios forçados.",
+        "6a11m": "Redução de movimentos ou recusa de apoiar precisa exame; não espere começar a andar para avaliar dor e inchaço.",
+        "1a": "Mancar, deixar de andar ou evitar usar uma mão pode ser a forma de mostrar dor. Incapacidade aguda de apoiar exige urgência.",
+        "2a5": "A criança pode ter rigidez ou mudar as brincadeiras sem dizer que dói. Observe função e mantenha os exames dos olhos mesmo sem queixa.",
+        "6a11": "Combine adaptações escolares e exercícios com a equipe, respeitando fadiga e dor, sem excluir automaticamente das atividades.",
+        "12a17": "Inclua o adolescente no planejamento das consultas e do tratamento; combine progressivamente responsabilidades e transição do acompanhamento.",
+        "unknown": "Confirme idade, subtipo, articulações afetadas e tratamento atual. Não use orientações de outro subtipo ou outra criança como receita."
+      },
+      "refs": [
+        {
+          "id": "pais177_op546_1",
+          "name": "Juvenile Idiopathic Arthritis: For parents",
+          "url": "https://www.rch.org.au/rheumatology/information_about_rheumatological_conditions/For_Parents/"
+        },
+        {
+          "id": "pais177_op546_2",
+          "name": "Juvenile Idiopathic Arthritis (JIA) (Parents)",
+          "url": "https://www.leedsth.nhs.uk/patients/resources/juvenile-idiopathic-arthritis-jia-parents/"
+        },
+        {
+          "id": "pais177_op546_3",
+          "name": "Juvenile Idiopathic Arthritis",
+          "url": "https://www.printo.it/pediatric-rheumatology/GB/info/2/Juvenile-Idiopathic-Arthritis"
+        },
+        {
+          "id": "pais177_op546_4",
+          "name": "The acutely swollen joint",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_acutely_swollen_joint/"
+        },
+        {
+          "id": "pais177_op546_5",
+          "name": "Vision loss",
+          "url": "https://www.nhs.uk/conditions/vision-loss/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

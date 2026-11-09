@@ -1,0 +1,571 @@
+{
+  "schema": "parents-directed-urology/1",
+  "checked_at": "2026-10-24T07:29:54.066130+00:00",
+  "baseline_commit": "60339f9146f01b14deb9bfdf4cd2e0f4e708f394",
+  "sources": {
+    "uro24_penis": {
+      "name": "RCH — The penis and foreskin",
+      "title": "RCH — The penis and foreskin",
+      "organization": "RCH",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/the_penis_and_foreskin/",
+      "version_or_date": "Página clínica vigente consultada em 24/10/2026",
+      "location": "Balanitis; Phimosis; Paraphimosis",
+      "claims": [
+        "Não retração forçada; inflamação não é sempre infecção; retenção e parafimose são urgentes."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_care": {
+      "name": "RCH — Penis and foreskin care",
+      "title": "RCH — Penis and foreskin care",
+      "organization": "RCH",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Penis_and_foreskin_care/",
+      "version_or_date": "Página para famílias vigente consultada em 24/10/2026",
+      "location": "Care; Redness and irritation; When to get help",
+      "claims": [
+        "Higiene externa, evitar irritantes, trocar fraldas e repor o prepúcio quando retrátil."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_phimosis": {
+      "name": "NHS — Tight foreskin (phimosis)",
+      "title": "NHS — Tight foreskin (phimosis)",
+      "organization": "NHS",
+      "url": "https://www.nhs.uk/conditions/phimosis/",
+      "version_or_date": "Revisão 06/03/2026",
+      "location": "Symptoms; Treatments; Complications",
+      "claims": [
+        "Não retratilidade fisiológica, sintomas que exigem avaliação, tratamento prescrito e emergência por parafimose."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_hydro": {
+      "name": "Cincinnati Children’s — Hydrocele and Hernia",
+      "title": "Cincinnati Children’s — Hydrocele and Hernia",
+      "organization": "Cincinnati Children’s",
+      "url": "https://www.cincinnatichildrens.org/health/h/hydrocele",
+      "version_or_date": "Data editorial não informada no trecho consultado",
+      "location": "What are; Symptoms; Treatment",
+      "claims": [
+        "Diferenciar hidrocele simples e comunicante; sinais de hérnia encarcerada; avaliação cirúrgica."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_scrotal": {
+      "name": "RCH — Acute scrotal pain or swelling",
+      "title": "RCH — Acute scrotal pain or swelling",
+      "organization": "RCH",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_Scrotal_Pain_or_Swelling/",
+      "version_or_date": "Atualização janeiro/2026",
+      "location": "Key points; Management; Treatment",
+      "claims": [
+        "Dor escrotal aguda e suspeita de torção exigem avaliação cirúrgica sem atraso; seguimento da hidrocele."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_uti": {
+      "name": "RCH — Urinary tract infection",
+      "title": "RCH — Urinary tract infection",
+      "organization": "RCH",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urinary_tract_infection/",
+      "version_or_date": "Página clínica vigente consultada em 24/10/2026",
+      "location": "Key points; Severity; Investigation; Treatment",
+      "claims": [
+        "ITU em menores de 3 meses e sepse requerem atendimento hospitalar; conferir cultura em 24–48 h; reavaliar falha em 48 h."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_niddk": {
+      "name": "NIDDK — Treatment for Bladder Infection in Children",
+      "title": "NIDDK — Treatment for Bladder Infection in Children",
+      "organization": "NIDDK",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-infections-in-children/treatment",
+      "version_or_date": "Revisão fevereiro/2025",
+      "location": "Medicines; Self-care; Prevention",
+      "claims": [
+        "Completar esquema prescrito, hidratação adequada, não reter urina, abordar constipação e restrições individuais."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_symptoms": {
+      "name": "NIDDK — Symptoms and Causes of Bladder Infection in Children",
+      "title": "NIDDK — Symptoms and Causes of Bladder Infection in Children",
+      "organization": "NIDDK",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-infections-in-children/symptoms-causes",
+      "version_or_date": "Revisão fevereiro/2025",
+      "location": "Symptoms; When should I seek help",
+      "claims": [
+        "Sinais inespecíficos nos pequenos; febre, vômitos e dor lombar podem indicar infecção renal."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    },
+    "uro24_aap": {
+      "name": "American Academy of Pediatrics — Urinary Tract Infections in Children",
+      "title": "American Academy of Pediatrics — Urinary Tract Infections in Children",
+      "organization": "American Academy of Pediatrics",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/genitourinary-tract/Pages/Detecting-Urinary-Tract-Infections.aspx",
+      "version_or_date": "Atualização 28/09/2026",
+      "location": "Types; Treatment; Imaging; Specialist",
+      "claims": [
+        "Distinção de cistite e pielonefrite; antibiótico conforme cultura; seguimento e investigação individualizados."
+      ],
+      "population": "Crianças e adolescentes; limites por faixa etária explicitados",
+      "accessed_at": "2026-10-24T07:29:54.066130+00:00"
+    }
+  },
+  "families": {
+    "balanitis": {
+      "entity": "Balanite / balanopostite",
+      "home": [
+        "É inflamação da cabeça do pênis e, na balanopostite, também da pele que a recobre. Pode decorrer de irritação, fungos ou bactérias; o aspecto sozinho não define a causa."
+      ],
+      "care": [
+        "Lave delicadamente com água morna e seque sem esfregar. Evite sabonete perfumado, talco e antissépticos no local.",
+        "Não puxe a pele durante a inflamação nem tente descolar o prepúcio. Troque prontamente fraldas molhadas ou sujas; banho morno pode aliviar o desconforto."
+      ],
+      "meds": [
+        "Aplique somente o tratamento indicado para a causa identificada. Antibiótico ou antifúngico não é necessário em toda vermelhidão; não use pomadas combinadas ou corticoide por conta própria."
+      ],
+      "alarm": [
+        "Incapacidade de urinar, ponta do pênis azulada/escura ou pele presa atrás da glande: vá imediatamente à emergência.",
+        "Febre com pênis muito vermelho/inchado, vermelhidão que se espalha ou dor em piora exige avaliação sem demora."
+      ],
+      "follow": [
+        "Procure reavaliação se a irritação não estiver melhorando com os cuidados orientados ou se voltar repetidamente. Pus ou dor ao urinar requer avaliação médica.",
+        "Se foi prescrito tratamento, cumpra o prazo de revisão combinado. Persistência pode exigir investigação de dermatite ou outras causas."
+      ],
+      "refs": [
+        "uro24_penis",
+        "uro24_care"
+      ],
+      "urinary": false,
+      "urgent": false
+    },
+    "phimosis": {
+      "entity": "Fimose — diferenciação fisiológica e cicatricial",
+      "home": [
+        "Fimose significa dificuldade para expor a cabeça do pênis. Em crianças, a pele ainda não retrátil pode ser normal; cicatriz, dor ou perda de uma abertura que antes existia precisam de avaliação."
+      ],
+      "care": [
+        "Faça higiene externa suave. Não force a abertura, não faça massagens dolorosas nem introduza cotonetes sob a pele.",
+        "Quando a pele já desliza livremente, a criança pode limpar com delicadeza e deve recolocá-la cobrindo a glande imediatamente."
+      ],
+      "meds": [
+        "Se a equipe prescreveu creme, use apenas na área, frequência e duração ensinadas. Não prolongue corticoide nem troque a pomada por conta própria."
+      ],
+      "alarm": [
+        "Não conseguir urinar ou ficar com a pele presa atrás da glande, principalmente com inchaço/dor ou cor escura, exige emergência imediata."
+      ],
+      "follow": [
+        "Marque avaliação se há cicatriz, jato urinário fraco, infecções repetidas ou dor. A necessidade de tratamento ou cirurgia depende do exame.",
+        "Se não houver resposta ao tratamento prescrito, volte ao profissional para rever a técnica e o diagnóstico; não force a abertura."
+      ],
+      "refs": [
+        "uro24_phimosis",
+        "uro24_care",
+        "uro24_penis"
+      ],
+      "urinary": false,
+      "urgent": false
+    },
+    "physiologic": {
+      "entity": "Prepúcio não retrátil fisiológico",
+      "home": [
+        "A pele do pênis ainda não abrir, sem cicatriz, dor ou dificuldade para urinar, pode fazer parte do desenvolvimento normal. A separação ocorre aos poucos e varia entre crianças."
+      ],
+      "care": [
+        "Lave por fora e enxágue bem. Não puxe, não descole e não faça exercícios para abrir à força.",
+        "Pequenos acúmulos brancos sob a pele podem ser secreção normal; não esprema nem tente removê-los. Depois que a pele se tornar livremente retrátil, recubra sempre a glande após a higiene."
+      ],
+      "meds": [
+        "A não retratilidade fisiológica sem sintomas geralmente não precisa de medicamento nem cirurgia. Use tratamento somente se houver indicação individual."
+      ],
+      "alarm": [
+        "Pele presa atrás da glande ou incapacidade de urinar exige emergência imediata. Febre com inchaço e vermelhidão importante também precisa de avaliação urgente."
+      ],
+      "follow": [
+        "Acompanhe nas consultas habituais. Procure avaliação antes se houver cicatriz, dor, infecções repetidas ou se uma pele antes retrátil deixar de abrir.",
+        "No final da puberdade, persistência de abertura muito estreita merece avaliação específica; não presuma apenas atraso fisiológico."
+      ],
+      "refs": [
+        "uro24_penis",
+        "uro24_phimosis",
+        "uro24_care"
+      ],
+      "urinary": false,
+      "urgent": false
+    },
+    "hydrocele": {
+      "entity": "Hidrocele",
+      "home": [
+        "Hidrocele é acúmulo de líquido ao redor do testículo. Em geral causa aumento macio e pouco doloroso da bolsa; dor súbita não deve ser atribuída automaticamente à hidrocele."
+      ],
+      "care": [
+        "Observe mudanças de tamanho, dor e cor e informe ao pediatra. Não aperte, não tente esvaziar, furar ou empurrar a bolsa.",
+        "Mantenha higiene e roupa confortável. Se aparecer abaulamento na virilha, avise a equipe para avaliar possível hérnia."
+      ],
+      "meds": [
+        "Não dê diurético, antibiótico ou pomada para fazer o líquido desaparecer. O cuidado depende do tipo de hidrocele e da avaliação cirúrgica quando indicada."
+      ],
+      "alarm": [
+        "Dor súbita, bolsa vermelha/escura, inchaço doloroso que aumenta rapidamente, vômitos ou criança muito abatida exigem emergência. Não espere ultrassom marcado: torção ou hérnia presa precisam ser descartadas."
+      ],
+      "follow": [
+        "A hidrocele simples do bebê pode diminuir espontaneamente durante os primeiros anos. Acompanhe o tamanho nas consultas; persistência aos dois anos requer avaliação cirúrgica.",
+        "Hidrocele nova em criança maior, crescimento ou sintomas merecem avaliação própria, sem aguardar resolução como se fosse a forma simples do recém-nascido."
+      ],
+      "refs": [
+        "uro24_hydro",
+        "uro24_scrotal"
+      ],
+      "urinary": false,
+      "urgent": false
+    },
+    "uti": {
+      "entity": "Infecção do trato urinário",
+      "home": [
+        "É uma infecção da via por onde a urina passa, geralmente por bactérias. Pode atingir a bexiga ou os rins. Em bebês, pode aparecer apenas como febre, vômitos, irritação ou dificuldade para mamar.",
+        "Anote febre, ingestão, vômitos e quantidade de urina. O tratamento em casa só se aplica se essa conduta foi definida pela equipe."
+      ],
+      "care": [
+        "Facilite idas regulares ao banheiro, sem segurar a urina. Ajude na higiene conforme a idade e troque fraldas sujas.",
+        "Avise sobre intestino preso, infecções anteriores e alterações dos rins. Colete a urina conforme a técnica ensinada; se já iniciou antibiótico, informe o nome e o horário à equipe."
+      ],
+      "meds": [
+        "Dê o antibiótico exatamente conforme a receita e complete o período prescrito, mesmo com melhora. A cultura pode levar a uma troca feita pela equipe.",
+        "Não use sobras, não suspenda por melhora e não substitua o tratamento por chás ou sucos. Se não consegue administrar ou a criança vomita as doses, procure orientação no mesmo dia."
+      ],
+      "alarm": [
+        "Piora do estado geral, dificuldade para acordar, falta de ar, vômitos repetidos, incapacidade de beber/mamar ou urina muito reduzida exigem atendimento imediato.",
+        "Febre com calafrios, dor nas costas ou na lateral da barriga pode indicar infecção nos rins e precisa de reavaliação sem demora."
+      ],
+      "follow": [
+        "Combine a conferência da cultura em 24–48 horas. Se não houver melhora em até 48 horas do início do antibiótico, ou se piorar antes, procure reavaliação.",
+        "Ultrassom e seguimento dependem da idade, recorrência e evolução. Leve resultados às consultas; novos sintomas após melhora exigem avaliação de possível reinfecção."
+      ],
+      "refs": [
+        "uro24_uti",
+        "uro24_niddk",
+        "uro24_symptoms",
+        "uro24_aap"
+      ],
+      "urinary": true,
+      "urgent": false
+    },
+    "cystitis": {
+      "entity": "Cistite / infecção urinária baixa",
+      "home": [
+        "Cistite é infecção da bexiga. Pode causar ardor, urgência, idas frequentes ao banheiro e dor na parte baixa da barriga. Febre alta, vômitos ou dor lombar exigem rever se os rins também foram atingidos.",
+        "A ausência de febre, principalmente no bebê pequeno, não garante infecção leve. Siga a avaliação e o plano individual."
+      ],
+      "care": [
+        "Facilite idas regulares ao banheiro, sem segurar a urina. Ajude na higiene conforme a idade e troque fraldas sujas.",
+        "Avise sobre intestino preso, infecções anteriores e alterações dos rins. Colete a urina conforme a técnica ensinada; se já iniciou antibiótico, informe o nome e o horário à equipe."
+      ],
+      "meds": [
+        "Dê o antibiótico exatamente conforme a receita e complete o período prescrito, mesmo com melhora. A cultura pode levar a uma troca feita pela equipe.",
+        "Não use sobras, não suspenda por melhora e não substitua o tratamento por chás ou sucos. Se não consegue administrar ou a criança vomita as doses, procure orientação no mesmo dia."
+      ],
+      "alarm": [
+        "Piora do estado geral, dificuldade para acordar, falta de ar, vômitos repetidos, incapacidade de beber/mamar ou urina muito reduzida exigem atendimento imediato.",
+        "Febre com calafrios, dor nas costas ou na lateral da barriga pode indicar infecção nos rins e precisa de reavaliação sem demora."
+      ],
+      "follow": [
+        "Combine a conferência da cultura em 24–48 horas. Se não houver melhora em até 48 horas do início do antibiótico, ou se piorar antes, procure reavaliação.",
+        "Ultrassom e seguimento dependem da idade, recorrência e evolução. Leve resultados às consultas; novos sintomas após melhora exigem avaliação de possível reinfecção."
+      ],
+      "refs": [
+        "uro24_uti",
+        "uro24_niddk",
+        "uro24_symptoms",
+        "uro24_aap"
+      ],
+      "urinary": true,
+      "urgent": false
+    },
+    "pyelo": {
+      "entity": "Pielonefrite / infecção urinária alta",
+      "home": [
+        "É uma infecção dos rins, que pode causar febre, calafrios, vômitos e dor nas costas ou na barriga. Em bebês, os sinais podem ser pouco específicos. Precisa de antibiótico e acompanhamento.",
+        "O tratamento em casa depende de avaliação médica, bom estado geral e capacidade de manter líquidos e medicamento. Criança muito doente ou bebê pequeno pode precisar de internação."
+      ],
+      "care": [
+        "Facilite idas regulares ao banheiro, sem segurar a urina. Ajude na higiene conforme a idade e troque fraldas sujas.",
+        "Avise sobre intestino preso, infecções anteriores e alterações dos rins. Colete a urina conforme a técnica ensinada; se já iniciou antibiótico, informe o nome e o horário à equipe."
+      ],
+      "meds": [
+        "Dê o antibiótico exatamente conforme a receita e complete o período prescrito, mesmo com melhora. A cultura pode levar a uma troca feita pela equipe.",
+        "Não use sobras, não suspenda por melhora e não substitua o tratamento por chás ou sucos. Se não consegue administrar ou a criança vomita as doses, procure orientação no mesmo dia."
+      ],
+      "alarm": [
+        "Piora do estado geral, dificuldade para acordar, falta de ar, vômitos repetidos, incapacidade de beber/mamar ou urina muito reduzida exigem atendimento imediato.",
+        "Febre com calafrios, dor nas costas ou na lateral da barriga pode indicar infecção nos rins e precisa de reavaliação sem demora."
+      ],
+      "follow": [
+        "Combine a conferência da cultura em 24–48 horas. Se não houver melhora em até 48 horas do início do antibiótico, ou se piorar antes, procure reavaliação.",
+        "Ultrassom e seguimento dependem da idade, recorrência e evolução. Leve resultados às consultas; novos sintomas após melhora exigem avaliação de possível reinfecção."
+      ],
+      "refs": [
+        "uro24_uti",
+        "uro24_niddk",
+        "uro24_symptoms",
+        "uro24_aap"
+      ],
+      "urinary": true,
+      "urgent": false
+    },
+    "complicated": {
+      "entity": "Infecção urinária complicada",
+      "home": [
+        "Uma infecção urinária complicada pode envolver obstrução, alteração dos rins, falha de tratamento ou comprometimento importante do organismo. Precisa de plano individual e avaliação urgente; esta ficha não autoriza cuidados apenas em casa."
+      ],
+      "care": [
+        "Facilite idas regulares ao banheiro, sem segurar a urina. Ajude na higiene conforme a idade e troque fraldas sujas.",
+        "Avise sobre intestino preso, infecções anteriores e alterações dos rins. Colete a urina conforme a técnica ensinada; se já iniciou antibiótico, informe o nome e o horário à equipe."
+      ],
+      "meds": [
+        "Dê o antibiótico exatamente conforme a receita e complete o período prescrito, mesmo com melhora. A cultura pode levar a uma troca feita pela equipe.",
+        "Não use sobras, não suspenda por melhora e não substitua o tratamento por chás ou sucos. Se não consegue administrar ou a criança vomita as doses, procure orientação no mesmo dia."
+      ],
+      "alarm": [
+        "Piora do estado geral, dificuldade para acordar, falta de ar, vômitos repetidos, incapacidade de beber/mamar ou urina muito reduzida exigem atendimento imediato.",
+        "Febre com calafrios, dor nas costas ou na lateral da barriga pode indicar infecção nos rins e precisa de reavaliação sem demora."
+      ],
+      "follow": [
+        "Se a condição é atual e ainda não existe plano definido, procure avaliação hospitalar agora. Na internação, avise imediatamente sobre menos urina, dor, vômitos ou mudança da disposição.",
+        "Após estabilização e alta, cumpra o plano de cultura, antibiótico, exames e retorno. A equipe define o prazo conforme a complicação encontrada."
+      ],
+      "refs": [
+        "uro24_uti",
+        "uro24_niddk",
+        "uro24_symptoms",
+        "uro24_aap"
+      ],
+      "urinary": true,
+      "urgent": true
+    },
+    "urosepsis": {
+      "entity": "Pielonefrite com sepse",
+      "home": [
+        "Pielonefrite com sepse é infecção dos rins com comprometimento grave do organismo. É uma emergência hospitalar. Não espere melhora em casa nem a próxima dose do antibiótico."
+      ],
+      "care": [
+        "Procure emergência imediatamente. Se houver desmaio, dificuldade para acordar ou respirar, acione o SAMU 192. Leve receitas, resultados de cultura e informe alergias e medicamentos já usados.",
+        "Se a criança já está internada, comunique imediatamente à equipe qualquer piora da respiração, cor, disposição ou quantidade de urina."
+      ],
+      "meds": [
+        "O tratamento é hospitalar e pode incluir antibiótico na veia e suporte à circulação e aos órgãos. Não tente reproduzir esse tratamento em casa nem use sobras de receita."
+      ],
+      "alarm": [
+        "Piora do estado geral, dificuldade para acordar, falta de ar, vômitos repetidos, incapacidade de beber/mamar ou urina muito reduzida exigem atendimento imediato.",
+        "Febre com calafrios, dor nas costas ou na lateral da barriga pode indicar infecção nos rins e precisa de reavaliação sem demora."
+      ],
+      "follow": [
+        "O acompanhamento é hospitalar até estabilização. Antes da alta, confirme antibiótico, resultados pendentes, exames dos rins e data do retorno; não interrompa o acompanhamento porque a febre cedeu."
+      ],
+      "refs": [
+        "uro24_uti",
+        "uro24_niddk",
+        "uro24_symptoms",
+        "uro24_aap"
+      ],
+      "urinary": true,
+      "urgent": true
+    },
+    "acute_scrotum": {
+      "entity": "Dor escrotal aguda — excluir torção testicular",
+      "home": [
+        "Dor ou inchaço recente no testículo pode ser inflamação, mas é necessário excluir torção testicular, que interrompe a circulação e pode causar perda do testículo. Não é possível diferenciar com segurança em casa."
+      ],
+      "care": [
+        "Procure pronto atendimento com avaliação cirúrgica imediatamente. Não massageie nem tente destorcer o testículo.",
+        "Não espere exame agendado ou a dor passar. Mesmo se já tiverem passado muitas horas, a avaliação continua urgente."
+      ],
+      "meds": [
+        "Medicamento para dor não substitui a avaliação. Antibiótico só trata as causas bacterianas identificadas pela equipe; não trata torção."
+      ],
+      "alarm": [
+        "Dor súbita, náuseas/vômitos, testículo mais alto ou bolsa vermelha/escura exigem atendimento imediato. Em recém-nascido, a alteração pode ser pouco dolorosa."
+      ],
+      "follow": [
+        "Somente após excluir torção e hérnia presa a equipe definirá repouso, tratamento e retorno para a causa confirmada. Piora ou nova dor exige retorno imediato."
+      ],
+      "refs": [
+        "uro24_scrotal"
+      ],
+      "urinary": false,
+      "urgent": true
+    },
+    "afebrile": {
+      "entity": "Infecção urinária afebril — localização conforme avaliação",
+      "home": [
+        "Afebril significa que não há febre no momento. Isso não define sozinho se a infecção está na bexiga ou nos rins, nem garante um quadro leve, principalmente em bebês.",
+        "Observe ardor, frequência urinária, dor, ingestão e disposição. Siga o diagnóstico e o tratamento definidos na consulta."
+      ],
+      "care": [
+        "Facilite idas regulares ao banheiro, sem segurar a urina. Ajude na higiene conforme a idade e troque fraldas sujas.",
+        "Avise sobre intestino preso, infecções anteriores e alterações dos rins. Colete a urina conforme a técnica ensinada; se já iniciou antibiótico, informe o nome e o horário à equipe."
+      ],
+      "meds": [
+        "Dê o antibiótico exatamente conforme a receita e complete o período prescrito, mesmo com melhora. A cultura pode levar a uma troca feita pela equipe.",
+        "Não use sobras, não suspenda por melhora e não substitua o tratamento por chás ou sucos. Se não consegue administrar ou a criança vomita as doses, procure orientação no mesmo dia."
+      ],
+      "alarm": [
+        "Piora do estado geral, dificuldade para acordar, falta de ar, vômitos repetidos, incapacidade de beber/mamar ou urina muito reduzida exigem atendimento imediato.",
+        "Febre com calafrios, dor nas costas ou na lateral da barriga pode indicar infecção nos rins e precisa de reavaliação sem demora."
+      ],
+      "follow": [
+        "Combine a conferência da cultura em 24–48 horas. Se não houver melhora em até 48 horas do início do antibiótico, ou se piorar antes, procure reavaliação.",
+        "Ultrassom e seguimento dependem da idade, recorrência e evolução. Leve resultados às consultas; novos sintomas após melhora exigem avaliação de possível reinfecção."
+      ],
+      "refs": [
+        "uro24_uti",
+        "uro24_niddk",
+        "uro24_symptoms",
+        "uro24_aap"
+      ],
+      "urinary": true,
+      "urgent": false
+    }
+  },
+  "records": [
+    {
+      "key": "pps_catalog_82baf6ac8ae720e3",
+      "label": "Balanite e balanopostite — registro no PPS",
+      "family": "balanitis"
+    },
+    {
+      "key": "pps_catalog_42c851466e6f0bcd",
+      "label": "Balanopostite — registro no PPS",
+      "family": "balanitis"
+    },
+    {
+      "key": "pps_catalog_861c02b974135348",
+      "label": "Balanopostite Aguda Pediátrica — registro no PPS",
+      "family": "balanitis"
+    },
+    {
+      "key": "pdf1500_671",
+      "label": "Fimose",
+      "family": "phimosis"
+    },
+    {
+      "key": "pps_catalog_72218404097154fd",
+      "label": "Fimose — registro no PPS",
+      "family": "phimosis"
+    },
+    {
+      "key": "pdf1500_676",
+      "label": "Fimose fisiológica",
+      "family": "physiologic"
+    },
+    {
+      "key": "pps_catalog_6460c576bb25ca54",
+      "label": "Hidrocele congênita — registro no PPS",
+      "family": "hydrocele"
+    },
+    {
+      "key": "pdf1500_755",
+      "label": "Hidrocele comunicante",
+      "family": "hydrocele"
+    },
+    {
+      "key": "pdf1500_763",
+      "label": "Hidrocele não comunicante",
+      "family": "hydrocele"
+    },
+    {
+      "key": "pdf1500_754",
+      "label": "Hidrocele bilateral",
+      "family": "hydrocele"
+    },
+    {
+      "key": "pdf1500_767",
+      "label": "Hidrocele unilateral",
+      "family": "hydrocele"
+    },
+    {
+      "key": "pps_catalog_f6f73e734b144c8a",
+      "label": "Infecção do trato urinário — registro no PPS",
+      "family": "uti"
+    },
+    {
+      "key": "pps_catalog_05b65d6676bb527a",
+      "label": "Infecção urinária na criança — registro no PPS",
+      "family": "uti"
+    },
+    {
+      "key": "pps_catalog_61ae7409b43dd8b8",
+      "label": "Infecção urinária afebril — registro no PPS",
+      "family": "afebrile"
+    },
+    {
+      "key": "pps_catalog_ab6a496e74d3e025",
+      "label": "Infecção do Trato Urinário Baixa / Cistite Aguda — registro no PPS",
+      "family": "cystitis"
+    },
+    {
+      "key": "pdf1500_868",
+      "label": "Infecção do trato urinário baixa (Cistite)",
+      "family": "cystitis"
+    },
+    {
+      "key": "pdf1500_869",
+      "label": "Infecção do trato urinário baixa (Cistite) agudo",
+      "family": "cystitis"
+    },
+    {
+      "key": "pps_catalog_19d11cb2f009cc1b",
+      "label": "Pielonefrite — registro no PPS",
+      "family": "pyelo"
+    },
+    {
+      "key": "pps_catalog_0025d4657405405c",
+      "label": "Pielonefrite aguda — registro no PPS",
+      "family": "pyelo"
+    },
+    {
+      "key": "pps_catalog_8de4b7a641c0997a",
+      "label": "Pielonefrite Aguda Não Complicada — registro no PPS",
+      "family": "pyelo"
+    },
+    {
+      "key": "pps_catalog_74b0ddd968bece7b",
+      "label": "Pielonefrite Aguda Pediátrica — registro no PPS",
+      "family": "pyelo"
+    },
+    {
+      "key": "pdf1500_854",
+      "label": "Infecção do trato urinário alta (Pielonefrite)",
+      "family": "pyelo"
+    },
+    {
+      "key": "pdf1500_855",
+      "label": "Infecção do trato urinário alta (Pielonefrite) agudo",
+      "family": "pyelo"
+    },
+    {
+      "key": "pps_catalog_b1e0eb6880b2b33d",
+      "label": "Infecção do trato urinário complicada — registro no PPS",
+      "family": "complicated"
+    },
+    {
+      "key": "pps_catalog_ff24518b5de4c52f",
+      "label": "Pielonefrite Aguda Grave com Sepse — registro no PPS",
+      "family": "urosepsis"
+    },
+    {
+      "key": "pps_catalog_00df4c881a49b480",
+      "label": "Orquiepididimite Aguda vs. Torção Testicular Aguda — registro no PPS",
+      "family": "acute_scrotum"
+    }
+  ]
+}

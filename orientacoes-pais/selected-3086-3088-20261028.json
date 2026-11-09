@@ -1,0 +1,318 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T16:06:04.550Z",
+  "records": [
+    {
+      "jobId": "OP-3086",
+      "specific": true,
+      "key": "pps_86",
+      "label": "Bradiarritmias Sintomáticas e Bloqueio Atrioventricular (BAV)",
+      "entity": "Síndrome pediátrica de ritmo cardíaco inadequadamente lento ou distúrbio de condução atrioventricular associado a sintomas ou repercussão clínica, a confirmar por correlação entre idade, ritmo documentado, perfusão e contexto; não equivale a um número isolado de pulso, a um grau específico de BAV, a uma causa definida nem a indicação automática de medicamento ou dispositivo",
+      "assessment": "{\"classification\":\"VALID_COMPOSITE_URGENT_SYNDROME_REQUIRES_RHYTHM_SYMPTOM_AND_PERFUSION_CORRELATION\",\"normalized_entity\":\"Bradiarritmia pediátrica sintomática, incluindo bradicardia sinusal ou juncional e BAV de qualquer grau quando houver correlação clínica, com reconhecimento separado de instabilidade e baixo débito\",\"assessment\":\"O rótulo reúne dois conceitos relacionados, mas não idênticos. Bradiarritmia descreve ritmo lento para a idade e o contexto; 'sintomática' exige correlação com manifestações como síncope, alteração aguda do estado mental, hipotensão/choque, intolerância ao esforço ou sinais de baixo débito. BAV descreve atraso ou falha de condução entre átrios e ventrículos no ECG e pode existir com ou sem bradicardia e com ou sem sintomas. Portanto, a ficha prioriza reconhecimento e urgência, sem substituir a classificação eletrocardiográfica própria.\",\"rhythm_boundary\":{\"sinus_or_junctional_bradycardia\":\"Pode acompanhar sono, condicionamento, hipóxia, hipotermia, doença sistêmica, alterações metabólicas, medicamentos/toxinas ou disfunção do nó sinusal. A frequência deve ser interpretada pela idade, estado de vigília, atividade e perfusão.\",\"first_degree_or_mobitz_i\":\"Primeiro grau é atraso de condução sem perda de QRS; Mobitz I apresenta padrão de Wenckebach. Podem ser incidentais em crianças e adolescentes, sobretudo no sono ou com maior tônus vagal, mas sintomas, ocorrência no esforço, cardiopatia ou doença aguda impedem tranquilização automática.\",\"mobitz_ii_two_to_one_or_advanced\":\"Mobitz II, padrão 2:1 não classificável e BAV avançado têm risco diferente de primeiro grau/Mobitz I. Quando novos, sintomáticos ou associados a perfusão ruim, exigem avaliação hospitalar urgente; o laudo automático não define sozinho o grau.\",\"third_degree\":\"No BAV total não há condução atrioventricular e o ventrículo depende de ritmo de escape. Pode ser congênito ou adquirido e requer avaliação especializada; sintomas ou baixo débito tornam a situação emergencial.\"},\"symptomatic_and_instability_boundary\":\"Sintomas leves ou inespecíficos precisam ser correlacionados ao ritmo; cansaço ou tontura não provam causa cardíaca. Instabilidade é suspeitada diante de alteração aguda de consciência, hipotensão, sinais de choque, dificuldade respiratória, cianose, pulso fraco, pele fria/manchada, pouca urina ou deterioração rápida. Síncope, especialmente no esforço ou sem recuperação imediata, e sinais de baixo débito em lactentes exigem prioridade alta mesmo sem frequência medida.\",\"finding_not_etiology\":\"O rótulo não revela a causa. Entre as possibilidades estão condição fisiológica, hipóxia, hipotermia, aumento do tônus vagal, alterações metabólicas, medicamentos ou intoxicações, doença do nó sinusal, BAV congênito/imunomediado, cardiopatia estrutural, pós-operatório/intervenção, miocardite ou outra inflamação e infecções selecionadas conforme epidemiologia. A causa deve ser investigada pela equipe; nenhuma deve ser presumida ou tratada em casa.\",\"not_automatically_equivalent_to\":[\"frequência abaixo de 60 por minuto em qualquer idade ou situação\",\"BAV confirmado ou grau definido por relógio, oxímetro, aplicativo ou leitura automática isolada\",\"instabilidade em toda criança com frequência baixa\",\"síncope de causa cardíaca comprovada\",\"doença estrutural, miocardite, intoxicação ou infecção específica\",\"indicação automática de internação, medicamento, estimulação ou dispositivo permanente\",\"liberação automática para esporte, escola, viagem ou alta domiciliar\"],\"critical_context_to_confirm\":[\"idade, frequência em vigília e sono, atividade no momento e padrão habitual\",\"sintomas simultâneos ao ritmo: tontura, pré-síncope/síncope, alteração de consciência, dor torácica, palpitação, falta de ar, cansaço e intolerância ao esforço\",\"perfusão e baixo débito: pressão, pulso, cor/temperatura da pele, enchimento capilar, urina e estado mental\",\"em bebês: duração e vigor das mamadas, suor, pausas para respirar, cor, alerta, fraldas e ganho de peso\",\"ECG/traçado original e classificação do ritmo, grau de BAV, QRS, pausas e ritmo de escape por profissional habilitado\",\"cardiopatia, cirurgia/cateterismo/ablação, doença febril ou inflamatória recente e história familiar de bloqueio, cardiomiopatia, arritmia ou morte súbita\",\"lista completa de medicamentos, gotas, fitoterápicos, suplementos, substâncias e possível ingestão acidental, sem suspensão ou teste caseiro\"],\"urgency_rule\":\"Acionar emergência/SAMU 192 diante de inconsciência, respiração ausente ou anormal, desmaio sem recuperação rápida, alteração aguda de consciência, convulsão, dificuldade respiratória, cianose, dor torácica persistente, hipotensão ou sinais de choque/baixo débito. Síncope no esforço, bradiarritmia sintomática persistente e BAV Mobitz II, 2:1/alto grau ou total novo exigem avaliação urgente. Criança estável com sintomas transitórios ainda precisa de contato médico no mesmo dia; achado incidental assintomático segue plano próprio e não deve ser convertido em emergência apenas pelo número.\",\"counting_rule\":\"Contar pps_86 como orientação específica para o fenótipo sintomático/instável de bradiarritmia e BAV, com foco em reconhecimento, segurança e destino. Não absorver as entidades editoriais OP-3075 a OP-3081, que permanecem responsáveis pelo BAV guarda-chuva, congênito, primeiro grau, Mobitz I, Mobitz II e BAV total/duplicata nominal.\",\"resolution\":\"Termo válido como entidade composta de triagem e orientação familiar, preservado sem inferir paciente, ritmo, grau, causa, medicamento, dose, algoritmo ou dispositivo individual.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Bradiarritmia significa ritmo mais lento do que o esperado para a idade e a situação; BAV é uma alteração da passagem do impulso elétrico entre as câmaras do coração. O significado depende do ritmo documentado, dos sintomas e da perfusão, e não de um número isolado medido em casa.",
+          "Se a criança está alerta, respira bem e não tem sinais de choque, mantenha-a em repouso e supervisão enquanto contata o serviço responsável no mesmo dia. Anote horário, duração, atividade, sintomas e frequência apenas se isso puder ser feito sem atrasar o atendimento.",
+          "Guarde o ECG, o laudo e os registros do monitor. Relógio, oxímetro e aplicativo podem errar e não distinguem bradicardia sinusal, pausas, BAV ou artefato; não use esses aparelhos para autorizar esforço ou excluir risco.",
+          "Observe desmaio ou quase desmaio, confusão, dificuldade para acordar, cor azulada ou muito pálida, respiração difícil, dor no peito, palpitação com mal-estar, fraqueza intensa, queda do rendimento e pouca urina. Em bebês, observe mamada fraca/cansativa, suor, pausas para respirar, sonolência e menos fraldas molhadas.",
+          "Se houver suspeita de ingestão acidental ou relação com produto usado, leve embalagem e lista completa de medicamentos, gotas, fitoterápicos e suplementos. Não provoque vômito e não teste produtos para aumentar o pulso.",
+          "Não deixe a criança sozinha, dirigir, nadar, subir em altura ou retomar atividade intensa após síncope, sintomas no esforço ou episódio ainda não esclarecido."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Interrompa imediatamente o esforço diante de tontura, pré-síncope, desmaio, dor torácica, falta de ar ou fraqueza súbita. Coloque a criança em local seguro e avalie resposta e respiração.",
+          "Se estiver inconsciente e não respirar normalmente, acione o SAMU 192, peça um DEA e inicie reanimação conforme treinamento ou orientação do atendente. Não perca tempo tentando medir o pulso ou localizar o laudo.",
+          "Se desmaiou e voltou rapidamente, mantenha deitada e supervisionada, sem alimento ou líquido até estar totalmente desperta. Síncope no esforço, trauma importante, recorrência ou qualquer sinal de instabilidade exige emergência.",
+          "Não tente corrigir o ritmo com café, energético, açúcar, sal, banho frio, susto, manobra vagal, tosse forçada, exercício ou aparelho elétrico. Essas tentativas podem piorar o quadro ou atrasar atendimento.",
+          "Oriente escola e cuidadores sobre sinais de alarme e como chamar o SAMU 192. Atividade física, esporte competitivo e retorno à escola devem seguir o plano individual quando houve síncope, BAV avançado, cardiopatia ou sintomas persistentes.",
+          "Sono, hidratação e refeições regulares apoiam o bem-estar, mas não tratam bradiarritmia sintomática nem substituem avaliação do ritmo e da causa."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não indica medicamento, dose, via, duração, antídoto, algoritmo profissional, estimulação nem dispositivo. A resposta depende do ritmo, da causa e da presença de instabilidade e deve ser definida pela equipe que examinou a criança.",
+          "Não inicie, repita, suspenda ou reduza produto prescrito por conta própria. Alguns produtos podem lentificar o ritmo, mas interrupção abrupta ou tentativa de compensação também pode causar dano.",
+          "Não use sobra de receita, medicamento de outra pessoa, descongestionante, estimulante, chá ou suplemento para elevar a frequência. Não trate febre, infecção ou inflamação como causa presumida do BAV sem avaliação.",
+          "Informe nome, apresentação, horário e quantidade de tudo que a criança usa ou pode ter ingerido. Diante de possível intoxicação com sintomas, procure emergência e leve as embalagens.",
+          "A necessidade de qualquer intervenção depende da correlação entre sintomas, ECG, função cardíaca, causa reversível e evolução; o rótulo desta ficha não autoriza seleção automática de terapia ou dispositivo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está totalmente alerta, respirando confortavelmente e sem náusea importante, ofereça alimentação e líquidos habituais em pequenas quantidades conforme tolerância. Nenhum alimento ou bebida corrige o ritmo.",
+          "Em recém-nascidos e lactentes, mamada mais longa ou fraca, suor, pausas para respirar, palidez/arroxeamento, sonolência, vômitos repetidos, menos fraldas molhadas ou ganho de peso ruim podem acompanhar baixo débito e exigem avaliação rápida.",
+          "Não force mamada, alimento ou grande volume se houver respiração difícil, sonolência, desmaio, engasgo ou coloração azulada. Nessa situação, procure emergência e evite oferecer pela boca pelo risco de aspiração.",
+          "Não concentre fórmula, não faça mistura caseira e não restrinja sal ou líquido por conta própria. Se houver plano de cardiologia ou insuficiência cardíaca, siga somente a orientação individual.",
+          "Se houver exame ou procedimento programado, siga o jejum informado pelo serviço e avise o que a criança ingeriu; esta ficha não fornece jejum genérico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver inconsciência, ausência de resposta, respiração ausente ou anormal, desmaio sem recuperação rápida, confusão, convulsão ou dificuldade para acordar.",
+          "Procure emergência imediatamente diante de falta de ar, lábios ou pele azulados, pele muito pálida/manchada/fria, suor frio, pulso fraco, hipotensão conhecida, fraqueza extrema, deterioração rápida ou pouca/nenhuma urina: são sinais possíveis de choque ou baixo débito.",
+          "Desmaio ou quase desmaio durante exercício, dor no peito persistente, palpitação com mal-estar ou queda súbita do desempenho exige suspensão do esforço e avaliação urgente, mesmo que a criança pareça melhor depois.",
+          "Bradiarritmia com sintomas persistentes ou recorrentes e BAV Mobitz II, padrão 2:1/alto grau ou total novo no laudo/monitor devem ser avaliados com urgência; não aguarde consulta eletiva sem falar com o serviço.",
+          "Após cirurgia, cateterismo ou ablação cardíaca, qualquer novo episódio de tontura, síncope, cansaço, respiração difícil, dor torácica ou ritmo muito diferente do plano de alta exige contato imediato com o centro ou emergência.",
+          "Em recém-nascido ou lactente, mamada muito fraca/cansativa, suor ou respiração rápida ao mamar, sonolência fora do habitual, palidez/cianose, extremidades frias ou menos fraldas junto de ritmo lento/BAV exige emergência pediátrica.",
+          "Procure emergência se possível intoxicação ou doença febril/inflamatória recente vier acompanhada de desmaio, dor no peito, falta de ar, prostração, palpitação ou piora rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "Criança estável que teve tontura, pré-síncope, desmaio breve, queda de desempenho ou outro sintoma possivelmente relacionado a ritmo lento deve receber avaliação médica no mesmo dia. Sintomas atuais, recorrentes ou associados ao esforço antecipam para urgência/emergência.",
+          "Todo BAV novo deve ter o traçado e o grau confirmados por profissional com interpretação pediátrica. Se o laudo não diferencia primeiro grau, Mobitz I, Mobitz II, 2:1/alto grau ou total, contate o serviço solicitante no mesmo dia útil.",
+          "Compareça ao retorno de pediatria/cardiologia mesmo se os sintomas cessaram: bradiarritmia e BAV podem ser intermitentes. A equipe decide quais registros ou exames são necessários; não escolha monitorização ou teste de esforço por conta própria.",
+          "Leve uma linha do tempo dos episódios, ECGs/traçados, lista de produtos usados, resumo de cirurgias ou internações e história familiar de arritmia, cardiomiopatia, bloqueio, desmaio ou morte súbita.",
+          "Se uma causa potencialmente reversível estiver sendo tratada, confirme que sintomas e condução foram reavaliados. Melhora do pulso em casa não prova normalização do ritmo.",
+          "Peça plano escrito com ritmo/grau, sinais de alarme, atividades permitidas, prazo de retorno e contatos. O plano individual da equipe que avaliou a criança prevalece sobre esta orientação geral."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente pequeno pode mostrar baixo débito por mamada fraca/cansativa, suor, taquipneia, palidez/cianose, sonolência, extremidades frias ou menos urina. Não depender de um corte doméstico de frequência; qualquer desses sinais com ritmo lento/BAV exige emergência pediátrica.",
+        "3a5m": "Observar vigor da mamada, pausas para respirar, cor, alerta, fraldas e crescimento. Queda de atividade ou mamadas piores pode substituir o relato de tontura; sintomas atuais ou BAV avançado pedem avaliação urgente.",
+        "6a11m": "Além da alimentação, observar menor interação, cansaço para se movimentar, suor, respiração rápida, palidez/cianose e menos urina. Doença recente, ingestão possível ou cirurgia cardíaca muda a urgência.",
+        "1a": "Recusa alimentar, irritabilidade ou sonolência, menos brincadeira, respiração rápida, palidez e extremidades frias podem indicar baixo débito. Não esperar relato verbal; desmaio, cianose ou esforço respiratório é emergência.",
+        "2a5": "Perguntar sobre quedas sem explicação, episódios de ficar mole, pausas na brincadeira e piora após procedimento ou doença. Síncope, respiração difícil ou alteração de consciência exige avaliação imediata.",
+        "6a11": "Investigar tontura, pré-síncope/síncope, dor torácica, palpitação e queda de rendimento, sobretudo no esforço. Suspender esporte até avaliação quando houver sintomas ou BAV avançado; fornecer plano de emergência à escola.",
+        "12a17": "Revisar treino intenso, síncope no esforço, energéticos, suplementos, medicamentos e outras substâncias com conversa confidencial apropriada. Condicionamento pode reduzir a frequência, mas não explica automaticamente sintomas nem BAV Mobitz II/alto grau/total.",
+        "unknown": "Confirmar idade, ritmo/ECG, frequência em vigília e sono, sintomas simultâneos, perfusão, esforço, alimentação, cardiopatia/cirurgia, doença recente, produtos/ingestões e história familiar antes de definir gravidade, causa, seguimento ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais264_op3086_1",
+          "name": "Part 8: Pediatric Advanced Life Support — Management of Bradycardia",
+          "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-advanced-life-support"
+        },
+        {
+          "id": "pais264_op3086_2",
+          "name": "Pediatric Bradycardia With a Pulse Algorithm — Accessible Version",
+          "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-PALS-Bradycardia-LngDscrp-250729-Ed.pdf?sc_lang=en"
+        },
+        {
+          "id": "pais264_op3086_3",
+          "name": "2021 PACES expert consensus statement on the indications and management of cardiovascular implantable electronic devices in pediatric patients",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8577100/"
+        },
+        {
+          "id": "pais264_op3086_4",
+          "name": "Diretriz da Sociedade Brasileira de Cardiologia sobre a Análise e Emissão de Laudos Eletrocardiográficos – 2022",
+          "url": "https://www.scielo.br/scielo.php?pid=S0066-782X2022001000638&script=sci_arttext"
+        },
+        {
+          "id": "pais264_op3086_5",
+          "name": "Diretriz de Arritmias Cardíacas em Crianças e Cardiopatias Congênitas SOBRAC e DCC-CP",
+          "url": "https://www.scielo.br/j/abc/a/hYsHV6yf6Zkn3v9BQsV6nsH/?format=pdf&lang=pt"
+        },
+        {
+          "id": "pais264_op3086_6",
+          "name": "Insuficiência Cardíaca na Criança",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/agosto/14/24449f-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        },
+        {
+          "id": "pais264_op3086_7",
+          "name": "Clinical Characteristics and Mid-term Follow-up in Children with Isolated Complete Atrioventricular Block",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9900412/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3087",
+      "specific": true,
+      "key": "pps_catalog_ec21a3ca1b561145",
+      "label": "Bradiarritmias Sintomáticas e Bloqueio Atrioventricular (BAV) — registro no PPS",
+      "entity": "Síndrome pediátrica de ritmo cardíaco inadequadamente lento ou distúrbio de condução atrioventricular associado a sintomas ou repercussão clínica, a confirmar por correlação entre idade, ritmo documentado, perfusão e contexto; não equivale a um número isolado de pulso, a um grau específico de BAV, a uma causa definida nem a indicação automática de medicamento ou dispositivo",
+      "assessment": "{\"classification\":\"VALID_EXACT_CATALOG_ALIAS_OF_SYMPTOMATIC_PEDIATRIC_BRADYARRHYTHMIA_AND_AV_BLOCK\",\"normalized_entity\":\"Bradiarritmia pediátrica sintomática, incluindo bradicardia sinusal ou juncional e BAV de qualquer grau quando houver correlação clínica, com reconhecimento separado de instabilidade e baixo débito\",\"canonical_key\":\"pps_86\",\"canonical_label\":\"Bradiarritmias Sintomáticas e Bloqueio Atrioventricular (BAV)\",\"assessment\":\"Bradiarritmia descreve ritmo lento para a idade e o contexto; ‘sintomática’ exige correlação com manifestações como síncope, alteração aguda de consciência, hipotensão/choque, intolerância ao esforço ou baixo débito. BAV descreve atraso ou falha da condução atrioventricular e pode existir com ou sem bradicardia ou sintomas. A ficha orienta reconhecimento e urgência, sem substituir classificação eletrocardiográfica.\",\"alias_boundary\":\"A inclusão do sufixo ‘registro no PPS’ não altera a entidade, população, gravidade ou escopo. OP-3087 deve resolver ao mesmo conteúdo de OP-3086; diferenças futuras de conteúdo entre as duas chaves devem falhar na revisão de preservação.\",\"rhythm_boundary\":{\"sinus_or_junctional_bradycardia\":\"Pode acompanhar sono, condicionamento, hipóxia, hipotermia, doença sistêmica, alterações metabólicas, medicamentos/toxinas ou disfunção do nó sinusal. Interpretar por idade, vigília, atividade, sintomas e perfusão.\",\"first_degree_or_mobitz_i\":\"Podem ser incidentais, sobretudo no sono ou com maior tônus vagal, mas sintomas, esforço, cardiopatia ou doença aguda impedem tranquilização automática.\",\"mobitz_ii_two_to_one_or_advanced\":\"Quando novos, sintomáticos ou associados a perfusão ruim, exigem avaliação hospitalar urgente; laudo automático isolado não define o grau.\",\"third_degree\":\"No BAV total não há condução atrioventricular efetiva e o ventrículo depende de ritmo de escape; sintomas ou baixo débito tornam a situação emergencial.\"},\"not_automatically_equivalent_to\":[\"frequência abaixo de 60 por minuto em qualquer idade ou situação\",\"BAV confirmado ou grau definido por relógio, oxímetro, aplicativo ou leitura automática isolada\",\"instabilidade em toda criança com frequência baixa\",\"síncope de causa cardíaca comprovada\",\"doença estrutural, miocardite, intoxicação ou infecção específica\",\"indicação automática de internação, medicamento, estimulação ou dispositivo permanente\"],\"critical_context_to_confirm\":[\"idade, frequência em vigília e sono, atividade no momento e padrão habitual\",\"sintomas simultâneos ao ritmo, incluindo tontura, pré-síncope/síncope, alteração de consciência, dor torácica, falta de ar e intolerância ao esforço\",\"perfusão e baixo débito: pressão, pulso, cor e temperatura da pele, enchimento capilar, urina e estado mental\",\"em bebês: vigor da mamada, suor, pausas para respirar, cor, alerta, fraldas e ganho de peso\",\"ECG/traçado original, grau de BAV, QRS, pausas e ritmo de escape interpretados por profissional habilitado\",\"cardiopatia, cirurgia/intervenção, doença recente, história familiar e lista completa de produtos ou possível ingestão\"],\"urgency_rule\":\"Acionar emergência/SAMU 192 diante de inconsciência, respiração ausente ou anormal, desmaio sem recuperação rápida, alteração aguda de consciência, convulsão, dificuldade respiratória, cianose, dor torácica persistente, hipotensão ou sinais de choque/baixo débito. Síncope no esforço, bradiarritmia sintomática persistente e BAV Mobitz II, 2:1/alto grau ou total novo exigem avaliação urgente.\",\"treatment_boundary\":\"Esta orientação não seleciona medicamento, dose, via, duração, algoritmo profissional, estimulação nem dispositivo. A resposta depende do ritmo, causa e estabilidade e deve ser definida pela equipe que examinou a criança.\",\"resolution\":\"Alias válido, pesquisado e reconciliado com OP-3086/pps_86; zero nova entidade. Integração, testes, revisão humana e publicação permanecem pendentes.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Bradiarritmia significa ritmo mais lento do que o esperado para a idade e a situação; BAV é uma alteração da passagem do impulso elétrico entre as câmaras do coração. O significado depende do ritmo documentado, dos sintomas e da perfusão, e não de um número isolado medido em casa.",
+          "Se a criança está alerta, respira bem e não tem sinais de choque, mantenha-a em repouso e supervisão enquanto contata o serviço responsável no mesmo dia. Anote horário, duração, atividade, sintomas e frequência apenas se isso puder ser feito sem atrasar o atendimento.",
+          "Guarde o ECG, o laudo e os registros do monitor. Relógio, oxímetro e aplicativo podem errar e não distinguem bradicardia sinusal, pausas, BAV ou artefato; não use esses aparelhos para autorizar esforço ou excluir risco.",
+          "Observe desmaio ou quase desmaio, confusão, dificuldade para acordar, cor azulada ou muito pálida, respiração difícil, dor no peito, palpitação com mal-estar, fraqueza intensa, queda do rendimento e pouca urina. Em bebês, observe mamada fraca/cansativa, suor, pausas para respirar, sonolência e menos fraldas molhadas.",
+          "Se houver suspeita de ingestão acidental ou relação com produto usado, leve embalagem e lista completa de medicamentos, gotas, fitoterápicos e suplementos. Não provoque vômito e não teste produtos para aumentar o pulso.",
+          "Não deixe a criança sozinha, dirigir, nadar, subir em altura ou retomar atividade intensa após síncope, sintomas no esforço ou episódio ainda não esclarecido."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Interrompa imediatamente o esforço diante de tontura, pré-síncope, desmaio, dor torácica, falta de ar ou fraqueza súbita. Coloque a criança em local seguro e avalie resposta e respiração.",
+          "Se estiver inconsciente e não respirar normalmente, acione o SAMU 192, peça um DEA e inicie reanimação conforme treinamento ou orientação do atendente. Não perca tempo tentando medir o pulso ou localizar o laudo.",
+          "Se desmaiou e voltou rapidamente, mantenha deitada e supervisionada, sem alimento ou líquido até estar totalmente desperta. Síncope no esforço, trauma importante, recorrência ou qualquer sinal de instabilidade exige emergência.",
+          "Não tente corrigir o ritmo com café, energético, açúcar, sal, banho frio, susto, manobra vagal, tosse forçada, exercício ou aparelho elétrico. Essas tentativas podem piorar o quadro ou atrasar atendimento.",
+          "Oriente escola e cuidadores sobre sinais de alarme e como chamar o SAMU 192. Atividade física, esporte competitivo e retorno à escola devem seguir o plano individual quando houve síncope, BAV avançado, cardiopatia ou sintomas persistentes.",
+          "Sono, hidratação e refeições regulares apoiam o bem-estar, mas não tratam bradiarritmia sintomática nem substituem avaliação do ritmo e da causa."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não indica medicamento, dose, via, duração, antídoto, algoritmo profissional, estimulação nem dispositivo. A resposta depende do ritmo, da causa e da presença de instabilidade e deve ser definida pela equipe que examinou a criança.",
+          "Não inicie, repita, suspenda ou reduza produto prescrito por conta própria. Alguns produtos podem lentificar o ritmo, mas interrupção abrupta ou tentativa de compensação também pode causar dano.",
+          "Não use sobra de receita, medicamento de outra pessoa, descongestionante, estimulante, chá ou suplemento para elevar a frequência. Não trate febre, infecção ou inflamação como causa presumida do BAV sem avaliação.",
+          "Informe nome, apresentação, horário e quantidade de tudo que a criança usa ou pode ter ingerido. Diante de possível intoxicação com sintomas, procure emergência e leve as embalagens.",
+          "A necessidade de qualquer intervenção depende da correlação entre sintomas, ECG, função cardíaca, causa reversível e evolução; o rótulo desta ficha não autoriza seleção automática de terapia ou dispositivo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está totalmente alerta, respirando confortavelmente e sem náusea importante, ofereça alimentação e líquidos habituais em pequenas quantidades conforme tolerância. Nenhum alimento ou bebida corrige o ritmo.",
+          "Em recém-nascidos e lactentes, mamada mais longa ou fraca, suor, pausas para respirar, palidez/arroxeamento, sonolência, vômitos repetidos, menos fraldas molhadas ou ganho de peso ruim podem acompanhar baixo débito e exigem avaliação rápida.",
+          "Não force mamada, alimento ou grande volume se houver respiração difícil, sonolência, desmaio, engasgo ou coloração azulada. Nessa situação, procure emergência e evite oferecer pela boca pelo risco de aspiração.",
+          "Não concentre fórmula, não faça mistura caseira e não restrinja sal ou líquido por conta própria. Se houver plano de cardiologia ou insuficiência cardíaca, siga somente a orientação individual.",
+          "Se houver exame ou procedimento programado, siga o jejum informado pelo serviço e avise o que a criança ingeriu; esta ficha não fornece jejum genérico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver inconsciência, ausência de resposta, respiração ausente ou anormal, desmaio sem recuperação rápida, confusão, convulsão ou dificuldade para acordar.",
+          "Procure emergência imediatamente diante de falta de ar, lábios ou pele azulados, pele muito pálida/manchada/fria, suor frio, pulso fraco, hipotensão conhecida, fraqueza extrema, deterioração rápida ou pouca/nenhuma urina: são sinais possíveis de choque ou baixo débito.",
+          "Desmaio ou quase desmaio durante exercício, dor no peito persistente, palpitação com mal-estar ou queda súbita do desempenho exige suspensão do esforço e avaliação urgente, mesmo que a criança pareça melhor depois.",
+          "Bradiarritmia com sintomas persistentes ou recorrentes e BAV Mobitz II, padrão 2:1/alto grau ou total novo no laudo/monitor devem ser avaliados com urgência; não aguarde consulta eletiva sem falar com o serviço.",
+          "Após cirurgia, cateterismo ou ablação cardíaca, qualquer novo episódio de tontura, síncope, cansaço, respiração difícil, dor torácica ou ritmo muito diferente do plano de alta exige contato imediato com o centro ou emergência.",
+          "Em recém-nascido ou lactente, mamada muito fraca/cansativa, suor ou respiração rápida ao mamar, sonolência fora do habitual, palidez/cianose, extremidades frias ou menos fraldas junto de ritmo lento/BAV exige emergência pediátrica.",
+          "Procure emergência se possível intoxicação ou doença febril/inflamatória recente vier acompanhada de desmaio, dor no peito, falta de ar, prostração, palpitação ou piora rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "Criança estável que teve tontura, pré-síncope, desmaio breve, queda de desempenho ou outro sintoma possivelmente relacionado a ritmo lento deve receber avaliação médica no mesmo dia. Sintomas atuais, recorrentes ou associados ao esforço antecipam para urgência/emergência.",
+          "Todo BAV novo deve ter o traçado e o grau confirmados por profissional com interpretação pediátrica. Se o laudo não diferencia primeiro grau, Mobitz I, Mobitz II, 2:1/alto grau ou total, contate o serviço solicitante no mesmo dia útil.",
+          "Compareça ao retorno de pediatria/cardiologia mesmo se os sintomas cessaram: bradiarritmia e BAV podem ser intermitentes. A equipe decide quais registros ou exames são necessários; não escolha monitorização ou teste de esforço por conta própria.",
+          "Leve uma linha do tempo dos episódios, ECGs/traçados, lista de produtos usados, resumo de cirurgias ou internações e história familiar de arritmia, cardiomiopatia, bloqueio, desmaio ou morte súbita.",
+          "Se uma causa potencialmente reversível estiver sendo tratada, confirme que sintomas e condução foram reavaliados. Melhora do pulso em casa não prova normalização do ritmo.",
+          "Peça plano escrito com ritmo/grau, sinais de alarme, atividades permitidas, prazo de retorno e contatos. O plano individual da equipe que avaliou a criança prevalece sobre esta orientação geral."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente pequeno pode mostrar baixo débito por mamada fraca/cansativa, suor, taquipneia, palidez/cianose, sonolência, extremidades frias ou menos urina. Não depender de um corte doméstico de frequência; qualquer desses sinais com ritmo lento/BAV exige emergência pediátrica.",
+        "3a5m": "Observar vigor da mamada, pausas para respirar, cor, alerta, fraldas e crescimento. Queda de atividade ou mamadas piores pode substituir o relato de tontura; sintomas atuais ou BAV avançado pedem avaliação urgente.",
+        "6a11m": "Além da alimentação, observar menor interação, cansaço para se movimentar, suor, respiração rápida, palidez/cianose e menos urina. Doença recente, ingestão possível ou cirurgia cardíaca muda a urgência.",
+        "1a": "Recusa alimentar, irritabilidade ou sonolência, menos brincadeira, respiração rápida, palidez e extremidades frias podem indicar baixo débito. Não esperar relato verbal; desmaio, cianose ou esforço respiratório é emergência.",
+        "2a5": "Perguntar sobre quedas sem explicação, episódios de ficar mole, pausas na brincadeira e piora após procedimento ou doença. Síncope, respiração difícil ou alteração de consciência exige avaliação imediata.",
+        "6a11": "Investigar tontura, pré-síncope/síncope, dor torácica, palpitação e queda de rendimento, sobretudo no esforço. Suspender esporte até avaliação quando houver sintomas ou BAV avançado; fornecer plano de emergência à escola.",
+        "12a17": "Revisar treino intenso, síncope no esforço, energéticos, suplementos, medicamentos e outras substâncias com conversa confidencial apropriada. Condicionamento pode reduzir a frequência, mas não explica automaticamente sintomas nem BAV Mobitz II/alto grau/total.",
+        "unknown": "Confirmar idade, ritmo/ECG, frequência em vigília e sono, sintomas simultâneos, perfusão, esforço, alimentação, cardiopatia/cirurgia, doença recente, produtos/ingestões e história familiar antes de definir gravidade, causa, seguimento ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais264_op3087_1",
+          "name": "Part 8: Pediatric Advanced Life Support — Management of Bradycardia",
+          "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-advanced-life-support"
+        },
+        {
+          "id": "pais264_op3087_2",
+          "name": "Pediatric Bradycardia With a Pulse Algorithm — Accessible Version",
+          "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-PALS-Bradycardia-LngDscrp-250729-Ed.pdf?sc_lang=en"
+        },
+        {
+          "id": "pais264_op3087_3",
+          "name": "2021 PACES expert consensus statement on the indications and management of cardiovascular implantable electronic devices in pediatric patients",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8577100/"
+        },
+        {
+          "id": "pais264_op3087_4",
+          "name": "Diretriz da Sociedade Brasileira de Cardiologia sobre a Análise e Emissão de Laudos Eletrocardiográficos – 2022",
+          "url": "https://www.scielo.br/j/abc/a/4QcQvX3T6kZBjNQLzrt5cXj/"
+        },
+        {
+          "id": "pais264_op3087_5",
+          "name": "Diretriz de Arritmias Cardíacas em Crianças e Cardiopatias Congênitas SOBRAC e DCC-CP",
+          "url": "https://www.scielo.br/j/abc/a/hYsHV6yf6Zkn3v9BQsV6nsH/?format=pdf&lang=pt"
+        },
+        {
+          "id": "pais264_op3087_6",
+          "name": "Insuficiência Cardíaca na Criança",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/agosto/14/24449f-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3088",
+      "specific": true,
+      "key": "pps_catalog_97d4a88b5525297e",
+      "label": "Bradicardia sintomática — registro no PPS",
+      "entity": "Bradicardia clinicamente relevante em recém-nascido, lactente, criança ou adolescente: frequência cardíaca inadequadamente baixa para idade, estado de vigília, atividade e fisiologia, temporalmente associada a sintomas ou comprometimento cardiopulmonar, como síncope, alteração de consciência, hipotensão, sinais de choque, intolerância ao esforço ou baixo débito; o ritmo e a causa ainda precisam ser definidos",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CLINICAL_SYNDROME_REQUIRING_AGE_CONTEXT_SYMPTOM_CORRELATION_AND_CAUSE_DEFINITION\",\"normalized_entity\":\"Bradicardia pediátrica sintomática ou com comprometimento cardiopulmonar\",\"assessment\":\"O termo é clinicamente válido, mas descreve uma síndrome, não sua etiologia. Em pediatria, frequência baixa deve ser julgada em relação à idade, vigília/sono, atividade, condicionamento e fisiologia cardíaca; um valor adulto isolado, relógio, oxímetro ou laudo automático não confirma gravidade. A palavra sintomática exige correlação temporal plausível entre ritmo lento e manifestações de hipoperfusão ou intolerância, e não apenas coexistência de cansaço ou tontura. Pode corresponder a bradicardia sinusal, disfunção do nó sinusal, ritmo juncional, bloqueio atrioventricular ou resposta secundária a hipóxia, hipotermia, alterações metabólicas, medicamento/toxina, doença neurológica, infecção/inflamação, cardiopatia ou período pós-operatório. A conduta depende da estabilidade, do ritmo e da causa; a ficha não presume terapia nem dispositivo.\",\"relationship_to_existing_records\":\"Há sobreposição com pps_86 e pps_catalog_ec21a3ca1b561145 (bradiarritmias sintomáticas e BAV), mas não equivalência completa. Esta chave cobre a apresentação clínica de frequência inadequadamente baixa com sintomas/baixo débito, inclusive sem BAV; as fichas de BAV classificam distúrbios de condução atrioventricular específicos. Compartilhar alertas é aceitável, mas não fundir contagens nem dizer que toda bradicardia sintomática é BAV.\",\"not_automatically_equivalent_to\":[\"Qualquer frequência abaixo de 60 batimentos por minuto, independentemente da idade e do estado clínico\",\"Bradicardia sinusal fisiológica do sono ou do atleta assintomático\",\"Bloqueio atrioventricular, disfunção do nó sinusal, síndrome bradi-taqui ou cardiopatia estrutural como diagnóstico automático\",\"Causa comprovada de tontura, fadiga, síncope ou convulsão aparente sem registro simultâneo e avaliação clínica\",\"Indicação automática de medicamento, estimulação, marca-passo, internação, restrição esportiva definitiva ou alta\",\"Leitura confiável de relógio, aplicativo, oxímetro ou equipamento doméstico sem confirmação\"],\"pediatric_scope\":\"Aplica-se do período neonatal à adolescência. Recém-nascidos e lactentes dependem mais da frequência cardíaca para manter débito e podem manifestar repercussão por mamada fraca/cansativa, suor, taquipneia, palidez/cianose, pouca urina e sonolência. Crianças maiores podem relatar tontura, pré-síncope, síncope, dor torácica, dispneia e intolerância ao esforço. Adolescentes atletas podem ter frequência de repouso baixa sem doença, mas sintomas, resposta inadequada ao esforço, história familiar ou outra alteração exigem avaliação. O contexto pós-cirurgia/intervenção, cardiopatia, transplante, doença neuromuscular, inflamatória ou possível intoxicação aumenta a prioridade.\",\"counting_rule\":\"Contar esta chave como uma orientação clínica específica apenas após integração, testes e publicação. Não contar como cobertura de cada etiologia, de cada tipo de BAV, de disfunção do nó sinusal, síncope, intoxicação, miocardite ou cardiopatia como entidades separadas. Não duplicar a entidade já contabilizada nas fichas compostas de bradiarritmia/BAV.\",\"critical_context_to_confirm\":[\"Idade, estado de vigília/sono, atividade e condição clínica no momento da frequência baixa\",\"Fonte do dado: ECG/monitor profissional, pulso examinado ou somente relógio, oxímetro, aplicativo ou foto\",\"Sintoma simultâneo: alteração de consciência, hipotensão, má perfusão, dificuldade respiratória, síncope/pré-síncope, dor torácica, palpitação, intolerância ao esforço ou queda de desempenho\",\"Em lactentes: vigor e duração da mamada, suor, pausas respiratórias, cor, alerta, crescimento e fraldas molhadas\",\"Ritmo documentado: sinusal, juncional, pausa, disfunção do nó sinusal, BAV ou ainda indeterminado\",\"Início agudo ou crônico; persistência/recorrência; relação com esforço; comparação com registros anteriores\",\"Cardiopatia congênita, função ventricular, cirurgia, cateterismo, ablação, transplante ou dispositivo\",\"Hipóxia/doença respiratória, hipotermia, hipoglicemia, distúrbio eletrolítico/metabólico, doença neurológica, infecção ou inflamação recente\",\"Medicamentos, gotas, suplementos, energéticos, fitoterápicos e possibilidade de ingestão acidental\",\"História familiar de arritmia, cardiomiopatia, distúrbio de condução, marca-passo, síncope ou morte súbita\"],\"reason\":\"Síndrome pediátrica válida e potencialmente urgente, com evidência suficiente para orientação familiar específica centrada em perfusão, idade, correlação sintoma-ritmo e busca da causa.\",\"next_action\":\"Integrar no gerador sem fundir com BAV; testar seleção por ID/nome/aliases, oito idades, prioridade urgente, seis seções e preservação das fichas cardíacas já publicadas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Bradicardia significa frequência cardíaca mais lenta que a esperada para a idade e a situação. Em crianças, o normal muda muito entre recém-nascido, lactente, escolar e adolescente e também varia com sono, repouso, atividade e condicionamento; não use um corte de adulto nem um número isolado para decidir se está tudo bem ou grave.",
+          "A palavra sintomática é importante: o ritmo lento precisa ocorrer junto de sinais como desmaio ou quase desmaio, confusão, dificuldade para acordar, pressão baixa, pele fria/pálida/manchada, fraqueza importante, falta de ar, dor no peito, queda de rendimento ou pouca urina. Esses sinais valem mais que tentar repetir a medida em casa.",
+          "Relógio, aplicativo e oxímetro podem errar por movimento, frio ou contato ruim e não mostram qual é o ritmo. Guarde o horário e o registro, se disponível, mas não atrase atendimento para obter outra leitura nem considere uma medida normal posterior como prova de segurança.",
+          "Anote o que a criança fazia, quanto durou, se houve perda de consciência, cor alterada, respiração difícil, dor, palpitação, febre, exposição a frio, doença recente, produto ingerido ou mudança de medicamento. Leve ECGs, relatórios e lista de produtos usados; não provoque sintomas para filmar ou testar.",
+          "Em bebê, observe mamada fraca ou demorada, pausas para respirar, suor, palidez ou lábios arroxeados, sonolência fora do habitual, pouco ganho de peso e menos fraldas molhadas. Esses podem ser sinais de baixo débito mesmo sem uma frequência doméstica confiável.",
+          "A causa pode estar no ritmo cardíaco ou ser resposta a hipóxia, hipotermia, alteração metabólica, medicamento/toxina, doença neurológica, inflamação, cardiopatia ou pós-operatório. Não presuma a causa e não trate apenas o número."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Interrompa imediatamente exercício ou brincadeira se houver tontura, visão escura, fraqueza súbita, dor no peito, falta de ar, pré-síncope ou desmaio. Coloque a criança em local seguro, avalie resposta e respiração e não permita retorno no mesmo momento.",
+          "Se estiver inconsciente e não respirar normalmente, acione o SAMU 192, peça um DEA se houver e inicie reanimação conforme treinamento ou orientação do atendente. Não perca tempo procurando o aparelho de medir pulso ou o laudo.",
+          "Se desmaiou e recuperou rápido, mantenha deitada e supervisionada até estar completamente desperta. Síncope durante esforço, trauma, recorrência, recuperação incompleta ou qualquer sinal de má perfusão exige avaliação imediata.",
+          "Não tente elevar a frequência com corrida, escadas, susto, banho frio, café, energético, açúcar, sal, tosse, manobra vagal, massagem no pescoço ou aparelho elétrico. Essas medidas não tratam a causa e podem causar dano ou atraso.",
+          "Até esclarecer síncope ou sintomas no esforço, mantenha supervisão em piscina, banho, altura, bicicleta no trânsito e outras situações em que uma nova perda de consciência cause trauma ou afogamento. É uma precaução temporária, não uma proibição definitiva baseada só no pulso.",
+          "Escola e cuidadores devem saber quais sintomas exigem parar a atividade, quem acompanha a criança e quando chamar a família ou o SAMU. Atividade e retorno esportivo devem seguir o plano individual após avaliação."
+        ],
+        "MEDICAMENTOS": [
+          "Esta ficha não indica medicamento, dose, via, intervalo, duração, antídoto, estimulação ou dispositivo. A resposta profissional depende do ritmo, da causa e da presença de comprometimento cardiopulmonar.",
+          "Não use café, energético, descongestionante, estimulante, chá, suplemento ou medicamento de outra pessoa para aumentar a frequência. Não ofereça dose extra de produto já prescrito.",
+          "Não suspenda nem reduza por conta própria medicamento contínuo porque o pulso parece baixo. Alguns produtos podem contribuir para bradicardia, mas a retirada abrupta também pode ser perigosa; leve nome, apresentação, horário e quantidade à equipe.",
+          "Se houver possível ingestão acidental ou dose errada e a criança tiver sonolência, desmaio, confusão, respiração difícil, vômitos persistentes, fraqueza ou pulso muito diferente, procure emergência e leve as embalagens. Não provoque vômito nem dê antídoto caseiro.",
+          "Tratamentos usados no hospital para bradicardia instável e decisões sobre marca-passo são intervenções profissionais. O algoritmo de emergência não deve ser convertido em receita domiciliar, nem o rótulo sintomática autoriza uma terapia automática.",
+          "Se já existe plano escrito de cardiologia ou pós-operatório, siga-o e confirme dúvidas com o serviço. Esta orientação não substitui a prescrição nem valida dose ou dispositivo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está totalmente alerta, respirando confortavelmente e sem náusea importante, mantenha alimentação e líquidos habituais adequados à idade conforme tolerância. Nenhum alimento ou bebida corrige o ritmo.",
+          "Em recém-nascido ou lactente, mamada fraca/cansativa, suor, pausas para respirar, palidez/cianose, sonolência, vômitos repetidos ou menos fraldas molhadas com ritmo lento exigem avaliação rápida; não espere a próxima mamada para decidir.",
+          "Não force alimento, mamada ou grande volume se houver dificuldade para respirar, engasgo, desmaio, confusão ou sonolência intensa. Nessas situações, evite oferecer pela boca e procure emergência pelo risco de aspiração.",
+          "Não concentre fórmula, troque leite, faça solução caseira, restrinja sal ou líquido ou ofereça cafeína/energético para tratar cansaço. Restrições e suplementos só cabem se já foram indicados para outra condição.",
+          "Febre, vômitos, diarreia e baixa ingestão podem piorar o estado geral, mas não explicam automaticamente a bradicardia. Ofereça pequenos volumes apenas se estiver alerta e conseguir engolir, sem adiar atendimento diante de sinais de alarme.",
+          "Se houver exame ou procedimento programado, siga o jejum informado pelo serviço e avise o que foi ingerido. Esta ficha não fornece jejum genérico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 diante de ausência de resposta, respiração ausente ou anormal, desmaio sem recuperação rápida, convulsão prolongada, confusão intensa ou dificuldade para acordar.",
+          "Procure emergência imediatamente se houver falta de ar importante, lábios/pele azulados ou acinzentados, pele muito pálida/manchada/fria, suor frio, pulso fraco, pressão baixa conhecida, fraqueza extrema, piora rápida ou pouca/nenhuma urina: são sinais possíveis de choque ou baixo débito.",
+          "Desmaio ou quase desmaio durante esforço, dor torácica persistente, palpitação com mal-estar ou queda súbita de desempenho exige suspensão do esforço e avaliação urgente mesmo que melhore depois.",
+          "Bradicardia registrada com sintomas persistentes ou recorrentes, pausas, bloqueio atrioventricular avançado ou ritmo ainda não definido deve ser avaliada sem aguardar consulta eletiva. Não use um valor mínimo universal para esperar em casa.",
+          "Após cirurgia, cateterismo, ablação, transplante ou outro procedimento cardíaco, ritmo mais lento acompanhado de tontura, síncope, falta de ar, dor, palidez ou piora clínica exige contato imediato com o centro responsável ou emergência.",
+          "Em recém-nascido ou lactente, mamada muito fraca/cansativa, suor ou respiração rápida ao mamar, prostração, palidez/cianose, extremidades frias ou menos fraldas com ritmo lento exige emergência pediátrica.",
+          "Procure emergência se possível intoxicação, exposição ao frio, doença respiratória grave, febre/inflamação recente ou alteração neurológica vier acompanhada de bradicardia e desmaio, dor no peito, falta de ar, prostração ou piora rápida."
+        ],
+        "QUANDO REAVALIAR": [
+          "Criança estável que teve tontura, pré-síncope, desmaio breve, fraqueza importante, queda de desempenho ou outro sintoma junto de frequência baixa deve ser avaliada no mesmo dia. Sintomas atuais, recorrentes, no esforço ou sinais de má perfusão antecipam para urgência/emergência.",
+          "Um registro novo de bradicardia com sintomas precisa de confirmação profissional do ritmo e comparação com valores adequados à idade. Se o dado veio só de dispositivo doméstico, isso não elimina a necessidade de avaliar o episódio clínico.",
+          "Compareça ao retorno mesmo que o sintoma tenha cessado: o ritmo pode ser intermitente e uma medida normal depois não prova que a causa foi resolvida. A equipe decide quais registros, exames ou monitorização são pertinentes.",
+          "Leve uma linha do tempo dos episódios, ECGs/traçados, lista de medicamentos e exposições, resumo de cirurgias/internações e história familiar de arritmia, cardiomiopatia, marca-passo, desmaio ou morte súbita.",
+          "Se uma causa potencialmente reversível estiver sendo tratada, confirme que sintomas, frequência e ritmo foram reavaliados. Melhora subjetiva ou pulso melhor em casa não substitui o seguimento combinado.",
+          "Peça plano escrito com ritmo/causa conhecida ou ainda em investigação, sinais de alarme, atividades permitidas, prazo de retorno e contatos. O plano da equipe que examinou a criança prevalece sobre esta ficha."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente pequeno depende muito da frequência para manter débito. Mamada fraca/cansativa, suor, taquipneia, palidez/cianose, sonolência, extremidades frias ou menos urina com ritmo lento exige emergência; não depender de corte doméstico.",
+        "3a5m": "Observar vigor e duração da mamada, pausas respiratórias, cor, alerta, fraldas e crescimento. Piora de alimentação ou atividade pode substituir o relato de tontura.",
+        "6a11m": "Menor interação, cansaço para se movimentar, suor, respiração rápida, palidez/arroxeamento e menos urina são relevantes. Doença respiratória, ingestão ou cardiopatia muda a urgência.",
+        "1a": "Recusa alimentar, ficar mole, irritabilidade ou sonolência, menos brincadeira, respiração rápida e extremidades frias podem indicar baixo débito; desmaio, cianose ou esforço respiratório é emergência.",
+        "2a5": "Perguntar sobre quedas inexplicadas, episódios de ficar mole ou muito pálido, pausas na brincadeira e piora após doença/procedimento. Criança pequena pode não descrever tontura.",
+        "6a11": "Investigar tontura, visão escura, pré-síncope/síncope, dor torácica, falta de ar e queda de rendimento, sobretudo no esforço. Suspender atividade sintomática e fornecer plano à escola.",
+        "12a17": "Treino pode reduzir frequência de repouso, mas não explica automaticamente síncope, intolerância ou resposta inadequada ao esforço. Revisar energéticos, suplementos, medicamentos e outras substâncias com conversa confidencial apropriada.",
+        "unknown": "Confirmar idade, vigília/sono, atividade, ritmo documentado, sintomas simultâneos, perfusão, cardiopatia/procedimento, doença recente, produtos/ingestões e história familiar antes de definir gravidade, causa ou seguimento."
+      },
+      "refs": [
+        {
+          "id": "pais264_op3088_1",
+          "name": "Part 8: Pediatric Advanced Life Support — Management of Bradycardia",
+          "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-advanced-life-support"
+        },
+        {
+          "id": "pais264_op3088_2",
+          "name": "Pediatric Bradycardia With a Pulse Algorithm",
+          "url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS-Bradycardia-250121.pdf?sc_lang=en"
+        },
+        {
+          "id": "pais264_op3088_3",
+          "name": "2021 PACES Expert Consensus Statement on the Indications and Management of Cardiovascular Implantable Electronic Devices in Pediatric Patients",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8577100/"
+        },
+        {
+          "id": "pais264_op3088_4",
+          "name": "Atualização da Diretriz de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da Sociedade Brasileira de Cardiologia",
+          "url": "https://www.scielo.br/j/abc/a/7hYYNQk4XHwckmPbFcFD7kP/?format=html&ilang=pt_BR&lang=pt"
+        },
+        {
+          "id": "pais264_op3088_5",
+          "name": "Diretriz da Sociedade Brasileira de Cardiologia sobre a Análise e Emissão de Laudos Eletrocardiográficos – 2022",
+          "url": "https://www.scielo.br/j/abc/a/4QcQvX3T6kZBjNQLzrt5cXj/?format=html&lang=pt"
+        },
+        {
+          "id": "pais264_op3088_6",
+          "name": "Insuficiência Cardíaca na Criança",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2024/agosto/14/24449f-GPA_-Insuficiencia_Cardiaca_na_Crc.pdf"
+        },
+        {
+          "id": "pais264_op3088_7",
+          "name": "Long-term outcomes of pediatric sinus bradycardia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23623512/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema":"parents-directed-batch/1","checked_at":"2026-10-25T05:00:00.000Z","baseline_version":118,"baseline_commit":"f4cae4d1348dce07d5d29c7ddca5f8551183a9ad",
+  "records":[
+    {"key":"pdf1500_1006","label":"Osteogênese imperfeita tipo I","specific":true,"clinical_entity":"Osteogênese imperfeita tipo I","term_resolution":false},
+    {"key":"pdf1500_1007","label":"Osteomielite aguda do fêmur","specific":true,"clinical_entity":"Osteomielite aguda do fêmur em criança","term_resolution":false},
+    {"key":"pdf1500_1008","label":"Osteomielite crônica","specific":true,"clinical_entity":"Osteomielite crônica pediátrica","term_resolution":false},
+    {"key":"pdf1500_1009","label":"Osteossarcoma","specific":true,"clinical_entity":"Osteossarcoma pediátrico","term_resolution":false}
+  ]
+}

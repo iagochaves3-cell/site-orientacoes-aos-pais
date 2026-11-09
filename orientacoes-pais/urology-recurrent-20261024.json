@@ -1,0 +1,174 @@
+{
+  "schema": "parents-directed-urology-recurrent/1",
+  "checked_at": "2026-10-24T07:45:00.000000+00:00",
+  "baseline_commit": "c47371fdf40246c1cc260f95bfbcf5cb8ab315c2",
+  "sources": {
+    "uro24b_rch_cpg": {
+      "name": "RCH — Urinary tract infection",
+      "title": "Clinical Practice Guidelines: Urinary tract infection",
+      "organization": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/urinary_tract_infection_guideline/",
+      "version_or_date": "Página clínica vigente consultada em 24/10/2026",
+      "accessed_at": "2026-10-24T07:45:00.000000+00:00",
+      "population": "Bebês, crianças e adolescentes",
+      "claims": [
+        "Define ITU recorrente por combinação e número de episódios altos e baixos.",
+        "Falta de resposta a antibiótico apropriado em 48 horas caracteriza ITU atípica.",
+        "Urocultura deve ser revista em 24–48 horas; recorrência ou falta de resposta exige seguimento próprio."
+      ],
+      "location": "Background; Investigation; Follow up; consultation criteria"
+    },
+    "uro24b_rch_referral": {
+      "name": "RCH — Urinary tract infection: specialist referral",
+      "title": "Specialist Clinics: Urinary tract infection",
+      "organization": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/specialist-clinics/referring-guidelines/Urinary_tract_infection/",
+      "version_or_date": "Revisado em julho de 2026",
+      "accessed_at": "2026-10-24T07:45:00.000000+00:00",
+      "population": "Crianças e adolescentes com ITU",
+      "claims": [
+        "Recorrência confirmada por cultura e disfunção vesical/intestinal orientam avaliação especializada.",
+        "Deterioração ou febre persistente após 48 horas de antibiótico apropriado é sinal para pronto atendimento.",
+        "Profilaxia antibiótica não deve ser iniciada rotineiramente antes da avaliação especializada."
+      ],
+      "location": "Referral criteria; Red flags; Pre-referral work up"
+    },
+    "uro24b_niddk": {
+      "name": "NIDDK — Treatment for Bladder Infection in Children",
+      "title": "Treatment for Bladder Infection in Children",
+      "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-infections-in-children/treatment",
+      "version_or_date": "Última revisão em fevereiro de 2025",
+      "accessed_at": "2026-10-24T07:45:00.000000+00:00",
+      "population": "Crianças com infecção urinária baixa",
+      "claims": [
+        "Antibiótico deve seguir a prescrição e considerar idade, bactéria e alergias.",
+        "Micção regular, esvaziamento da bexiga, hidratação adequada e tratamento da constipação ajudam a reduzir recorrências."
+      ],
+      "location": "Medicines; Self-care at home; Keep the urinary tract healthy"
+    },
+    "uro24b_pbh": {
+      "name": "SUS-BH — Manejo clínico da infecção urinária na criança",
+      "title": "Protocolo colaborativo: manejo clínico da infecção urinária na criança",
+      "organization": "Secretaria Municipal de Saúde de Belo Horizonte",
+      "url": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/saude/2020/protocolo_manejo_clinico_infeccao_urinaria_crianca-14-10-2020.pdf",
+      "version_or_date": "2020",
+      "accessed_at": "2026-10-24T07:45:00.000000+00:00",
+      "population": "Crianças e adolescentes",
+      "claims": [
+        "Recorrência confirmada por urocultura e alterações urinárias ou renais justificam avaliação especializada.",
+        "Constipação e hábitos miccionais devem ser avaliados e tratados.",
+        "Profilaxia medicamentosa é individualizada e não deve ser iniciada por responsáveis sem prescrição."
+      ],
+      "location": "Seções 6.5, 9, 10 e 11; páginas 10 e 18–20"
+    }
+  },
+  "families": {
+    "pyelo_recurrent": {
+      "entity": "Pielonefrite / ITU alta recorrente",
+      "home": [
+        "Pielonefrite recorrente significa novos episódios de infecção nos rins. Em geral, considera-se recorrente quando há duas ou mais infecções urinárias altas, ou uma alta junto com pelo menos uma baixa; os episódios precisam ser confirmados e comparados pela equipe.",
+        "Guarde uroculturas, antibiogramas, ultrassons e receitas anteriores. Um sintoma isolado ou exame contaminado não confirma nova infecção."
+      ],
+      "care": [
+        "Incentive idas regulares ao banheiro, sem segurar a urina, e ajude a esvaziar a bexiga com calma. Trate intestino preso conforme o plano da equipe.",
+        "Anote febre, dor nas costas ou na barriga, vômitos, ingestão e quantidade de urina. Informe jato fraco, escapes de urina, alterações conhecidas dos rins e episódios anteriores."
+      ],
+      "meds": [
+        "Dê o antibiótico do episódio atual exatamente conforme a receita. Não use sobras nem repita o antibiótico de uma infecção anterior; a urocultura pode exigir troca feita pela equipe.",
+        "Não inicie antibiótico preventivo por conta própria. A necessidade de profilaxia depende das culturas, da idade, dos exames e da avaliação especializada."
+      ],
+      "alarm": [
+        "Criança muito abatida, difícil de acordar, com falta de ar, vômitos repetidos, incapaz de beber ou mamar, ou urinando muito menos precisa de atendimento imediato.",
+        "Febre com calafrios, dor nas costas ou na lateral da barriga, piora enquanto usa antibiótico ou sinais de nova pielonefrite exigem reavaliação sem demora."
+      ],
+      "follow": [
+        "Combine a conferência da urocultura em 24–48 horas. Cada novo episódio deve ser confirmado e tratado rapidamente; não reutilize automaticamente o plano anterior.",
+        "Marque seguimento pediátrico especializado. Ultrassom e outros exames dependem da idade, do número e tipo de episódios e dos achados anteriores."
+      ],
+      "refs": ["uro24b_rch_cpg", "uro24b_rch_referral", "uro24b_niddk", "uro24b_pbh"],
+      "urgent": false
+    },
+    "cystitis_recurrent": {
+      "entity": "Cistite / ITU baixa recorrente",
+      "home": [
+        "Cistite recorrente significa episódios repetidos de infecção da bexiga; em geral, três ou mais episódios baixos entram nessa definição. Ardor ou urgência sem urocultura não bastam para confirmar que todas as crises foram infecção.",
+        "Guarde uroculturas, antibiogramas e receitas anteriores. Febre alta, vômitos ou dor nas costas podem indicar que a infecção atingiu os rins e mudam a urgência."
+      ],
+      "care": [
+        "Incentive idas regulares ao banheiro, sem segurar a urina, e ajude a esvaziar a bexiga com calma. Trate intestino preso conforme o plano da equipe.",
+        "Anote ardor, frequência, escapes de urina, dor, febre e quantidade de urina. Informe jato fraco, alterações conhecidas dos rins e episódios anteriores."
+      ],
+      "meds": [
+        "Dê o antibiótico do episódio atual exatamente conforme a receita. Não use sobras nem repita o antibiótico de uma infecção anterior; a urocultura pode exigir troca feita pela equipe.",
+        "Não inicie antibiótico preventivo por conta própria. A necessidade de profilaxia depende das culturas, da idade, dos exames e da avaliação especializada."
+      ],
+      "alarm": [
+        "Criança muito abatida, difícil de acordar, com falta de ar, vômitos repetidos, incapaz de beber ou mamar, ou urinando muito menos precisa de atendimento imediato.",
+        "Febre, calafrios ou dor nas costas ou na lateral da barriga exigem reavaliação sem demora, pois podem indicar infecção nos rins."
+      ],
+      "follow": [
+        "Combine a conferência da urocultura em 24–48 horas. Se os sintomas voltarem, procure avaliação para confirmar um novo episódio antes de reutilizar qualquer antibiótico.",
+        "Marque seguimento pediátrico se as culturas confirmarem recorrência. A equipe avaliará intestino preso, hábito de urinar e necessidade de ultrassom ou especialista."
+      ],
+      "refs": ["uro24b_rch_cpg", "uro24b_rch_referral", "uro24b_niddk", "uro24b_pbh"],
+      "urgent": false
+    },
+    "pyelo_nonresponse": {
+      "entity": "Pielonefrite sem resposta em 48 horas / ITU atípica",
+      "home": [
+        "O termo “refratário” foi interpretado como falta de melhora após até 48 horas de antibiótico apropriado. Isso caracteriza resposta atípica e exige reavaliação urgente; não é uma situação para continuar apenas observando em casa.",
+        "A falta de melhora não prova sozinha resistência bacteriana. A equipe precisa conferir diagnóstico, urocultura, tomada do medicamento, hidratação e possíveis alterações ou complicações."
+      ],
+      "care": [
+        "Procure reavaliação hoje. Leve receita, horários e doses já administradas, alergias, urocultura/antibiograma e exames de imagem disponíveis.",
+        "Não atrase a saída para repetir exame em casa. A equipe decidirá se precisa de nova amostra, ultrassom, antibiótico na veia ou internação."
+      ],
+      "meds": [
+        "Não dobre dose, não troque, não acrescente nem suspenda antibiótico por conta própria. Informe se houve vômito das doses, atraso, efeito adverso ou dificuldade para administrar.",
+        "Leve os frascos ou embalagens usados. A troca do antibiótico deve considerar a cultura, a avaliação clínica e as alergias."
+      ],
+      "alarm": [
+        "Febre persistente com piora, criança muito abatida, difícil de acordar, com falta de ar, vômitos repetidos, incapaz de beber ou mamar, ou urinando muito menos: vá imediatamente ao pronto atendimento.",
+        "Sinais de alergia grave, como inchaço de lábios ou língua, dificuldade para respirar ou desmaio, exigem socorro imediato."
+      ],
+      "follow": [
+        "A reavaliação é urgente no mesmo dia e não deve esperar o próximo retorno de rotina. Se houver deterioração, procure pronto atendimento imediatamente.",
+        "Após a nova conduta, confirme quando rever a urocultura e quais exames e retorno serão necessários; não presuma que a melhora da febre encerra a investigação."
+      ],
+      "refs": ["uro24b_rch_cpg", "uro24b_rch_referral", "uro24b_pbh"],
+      "urgent": true
+    },
+    "cystitis_nonresponse": {
+      "entity": "Cistite sem resposta em 48 horas / ITU atípica",
+      "home": [
+        "O termo “refratário” foi interpretado como falta de melhora após até 48 horas de antibiótico apropriado. Isso é uma resposta atípica e precisa de reavaliação no mesmo dia.",
+        "Persistência do ardor ou da urgência pode ter outras causas, e febre, vômitos ou dor nas costas podem indicar infecção nos rins. A equipe precisa conferir diagnóstico, coleta e urocultura."
+      ],
+      "care": [
+        "Procure reavaliação hoje. Leve receita, horários e doses já administradas, alergias, urocultura/antibiograma e exames disponíveis.",
+        "Não atrase a saída para repetir exame em casa. A equipe decidirá se precisa de nova amostra, ajuste do tratamento ou investigação de alterações urinárias."
+      ],
+      "meds": [
+        "Não dobre dose, não troque, não acrescente nem suspenda antibiótico por conta própria. Informe se houve vômito das doses, atraso, efeito adverso ou dificuldade para administrar.",
+        "Leve os frascos ou embalagens usados. A troca do antibiótico deve considerar a cultura, a avaliação clínica e as alergias."
+      ],
+      "alarm": [
+        "Febre persistente com piora, criança muito abatida, difícil de acordar, com vômitos repetidos, incapaz de beber ou mamar, ou urinando muito menos: vá imediatamente ao pronto atendimento.",
+        "Calafrios, dor nas costas ou na lateral da barriga, falta de ar ou sinais de alergia grave exigem atendimento imediato."
+      ],
+      "follow": [
+        "A reavaliação deve ocorrer no mesmo dia. Se houver febre persistente ou piora clínica após 48 horas de antibiótico apropriado, procure pronto atendimento.",
+        "Após a nova conduta, confirme quando rever a urocultura e se será necessário ultrassom ou encaminhamento."
+      ],
+      "refs": ["uro24b_rch_cpg", "uro24b_rch_referral", "uro24b_niddk", "uro24b_pbh"],
+      "urgent": true
+    }
+  },
+  "records": [
+    {"key": "pdf1500_865", "label": "Infecção do trato urinário alta (Pielonefrite) recorrente", "family": "pyelo_recurrent"},
+    {"key": "pdf1500_866", "label": "Infecção do trato urinário alta (Pielonefrite) refratário", "family": "pyelo_nonresponse"},
+    {"key": "pdf1500_879", "label": "Infecção do trato urinário baixa (Cistite) recorrente", "family": "cystitis_recurrent"},
+    {"key": "pdf1500_880", "label": "Infecção do trato urinário baixa (Cistite) refratário", "family": "cystitis_nonresponse"}
+  ]
+}

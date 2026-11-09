@@ -1,0 +1,78 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T20:25:26.223Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_5df396ce7bd8d0b1",
+      "label": "Granuloma umbilical — registro no PPS",
+      "entity": "Granuloma umbilical do lactente",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Excesso de tecido de cicatrização umbilical; confirmar no exame antes de tratar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O granuloma é um pequeno tecido úmido, rosado ou avermelhado que pode permanecer após a queda do coto umbilical. Pode sair um pouco de líquido claro ou amarelado. A equipe deve confirmar o diagnóstico.",
+          "Um granuloma simples não costuma doer. Dor, vermelhidão que aumenta, pus ou mal-estar precisam ser avaliados, mesmo que já exista esse diagnóstico."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos antes do cuidado. Limpe suavemente quando houver sujeira, urina ou fezes e seque bem. Dobre a fralda abaixo do umbigo para reduzir umidade e atrito.",
+          "Não arranque, corte, esprema ou amarre o tecido. Não improvise cauterização nem cubra o umbigo com moeda, faixa ou produtos caseiros.",
+          "Não aplique álcool ou antissépticos por conta própria no granuloma; siga o cuidado local orientado após o exame."
+        ],
+        "MEDICAMENTOS": [
+          "A conduta pode incluir observação acompanhada ou tratamento escolhido pela equipe. Nitrato de prata é aplicado por profissional; não tente reproduzir a aplicação em casa.",
+          "Alguns serviços orientam sal após confirmar granuloma sem infecção. Só use se a equipe explicar o plano específico para seu bebê, inclusive duração e retorno. Não comece sal, corticoide, antibiótico ou outro produto apenas pelo nome da ficha."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno ou fórmula conforme o plano habitual. O granuloma não exige dieta especial nem substituição das mamadas por água ou chás.",
+          "Observe se o bebê mama e urina como de costume. Recusa de mamadas ou redução importante das fraldas molhadas exige avaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Febre em bebê menor de três meses, prostração, dificuldade para despertar ou respirar exige atendimento imediato; em situação grave, ligue 192.",
+          "Vermelhidão que se espalha ao redor do umbigo, calor, inchaço, dor, pus ou mau cheiro com piora exigem avaliação sem demora por possível infecção. Não espere o tratamento caseiro terminar."
+        ],
+        "QUANDO REAVALIAR": [
+          "Combine retorno para verificar cicatrização. Se a equipe indicou sal e não houve melhora em cinco dias, procure reavaliação; volte antes se piorar.",
+          "Se o tecido ou a secreção persistirem apesar do plano, o diagnóstico deve ser revisto; pode ser necessária investigação de outra causa. Sangramento repetido ou aumento do caroço também precisa de avaliação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Idade típica, mas febre e mudança das mamadas exigem atendimento imediato; confirmar diagnóstico no exame.",
+        "3a5m": "Persistência após período neonatal merece reavaliação; não repetir tratamentos sem orientação.",
+        "6a11m": "Umidade ou caroço persistente no umbigo requer confirmar a causa; não presumir granuloma simples.",
+        "1a": "Diagnóstico menos típico nesta idade: avaliar antes de tratar como quadro neonatal.",
+        "2a5": "Lesão umbilical nesta faixa deve ser examinada; não transferir automaticamente tratamento de recém-nascido.",
+        "6a11": "Reavaliar causa de secreção ou massa no umbigo; cuidados neonatais não confirmam diagnóstico.",
+        "12a17": "Lesão umbilical em adolescente precisa de avaliação própria; não aplicar automaticamente este plano neonatal.",
+        "unknown": "Confirme idade e diagnóstico antes de qualquer tratamento; sinais de infecção não podem aguardar."
+      },
+      "refs": [
+        {
+          "id": "pais228_op642_1",
+          "name": "Umbilical granuloma factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/umbilical-granuloma"
+        },
+        {
+          "id": "pais228_op642_2",
+          "name": "Umbilical Granuloma",
+          "url": "https://my.clevelandclinic.org/health/diseases/umbilical-granuloma"
+        },
+        {
+          "id": "pais228_op642_3",
+          "name": "Umbilical stump and belly button care",
+          "url": "https://raisingchildren.net.au/newborns/health-daily-care/hygiene-keeping-clean/umbilical-care"
+        },
+        {
+          "id": "pais228_op642_4",
+          "name": "Fever in children",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Fever_in_children/"
+        },
+        {
+          "id": "pais228_op642_5",
+          "name": "Dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

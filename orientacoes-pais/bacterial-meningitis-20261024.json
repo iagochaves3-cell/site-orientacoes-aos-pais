@@ -1,0 +1,15 @@
+{
+  "schema": "parents-directed-batch/1",
+  "checked_at": "2026-10-25T00:20:00.000Z",
+  "baseline_version": 112,
+  "baseline_commit": "8b93b98db42f5cd3a245ac5752ca78290e887021",
+  "records": [
+    {"key":"pdf1500_962","label":"Meningite bacteriana","specific":true,"clinical_entity":"Meningite bacteriana pediátrica","term_resolution":false},
+    {"key":"pdf1500_963","label":"Meningite bacteriana agudo","specific":false,"clinical_entity":"Meningite bacteriana; qualificador agudo redundante","term_resolution":true},
+    {"key":"pdf1500_964","label":"Meningite bacteriana bilateral","specific":false,"clinical_entity":"Meningite bacteriana; bilateralidade inaplicável","term_resolution":true},
+    {"key":"pdf1500_965","label":"Meningite bacteriana crônico","specific":false,"clinical_entity":"Síndrome de meningite persistente; causa não especificada","term_resolution":true},
+    {"key":"pdf1500_966","label":"Meningite bacteriana de origem infecciosa","specific":false,"clinical_entity":"Meningite bacteriana; origem infecciosa tautológica","term_resolution":true},
+    {"key":"pdf1500_967","label":"Meningite bacteriana grave","specific":false,"clinical_entity":"Meningite bacteriana com possível instabilidade","term_resolution":true},
+    {"key":"pdf1500_968","label":"Meningite bacteriana idiopático","specific":false,"clinical_entity":"Meningite bacteriana com agente não identificado; rótulo causal inadequado","term_resolution":true}
+  ]
+}

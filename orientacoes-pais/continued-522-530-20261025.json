@@ -1,0 +1,777 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:19:07.066Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_e2869f256df022b2",
+      "label": "Aneurisma de aorta abdominal roto — registro no PPS",
+      "entity": "Ruptura de aneurisma da aorta abdominal — emergência vascular com hemorragia interna",
+      "assessment": "{\"classification\":\"VALID_TIME_CRITICAL_VASCULAR_EMERGENCY_WITH_RARE_PEDIATRIC_SCOPE_AND_ADMINISTRATIVE_SUFFIX\",\"normalized_entity\":\"Ruptura de aneurisma da aorta abdominal\",\"assessment\":\"A ruptura de aneurisma da aorta abdominal é uma entidade clínica válida e uma emergência vascular imediatamente ameaçadora à vida. É muito rara em crianças, mas está descrita desde lactentes até adolescentes. ‘Registro no PPS’ é apenas proveniência administrativa e não modifica o diagnóstico.\",\"validity_and_scope\":\"Em pediatria, aneurismas abdominais podem ser congênitos/idiopáticos ou associados a condições genéticas, doenças do tecido conjuntivo, vasculites, infecção, cateterização umbilical ou trauma. A causa não deve ser presumida pelo rótulo e sua investigação não pode atrasar estabilização, transporte e avaliação cirúrgica urgente quando há ruptura.\",\"pps_aliases\":[{\"label\":\"Aneurisma de aorta abdominal roto\",\"assessment\":\"Nome clínico válido e equivalente à entidade normalizada.\"},{\"label\":\"Aneurisma de aorta abdominal roto — apresentação pediátrica aguda\",\"assessment\":\"Qualificador redundante: ruptura já é apresentação aguda e crítica; não cria nova doença.\"},{\"label\":\"Aneurisma de aorta abdominal roto — evolução complicada/refratária\",\"assessment\":\"Perfil administrativo inadequado como entidade separada. Ruptura é a complicação; ‘refratária’ não define subtipo nem autoriza terapia caseira.\"},{\"label\":\"Aneurisma de aorta abdominal roto — forma grave/crítica\",\"assessment\":\"Qualificador redundante: toda ruptura é potencialmente fatal e exige emergência, independentemente de outro adjetivo de gravidade.\"}],\"not_automatically_equivalent_to\":[\"Aneurisma da aorta abdominal íntegro e estável em acompanhamento\",\"Dissecção de aorta\",\"Ruptura traumática da aorta sem aneurisma prévio\",\"Aneurisma ou ruptura de artéria visceral, ilíaca ou renal\",\"Dor abdominal comum, apendicite ou cólica renal\",\"Massa abdominal pulsátil sem confirmação vascular\"],\"counting_rule\":\"Contar uma única entidade clínica de ruptura de aneurisma da aorta abdominal para o nome-base e os três perfis PPS. Preservar todos os rótulos para seleção, sem criar doenças por sufixo administrativo.\",\"pediatric_scope\":\"Raro, mas possível em todas as faixas pediátricas. Lactentes podem apresentar sinais inespecíficos de abdome agudo e choque; crianças maiores e adolescentes podem relatar dor súbita abdominal, dorsal, lateral ou inguinal, além de colapso. Nenhuma idade torna a ruptura segura para observação domiciliar.\",\"reason\":null,\"next_action\":\"Revisão independente do coordenador, integração como emergência alwaysUrgent, testes de seleção por ID/nome/aliases e publicação somente após deployment terminal confirmado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A ruptura de um aneurisma da aorta abdominal significa que a principal artéria do corpo se rompeu ou pode estar vazando sangue dentro do abdome. É uma emergência com risco de choque e morte; não existe observação ou tratamento seguro em casa.",
+          "Se o diagnóstico foi informado, está sendo suspeitado ou há sinais compatíveis em criança com aneurisma conhecido, ligue para o SAMU 192 agora. Diga claramente ‘suspeita ou diagnóstico de ruptura de aneurisma de aorta abdominal’ e siga as orientações do médico regulador.",
+          "Mantenha a criança deitada, quieta, aquecida de forma leve e acompanhada. Não a deixe andar, subir escadas, ir ao banheiro sozinha ou fazer esforço; não aperte, massageie nem tente sentir uma massa no abdome.",
+          "Anote a hora de início da dor ou piora, desmaio, vômitos e última vez em que estava bem. Separe documento, diagnóstico/imagem do aneurisma, lista de medicamentos, alergias e doenças conhecidas sem atrasar o socorro.",
+          "Se ficar inconsciente, informe imediatamente ao SAMU. Se não respirar normalmente, inicie compressões conforme orientação da central; se respirar, mantenha a via aérea segura e evite movimentação desnecessária, seguindo o regulador."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não dirija a criança por conta própria se houver desmaio, confusão, sonolência importante, palidez intensa, suor frio, falta de ar ou piora rápida. O transporte regulado permite suporte durante o trajeto e escolha do hospital adequado.",
+          "Não atrase a chamada para procurar pressão, medir repetidamente sinais, arrumar mala, buscar exame, pedir opinião por mensagem ou esperar outro familiar chegar. A ausência de uma massa pulsátil percebida em casa não exclui ruptura.",
+          "Afrouxe roupa apertada e mantenha o ambiente seguro. Não coloque bolsa quente, gelo, faixa ou peso sobre o abdome; não faça manobras, massagem ou exercícios para aliviar a dor.",
+          "Deixe acesso livre para a equipe, mantenha telefone disponível e avise se houver mudança na respiração, consciência, cor da pele ou intensidade da dor enquanto aguarda.",
+          "No hospital, imagem, estabilização e reparo exigem equipes de emergência, cirurgia vascular/pediátrica, anestesia e terapia intensiva. Protocolos de adultos ou relatos de casos não devem ser transformados em instruções domiciliares."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê aspirina, ibuprofeno ou outro anti-inflamatório, anticoagulante, remédio para pressão, sedativo, estimulante, fitoterápico ou medicamento de outra pessoa. Não há comprimido capaz de tratar uma ruptura.",
+          "Não dê dose extra de analgésico nem atrase o SAMU para procurar receita. Dor que melhora após medicamento não exclui sangramento interno.",
+          "Se a criança já usa anticoagulante, antiagregante, remédio para pressão, corticoide ou medicamento para doença genética/inflamatória, não tente corrigir ou suspender em casa; informe nome, horário e quantidade à equipe de emergência.",
+          "Fluidos na veia, sangue, controle da pressão, anestesia e técnica de reparo são decisões hospitalares individualizadas. Esta ficha não prescreve dose, alvo de pressão, transfusão ou técnica cirúrgica pediátrica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não ofereça comida, leite, água, suco, chá, bala ou goma de mascar enquanto aguarda a emergência, salvo orientação expressa do SAMU. Pode ser necessária anestesia imediata e há risco de vômito e aspiração.",
+          "Não force líquidos para ‘subir a pressão’ nem ofereça sal, açúcar, energético ou café. Sangramento interno não é corrigido por bebida e o esforço para ingerir pode piorar náusea ou vômito.",
+          "Em bebês, interrompa a mamada e peça socorro diante de suspeita de ruptura, abdome distendido com palidez/prostração ou perda de resposta. Informe o horário da última mamada à equipe.",
+          "Se a criança vomitar, não dê nova alimentação e informe a equipe. Se houver rebaixamento de consciência, mantenha nada por boca e siga a orientação do regulador para posição segura."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "A própria suspeita ou confirmação de aneurisma de aorta abdominal roto já exige ambulância e atendimento imediato; não espere aparecer outro sinal e não use esta ficha como autorização de alta.",
+          "Dor abdominal, nas costas, no lado ou na virilha de início súbito e muito intensa, especialmente em criança com aneurisma/aortopatia conhecida, exige SAMU 192 mesmo sem desmaio.",
+          "Palidez intensa, suor frio, fraqueza súbita, tontura, desmaio, confusão, sonolência anormal, respiração rápida ou difícil, coração muito acelerado, extremidades frias ou pouca resposta são sinais de possível choque.",
+          "Aumento ou distensão rápida do abdome, dor ao mínimo movimento, vômitos com piora do estado geral ou massa pulsátil percebida por profissional exige emergência. Não procure nem aperte a massa em casa.",
+          "Em lactentes, abdome subitamente distendido, choro/dor inconsolável, vômitos, palidez, recusa de mamada, moleza, sonolência ou baixa resposta pode ser a apresentação de uma emergência abdominal; chame o SAMU se houver suspeita de ruptura ou choque.",
+          "Após trauma importante, criança com dor abdominal/dorsal súbita, palidez, desmaio ou sinais de choque precisa de atendimento imediato e imobilização conforme o resgate; não presuma que seja apenas contusão."
+        ],
+        "QUANDO REAVALIAR": [
+          "A avaliação é agora, em hospital com capacidade de estabilização e acesso urgente a equipes cirúrgicas. Não existe prazo de retorno ambulatorial para ruptura suspeita ou confirmada.",
+          "Durante transporte ou internação, avise imediatamente sobre piora da dor, desmaio, confusão, nova dificuldade para respirar, redução de urina, perna fria/pálida, sangramento ou mudança de pulsos; podem indicar choque ou comprometimento de órgãos e membros.",
+          "Após reparo e alta formal, cumpra o calendário individual de cirurgia vascular/pediátrica, cardiologia, imagem e demais especialidades. Crianças operadas precisam acompanhamento prolongado por crescimento, enxerto/anastomose, novos aneurismas e causa de base.",
+          "A equipe pode indicar avaliação genética, inflamatória, infecciosa ou de outras artérias conforme história e achados. Não presuma uma síndrome nem examine familiares por conta própria; siga encaminhamento especializado.",
+          "Qualquer retorno de dor súbita, desmaio, palidez, suor frio, falta de ar ou fraqueza depois da alta exige novo acionamento do SAMU 192, sem aguardar a consulta programada.",
+          "Retorno à escola, viagens, esporte e atividades com impacto depende de liberação individual. A ruptura não é contagiosa; restrições existem por segurança vascular e recuperação, não para isolamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Embora excepcional, ruptura congênita foi descrita em recém-nascidos e lactentes. Abdome distendido, vômitos, palidez, pouca reação, má sucção, choro inconsolável, respiração anormal ou colapso exige emergência. Interrompa a mamada, chame o SAMU e não pressione o abdome.",
+        "3a5m": "Sinais podem ser inespecíficos: irritabilidade intensa, distensão abdominal, vômitos, recusa de mamada, palidez, suor frio, moleza ou menor resposta. Em suspeita de aneurisma/ruptura, chame ambulância e mantenha nada por boca.",
+        "6a11m": "O bebê pode não localizar dor. Choro súbito, proteger a barriga, vômitos, distensão, palidez ou perda de habilidades/contato associada a piora rápida exige emergência; não faça massagem nem ofereça mamada.",
+        "1a": "A criança pode apontar apenas ‘barriga’ ou costas. Dor súbita intensa, queda, moleza, palidez, suor frio, vômitos ou desmaio exige SAMU; carregue somente se necessário para segurança e não a faça caminhar.",
+        "2a5": "Não espere descrição precisa da dor. Mudança brusca de comportamento, dor abdominal/dorsal intensa, posição encolhida, palidez, suor frio, fraqueza ou desmaio em criança com aneurisma conhecido é emergência imediata.",
+        "6a11": "Pergunte onde e quando a dor começou sem atrasar a chamada. Dor súbita no abdome, costas, lado ou virilha com tontura, palidez, suor frio ou desmaio exige ambulância; não permita caminhar nem comer/beber.",
+        "12a17": "Dor súbita intensa abdominal ou dorsal, colapso ou choque exige SAMU mesmo que o adolescente minimize os sintomas. Informe trauma, procedimento recente, infecção, aortopatia, doença genética/inflamatória e medicamentos sem presumir causa ou usar protocolo adulto em casa.",
+        "unknown": "Sem idade, estabilidade, imagem ou contexto, suspeita de ruptura continua sendo emergência universal. Ligue 192, mantenha repouso e nada por boca e não invente medicamento, dose, alvo de pressão ou forma de transporte."
+      },
+      "refs": [
+        {
+          "id": "pais170_op522_1",
+          "name": "Successful repair of a ruptured congenital abdominal aortic aneurysm in a 2-month-old infant and review of the literature",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12908020/"
+        },
+        {
+          "id": "pais170_op522_2",
+          "name": "Surgical Treatment of Abdominal Aortoiliac Aneurysms in Children: A Case Series and Systematic Literature Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13314641/"
+        },
+        {
+          "id": "pais170_op522_3",
+          "name": "Cardiovascular Management of Aortopathy in Children: A Scientific Statement From the American Heart Association",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39129620/"
+        },
+        {
+          "id": "pais170_op522_4",
+          "name": "Aorta Health: Risks and Symptoms of Aneurysm",
+          "url": "https://www.heart.org/en/health-topics/aortic-aneurysm/your-aorta-the-pulse-of-life"
+        },
+        {
+          "id": "pais170_op522_5",
+          "name": "Abdominal aortic aneurysm",
+          "url": "https://www.healthdirect.gov.au/conditions/heart-diseases/abdominal-aortic-aneurysm"
+        },
+        {
+          "id": "pais170_op522_6",
+          "name": "SAMU 192",
+          "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_c89bf66ac8ad287b",
+      "label": "Angina de Prinzmetal — registro no PPS",
+      "entity": "Angina vasoespástica por espasmo transitório de artéria coronária — entidade válida, extremamente rara em pediatria",
+      "assessment": "{\"classification\":\"VALID_RARE_ENTITY_WITH_LIMITED_PEDIATRIC_EVIDENCE_AND_SPECIALIST_CONFIRMATION_REQUIRED\",\"normalized_entity\":\"Angina vasoespástica (angina variante, angina de Prinzmetal)\",\"assessment\":\"Angina de Prinzmetal é sinônimo histórico de angina vasoespástica, isquemia causada por contração transitória de artéria coronária. É reconhecida por critérios cardiológicos próprios, mas ocorre predominantemente em adultos e é excepcional em crianças/adolescentes. Dor torácica isolada, mesmo em repouso, não confirma o diagnóstico; causas pediátricas mais comuns e outras causas cardíacas graves precisam ser avaliadas.\",\"clinical_scope\":\"Orientação de segurança para registro PPS e para criança/adolescente com diagnóstico confirmado ou suspeita documentada. Não autoriza diagnóstico domiciliar, teste provocativo, alta ou tratamento adulto extrapolado.\",\"canonical_key\":\"pps_catalog_c89bf66ac8ad287b\",\"canonical_reconciliation\":\"Nenhuma outra ficha canônica de Prinzmetal foi encontrada na fila vigente. O registro PPS representa a entidade rara; perfis agudo, complicado/refratário ou grave/crítico do catálogo não devem ser contados como novas entidades se forem incorporados depois.\",\"not_automatically_equivalent_to\":[\"Toda dor torácica em criança ou adolescente\",\"Costocondrite, dor muscular ou pontada precordial\",\"Miocardite ou pericardite\",\"Arritmia\",\"Anomalia coronária, sequela de Kawasaki ou doença coronariana obstrutiva\",\"Ataque de pânico\",\"Infarto do miocárdio confirmado\"],\"diagnostic_boundary\":\"Critérios internacionais combinam sintomas compatíveis, alterações isquêmicas transitórias no ECG e/ou demonstração de espasmo coronário. Testes provocativos são invasivos, podem causar complicações graves e pertencem a centros experientes; não existe protocolo domiciliar ou dose pediátrica padronizada.\",\"counting_rule\":\"Uma entidade clínica rara e um registro PPS. Não multiplicar por perfis de gravidade nem contabilizar dor torácica inespecífica como caso de Prinzmetal.\",\"pediatric_scope\":\"Evidência direta limitada a relatos e pequenas séries, sobretudo em adolescentes. Lactentes e crianças pequenas não devem receber esse rótulo por extrapolação de critérios adultos.\",\"next_action\":\"Coordenador deve integrar orientação específica com gate de confirmação cardiológica e urgência. Revisão por cardiologia pediátrica é recomendada antes de qualquer conduta farmacológica ou liberação de atividade.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Angina de Prinzmetal, também chamada angina vasoespástica, é um espasmo temporário de uma artéria do coração que reduz o fluxo de sangue. É válida, porém extremamente rara em crianças e adolescentes; dor no peito sozinha não confirma o diagnóstico.",
+          "Cuidados em casa só se aplicam entre episódios, depois de avaliação e com plano escrito da cardiologia. Mantenha contatos de emergência, lista de medicamentos e resumo do diagnóstico disponíveis para família, escola e cuidadores.",
+          "Registre horário, duração, atividade ou repouso, localização/irradiação da dor, falta de ar, palpitação, tontura, desmaio, náusea e o que foi feito. Durante dor atual ou sintomas associados, não espere preencher o diário: procure atendimento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se começar dor torácica, interrompa a atividade, sente ou deite a criança em local seguro e acione o plano de emergência. Não deixe caminhar, correr, tomar banho sozinho ou dirigir para testar se melhora.",
+          "Não faça teste de esforço, hiperventilação ou exposição ao frio para provocar sintomas. Restrição ou retorno ao esporte deve ser definido pela cardiologia após avaliação; um caso publicado em adolescente não cria regra universal.",
+          "Evite fumaça de cigarro, tabaco, vape e drogas estimulantes. Adolescentes devem poder contar, sem punição, sobre energéticos, suplementos, descongestionantes, nicotina ou outras substâncias para que a equipe avalie possíveis gatilhos e interações."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o plano prescrito pela cardiologia para esta criança. Não inicie, suspenda, repita ou compartilhe remédio para o coração e não use medicamento de adulto ou de outra pessoa durante dor torácica.",
+          "Se existe medicamento de resgate prescrito, siga exatamente a orientação recebida e procure emergência conforme o plano; melhora após uma dose não confirma o diagnóstico nem exclui infarto ou arritmia.",
+          "Informe à cardiologia todos os medicamentos, suplementos, produtos para resfriado, tratamento de TDAH, nicotina e outras substâncias. Esta ficha não escolhe fármaco, apresentação, dose, via ou duração, porque faltam evidências pediátricas padronizadas."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Entre episódios, mantenha alimentação e líquidos adequados à idade e às orientações da equipe. Nenhum alimento, chá, suplemento ou energético previne ou interrompe espasmo coronário.",
+          "Durante dor intensa, falta de ar, desmaio ou sonolência, não force comida, bebida ou comprimidos; acione emergência. Se estiver plenamente alerta, aguarde orientação do serviço e siga apenas o plano já prescrito.",
+          "Vômitos repetidos, dificuldade para beber ou pouca urina junto de dor torácica aumentam a necessidade de avaliação. Não tente corrigir o quadro apenas com líquidos em casa."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor, pressão ou aperto no peito agora, especialmente se forte, recorrente, em repouso ou irradiando para braço, ombro, costas, pescoço ou mandíbula, exige avaliação urgente. Acione SAMU 192 se for intensa, durar, voltar ou houver qualquer sinal abaixo.",
+          "Desmaio ou quase desmaio, falta de ar, lábios arroxeados, suor frio, palidez intensa, confusão, convulsão, fraqueza importante ou dificuldade para despertar exige 192.",
+          "Palpitação sustentada ou batimento muito irregular junto de dor, tontura ou mal-estar exige emergência. Não tente medir repetidamente em casa antes de pedir ajuda.",
+          "Em diagnóstico já confirmado, episódio diferente, mais forte, mais prolongado, mais frequente ou que não responde como previsto no plano exige emergência, mesmo que a dor depois melhore.",
+          "Não transporte dirigindo se houver desmaio, alteração de consciência ou comprometimento importante. Informe ao serviço que existe suspeita ou diagnóstico de angina vasoespástica e leve o resumo da cardiologia."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o nome apareceu no cadastro sem confirmação por cardiologia, marque avaliação especializada prioritária e leve os registros de dor, ECGs e exames existentes. Dor atual ou sinais de alarme não aguardam consulta.",
+          "Após qualquer episódio atendido, cumpra o retorno definido na alta, mesmo com melhora. O especialista decide monitorização, investigação e atividade; um ECG normal fora da crise não substitui a avaliação quando há sinais de risco.",
+          "Antecipe contato por episódios mais frequentes, sintomas noturnos recorrentes, palpitações, tontura, desmaio, redução da tolerância ao esforço, efeitos adversos ou dificuldade para seguir o plano. Não ajuste tratamento sozinho.",
+          "A condição não é contagiosa e não exige afastamento por transmissão. Escola e cuidadores precisam do plano individual, acesso rápido à emergência e autorização da cardiologia para educação física/esporte."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não há base para aplicar automaticamente o rótulo Prinzmetal a recém-nascido. Pausas respiratórias, cor azulada/cinzenta, mamada fraca, suor às mamadas, pouca reação ou colapso exige emergência e investigação neonatal própria.",
+        "3a5m": "Diagnóstico vasoespástico é excepcional nessa idade. Choro súbito com palidez, falta de ar, suor, pouca reação ou dificuldade para mamar precisa de avaliação imediata; não testar medicamento de adulto.",
+        "6a11m": "Bebê não localiza dor torácica. Episódios de colapso, alteração de cor, respiração anormal ou pouca interação exigem emergência e avaliação de causas mais prováveis antes de usar esse rótulo.",
+        "1a": "Não atribua choro ou tocar o peito a angina. Dificuldade respiratória, desmaio, cianose ou abatimento importante exige atendimento imediato; confirmação precisa de cardiologia pediátrica.",
+        "2a5": "Criança pequena pode descrever apenas dor, medo ou barriga ruim. Dor com palidez, suor, falta de ar, desmaio ou pouca resposta é urgente; não induza hiperventilação nem esforço para reproduzir.",
+        "6a11": "A maioria das dores torácicas não é cardíaca, mas dor com esforço, desmaio, palpitação, doença cardíaca ou história familiar de morte súbita exige avaliação. Prinzmetal não deve ser diagnosticada apenas pelo horário da dor.",
+        "12a17": "Há relatos publicados em adolescentes, mas continuam raros e sem consenso terapêutico pediátrico. Pergunte com privacidade sobre vape, tabaco, energéticos, estimulantes e outras drogas; não esconda uso por medo de punição.",
+        "unknown": "Confirmar idade, características dos episódios, antecedentes cardíacos/Kawasaki, ECG durante sintomas, exames, medicamentos e avaliação da cardiologia antes de aplicar o rótulo ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais170_op523_1",
+          "name": "JCS/CVIT/JCC 2023 Guideline Focused Update on Diagnosis and Treatment of Vasospastic Angina and Coronary Microvascular Dysfunction",
+          "url": "https://www.jstage.jst.go.jp/article/circj/87/6/87_CJ-22-0779/_html/-char/en"
+        },
+        {
+          "id": "pais170_op523_2",
+          "name": "Coronary Artery Vasospastic Disorders Summit — diagnostic criteria for vasospastic angina",
+          "url": "https://covadis.online/definitions/"
+        },
+        {
+          "id": "pais170_op523_3",
+          "name": "Clinical Practice Guidelines: Chest pain",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/chest_pain/"
+        },
+        {
+          "id": "pais170_op523_4",
+          "name": "Chest pain in paediatric patients",
+          "url": "https://www.health.nsw.gov.au/outpatients/referrals/Pages/chest-pain-paediatric.aspx"
+        },
+        {
+          "id": "pais170_op523_5",
+          "name": "Vasospastic Angina in Adolescents: A Case Report of a 15-Year-Old Boy",
+          "url": "https://www.cureus.com/articles/318335-vasospastic-angina-in-adolescents-a-case-report-of-a-15-year-old-boy.pdf"
+        },
+        {
+          "id": "pais170_op523_6",
+          "name": "Clinical Practice Guidelines: Basic paediatric ECG interpretation",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Basic_Paediatric_ECG_interpretation/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_c93880ec245208d6",
+      "label": "Angina instável — registro no PPS",
+      "entity": "Angina instável / suspeita de síndrome coronariana aguda — emergência cardíaca rara em pediatria",
+      "assessment": "{\"classification\":\"VALID_EMERGENCY_ENTITY_RARE_IN_PEDIATRICS_WITH_ADMINISTRATIVE_SUFFIX\",\"normalized_entity\":\"Angina instável (síndrome coronariana aguda sem etiologia definida pelo rótulo)\",\"canonical_target_key\":\"pps_catalog_c93880ec245208d6\",\"assessment\":\"Angina instável é uma entidade clínica válida dentro das síndromes coronarianas agudas e deve ser tratada como emergência. Em crianças é rara; dor torácica pediátrica costuma ter outras causas, e os mecanismos de isquemia coronariana pediátrica diferem do padrão aterosclerótico adulto. História de doença de Kawasaki/aneurisma coronariano, anomalia coronariana congênita, cardiopatia ou cirurgia com manipulação coronariana, transplante, hipercolesterolemia familiar grave, diabetes prolongado, estados trombóticos, trauma e exposição a estimulantes podem mudar o risco. O sufixo ‘registro no PPS’ é administrativo e não altera a entidade.\",\"alias_resolution\":[{\"alias\":\"Angina instável\",\"relationship\":\"CANONICAL_CLINICAL_NAME\"},{\"alias\":\"Angina instável — apresentação pediátrica aguda\",\"relationship\":\"REDUNDANT_ACUTE_CONTEXT; unstable angina is already an acute emergency\"},{\"alias\":\"Angina instável — evolução complicada/refratária\",\"relationship\":\"UNSUPPORTED_COURSE_QUALIFIER; not a separate entity without clinical evidence\"},{\"alias\":\"Angina instável — forma grave/crítica\",\"relationship\":\"SEVERITY_ALIAS; does not reduce or increase the universal emergency disposition\"}],\"not_automatically_equivalent_to\":[\"Toda dor no peito em criança\",\"Infarto do miocárdio confirmado\",\"Miocardite ou pericardite\",\"Dor musculoesquelética/costocondrite\",\"Ansiedade\",\"Doença aterosclerótica típica de adulto\",\"Indicação automática de aspirina, nitrato, anticoagulante, trombólise ou cateterismo\"],\"counting_rule\":\"Uma entidade clínica válida para o registro e seus aliases administrativos; não contar os qualificadores agudo, complicado/refratário e grave/crítico como doenças adicionais.\",\"pediatric_scope\":\"Rara em todas as idades pediátricas. A apresentação pode ser pouco específica em crianças pequenas; suspeita clínica ou diagnóstico informado exige emergência e avaliação por equipe pediátrica/cardiologia, sem aplicar protocolo adulto automaticamente.\",\"reason\":null,\"next_action\":\"Integrar como orientação específica sempre urgente, testar todos os aliases e idades e bloquear qualquer fluxo de alta domiciliar. A terapêutica deve permanecer a cargo da emergência/cardiologia pediátrica conforme causa, idade, tamanho e plano individual.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Angina instável significa suspeita de redução súbita do fluxo de sangue para o coração. Em criança é rara, mas pode piorar rapidamente e não é diagnóstico para observar em casa: procure emergência agora.",
+          "Acione o SAMU 192 se houver dor/pressão no peito atual, falta de ar, suor frio, palidez intensa, desmaio, fraqueza importante, alteração de consciência ou piora durante o transporte. Não deixe a criança andar, correr ou ir sozinha; mantenha-a em repouso e na posição em que respira melhor.",
+          "Se a criança tem doença de Kawasaki, aneurisma coronariano, cardiopatia, cirurgia cardíaca, transplante ou plano coronariano individual, leve o plano, lista de medicamentos e contatos. Siga apenas as instruções de emergência previamente escritas enquanto chama ajuda.",
+          "Se ficar inconsciente e não respirar normalmente, peça ajuda, ligue 192 e siga as orientações do atendente para iniciar reanimação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Interrompa imediatamente exercício ou brincadeira e reduza estímulos. Afrouxe roupa apertada e mantenha supervisão contínua; não faça a criança ‘testar’ se a dor melhora caminhando.",
+          "Anote quando começou, se ocorreu em repouso ou esforço, duração, irradiação para braço/pescoço/costas, falta de ar, palpitação, tontura, suor, náusea ou desmaio. Informe doenças cardíacas, Kawasaki, operações, trombose, diabetes, colesterol familiar e possível uso de estimulantes.",
+          "Não dirija longas distâncias se a criança está instável. Use ambulância quando houver sintomas atuais/importantes, pois a equipe pode monitorar e intervir durante o trajeto.",
+          "Não use massagem no peito, compressas, manobras respiratórias ou espera para diferenciar em casa de refluxo, ansiedade ou dor muscular."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê aspirina, nitrato, anticoagulante, remédio de adulto ou medicamento de outra pessoa por conta própria. Em crianças, causas, contraindicações e quantidades são diferentes e o tratamento depende da avaliação imediata.",
+          "Se existe plano de emergência escrito pela cardiologia para esta criança, siga exatamente esse plano e informe ao SAMU o que foi administrado. Não repita dose nem acrescente outro remédio sem orientação profissional.",
+          "Não use analgésico para adiar a emergência nem conclua que o risco passou porque a dor melhorou. Alívio temporário não exclui síndrome coronariana ou outra causa grave.",
+          "Na emergência, a equipe decidirá exames e tratamento conforme a causa suspeita, a idade, o tamanho, os resultados e a anatomia coronariana; esta orientação não prescreve esquema ou dose."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Durante dor atual, falta de ar, vômitos, sonolência ou enquanto aguarda o SAMU, não force comida nem bebida. Não ofereça nada pela boca se houver alteração de consciência.",
+          "Não use água, chá, café, energético, açúcar ou alimento como tentativa de aliviar dor torácica. Cafeína, nicotina, cocaína e outros estimulantes devem ser informados à equipe sem julgamento.",
+          "Após estabilização, alimentação e líquidos serão definidos pela equipe conforme exames e procedimentos. Orientações de prevenção a longo prazo só se aplicam depois da causa ser esclarecida."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Esta condição já exige pronto atendimento imediato, mesmo que a dor tenha diminuído. Não aguarde consulta agendada, retorno escolar ou repetição dos sintomas.",
+          "Acione 192 diante de pressão/dor no peito nova, em repouso, com esforço ou pior que o habitual; dor que vai para braço, ombro, pescoço, mandíbula, costas ou barriga; falta de ar, suor frio, náusea/vômito, palpitação, tontura ou desmaio.",
+          "Em bebês e crianças que não conseguem explicar dor, palidez ou suor sem causa, respiração rápida/difícil, recusa súbita de mamar, choro inconsolável, prostração, desmaio ou coloração arroxeada exige emergência, especialmente com cardiopatia ou doença coronariana conhecida.",
+          "Em criança com Kawasaki prévia/aneurisma coronariano, anomalia coronariana, transplante ou cirurgia envolvendo coronárias, qualquer sintoma novo compatível deve ser tratado com limiar baixo para emergência, mesmo se exame anterior estava normal."
+        ],
+        "QUANDO REAVALIAR": [
+          "A primeira reavaliação é agora, na emergência, com equipe pediátrica e cardiologia quando indicada. Não existe prazo seguro de retorno domiciliar para angina instável suspeita.",
+          "Se a emergência descartar síndrome coronariana e liberar a criança, siga exatamente o prazo e as restrições escritos. Não retome esporte, educação física ou esforço até autorização quando houve suspeita cardíaca.",
+          "Se houver doença coronariana confirmada, mantenha seguimento com cardiologia pediátrica e plano de emergência compartilhado com família, escola e cuidadores. Retorne imediatamente se sintomas reaparecerem, mesmo que exames anteriores tenham sido tranquilizadores.",
+          "A causa pediátrica deve ser esclarecida; não presumir placa de gordura do adulto, ansiedade ou dor muscular sem avaliação apropriada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "O termo é excepcional nesta idade. Alteração súbita de cor, respiração, mamada, suor, reação ou consciência em bebê com possível doença cardíaca exige 192; não oferecer alimento/remédio e não observar em casa.",
+        "3a5m": "Bebês não localizam dor. Palidez, suor, choro inconsolável, recusa de mamar, respiração difícil ou prostração, especialmente com cardiopatia/Kawasaki, exige emergência imediata.",
+        "6a11m": "Mudança súbita de comportamento, mamada/alimentação, cor, respiração ou consciência pode ser a forma de apresentação. Levar plano cardíaco e acionar 192 diante de instabilidade.",
+        "1a": "A criança pode apontar barriga ou peito sem precisão. Dor/mal-estar súbito com palidez, suor, vômito, falta de ar ou desmaio é emergência; não testar atividade nem oferecer remédio de adulto.",
+        "2a5": "Pergunte onde dói sem sugerir resposta, mas não atrase socorro. Choro incomum, palidez, suor, cansaço súbito, falta de ar, vômito ou colapso com risco coronariano exige 192.",
+        "6a11": "Dor/pressão no peito em esforço ou repouso, irradiação, falta de ar, palpitação, tontura ou desmaio exige interrupção da atividade e emergência. Escola deve conhecer o plano e não mandar a criança caminhar até atendimento.",
+        "12a17": "Tratar dor/pressão torácica nova ou crescente, sobretudo com esforço, repouso, falta de ar, suor, náusea ou síncope, como emergência. Perguntar com privacidade sobre nicotina, vape, cocaína, anfetaminas e outros estimulantes; a resposta orienta cuidado, não punição.",
+        "unknown": "Sem idade e história não é possível aplicar protocolo específico. Se o rótulo angina instável foi usado ou há sintomas atuais compatíveis, encaminhar imediatamente à emergência e não prescrever ou dar alta por esta ficha."
+      },
+      "refs": [
+        {
+          "id": "pais170_op524_1",
+          "name": "Acute Coronary Syndrome",
+          "url": "https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/acute-coronary-syndrome"
+        },
+        {
+          "id": "pais170_op524_2",
+          "name": "Unstable Angina",
+          "url": "https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain/unstable-angina"
+        },
+        {
+          "id": "pais170_op524_3",
+          "name": "Clinical Practice Guidelines: Chest pain",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/chest_pain/"
+        },
+        {
+          "id": "pais170_op524_4",
+          "name": "Top Things to Know: Multimodality Approach to Coronary Ischemic Testing in Pediatric Patients",
+          "url": "https://professional.heart.org/en/science-news/multimodality-approach-to-coronary-ischemic-testing-in-pediatric-patients/top-things-to-know"
+        },
+        {
+          "id": "pais170_op524_5",
+          "name": "Top Things to Know: Update on Diagnosis and Management of Kawasaki Disease",
+          "url": "https://professional.heart.org/en/science-news/update-on-diagnosis-and-management-of-kawasaki-disease/top-things-to-know"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": true,
+      "key": "pdf1500_94",
+      "label": "Anomalia anorretal tipo fístula perineal",
+      "entity": "Malformação anorretal congênita com comunicação do reto à pele do períneo (fístula perineal/cutânea)",
+      "assessment": "{\"classification\":\"VALID_SPECIFIC_ANORECTAL_MALFORMATION_KRICKENBECK_MAJOR_GROUP\",\"normalized_entity\":\"Malformação anorretal com fístula perineal\",\"assessment\":\"Fístula perineal é um subtipo válido de malformação anorretal na classificação de Krickenbeck. O reto se abre na pele do períneo em posição anormal e pode permitir passagem variável de mecônio/fezes. Não deve ser confundida com ânus anterior completamente circundado pelo esfíncter, estenose anal, fístula vestibular, cloaca ou comunicação com trato urinário. Calibre da abertura, relação com o complexo esfincteriano, eliminação de fezes, constipação, idade e anomalias associadas determinam se o plano será observação especializada, dilatação indolor selecionada ou reconstrução cirúrgica.\",\"not_automatically_equivalent_to\":[\"Ânus anterior como variante anatômica\",\"Estenose anal congênita\",\"Fístula vestibular, vaginal, retouretral ou retovesical\",\"Cloaca ou ausência total de fístula\",\"Obstrução intestinal ausente somente porque existe pequena saída de fezes\",\"Indicação universal de cirurgia imediata, colostomia ou dilatação domiciliar\"],\"counting_rule\":\"Contar como uma entidade clínica específica de malformação anorretal, preservando o ID e o rótulo. Não agrupar automaticamente com outros tipos de fístula ou com ânus anterior.\",\"pediatric_scope\":\"Congênita e geralmente reconhecida no período neonatal, mas pode ser diagnosticada mais tarde por posição anormal do orifício, dificuldade para evacuar ou constipação. Exige seguimento pediátrico/cirúrgico e avaliação de anomalias associadas.\",\"home_management_boundary\":\"Cuidado em casa só é apropriado depois de avaliação de cirurgia pediátrica e alta com plano explícito. Não introduzir termômetro, dedo, cotonete, sonda, dilatador ou enema na abertura sem treinamento e prescrição individual.\",\"next_action\":\"Coordenador deve integrar como ficha específica, preservar prioridade neonatal/obstrutiva, testar todas as idades e submeter o texto a revisão clínica independente antes de publicação.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A fístula perineal é uma malformação presente desde o nascimento: o intestino termina em uma abertura na pele do períneo, fora da posição normal. Mesmo quando saem fezes, a abertura pode ser estreita e a criança precisa avaliação de cirurgia pediátrica para confirmar a anatomia, procurar outras malformações e definir o plano.",
+          "Só mantenha cuidados domiciliares se a equipe já examinou a criança e autorizou a alta. Anote número e aspecto das evacuações, esforço, distensão da barriga, vômitos, temperatura, alimentação e urina; leve essas informações e todos os relatórios ao retorno.",
+          "Após cada evacuação, retire as fezes com água morna e toque suave, sem esfregar; seque encostando pano macio. Use creme-barreira apenas se foi orientado e não o aplique sobre incisão aberta. Não introduza termômetro, dedo, cotonete, sonda ou outro objeto na fístula."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Troque fraldas com frequência e observe vermelhidão, ferida, inchaço, secreção, mau cheiro ou sangramento no períneo. Mantenha mãos limpas antes e depois do cuidado local.",
+          "Dilatação não é cuidado de rotina para toda criança. Se o cirurgião indicar, ele ou a enfermagem deve escolher o tamanho, demonstrar a técnica e definir frequência e duração. Nunca force contra resistência e interrompa se houver dor, sangramento importante ou sofrimento; dilatações dolorosas devem ser evitadas.",
+          "Depois de cirurgia, siga exatamente as restrições de banho, posição, atividade, cuidado da incisão/colostomia e eventual calibração ensinadas na alta. Não copie o plano de outra criança, pois a anatomia e a operação podem ser diferentes."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum remédio corrige a anatomia. Dê somente analgésico, antibiótico, laxante ou outro medicamento que tenha sido prescrito para esta criança e neste momento; não inicie enema, supositório ou laxante por conta própria.",
+          "Se houver colostomia ou cirurgia recente, confirme com a equipe como administrar cada medicamento e o que fazer em caso de vômito. Não aplique pomada dentro da fístula ou incisão.",
+          "Febre, piora da dor, prostração ou secreção com mau cheiro não devem ser tratados apenas com antitérmico ou antibiótico restante em casa; precisam avaliação para infecção, obstrução ou complicação cirúrgica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança evacua pela fístula, não vomita, está sem distensão e a equipe liberou alimentação, mantenha leite materno/fórmula ou dieta habitual adequada à idade e hidratação conforme o plano; não faça jejum ou dieta restritiva por conta própria.",
+          "Se recém-nascido não eliminou mecônio/fezes, a evacuação diminuiu de repente, a barriga está inchando ou surgiu vômito verde, não force nova mamada ou alimento: procure emergência imediatamente e siga a orientação do serviço durante o deslocamento.",
+          "Após reconstrução ou colostomia, a progressão da dieta é individual. Não use excesso de fibra, sucos, chás ou fórmulas especiais para tentar abrir a fístula; constipação e consistência das fezes devem ser tratadas pelo programa cirúrgico/pediátrico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Ausência ou redução importante de fezes, barriga progressivamente inchada ou dolorosa, vômito verde ou repetido, recusa alimentar ou dificuldade para acordar podem indicar obstrução e exigem atendimento imediato. Acione o SAMU 192 se houver colapso, alteração de consciência ou dificuldade respiratória.",
+          "Febre ou temperatura baixa em recém-nascido, prostração, pele fria/manchada, respiração rápida, choro muito fraco, pouca urina ou piora rápida podem indicar infecção grave/sepse; não espere a consulta marcada.",
+          "Sangramento persistente, pus, mau cheiro, vermelhidão/inchaço que se espalha, abertura da incisão ou dor crescente após cirurgia exigem avaliação urgente. Leve o resumo da operação e a lista de medicamentos.",
+          "Fezes saindo pela urina, vagina ou por local diferente do informado pela equipe, ou saída muito menor pela fístula, precisa reavaliação urgente da anatomia; não tente sondar ou dilatar."
+        ],
+        "QUANDO REAVALIAR": [
+          "Recém-nascido com suspeita nova deve ser avaliado no mesmo dia em serviço com cirurgia pediátrica; as diretrizes recomendam definir a eliminação de mecônio e o tipo de malformação nas primeiras 24 horas e investigar anomalias associadas.",
+          "Depois da alta, compareça a todas as consultas de cirurgia pediátrica, mesmo se as fezes estiverem saindo. Calibre da abertura, crescimento, pele, constipação e decisão entre acompanhamento e operação precisam revisão planejada.",
+          "Antecipe o contato com a equipe se a evacuação diminuir em relação ao padrão orientado, se houver fezes progressivamente mais finas/difíceis, distensão, dor, sangue ou irritação da pele. Sinais de alarme exigem atendimento imediato; não espere completar um prazo sem evacuar.",
+          "Após reconstrução, a equipe define a primeira revisão da ferida e se haverá calibração/dilatação; ela não é obrigatória em todos os casos. O seguimento continua na infância para constipação, continência, trato urinário, coluna e qualidade de vida."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Faixa de maior prioridade: confirmar no mesmo dia passagem de mecônio/fezes, calibre e anatomia, além de pesquisar anomalias associadas. Distensão, vômito verde, má sucção, temperatura anormal ou pouca reação são emergência.",
+        "3a5m": "Acompanhar ganho de peso, evacuações e pele perineal. Não adiar cirurgia/retorno nem iniciar dilatação, enema ou troca de fórmula sem o plano do cirurgião.",
+        "6a11m": "Introdução alimentar deve seguir a idade e o plano clínico. Observe se a mudança de consistência das fezes traz esforço, distensão ou queda da frequência e informe à equipe.",
+        "1a": "Evite tentativas caseiras de desobstrução. Proteja a pele, registre o padrão intestinal e mantenha seguimento de cirurgia pediátrica durante crescimento e eventual programação operatória.",
+        "2a5": "Treino do banheiro deve ser individual, sem punição ou esforço forçado. Apoio dos pés, horários regulares e manejo de constipação só conforme plano da equipe; escapes podem representar retenção/constipação.",
+        "6a11": "Garantir acesso reservado ao banheiro na escola e evitar constrangimento. Constipação, escapes, infecção urinária ou dificuldade social merecem revisão multidisciplinar.",
+        "12a17": "Incluir o adolescente nas decisões com privacidade e linguagem respeitosa. Revisar continência, constipação, trato urinário, saúde sexual/reprodutiva e transição para seguimento adulto especializado.",
+        "unknown": "Confirmar idade, sexo/anatomia, local da abertura, eliminação de fezes, cirurgias/colostomia, sintomas atuais e plano da cirurgia pediátrica antes de orientar alimentação, medicação, dilatação ou retorno."
+      },
+      "refs": [
+        {
+          "id": "pais170_op525_1",
+          "name": "ERN eUROGEN Clinical Practice Guideline on Anorectal Malformations — Combined Document",
+          "url": "https://eurogen-ern.eu/wp-content/uploads/2025/08/ERN-eUROGEN-CPG-on-ARM-Combined-Document-FINAL-2025-08-19.pdf"
+        },
+        {
+          "id": "pais170_op525_2",
+          "name": "Clinical Differentiation between a Normal Anus, Anterior Anus, Congenital Anal Stenosis, and Perineal Fistula: Definitions and Consequences — The ARM-Net Consortium Consensus",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9221870/"
+        },
+        {
+          "id": "pais170_op525_3",
+          "name": "European consensus meeting of ARM-Net members concerning diagnosis and early management of newborns with anorectal malformations",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4369584/"
+        },
+        {
+          "id": "pais170_op525_4",
+          "name": "Anorectal Malformation (imperforate anus) — Conditions A–E",
+          "url": "https://apsapedsurg.org/parents/learn-about-a-condition/a-e/"
+        },
+        {
+          "id": "pais170_op525_5",
+          "name": "Pull-Through (PSARP) Surgery",
+          "url": "https://www.cincinnatichildrens.org/health/p/pull-through-surgery"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pdf1500_95",
+      "label": "Anomalia de Ebstein",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita com gravidade e repercussão hemodinâmica/arrítmica variáveis",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_CONGENITAL_HEART_DISEASE\",\"normalized_entity\":\"Anomalia de Ebstein\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"Entidade congênita válida em que a valva tricúspide se forma e se posiciona de modo anormal, podendo permitir refluxo de sangue e reduzir a parte funcional do ventrículo direito. A apresentação varia de achado assintomático a cianose e insuficiência cardíaca neonatal grave. Comunicações entre os átrios, regurgitação tricúspide e vias elétricas acessórias/taquiarritmias podem coexistir. O nome, sozinho, não informa saturação basal, grau de refluxo, função ventricular, presença de comunicação, arritmia, necessidade de cirurgia nem prognóstico.\",\"not_automatically_equivalent_to\":[\"Anomalia sempre leve ou sempre crítica\",\"Insuficiência cardíaca ou arritmia já presentes\",\"Indicação automática de cirurgia, oxigênio, antiarrítmico, diurético ou anticoagulante\",\"Ausência de risco após reparo cirúrgico\",\"Restrição universal de atividade, sal ou líquidos\"],\"counting_rule\":\"Contar pdf1500_95 como uma entidade clínica válida e específica. Variantes de gravidade/curso e o registro nominal do PPS devem ser reconciliados como qualificadores ou aliases quando clinicamente equivalentes, sem duplicar a doença.\",\"pediatric_scope\":\"Do período fetal/neonatal à adolescência; a gravidade, as metas de saturação, a atividade, a alimentação, os medicamentos e os intervalos de seguimento são individualizados pela cardiologia congênita.\",\"reason_for_source_term_issue\":null,\"next_action\":\"Coordenador deve realizar revisão clínica independente, integrar a ficha canônica, reconciliar aliases, testar todas as idades e alertas e publicar somente após QA.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. O ecocardiograma, o ritmo, a oxigenação, os sintomas e o crescimento — não apenas o nome — orientam o cuidado.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de ecocardiograma, eletrocardiograma ou monitorização. Se a equipe definiu saturação basal ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança de cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre quando ocorreu, duração, atividade associada e recuperação, sem atrasar atendimento diante de sinais graves.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista; interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta consultas regulares com cardiologista pediátrico/congênito mesmo quando a criança está bem. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade e achados.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Informe escola, creche e outros cuidadores sobre sinais de alarme, atividade permitida e contatos de emergência. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas podem receber tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure a orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome da doença. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês com cardiopatia podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se os lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Colapso, convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar descompensação cardíaca e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Manter alimentação apropriada e observar fadiga, suor ou cianose ao mamar/comer e ao brincar. Desenvolvimento e crescimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Cuidadores devem conhecer o plano para palpitações e sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir confidencialmente estimulantes, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições antes de personalizar cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais170_op526_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais170_op526_2",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        },
+        {
+          "id": "pais170_op526_3",
+          "name": "Feeding Tips for Your Baby with Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd"
+        },
+        {
+          "id": "pais170_op526_4",
+          "name": "Heart Failure and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/congestive-heart-failure-and-congenital-defects"
+        },
+        {
+          "id": "pais170_op526_5",
+          "name": "Arrhythmias and Congenital Heart Disease",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/arrhythmias-and-congenital-defects"
+        },
+        {
+          "id": "pais170_op526_6",
+          "name": "Anomalias Congênitas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/anomalias-congenitas"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pps_catalog_aa30a7813bd91741",
+      "label": "Anomalia de Ebstein — registro no PPS",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita de gravidade variável — alias exato da entidade pdf1500_95/OP-526",
+      "assessment": "{\"classification\":\"EXACT_DUPLICATE_ALIAS_WITH_ADMINISTRATIVE_SUFFIX\",\"normalized_entity\":\"Anomalia de Ebstein\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"O sufixo “registro no PPS” é administrativo. O rótulo descreve a mesma cardiopatia congênita de pdf1500_95/OP-526, sem diferença de anatomia, idade, gravidade ou manejo. A anomalia de Ebstein afeta a formação e a posição da valva tricúspide, pode causar refluxo de sangue, aumento do átrio direito, ventrículo direito funcional menor, comunicação interatrial, cianose, insuficiência cardíaca e arritmias; a expressão varia de recém-nascido crítico a pessoa assintomática. Choque, cianose, arritmia ou cirurgia não podem ser presumidos apenas pelo nome.\",\"duplicate_of\":{\"job_id\":\"OP-526\",\"key\":\"pdf1500_95\",\"label\":\"Anomalia de Ebstein\",\"equivalence\":\"EXACT_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Insuficiência tricúspide adquirida ou displasia tricúspide sem anomalia de Ebstein\",\"Comunicação interatrial, Wolff-Parkinson-White ou taquicardia supraventricular em todos os pacientes\",\"Cianose, insuficiência cardíaca, cardiomegalia ou necessidade de cirurgia em todo diagnóstico\",\"Ventrículo único funcional ou indicação automática de cirurgia neonatal\",\"Liberação irrestrita ou proibição universal de atividade física\",\"Necessidade universal de antibiótico antes de procedimento odontológico\"],\"counting_rule\":\"Preservar pps_catalog_aa30a7813bd91741 e todos os aliases para busca/rastreabilidade, mas resolver para a ficha canônica pdf1500_95/OP-526. Registrar OP-527 como SOURCE_TERM_ISSUE, specific=false, sem incrementar doenças, entidades clínicas ou fichas específicas publicadas.\",\"pediatric_scope\":\"Pode ser diagnosticada no período fetal, neonatal, infância ou adolescência. A idade e os achados atuais mudam urgência, alimentação, atividade, arritmia e momento de intervenção; seguimento cardiológico congênito é continuado até a vida adulta.\",\"integration_instruction\":\"Mapear o ID PPS para a mesma implementação clínica de pdf1500_95/OP-526, preservando urgência, seis seções, oito idades, fontes e testes. Se OP-526 ainda não estiver publicada, manter ambos preparados e integrar uma única ficha canônica.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Registro no PPS” identifica o cadastro da anomalia de Ebstein e não outra doença. O cuidado depende da anatomia e do plano individual da criança.",
+          "A anomalia de Ebstein é uma cardiopatia congênita em que a valva tricúspide, do lado direito do coração, se formou e ficou posicionada de modo anormal. Ela pode deixar sangue voltar para o átrio direito e variar muito: algumas crianças têm poucos sintomas; outras apresentam baixa oxigenação, arritmia ou insuficiência cardíaca.",
+          "Conheça o padrão habitual da criança: cor dos lábios, respiração, alimentação, peso, disposição, frequência do coração e, se a equipe orientou, saturação. Mudança do padrão é mais importante que comparar com outra criança. Não use oxímetro doméstico para adiar atendimento quando há piora visível.",
+          "Mantenha consultas com cardiologia pediátrica mesmo quando a criança parece bem. Leve laudos de ecocardiograma, eletrocardiograma, Holter, ressonância, cirurgias e lista de medicamentos. Na adolescência, planeje a transição para cardiologista de cardiopatia congênita do adulto.",
+          "O defeito não é contagioso e não foi causado por cuidado inadequado dos pais. Escola e cuidadores devem conhecer limites individuais, sinais de alerta, medicamentos e quem chamar."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita atividade e brincadeira conforme a orientação do cardiologista. Crianças com refluxo valvar leve, boa função e sem arritmia podem realizar muitas atividades; cianose, disfunção ventricular ou arritmia podem exigir restrições específicas. Não imponha repouso permanente nem libere esporte competitivo por conta própria.",
+          "Garanta pausas, acesso a água e banheiro e evite calor extremo ou esforço até exaustão. Interrompa atividade se houver falta de ar desproporcional, palpitação, dor no peito, tontura, coloração azulada ou desmaio.",
+          "Cuide da saúde bucal com escovação, fio dental conforme idade e consulta odontológica. Antibiótico antes de procedimento não é universal: depende de válvula protética, material recente, endocardite prévia ou outra condição definida pelo cardiologista.",
+          "Não massageie o peito, não faça manobras vagais nem tente “regular” o coração sem treinamento e plano individual. Em palpitação persistente, mal-estar ou desmaio, procure atendimento."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas os medicamentos prescritos para esta criança. A anomalia de Ebstein não tem uma receita única: alguns pacientes não usam remédios; outros podem receber tratamento para retenção de líquido, arritmia, insuficiência cardíaca ou pós-operatório.",
+          "Não inicie, interrompa, dobre ou troque diurético, antiarrítmico, anticoagulante ou outro medicamento por conta própria. Confirme o que fazer diante de vômito, dose esquecida, jejum, cirurgia, procedimento odontológico ou doença aguda.",
+          "Informe ao serviço todos os remédios, suplementos e descongestionantes. Produtos que aceleram o coração, alteram pressão ou interagem com antiarrítmicos precisam de conferência; não use medicamento de outra pessoa.",
+          "Esta ficha não prescreve dose, oxigênio, antibiótico preventivo, anticoagulação nem tratamento de crise. Taquicardia ou piora respiratória exige avaliação, não repetição improvisada de doses."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está estável, ofereça alimentação variada e líquidos adequados à idade. Não existe dieta que reposicione a valva. Restrição de sal ou líquido só deve ser feita quando a equipe indicar por retenção, insuficiência cardíaca ou situação pós-operatória.",
+          "Em bebês, dificuldade para mamar, suor, respiração rápida, cansaço ou demora excessiva podem reduzir a ingestão e o ganho de peso. Siga o plano de leite materno, fórmula, volume e fortificação; não dilua fórmula nem aumente calorias por conta própria.",
+          "Ofereça volumes menores e mais frequentes somente se isso fizer parte do plano. Não force mamada durante falta de ar, sonolência, coloração azulada ou engasgos; procure atendimento.",
+          "Vômitos repetidos, pouca urina, inchaço novo ou incapacidade de beber precisa de orientação rápida, sobretudo se usa diurético. Não compense com grandes volumes sem autorização."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios ou língua mais azulados que o habitual, dificuldade para respirar, afundamento das costelas, pausas respiratórias, gemência, incapacidade de falar/mamar, dificuldade para despertar ou piora rápida. Acione o SAMU 192 se houver comprometimento importante.",
+          "Batimento muito rápido ou irregular com palidez, falta de ar, dor no peito, tontura, desmaio, confusão ou fraqueza intensa pode ser arritmia. Não espere passar e não leve a criança caminhando se estiver instável.",
+          "Desmaio durante esforço, dor no peito com atividade ou falta de ar desproporcional exige avaliação urgente e suspensão do exercício até liberação.",
+          "Bebê que mama muito menos, sua para mamar, fica exausto, respira rápido, tem poucas fraldas molhadas ou não ganha peso precisa de avaliação pronta; se houver cianose, prostração ou dificuldade respiratória, é emergência.",
+          "Inchaço de pernas, barriga aumentando rapidamente, ganho súbito de peso, fígado/barriga dolorosos, urina muito reduzida ou piora de cansaço pode indicar congestão/insuficiência cardíaca e exige atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno definido pela cardiologia, mesmo sem sintomas. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço e ressonância conforme idade, anatomia, refluxo valvar, função dos ventrículos e arritmias.",
+          "Antecipe o retorno por queda de disposição, dificuldade para acompanhar colegas, palpitações, episódios de coloração azulada, falta de ar, inchaço, perda/baixo ganho de peso ou desmaio.",
+          "Após cirurgia ou procedimento, siga o plano específico de ferida, atividade, medicamento e sinais de infecção. Não use a melhora inicial como liberação automática e não perca o seguimento por cardiopatia congênita.",
+          "Antes de esporte competitivo, viagem distante, anestesia, gestação futura ou uso de medicamento que afete o coração, peça orientação individual. Adolescentes devem participar das decisões e conhecer o diagnóstico, procedimentos, medicamentos e plano de emergência."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Forma grave pode aparecer logo após o nascimento com cianose, respiração difícil e mamada fraca. Mudança de cor, pausas, gemência, pouca reação ou incapacidade de mamar exige avaliação imediata; não force alimentação.",
+        "3a5m": "Observe respiração e suor durante mamadas, tempo para completar, ganho de peso, cor e fraldas. Cansaço crescente, menos leite ou cianose exige contato rápido; dificuldade respiratória/prostração é emergência.",
+        "6a11m": "Compare disposição, alimentação, ganho de peso e respiração com o habitual. Não antecipar restrição de atividade; permitir brincadeira conforme orientação e interromper diante de cansaço, palidez ou cor azulada.",
+        "1a": "A criança pode expressar arritmia como irritabilidade súbita, palidez, moleza ou recusa de atividade. Episódio prolongado, desmaio ou falta de ar precisa de urgência.",
+        "2a5": "Creche deve conhecer sinais e contatos. Permitir brincadeira com pausas e sem competição forçada; palpitação, cianose, tontura ou cansaço fora do padrão exige parar e avisar o responsável.",
+        "6a11": "Combine participação escolar e esportiva com cardiologia. Ensine a avisar palpitação, dor no peito, tontura ou falta de ar; desmaio no esforço é emergência e suspende atividade até avaliação.",
+        "12a17": "Inclua o adolescente no plano e na transição para cardiopatia congênita do adulto. Revise esporte, adesão, saúde mental, contracepção/gestação futura e riscos de álcool, estimulantes e automedicação sem julgamento.",
+        "unknown": "Confirme idade, saturação habitual, anatomia, comunicação interatrial, grau de refluxo tricúspide, função ventricular, arritmias/WPW, cirurgias, medicamentos e plano de atividade. Sem esses dados, não definir gravidade ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais170_op527_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais170_op527_2",
+          "name": "Ebstein’s Anomaly of the Tricuspid Valve",
+          "url": "https://www.chop.edu/conditions-diseases/ebstein-s-anomaly-tricuspid-valve"
+        },
+        {
+          "id": "pais170_op527_3",
+          "name": "The American Association for Thoracic Surgery (AATS) 2025 Expert Consensus Document: Management of Ebstein anomaly in children and adults",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40317284/"
+        },
+        {
+          "id": "pais170_op527_4",
+          "name": "Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities",
+          "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.12.025"
+        },
+        {
+          "id": "pais170_op527_5",
+          "name": "Ebstein’s Anomaly",
+          "url": "https://www.seattlechildrens.org/conditions/ebsteins-anomaly/"
+        },
+        {
+          "id": "pais170_op527_6",
+          "name": "Conditions treated by the Single Ventricle Service — Ebstein Anomaly",
+          "url": "https://www.gosh.nhs.uk/wards-and-departments/departments/clinical-specialties/single-ventricle-service/conditions-treated-by-the-single-ventricle-service/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_96",
+      "label": "Anomalia de Ebstein agudo",
+      "entity": "Anomalia de Ebstein — cardiopatia congênita da valva tricúspide; o qualificador ‘agudo’ não define subtipo",
+      "assessment": "{\"classification\":\"SOURCE_TERM_NONSTANDARD_TEMPORAL_QUALIFIER_NOT_A_DISTINCT_ENTITY\",\"normalized_entity\":\"Anomalia de Ebstein\",\"canonical_key\":\"pdf1500_95\",\"canonical_label\":\"Anomalia de Ebstein\",\"qualifier\":\"agudo\",\"qualifier_assessment\":\"A anomalia de Ebstein é uma malformação congênita estrutural da valva tricúspide, com gravidade variável; ‘agudo’ não é subtipo ou fase reconhecida da doença. Pode haver descompensação aguda por hipoxemia/cianose, insuficiência cardíaca ou taquiarritmia, mas essas manifestações devem ser nomeadas e tratadas como complicações, não como uma segunda entidade.\",\"assessment\":\"O termo-base é válido em pediatria. A literatura atual descreve um espectro desde doença assintomática até apresentação neonatal crítica, e usa cianose, insuficiência cardíaca, disfunção ventricular e arritmia persistente para estratificar risco. A conclusão de que ‘agudo’ é qualificador não padronizado é uma inferência terminológica a partir desse enquadramento congênito e das diretrizes consultadas, que não definem ‘anomalia de Ebstein aguda’ como diagnóstico distinto.\",\"not_automatically_equivalent_to\":[\"Cianose ou hipoxemia aguda\",\"Insuficiência cardíaca aguda ou choque cardiogênico\",\"Taquicardia supraventricular, outra taquiarritmia ou síndrome de Wolff-Parkinson-White\",\"Atresia pulmonar funcional, shunt circular ou outra complicação neonatal\",\"Indicação automática de oxigênio, medicamento, ablação, cateterismo ou cirurgia\"],\"counting_rule\":\"Preservar pdf1500_96 para rastreabilidade, mas mapear a orientação à entidade canônica pdf1500_95 e contar uma única entidade clínica. O alias deve acionar os mesmos cuidados da anomalia de Ebstein, com os alertas de descompensação aguda explicitamente preservados.\",\"pediatric_scope\":\"Do período fetal/neonatal à adolescência. A anatomia, a saturação basal, o grau de regurgitação tricúspide, a função ventricular, a presença de comunicação entre os átrios, as arritmias e cirurgias prévias determinam o risco e o plano individual.\",\"reason_for_source_term_issue\":\"Qualificador temporal não padronizado aplicado a uma cardiopatia congênita; não há entidade clínica separada chamada ‘anomalia de Ebstein aguda’ nas fontes atuais consultadas.\",\"next_action\":\"O coordenador deve vincular pdf1500_96 à ficha canônica pdf1500_95, revisar a equivalência, testar busca por ID/nome e todas as idades, confirmar os ramos urgentes de cianose, insuficiência cardíaca e arritmia e somente então publicar sem criar nova contagem de doença.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A anomalia de Ebstein é uma alteração de nascimento da valva tricúspide, no lado direito do coração. Ela pode ser discreta ou causar escape importante de sangue, menor bombeamento para os pulmões, coloração azulada, insuficiência cardíaca e alterações do ritmo. A palavra ‘agudo’ no cadastro não confirma que a criança esteja em crise, mas sintomas novos ou piora rápida exigem avaliação urgente.",
+          "Mantenha o plano da cardiologia pediátrica e leve às consultas a lista de medicamentos, cirurgias/procedimentos, alergias e resultados de exames. Se a equipe definiu saturação basal, meta individual ou plano para palpitações, deixe-o disponível para cuidadores e escola; não aplique metas de outra criança.",
+          "Observe mudança da cor dos lábios/pele, respiração, disposição, palpitações, desmaio, inchaço, alimentação, urina e ganho de peso. Em pele escura, cianose pode ser mais perceptível em lábios, língua, gengivas e leitos das unhas. Registre início, duração, atividade associada e recuperação, sem atrasar ajuda diante de sinal grave.",
+          "Atividade costuma ser possível, mas o nível seguro depende da função cardíaca e de arritmias. Siga a liberação do cardiologista e interrompa exercício diante de tontura, dor no peito, palpitação sustentada, cianose ou falta de ar desproporcional."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Garanta acompanhamento regular com cardiologista pediátrico/congênito mesmo quando a criança está bem. Ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância são feitos conforme idade, anatomia e sintomas; não há calendário único para todos.",
+          "Informe escola, creche e outros cuidadores sobre atividade permitida, sinais de alarme, contatos e o plano individual para palpitação/cianose. Não exclua automaticamente de brincadeiras ou educação física, nem libere esporte competitivo sem avaliação individual.",
+          "Cuide diariamente dos dentes e gengivas e mantenha acompanhamento odontológico. Antibiótico antes de procedimento odontológico não é necessário para todos; use somente se a cardiologia indicar para a situação específica.",
+          "Após cirurgia ou cateterismo, siga as orientações próprias de ferida, banho, atividade e retorno. Febre persistente, secreção, vermelhidão progressiva ou piora clínica deve ser comunicada ao serviço; uma correção não elimina a necessidade de seguimento."
+        ],
+        "MEDICAMENTOS": [
+          "Nem toda criança com anomalia de Ebstein precisa de remédio. Algumas recebem tratamento para insuficiência cardíaca, arritmia, prevenção de coágulos ou período pós-operatório, conforme anatomia, sintomas e exames. Use somente o que foi prescrito para esta criança.",
+          "Dê nos horários e na medida orientados. Não dobre dose esquecida, não interrompa antiarrítmico ou outro medicamento cardíaco e não use sobra de receita. Se houver vômito logo após a dose, procure orientação do serviço em vez de repetir automaticamente.",
+          "Antes de descongestionantes, estimulantes, energéticos, fitoterápicos, suplementos ou medicamentos sem receita, confirme com a equipe, especialmente se houver palpitações. Leve a lista atualizada a todo atendimento.",
+          "Oxigênio, diurético, antiarrítmico, anticoagulante, ablação e cirurgia não são indicados apenas pelo nome ou pela palavra ‘agudo’. Não altere fluxo de oxigênio nem inicie manobras para taquicardia sem um plano individual ensinado pela equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Na ausência de insuficiência cardíaca ou outra orientação, ofereça alimentação variada e líquidos adequados à idade. Não faça restrição de sal ou líquido por conta própria; restrições e suplementos devem ser definidos pela cardiologia/nutrição.",
+          "Bebês podem cansar, suar, respirar rápido ou não ganhar peso durante as mamadas. Pausas e refeições menores e mais frequentes podem ajudar quando orientadas; acompanhe peso e fraldas. Não prolongue mamadas exaustivas nem force alimentação se o bebê estiver ofegante, muito sonolento ou azulado.",
+          "Não concentre fórmula, adicione calorias, água, espessante ou suplemento sem receita da equipe. Alguns bebês precisam de leite fortificado ou sonda, mas a composição e o volume são individuais.",
+          "Em crianças maiores, observe queda do apetite, perda de peso ou inchaço abdominal. Vômitos repetidos, dificuldade para beber ou urina muito reduzida exigem contato precoce, sobretudo se usa diurético."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se lábios, língua ou pele ficarem subitamente mais azulados/cinzentos que o habitual, se a saturação cair abaixo da meta individual e não se recuperar conforme o plano, ou se houver respiração difícil, gemência, retrações ou dificuldade para falar/chorar. Acione o SAMU 192 em comprometimento intenso, colapso ou ausência de resposta.",
+          "Palpitação ou batimento muito rápido/irregular acompanhado de desmaio, quase desmaio, dor no peito, falta de ar, palidez intensa, fraqueza importante ou que não cede conforme o plano exige atendimento imediato. Convulsão ou ausência de resposta exige SAMU 192.",
+          "Bebê muito sonolento, pouco reativo, ofegante, suando ou ficando azul durante a mamada, que não consegue se alimentar, vomita repetidamente ou tem redução importante das fraldas precisa de avaliação urgente.",
+          "Inchaço que aumenta rapidamente nas pernas ou barriga, piora súbita da falta de ar, extremidades frias, confusão ou pouca urina podem indicar insuficiência cardíaca ou choque e não devem aguardar consulta programada."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com cardiologia pediátrica no intervalo definido; a frequência varia conforme refluxo da valva, função do coração, oxigenação, arritmias, sintomas, crescimento e cirurgias anteriores. Mesmo formas leves exigem acompanhamento ao longo da vida.",
+          "Antecipe a avaliação se surgirem cianose nova ou pior, queda de tolerância às atividades, falta de ar, palpitações, desmaio, dor no peito, inchaço, dificuldade alimentar ou ganho insuficiente de peso. Sinais de emergência não aguardam o consultório.",
+          "Após mudança de medicamento, episódio de arritmia, internação, cirurgia ou ablação, cumpra os retornos e exames específicos. Não presuma cura definitiva porque os sintomas melhoraram.",
+          "Na adolescência, planeje a transição para cardiologia de adultos com experiência em cardiopatia congênita. Antes de gravidez, contracepção ou esporte competitivo, peça aconselhamento individual ao especialista."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos podem deteriorar rapidamente. Cianose, respiração rápida/difícil, pouca reação, mamada fraca, suor ou poucas fraldas exigem avaliação urgente; formas graves podem precisar de terapia intensiva.",
+        "3a5m": "Acompanhar mamadas, respiração, cor, peso e fraldas. Não concentrar fórmula nem alterar oxigênio/medicação; dificuldade para completar mamadas ou queda de ganho ponderal requer contato precoce.",
+        "6a11m": "Observar fadiga, suor, respiração rápida ou cianose ao mamar/comer e brincar. Crescimento e desenvolvimento devem ser acompanhados junto da cardiologia.",
+        "1a": "Observar tolerância ao caminhar/brincar, respiração, cor e crescimento. Todos os cuidadores devem conhecer o plano e os sinais de emergência.",
+        "2a5": "Permitir atividade conforme liberação e ensinar a criança a parar se estiver cansada, tonta ou com coração disparado. Escola/creche deve ter contatos e plano simples de emergência.",
+        "6a11": "Reavaliar esporte e educação física conforme exames e ritmo. Perguntar diretamente sobre palpitações, tontura, desmaio, dor no peito e redução do rendimento.",
+        "12a17": "Reforçar adesão, reconhecimento de palpitações e transição para cardiologia congênita adulta. Discutir estimulantes/energéticos, álcool/drogas, contracepção, gravidez futura e esporte competitivo com a equipe.",
+        "unknown": "Confirmar idade, anatomia, cirurgias, saturação basal/meta, função ventricular, grau de refluxo, histórico de arritmia, medicamentos e restrições. O rótulo ‘agudo’, isoladamente, não define gravidade nem conduta."
+      },
+      "refs": [
+        {
+          "id": "pais170_op528_1",
+          "name": "The American Association for Thoracic Surgery (AATS) 2025 Expert Consensus Document: Management of Ebstein anomaly in children and adults",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40317284/"
+        },
+        {
+          "id": "pais170_op528_2",
+          "name": "The American Association for Thoracic Surgery (AATS) 2024 expert consensus document: Management of neonates and infants with Ebstein anomaly",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38685467/"
+        },
+        {
+          "id": "pais170_op528_3",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais170_op528_4",
+          "name": "Ebstein Anomaly",
+          "url": "https://www.cincinnatichildrens.org/health/e/ebstein"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_97",
+      "label": "Anomalia de Ebstein bilateral",
+      "entity": "Anomalia de Ebstein da valva tricúspide — qualificador anatômico ‘bilateral’ inaplicável",
+      "assessment": "{\"classification\":\"INVALID_ANATOMIC_LATERALITY_QUALIFIER_ON_CONGENITAL_TRICUSPID_VALVE_ANOMALY\",\"normalized_entity\":\"Anomalia de Ebstein\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"A anomalia de Ebstein é uma malformação congênita da valva tricúspide, localizada entre o átrio direito e o ventrículo direito. ‘Bilateral’ não é um subtipo anatômico reconhecido dessa entidade, não informa gravidade e não autoriza presumir comprometimento de duas valvas, dos dois ventrículos ou dos dois lados do coração. Se o cadastro pretendia indicar outra malformação atrioventricular ou cardiopatia complexa, a anatomia precisa ser confirmada no ecocardiograma e descrita separadamente. O rótulo deve ser preservado para rastreabilidade, mas clinicamente resolvido para a ficha canônica Anomalia de Ebstein.\",\"canonical_target\":{\"job_id\":\"OP-526\",\"key\":\"pdf1500_95\",\"label\":\"Anomalia de Ebstein\",\"relationship\":\"INVALID_QUALIFIER_REMOVED_SAME_CLINICAL_ENTITY\",\"status_at_review\":\"PENDING\"},\"not_automatically_equivalent_to\":[\"Doença das duas valvas atrioventriculares\",\"Disfunção dos dois ventrículos ou cardiopatia biventricular\",\"Comunicação interatrial, Wolff-Parkinson-White ou taquicardia supraventricular em todo paciente\",\"Cianose, insuficiência cardíaca, cardiomegalia ou indicação cirúrgica em todo diagnóstico\",\"Anomalia de Ebstein grave, neonatal crítica ou com fisiologia de ventrículo único\",\"Liberação irrestrita ou proibição universal de atividade física\",\"Necessidade universal de antibiótico antes de procedimento odontológico\"],\"counting_rule\":\"Preservar pdf1500_97 e o rótulo original para busca e auditoria, mas mapear para a única ficha canônica pdf1500_95/OP-526. Registrar uma resolução terminológica, zero nova doença, zero nova entidade clínica e zero nova ficha específica publicada.\",\"pediatric_scope\":\"A entidade canônica pode ser diagnosticada no período fetal, neonatal, infância ou adolescência. A urgência depende de cor, respiração, alimentação, saturação habitual, função ventricular e arritmias, não do qualificador ‘bilateral’.\",\"integration_instruction\":\"Remover apenas o efeito clínico do qualificador ‘bilateral’, mantendo o nome pesquisável. Resolver pdf1500_97 para a implementação de pdf1500_95/OP-526, com as mesmas seis seções, oito idades, fontes e testes. Se houver suspeita documental de anomalia de ambas as valvas ou outra cardiopatia complexa, não reutilizar este rótulo: devolver para correção diagnóstica baseada no ecocardiograma.\",\"next_action\":\"O coordenador deve comparar este resultado com OP-526 e integrar uma única ficha canônica; manter SOURCE_TERM_ISSUE enquanto a equivalência e a seleção por alias não forem testadas e publicadas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "‘Bilateral’ não é uma classificação usual da anomalia de Ebstein e não demonstra duas valvas doentes. Confirme a anatomia descrita no ecocardiograma; a condição envolve a valva tricúspide. Ela pode deixar sangue voltar para o átrio direito e varia muito: algumas crianças têm poucos sintomas; outras apresentam baixa oxigenação, arritmia ou insuficiência cardíaca.",
+          "Conheça o padrão habitual da criança: cor dos lábios, respiração, alimentação, peso, disposição, frequência do coração e, se a equipe orientou, saturação. Mudança do padrão é mais importante do que comparar com outra criança. Não use oxímetro doméstico para adiar atendimento quando há piora visível.",
+          "Mantenha consultas com cardiologia pediátrica mesmo quando a criança parece bem. Leve laudos de ecocardiograma, eletrocardiograma, Holter, ressonância, cirurgias e lista de medicamentos; esses dados, e não o rótulo ‘bilateral’, definem o plano.",
+          "A cardiopatia não é contagiosa e não foi causada por cuidado inadequado da família. Escola e cuidadores devem conhecer limites individuais, sinais de alerta, medicamentos e contatos de emergência."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita atividade e brincadeira conforme a orientação do cardiologista. Crianças com refluxo valvar leve, boa função e sem arritmia podem realizar muitas atividades; cianose, disfunção ventricular ou arritmia podem exigir restrições específicas. Não imponha repouso permanente nem libere esporte competitivo por conta própria.",
+          "Garanta pausas, acesso a água e banheiro e evite calor extremo ou esforço até exaustão. Interrompa atividade se houver falta de ar desproporcional, palpitação, dor no peito, tontura, coloração azulada ou desmaio.",
+          "Cuide da saúde bucal com escovação, fio dental conforme idade e consulta odontológica. Antibiótico antes de procedimento não é universal e depende do histórico e das condições definidas pela cardiologia.",
+          "Não massageie o peito, não faça manobras vagais nem tente ‘regular’ o coração sem treinamento e plano individual. Em palpitação persistente, mal-estar ou desmaio, procure atendimento."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas os medicamentos prescritos para esta criança. A anomalia de Ebstein não tem uma receita única: alguns pacientes não usam remédios; outros podem receber tratamento individual para retenção de líquido, arritmia, insuficiência cardíaca ou pós-operatório.",
+          "Não inicie, interrompa, dobre ou troque diurético, antiarrítmico, anticoagulante ou outro medicamento por conta própria. Confirme com a equipe o que fazer diante de vômito, dose esquecida, jejum, cirurgia, procedimento odontológico ou doença aguda.",
+          "O qualificador ‘bilateral’ não significa duas valvas doentes e não justifica medicamento adicional. Informe ao serviço todos os remédios, suplementos e descongestionantes; produtos que aceleram o coração ou interagem com antiarrítmicos precisam de conferência.",
+          "Esta orientação não prescreve dose, oxigênio, antibiótico preventivo, anticoagulação nem tratamento de crise. Taquicardia ou piora respiratória exige avaliação, não repetição improvisada de doses."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está estável, ofereça alimentação variada e líquidos adequados à idade. Não existe dieta que reposicione a valva. Restrição de sal ou líquido só deve ser feita quando a equipe indicar por retenção, insuficiência cardíaca ou situação pós-operatória.",
+          "Em bebês, dificuldade para mamar, suor, respiração rápida, cansaço ou demora excessiva podem reduzir a ingestão e o ganho de peso. Siga o plano de leite materno, fórmula, volume e fortificação; não dilua fórmula nem aumente calorias por conta própria.",
+          "Ofereça volumes menores e mais frequentes somente se isso fizer parte do plano. Não force mamada durante falta de ar, sonolência, coloração azulada ou engasgos; procure atendimento.",
+          "Vômitos repetidos, pouca urina, inchaço novo ou incapacidade de beber precisam de orientação rápida, sobretudo se usa diurético. Não compense com grandes volumes sem autorização."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios ou língua mais azulados que o habitual, dificuldade para respirar, afundamento das costelas, pausas respiratórias, gemência, incapacidade de falar ou mamar, dificuldade para despertar ou piora rápida. Acione o SAMU 192 se houver comprometimento importante.",
+          "Batimento muito rápido ou irregular com palidez, falta de ar, dor no peito, tontura, desmaio, confusão ou fraqueza intensa pode ser arritmia. Não espere passar e não leve a criança caminhando se estiver instável.",
+          "Desmaio durante esforço, dor no peito com atividade ou falta de ar desproporcional exige avaliação urgente e suspensão do exercício até liberação.",
+          "Bebê que mama muito menos, sua para mamar, fica exausto, respira rápido, tem poucas fraldas molhadas ou não ganha peso precisa de avaliação pronta; se houver cianose, prostração ou dificuldade respiratória, é emergência.",
+          "Inchaço de pernas, barriga aumentando rapidamente, ganho súbito de peso, barriga dolorosa, urina muito reduzida ou piora do cansaço pode indicar congestão/insuficiência cardíaca e exige atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Peça correção do termo ‘bilateral’ e confirme no laudo de ecocardiograma qual é a anatomia real. Se houver outra valva ou cardiopatia associada, ela deve ser nomeada separadamente; não presuma isso por este cadastro.",
+          "Mantenha o retorno definido pela cardiologia, mesmo sem sintomas. Acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço e ressonância conforme idade, refluxo valvar, função dos ventrículos e arritmias.",
+          "Antecipe o retorno por queda de disposição, dificuldade para acompanhar colegas, palpitações, episódios de coloração azulada, falta de ar, inchaço, perda ou baixo ganho de peso ou desmaio.",
+          "Após cirurgia ou procedimento, siga o plano específico de ferida, atividade, medicamento e sinais de infecção. Não use a melhora inicial como liberação automática e não perca o seguimento por cardiopatia congênita.",
+          "Antes de esporte competitivo, viagem distante, anestesia, gestação futura ou uso de medicamento que afete o coração, peça orientação individual. Na adolescência, planeje a transição para cardiologista de cardiopatia congênita do adulto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Forma grave pode aparecer logo após o nascimento com cianose, respiração difícil e mamada fraca. Mudança de cor, pausas, gemência, pouca reação ou incapacidade de mamar exige avaliação imediata; não force alimentação. O termo ‘bilateral’ não muda essa triagem.",
+        "3a5m": "Observe respiração e suor durante mamadas, tempo para completar, ganho de peso, cor e fraldas. Cansaço crescente, menos leite ou cianose exige contato rápido; dificuldade respiratória ou prostração é emergência.",
+        "6a11m": "Compare disposição, alimentação, ganho de peso e respiração com o habitual. Não antecipe restrição de atividade: permita brincadeira conforme orientação e interrompa diante de cansaço, palidez ou cor azulada.",
+        "1a": "A criança pode expressar arritmia como irritabilidade súbita, palidez, moleza ou recusa de atividade. Episódio prolongado, desmaio ou falta de ar precisa de urgência.",
+        "2a5": "Creche deve conhecer sinais e contatos. Permita brincadeira com pausas e sem competição forçada; palpitação, cianose, tontura ou cansaço fora do padrão exige parar e avisar o responsável.",
+        "6a11": "Combine participação escolar e esportiva com cardiologia. Ensine a avisar palpitação, dor no peito, tontura ou falta de ar; desmaio no esforço é emergência e suspende atividade até avaliação.",
+        "12a17": "Inclua o adolescente no plano e na transição para cardiopatia congênita do adulto. Revise esporte, adesão, saúde mental, contracepção/gestação futura e riscos de álcool, estimulantes e automedicação sem julgamento.",
+        "unknown": "Confirme idade, saturação habitual, anatomia pelo ecocardiograma, grau de refluxo tricúspide, comunicação interatrial, função ventricular, arritmias/WPW, cirurgias, medicamentos e plano de atividade. Sem esses dados, não definir gravidade, bilateralidade ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais170_op529_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais170_op529_2",
+          "name": "Ebstein’s Anomaly of the Tricuspid Valve",
+          "url": "https://www.chop.edu/conditions-diseases/ebstein-s-anomaly-tricuspid-valve"
+        },
+        {
+          "id": "pais170_op529_3",
+          "name": "The American Association for Thoracic Surgery (AATS) 2025 Expert Consensus Document: Management of Ebstein anomaly in children and adults",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40317284/"
+        },
+        {
+          "id": "pais170_op529_4",
+          "name": "Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities",
+          "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.12.025"
+        },
+        {
+          "id": "pais170_op529_5",
+          "name": "Ebstein’s Anomaly",
+          "url": "https://www.seattlechildrens.org/conditions/ebsteins-anomaly/"
+        },
+        {
+          "id": "pais170_op529_6",
+          "name": "Conditions treated by the Single Ventricle Service — Ebstein Anomaly",
+          "url": "https://www.gosh.nhs.uk/wards-and-departments/departments/clinical-specialties/single-ventricle-service/conditions-treated-by-the-single-ventricle-service/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": false,
+      "key": "pdf1500_98",
+      "label": "Anomalia de Ebstein crônico",
+      "entity": "Anomalia de Ebstein da valva tricúspide, cardiopatia congênita de expressão variável — alias qualificado da entidade canônica pdf1500_95/OP-526",
+      "assessment": "{\"classification\":\"UNSUPPORTED_REDUNDANT_TEMPORAL_QUALIFIER\",\"normalized_entity\":\"Anomalia de Ebstein\",\"canonical_key\":\"pdf1500_95\",\"assessment\":\"A anomalia de Ebstein é, por definição, uma malformação congênita estrutural da valva tricúspide. O adjetivo “crônico” não identifica subtipo anatômico, fase clínica, gravidade, complicação ou manejo distintos e é redundante fora de um contexto clínico individual. O rótulo deve resolver para a ficha canônica de Anomalia de Ebstein. Não se pode presumir cianose, insuficiência cardíaca, arritmia, cardiomegalia, cirurgia prévia ou estabilidade apenas pelo qualificador.\",\"duplicate_of\":{\"job_id\":\"OP-526\",\"key\":\"pdf1500_95\",\"label\":\"Anomalia de Ebstein\",\"equivalence\":\"SAME_CLINICAL_ENTITY_WITH_REDUNDANT_TEMPORAL_QUALIFIER\"},\"not_automatically_equivalent_to\":[\"Insuficiência tricúspide adquirida ou outra displasia da valva tricúspide\",\"Anomalia de Ebstein com cianose, insuficiência cardíaca ou arritmia em atividade\",\"Síndrome de Wolff-Parkinson-White ou taquicardia supraventricular em todos os pacientes\",\"Estado pós-operatório ou indicação automática de cirurgia\",\"Fisiologia de ventrículo único em todo paciente\",\"Doença estável ou de baixa gravidade por ser chamada de crônica\"],\"counting_rule\":\"Preservar pdf1500_98 para rastreabilidade e busca, mas resolver para pdf1500_95/OP-526. Registrar SOURCE_TERM_ISSUE, specific=false, sem contar nova doença, nova entidade ou nova ficha específica.\",\"pediatric_scope\":\"A doença pode manifestar-se no período fetal, neonatal, infância, adolescência ou somente mais tarde. Idade, saturação, grau de refluxo tricúspide, função ventricular e arritmias determinam risco e seguimento; “crônico” não substitui esses dados.\",\"integration_instruction\":\"Mapear pdf1500_98 à mesma implementação clínica de pdf1500_95/OP-526, preservando o nome original como alias. Comparar o resultado canônico antes de integrar e manter uma única ficha, com os mesmos alertas, adaptações etárias e fontes.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "“Crônico” reforça que esta alteração é de nascimento; não cria outra doença nem informa se o coração está estável agora. Confirme o significado do registro com a equipe.",
+          "A anomalia de Ebstein é uma cardiopatia congênita em que a valva tricúspide, no lado direito do coração, se formou e ficou posicionada de modo anormal. Pode deixar sangue voltar para o átrio direito e varia muito: algumas crianças têm poucos sintomas, enquanto outras apresentam baixa oxigenação, arritmia ou insuficiência cardíaca.",
+          "A palavra “crônico” não informa a gravidade atual. Observe o padrão habitual da criança — cor dos lábios, respiração, alimentação, peso, disposição e batimentos — e procure ajuda quando houver mudança. Se a equipe orientou medir saturação ou peso, siga o plano, mas não use aparelhos domésticos para adiar atendimento diante de piora visível.",
+          "Mantenha consultas com cardiologia pediátrica mesmo quando a criança parece bem. Leve ecocardiogramas, eletrocardiogramas, Holter, ressonâncias, relatórios de procedimentos e lista atual de medicamentos. Na adolescência, planeje a transição para cardiologia de cardiopatia congênita do adulto.",
+          "A condição não é contagiosa nem causada por cuidado inadequado dos pais. Escola e cuidadores devem conhecer os limites individuais, sinais de alerta e contatos de emergência."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita brincadeiras e atividade conforme a orientação do cardiologista. Refluxo leve, boa função cardíaca e ausência de arritmia podem permitir muitas atividades; cianose, disfunção ventricular ou arritmia podem exigir restrições específicas. Não imponha repouso permanente nem libere esporte competitivo sem avaliação.",
+          "Garanta pausas, hidratação conforme o plano e evite calor extremo ou esforço até exaustão. Interrompa a atividade se houver falta de ar desproporcional, palpitação, dor no peito, tontura, coloração azulada ou desmaio.",
+          "Cuide da saúde bucal com escovação e acompanhamento odontológico. Antibiótico antes de procedimento não é universal e depende de situações específicas definidas pela equipe, como certos materiais protéticos ou antecedente de endocardite.",
+          "Não faça massagem no peito, manobras vagais ou tentativas de “regular” o coração sem treinamento e plano individual. Palpitação persistente com mal-estar, falta de ar ou desmaio exige atendimento."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos prescritos para esta criança. Não existe uma receita única para anomalia de Ebstein: alguns pacientes não usam remédios; outros recebem tratamento individual para retenção de líquido, arritmia, insuficiência cardíaca ou pós-operatório.",
+          "Não inicie, suspenda, dobre ou troque diurético, antiarrítmico, anticoagulante ou outro medicamento por conta própria. Confirme com a equipe o que fazer diante de vômito, dose esquecida, jejum, cirurgia, procedimento odontológico ou doença aguda.",
+          "Informe todos os remédios, suplementos e descongestionantes em cada atendimento. Produtos que aceleram o coração, alteram a pressão ou interagem com antiarrítmicos precisam de conferência.",
+          "Esta orientação não prescreve dose, oxigênio, antibiótico preventivo, anticoagulação nem tratamento de crise. Taquicardia ou piora respiratória exige avaliação, não repetição improvisada de doses."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está estável, ofereça alimentação variada e líquidos adequados à idade. Não existe dieta que corrija a posição da valva. Restrição de sal ou líquidos só deve ser feita quando a equipe indicar por retenção, insuficiência cardíaca ou situação pós-operatória.",
+          "Em bebês, respiração rápida, suor, cansaço ou demora excessiva para mamar podem reduzir a ingestão e o ganho de peso. Siga o plano de leite materno, fórmula, volume e fortificação; não dilua fórmula nem aumente calorias por conta própria.",
+          "Não force mamada durante falta de ar, sonolência, coloração azulada ou engasgos. Oferecer volumes menores e mais frequentes só deve ocorrer conforme plano individual.",
+          "Vômitos repetidos, poucas fraldas molhadas, inchaço novo ou incapacidade de beber precisam de orientação rápida, sobretudo se a criança usa diurético. Não compense com grandes volumes sem autorização."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Lábios ou língua mais azulados que o habitual, dificuldade para respirar, afundamento das costelas, pausas respiratórias, gemência, incapacidade de falar ou mamar, dificuldade para despertar ou piora rápida. Acione o SAMU 192 se houver comprometimento importante.",
+          "Batimento muito rápido ou irregular acompanhado de palidez, falta de ar, dor no peito, tontura, desmaio, confusão ou fraqueza intensa pode indicar arritmia. Não espere passar e não administre dose extra sem plano médico.",
+          "Desmaio durante esforço, dor no peito com atividade ou falta de ar desproporcional exige avaliação urgente e suspensão do exercício até liberação.",
+          "Bebê que mama muito menos, sua ou fica exausto para mamar, respira rápido, tem poucas fraldas molhadas ou baixo ganho de peso precisa de avaliação rápida; cianose, prostração ou esforço respiratório são emergência.",
+          "Inchaço de pernas, barriga aumentando rapidamente, ganho súbito de peso, urina muito reduzida ou piora progressiva do cansaço pode indicar congestão ou insuficiência cardíaca e exige atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno definido pela cardiologia, mesmo sem sintomas. O acompanhamento pode incluir ecocardiograma, eletrocardiograma, Holter, teste de esforço ou ressonância conforme idade, anatomia, refluxo da valva, função dos ventrículos e arritmias.",
+          "Antecipe o retorno por queda de disposição, dificuldade para acompanhar colegas, palpitações, episódios de coloração azulada, falta de ar, inchaço, perda ou baixo ganho de peso ou desmaio.",
+          "Após cirurgia ou procedimento, siga o plano específico de ferida, atividade e medicamentos. A melhora inicial não é liberação automática e não elimina o seguimento por cardiopatia congênita.",
+          "Antes de esporte competitivo, viagem distante, anestesia, gestação futura ou uso de medicamento que afete o coração, peça orientação individual. Adolescentes devem conhecer o diagnóstico, procedimentos, medicamentos e plano de emergência."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Formas graves podem aparecer logo após o nascimento com cianose, dificuldade respiratória e mamada fraca. Mudança de cor, pausas, gemência, pouca reação ou incapacidade de mamar exige avaliação imediata; não force alimentação.",
+        "3a5m": "Observe respiração e suor durante mamadas, tempo para completar, ganho de peso, cor e fraldas. Cansaço crescente, menos leite ou cianose exige contato rápido; dificuldade respiratória ou prostração é emergência.",
+        "6a11m": "Compare disposição, alimentação, ganho de peso e respiração com o habitual. Permita brincadeira conforme orientação; cansaço fora do padrão, palidez ou coloração azulada exige interromper a atividade e avaliar.",
+        "1a": "Arritmia pode aparecer como irritabilidade súbita, palidez, moleza ou recusa de atividade. Episódio persistente, falta de ar ou desmaio precisa de urgência.",
+        "2a5": "Creche e cuidadores devem conhecer sinais e contatos. Permita brincadeira com pausas e sem competição forçada; palpitação, cianose, tontura ou cansaço fora do padrão exige parar e avisar o responsável.",
+        "6a11": "Combine participação escolar e esportiva com cardiologia. Ensine a avisar palpitação, dor no peito, tontura ou falta de ar; desmaio no esforço é emergência e suspende atividade até avaliação.",
+        "12a17": "Inclua o adolescente no plano e na transição para cardiopatia congênita do adulto. Revise esporte, adesão, saúde mental, contracepção e gestação futura, além dos riscos de álcool, estimulantes e automedicação.",
+        "unknown": "Confirme idade, saturação habitual, anatomia, comunicação interatrial, refluxo tricúspide, função ventricular, arritmias ou WPW, cirurgias, medicamentos e plano de atividade. Sem esses dados, “crônico” não permite definir gravidade ou tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais170_op530_1",
+          "name": "Ebstein's Anomaly",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/ebsteins-anomaly"
+        },
+        {
+          "id": "pais170_op530_2",
+          "name": "Ebstein’s Anomaly of the Tricuspid Valve",
+          "url": "https://www.chop.edu/conditions-diseases/ebstein-s-anomaly-tricuspid-valve"
+        },
+        {
+          "id": "pais170_op530_3",
+          "name": "The American Association for Thoracic Surgery (AATS) 2025 Expert Consensus Document: Management of Ebstein anomaly in children and adults",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40317284/"
+        },
+        {
+          "id": "pais170_op530_4",
+          "name": "Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities",
+          "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.12.025"
+        },
+        {
+          "id": "pais170_op530_5",
+          "name": "Ebstein’s Anomaly",
+          "url": "https://www.seattlechildrens.org/conditions/ebsteins-anomaly/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

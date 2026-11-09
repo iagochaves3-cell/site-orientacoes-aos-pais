@@ -1,0 +1,124 @@
+/* User-requested low-saturation navy blue palette; typography and print unchanged. */
+@media screen {
+  :root, :host {
+    color-scheme: dark;
+    --bg: #07182F;
+    --paper: #102743;
+    --ink: #ffffff;
+    --muted: #FFFFFF;
+    --green: #FFFFFF;
+    --accent: #FFFFFF;
+    --border: #355979;
+    --wash: #163454;
+    --red: #ffffff;
+    --shadow: 0 14px 38px #00000030;
+    --radius: 8px;
+  }
+  body {
+    background: linear-gradient(135deg, #07182F 0%, #07182F 55%, #0B203A 100%);
+    color: var(--ink);
+    font-size: 16px;
+    line-height: 1.65;
+  }
+  :host { color: var(--ink); }
+  header { background: #07182F; border-bottom: 1px solid var(--border); }
+  .topbar { min-height: 86px; }
+  .mark { background: var(--accent); color: #0B203A; border-radius: 4px; box-shadow: none; }
+  nav { flex-wrap: wrap; }
+  nav a, a { color: var(--ink); }
+  nav a:hover, .nav button:hover { color: #ffffff; background: var(--wash); }
+  .hero { position: relative; padding: 30px 0 28px; border-bottom: 1px solid var(--border); margin-bottom: 26px; }
+  .hero:after { display: none; }
+  .hero p { max-width: 690px; color: var(--muted); }
+  .hero .eyebrow, .eyebrow, h1 em, .step { color: #FFFFFF; }
+  h1 { letter-spacing: -.04em; }
+  .version { white-space: normal; max-width: 245px; background: #102743; border: 1px solid var(--border); border-top: 3px solid #FFFFFF; }
+  .panel { overflow: hidden; }
+  .panelhead { background: #163454; }
+  .formbody { padding: 22px; }
+  .field { margin-bottom: 20px; }
+  input[type=text], input[type=search], select, textarea {
+    background: #0B203A; color: #ffffff; border: 1px solid #355979;
+    border-radius: 4px; min-height: 48px;
+  }
+  input::placeholder, textarea::placeholder { color: #FFFFFF; opacity: 1; }
+  .chip { background: #163454; color: #ffffff; min-height: 39px; border-color: #355979; border-radius: 4px; }
+  .chip:hover { border-color: #FFFFFF; background: #355979; }
+  .primary { background: #FFFFFF; color: #0B203A; border: 1px solid #FFFFFF; border-radius: 3px; box-shadow: none; min-height: 52px; }
+  .primary:hover { background: #ffffff; color: #0B203A; }
+  .secondary, .reset { color: #ffffff; }
+  .secondary { background: transparent; border-color: #688BAA; border-radius: 3px; }
+  .secondary:not(:disabled):hover { border-color: #ffffff; background: #1B3C60; }
+  .status { color: #ffffff; background: #163454; }
+  .status.error, .error { background: #163454; color: #ffffff; border: 1px solid #FFFFFF; border-left: 4px solid #ffffff; }
+  .status.good { background: #102743; color: #ffffff; border: 1px solid #355979; }
+  .modebar { background: #07182F; flex-wrap: wrap; }
+  .tab { color: #FFFFFF; border-radius: 3px; }
+  .tab.active { background: #FFFFFF; color: #0B203A; box-shadow: none; }
+  .dot { background: #FFFFFF; }
+  .empty .symbol { border: 1px solid #FFFFFF; background: #102743; color: #ffffff; border-radius: 4px; }
+  .empty p, .intro, .edition, .stat span, .searchmeta, .check,
+  .results-top span, .item small, .pager span, .empty, .source, .footer p, .loading,
+  .optional, .help, .panelhead p, .editednote, .footpanel, .privacy { color: #FFFFFF; }
+  .empty .tags { color: #ffffff; }
+  .tags span { background: #163454; border-color: #355979; border-radius: 3px; }
+  .guidance-section h3, .guidance-section.urgent h3 { color: #ffffff; }
+  .guidance-section.urgent { background: #163454; border-color: #688BAA; border-left: 4px solid #FFFFFF; border-radius: 4px; }
+  .editor { background: #0B203A; }
+  .catalog button { background: #102743; color: #ffffff; border-color: var(--border); border-radius: 4px; }
+  .catalog button:hover { background: #163454; border-color: #FFFFFF; }
+  .catalog button small, .library-top p { color: #FFFFFF; }
+  .privacy { margin-top: 24px; border-top: 1px solid var(--border); padding-top: 24px; }
+  .sources a, main .bjhr-review a { color: #FFFFFF; text-underline-offset: 3px; }
+  main .bjhr-review { background: #102743; border-color: #355979; border-radius: 8px; }
+  main .bjhr-review .bjhr-correction { border-left-color: #FFFFFF; }
+  main .bjhr-grid details { background: #163454; border-color: #355979; border-radius: 4px; }
+  main .bjhr-review input { background: #0B203A; border-color: #355979; color: #ffffff; }
+
+  /* The embedded PPS library shares the same palette through its shadow root. */
+  .stats, .results, .reader, .nav button, .pager button, .actions button, .footer button {
+    background: #102743; color: #ffffff; border-color: #355979; border-radius: 4px;
+  }
+  .stat, .results-top, .pager, .readerhead, .readerfoot, .footer { border-color: #355979; }
+  .edition strong, .readerhead .kicker, .field h4, label { color: #ffffff; }
+  .notice, .context, .field.alert { background: #163454; border-color: #688BAA; color: #ffffff; border-radius: 4px; }
+  .notice button, .field.alert h4, .field.alert p { color: #ffffff; }
+  .searchbox, .readerfoot { background: #07182F; border-color: #355979; border-radius: 4px; }
+  .item { background: #102743; color: #ffffff; border-color: #355979; border-radius: 3px; }
+  .item:hover { background: #163454; }
+  .item[aria-current=true] { background: #355979; color: #ffffff; box-shadow: inset 3px 0 #FFFFFF; }
+  .nav button[aria-pressed=true], .actions button:first-child { background: #FFFFFF; border-color: #FFFFFF; color: #0B203A; }
+  .footer .actions button:first-child { background: transparent; color: #ffffff; border-color: #688BAA; }
+  .badge, .badge.hospital { background: #163454; color: #ffffff; border-color: #355979; border-radius: 3px; }
+  .field p, .field .prose, .original { color: #ffffff; }
+  .check input, input[type=checkbox] { accent-color: #FFFFFF; }
+  .list { scrollbar-color: #688BAA #102743; }
+  :focus-visible, button:focus-visible, a:focus-visible, input:focus-visible,
+  select:focus-visible, summary:focus-visible { outline: 3px solid #FFFFFF; outline-offset: 3px; }
+  ::selection { background: #FFFFFF; color: #0B203A; }
+  @media (max-width: 800px) {
+    .hero { padding: 22px 0; }
+    .topbar { gap: 12px; }
+    .modebar { gap: 12px; }
+    .layout { gap: 20px; }
+    .resulthead, .toolbar { flex-wrap: wrap; }
+    .wrap { padding: 0 16px; }
+  }
+  @media (min-width: 801px) { main > .layout { grid-template-columns: minmax(330px,390px) minmax(0,1fr); } }
+}
+
+@media screen {
+ body {background:#07182F;}
+ .panel,.panelhead,.stats,.results,.reader,.item,.catalog button,.version,main .bjhr-review,main .bjhr-grid details {background:linear-gradient(135deg,#102743,#163454);}
+ button,.primary,.secondary,.reset,.chip,.tab,.nav button,.pager button,.actions button,.footer button {background:#1B3C60;color:#FFFFFF;border:1px solid #355979;box-shadow:none;}
+ button:not(:disabled):hover,.primary:hover,.secondary:not(:disabled):hover,.chip:hover,.catalog button:hover,.nav button:hover {background:#244E76;color:#FFFFFF;transform:none;}
+ .tab.active,.nav button[aria-pressed=true],.actions button:first-child,.item[aria-current=true] {background:#355979;color:#FFFFFF;border-color:#A0C1DF;box-shadow:inset 0 -2px 0 #C5E2FA;}
+ input[type=text],input[type=search],select,textarea,.editor {background:#0B203A;color:#FFFFFF;border-color:#355979;}
+ body,:host,h1,h2,h3,h4,label,p,small,.help,.optional,.source,.empty,.intro,.edition,.stat span,.searchmeta,.check,.results-top span,.item small,.pager span,.footer p,.loading,.panelhead p,.editednote,.footpanel,.privacy,.catalog button small,.library-top p {color:#FFFFFF;}
+ .mark {background:#1B3C60;color:#FFFFFF;}
+ input[type=checkbox] {accent-color:#7CAAD0;}
+ :focus-visible,button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible {outline:3px solid #C5E2FA;outline-offset:3px;}
+ ::selection {background:#38638A;color:#FFFFFF;}
+ button:disabled {opacity:1;color:#FFFFFF;background:#163454;border-style:dashed;cursor:not-allowed;}
+ *,*::before,*::after {animation:none!important;transition:none!important;}
+}

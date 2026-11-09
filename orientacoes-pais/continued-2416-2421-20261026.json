@@ -1,0 +1,619 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T15:13:58.619Z",
+  "records": [
+    {
+      "jobId": "OP-2416",
+      "specific": false,
+      "key": "pdf1500_452",
+      "label": "Doença de Crohn não especificado",
+      "entity": "Doença de Crohn; ‘não especificado’ indica ausência de qualificadores clínicos no rótulo e não constitui subtipo, localização, comportamento, atividade ou gravidade",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNSPECIFIED_QUALIFIER_AND_GRAMMATICAL_DISCORDANCE\",\"normalized_entity\":\"Doença de Crohn\",\"assessment\":\"A doença de Crohn é uma doença inflamatória intestinal crônica válida. O complemento ‘não especificado’ não identifica localização, extensão, comportamento, atividade, complicação, fase, causa ou resposta terapêutica e apresenta discordância gramatical com ‘doença’, que é substantivo feminino. Ele deve ser tratado como marcador cadastral de informação ainda não especificada, não como nova forma clínica. Diretrizes pediátricas exigem história, exame, crescimento, marcadores objetivos, endoscopia e imagem conforme o caso para caracterizar a doença. Portanto, pdf1500_452 deve ser preservado para busca e rastreabilidade e reconciliado ao núcleo pdf1500_442, sem completar a informação ausente por inferência.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"SAME_BASE_ENTITY_WITH_UNSPECIFIED_CLINICAL_QUALIFIERS\",\"decision\":\"Preservar pdf1500_452 e seu nome cadastral, compartilhar a orientação clínica-base de pdf1500_442 e contar zero entidade clínica adicional. Localização, comportamento, atividade, gravidade, complicações e tratamento só podem ser exibidos quando documentados no caso real.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_442\"},\"not_automatically_equivalent_to\":[\"Doença de Crohn confirmada em uma criança específica\",\"Localização intestinal, colônica, ileocolônica, alta ou perianal\",\"Comportamento inflamatório, estenosante, penetrante ou fistulizante\",\"Atividade leve, moderada, grave, remissão ou exacerbação\",\"Doença com ou sem obstrução, fístula, abscesso, sangramento ou outra complicação\",\"Falha, resposta, perda de resposta, intolerância ou efeito adverso de tratamento\",\"Indicação de dieta terapêutica, medicamento, internação, cirurgia ou alta\"],\"pediatric_scope\":\"Em crianças e adolescentes, o cuidado deve incluir crescimento, puberdade, nutrição, anemia, inflamação objetiva, qualidade de vida, manifestações extraintestinais e complicações. Início em lactente ou criança muito pequena é incomum e requer investigação especializada e diferencial amplo; o rótulo inespecífico não confirma o diagnóstico nessa faixa.\",\"critical_context_to_confirm\":[\"Se o diagnóstico de Crohn foi confirmado por gastroenterologia pediátrica ou continua em investigação\",\"Localização e extensão documentadas por avaliação apropriada, sem inferi-las do nome cadastral\",\"Dor, distensão, vômitos, número e aspecto das evacuações, sangue, muco e sintomas noturnos\",\"Febre, prostração, palidez, perda de peso, ingestão de líquidos, urina e sinais de desidratação\",\"Crescimento, puberdade, anemia, alimentação, energia, faltas escolares e impacto emocional\",\"Dor, inchaço, secreção, fissura ou caroço ao redor do ânus\",\"Eliminação de fezes e gases e presença de vômito verde\",\"Exames atuais solicitados pela equipe, incluindo avaliação inflamatória, fezes, endoscopia e imagem quando indicadas\",\"Tratamentos realmente prescritos, adesão, doses perdidas, possíveis efeitos adversos e risco de infecção\"],\"counting_rule\":\"Contar pdf1500_442 e pdf1500_452 como uma única entidade clínica-base. ‘Não especificado’ não recebe contagem de nova doença e não autoriza preencher localização, atividade, gravidade, complicação ou tratamento.\",\"reason\":\"A entidade-base é válida, mas o qualificador apenas declara falta de especificação e tem concordância gramatical inadequada; não fornece dados clínicos para individualização.\",\"next_action\":\"Mapear pdf1500_452 à orientação canônica pdf1500_442, preservar o rótulo para rastreabilidade e testar que nenhuma característica ausente seja inferida. Manter SOURCE_TERM_ISSUE e specific=false até integração e revisão do coordenador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn é crônica e pode alternar períodos com e sem sintomas. A expressão ‘não especificado’ no cadastro não informa onde está a inflamação, se a doença está ativa nem se existe complicação.",
+          "Se o diagnóstico foi confirmado, siga o plano escrito da equipe. Registre dor, evacuações, sangue, febre, vômitos, apetite, líquidos, urina, peso e sintomas ao redor do ânus.",
+          "Avise a equipe quando sintomas surgirem ou piorarem. Infecções intestinais e outras condições podem parecer atividade de Crohn, por isso não conclua a causa nem mude o cuidado por conta própria.",
+          "Garanta acesso rápido ao banheiro, água, roupas de troca e apoio discreto na escola. Crohn não é contagiosa e, por si só, não exige isolamento.",
+          "Observe crescimento, energia, sono, puberdade e bem-estar emocional. Perda de peso, desaceleração do crescimento ou faltas frequentes merecem reavaliação, mesmo sem dor intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita repouso e atividades conforme tolerância; não force exercício, alimentação ou presença escolar quando a criança estiver debilitada.",
+          "Leve às consultas um registro curto dos sintomas, alimentação, evacuações e tratamentos realmente usados. Isso ajuda a equipe a definir atividade, localização e possíveis causas alternativas.",
+          "Não faça jejum prolongado, limpeza intestinal, enema, dieta de exclusão ampla ou terapia alternativa para tentar descobrir o que o rótulo não especifica.",
+          "Em dor ou inchaço ao redor do ânus, faça higiene suave com água, não esprema nem fure e procure avaliação, sobretudo se houver febre ou secreção.",
+          "Mantenha prevenção de infecções e vacinação conforme a equipe. Se houver tratamento que reduza a imunidade, vacinas e exposições infecciosas precisam de orientação individual."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, aumente, reduza ou interrompa tratamento porque o cadastro diz ‘não especificado’. Esse rótulo não informa atividade, complicação nem necessidade terapêutica.",
+          "Use somente o que foi prescrito para a criança, exatamente conforme o plano recebido. Não aproveite sobras, receitas de outra pessoa ou orientações antigas.",
+          "Se a criança usa tratamento que reduz a imunidade e apresenta febre, aparência muito doente ou contato relevante com infecção, contate a equipe no mesmo dia e procure urgência conforme os sinais de alarme.",
+          "Não use por conta própria remédio para parar diarreia, laxante, anti-inflamatório, probiótico, suplemento ou produto natural; alguns podem mascarar complicações ou causar dano.",
+          "Informe doses perdidas, vômito após uso, dificuldade para tomar e qualquer efeito adverso. A equipe decide se é preciso ajustar, substituir ou investigar outra causa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos com frequência e observe urina e disposição. Incapacidade de beber, vômitos repetidos ou pouca urina exigem avaliação urgente.",
+          "Se a criança consegue comer e não há sinais de obstrução, ofereça refeições pequenas, variadas e toleradas. Não existe uma dieta caseira única para toda criança com Crohn.",
+          "Não retire grupos alimentares, não imponha jejum e não inicie dieta terapêutica ou alimentação exclusiva por fórmula sem plano da gastroenterologia e da nutrição pediátrica.",
+          "Se houver distensão importante, dor forte, vômito verde ou parada de fezes e gases, não force alimentos e procure emergência imediatamente.",
+          "Peça avaliação nutricional diante de perda de peso, baixa ingestão, anemia ou crescimento insuficiente; suplementos só devem ser usados quando a necessidade e a forma segura forem definidas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte ou contínua, barriga muito distendida ou rígida, vômito verde, ausência de fezes ou gases ou piora rápida: procure emergência agora por possível obstrução, perfuração ou abdome agudo.",
+          "Sangue em grande quantidade nas fezes, fezes pretas, vômito com sangue, palidez intensa, desmaio, batimento muito acelerado ou fraqueza extrema: acione emergência.",
+          "Vômitos ou diarreia intensos com boca seca, olhos fundos, pouca ou nenhuma urina, mãos frias, tontura, sonolência ou incapacidade de beber: procure atendimento imediato.",
+          "Febre com dor abdominal intensa, calafrios, prostração ou inchaço doloroso abdominal ou ao redor do ânus: procure emergência por possível abscesso ou infecção grave, especialmente se houver tratamento que reduza a imunidade.",
+          "Confusão, dificuldade para despertar, convulsão, falta de ar ou coloração arroxeada: acione o serviço de emergência imediatamente.",
+          "Dor no peito, falta de ar súbita, tosse com sangue ou uma perna nova e dolorosamente inchada: procure emergência por possível coágulo.",
+          "Bebê ou criança pequena com recusa persistente, vômitos repetidos, distensão, sangue nas fezes, pouca urina ou prostração precisa de avaliação urgente; não atribua o quadro apenas ao rótulo de Crohn."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe no mesmo dia se aumentarem dor, diarreia, sangue, vômitos, febre, sintomas noturnos, secreção perianal ou dificuldade para comer e beber, mesmo sem sinal de emergência.",
+          "Se o diagnóstico ainda não foi confirmado, procure avaliação pediátrica ou gastroenterológica; não trate em casa como Crohn apenas porque o nome aparece no cadastro.",
+          "Mantenha retornos para acompanhar crescimento, puberdade, nutrição, anemia, inflamação objetiva, fezes, efeitos adversos e resposta ao tratamento conforme solicitação da equipe.",
+          "Antecipe a consulta se houver perda de peso, crescimento insuficiente, cansaço, aftas persistentes, dor articular, olho vermelho doloroso, lesões de pele ou impacto importante na escola e no humor.",
+          "Se os sintomas reaparecerem durante tratamento, a equipe deve avaliar adesão, infecção, inflamação e complicações antes de qualquer mudança.",
+          "Na revisão do cadastro, documente que pdf1500_452 corresponde ao núcleo pdf1500_442 e que ‘não especificado’ não define localização, atividade, gravidade, complicação ou tratamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crohn é excepcional nessa idade. Sangue nas fezes, vômitos, distensão, febre, recusa de mamadas, pouca urina ou prostração exigem avaliação imediata para outras causas e doença intestinal de início muito precoce; o rótulo inespecífico não confirma Crohn.",
+        "3a5m": "Diarreia persistente, sangue, distensão, febre, perda de peso ou infecções repetidas exigem pediatria e gastroenterologia com urgência proporcional. Não completar diagnóstico, localização ou tratamento a partir do cadastro.",
+        "6a11m": "Monitore mamadas, alimentação, evacuações, vômitos, sangue, peso e urina. Início antes de dois anos requer avaliação especializada; desidratação, distensão ou prostração são urgentes.",
+        "1a": "Crianças pequenas desidratam rapidamente e podem não localizar a dor. Sangue, vômitos, barriga distendida, pouca urina, queda no crescimento ou alteração perianal pedem avaliação precoce.",
+        "2a5": "Adultos registram evacuações, dor, febre, apetite, peso e crescimento e organizam acesso ao banheiro. Não deduza atividade, localização nem mude dieta ou tratamento por conta própria.",
+        "6a11": "Estimule a criança a contar sobre sangue, dor e sintomas noturnos sem vergonha. Garanta banheiro e hidratação na escola e monitore crescimento, anemia, energia e início da puberdade.",
+        "12a17": "Inclua o adolescente nas decisões, revise adesão sem julgamento e proteja privacidade. Perda de peso, restrição alimentar, atraso puberal, sangue, dor crescente ou impacto emocional exigem contato rápido com a equipe.",
+        "unknown": "Sem idade, confirmação diagnóstica, localização, sintomas, crescimento e exames atuais, não presuma subtipo, atividade, gravidade, dieta ou tratamento. Aplicar os sinais de alarme e buscar avaliação clínica."
+      },
+      "refs": [
+        {
+          "id": "pais244_op2416_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/pcdt-doenca-de-crohn.pdf/view"
+        },
+        {
+          "id": "pais244_op2416_2",
+          "name": "Management of Pediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://academic.oup.com/ecco-jcc/article/20/8/jjag084/8766823"
+        },
+        {
+          "id": "pais244_op2416_3",
+          "name": "Crohn’s disease: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng129/chapter/recommendations"
+        },
+        {
+          "id": "pais244_op2416_4",
+          "name": "Definition & Facts for Crohn’s Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts"
+        },
+        {
+          "id": "pais244_op2416_5",
+          "name": "Eating, Diet, & Nutrition for Crohn’s Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/eating-diet-nutrition"
+        },
+        {
+          "id": "pais244_op2416_6",
+          "name": "Care of children and adolescents with Inflammatory Bowel Disease",
+          "url": "https://naspghan.org/files/documents/pdfs/training/epa/EPA_IBD.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2417",
+      "specific": false,
+      "key": "pdf1500_453",
+      "label": "Doença de Crohn recorrente",
+      "entity": "Doença de Crohn; o qualificador cadastral ‘recorrente’ é ambíguo e não comprova recaída clínica, reativação inflamatória, perda de resposta nem recorrência pós-operatória",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_AMBIGUOUS_UNVERIFIED_RECURRENCE_QUALIFIER\",\"normalized_entity\":\"Doença de Crohn\",\"assessment\":\"A doença de Crohn é crônica e pode alternar remissão e atividade, mas ‘Doença de Crohn recorrente’ não é, isoladamente, uma entidade pediátrica autônoma nem demonstra que esta criança esteja em recaída. ‘Recorrência’ pode significar retorno de sintomas após melhora, reativação inflamatória confirmada, perda de resposta a um tratamento ou recorrência endoscópica/clínica após cirurgia; cada situação exige contexto e avaliação próprios. Dor, diarreia ou sangue também podem decorrer de infecção, efeito adverso, estreitamento, abscesso ou outra condição. Portanto, pdf1500_453 deve permanecer rastreado e ser reconciliado ao núcleo pdf1500_442, sem inferir atividade, recaída confirmada, terapia, dose ou alta.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"SAME_BASE_ENTITY_WITH_AMBIGUOUS_UNVERIFIED_RECURRENCE_QUALIFIER\",\"decision\":\"Preservar pdf1500_453 e seu nome cadastral, compartilhar a orientação clínica-base de pdf1500_442 e contar zero entidade clínica adicional. Exibir que ‘recorrente’ requer confirmação do que reapareceu, em qual contexto e com quais achados objetivos, sem gerar tratamento ou destino automático.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_442\"},\"not_automatically_equivalent_to\":[\"Doença de Crohn atualmente ativa\",\"Recaída inflamatória confirmada\",\"Perda de resposta ao tratamento\",\"Recorrência pós-operatória endoscópica ou clínica\",\"Exacerbações múltiplas em intervalo definido\",\"Infecção gastrointestinal ou complicação infecciosa\",\"Obstrução, perfuração, abscesso, fístula ou doença perianal ativa\",\"Indicação automática de corticoide, imunomodulador, biológico, antibiótico, dieta terapêutica, internação ou cirurgia\",\"Critério de alta ou redução de seguimento\"],\"pediatric_scope\":\"Em crianças e adolescentes, suspeita de retorno da doença deve ser avaliada com sintomas, exame, crescimento, puberdade, anemia, marcadores inflamatórios e fecais e, quando indicada, endoscopia ou imagem. Sintomas podem preceder, acompanhar ou não refletir inflamação objetiva; marcadores podem se alterar antes dos sintomas. Início muito precoce e recorrências aparentes em lactentes exigem investigação especializada de diagnósticos alternativos e causas monogênicas ou imunológicas.\",\"critical_context_to_confirm\":[\"Se o diagnóstico de Crohn foi confirmado por gastroenterologia pediátrica ou permanece em investigação\",\"O que ‘recorrente’ pretende descrever: sintomas, inflamação objetiva, perda de resposta, evento após retirada de tratamento ou achado pós-operatório\",\"Estado anterior documentado: remissão clínica, bioquímica, endoscópica ou pós-cirúrgica e por quanto tempo\",\"Dor, distensão, vômitos, número e aspecto das evacuações, sangue, muco, sintomas noturnos e eliminação de gases e fezes\",\"Febre, prostração, palidez, perda de peso, ingestão, urina e sinais de desidratação\",\"Crescimento, puberdade, anemia, alimentação, energia, faltas escolares e impacto emocional\",\"Dor, inchaço, secreção, fissura ou caroço ao redor do ânus\",\"Cirurgia intestinal prévia, local e data da operação, estoma e plano de vigilância pós-operatória\",\"Resultados atuais e anteriores de hemograma, proteína C reativa, velocidade de hemossedimentação, albumina, calprotectina fecal, investigação de fezes, imagem e endoscopia quando solicitados\",\"Medicamentos prescritos, adesão, doses perdidas, interrupções, possível imunossupressão, antibiótico recente e efeitos adversos\"],\"counting_rule\":\"Contar pdf1500_442 e pdf1500_453 como uma única entidade clínica-base. ‘Recorrente’ não acrescenta doença e não comprova atividade atual, frequência de crises, perda de resposta ou recorrência pós-operatória.\",\"reason\":\"O curso com remissões e ativações é possível na doença de Crohn, porém o qualificador isolado é impreciso e mistura cenários clínicos diferentes que dependem de documentação objetiva.\",\"next_action\":\"Mapear pdf1500_453 a pdf1500_442, preservar o rótulo e testar que a seleção explica a ambiguidade sem inferir atividade, recaída confirmada, perda de resposta, terapia, dose, internação ou alta. Manter SOURCE_TERM_ISSUE e specific=false até integração coordenada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn é crônica e pode alternar períodos de melhora e piora. A palavra ‘recorrente’ no cadastro não confirma que a inflamação voltou nem informa sua causa ou intensidade.",
+          "Se surgirem sintomas depois de um período de melhora, registre quando começaram, dor, evacuações, sangue, febre, vômitos, apetite, líquidos, urina, peso e sintomas ao redor do ânus. Compare com o padrão habitual, sem tentar classificar a recaída em casa.",
+          "Avise a equipe que acompanha a criança quando os sintomas reaparecerem ou aumentarem. Infecção intestinal, efeitos adversos, estreitamento e outras condições podem parecer uma recaída e precisam ser diferenciados.",
+          "Mantenha o plano escrito já fornecido pela gastroenterologia e leve a lista atualizada de medicamentos e exames. Ausência de sintomas não garante ausência de inflamação, e sintomas isolados também não a comprovam.",
+          "Garanta acesso rápido ao banheiro, água, roupa de troca e apoio discreto na escola. Crohn não é contagiosa e não exige isolamento; atividade escolar depende do estado da criança, não do rótulo ‘recorrente’.",
+          "Observe crescimento, energia, sono, puberdade e bem-estar emocional. Perda de peso, desaceleração do crescimento, vergonha, ansiedade ou faltas frequentes merecem reavaliação mesmo sem dor intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita repouso e atividade conforme tolerância; não force exercício ou presença escolar quando houver febre, desidratação, anemia sintomática, dor importante ou prostração.",
+          "Leve à consulta um registro curto de sintomas, evacuações, alimentação, peso quando disponível, medicamentos realmente usados e doses perdidas. Esse histórico ajuda a distinguir retorno de sintomas de inflamação confirmada.",
+          "Não faça jejum prolongado, limpeza intestinal, enema, dieta de exclusão ampla ou tratamento alternativo para testar se a doença voltou.",
+          "Em dor ou inchaço ao redor do ânus, faça higiene suave com água, seque sem esfregar e não esprema, fure ou aplique produtos. Febre, secreção, massa dolorosa ou piora rápida exigem avaliação urgente.",
+          "Mantenha consultas, medidas de peso e altura, exames e vacinação conforme a equipe. Se houver tratamento que reduza a imunidade, vacinas vivas e exposições infecciosas precisam de orientação individual.",
+          "Se houve cirurgia, siga o plano pós-operatório e de vigilância já entregue. Recorrência endoscópica após cirurgia pode ocorrer sem os mesmos sintomas e não deve ser concluída apenas em casa."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, reinicie, aumente, reduza, atrase nem interrompa tratamento apenas porque o cadastro diz ‘recorrente’ ou porque um sintoma reapareceu.",
+          "Use somente o plano prescrito para esta criança. A confirmação de inflamação, infecção, perda de resposta ou complicação vem antes de qualquer mudança feita pela equipe.",
+          "Se a criança usa corticoide, não pare de repente. Se usa medicamento que pode reduzir a imunidade e apresenta febre ou aparência muito doente, procure orientação no mesmo dia e urgência conforme os sinais de alarme.",
+          "Não use por conta própria anti-inflamatório não esteroide, antidiarreico, laxante, antibiótico, corticoide, probiótico, erva ou suplemento; eles podem agravar sintomas, mascarar complicações ou interagir com o tratamento.",
+          "Em dose esquecida, vômito logo após a administração ou dificuldade para obter o medicamento, não dobre nem repita automaticamente. Consulte o plano escrito, a equipe ou o farmacêutico responsável.",
+          "Esta orientação não seleciona medicamento, dose, via, concentração ou duração e não presume que houve falha terapêutica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos com frequência e observe urina e disposição. Incapacidade de beber, vômitos repetidos, pouca urina ou sonolência exigem avaliação urgente.",
+          "Se a criança consegue comer e não há suspeita de obstrução, ofereça refeições pequenas, variadas e toleradas. Não existe uma única dieta caseira indicada para toda suspeita de recaída.",
+          "Não retire leite, glúten, fibras ou grupos inteiros nem inicie nutrição enteral exclusiva por conta própria. Dietas terapêuticas pediátricas exigem gastroenterologia e nutricionista, com fórmula, quantidade, duração e monitoramento definidos.",
+          "Registre alimentos e sintomas se a equipe solicitar, mas não conclua que um alimento causou recorrência apenas por coincidência temporal.",
+          "Se houver distensão importante, dor forte, vômito verde ou parada de fezes e gases, não force alimentos e procure emergência imediatamente.",
+          "Peça avaliação nutricional se houver perda de peso, baixa ingestão ou crescimento insuficiente; vitaminas, ferro e outros suplementos devem corresponder a necessidade documentada."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte ou contínua, barriga muito distendida ou rígida, vômito verde, ausência de fezes ou gases ou piora rápida: procure emergência agora por possível obstrução, perfuração ou outro abdome agudo.",
+          "Sangue em grande quantidade nas fezes, fezes pretas, vômito com sangue, palidez intensa, desmaio, batimento muito acelerado ou fraqueza extrema: acione emergência.",
+          "Vômitos ou diarreia intensos com boca seca, olhos fundos, pouca ou nenhuma urina, mãos frias, tontura, sonolência ou incapacidade de beber: procure atendimento imediato por desidratação ou choque.",
+          "Febre com dor abdominal intensa, calafrios, prostração ou inchaço doloroso abdominal ou ao redor do ânus, especialmente durante possível imunossupressão: procure emergência por possível abscesso ou infecção grave.",
+          "Confusão, dificuldade para despertar, convulsão, falta de ar ou coloração arroxeada: acione o serviço de emergência imediatamente.",
+          "Dor no peito, falta de ar súbita, tosse com sangue ou inchaço doloroso de uma perna: acione emergência; não massageie a perna.",
+          "Bebê ou criança pequena com recusa persistente, vômitos repetidos, distensão, sangue nas fezes, pouca urina ou prostração precisa de avaliação urgente; não atribua o quadro apenas ao rótulo de Crohn."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe no mesmo dia se voltarem ou aumentarem dor, diarreia, sangue, febre, vômitos, sintomas noturnos, secreção perianal ou dificuldade para comer e beber, mesmo sem sinal de emergência.",
+          "Se o diagnóstico ainda não foi confirmado, procure pediatria ou gastroenterologia pediátrica; não trate sintomas repetidos em casa como recaída de Crohn apenas pelo nome do cadastro.",
+          "Não espere a consulta de rotina diante de perda de peso, crescimento insuficiente, cansaço, palidez, aftas persistentes, dor articular, olho vermelho doloroso, lesões de pele ou piora importante na escola e no humor.",
+          "A equipe pode precisar comparar sintomas, crescimento, exames de sangue e fezes e, em alguns casos, imagem ou endoscopia. Nenhum sintoma ou marcador isolado confirma todos os tipos de recorrência.",
+          "Após cirurgia, cumpra o calendário de vigilância definido pela equipe mesmo se a criança estiver bem; recorrência pós-operatória é um cenário específico e não deve ser inferida de sintomas isolados.",
+          "Se os sintomas reaparecerem durante tratamento, a equipe deve avaliar adesão, infecção, inflamação objetiva, efeitos adversos, estreitamento e outras complicações antes de alterar terapia.",
+          "Na revisão do cadastro, documente que pdf1500_453 corresponde ao núcleo pdf1500_442 e que ‘recorrente’ não comprova atividade, recaída nem necessidade de tratamento ou alta."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crohn é excepcional nessa idade e ‘recorrente’ não deve ancorar a avaliação. Sangue nas fezes, vômitos, distensão, febre, recusa de mamadas, pouca urina ou prostração exigem avaliação imediata para outras causas e doença intestinal de início muito precoce.",
+        "3a5m": "Sintomas que retornam não confirmam recaída de Crohn. Diarreia persistente, sangue, distensão, febre, perda de peso ou infecções repetidas exigem avaliação pediátrica e especializada com urgência proporcional.",
+        "6a11m": "Monitore mamadas, alimentação, evacuações, sangue, peso e urina. Doença inflamatória intestinal antes dos dois anos exige investigação especializada; desidratação, distensão ou prostração são urgentes.",
+        "1a": "Crianças pequenas desidratam rapidamente e podem não localizar a dor. Sangue, vômitos, barriga distendida, pouca urina, queda no crescimento ou alteração perianal pedem avaliação precoce, sem presumir recorrência.",
+        "2a5": "Adultos devem registrar sintomas, administrar apenas o plano prescrito, observar crescimento e organizar acesso ao banheiro. Não classifique recaída nem mude dieta ou medicamento por conta própria.",
+        "6a11": "Estimule a criança a contar sobre sangue, dor e sintomas noturnos sem vergonha. Garanta banheiro e hidratação na escola e acompanhe crescimento, anemia, energia e faltas.",
+        "12a17": "Inclua o adolescente nas decisões, revise adesão sem julgamento e proteja a privacidade. Perda de peso, restrição alimentar, atraso puberal, sangue, dor crescente ou abandono do tratamento exigem contato rápido com a equipe.",
+        "unknown": "Sem idade, confirmação diagnóstica, estado anterior, sintomas, crescimento, cirurgia e exames atuais, não presuma recaída nem inicie dieta ou tratamento. Aplicar sinais de alarme e buscar avaliação clínica."
+      },
+      "refs": [
+        {
+          "id": "pais244_op2417_1",
+          "name": "Management of Pediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://doi.org/10.1093/ecco-jcc/jjag084"
+        },
+        {
+          "id": "pais244_op2417_2",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/pcdt-doenca-de-crohn.pdf/@@download/file"
+        },
+        {
+          "id": "pais244_op2417_3",
+          "name": "Crohn’s disease: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng129/chapter/recommendations"
+        },
+        {
+          "id": "pais244_op2417_4",
+          "name": "Crohn's Disease — Digestive Topics",
+          "url": "https://gikids.org/digestive-topics/crohns-disease/"
+        },
+        {
+          "id": "pais244_op2417_5",
+          "name": "Crohn’s Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease"
+        },
+        {
+          "id": "pais244_op2417_6",
+          "name": "Eating, Diet, & Nutrition for Crohn’s Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/eating-diet-nutrition"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2418",
+      "specific": false,
+      "key": "pdf1500_454",
+      "label": "Doença de Crohn refratário",
+      "entity": "Doença de Crohn pediátrica; ‘refratário’ é um qualificador de resposta terapêutica que exige atividade inflamatória objetiva apesar de tratamento adequadamente realizado e não constitui doença autônoma",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNVERIFIED_TREATMENT_REFRACTORINESS_QUALIFIER_AND_GRAMMATICAL_DISCORDANCE\",\"normalized_entity\":\"Doença de Crohn pediátrica com possível resposta inadequada ao tratamento\",\"assessment\":\"A doença de Crohn é uma entidade pediátrica válida. O rótulo cadastral ‘Doença de Crohn refratário’ apresenta discordância gramatical e não demonstra refratariedade: sintomas persistentes ou recorrentes podem refletir inflamação ativa, exposição insuficiente ao tratamento, doses perdidas ou barreiras de acesso, efeito adverso, infecção, estenose, fístula, abscesso, doença perianal, complicação pós-operatória ou sintomas não inflamatórios. Antes de chamar a doença de refratária ou mudar tratamento, a equipe deve confirmar atividade por avaliação clínica e marcadores objetivos, verificar adesão, administração e exposição ao tratamento e excluir causas alternativas e complicações. Portanto, pdf1500_454 deve permanecer rastreado e ser reconciliado ao núcleo pdf1500_442, sem presumir falha terapêutica, gravidade, medicamento, dose, combinação, cirurgia, internação ou alta.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"SAME_BASE_ENTITY_WITH_UNVERIFIED_TREATMENT_RESPONSE_QUALIFIER\",\"decision\":\"Preservar pdf1500_454 e seu nome cadastral, compartilhar a orientação clínica-base de pdf1500_442 e contar zero entidade clínica adicional. Exibir ‘possível resposta inadequada ao tratamento’ ou ‘refratariedade em avaliação’ até que atividade inflamatória, adesão, exposição e causas alternativas estejam documentadas.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_442\"},\"not_automatically_equivalent_to\":[\"Doença de Crohn ativa confirmada\",\"Doença moderada, grave, fulminante ou de alto risco\",\"Falha primária a um tratamento específico\",\"Perda secundária de resposta após melhora inicial\",\"Exposição terapêutica adequada ou concentração apropriada de medicamento\",\"Adesão perfeita ou falha atribuível à criança ou à família\",\"Infecção gastrointestinal, efeito adverso ou intolerância medicamentosa\",\"Estenose, obstrução, fístula, perfuração, abscesso ou doença perianal ativa\",\"Indicação automática de aumento de dose, troca ou combinação de medicamentos, dieta terapêutica, internação ou cirurgia\"],\"pediatric_scope\":\"Em crianças e adolescentes, resposta terapêutica deve ser julgada por sintomas, exame, crescimento, puberdade, hemograma, albumina, marcadores inflamatórios e fecais e, quando indicado, endoscopia ou imagem. Sintomas isolados e índices clínicos não bastam para provar inflamação mucosa. Em início muito precoce, a equipe também pode investigar imunodeficiência ou causa monogênica. A avaliação precisa considerar o medicamento realmente recebido, doses omitidas ou atrasadas, administração, acesso, efeitos adversos e, quando pertinente, concentração do fármaco e anticorpos contra ele.\",\"critical_context_to_confirm\":[\"Se o diagnóstico de Crohn foi confirmado e qual é a localização e o comportamento da doença\",\"Quais sintomas persistem, quando começaram, se houve resposta inicial e se ocorrem à noite\",\"Peso, estatura, velocidade de crescimento, puberdade, ingestão, energia, anemia e impacto escolar\",\"Hemograma, proteína C reativa, velocidade de hemossedimentação, albumina, calprotectina fecal e exames de fezes recentes\",\"Endoscopia e imagem quando indicadas para confirmar atividade, extensão, estenose, fístula, abscesso ou recorrência pós-operatória\",\"Tratamento prescrito e realmente recebido, tempo de uso, atrasos, doses perdidas ou vomitadas, técnica de administração, armazenamento, acesso e tolerabilidade\",\"Exposição farmacológica e anticorpos contra o medicamento quando a terapia e a situação clínica tornarem esse monitoramento pertinente\",\"Infecção intestinal ou sistêmica, especialmente durante imunossupressão ou após antibiótico\",\"Causas não inflamatórias de sintomas, como constipação, síndrome do intestino irritável, intolerâncias alimentares individualmente avaliadas, má absorção de ácidos biliares ou supercrescimento bacteriano\",\"Dor, inchaço, secreção ou caroço ao redor do ânus, distensão, vômito verde e eliminação de fezes e gases\"],\"minimum_confirmation_before_refractory_label\":[\"Atividade inflamatória atual objetivamente demonstrada e correlacionada ao quadro clínico\",\"Tratamento e alvo avaliados pela gastroenterologia pediátrica, com tempo e exposição adequados ao contexto\",\"Adesão, acesso, administração, doses perdidas e tolerabilidade revistos sem julgamento\",\"Infecção, complicação estrutural e causa não inflamatória plausível avaliadas\",\"Falha primária, perda secundária de resposta e intolerância diferenciadas\"],\"counting_rule\":\"Contar pdf1500_442 e pdf1500_454 como uma única entidade clínica-base. ‘Refratário’ não acrescenta uma doença nem comprova atividade ou falha de tratamento.\",\"reason\":\"Refratariedade é uma conclusão clínica contextual, não demonstrada pelo nome do cadastro. Usá-la sem atividade objetiva, adesão e exposição verificadas e exclusão de causas alternativas pode levar a escalonamento desnecessário e atrasar o diagnóstico de infecção ou complicação.\",\"next_action\":\"Mapear pdf1500_454 a pdf1500_442, preservar o rótulo original e testar que a seleção orienta reavaliação especializada da atividade, adesão, exposição e causas alternativas sem gerar medicamento, dose, dieta, procedimento ou alta. Manter SOURCE_TERM_ISSUE e specific=false até integração coordenada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn é crônica e pode alternar melhora e piora. A palavra ‘refratário’ no cadastro não prova que a inflamação continua ativa nem que todos os tratamentos falharam.",
+          "Siga o plano escrito da gastroenterologia pediátrica e registre dor, evacuações, sangue, febre, vômitos, apetite, líquidos, urina, peso, sintomas noturnos e alterações ao redor do ânus.",
+          "Avise com franqueza sobre doses perdidas ou atrasadas, vômito após medicamento, dificuldade de aplicação, armazenamento, efeitos adversos ou falta de acesso. Isso é informação de segurança e não motivo de culpa.",
+          "Sintomas podem ocorrer sem inflamação ativa, e infecção ou estreitamento intestinal podem imitar uma recaída. Não conclua refratariedade nem mude o tratamento em casa.",
+          "Garanta acesso rápido ao banheiro, água, roupa de troca e apoio discreto na escola. Crohn não é contagiosa e, fora de infecção concomitante, não exige isolamento.",
+          "Observe crescimento, puberdade, energia, sono, humor e participação escolar. Perda de peso, desaceleração do crescimento ou sofrimento emocional merecem contato com a equipe mesmo que a dor pareça suportável."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Leve às consultas a lista exata dos medicamentos, horários e aplicações realmente recebidos, além de exames recentes e um registro curto dos sintomas. A equipe usa esse conjunto para diferenciar inflamação, exposição insuficiente e outras causas.",
+          "Mantenha consultas, coleta de exames e medidas de peso e altura. Sintomas sozinhos não confirmam atividade; calprotectina, exames de sangue, endoscopia ou imagem podem ser necessários conforme a equipe.",
+          "Não faça jejum, limpeza intestinal, enema, dieta de exclusão ampla, fórmula terapêutica, suplemento ou tratamento alternativo para ‘testar’ se a doença é refratária.",
+          "Permita repouso durante piora e atividade conforme tolerância quando estiver estável. Não force escola ou exercício se houver febre, anemia sintomática, desidratação, dor importante ou prostração.",
+          "Em dor ou inchaço ao redor do ânus, faça higiene suave com água, seque sem esfregar e não esprema, fure ou aplique produto sem orientação.",
+          "Mantenha vacinas e prevenção de infecções conforme a equipe. Se houver medicamento que reduza a imunidade, vacinas vivas e exposições infecciosas exigem orientação individual."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, aumente, reduza, combine, troque ou interrompa medicamentos apenas porque o cadastro diz ‘refratário’. A decisão depende de atividade objetiva, adesão, exposição, segurança e exclusão de complicações.",
+          "Use somente o que foi prescrito para esta criança. Se houver dose esquecida, atraso, vômito após a dose ou falha de aplicação, não repita nem dobre automaticamente; consulte o plano escrito ou a equipe.",
+          "Se usa corticoide, não pare de repente. A retirada precisa seguir orientação profissional por risco de retorno da inflamação e de insuficiência adrenal.",
+          "Não use por conta própria anti-inflamatório não esteroide, antidiarreico, laxante, antibiótico, probiótico, erva ou suplemento; eles podem agravar sintomas, mascarar complicações ou interagir com o tratamento.",
+          "Quando houver suspeita de perda de resposta, a equipe pode revisar exames, concentrações do medicamento ou anticorpos conforme a terapia usada. Isso não deve ser convertido pela família em ajuste de dose.",
+          "Febre, contato com infecção, ferida infectada ou efeito adverso importante durante possível imunossupressão exige contato no mesmo dia; em prostração ou piora rápida, procure urgência e leve a lista completa dos medicamentos."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos com frequência e observe urina e disposição. Incapacidade de beber, vômitos repetidos ou pouca urina exige avaliação urgente.",
+          "Se a criança consegue comer e não há sinal de obstrução, ofereça refeições pequenas, variadas e toleradas. Não existe uma única dieta caseira para Crohn refratária.",
+          "Não retire grupos alimentares nem inicie nutrição enteral exclusiva, dieta de exclusão ou fórmula especial por conta própria. Terapia nutricional precisa de plano e acompanhamento da gastroenterologia e nutrição pediátrica.",
+          "Peça avaliação nutricional se houver perda de peso, crescimento insuficiente, baixa ingestão ou medo de comer. Suplementos devem responder a uma necessidade documentada.",
+          "Diarreia pode exigir avaliação de inflamação, infecção e outras causas; não tente pará-la com remédio ou restrição alimentar sem orientação.",
+          "Se houver barriga muito distendida, dor forte, vômito verde ou parada de fezes e gases, não force alimento e procure emergência imediatamente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte ou crescente, barriga muito distendida ou rígida, vômito verde ou repetido, ausência de fezes ou gases ou piora rápida: procure emergência agora por risco de obstrução, perfuração ou outra complicação.",
+          "Sangue em grande quantidade nas fezes, fezes pretas, vômito com sangue, palidez intensa, desmaio, coração muito acelerado ou fraqueza extrema: acione o serviço de emergência.",
+          "Vômitos ou diarreia intensos com incapacidade de beber, boca seca, olhos fundos, pouca ou nenhuma urina, mãos frias, tontura ou sonolência: atendimento imediato por possível desidratação grave ou choque.",
+          "Febre com calafrios, prostração, dor abdominal intensa ou inchaço doloroso no abdome ou ao redor do ânus, sobretudo durante imunossupressão: procure emergência por possível abscesso ou infecção grave.",
+          "Confusão, dificuldade para despertar, convulsão, falta de ar ou coloração arroxeada: acione o serviço de emergência imediatamente.",
+          "Dor no peito, falta de ar súbita, tosse com sangue ou perna inchada e dolorosa: emergência por possível coágulo.",
+          "Bebê ou criança pequena com sangue nas fezes, vômitos repetidos, distensão, recusa persistente, pouca urina ou prostração precisa de avaliação imediata; não atribua o quadro ao rótulo de Crohn refratária."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe no mesmo dia se aumentarem dor, diarreia, sangue, vômitos, febre, sintomas noturnos, secreção perianal ou dificuldade para comer e beber, mesmo sem sinal de emergência.",
+          "Peça reavaliação da gastroenterologia pediátrica antes de qualquer mudança de tratamento. A equipe deve confirmar inflamação, revisar adesão e exposição e procurar infecção, estenose, fístula, abscesso e causas não inflamatórias.",
+          "Mantenha retornos para acompanhar crescimento, puberdade, nutrição, anemia, marcadores inflamatórios e fecais, segurança e resposta. Não espere uma crise grave para mostrar resultados anormais ou sintomas persistentes.",
+          "Antecipe a consulta se houver perda de peso, desaceleração do crescimento, cansaço, aftas persistentes, dor ou inchaço articular, lesão de pele, olho vermelho doloroso, prejuízo escolar ou sofrimento emocional.",
+          "Se o diagnóstico de Crohn ainda não foi confirmado, procure avaliação pediátrica e gastroenterológica; o rótulo ‘refratário’ não substitui investigação diagnóstica.",
+          "Na revisão do cadastro, documente que pdf1500_454 corresponde ao núcleo pdf1500_442 e que refratariedade só pode ser afirmada após comprovação objetiva de atividade, tratamento realmente recebido e exclusão de causas alternativas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crohn é excepcional nessa idade e ‘refratário’ não deve ser presumido. Sangue nas fezes, vômitos, distensão, febre, recusa de mamadas, pouca urina ou prostração exige avaliação imediata para infecção, alergia, problema anatômico e doença intestinal de início muito precoce.",
+        "3a5m": "Diarreia persistente, sangue, febre, lesão perianal, baixo ganho de peso ou infecções repetidas exigem pediatria e gastroenterologia com investigação ampla. Não use falha aparente de dieta ou remédio para concluir refratariedade.",
+        "6a11m": "Monitore mamadas, alimentação, evacuações, peso e urina. A equipe deve conferir diagnóstico, atividade, administração e causas imunológicas ou genéticas; desidratação, distensão ou prostração são urgentes.",
+        "1a": "Crianças pequenas desidratam rapidamente e podem não localizar a dor. O adulto deve relatar exatamente o que foi administrado e procurar avaliação precoce diante de sangue, vômitos, distensão, pouca urina, falha de crescimento ou alteração perianal.",
+        "2a5": "Adultos registram sintomas, crescimento e tratamento realmente recebido e organizam banheiro e refeições na escola. Revise barreiras de administração e acesso sem culpa; não mude dieta ou remédio para testar refratariedade.",
+        "6a11": "Estimule a criança a relatar sangue, dor, febre e sintomas noturnos sem vergonha. Acompanhe crescimento, energia e escola; o adulto continua responsável pelos medicamentos e por comunicar doses perdidas.",
+        "12a17": "Inclua o adolescente nas decisões, ofereça conversa privada e revise adesão, acesso, técnica, alimentação, saúde mental e tabaco sem julgamento. Perda de peso, atraso puberal, sangue ou dor crescente exige contato rápido com a equipe.",
+        "unknown": "Sem idade, diagnóstico confirmado, atividade objetiva, tratamento recebido e causas alternativas avaliadas, não presuma refratariedade nem altere medicamento ou dieta. Aplique os sinais de alarme e obtenha avaliação clínica."
+      },
+      "refs": [
+        {
+          "id": "pais244_op2418_1",
+          "name": "Management of Pediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://doi.org/10.1093/ecco-jcc/jjag084"
+        },
+        {
+          "id": "pais244_op2418_2",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/pcdt-doenca-de-crohn.pdf/@@download/file"
+        },
+        {
+          "id": "pais244_op2418_3",
+          "name": "The Medical Management of Paediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://academic.oup.com/ecco-jcc/article/15/2/171/5918800"
+        },
+        {
+          "id": "pais244_op2418_4",
+          "name": "Consensus guidelines of ECCO/ESPGHAN on the medical management of pediatric Crohn's disease",
+          "url": "https://academic.oup.com/ecco-jcc/article/8/10/1179/2392263"
+        },
+        {
+          "id": "pais244_op2418_5",
+          "name": "Crohn’s disease: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng129/chapter/recommendations"
+        },
+        {
+          "id": "pais244_op2418_6",
+          "name": "Definition & Facts for Crohn's Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts"
+        },
+        {
+          "id": "pais244_op2418_7",
+          "name": "Crohn's Disease",
+          "url": "https://gikids.org/wp-content/uploads/2019/10/Crohns-Disease.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2419",
+      "specific": false,
+      "key": "pdf1500_455",
+      "label": "Doença de Crohn unilateral",
+      "entity": "Doença de Crohn pediátrica; ‘unilateral’ não é qualificador anatômico reconhecido para essa doença e não define localização, extensão, comportamento, atividade ou complicação",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_INAPPLICABLE_ANATOMIC_QUALIFIER\",\"normalized_entity\":\"Doença de Crohn\",\"assessment\":\"A doença de Crohn é uma doença inflamatória intestinal crônica e pode afetar diferentes segmentos do trato gastrointestinal. ‘Unilateral’ descreve um lado do corpo, mas não integra as categorias anatômicas pediátricas reconhecidas para Crohn. A classificação de Paris descreve localização ileal, colônica, ileocolônica e trato gastrointestinal superior; nenhuma delas pode ser inferida como ‘unilateral’. Assim, o rótulo cadastral preserva uma entidade-base válida com qualificador anatômico provavelmente inaplicável. Ele não permite deduzir lado, segmento intestinal, extensão, atividade, comportamento, gravidade, complicação ou tratamento.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"SAME_BASE_ENTITY_WITH_INAPPLICABLE_ANATOMIC_QUALIFIER\",\"decision\":\"Preservar pdf1500_455 e seu nome cadastral para rastreabilidade, compartilhar a orientação clínica-base de pdf1500_442 e contar zero entidade clínica adicional. Exibir às famílias a limitação do termo, sem transformar ‘unilateral’ em doença de um lado, localização intestinal ou indicação terapêutica.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_442\"},\"not_automatically_equivalent_to\":[\"Doença limitada ao íleo ou ao cólon\",\"Doença do lado direito ou esquerdo do cólon\",\"Doença ileocolônica ou do trato gastrointestinal superior\",\"Doença perianal, estenosante, penetrante, fistulizante ou com abscesso\",\"Atividade leve, moderada ou grave\",\"Inflamação confirmada em exame, imagem, endoscopia ou anatomopatológico\",\"Indicação de dieta terapêutica, medicamento, internação ou cirurgia\"],\"pediatric_scope\":\"Em crianças e adolescentes, confirmar diagnóstico, localização e comportamento requer história, exame, crescimento e investigação especializada. Apresentação muito precoce exige atenção a diagnósticos alternativos e causas monogênicas ou imunológicas. Em qualquer idade, o termo ‘unilateral’ não substitui descrição anatômica objetiva.\",\"critical_context_to_confirm\":[\"Se o diagnóstico de Crohn foi confirmado por gastroenterologia pediátrica ou ainda está em investigação\",\"Quais segmentos foram avaliados e quais achados objetivos existem em endoscopia, anatomopatológico e imagem\",\"Dor, distensão, vômitos, evacuações, sangue, muco, febre, sintomas noturnos e estado geral\",\"Eliminação de fezes e gases e presença de vômito verde\",\"Peso, estatura, velocidade de crescimento, puberdade, anemia, ingestão e hidratação\",\"Dor, inchaço, secreção, fissura ou caroço ao redor do ânus\",\"Medicamentos prescritos, adesão, possíveis efeitos adversos, imunossupressão real e plano para intercorrências\",\"Impacto na escola, sono, atividades, alimentação, imagem corporal e saúde emocional\"],\"counting_rule\":\"Contar pdf1500_455 e pdf1500_442 como uma única entidade clínica-base. ‘Unilateral’ não acrescenta entidade, localização reconhecida, fenótipo ou atividade.\",\"reason\":\"O qualificador anatômico ‘unilateral’ é provavelmente inaplicável à doença de Crohn. As classificações reconhecidas descrevem segmentos do trato gastrointestinal e comportamento, não lateralidade corporal.\",\"next_action\":\"Mapear pdf1500_455 ao núcleo pdf1500_442, preservar o rótulo histórico, apresentar a ressalva nosológica e testar que a seleção não gere lado, localização, atividade, terapia, dose ou alta. Manter SOURCE_TERM_ISSUE e specific=false até integração coordenada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn é crônica e pode alternar períodos de melhora e atividade. A palavra ‘unilateral’ no cadastro não indica qual parte do intestino está afetada e não informa gravidade.",
+          "Se o diagnóstico foi confirmado, siga o plano escrito da equipe. Registre dor, evacuações, sangue, febre, vômitos, apetite, ingestão de líquidos, urina, peso e sintomas ao redor do ânus.",
+          "Não atribua sintomas novos ao suposto ‘lado’ da doença. Infecções e outras condições podem causar sintomas parecidos e precisam ser avaliadas antes de mudar o tratamento.",
+          "Garanta acesso discreto a banheiro, água e roupa de troca na escola. Crohn não é contagiosa e não exige isolamento; a participação em atividades depende do estado da criança.",
+          "Observe crescimento, energia, sono, puberdade e bem-estar emocional. Perda de peso, desaceleração do crescimento ou faltas escolares frequentes justificam contato com a equipe."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Permita repouso e atividade conforme tolerância. Não force exercício ou presença escolar quando houver dor, diarreia, fraqueza ou febre.",
+          "Leve às consultas a lista de medicamentos e um registro breve de sintomas, evacuações, alimentação e medidas de peso e altura disponíveis.",
+          "Não use a palavra ‘unilateral’ para escolher compressa, massagem, enema, limpeza intestinal ou tratamento direcionado a um lado do abdome.",
+          "Se houver dor, inchaço ou secreção ao redor do ânus, faça higiene suave com água, não esprema nem perfure e procure avaliação no mesmo dia, especialmente com febre.",
+          "Mantenha vacinação e prevenção de infecções conforme a equipe. Se existir imunossupressão, vacinas vivas e exposições infecciosas exigem orientação individual."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, aumente, reduza, troque ou interrompa qualquer medicamento porque o cadastro diz ‘unilateral’. O termo não define localização nem tratamento.",
+          "Use somente os medicamentos prescritos para esta criança, nos horários do plano. Em caso de dose perdida, vômito após a dose ou dificuldade para obter o medicamento, confirme a conduta com a equipe ou o farmacêutico.",
+          "Se houver tratamento que reduza a imunidade, febre, prostração ou aparência muito doente exige contato rápido com a equipe e urgência conforme os sinais de alarme; não suspenda ou repita doses por conta própria.",
+          "Não use antidiarreico, laxante, antibiótico, anti-inflamatório, suplemento ou remédio de outra pessoa sem orientação. Alguns podem piorar sintomas ou esconder complicações.",
+          "Leve a lista completa de medicamentos em consultas e urgências. A equipe deve verificar indicação, resposta, efeitos adversos e exames de segurança antes de qualquer mudança."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos com frequência e observe urina e disposição. Incapacidade de beber, vômitos repetidos ou pouca urina exigem avaliação urgente.",
+          "Se a criança tolera alimentos e não há sinais de obstrução, ofereça refeições variadas em porções menores, conforme aceitação. Não existe dieta doméstica ‘para um lado’ do intestino.",
+          "Não retire grupos alimentares nem inicie nutrição enteral exclusiva, fórmula, suplemento ou dieta de exclusão por conta própria. Estratégias terapêuticas precisam de gastroenterologia e nutrição pediátrica.",
+          "Se houver dor forte, distensão importante, vômito verde ou parada de fezes e gases, não force alimentos e procure emergência imediatamente.",
+          "Peça avaliação nutricional se houver perda de peso, baixa ingestão, anemia ou crescimento insuficiente. Registros alimentares ajudam a reconhecer tolerância, mas não provam localização ou atividade da doença."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte ou progressiva, barriga muito distendida ou rígida, vômito verde, ausência de fezes ou gases ou piora rápida: procure emergência agora por possível obstrução, perfuração ou abdome agudo.",
+          "Sangue em grande quantidade nas fezes, fezes pretas, vômito com sangue, palidez intensa, desmaio, batimento muito acelerado ou fraqueza extrema: acione emergência.",
+          "Vômitos ou diarreia intensos com incapacidade de beber, boca seca, olhos fundos, pouca ou nenhuma urina, mãos frias, tontura ou sonolência: procure atendimento imediato.",
+          "Febre com dor intensa, calafrios, prostração ou inchaço doloroso no abdome ou ao redor do ânus, principalmente se houver imunossupressão: procure emergência por possível abscesso ou infecção grave.",
+          "Confusão, dificuldade para despertar, convulsão, falta de ar ou coloração arroxeada: acione o serviço de emergência imediatamente.",
+          "Bebê ou criança pequena com recusa persistente, vômitos repetidos, distensão, sangue nas fezes, pouca urina ou prostração precisa de avaliação urgente; não espere para descobrir se o sintoma está de um lado."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe no mesmo dia se aumentarem dor, diarreia, sangue, vômitos, febre, sintomas noturnos, secreção perianal ou dificuldade para comer e beber, mesmo sem sinal de emergência.",
+          "Se o diagnóstico ainda não foi confirmado, procure avaliação pediátrica e gastroenterológica. Não trate em casa como Crohn localizada apenas pelo nome cadastral.",
+          "Mantenha os retornos definidos para acompanhar crescimento, puberdade, nutrição, anemia, inflamação, fezes, efeitos adversos e resposta ao tratamento.",
+          "Antecipe a consulta se houver perda de peso, crescimento insuficiente, cansaço, aftas persistentes, dor ou inchaço articular, olho vermelho doloroso, lesões de pele ou grande impacto na escola e no humor.",
+          "Quando sintomas reaparecem durante tratamento, a equipe pode precisar avaliar adesão, infecção, inflamação objetiva, estreitamento e outras complicações antes de alterar medicamentos.",
+          "Na revisão do cadastro, documente que pdf1500_455 corresponde ao núcleo pdf1500_442 e que ‘unilateral’ não define localização, atividade ou necessidade de tratamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crohn é excepcional nessa idade. Sangue nas fezes, vômitos, distensão, febre, recusa de mamadas, pouca urina ou baixo ganho de peso exigem avaliação pediátrica imediata para outras causas e doença intestinal de início muito precoce; ‘unilateral’ não orienta o diagnóstico.",
+        "3a5m": "Diarreia persistente, sangue, distensão, febre, perda de peso ou infecções repetidas exigem investigação especializada ampla. Não testar dieta ou remédio nem presumir um lado afetado.",
+        "6a11m": "Registre mamadas, alimentação, evacuações, sangue, vômitos, urina e curva de crescimento. Desidratação, distensão ou prostração são urgentes; a localização depende de investigação, não do rótulo.",
+        "1a": "Crianças pequenas desidratam rapidamente e podem não localizar a dor. Sangue, vômitos, barriga distendida, pouca urina, queda do crescimento ou alteração perianal pedem avaliação precoce.",
+        "2a5": "Adultos registram evacuações, dor, febre, apetite, peso e crescimento e organizam banheiro e alimentação na escola. Não mudem dieta ou remédio nem ensinem a criança a procurar sintomas de um lado específico.",
+        "6a11": "Estimule a criança a contar sobre dor, sangue e sintomas noturnos sem vergonha. Garanta banheiro e hidratação na escola e acompanhe crescimento, puberdade, anemia, energia e adesão com supervisão adulta.",
+        "12a17": "Inclua o adolescente nas decisões, revise adesão sem julgamento e proteja privacidade. Perda de peso, restrição alimentar, atraso puberal, sangue ou dor crescente exige contato rápido com a equipe e não deve ser interpretado pelo qualificador ‘unilateral’.",
+        "unknown": "Sem idade, confirmação diagnóstica, localização objetiva, sintomas, crescimento e tratamento atual, não presuma lateralidade, atividade, dieta ou terapia. Aplicar os sinais de alarme e buscar avaliação clínica."
+      },
+      "refs": [
+        {
+          "id": "pais244_op2419_1",
+          "name": "Pediatric Modification of the Montreal Classification for Inflammatory Bowel Disease: The Paris Classification",
+          "url": "https://naspghan.org/files/documents/pdfs/training/curriculum-resources/ibd/Paris_Classification.pdf"
+        },
+        {
+          "id": "pais244_op2419_2",
+          "name": "Management of Pediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://doi.org/10.1093/ecco-jcc/jjag084"
+        },
+        {
+          "id": "pais244_op2419_3",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/pcdt-doenca-de-crohn.pdf/view"
+        },
+        {
+          "id": "pais244_op2419_4",
+          "name": "Crohn’s disease: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng129/chapter/recommendations"
+        },
+        {
+          "id": "pais244_op2419_5",
+          "name": "Definition & Facts for Crohn's Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2420",
+      "specific": true,
+      "key": "pdf1500_456",
+      "label": "Doença de Kawasaki clássica",
+      "entity": "Doença de Kawasaki, apresentação clássica ou completa; vasculite sistêmica aguda pediátrica com predileção pelas artérias coronárias",
+      "assessment": "{\"classification\":\"VALID_STANDARD_PRESENTATION_WITH_SHARED_KAWASAKI_BASE_ENTITY\",\"normalized_entity\":\"Doença de Kawasaki clássica (completa)\",\"assessment\":\"O termo é nosologicamente válido. ‘Clássica’ ou ‘completa’ descreve a apresentação com febre e pelo menos quatro dos cinco achados principais: conjuntivite bilateral sem secreção, alterações de boca e lábios, exantema polimorfo, alterações de mãos ou pés e linfonodo cervical aumentado. Os achados podem surgir em sequência e alguns já podem ter desaparecido no momento da consulta. Diretrizes atuais admitem diagnóstico por equipe experiente a partir do quarto dia de febre quando os achados são suficientes; a definição tradicional usa cinco dias. O rótulo isolado não confirma caso ativo, dia da doença, gravidade, lesão coronariana nem resposta terapêutica. Suspeita clínica exige avaliação pediátrica urgente, exames dirigidos e tratamento hospitalar conforme prescrição; não é diagnóstico nem plano de alta domiciliar.\",\"canonical_reconciliation\":{\"canonical_key\":\"pps_89\",\"canonical_label\":\"Doença de Kawasaki\",\"relationship\":\"VALID_CLASSIC_COMPLETE_PRESENTATION_OF_EXISTING_BASE_ENTITY\",\"decision\":\"Preservar pdf1500_456 e seu nome cadastral, usar orientação específica para a apresentação clássica e compartilhar o núcleo clínico de pps_89. Não criar doença autônoma nem presumir que todos os critérios, complicações ou tratamentos estejam presentes.\",\"counting_effect\":\"ZERO_NEW_BASE_CLINICAL_ENTITY_ONE_VALID_PRESENTATION_CATALOG_ID_MAPPED_TO_PPS_89\"},\"not_automatically_equivalent_to\":[\"Doença de Kawasaki incompleta\",\"Doença de Kawasaki atípica com manifestações incomuns\",\"Síndrome do choque da doença de Kawasaki\",\"Aneurisma ou dilatação de artéria coronária\",\"Miocardite, pericardite, arritmia ou isquemia miocárdica\",\"Síndrome inflamatória multissistêmica pediátrica associada à COVID-19\",\"Escarlatina, sarampo, adenovirose, sepse, síndrome do choque tóxico ou reação medicamentosa\",\"Indicação automática de imunoglobulina, ácido acetilsalicílico, corticoide, anticoagulante ou alta\"],\"pediatric_scope\":\"A doença ocorre principalmente antes dos cinco anos, mas pode acometer qualquer idade pediátrica. Lactentes, especialmente os menores de seis meses, e adolescentes podem apresentar menos critérios e maior risco de atraso diagnóstico e complicações. Mesmo quando o rótulo é ‘clássica’, uma apresentação incompleta não deve ser excluída se faltarem sinais no momento da avaliação.\",\"critical_context_to_confirm\":[\"Dia e padrão da febre, maior temperatura medida e uso prévio de antitérmicos\",\"Olhos vermelhos sem secreção, lábios vermelhos ou rachados, língua avermelhada, manchas, vermelhidão ou inchaço de mãos e pés, descamação e íngua cervical, inclusive achados que já desapareceram\",\"Idade, irritabilidade, estado geral, hidratação, urina, vômitos, diarreia, dor abdominal, dor articular e vermelhidão na cicatriz da BCG\",\"Pressão, perfusão, frequência cardíaca, respiração, dor no peito, desmaio e sinais de choque ou comprometimento cardíaco\",\"Infecção recente ou atual, exposição à COVID-19, uso de medicamentos e diagnósticos diferenciais\",\"Hemograma, marcadores inflamatórios, função hepática, urina, eletrocardiograma e ecocardiograma quando solicitados\",\"Tratamento hospitalar já recebido, retorno ou persistência da febre e achados coronarianos\",\"Medicamentos atuais, risco de sangramento e plano de vacinação após imunoglobulina\"],\"counting_rule\":\"Contar pdf1500_456 como apresentação válida da mesma entidade-base de pps_89, não como doença adicional. ‘Clássica’ descreve padrão clínico e não comprova gravidade ou complicação.\",\"reason\":\"O qualificador ‘clássica’ é reconhecido e equivale à apresentação completa, mas depende de avaliação clínica e exclusão de causas alternativas.\",\"next_action\":\"Integrar por delta a orientação específica, preservar o nome e testar o mapeamento a pps_89, a urgência de toda suspeita e a ausência de prescrição ou alta automáticas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Kawasaki é uma inflamação dos vasos sanguíneos que pode atingir as artérias do coração. Na suspeita, não é seguro observar apenas em casa: procure avaliação pediátrica urgente em serviço capaz de encaminhar para tratamento hospitalar.",
+          "Febre por quatro ou mais dias acompanhada de olhos vermelhos sem secreção, lábios vermelhos ou rachados, língua muito vermelha, manchas no corpo, mãos ou pés vermelhos ou inchados, descamação ou íngua no pescoço precisa de avaliação sem demora. Não espere todos os sinais aparecerem juntos nem espere o quinto dia se a criança estiver piorando ou vários sinais já estiverem presentes.",
+          "Anote o primeiro dia da febre, temperaturas medidas e todos os sinais percebidos. Se for seguro, fotos de manchas, olhos, boca, mãos e pés podem ajudar, pois os achados podem surgir em sequência e desaparecer antes da consulta; não atrase o atendimento para fotografar.",
+          "Um exame ou ecocardiograma normal no início não exclui a doença. Se a equipe mantiver a suspeita, cumpra a observação, os exames repetidos e os retornos indicados.",
+          "A doença de Kawasaki não é considerada contagiosa e não exige isolamento por si só. Ainda assim, febre e exantema podem ter outras causas transmissíveis; mantenha a criança fora da escola ou creche enquanto estiver febril e siga a orientação da equipe sobre o diagnóstico diferencial.",
+          "Após tratamento hospitalar e somente se houver liberação da equipe, siga o plano escrito, observe a temperatura e o estado geral e mantenha o acompanhamento com pediatria e cardiologia. Esta ficha não autoriza alta nem substitui esse plano."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Enquanto busca atendimento, mantenha a criança acompanhada, confortável e com roupas leves. Não use banho gelado, álcool na pele ou técnicas para forçar a queda da temperatura.",
+          "Leve a caderneta de vacinação, lista de medicamentos e alergias, relatórios e exames anteriores. Informe infecção recente, exposição à COVID-19, contato com varicela ou influenza e qualquer doença cardíaca ou imunológica.",
+          "Não adie a avaliação para esperar a febre completar um número fixo de dias, para reunir todos os critérios ou para ver se um antitérmico resolve. Melhorar temporariamente da febre não exclui inflamação dos vasos.",
+          "Não force atividade física. Após a fase aguda, retorno à escola, esportes e esforço deve seguir a liberação clínica, especialmente se houve alteração coronariana ou cardíaca.",
+          "Não tente confirmar o diagnóstico em casa por fotos, listas de critérios ou resposta a remédios. Infecções, síndrome inflamatória multissistêmica, reações a medicamentos e outras doenças podem parecer Kawasaki e exigem avaliação própria."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê ácido acetilsalicílico por conta própria. Na doença de Kawasaki ele pode ser prescrito como exceção sob supervisão médica; a escolha, a quantidade e o tempo de uso dependem da avaliação hospitalar e cardíaca.",
+          "O tratamento inicial costuma incluir imunoglobulina pela veia e medicamento antiplaquetário prescritos no hospital. Crianças de maior risco, com febre persistente ou recorrente ou com alterações coronarianas podem precisar de outro tratamento decidido pela equipe; este rótulo não define o esquema.",
+          "Não inicie corticoide, anticoagulante, antibiótico, anti-inflamatório ou remédio de outra pessoa. Antibiótico não trata a vasculite de Kawasaki, embora uma infecção simultânea possa precisar de tratamento específico.",
+          "Se a criança já recebeu prescrição, não aumente, reduza, pule ou interrompa o medicamento sem orientação. Avise imediatamente sobre vômitos que impeçam a dose, sangramento, fezes pretas, manchas roxas extensas, reação alérgica ou erro de administração.",
+          "Se estiver usando ácido acetilsalicílico, não ofereça ibuprofeno ou outro anti-inflamatório sem autorização, pois podem interferir no efeito antiplaquetário ou aumentar riscos. Sintomas ou exposição a influenza ou varicela exigem contato com a equipe no mesmo dia; não suspenda nem substitua por conta própria.",
+          "A imunoglobulina pode mudar o momento de algumas vacinas vivas. Antes de vacinar, mostre o registro do tratamento à equipe de imunização; não omita nem repita vacina sem um plano individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se estiver alerta, respirando e engolindo bem enquanto segue para o atendimento, ofereça leite materno ou líquidos habituais em pequenas quantidades e com frequência. Não atrase a saída para insistir em alimentação.",
+          "Não force sólidos durante febre, náusea ou dor. Após avaliação, retome a alimentação tolerada conforme a equipe; não existe dieta caseira que trate a inflamação ou previna aneurisma.",
+          "Observe sede, boca seca, lágrimas, urina e vômitos. Incapacidade de beber, vômitos repetidos ou urina muito reduzida exigem atendimento imediato.",
+          "Não dê líquidos ou alimentos pela boca se houver dificuldade para despertar, convulsão, engasgo, falta de ar ou sinais de choque. Acione emergência.",
+          "Não use chás, suplementos, vitaminas ou dietas restritivas para substituir avaliação, imunoglobulina ou acompanhamento cardíaco."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se existe suspeita de doença de Kawasaki e a criança ainda não foi avaliada, vá agora a um pronto atendimento pediátrico; não espere consulta de rotina. O tratamento precoce reduz o risco de lesão das artérias coronárias.",
+          "Palidez intensa, mãos ou pés frios, pele manchada, pulso muito acelerado, fraqueza extrema, desmaio, pressão baixa conhecida ou pouca resposta podem indicar choque: acione o serviço de emergência imediatamente.",
+          "Dor no peito, falta de ar, respiração muito rápida, coloração arroxeada, batimento irregular ou desmaio exigem emergência por possível comprometimento do coração.",
+          "Confusão, dificuldade para acordar, convulsão, dor de cabeça intensa com rigidez no pescoço ou piora rápida exigem socorro imediato.",
+          "Dor abdominal forte ou contínua, vômitos repetidos, incapacidade de beber, pouca ou nenhuma urina, sangue no vômito ou nas fezes ou barriga muito distendida exigem avaliação imediata.",
+          "Febre que persiste ou volta após o tratamento hospitalar, ou retorno de olhos vermelhos, manchas, alterações de boca, mãos ou pés, exige reavaliação urgente no mesmo dia.",
+          "Se estiver em uso de antiplaquetário ou anticoagulante, sangramento que não para, vômito com sangue, fezes pretas, trauma importante na cabeça, sonolência incomum ou dor de cabeça intensa exigem emergência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita de Kawasaki deve ser reavaliada com urgência no mesmo dia; se a criança está instável ou há sinal de alarme, a avaliação é imediata por serviço de emergência.",
+          "Se a avaliação inicial não confirmou a causa da febre, retorne conforme a orientação e antes disso se surgirem novos sinais. Os critérios podem aparecer em sequência, e ausência de todos os achados não exclui a forma incompleta.",
+          "Depois do tratamento, siga exatamente o retorno definido pelo hospital e pela cardiologia pediátrica. São necessários acompanhamento clínico e ecocardiogramas seriados, mesmo quando o primeiro exame é normal; a agenda depende dos achados e do risco individual.",
+          "Meça e registre a temperatura como orientado. Qualquer febre persistente ou recorrente após o tratamento deve ser comunicada imediatamente à equipe, pois pode indicar inflamação ainda ativa ou outra causa.",
+          "Se houver alteração coronariana, o acompanhamento pode ser prolongado e as orientações sobre atividade, medicamentos e risco de trombose são individualizadas pela cardiologia. Não interrompa o seguimento porque a criança parece bem.",
+          "Revise com a equipe a caderneta de vacinação e o tratamento recebido antes das próximas vacinas. O momento de vacinas vivas pode precisar ser ajustado após imunoglobulina.",
+          "Na integração do cadastro, documente que pdf1500_456 é a apresentação clássica ou completa da entidade-base pps_89 e que o rótulo não autoriza diagnóstico, prescrição, duração de tratamento ou alta automáticos."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Kawasaki é rara, mas pode ocorrer e aparecer com poucos sinais. Qualquer febre medida ou suspeita nessa idade exige avaliação médica imediata por outras causas graves também; não espere olhos, boca, pele ou extremidades mudarem.",
+        "3a5m": "Lactentes pequenos têm maior risco de apresentação incompleta e complicações coronarianas. Febre sem explicação, irritabilidade, recusa, vermelhidão na BCG ou qualquer achado compatível exige avaliação pediátrica urgente mesmo sem quatro critérios.",
+        "6a11m": "A doença é frequente nessa faixa e os sinais podem ser sequenciais. Febre persistente, irritabilidade intensa, olhos vermelhos sem secreção, mudanças de boca, manchas, inchaço de mãos ou pés ou BCG avermelhada precisam de avaliação urgente.",
+        "1a": "É uma idade típica. Registre febre e achados que aparecem e somem, observe líquidos e urina e procure pronto atendimento sem esperar todos os critérios; irritabilidade extrema pode ser manifestação importante.",
+        "2a5": "A apresentação clássica é mais reconhecida nessa faixa, mas continua sendo diagnóstico médico. Febre com sinais de olhos, boca, pele, extremidades ou pescoço exige avaliação urgente e tratamento hospitalar quando indicado.",
+        "6a11": "Kawasaki é menos comum, mas possível. Não atribua automaticamente febre e exantema a virose ou alergia; dor abdominal, sintomas cardíacos e formas incompletas precisam de investigação urgente e diagnóstico diferencial.",
+        "12a17": "Em adolescentes o diagnóstico pode atrasar e a apresentação pode ser incompleta. Febre persistente com sinais mucocutâneos, sintomas gastrointestinais, tontura, dor no peito ou falta de ar exige avaliação hospitalar urgente, incluindo diferenciação de síndrome inflamatória multissistêmica.",
+        "unknown": "Sem idade, dia da febre, exame e história, não confirme nem descarte Kawasaki clássica. Aplique os sinais de alarme e encaminhe toda suspeita para avaliação pediátrica urgente; não gere remédio ou alta."
+      },
+      "refs": [
+        {
+          "id": "pais244_op2420_1",
+          "name": "Update on Diagnosis and Management of Kawasaki Disease: A Scientific Statement From the American Heart Association",
+          "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001295"
+        },
+        {
+          "id": "pais244_op2420_2",
+          "name": "Kawasaki disease: Practical guidance on diagnosis and management",
+          "url": "https://cps.ca/en/documents/position/kawasaki-disease"
+        },
+        {
+          "id": "pais244_op2420_3",
+          "name": "Clinical Practice Guidelines: Kawasaki disease",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/kawasaki_disease_guideline/"
+        },
+        {
+          "id": "pais244_op2420_4",
+          "name": "Doença de Kawasaki",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/doenca-de-kawasaki/"
+        },
+        {
+          "id": "pais244_op2420_5",
+          "name": "Clinical Overview of Kawasaki Disease",
+          "url": "https://www.cdc.gov/kawasaki/hcp/clinical-overview/index.html"
+        },
+        {
+          "id": "pais244_op2420_6",
+          "name": "2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Kawasaki Disease",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12326508/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2421",
+      "specific": true,
+      "key": "pdf1500_457",
+      "label": "Doença de Kawasaki incompleta",
+      "entity": "Doença de Kawasaki — apresentação incompleta, uma variante clínica reconhecida da mesma vasculite pediátrica, com menos critérios principais e apoio de avaliação laboratorial e/ou ecocardiográfica",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_VARIANT_WITH_INCOMPLETE_PRESENTATION\",\"normalized_entity\":\"Doença de Kawasaki — apresentação incompleta\",\"assessment\":\"‘Doença de Kawasaki incompleta’ é uma expressão nosologicamente válida. Descreve criança com febre prolongada e menos manifestações clínicas principais do que as exigidas para a apresentação clássica, na qual história, exame seriado, marcadores inflamatórios e outros exames laboratoriais e/ou ecocardiograma sustentam a avaliação. ‘Incompleta’ não significa leve, inicial, descartada ou sem risco cardíaco. As manifestações podem surgir em dias diferentes, ter desaparecido antes da consulta ou nunca completar todos os critérios; portanto, a ausência de quatro critérios principais não exclui a doença.\",\"relationship_to_base_entity\":{\"base_entity\":\"Doença de Kawasaki\",\"relationship\":\"VALID_PRESENTATION_OF_SAME_DISEASE_NOT_A_SEPARATE_DISEASE\",\"decision\":\"Preservar pdf1500_457 e o rótulo cadastral; produzir orientação própria para o risco de atraso diagnóstico, sem somar uma nova doença à contagem nosológica da entidade-base.\",\"counting_effect\":\"ONE_VALID_CATALOG_VARIANT_WITHIN_ONE_KAWASAKI_DISEASE_ENTITY\"},\"distinction_from_missing_criteria\":\"Ter poucos sinais na avaliação atual não confirma Kawasaki, mas também não a exclui. O diagnóstico incompleto requer avaliação médica do conjunto: duração e padrão da febre, sinais atuais e passados, diagnósticos alternativos, inflamação laboratorial e achados cardíacos. Um exame isolado normal, inclusive ecocardiograma precoce, não funciona como teste de exclusão.\",\"distinction_from_atypical\":\"‘Incompleta’ refere-se a número insuficiente de critérios principais. ‘Atípica’ é termo que pode ser usado para manifestações incomuns e deve ser evitado como sinônimo automático, pois gera confusão.\",\"not_automatically_equivalent_to\":[\"Doença de Kawasaki clássica ou completa\",\"Forma leve ou de baixo risco\",\"Febre sem causa definida por si só\",\"Aneurisma coronariano já presente\",\"Ecocardiograma normal como exclusão da doença\",\"Infecção viral, bacteriana, escarlatina, síndrome do choque tóxico, síndrome inflamatória multissistêmica pediátrica ou artrite idiopática juvenil sistêmica\",\"Indicação doméstica de aspirina, imunoglobulina, corticoide, antibiótico, anticoagulante ou qualquer dose\"],\"pediatric_scope\":\"A doença ocorre sobretudo antes dos cinco anos, mas pode aparecer em qualquer idade pediátrica. Lactentes, especialmente os menores de seis meses, e adolescentes podem apresentar menos sinais e ter maior risco de atraso e complicações cardíacas.\",\"critical_context_to_confirm\":[\"Dia exato de início da febre, temperaturas medidas e períodos sem febre\",\"Olhos vermelhos sem secreção, alterações de boca ou lábios, manchas na pele, vermelhidão ou inchaço de mãos e pés, descamação e íngua cervical, mesmo que já tenham desaparecido\",\"Irritabilidade intensa, recusa alimentar, vômitos, diarreia, dor abdominal, dor articular ou sinais de choque\",\"Idade, estado geral, hidratação, urina, respiração, perfusão e comorbidades\",\"Infecções e outras causas inflamatórias consideradas; teste positivo para vírus não exclui automaticamente Kawasaki\",\"Resultados e tendência de marcadores inflamatórios, hemograma, albumina, enzimas hepáticas, urina e outros exames solicitados\",\"Ecocardiograma com medidas coronarianas e função cardíaca; data do exame e necessidade de avaliação seriada\",\"Tratamentos já recebidos, resposta da febre, alergias, medicamentos em uso e vacinação recente\"],\"reason\":\"Variante clínica reconhecida por diretrizes pediátricas atuais; a proteção principal é evitar falsa exclusão e atraso porque os critérios clássicos estão incompletos.\",\"next_action\":\"Integrar como orientação específica de alta prioridade, testar que nenhum fluxo tranquiliza, dá alta ou aguarda todos os critérios diante de suspeita e preservar avaliação hospitalar, exames seriados e seguimento cardiológico individualizado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Kawasaki é uma inflamação dos vasos sanguíneos que pode atingir as artérias do coração. Na forma incompleta, aparecem menos sinais clássicos; isso não significa doença leve nem afasta complicações.",
+          "Suspeita de Kawasaki incompleta não deve ser conduzida apenas em casa. Febre persistente sem explicação, principalmente acompanhada de olhos vermelhos sem secreção, lábios vermelhos ou rachados, língua muito vermelha, manchas, mãos ou pés vermelhos ou inchados ou íngua no pescoço, precisa de avaliação pediátrica hospitalar no mesmo dia.",
+          "Não espere todos os sinais aparecerem. Eles podem surgir um após o outro e alguns podem desaparecer antes da consulta. Informe tudo o que ocorreu desde o primeiro dia de febre e, se for seguro, leve fotos das alterações de pele, olhos, boca, mãos ou pés.",
+          "Anote horários e temperaturas medidas, líquidos aceitos, urina, vômitos, diarreia, dor, irritabilidade e medicamentos usados. Esse registro ajuda, mas não deve atrasar a ida ao atendimento.",
+          "Um primeiro ecocardiograma normal não exclui Kawasaki, especialmente no começo. Siga as reavaliações e os exames seriados definidos pela pediatria e cardiologia.",
+          "Kawasaki não é considerada contagiosa e não exige isolamento por si só. Como infecções podem parecer semelhantes ou ocorrer ao mesmo tempo, cumpra as orientações dadas para o diagnóstico realmente avaliado."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Enquanto busca atendimento, mantenha a criança acompanhada, em ambiente confortável e sem excesso de roupas. Não use banho gelado, álcool na pele ou compressas muito frias para tentar controlar a febre.",
+          "Não adie a avaliação esperando completar cinco dias de febre, aparecerem quatro sinais ou conseguir consulta eletiva quando a criança estiver piorando, for lactente ou houver forte suspeita clínica.",
+          "Não tente confirmar ou excluir Kawasaki contando sinais em casa, por fotografia, aplicativo ou resultado isolado. A avaliação exige exame médico, investigação de outras causas, exames laboratoriais e ecocardiograma quando indicado.",
+          "Após tratamento e liberação formal, permita repouso e retorno gradual às atividades conforme tolerância e orientação da equipe. Não libere esporte intenso se houver restrição cardiológica.",
+          "Mantenha o calendário de consultas, exames e ecocardiogramas mesmo que a criança pareça bem; alterações coronarianas podem ser silenciosas.",
+          "A escola ou creche não precisa afastar a criança por contágio de Kawasaki, mas o retorno depende da recuperação e do plano médico, além de qualquer infecção associada."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê aspirina por conta própria. Em Kawasaki, ela pode fazer parte do tratamento hospitalar, mas somente com indicação e acompanhamento médico; o uso habitual de aspirina em crianças pode causar danos.",
+          "O tratamento confirmado costuma ser feito no hospital com imunoglobulina intravenosa e medicamentos definidos pela equipe. A apresentação incompleta não autoriza a família a iniciar, repetir ou calcular qualquer esquema.",
+          "Não use antibiótico, corticoide, anticoagulante, anti-inflamatório, fitoterápico ou sobra de receita para tentar tratar a febre ou impedir complicações. Infecções e outras doenças precisam ser diferenciadas e tratadas quando realmente presentes.",
+          "Se a criança recebeu aspirina ou outro antitrombótico, siga exatamente a prescrição e não associe ibuprofeno ou outro anti-inflamatório sem autorização da equipe. Não suspenda o medicamento por conta própria.",
+          "Sangramento incomum, fezes pretas, vômito com sangue, manchas roxas extensas ou trauma importante durante uso de aspirina, anticoagulante ou outro antitrombótico exigem avaliação imediata.",
+          "Se recebeu imunoglobulina, avise a unidade de vacinação antes das próximas vacinas; algumas vacinas vivas podem precisar de mudança de data. A equipe deve definir o calendário individual, sem adiamento decidido pela família."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está alerta e consegue engolir, ofereça líquidos em pequenas quantidades e com frequência durante o deslocamento e enquanto aguarda orientação. Continue amamentando se o bebê aceitar com segurança.",
+          "Observe boca seca, ausência de lágrimas, olhos fundos, mãos frias, sonolência e redução da urina. Incapacidade de beber ou pouca urina exige atendimento imediato.",
+          "Não force comida. Ofereça pequenas porções habituais e toleradas se houver apetite e não houver vômitos repetidos, dor intensa, dificuldade para respirar ou rebaixamento de consciência.",
+          "Não existe dieta doméstica que trate Kawasaki ou evite aneurisma. Não faça jejum prolongado, dieta de exclusão, sucos concentrados, vitaminas ou suplementos com essa finalidade.",
+          "Vômitos repetidos, dor abdominal forte, diarreia intensa ou recusa persistente podem acompanhar doença grave ou outro diagnóstico e precisam ser comunicados à equipe, não atribuídos apenas à febre."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Febre persistente sem causa clara com dois ou mais sinais compatíveis — olhos vermelhos sem secreção, alteração de boca ou lábios, manchas, mãos ou pés vermelhos ou inchados, descamação ou íngua cervical — exige pronto atendimento no mesmo dia; não espere todos os critérios.",
+          "Lactente, sobretudo menor de seis meses, com febre persistente inexplicada, irritabilidade intensa, recusa de mamadas ou poucos sinais localizados precisa de avaliação imediata, pois Kawasaki incompleta pode ser pouco evidente nessa idade.",
+          "Moleza intensa, desmaio, pele pálida ou manchada, mãos e pés frios, batimento muito acelerado, pouca urina ou piora rápida podem indicar choque: acione o serviço de emergência.",
+          "Falta de ar, respiração muito rápida ou trabalhosa, dor no peito, coloração arroxeada ou incapacidade de falar, mamar ou caminhar normalmente exige emergência agora.",
+          "Confusão, dificuldade para despertar, convulsão, dor de cabeça muito intensa, rigidez no pescoço ou fraqueza súbita exige atendimento emergencial.",
+          "Vômitos repetidos, incapacidade de beber, boca muito seca, ausência de urina, dor abdominal forte ou sangue nas fezes precisam de avaliação imediata.",
+          "Febre que persiste, reaparece ou surge novamente após tratamento de Kawasaki deve ser comunicada e avaliada no mesmo dia; não repita medicamento por conta própria nem espere o próximo retorno.",
+          "Durante uso de aspirina ou outro antitrombótico, vômito com sangue, fezes pretas, sangramento que não para, desmaio ou trauma importante exigem pronto atendimento imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Na suspeita de Kawasaki incompleta, a primeira reavaliação é no mesmo dia em serviço pediátrico capaz de realizar investigação e encaminhar para ecocardiograma; não se trata de retorno eletivo.",
+          "Se a avaliação inicial não confirmou o diagnóstico e a criança foi liberada com febre ainda sem causa, cumpra o retorno indicado, em geral dentro de 24 horas, e volte antes se surgirem novos sinais ou qualquer piora. Um exame inicial normal não encerra a investigação quando a suspeita persiste.",
+          "Se Kawasaki foi diagnosticada, mantenha acompanhamento com pediatria e cardiologia e todos os ecocardiogramas seriados marcados. A frequência depende das artérias coronárias, da função cardíaca, da inflamação e da resposta ao tratamento.",
+          "Conte a febre diariamente após o tratamento conforme orientação da equipe. Febre persistente ou recorrente exige contato e avaliação no mesmo dia.",
+          "Antecipe a consulta se surgirem nova descamação, dor ou inchaço articular, cansaço incomum, palpitação, dor no peito, falta de ar, desmaio ou redução da tolerância às atividades.",
+          "Crianças com alteração coronariana precisam de seguimento cardiológico pelo tempo determinado pelo especialista, mesmo sem sintomas. Não interrompa consultas ou medicamentos porque a aparência voltou ao normal."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Kawasaki é rara, mas pode ocorrer e mostrar poucos sinais. Qualquer febre nessa idade já exige avaliação médica imediata; febre persistente, irritabilidade, recusa, pouca urina ou má perfusão não deve ser aguardada em casa nem excluída por ausência dos sinais clássicos.",
+        "3a5m": "Menores de seis meses têm maior chance de apresentação incompleta e complicações coronarianas. Febre prolongada sem explicação pode ser a principal pista; procure avaliação hospitalar mesmo com poucos achados ou exame inicial pouco alterado.",
+        "6a11m": "Lactentes ainda podem ter forma incompleta e desidratar rapidamente. Observe mamadas, urina, irritabilidade, olhos, boca, pele e extremidades; febre persistente inexplicada requer avaliação pediátrica e consideração de ecocardiograma.",
+        "1a": "A doença é mais comum na primeira infância, e a criança pode não localizar dor ou palpitação. Responsáveis devem relatar sinais que apareceram e sumiram; prostração, recusa, febre persistente ou mudança de cor exigem avaliação imediata.",
+        "2a5": "Faixa etária frequente para Kawasaki. Registre a sequência de febre, olhos, boca, pele, mãos, pés e pescoço; não espere quatro sinais nem trate como virose apenas porque alguns critérios faltam.",
+        "6a11": "Embora menos comum, Kawasaki continua possível. Febre prolongada com sinais mucocutâneos, dor abdominal, irritabilidade ou cansaço exige avaliação; a criança deve avisar dor no peito, palpitação, tontura ou falta de ar imediatamente.",
+        "12a17": "Adolescentes podem ter apresentação incompleta e outras síndromes inflamatórias no diagnóstico diferencial. Febre persistente, sintomas gastrointestinais, choque, dor no peito ou falta de ar exigem hospital; não descarte Kawasaki apenas pela idade.",
+        "unknown": "Sem idade, duração da febre, sinais, exame, laboratório e ecocardiograma, não confirme nem exclua Kawasaki incompleta. Aplicar os sinais de alarme e buscar avaliação pediátrica no mesmo dia diante de suspeita."
+      },
+      "refs": [
+        {
+          "id": "pais244_op2421_1",
+          "name": "Update on Diagnosis and Management of Kawasaki Disease: A Scientific Statement From the American Heart Association",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39534969/"
+        },
+        {
+          "id": "pais244_op2421_2",
+          "name": "2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Kawasaki Disease",
+          "url": "https://vasculitisfoundation.org/kawasaki-disease-kd-guidelines/"
+        },
+        {
+          "id": "pais244_op2421_3",
+          "name": "Kawasaki disease: Practical guidance on diagnosis and management",
+          "url": "https://cps.ca/en/documents/position/kawasaki-disease"
+        },
+        {
+          "id": "pais244_op2421_4",
+          "name": "Clinical Practice Guidelines: Kawasaki disease",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/kawasaki_disease_guideline/"
+        },
+        {
+          "id": "pais244_op2421_5",
+          "name": "Kawasaki Disease or Incomplete Kawasaki Disease Clinical Pathway — Emergency Department and Inpatient",
+          "url": "https://www.chop.edu/clinical-pathway/kawasaki-disease-incomplete-kawasaki-disease-clinical-pathway"
+        },
+        {
+          "id": "pais244_op2421_6",
+          "name": "Kawasaki Disease",
+          "url": "https://www.heart.org/en/health-topics/kawasaki-disease"
+        },
+        {
+          "id": "pais244_op2421_7",
+          "name": "Doença de Kawasaki Incompleta Diagnosticada Apenas com Febre Prolongada: Relato de Dois Casos e Revisão da Literatura",
+          "url": "https://www.scielo.br/j/abc/a/scLQgDmnSQsLr7v8v5d8jpJ/?lang=pt"
+        },
+        {
+          "id": "pais244_op2421_8",
+          "name": "Intravenous immunoglobulin for the treatment of Kawasaki disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36695415/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

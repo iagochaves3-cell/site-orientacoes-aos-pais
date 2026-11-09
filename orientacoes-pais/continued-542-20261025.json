@@ -1,0 +1,78 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:36:19.707Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_307ebf4dd65880c0",
+      "label": "Apraxia de fala na infância — registro no PPS",
+      "entity": "Apraxia de fala na infância",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Distúrbio motor da fala reconhecido; não inferir diagnóstico a partir de atraso isolado ou ausência de palavras em lactentes.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A apraxia de fala na infância dificulta planejar os movimentos para produzir a fala. Não é preguiça ou falta de esforço. O fonoaudiólogo avalia a fala e diferencia essa condição de outras causas de dificuldade de comunicação.",
+          "Dê tempo para a criança se expressar e valorize a mensagem. Aceite gestos, figuras ou o recurso de comunicação indicado, mesmo quando a fala não fica clara. Não condicione comida, água ou ajuda a repetir uma palavra corretamente."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Siga o programa individual de fonoaudiologia. Combine pequenas oportunidades de prática na rotina, com as palavras e pistas orientadas pelo profissional; o tratamento pode exigir acompanhamento frequente.",
+          "Escute, encoraje e evite corrigir cada tentativa, a menos que essa seja a orientação do terapeuta. Combine com escola e cuidadores os mesmos recursos de comunicação. A evolução varia; não espere apenas que a dificuldade desapareça com a idade."
+        ],
+        "MEDICAMENTOS": [
+          "O cuidado da fala se baseia em avaliação e terapia individual, não em iniciar um remédio pelo nome do diagnóstico. Não use suplementos ou medicamentos com promessa de fazer a criança falar.",
+          "Medicamentos de outras condições devem seguir a prescrição própria. Esta ficha não indica iniciar, suspender ou ajustar tratamentos."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação adequada à idade e às habilidades de alimentação da criança. A dificuldade de falar, sozinha, não determina mudar a consistência dos alimentos ou engrossar líquidos.",
+          "Tosse ou engasgos nas refeições, voz molhada após engolir, dificuldade para beber ou perda de peso exigem avaliação clínica e da deglutição. Não force a alimentação durante engasgos e não improvise exercícios de boca para tratar a fala."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Uma mudança súbita da fala ou perda súbita da capacidade de falar, principalmente com fraqueza de um lado, rosto assimétrico, confusão ou dificuldade para andar, é emergência: acione 192. Não atribua uma mudança abrupta à apraxia já conhecida, mesmo se melhorar.",
+          "Engasgo com dificuldade para respirar, lábios arroxeados, desmaio ou dificuldade para acordar exige socorro imediato pelo 192."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com fonoaudiólogo e pediatra para revisar metas, comunicação no cotidiano e participação na escola. Se a criança não consegue comunicar necessidades ou o plano está causando sofrimento, peça ajuste sem esperar o próximo ciclo longo de tratamento.",
+          "Perda de habilidades que já tinha, novas dificuldades motoras ou dúvidas sobre o desenvolvimento merecem avaliação médica breve; se a mudança for súbita, use a orientação de emergência.",
+          "Se há dificuldade para engolir ou engasgos repetidos, procure avaliação sem adiar. O plano da fala não substitui investigação de alimentação, audição ou outras dificuldades que a equipe identificar."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nesta fase não se confirma apraxia pela ausência de palavras. Dificuldades de sucção, respiração ou resposta aos sons devem ser discutidas com a equipe do bebê.",
+        "3a5m": "Observe interação e respostas aos sons sem exigir palavras ou imitação. O diagnóstico exige avaliação do desenvolvimento, não apenas este nome cadastrado.",
+        "6a11m": "Brinque e converse na rotina; não exija palavras claras para oferecer cuidado. Preocupações com comunicação ou alimentação merecem avaliação.",
+        "1a": "Em crianças com poucas palavras o diagnóstico pode exigir acompanhamento ao longo do tempo. Ofereça gestos e escolhas simples, sem esperar a certeza diagnóstica para buscar apoio.",
+        "2a5": "Use as metas escolhidas pelo fonoaudiólogo em brincadeiras e rotinas; aceite comunicação por figuras ou gestos e coordene o apoio na educação infantil.",
+        "6a11": "Combine com a escola tempo para responder e recursos de comunicação; dificuldade de fala não deve impedir participação ou ajuda quando precisa.",
+        "12a17": "Inclua o adolescente nas escolhas das metas e recursos. Palavras novas ou longas podem continuar difíceis; revise demandas escolares e situações sociais.",
+        "unknown": "Confirme idade, habilidades atuais e evolução. O nome no cadastro não confirma o diagnóstico; a avaliação individual orienta o apoio."
+      },
+      "refs": [
+        {
+          "id": "pais173_op542_1",
+          "name": "Childhood Apraxia of Speech",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Childhood_Apraxia_of_Speech/"
+        },
+        {
+          "id": "pais173_op542_2",
+          "name": "Childhood Apraxia of Speech: information for parents and carers",
+          "url": "https://www.leicspart.nhs.uk/wp-content/uploads/2024/08/645-Childhood-apraxia-of-speech-CAS-2-A5.pdf"
+        },
+        {
+          "id": "pais173_op542_3",
+          "name": "Childhood Apraxia of Speech (Verbal Dyspraxia)",
+          "url": "https://oxfordhealth.nhs.uk/cit/resources/apraxia/"
+        },
+        {
+          "id": "pais173_op542_4",
+          "name": "Symptoms of a stroke",
+          "url": "https://www.nhs.uk/conditions/stroke/symptoms/"
+        },
+        {
+          "id": "pais173_op542_5",
+          "name": "Dysphagia",
+          "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

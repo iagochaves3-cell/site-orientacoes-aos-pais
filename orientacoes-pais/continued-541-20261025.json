@@ -1,0 +1,74 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T16:27:47.218Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_3d46022d1b08ff02",
+      "label": "Anteversão femoral aumentada — registro no PPS",
+      "entity": "Anteversão femoral aumentada",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Entidade reconhecida; registroPPS não estabelece diagnóstico individual ou causa de dor.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Na anteversão femoral aumentada, a posição do osso da coxa faz joelhos e pés apontarem mais para dentro. Isso é diferente de alterações do pé ou da perna; o exame da criança confirma a origem.",
+          "Em muitos casos melhora com o crescimento e não exige tratamento. Observe conforto, participação nas brincadeiras e evolução das quedas, sem cobrar que a criança mantenha os pés retos à força. Dor ou dificuldade nova para andar não deve ser atribuída automaticamente a esse diagnóstico."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se não há dor ou restrição individual, mantenha brincadeiras e atividades habituais, com calçados confortáveis e ambiente seguro. Não imobilize nem torça as pernas para corrigir a posição.",
+          "Calçados especiais, palmilhas, talas e exercícios não corrigem a rotação do fêmur. Fisioterapia pode ter outras indicações individuais, mas não deve prometer mudar essa anatomia. Sentar em W não demonstrou piorar a anteversão; não castigue nem force uma postura dolorosa."
+        ],
+        "MEDICAMENTOS": [
+          "Não há remédio que endireite essa rotação. Não inicie suplementos, analgésicos ou anti-inflamatórios como tratamento da anteversão por conta própria.",
+          "Se surgiu dor, peça avaliação da causa e use apenas o plano prescrito para a criança. Não dê medicamento para que consiga continuar uma atividade dolorosa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos adequados à idade. Não há dieta, vitamina ou suplemento que corrija a posição do fêmur; deficiências nutricionais, quando existentes, exigem avaliação própria.",
+          "Nos bebês, mantenha leite materno ou fórmula conforme orientação habitual; não mude a alimentação pelo formato das pernas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Incapacidade súbita de andar ou apoiar a perna, dor forte, articulação inchada/quente, febre com mancar ou criança muito abatida exigem avaliação imediata. Não force a criança a caminhar para testar.",
+          "Após trauma com deformidade, dor intensa ou perda de movimento, procure emergência. Em bebê, recusa nova de mexer uma perna ou dor ao cuidado também precisa avaliação; não espere que comece a andar para investigar.",
+          "Com desmaio, dificuldade para respirar ou dificuldade para acordar, acione 192. Esses sinais não são explicados pela anteversão."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o acompanhamento indicado para observar crescimento e marcha. Procure avaliação se a rotação for muito diferente entre os lados, estiver aumentando, houver rigidez ou se tropeços atrapalharem as atividades escolares e brincadeiras.",
+          "Dor no joelho, quadril ou virilha, perda de função, quedas crescentes ou mudança do jeito de andar pedem revisão. Não espere uma idade específica para procurar ajuda quando há sintomas.",
+          "Persistência importante em criança maior pode justificar ortopedia pediátrica. Cirurgia é rara e depende de limitação e avaliação especializada; o nome cadastrado não indica operação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nesta idade ainda não há marcha para avaliar. Assimetria, dor ou redução de movimento precisam exame; não diagnostique pela aparência dos pés.",
+        "3a5m": "Observe movimentos espontâneos e conforto. Não use aparelhos ou manipulações para forçar alinhamento.",
+        "6a11m": "Respeite o desenvolvimento; não force ficar em pé ou andar para corrigir posição das pernas.",
+        "1a": "Nos primeiros passos há várias causas de pés para dentro. O exame distingue pé, perna e coxa; observe dor e capacidade de apoiar.",
+        "2a5": "Mantenha brincadeiras sem dor; registre tropeços que atrapalham participação e leve a questão ao acompanhamento.",
+        "6a11": "Quedas que limitam atividades, assimetria ou dor justificam revisão. Não proíba esporte apenas pela aparência, se não houver restrição individual.",
+        "12a17": "Persistência com dor ou limitação merece ortopedia; dor súbita no quadril/virilha ou incapacidade de apoiar exige urgência.",
+        "unknown": "Confirmar idade, começo da marcha, dor, assimetria e evolução antes de personalizar o cuidado."
+      },
+      "refs": [
+        {
+          "id": "pais172_op541_1",
+          "name": "In-toeing",
+          "url": "https://www.rch.org.au/ortho/for_health_professionals/In-toeing/"
+        },
+        {
+          "id": "pais172_op541_2",
+          "name": "Femoral anteversion",
+          "url": "https://www.ucsfbenioffchildrens.org/conditions/femoral-anteversion"
+        },
+        {
+          "id": "pais172_op541_3",
+          "name": "Intoeing",
+          "url": "https://www.orthoinfo.org/diseases--conditions/intoeing/"
+        },
+        {
+          "id": "pais172_op541_4",
+          "name": "The limping or non-weight bearing child",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

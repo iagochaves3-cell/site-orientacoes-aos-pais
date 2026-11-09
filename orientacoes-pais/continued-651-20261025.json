@@ -1,0 +1,71 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T20:57:52.366Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_7dfb4c57f1b2aaaa",
+      "label": "Pé plano flexível — registro no PPS",
+      "entity": "Pé plano flexível pediátrico",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Variação frequentemente indolor do desenvolvimento; diferenciar pé rígido, assimetria e causa de dor.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "No pé plano flexível, o arco fica baixo ao apoiar o pé e reaparece sem apoio. O profissional confirma a flexibilidade; a aparência isolada não fecha o diagnóstico.",
+          "É comum em crianças pequenas. Sem dor ou limitação, geralmente não precisa de tratamento. O arco pode mudar com o crescimento, mas não precisa aparecer até uma idade exata para o pé ser saudável."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Escolha calçados confortáveis e do tamanho adequado. A criança sem dor pode brincar e praticar atividades normalmente.",
+          "Palmilhas e sapatos especiais não criam o arco. Se houver dor ou tendão encurtado, a equipe pode orientar alongamento ou suporte para aliviar sintomas; não force exercícios nem compre correções por conta própria."
+        ],
+        "MEDICAMENTOS": [
+          "Não há remédio indicado apenas para formar o arco. Não iniciar anti-inflamatório ou suplemento automaticamente.",
+          "Cirurgia raramente é necessária no pé plano flexível. Dor persistente ou rigidez requer reavaliação antes de qualquer tratamento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação e líquidos habituais adequados à idade; não há dieta específica para formar o arco. No bebê, mantenha as mamadas habituais."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Incapacidade súbita de caminhar ou apoiar o pé, dor forte, ou articulação inchada com febre exige avaliação urgente. Não atribua esses sinais ao pé plano nem espere uma consulta de rotina.",
+          "Procure atendimento sem demora se a criança ficar muito abatida ou tiver piora rápida. Ausência de febre não exclui um problema importante."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação se houver dor persistente, dificuldade para correr ou brincar, rigidez, mudança progressiva ou diferença importante entre os pés.",
+          "Se estiver confortável, mantenha acompanhamento habitual. Se começar a mancar, peça avaliação e um plano de retorno; não aguarde indefinidamente por ser conhecido como pé plano."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não force o bebê a ficar de pé para testar o arco; exame pediátrico é necessário se há deformidade ou dificuldade de movimentar.",
+        "3a5m": "A aparência do arco isoladamente não exige correção; respeite o desenvolvimento motor.",
+        "6a11m": "Não antecipe apoio ou marcha para corrigir o pé; procure avaliação se houver dor ou assimetria.",
+        "1a": "Ao começar a andar, pés baixos são comuns; calçados confortáveis e observação dos sintomas.",
+        "2a5": "Permita brincar sem dor; não use palmilha apenas para criar arco.",
+        "6a11": "Dor ou dificuldade nas atividades merece avaliação; não impor uma idade obrigatória para o arco surgir.",
+        "12a17": "Dor persistente, rigidez ou limitação esportiva precisa de reavaliação; cirurgia não é automática.",
+        "unknown": "Confirme idade, sintomas, flexibilidade e desenvolvimento antes de definir cuidados."
+      },
+      "refs": [
+        {
+          "id": "pais233_op651_1",
+          "name": "Flexible Flatfoot in Children",
+          "url": "https://www.orthoinfo.org/diseases--conditions/flexible-flatfoot-in-children/"
+        },
+        {
+          "id": "pais233_op651_2",
+          "name": "Flat feet factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/flat-feet"
+        },
+        {
+          "id": "pais233_op651_3",
+          "name": "Flat feet",
+          "url": "https://www.rch.org.au/ortho/for_health_professionals/Flat_feet/"
+        },
+        {
+          "id": "pais233_op651_4",
+          "name": "The limping or non-weight bearing child",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

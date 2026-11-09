@@ -1,0 +1,132 @@
+{
+  "schema": "parents-directed-urology-qualifiers/1",
+  "checked_at": "2026-10-24T08:59:16.000000+00:00",
+  "baseline_commit": "6ccce1d06f4346aefe96aa6b678516b8d8c7bafb",
+  "sources": {
+    "uro24c_niddk_definition": {
+      "name": "NIDDK — Definition & Facts of Bladder Infection in Children",
+      "title": "Definition & Facts of Bladder Infection in Children",
+      "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-infections-in-children/definition-facts",
+      "version_or_date": "Última revisão em fevereiro de 2025",
+      "accessed_at": "2026-10-24T08:59:16.000000+00:00",
+      "population": "Crianças com infecção da bexiga",
+      "claims": [
+        "Cistite é infecção da bexiga; o rótulo bilateral não constitui uma entidade clínica própria.",
+        "A infecção da bexiga pode alcançar um ou ambos os rins e tornar-se mais grave."
+      ],
+      "location": "What is a bladder infection?; complications"
+    },
+    "uro24c_nice": {
+      "name": "NICE NG224 — Urinary tract infection in under 16s",
+      "title": "Urinary tract infection in under 16s: diagnosis and management — Recommendations",
+      "organization": "National Institute for Health and Care Excellence",
+      "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations",
+      "version_or_date": "NG224, recomendações consultadas em 24/10/2026",
+      "accessed_at": "2026-10-24T08:59:16.000000+00:00",
+      "population": "Bebês, crianças e adolescentes menores de 16 anos",
+      "claims": [
+        "Risco elevado de doença grave e idade menor de três meses exigem encaminhamento pediátrico imediato.",
+        "Cultura é indicada para ITU alta, recorrente, grave ou sem resposta em 24–48 horas."
+      ],
+      "location": "Recommendations 1.1.21 and 1.2.1–1.2.6"
+    }
+  },
+  "families": {
+    "pyelo_unilateral_label": {
+      "entity": "Pielonefrite / ITU alta; lateralidade não define sozinha gravidade ou tratamento",
+      "term_assessment": "SOURCE_TERM_ISSUE: “unilateral” pode descrever achado de imagem, mas não é uma doença separada nem permite reduzir a urgência ou o seguimento.",
+      "home": [
+        "“Unilateral” quer dizer que um rim pode ter aparecido mais afetado em exame de imagem. Isso não cria uma doença diferente e não garante que o quadro seja leve ou esteja limitado para sempre a um lado.",
+        "Siga o plano dado para pielonefrite. Se o diagnóstico ainda for apenas suspeita, procure avaliação pediátrica no mesmo dia; dor de um lado sozinha não confirma qual rim está envolvido."
+      ],
+      "care": [
+        "Anote febre, calafrios, dor nas costas ou na lateral da barriga, vômitos, ingestão e quantidade de urina. Leve urocultura, antibiograma e exames de imagem já feitos.",
+        "Não aperte ou massageie a região dolorida e não adie a avaliação para tentar localizar o lado em casa."
+      ],
+      "meds": [
+        "Dê o antibiótico exatamente conforme a receita. Não dobre, troque, interrompa nem reutilize sobras de outro episódio.",
+        "Informe no mesmo dia se a criança vomita as doses, apresenta efeito adverso ou não consegue tomar o medicamento."
+      ],
+      "alarm": [
+        "Criança muito abatida, difícil de acordar, com falta de ar, vômitos repetidos, incapaz de beber ou mamar, ou urinando muito menos: vá imediatamente ao pronto atendimento.",
+        "Febre com piora, calafrios, dor forte nas costas ou na lateral da barriga, ou piora enquanto usa antibiótico exige reavaliação sem demora."
+      ],
+      "follow": [
+        "Combine a conferência da urocultura em 24–48 horas. Se não houver melhora nesse período, ou se piorar antes, procure reavaliação.",
+        "Ultrassom, outros exames e seguimento dependem da idade, evolução, recorrência e achados — não apenas da palavra “unilateral”."
+      ],
+      "refs": ["uro24b_rch_cpg", "uro24b_rch_referral", "uro24c_nice"],
+      "urgent": false
+    },
+    "cystitis_bilateral_label": {
+      "entity": "Cistite / infecção da bexiga; qualificador bilateral inadequado",
+      "term_assessment": "SOURCE_TERM_ISSUE: a bexiga é um órgão único; “cistite bilateral” não é uma entidade anatômica válida. O registro é resolvido como cistite, sem apagar o nome original.",
+      "home": [
+        "A bexiga é um órgão único; por isso, “cistite bilateral” não é um diagnóstico anatômico válido. Esta ficha trata o registro como cistite, sem presumir infecção dos dois rins.",
+        "Cistite pode causar ardor, urgência, idas frequentes ao banheiro e dor na parte baixa da barriga. Febre, vômitos ou dor nas costas podem indicar infecção mais alta e mudam a urgência."
+      ],
+      "care": [
+        "Facilite idas regulares ao banheiro, sem segurar a urina, e ajude a esvaziar a bexiga com calma. Faça higiene suave e trate intestino preso conforme o plano da equipe.",
+        "Anote sintomas, febre e quantidade de urina. Leve urocultura e informe episódios anteriores, alterações urinárias conhecidas e antibióticos já usados."
+      ],
+      "meds": [
+        "Dê o antibiótico exatamente conforme a receita e complete o período prescrito. A cultura pode levar a uma troca feita pela equipe.",
+        "Não use sobras, não troque o remédio por conta própria e informe no mesmo dia se não consegue administrar ou se a criança vomita as doses."
+      ],
+      "alarm": [
+        "Piora do estado geral, dificuldade para acordar, falta de ar, vômitos repetidos, incapacidade de beber ou mamar, ou urina muito reduzida exige atendimento imediato.",
+        "Febre com calafrios ou dor nas costas ou na lateral da barriga exige reavaliação sem demora, pois pode indicar infecção nos rins."
+      ],
+      "follow": [
+        "Combine a conferência da urocultura em 24–48 horas. Se não houver melhora nesse período, ou se piorar antes, procure reavaliação.",
+        "Ultrassom e seguimento dependem da idade, recorrência e evolução; o termo “bilateral” não substitui essa avaliação."
+      ],
+      "refs": ["uro24b_rch_cpg", "uro24b_niddk", "uro24c_niddk_definition", "uro24c_nice"],
+      "urgent": false
+    },
+    "cystitis_severe_label": {
+      "entity": "ITU com sinais de gravidade; confirmar se é cistite, pielonefrite ou sepse",
+      "term_assessment": "SOURCE_TERM_ISSUE: “cistite grave” é qualificador incompleto; sinais sistêmicos podem indicar ITU alta, complicação ou sepse e exigem reclassificação presencial.",
+      "home": [
+        "O rótulo “cistite grave” não deve ser usado para manter uma criança muito doente em casa. Febre alta, calafrios, vômitos, dor nas costas, desidratação ou grande abatimento podem indicar infecção nos rins ou sepse.",
+        "Procure avaliação urgente hoje. A equipe precisa confirmar a localização da infecção, revisar a coleta e a urocultura e avaliar hidratação e função dos rins."
+      ],
+      "care": [
+        "Leve receita, horários e doses já administradas, alergias, urocultura/antibiograma e exames disponíveis. Informe a quantidade de urina e quando começaram febre, dor e vômitos.",
+        "Não atrase a saída para tentar repetir exame em casa e não force alimentos, líquidos ou remédios se a criança não consegue engolir ou vomita repetidamente."
+      ],
+      "meds": [
+        "Não dobre, troque, acrescente ou suspenda antibiótico por conta própria. Leve os frascos ou embalagens usados para a conferência.",
+        "A equipe decidirá se é preciso nova amostra, antibiótico na veia, hidratação ou internação. Esta ficha não fornece dose nem autoriza tratamento domiciliar."
+      ],
+      "alarm": [
+        "Criança difícil de acordar, confusa, com falta de ar, desmaio, lábios arroxeados, vômitos repetidos, incapaz de beber ou mamar, ou urinando muito menos: vá imediatamente ao pronto atendimento; se necessário, acione o SAMU 192.",
+        "Febre persistente com piora, calafrios, dor forte nas costas ou na lateral da barriga, ou deterioração durante o antibiótico exige atendimento imediato."
+      ],
+      "follow": [
+        "A reavaliação deve ocorrer no mesmo dia e não deve esperar o retorno de rotina. Piora clínica exige pronto atendimento imediato.",
+        "Após a nova conduta, confirme quando rever a urocultura e se serão necessários ultrassom, outros exames ou seguimento especializado."
+      ],
+      "refs": ["uro24b_rch_cpg", "uro24b_rch_referral", "uro24c_niddk_definition", "uro24c_nice"],
+      "urgent": true
+    }
+  },
+  "records": [
+    {
+      "key": "pdf1500_867",
+      "label": "Infecção do trato urinário alta (Pielonefrite) unilateral",
+      "family": "pyelo_unilateral_label"
+    },
+    {
+      "key": "pdf1500_870",
+      "label": "Infecção do trato urinário baixa (Cistite) bilateral",
+      "family": "cystitis_bilateral_label"
+    },
+    {
+      "key": "pdf1500_873",
+      "label": "Infecção do trato urinário baixa (Cistite) grave",
+      "family": "cystitis_severe_label"
+    }
+  ]
+}

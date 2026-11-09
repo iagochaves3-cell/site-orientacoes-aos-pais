@@ -1,0 +1,472 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T05:58:00.000Z",
+  "records": [
+    {
+      "key": "pdf1500_1055",
+      "label": "Paralisia cerebral espástica quadriplégica",
+      "entity": "Paralisia cerebral espástica com comprometimento dos quatro membros (quadriplegia espástica)",
+      "assessment": "{\"classification\":\"valid_clinical_entity\",\"assessment\":\"Termo clínico válido para um padrão topográfico de paralisia cerebral espástica que compromete os quatro membros. O rótulo, isoladamente, não determina capacidade cognitiva, comunicação, nível GMFCS, via de alimentação, presença de epilepsia nem necessidade de tecnologia respiratória; esses aspectos devem ser individualizados.\",\"synonyms\":[\"paralisia cerebral espástica tetraplégica\",\"tetraplegia espástica por paralisia cerebral\"],\"pediatric_scope\":\"Aplicável da primeira infância à adolescência; os cuidados mudam com crescimento, função, comunicação, alimentação, mobilidade e comorbidades.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A paralisia cerebral é causada por uma lesão não progressiva do cérebro em desenvolvimento. A lesão não piora, mas rigidez, postura, dor, contraturas, quadris, coluna, alimentação, respiração e participação podem mudar com o crescimento.",
+          "Siga o plano individual de posicionamento, transferências, assento, cadeira, órteses e tempo de uso dos equipamentos. Apoie cabeça, tronco e membros; não puxe pelos braços ou pernas nem force uma articulação rígida.",
+          "Mude a posição conforme o plano da equipe, observe a pele sob órteses e pontos de apoio e mantenha-a limpa e seca. Vermelhidão que não desaparece após retirar a pressão, bolha ou ferida precisa de avaliação.",
+          "Aprenda os sinais habituais de dor da criança, inclusive mudança no sono, choro, expressão, postura, aumento da rigidez ou menor tolerância ao cuidado. Dor nova não deve ser atribuída automaticamente à paralisia cerebral.",
+          "Preserve comunicação, escolhas, brincadeiras, escola e participação com as adaptações necessárias; dificuldade para falar ou mover-se não significa ausência de compreensão."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Faça alongamentos, mobilização, fisioterapia e atividades somente como ensinados pela equipe. Movimentos devem ser lentos e confortáveis; pare se houver dor, resistência súbita ou espasmo intenso.",
+          "Mantenha vigilância programada dos quadris e da coluna. Dor no quadril, dificuldade crescente para abrir as pernas, trocar fralda, vestir, sentar ou posicionar, ou nova assimetria exige retorno antes do calendário habitual.",
+          "Use o plano individual para secreções, tosse assistida, aspiração e fisioterapia respiratória. Não improvise sucção ou manobras quando não foram treinadas e prescritas para a criança.",
+          "Mantenha vacinas atualizadas, higiene oral e ambiente sem fumaça. Planeje com escola e cuidadores como posicionar, alimentar, comunicar-se e agir em convulsão ou dificuldade respiratória."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente medicamentos já prescritos para espasticidade, epilepsia, dor, refluxo, constipação, saliva ou outras condições, nos horários orientados. Esta ficha não define fármaco nem dose.",
+          "Não interrompa nem reduza por conta própria medicamento de uso contínuo, especialmente anticonvulsivante ou remédio para o tônus. Se houver sonolência fora do habitual, flacidez importante, piora da deglutição ou da respiração, procure orientação imediata.",
+          "Leve a lista atualizada de medicamentos e alergias a consultas e emergências. Antes de dar remédio novo, inclusive fitoterápico, confirme segurança e interação com a equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga exatamente a consistência, o volume, a posição, o ritmo, os utensílios e o nível de ajuda definidos pela fonoaudiologia e nutrição. Mantenha cabeça e tronco bem apoiados durante a alimentação e pelo tempo orientado depois.",
+          "Ofereça devagar e sem forçar. Pare a alimentação e procure orientação se houver tosse, engasgo, voz ou respiração molhada, mudança de cor, cansaço, desconforto ou demora crescente para terminar a refeição.",
+          "Se usar sonda ou gastrostomia, siga o plano de dieta, água, lavagem e cuidados do dispositivo. Não mude fórmula, velocidade ou volume por conta própria e não administre dieta durante dificuldade respiratória sem orientação urgente.",
+          "Acompanhe crescimento, hidratação, evacuações e tolerância alimentar. Pouca urina, boca seca, vômitos repetidos, perda de peso, constipação persistente ou refeições cada vez mais difíceis precisam de reavaliação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se houver dificuldade para respirar, respiração muito rápida ou com esforço, lábios arroxeados, pausas respiratórias, engasgo que não resolve, incapacidade de lidar com secreções, necessidade maior que a habitual de oxigênio ou aspiração, ou piora rápida.",
+          "Procure atendimento imediato por sonolência incomum, dificuldade para acordar, alteração importante do estado habitual, convulsão prolongada ou repetida conforme o plano de emergência, ou perda súbita de habilidades.",
+          "Vá ao pronto atendimento se houver febre ou temperatura baixa com prostração, tosse e piora respiratória, vômitos com incapacidade de manter dieta ou líquidos, ou sinais de desidratação.",
+          "Dor súbita intensa, deformidade, inchaço, incapacidade nova de mover um membro, dor importante ao trocar ou sentar, ou suspeita de fratura ou luxação exige avaliação imediata.",
+          "Sangramento, vazamento abundante, saída recente ou pele escura ao redor de sonda ou gastrostomia, especialmente com dor, distensão ou vômitos, exige avaliação urgente conforme o plano do dispositivo."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha acompanhamento regular com pediatria, reabilitação, fisioterapia, terapia ocupacional, fonoaudiologia, nutrição e ortopedia, conforme as necessidades da criança. O plano deve incluir função, conforto, comunicação, sono, pele, dentes, visão, audição, intestino, ossos e participação.",
+          "Não perca a vigilância dos quadris: a frequência do exame e das radiografias depende da idade e do nível de função motora, e o risco é maior com comprometimento motor mais intenso.",
+          "Procure reavaliação antes do previsto por dor nova ou persistente, aumento da rigidez, contraturas, piora para sentar ou posicionar, nova curvatura da coluna, redução da mobilidade, ferida de pressão ou equipamento que machuca.",
+          "Reavalie de forma precoce se surgirem tosse ou engasgos nas refeições, infecções respiratórias repetidas, ronco ou pausas no sono, piora no controle de secreções, perda de peso, constipação persistente ou mudança nas convulsões."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Priorizar intervenção precoce, posicionamento seguro, apoio ao desenvolvimento e avaliação de alimentação/deglutição. Orientar todos os cuidadores; não comparar marcos de forma isolada nem aguardar perda de habilidade para retornar.",
+        "3a5m": "Priorizar intervenção precoce, posicionamento seguro, apoio ao desenvolvimento e avaliação de alimentação/deglutição. Orientar todos os cuidadores; não comparar marcos de forma isolada nem aguardar perda de habilidade para retornar.",
+        "6a11m": "Priorizar intervenção precoce, posicionamento seguro, apoio ao desenvolvimento e avaliação de alimentação/deglutição. Orientar todos os cuidadores; não comparar marcos de forma isolada nem aguardar perda de habilidade para retornar.",
+        "1a": "Priorizar intervenção precoce, posicionamento seguro, apoio ao desenvolvimento e avaliação de alimentação/deglutição. Orientar todos os cuidadores; não comparar marcos de forma isolada nem aguardar perda de habilidade para retornar.",
+        "2a5": "Revisar órteses, assento, cadeira e transporte conforme o crescimento; manter vigilância dos quadris e acesso à comunicação, brincadeira e escola com adaptações.",
+        "6a11": "Revisar órteses, assento, cadeira e transporte conforme o crescimento; manter vigilância dos quadris e acesso à comunicação, brincadeira e escola com adaptações.",
+        "12a17": "Reavaliar dor, coluna, quadris, contraturas, saúde menstrual quando aplicável, sono, humor, privacidade, autonomia possível e transição planejada para cuidados de adultos.",
+        "unknown": "Manter plano escrito para dias habituais e dias de doença, com sinais basais, alimentação, secreções, convulsões, equipamentos, contatos e critérios de emergência."
+      },
+      "refs": [
+        {
+          "id": "pais121_op07_1",
+          "name": "Clinical Practice Guidelines: Cerebral palsy",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Cerebral_palsy/"
+        },
+        {
+          "id": "pais121_op07_2",
+          "name": "Hip Surveillance in Cerebral Palsy Care Pathway",
+          "url": "https://www.aacpdm.org/publications/care-pathways/hip-surveillance-in-cerebral-palsy"
+        },
+        {
+          "id": "pais121_op07_3",
+          "name": "Respiratory Health in Cerebral Palsy Care Pathway",
+          "url": "https://www.aacpdm.org/publications/care-pathways/respiratory-health-in-cerebral-palsy"
+        },
+        {
+          "id": "pais121_op07_4",
+          "name": "Clinical Practice Guidelines: Cerebral palsy — chest infection",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/cerebral_palsy_chest_infection/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1069",
+      "label": "Paralisia do plexo braquial neonatal",
+      "entity": "Paralisia neonatal do plexo braquial (fraqueza ou paralisia do membro superior reconhecida após o nascimento por lesão de raízes C5 a T1)",
+      "assessment": "{\"classification\":\"valid_clinical_entity\",\"assessment\":\"Termo válido e específico. Abrange desde fraqueza transitória até paralisia extensa do braço; a gravidade não pode ser definida por uma única observação e exige exames clínicos seriados. A evolução varia conforme o tipo e a extensão da lesão.\",\"synonyms\":[\"paralisia obstétrica do plexo braquial\",\"lesão neonatal do plexo braquial\",\"brachial plexus birth palsy\"],\"pediatric_scope\":\"A lesão é identificada no período neonatal, mas déficits motores, sensitivos, contraturas, dor ou diferença de crescimento podem exigir seguimento durante toda a infância e adolescência.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A paralisia do plexo braquial neonatal acontece quando os nervos que levam movimento e sensibilidade do pescoço para o braço são lesionados no nascimento. O braço pode se mover menos, ficar flácido ou ter sensibilidade reduzida. Algumas lesões melhoram nas primeiras semanas ou meses, mas outras deixam limitações; somente o acompanhamento seriado mostra a recuperação real.",
+          "Ao pegar, vestir e dar banho no bebê, apoie o ombro, o braço e a mão afetados. Nunca levante, puxe ou balance a criança pelo braço e não deixe o membro ficar preso atrás do corpo.",
+          "Examine todos os dias a pele, os dedos e as unhas. Como a sensibilidade pode estar diminuída, proteja o braço de calor, gelo direto, objetos pontiagudos, atrito e pressão prolongada.",
+          "Observe e anote quais movimentos aparecem no ombro, cotovelo, punho e dedos. Não force o bebê a demonstrar movimento e não compare apenas um dia isolado; leve as observações aos retornos.",
+          "Se houver tipoia, tala ou posicionamento orientado pela equipe, siga exatamente o tempo e a forma ensinados e confira a pele e os dedos. Não improvise contenções apertadas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Faça somente os alongamentos, exercícios e posições ensinados presencialmente pelo fisioterapeuta ou terapeuta ocupacional. Movimentos devem ser suaves e sem trancos; pare e procure orientação se provocarem dor, choro persistente ou resistência diferente.",
+          "Inclua o braço afetado nas brincadeiras e atividades adequadas à idade conforme a equipe orientar, favorecendo alcance e uso das duas mãos sem forçar articulações.",
+          "Fisioterapia e terapia ocupacional ajudam a manter articulações flexíveis e reduzir rigidez enquanto a recuperação dos nervos é acompanhada; elas não aceleram diretamente o crescimento do nervo.",
+          "Leve aos retornos os relatórios de maternidade, fraturas associadas, exames, talas e exercícios já ensinados. A equipe precisa acompanhar movimento ativo, sensibilidade, articulações, crescimento e função."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento caseiro, pomada ou suplemento que repare o nervo. Use apenas analgésico ou outro medicamento já prescrito para a criança, na dose e pelo tempo definidos pelo profissional.",
+          "Não massageie com substâncias irritantes e não dê medicamento de outra pessoa. Dor nova, crescente ou intensa deve ser avaliada, pois pode indicar fratura, infecção ou outro problema além da lesão nervosa.",
+          "Cirurgia não é automática nem é substituída por remédio. Quando necessária, a indicação depende da recuperação dos movimentos e da avaliação de equipe especializada."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "A condição não exige dieta específica. Mantenha leite materno ou alimentação habitual para a idade e acompanhe crescimento e hidratação com a equipe.",
+          "Durante a mamada ou refeição, apoie o braço afetado para que não fique preso sob o corpo nem pendurado. Procure avaliação se o bebê tiver dificuldade para respirar ou cansar para mamar."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência se o bebê respirar com esforço, muito rápido, com pausas, gemência, lábios arroxeados ou movimento desigual do tórax. Lesões extensas podem envolver o nervo do diafragma e precisam de avaliação imediata.",
+          "Procure atendimento imediato se a mão ou os dedos ficarem frios, muito pálidos, azulados ou progressivamente inchados; afrouxe apenas o que a equipe autorizou e não espere o próximo retorno.",
+          "Vá ao pronto atendimento após queda ou tração do braço se surgir deformidade, inchaço importante, choro intenso ao tocar, perda de movimento que já existia ou piora súbita.",
+          "Procure avaliação urgente se aparecer pálpebra caída e pupila menor no mesmo lado, sobretudo com braço totalmente flácido ou dificuldade respiratória, ou se qualquer função que já havia surgido regredir rapidamente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Cumpra os retornos desde as primeiras semanas para registrar a recuperação de ombro, cotovelo, punho e dedos. Não espere que o braço pareça normal para manter o acompanhamento.",
+          "Se qualquer movimento do braço ainda não tiver recuperação completa ao completar 1 mês, a criança deve ser encaminhada imediatamente a uma equipe multidisciplinar especializada em plexo braquial; não adie o encaminhamento para esperar exames ou melhora espontânea.",
+          "Procure antes do retorno se perceber menos movimento, dor, rigidez, diferença crescente no tamanho dos braços, dificuldade para usar as duas mãos ou problema com tala/exercício.",
+          "Crianças maiores com fraqueza, dor, contratura ou limitação funcional precisam de seguimento continuado; opções de reabilitação ou cirurgia são decididas individualmente pela equipe."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Apoiar todo o membro nas trocas e no colo, proteger a pele e documentar movimentos espontâneos. A recuperação incompleta de qualquer movimento ao completar 1 mês exige encaminhamento imediato a equipe multidisciplinar especializada.",
+        "3a5m": "Seguir exercícios e posicionamento ensinados, estimular alcance e uso bilateral conforme o desenvolvimento e manter avaliações seriadas; não esperar vários meses sem revisão especializada se o déficit persistir.",
+        "6a11m": "Seguir exercícios e posicionamento ensinados, estimular alcance e uso bilateral conforme o desenvolvimento e manter avaliações seriadas; não esperar vários meses sem revisão especializada se o déficit persistir.",
+        "1a": "Integrar o braço em brincadeiras e autocuidado conforme capacidade, observar rigidez, diferença de crescimento, postura do ombro e uso das duas mãos e manter terapia e órteses somente conforme prescrição da equipe.",
+        "2a5": "Integrar o braço em brincadeiras e autocuidado conforme capacidade, observar rigidez, diferença de crescimento, postura do ombro e uso das duas mãos e manter terapia e órteses somente conforme prescrição da equipe.",
+        "6a11": "Reavaliar dor, fadiga, contraturas, função escolar/esportiva e autonomia. Atividade física deve ser adaptada pela equipe; não normalizar perda funcional nova como parte inevitável da lesão antiga.",
+        "12a17": "Reavaliar dor, fadiga, contraturas, função escolar/esportiva e autonomia. Atividade física deve ser adaptada pela equipe; não normalizar perda funcional nova como parte inevitável da lesão antiga.",
+        "unknown": "Confirme idade, capacidade funcional, comorbidades e plano individual com a equipe antes de adaptar cuidados, alimentação, equipamento ou medicamento."
+      },
+      "refs": [
+        {
+          "id": "pais121_op08_1",
+          "name": "The evaluation and management of neonatal brachial plexus palsy",
+          "url": "https://cps.ca/en/documents/position/neonatal-brachial-plexus-palsy"
+        },
+        {
+          "id": "pais121_op08_2",
+          "name": "Brachial plexus palsy or Erb's palsy",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Obstetric_brachial_plexus_palsy_Erbs_palsy/"
+        },
+        {
+          "id": "pais121_op08_3",
+          "name": "Understanding Brachial Plexus Palsy",
+          "url": "https://www.rch.org.au/uploadedFiles/Main/Content/plastic/BRACHIAL_PLEXUS_book.pdf"
+        },
+        {
+          "id": "pais121_op08_4",
+          "name": "Brachial Plexus Injuries in Children",
+          "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Brachial-Plexus-Injuries-in-Children.aspx"
+        },
+        {
+          "id": "pais121_op08_5",
+          "name": "When to get urgent medical help for babies and children under 5",
+          "url": "https://www.nhs.uk/baby/health/when-to-get-urgent-medical-help-for-babies-and-children-under-5/"
+        },
+        {
+          "id": "pais121_op08_6",
+          "name": "Arm injury",
+          "url": "https://www.swlondon-healthiertogether.nhs.uk/children-and-young-people/my-child-has-hurt-themselves-injuries/arm-injury"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1070",
+      "label": "Parotidite infecciosa (Caxumba)",
+      "entity": "Caxumba (parotidite epidêmica) por vírus da caxumba em criança ou adolescente",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_LABEL_QUALIFICATION\",\"normalized_term\":\"Caxumba (parotidite epidêmica)\",\"scope\":\"Infecção viral por vírus da caxumba, com ou sem aumento das glândulas salivares, em população pediátrica. O texto não transforma todo inchaço de parótida em caxumba e pressupõe confirmação clínica/epidemiológica pelo serviço de saúde.\",\"distinctions\":[\"Caxumba e parotidite epidêmica são sinônimos; 'parotidite' isolada também pode ter outras causas virais, bacterianas, obstrutivas ou inflamatórias.\",\"O inchaço pode ser unilateral ou bilateral e a infecção pode ocorrer sem parotidite aparente.\",\"A vacinação reduz muito o risco e as complicações, mas não exclui completamente caxumba em pessoa vacinada.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A caxumba é uma infecção viral contagiosa que costuma causar dor e inchaço abaixo ou à frente da orelha, em um ou nos dois lados, além de febre, cansaço e dor para mastigar. A maioria melhora progressivamente e se recupera em até cerca de 2 semanas, mas complicações podem ocorrer.",
+          "Mantenha a criança ou o adolescente em casa e afastado de escola, creche, esportes coletivos e contato próximo até completar 5 dias após o início do inchaço das glândulas salivares. Se possível, use quarto separado e siga orientações adicionais do serviço de saúde ou da vigilância local.",
+          "Não compartilhe copos, garrafas, talheres, escovas de dentes, toalhas ou alimentos. Higienize as mãos, cubra tosse e espirros e limpe objetos tocados com saliva ou secreções.",
+          "Repouso e compressa fria ou morna, conforme o conforto, podem aliviar o inchaço. Não massageie com força, não esprema a glândula e não aplique receitas caseiras sobre a pele ou dentro da boca."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha boa higiene da boca com escovação suave. Observe diariamente a disposição, a febre, o volume do inchaço, a capacidade de beber e urinar, a audição, o equilíbrio e o aparecimento de dor abdominal ou genital.",
+          "Avise a escola ou creche sobre o diagnóstico ou suspeita para que siga a orientação sanitária local. Mesmo pessoas vacinadas que tiveram contato devem observar sintomas e conferir a caderneta de vacinação com a unidade de saúde.",
+          "Não use a vacina como tratamento do episódio atual. Depois da recuperação, leve a caderneta à unidade de saúde para atualizar as vacinas recomendadas, sem aplicar dose por conta própria."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe antibiótico que trate o vírus da caxumba. Use somente o analgésico ou antitérmico já orientado para esta criança, respeitando produto, dose, intervalo e contraindicações informados pelo profissional.",
+          "Não dê antibiótico, corticoide, antiviral, anti-inflamatório ou medicamento de outra pessoa por conta própria. Esta ficha não prescreve dose nem duração.",
+          "Se houver vômito após o remédio, alergia, piora apesar do tratamento orientado ou dúvida sobre dose, não repita automaticamente: contate o serviço que acompanha a criança."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos com frequência, em pequenos volumes se houver dor ou náusea. Alimentos macios, frios ou mornos costumam ser mais confortáveis.",
+          "Evite alimentos e bebidas muito ácidos, que podem aumentar a dor e provocar náusea ou vômito. Não force comida; priorize hidratação e retome a alimentação habitual conforme a tolerância.",
+          "Procure avaliação se houver boca seca, ausência de lágrimas, urina muito reduzida, recusa persistente de líquidos ou vômitos repetidos."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dificuldade para respirar ou engolir, salivação excessiva, aumento rápido do pescoço ou incapacidade de beber líquidos.",
+          "Dor de cabeça intensa, rigidez no pescoço, sonolência fora do habitual, confusão, convulsão, fraqueza, alteração do equilíbrio ou comportamento incomum: podem indicar comprometimento do sistema nervoso.",
+          "Dor forte ou inchaço em testículo, dor pélvica importante, dor abdominal intensa — especialmente na parte alta — ou vômitos persistentes: podem indicar complicações que precisam de avaliação urgente.",
+          "Perda súbita ou piora importante da audição, dificuldade nova para andar, desmaio, dor no peito, falta de ar ou piora rápida do estado geral.",
+          "Bebê pequeno, criança imunocomprometida ou com doença crônica importante que apresente febre, recusa alimentar, prostração ou suspeita de caxumba deve ser avaliada precocemente, sem usar esta ficha para adiar atendimento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure avaliação médica no mesmo dia diante de suspeita de caxumba para confirmar o diagnóstico, orientar isolamento e decidir se é necessário investigar outras causas ou complicações.",
+          "Reavalie antes do prazo combinado se a febre persistir ou voltar, se o inchaço ou a dor aumentarem após melhora inicial, se surgir vermelhidão intensa, pus, dor localizada importante ou dificuldade crescente para abrir a boca.",
+          "Se a criança não estiver melhorando progressivamente, se os sintomas ultrapassarem cerca de 10 a 14 dias, ou se houver zumbido, perda auditiva, dor abdominal ou genital, procure nova avaliação.",
+          "O retorno à escola ou creche deve ocorrer somente após completar 5 dias desde o início do inchaço, estar clinicamente bem e cumprir eventual orientação adicional do serviço de saúde ou da vigilância local."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Caxumba é incomum nessa idade. Febre, recusa de mamadas, sonolência, irritabilidade ou aumento no pescoço exigem avaliação imediata para descartar outras infecções graves; não aplicar cuidado domiciliar genérico.",
+        "3a5m": "Avaliação médica precoce; observar mamadas, respiração e diurese. O diagnóstico diferencial de aumento cervical nessa idade é amplo e não deve ser presumido apenas pelo formato do inchaço.",
+        "6a11m": "A rotina brasileira inicia a proteção específica aos 12 meses; suspeita antes dessa idade requer avaliação clínica, atenção à hidratação e revisão de contatos, sem antecipar vacina por iniciativa da família.",
+        "1a": "Conferir a caderneta conforme o Calendário Nacional, mas vacinação prévia não exclui o diagnóstico. Priorizar líquidos, afastamento por 5 dias e sinais neurológicos ou respiratórios.",
+        "2a5": "Explicar de modo simples que não se deve compartilhar copos, talheres ou brinquedos levados à boca. Observar hidratação, audição e equilíbrio.",
+        "6a11": "Reforçar afastamento escolar por 5 dias desde o início do inchaço, higiene das mãos e não compartilhar garrafas. Perguntar ativamente sobre dor de cabeça, audição, equilíbrio e dor abdominal.",
+        "12a17": "Complicações como inflamação testicular, ovariana ou pancreática são mais relevantes após a puberdade. Orientar o adolescente a relatar imediatamente dor ou inchaço genital, dor abdominal forte, vômitos, cefaleia intensa ou perda auditiva.",
+        "unknown": "Sem idade informada, não individualizar medicamento nem risco puberal. Confirmar idade, vacinação, início do inchaço, comorbidades, hidratação e presença de sinais neurológicos, respiratórios, abdominais ou genitais."
+      },
+      "refs": [
+        {
+          "id": "pais121_op09_1",
+          "name": "Caxumba",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/caxumba/caxumba"
+        },
+        {
+          "id": "pais121_op09_2",
+          "name": "Clinical Overview of Mumps",
+          "url": "https://www.cdc.gov/mumps/hcp/clinical-overview/"
+        },
+        {
+          "id": "pais121_op09_3",
+          "name": "Mumps Symptoms and Complications",
+          "url": "https://www.cdc.gov/mumps/signs-symptoms/"
+        },
+        {
+          "id": "pais121_op09_4",
+          "name": "Tríplice Viral",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/t/triplice-viral"
+        },
+        {
+          "id": "pais121_op09_5",
+          "name": "Mumps virus vaccines: WHO Position Paper, March 2024",
+          "url": "https://www.who.int/publications/i/item/who-wer-9911-115-133"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1072",
+      "label": "Pediculose do couro cabeludo",
+      "entity": "Pediculose do couro cabeludo (infestação ativa por Pediculus humanus capitis)",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"normalized_term\":\"Pediculose do couro cabeludo\",\"scope\":\"Crianças e adolescentes com piolhos vivos ou lêndeas viáveis próximas ao couro cabeludo; o manejo de lactentes pequenos, lesões infectadas, cílios acometidos ou falha terapêutica precisa de avaliação individual.\",\"distinctions\":[\"Não equivale à pediculose do corpo nem à pediculose pubiana, que têm exposição e manejo diferentes.\",\"Lêndeas vazias ou distantes do couro cabeludo, sem piolho vivo, não confirmam sozinhas infestação ativa.\",\"Não é sinal de falta de higiene, e os piolhos humanos não vêm de cães ou gatos.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Pediculose do couro cabeludo é a infestação por piolhos que vivem junto à raiz dos cabelos. O sinal mais confiável de atividade é encontrar piolho vivo; lêndeas podem permanecer grudadas ao fio mesmo depois do tratamento.",
+          "Examine o cabelo com boa luz, principalmente atrás das orelhas e na nuca. Molhe o cabelo, separe em pequenas mechas e passe pente fino da raiz até as pontas; limpe o pente em papel ou pano claro a cada passagem.",
+          "Examine quem mora junto e os contatos próximos. Trate no mesmo período apenas quem tiver infestação ativa ou conforme orientação do profissional/protocolo de surto; não aplique pediculicida preventivamente em pessoas sem diagnóstico.",
+          "Avise a escola ou creche para que outros contatos possam ser orientados sem expor ou constranger a criança. Após iniciar o tratamento adequado, a criança geralmente pode retornar; a presença isolada de lêndeas não deve exigir afastamento, respeitando a norma sanitária local."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha o pente fino regular conforme o plano recebido e confira se ainda há piolhos vivos. Prenda cabelos longos e evite contato cabeça a cabeça até o primeiro tratamento estar concluído.",
+          "Não compartilhe pentes, escovas, bonés, presilhas, toalhas, travesseiros ou fones que encostem no cabelo. Limpe pentes e escovas e lave roupas de cama, toalhas e peças usadas recentemente conforme orientação sanitária; não é necessário jogar objetos fora.",
+          "Aspire apenas as áreas onde a criança apoiou a cabeça. Não pulverize inseticida, fumigante ou veneno no quarto, nos móveis ou no corpo: além de desnecessários, podem intoxicar.",
+          "Cortar ou raspar o cabelo não é necessário. Evite gasolina, querosene, álcool, inseticida doméstico, produto veterinário, saco plástico na cabeça e receitas caseiras com óleos ou maionese."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente o produto apropriado para a idade e já orientado por médico ou farmacêutico, seguindo exatamente o rótulo ou a prescrição. Um adulto deve aplicar e supervisionar; não aumente quantidade, tempo de contato nem misture produtos.",
+          "Alguns produtos não matam os ovos e podem precisar de repetição em data específica; outros não devem ser repetidos. Não reaplique por conta própria apenas porque ainda há lêndeas ou coceira.",
+          "Se os piolhos continuarem vivos após o uso correto, confirme primeiro o diagnóstico, o modo de aplicação e possível reinfestação. Procure orientação antes de trocar de produto ou fazer uma segunda ou terceira tentativa.",
+          "Mantenha o produto longe dos olhos, boca e alcance das crianças. Se atingir os olhos, lave com água corrente e procure orientação; se for ingerido ou causar falta de ar, inchaço ou desmaio, busque atendimento imediato."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "A pediculose não exige dieta especial. Mantenha alimentação e líquidos habituais conforme a idade.",
+          "Não ofereça chás, óleos, suplementos ou remédios por boca para eliminar piolhos sem prescrição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se houver dificuldade para respirar, inchaço de rosto ou língua, desmaio, convulsão ou outro sinal de reação grave após um produto.",
+          "Vá ao atendimento se a criança engolir pediculicida, produto veterinário, inseticida, gasolina, querosene ou outra substância tóxica; leve a embalagem e não provoque vômito.",
+          "Procure avaliação urgente se a criança estiver muito abatida, tiver febre com piora rápida, vermelhidão dolorosa se espalhando pelo couro cabeludo ou face, pus, inchaço importante ou dor intensa, pois pode haver infecção da pele."
+        ],
+        "QUANDO REAVALIAR": [
+          "Reavalie conforme o prazo do produto ou do profissional para procurar piolhos vivos e decidir se há necessidade real de repetir o tratamento. Coceira isolada pode persistir e não prova falha.",
+          "Procure médico ou farmacêutico antes do tratamento em bebês pequenos, gestantes, pessoas com doença do couro cabeludo, alergias importantes ou uso de vários medicamentos.",
+          "Marque avaliação se houver piolhos vivos apesar do uso correto, reinfestações frequentes, dúvida entre lêndea e caspa, feridas, crostas, secreção, ínguas dolorosas ou acometimento de sobrancelhas/cílios.",
+          "Comunique vários casos ligados à mesma escola, creche ou instituição à equipe responsável e siga a orientação da vigilância local para controle do surto."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Não aplicar pediculicida sem avaliação direta. Usar apenas inspeção e remoção mecânica suave enquanto aguarda orientação; febre de 38 °C ou mais, prostração ou reação a produto exige avaliação imediata.",
+        "3a5m": "Confirmar piolho vivo e discutir o produto seguro para a idade antes de qualquer aplicação. Pente fino deve ser delicado para não ferir o couro cabeludo.",
+        "6a11m": "Produto e repetição dependem da idade e da formulação; um adulto deve aplicar, manter longe dos olhos e seguir apenas a orientação recebida.",
+        "1a": "Evitar que a criança toque ou leve o produto à boca. Examinar cuidadores e contatos próximos para reduzir reinfestação.",
+        "2a5": "Supervisionar todo o pente fino e a aplicação; nunca cobrir a cabeça com saco plástico. Avisar creche/escola sem estigmatizar a criança.",
+        "6a11": "Orientar a criança a não compartilhar acessórios e evitar contato cabeça a cabeça até o início do tratamento. Ela pode retornar à escola após iniciar manejo adequado, salvo regra sanitária local diferente.",
+        "12a17": "O adolescente pode participar da inspeção e do pente fino, mas não deve misturar produtos, aumentar o tempo de aplicação nem usar tratamento de outra pessoa.",
+        "unknown": "Sem idade informada, não selecionar produto nem intervalo. Confirmar idade, peso, gestação quando aplicável, integridade do couro cabeludo e diagnóstico de infestação ativa antes de qualquer medicamento."
+      },
+      "refs": [
+        {
+          "id": "pais121_op10_1",
+          "name": "Informe Técnico em Saúde Única — Pediculose, nº 17",
+          "url": "https://www.saude.ms.gov.br/wp-content/uploads/2026/04/Informe-Tecnico-em-Saude-Unica_Pediculose.pdf"
+        },
+        {
+          "id": "pais121_op10_2",
+          "name": "Treatment of Head Lice",
+          "url": "https://www.cdc.gov/lice/treatment/"
+        },
+        {
+          "id": "pais121_op10_3",
+          "name": "Providing Care for Individuals with Head Lice",
+          "url": "https://www.cdc.gov/lice/caring-head/index.html"
+        },
+        {
+          "id": "pais121_op10_4",
+          "name": "Head Lice: What Parents Need to Know",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/from-insects-animals/Pages/Signs-of-Lice.aspx"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1073",
+      "label": "Persistência do canal arterial",
+      "entity": "Persistência do canal arterial (PCA/PDA) em recém-nascidos, crianças e adolescentes",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"normalized_term\":\"Persistência do canal arterial\",\"synonyms\":[\"Persistência do ducto arterioso\",\"Canal arterial patente\",\"Patent ductus arteriosus (PDA)\"],\"scope\":\"Abrange o canal arterial que permanece aberto após o nascimento. É mais frequente em prematuros; o impacto depende do tamanho, direção do fluxo, repercussão cardiopulmonar e presença de outras cardiopatias.\",\"distinctions\":[\"Não é sinônimo de sopro inocente: o diagnóstico e a repercussão são definidos pela avaliação clínica e pelo ecocardiograma.\",\"Um canal pequeno pode não causar sintomas; um canal importante pode provocar sobrecarga pulmonar, dificuldade respiratória, dificuldade para alimentar e ganho de peso insuficiente.\",\"Em algumas cardiopatias congênitas, manter o canal aberto temporariamente é essencial para a circulação; por isso, não se deve presumir que todo canal deva ser fechado imediatamente.\"]}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A persistência do canal arterial ocorre quando um vaso normal da vida fetal, que liga a aorta à artéria pulmonar, não se fecha após o nascimento. O tamanho e a repercussão variam: alguns canais pequenos não causam sintomas, enquanto canais maiores podem aumentar o trabalho do coração e dos pulmões.",
+          "Se a criança recebeu alta com o canal ainda aberto, observe a respiração, a cor da pele e dos lábios, o cansaço ou suor durante as mamadas, o tempo para terminar a alimentação, a quantidade ingerida, o número de fraldas molhadas e o ganho de peso.",
+          "Mantenha os retornos com neonatologia, pediatria ou cardiologia e leve os relatórios de ecocardiograma, internação e procedimentos. A aparência da criança, o crescimento e os exames orientam se basta acompanhar ou se é necessário tratamento.",
+          "Não restrinja líquidos, não aumente calorias, não limite atividade e não tente estimular o fechamento do canal por conta própria. Essas decisões dependem da idade, prematuridade, tamanho do canal, função cardíaca e outras cardiopatias."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Durante a mamada, mantenha o bebê em posição segura e faça pausas se ele respirar mais rápido, suar, ficar cansado ou mudar de cor. Pare a alimentação e procure orientação se houver engasgo repetido, esforço respiratório ou dificuldade para recuperar o fôlego.",
+          "Pese a criança apenas conforme o plano da equipe e anote mamadas, cansaço, vômitos e fraldas se isso tiver sido solicitado. Ganho de peso insuficiente ou piora do esforço para alimentar deve ser comunicado antes do retorno programado.",
+          "Se houve fechamento por cateter ou cirurgia, siga exatamente os cuidados com curativo, banho e atividade fornecidos pelo serviço. Não massageie a virilha ou a incisão e não retire curativos antes da orientação.",
+          "Em crianças maiores, atividade física costuma ser liberada quando o canal é pequeno ou já foi fechado, mas hipertensão pulmonar, recuperação recente de procedimento ou outra cardiopatia podem exigir limites individuais definidos pelo cardiologista."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente os medicamentos prescritos pela neonatologia ou cardiologia, nos horários e pelo período definidos. Não suspenda diurético ou outro medicamento porque a respiração parece melhor e não dobre uma dose esquecida sem orientação.",
+          "Medicamentos usados em prematuros para tentar fechar o canal são decisões hospitalares e exigem avaliação e monitorização. Não use ibuprofeno, paracetamol, indometacina ou qualquer anti-inflamatório em casa com a finalidade de fechar o canal.",
+          "Algumas cardiopatias dependem do canal aberto até o tratamento definitivo. Nunca use ou suspenda medicamento para manter ou fechar o canal sem a equipe que conhece a anatomia cardíaca da criança.",
+          "Esta orientação não define medicamento, dose, via ou duração. Informe a cardiopatia antes de iniciar qualquer remédio novo e confirme com o cardiologista se há recomendação especial antes de procedimentos odontológicos."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça leite materno, fórmula ou alimentação adequada à idade conforme o plano individual. Bebês que cansam podem precisar de mamadas menores e mais frequentes, mas mudanças de volume, intervalo, fórmula ou concentração devem ser feitas somente pela equipe.",
+          "Não dilua fórmula, não engrosse mamadas e não restrinja água ou leite por conta própria. Em prematuros e crianças com repercussão cardíaca, tanto excesso quanto restrição inadequada podem causar problemas.",
+          "Procure avaliação se a criança não consegue terminar as mamadas por falta de ar ou cansaço, sua muito para comer, vomita repetidamente, urina muito menos, fica com boca seca ou deixa de ganhar peso."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Respiração muito rápida ou com esforço, gemência, afundamento entre as costelas, pausas prolongadas para respirar, lábios ou pele azulados/cinzentos, palidez intensa ou piora súbita.",
+          "Bebê que não consegue mamar por falta de ar ou cansaço, fica muito sonolento ou difícil de acordar, apresenta suor frio, pouca urina, extremidades frias, fraqueza acentuada ou desmaio.",
+          "Após cateterismo ou cirurgia: sangramento que não para com compressão suave conforme a orientação recebida, aumento rápido de inchaço na virilha/incisão, falta de ar, febre com mau estado geral, ou perna/pé frio, pálido, arroxeado, doloroso ou com movimento reduzido.",
+          "Procure atendimento imediato também se a equipe tiver orientado um plano de emergência próprio para cardiopatia associada; esta ficha não substitui esse plano."
+        ],
+        "QUANDO REAVALIAR": [
+          "Compareça na data definida pela neonatologia ou cardiologia, mesmo que a criança pareça bem. O acompanhamento pode incluir exame físico, peso, pressão, saturação e ecocardiograma para avaliar fechamento e repercussão.",
+          "Peça reavaliação antes do prazo se surgir ou aumentar cansaço para mamar ou brincar, suor ao alimentar, respiração rápida, menor aceitação, ganho de peso insuficiente, infecções respiratórias repetidas ou redução da tolerância à atividade.",
+          "Depois de fechamento por cateter ou cirurgia, cumpra o retorno e as restrições temporárias informadas pelo serviço. Confirme quando liberar banho, creche/escola, esforço físico e cuidados odontológicos.",
+          "Crianças com canal pequeno ou já fechado costumam ter boa evolução, mas hipertensão pulmonar, abertura residual ou outras cardiopatias exigem seguimento individual; não abandone o acompanhamento sem alta formal."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Maior atenção à prematuridade, apneia, oscilação de oxigênio, esforço respiratório, cansaço nas mamadas, pouca urina e ganho de peso. Não aplicar orientação domiciliar genérica a neonato instável.",
+        "3a5m": "Registrar tolerância às mamadas, suor, respiração e crescimento. Interromper a mamada e procurar ajuda se houver falta de ar, cianose ou exaustão.",
+        "6a11m": "Observar respiração e cansaço durante mamadas e alimentação complementar; não alterar concentração da fórmula nem restringir líquidos sem prescrição.",
+        "1a": "Acompanhar ganho de peso, respiração durante refeições e tolerância a brincar. Sinais novos de cansaço ou suor exigem contato precoce.",
+        "2a5": "Observar se a criança para de brincar por falta de ar, sua excessivamente, não acompanha os pares ou deixa de ganhar peso; atividade deve seguir a orientação cardiológica.",
+        "6a11": "Perguntar sobre falta de ar, palpitação, dor no peito, desmaio e queda de desempenho. Em canal pequeno ou fechado, atividade costuma ser normal, salvo orientação individual.",
+        "12a17": "O adolescente deve conhecer o diagnóstico e os procedimentos realizados, comunicar redução de tolerância ao esforço e não interromper acompanhamento ou medicamento por conta própria.",
+        "unknown": "Sem idade, prematuridade, anatomia associada e repercussão informadas, não definir restrição, tratamento ou prazo de fechamento; manter apenas sinais de alarme e seguimento cardiológico."
+      },
+      "refs": [
+        {
+          "id": "pais121_op11_1",
+          "name": "Patent Ductus Arteriosus (PDA)",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/patent-ductus-arteriosus-pda"
+        },
+        {
+          "id": "pais121_op11_2",
+          "name": "Patent Ductus Arteriosus (PDA) in newborn Infants",
+          "url": "https://www.leedsth.nhs.uk/patients/resources/patent-ductus-arteriosus-pda-in-newborn-infants/"
+        },
+        {
+          "id": "pais121_op11_3",
+          "name": "Patent ductus arteriosus (PDA)",
+          "url": "https://www.childrens.health.qld.gov.au/health-a-to-z/cardiac/patent-ductus-arteriosus"
+        },
+        {
+          "id": "pais121_op11_4",
+          "name": "Patent ductus arteriosus (PDA) factsheet",
+          "url": "https://www.schn.health.nsw.gov.au/factsheets/patent-ductus-arteriosus-pda"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1087",
+      "label": "Picada de escorpião Tityus serrulatus",
+      "entity": "Acidente escorpiônico pediátrico por Tityus serrulatus (escorpião-amarelo), confirmado ou suspeito",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_SPECIES_QUALIFIER\",\"normalized_term\":\"Acidente escorpiônico por Tityus serrulatus\",\"assessment\":\"Tityus serrulatus é espécie brasileira de importância médica e maior potencial de gravidade. A conduta inicial não deve depender da captura ou identificação do animal: em criança, a suspeita de picada exige avaliação imediata.\",\"pediatric_scope\":\"Todas as idades pediátricas; crianças, sobretudo as menores, têm maior risco de manifestações sistêmicas graves.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Picada de escorpião-amarelo é uma urgência em criança. Afaste a criança e outras pessoas do animal e procure imediatamente um serviço de saúde de referência; não espere aparecerem outros sintomas.",
+          "Lave o local suavemente com água e sabão. Mantenha a criança calma durante o transporte e anote, se souber, o horário da picada e quando começaram os sintomas.",
+          "Não tente capturar o escorpião com as mãos e não atrase a saída. Se for possível sem risco, fotografe o animal à distância para ajudar a identificação.",
+          "Dor pode começar logo após a picada; vômitos, suor, salivação, agitação, sonolência, alteração dos batimentos ou falta de ar podem surgir em minutos ou poucas horas, especialmente em crianças."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não faça torniquete ou garrote, não aperte o membro, não corte, não fure, não queime e não chupe o local. Essas medidas não retiram o veneno e podem causar outras lesões.",
+          "Não passe álcool, pó, folhas, pomadas, produtos químicos ou receitas caseiras na picada.",
+          "Não faça a criança caminhar desnecessariamente e não perca tempo tentando encontrar o animal. Priorize o transporte para atendimento.",
+          "Para prevenção futura, sacuda roupas e calçados antes de usar, vede frestas e ralos, mantenha quintais sem entulho e controle baratas, que servem de alimento aos escorpiões."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê calmante, remédio caseiro ou medicamento não orientado antes da avaliação. Leve a lista dos medicamentos e alergias da criança.",
+          "A necessidade de analgésico, monitorização e soro antiescorpiônico é definida pela equipe conforme idade e manifestações clínicas. O antiveneno é administrado em ambiente hospitalar sob supervisão.",
+          "Esta ficha não prescreve dose nem quantidade de soro. Não compre nem tente aplicar antiveneno fora do serviço de saúde."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Até a avaliação, não force alimentos, leite ou outros líquidos, sobretudo se houver náusea, vômito, sonolência ou falta de ar.",
+          "Após a avaliação ou alta, siga a orientação da equipe sobre quando voltar a oferecer líquidos e alimentos. Vômitos repetidos ou incapacidade de beber são sinais de gravidade."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "A primeira avaliação deve ser imediata após toda picada suspeita em criança, mesmo que exista apenas dor local e a criança pareça bem.",
+          "Durante o transporte ou após a alta, chame emergência e retorne sem demora se surgirem vômitos, suor intenso, salivação excessiva, tremores, agitação incomum, sonolência, confusão, convulsão ou desmaio.",
+          "Respiração rápida ou difícil, chiado, lábios arroxeados, dor no peito, batimentos muito rápidos ou lentos, palidez intensa, fraqueza importante ou piora rápida exigem atendimento emergencial.",
+          "Não use a melhora da dor como prova de que o risco passou; manifestações sistêmicas podem aparecer depois."
+        ],
+        "QUANDO REAVALIAR": [
+          "Permaneça no serviço pelo tempo de observação definido pela equipe. Crianças precisam de vigilância porque sinais sistêmicos podem aparecer após o atendimento inicial.",
+          "Depois da alta, cumpra o retorno orientado e volte antes se a dor piorar, surgirem vômitos, suor, salivação, alteração do comportamento, dificuldade respiratória ou qualquer novo sintoma.",
+          "Procure a vigilância ambiental ou zoonoses do município se houver escorpiões em casa; não manipule o animal nem use veneno doméstico por conta própria."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou bebê menor de 3 meses: emergência imediata. Não espere choro, febre ou outros sinais; alterações de cor, mamada, respiração, tônus ou alerta são preocupantes.",
+        "3a5m": "Bebê de 3 a 5 meses: emergência imediata, mesmo com marca discreta ou apenas irritabilidade; observe respiração, cor, vômitos, suor e dificuldade para mamar.",
+        "6a11m": "Bebê de 6 a 11 meses: emergência imediata; irritabilidade, vômitos, suor, salivação, sonolência ou recusa alimentar podem ser manifestações sistêmicas.",
+        "1a": "Criança de 1 ano: emergência imediata e transporte sem demora; ela pode não conseguir localizar ou descrever a dor.",
+        "2a5": "Criança de 2 a 5 anos: risco elevado de gravidade, especialmente com Tityus serrulatus; não observar em casa nem aguardar sintomas sistêmicos.",
+        "6a11": "Criança de 6 a 11 anos: toda picada suspeita exige avaliação imediata; menores de 10 anos concentram mais casos graves e óbitos.",
+        "12a17": "Adolescente: procurar atendimento imediato mesmo que haja somente dor local; relatar com precisão horário, sintomas e comorbidades.",
+        "unknown": "Idade não informada: trate como paciente pediátrico de maior risco e procure atendimento imediato, sem aguardar evolução em casa."
+      },
+      "refs": [
+        {
+          "id": "pais121_op12_1",
+          "name": "Acidentes por Escorpiões",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/acidentes-por-escorpioes"
+        },
+        {
+          "id": "pais121_op12_2",
+          "name": "O que devo fazer no caso de um acidente com escorpião?",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/acidentes-por-escorpioes/faq/faq/o-que-devo-fazer-no"
+        },
+        {
+          "id": "pais121_op12_3",
+          "name": "Protocolo Clínico no Acidente Escorpiônico em Pacientes Pediátricos",
+          "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-uftm/documentos/protocolos-assistenciais/PRT.CPAM.080ProtocoloCliniconoAcidenteEscorpionicoemPacientesPediatricosversao2.pdf"
+        },
+        {
+          "id": "pais121_op12_4",
+          "name": "Calor propicia acidentes com animais peçonhentos",
+          "url": "https://portal-antigo.saude.mg.gov.br/resolucoes/story/17335-calor-propicia-acidentes-com-animais-peconhentos"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

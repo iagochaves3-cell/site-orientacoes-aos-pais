@@ -1,0 +1,265 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T17:13:44.218Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps20261014_anquiloglossia",
+      "label": "Anquiloglossia",
+      "entity": "Anquiloglossia (língua presa) com possível limitação funcional da língua",
+      "assessment": "{\"classification\":\"VALID_CONGENITAL_ENTITY_REQUIRING_FUNCTIONAL_ASSESSMENT\",\"normalized_entity\":\"Anquiloglossia\",\"assessment\":\"Anquiloglossia é uma alteração congênita em que um frênulo lingual restritivo limita a mobilidade e pode interferir na alimentação. A aparência do frênulo isoladamente não comprova repercussão clínica. Em lactentes, o diagnóstico que muda conduta exige avaliação conjunta da língua, da mamada, da transferência de leite, da dor materna e do ganho ponderal. Criança com alimentação normal não precisa de procedimento preventivo.\",\"aliases\":[\"Língua presa\"],\"not_automatically_equivalent_to\":[\"Frênulo lingual visível sem limitação funcional\",\"Frênulo labial ou bucal\",\"Toda dor mamilar ou dificuldade de pega\",\"Baixo ganho de peso sem avaliação de outras causas\",\"Atraso de fala ou troca de sons por qualquer causa\",\"Indicação automática de frenotomia, frenectomia ou laser\",\"Diagnóstico baseado apenas no termo pouco definido ‘anquiloglossia posterior’\"],\"counting_rule\":\"Contar uma única entidade clínica e preservar o alias ‘língua presa’. Não multiplicar por técnica cirúrgica, aparência do frênulo, dificuldade de amamentação ou queixa de fala.\",\"pediatric_scope\":\"Congênita e mais relevante no período neonatal quando há repercussão na alimentação; em crianças maiores, queixas de fala, mastigação ou higiene oral exigem avaliação funcional específica. A presença do frênulo não prevê por si só problema futuro.\",\"reason\":null,\"next_action\":\"Revisão independente do coordenador, integração no gerador, testes por ID/nome/alias e oito idades e publicação somente após deployment terminal confirmado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Anquiloglossia, ou língua presa, é uma alteração presente desde o nascimento em que o tecido sob a língua limita seu movimento. Nem todo frênulo curto causa problema: a função para mamar, comer ou falar é mais importante do que a aparência isolada.",
+          "Se o bebê mama bem e ganha peso, mantenha o acompanhamento habitual; não é necessário cortar o frênulo apenas para prevenir uma possível dificuldade futura. Se há dificuldade, a mamada e outras causas precisam ser avaliadas antes de decidir qualquer procedimento.",
+          "Observe pega, sucção, tempo e esforço para mamar, estalos, tosse ou engasgos, cansaço, satisfação após a mamada, número de fraldas molhadas e evolução do peso. Dor ou ferida no mamilo também deve ser informada à equipe que acompanha a dupla mãe-bebê.",
+          "Não tente cortar, furar, puxar ou romper o frênulo em casa. A anquiloglossia não é contagiosa e não resulta de cuidado inadequado dos pais."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Peça observação completa da mamada por profissional capacitado. Ajustes de posição e pega, apoio à amamentação e investigação de outras causas devem vir antes da indicação cirúrgica na maioria dos casos.",
+          "Não use uma fotografia, um escore isolado ou vídeos da internet para decidir tratamento. O exame precisa considerar movimento da língua, transferência de leite, crescimento e o conjunto da alimentação.",
+          "Em criança maior com fala pouco compreensível, dificuldade para movimentar a língua, mastigar ou limpar resíduos dos dentes, procure pediatria, odontopediatria, otorrinolaringologia e/ou fonoaudiologia conforme o fluxo local. A presença do frênulo sozinha não confirma a causa da queixa.",
+          "Após frenotomia ou frenectomia, siga somente as orientações do serviço que realizou o procedimento. Não faça massagens, puxões ou exercícios destinados a reabrir a ferida por conta própria; mantenha o retorno programado."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento alonga ou corrige o frênulo. Não use pomadas, anestésicos tópicos, produtos naturais ou remédios para ‘soltar’ a língua.",
+          "Frenotomia, frenectomia e frenuloplastia são procedimentos, não medicamentos. Só devem ser considerados por profissional habilitado quando houver limitação funcional confirmada e após avaliação das outras causas da dificuldade.",
+          "Se houve procedimento, dê apenas o analgésico ou outro medicamento prescrito para aquela criança, na dose e pelo tempo informados na alta. Não use aspirina e não aplique substâncias diretamente na ferida sem orientação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno ou fórmula adequada à idade enquanto busca apoio; não dilua fórmula, não ofereça água extra a recém-nascido e não troque a alimentação por conta própria. Se a transferência de leite estiver ruim, a equipe deve definir um plano seguro para alimentar o bebê e proteger a produção de leite.",
+          "Acompanhe ganho de peso e hidratação. Mamada muito prolongada, bebê que adormece antes de se alimentar, pouca deglutição percebida ou fraldas progressivamente mais secas precisam de reavaliação precoce.",
+          "Para crianças maiores, mantenha a alimentação apropriada para a idade e a textura que seja segura. Tosse, engasgos, dor, perda de peso ou recusa persistente durante refeições exigem avaliação; não atribua automaticamente tudo ao frênulo.",
+          "Depois de procedimento, siga a dieta e a hidratação indicadas na alta. Se a criança não consegue beber, apresenta dor crescente ou piora da alimentação, contate o serviço sem esperar o retorno de rotina."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se o bebê ficar arroxeado, tiver pausa para respirar, esforço para respirar, engasgo importante, ficar muito mole ou difícil de acordar durante ou após a alimentação. Esses sinais não devem ser atribuídos apenas à língua presa.",
+          "Procure urgência se não consegue mamar ou beber, vomita repetidamente, urina muito menos que o habitual, apresenta boca muito seca, sonolência anormal ou piora rápida do estado geral.",
+          "Após procedimento, sangramento que não para, sangue em grande quantidade, dificuldade para respirar, inchaço progressivo da boca ou língua, febre persistente ou criança muito abatida exigem avaliação imediata; acione o SAMU 192 diante de dificuldade respiratória, alteração de consciência ou sangramento importante."
+        ],
+        "QUANDO REAVALIAR": [
+          "No recém-nascido, a avaliação do frênulo e da mamada deve ocorrer antes da alta e o seguimento deve ser precoce, especialmente quando há dor materna, pega ineficaz, transferência insuficiente ou dúvida sobre ganho de peso.",
+          "Reavalie no mesmo dia ou no prazo indicado pela equipe se a mamada continua dolorosa ou ineficaz apesar do apoio, se o bebê cansa, demora muito para mamar, não parece satisfeito ou não evolui no peso como esperado.",
+          "Se alimentação e crescimento são normais, mantenha puericultura. Não é necessário procedimento preventivo para evitar problemas futuros de fala ou sono sem limitação funcional demonstrada.",
+          "Depois de procedimento, compareça ao retorno para conferir cicatrização, alimentação e função. Em criança maior, dificuldade persistente de fala, mastigação ou higiene oral deve ser reavaliada por equipe apropriada antes de indicar cirurgia."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Priorizar avaliação da mamada, transferência de leite, hidratação e ganho de peso. Dificuldade respiratória, engasgo importante, cianose, sonolência ou incapacidade de mamar exigem urgência.",
+        "3a5m": "Manter avaliação funcional da alimentação e do crescimento. Frênulo visível com alimentação normal não indica procedimento preventivo.",
+        "6a11m": "Observar leite e introdução alimentar, movimentos da língua e segurança das texturas. Engasgos ou dificuldade de progressão alimentar não devem ser atribuídos automaticamente à anquiloglossia.",
+        "1a": "Avaliar mastigação, deglutição, crescimento e mobilidade da língua; usar equipe multiprofissional quando houver limitação funcional.",
+        "2a5": "Queixa de fala requer avaliação fonoaudiológica e exame estrutural; não indicar corte apenas por atraso de fala ou pela aparência do frênulo.",
+        "6a11": "Investigar articulação, mastigação, higiene oral e impacto funcional real. A decisão sobre procedimento é individual e não substitui terapia fonoaudiológica quando indicada.",
+        "12a17": "Incluir o adolescente na decisão e esclarecer benefícios, limites, riscos e cuidados após eventual procedimento; não prometer melhora estética ou de fala sem avaliação funcional.",
+        "unknown": "Confirmar idade, padrão de alimentação, crescimento, fala e função da língua. Não aplicar automaticamente recomendações neonatais ou cirúrgicas."
+      },
+      "refs": [
+        {
+          "id": "pais_mestre_op2001_1",
+          "name": "Nota Técnica Conjunta nº 178/2026 — Orientações para identificação, acompanhamento e notificação da anquiloglossia em recém-nascidos",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2026/nota-tecnica-conjunta-no-178-2026-svsa-dgci-desf-saps-ms.pdf/@@download/file"
+        },
+        {
+          "id": "pais_mestre_op2001_2",
+          "name": "Identification and Management of Ankyloglossia and Its Effect on Breastfeeding in Infants: Clinical Report",
+          "url": "https://publications.aap.org/pediatrics/article/154/2/e2024067605/198022/Identification-and-Management-of-Ankyloglossia-and"
+        },
+        {
+          "id": "pais_mestre_op2001_3",
+          "name": "Academy of Breastfeeding Medicine Position Statement on Ankyloglossia in Breastfeeding Dyads",
+          "url": "https://www.bfmed.org/assets/Anklyloglossia%20position%20statement%202021.pdf"
+        },
+        {
+          "id": "pais_mestre_op2001_4",
+          "name": "Policy on Management of the Frenulum in Pediatric Patients",
+          "url": "https://www.aapd.org/research/oral-health-policies--recommendations/managment-of-the-frenulum-in-pediatric-dental-patients/"
+        },
+        {
+          "id": "pais_mestre_op2001_5",
+          "name": "Kids Health Info: Tongue tie",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Tongue_tie/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps20261015_anus_imperfurado",
+      "label": "Ânus imperfurado — malformação anorretal",
+      "entity": "Malformação anorretal congênita com ausência ou obstrução da abertura anal normal e possível drenagem ectópica do reto; anatomia exata não especificada pelo rótulo",
+      "assessment": "{\"classification\":\"VALID_CONGENITAL_ANORECTAL_MALFORMATION_UMBRELLA_WITH_UNSPECIFIED_ANATOMY\",\"normalized_entity\":\"Ânus imperfurado / malformação anorretal\",\"assessment\":\"O termo é válido e descreve uma malformação congênita do ânus e do reto. 'Ânus imperfurado' costuma indicar ausência ou bloqueio da abertura anal normal, enquanto 'malformação anorretal' é uma categoria mais ampla que inclui diferentes níveis de término retal, estreitamentos e comunicações anormais com períneo, trato urinário ou genital. O nome isolado não permite afirmar o tipo de fístula, a altura do reto, a presença de cloaca, a função do esfíncter, anomalias associadas nem a operação necessária. Recém-nascido com suspeita nova precisa avaliação imediata por equipe pediátrica/cirurgia pediátrica, sem observação domiciliar à espera de evacuação.\",\"not_automatically_equivalent_to\":[\"Fístula perineal, vestibular, vaginal, retouretral ou retovesical específica\",\"Cloaca persistente\",\"Ânus anterior como variante anatômica\",\"Estenose anal isolada\",\"Doença de Hirschsprung, constipação funcional ou obstrução adquirida\",\"Ausência universal de fístula\",\"Indicação universal de colostomia, reconstrução neonatal ou técnica cirúrgica específica\"],\"counting_rule\":\"Contar como uma entidade clínica congênita rastreada por este ID e rótulo. Preservar sinônimos, mas não multiplicar a contagem por cada anatomia possível nem resolver automaticamente para um subtipo sem documentação.\",\"pediatric_scope\":\"Condição congênita, geralmente reconhecida ao nascer pela ausência/posição anormal do ânus, falta de eliminação de mecônio ou fezes por local anormal. Também abrange crianças e adolescentes já operados, com colostomia ou em seguimento por constipação, continência, trato urinário, crescimento e qualidade de vida.\",\"home_management_boundary\":\"Suspeita nova, malformação não corrigida com dificuldade de eliminação ou qualquer sinal de obstrução/sepse não é situação para cuidado domiciliar. Orientações de casa valem somente após exame, estabilização e alta formal da equipe de cirurgia pediátrica. Nenhum instrumento, enema, supositório ou dilatador deve ser introduzido sem indicação e treinamento individual.\",\"next_action\":\"Integrar como ficha específica de malformação anorretal com anatomia indeterminada, preservar acionamento imediato neonatal e pós-operatório, testar as oito faixas etárias e submeter à revisão clínica independente antes de publicar.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Ânus imperfurado é uma malformação presente desde o nascimento: a abertura anal pode não existir, estar bloqueada ou o intestino pode terminar em outro local. Se essa suspeita é nova, procure atendimento hospitalar agora; não espere a próxima consulta nem tente observar em casa até o bebê evacuar.",
+          "Cuidados domiciliares só são apropriados depois que a cirurgia pediátrica examinou a criança, definiu um plano e autorizou a alta. Em casa, anote evacuações ou débito da colostomia, distensão da barriga, vômitos, alimentação, temperatura, urina, dor e aspecto da ferida/períneo; leve o resumo cirúrgico e a lista de medicamentos a cada atendimento.",
+          "Mantenha fralda, períneo, ferida e, quando existir, a pele ao redor da colostomia limpos e secos conforme o ensino da equipe. Não esfregue a incisão nem introduza termômetro, dedo, cotonete, sonda ou qualquer objeto em uma abertura anal suspeita ou recém-reconstruída.",
+          "A malformação pode vir acompanhada de alterações do coração, rins e vias urinárias, coluna/sacro, membros, esôfago/traqueia ou genitais. Compareça aos exames e encaminhamentos solicitados mesmo que a criança pareça bem ou já esteja evacuando."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não tente abrir a passagem com massagem, estimulação retal, enema, lavagem, supositório ou dilatação improvisada. Essas medidas podem ferir, perfurar ou atrasar o tratamento de uma obstrução.",
+          "Se houver colostomia, use somente o material e a técnica ensinados. Observe quantidade de fezes/gases, vazamento, irritação da pele, sangramento persistente, retração/prolapso e mudança de cor do estoma; não recoloque tecido para dentro nem improvise sondas.",
+          "Após reconstrução, siga exatamente as restrições de banho, posição, atividade, cuidado da ferida e eventual calibração indicadas na alta. Calibração/dilatação não é obrigatória para toda criança; quando prescrita, deve ter tamanho, frequência e duração definidos pela equipe e nunca deve ser forçada ou dolorosa.",
+          "Na idade escolar, combine acesso rápido e reservado ao banheiro e troca de roupas, sem punição por escapes. Atividade, fisioterapia, esporte e cuidados com coluna/pelve devem seguir as limitações individuais, se houver."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum remédio corrige a anatomia. Dê apenas analgésico, antibiótico, laxante ou outro medicamento prescrito para esta criança, nesta fase e com o plano escrito da equipe.",
+          "Não inicie laxante, enema, supositório, antibiótico restante em casa ou pomada dentro do ânus/ferida/estoma por conta própria. A escolha depende da anatomia, da operação, da idade, da consistência das fezes e do risco de obstrução.",
+          "Febre ou temperatura baixa, piora da dor, vômitos, sonolência, ferida com secreção ou redução importante das fezes não devem ser tratados apenas com antitérmico ou analgésico; precisam avaliação para infecção, obstrução ou complicação cirúrgica.",
+          "Se a criança usa programa intestinal, confirme no retorno nome, dose, horário e objetivo de cada medicamento. Não aumente a dose para compensar evacuação ausente sem falar com a equipe."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Recém-nascido com abertura anal ausente, eliminação insuficiente de mecônio/fezes, barriga inchada ou vômito verde não deve receber nova mamada, água ou alimento enquanto busca atendimento imediato; a equipe decidirá quando e como alimentar após avaliar a obstrução.",
+          "Quando a criança está eliminando fezes adequadamente e recebeu alta com alimentação liberada, mantenha leite materno/fórmula ou dieta própria da idade e hidratação conforme o plano. Não faça jejum, troque fórmula nem imponha dieta restritiva por conta própria.",
+          "Após colostomia ou reconstrução, a progressão da dieta é individual. Siga o plano escrito da alta e observe tolerância, vômitos, distensão e débito; redução súbita do débito com sintomas é motivo de avaliação, não de oferecer mais fibra ou laxante em casa.",
+          "Em crianças maiores, água, fibras e horários regulares podem fazer parte do programa intestinal, mas a quantidade e o uso de laxantes ou lavagens devem ser definidos pela equipe, pois excesso ou falta de tratamento pode piorar escapes e constipação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure emergência agora se o recém-nascido não tem abertura anal visível, não eliminou mecônio/fezes, elimina fezes pela urina, vagina ou outro local inesperado, ou se a abertura parece bloqueada. Não espere completar 24 horas quando a suspeita já existe.",
+          "Barriga progressivamente inchada ou dolorosa, vômito verde ou repetido, ausência/redução importante de fezes ou gases, recusa alimentar, choro fraco, sonolência ou dificuldade para acordar podem indicar obstrução, perfuração ou piora clínica e exigem atendimento imediato.",
+          "Febre ou temperatura baixa em recém-nascido, respiração rápida/difícil, pele fria ou manchada, pouca urina, prostração, piora rápida ou aparência muito doente podem indicar infecção grave/sepse. Acione o SAMU 192 se houver alteração de consciência, colapso, lábios arroxeados ou dificuldade respiratória importante.",
+          "Após cirurgia, retorne imediatamente se houver sangramento persistente, pus ou mau cheiro, vermelhidão/inchaço que se espalha, abertura da incisão, dor crescente, vômitos, barriga distendida ou ausência inesperada de fezes.",
+          "Se houver colostomia, procure avaliação urgente quando o estoma ficar muito escuro, arroxeado, preto ou muito pálido, parar de funcionar com distensão/vômitos, sangrar continuamente, retrair de repente ou prolapsar com dor e alteração de cor."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita nova no recém-nascido deve ser avaliada imediatamente em hospital com pediatria/cirurgia pediátrica; não é retorno eletivo. A equipe precisa confirmar a anatomia, verificar eliminação de mecônio e procurar malformações associadas potencialmente graves.",
+          "Depois da alta, compareça no prazo escrito pela cirurgia pediátrica para revisar ferida/estoma, alimentação, evacuação, crescimento, resultado dos exames e próximas etapas. Não falte mesmo se a criança estiver evacuando bem.",
+          "Antecipe o contato se houver piora da constipação, fezes muito finas, esforço/dor, escapes novos, irritação importante da pele, ganho de peso insuficiente, sintomas urinários ou mudança do padrão do estoma. Sinais de alarme exigem pronto atendimento e não devem aguardar o retorno marcado.",
+          "O seguimento deve continuar durante infância e adolescência, especialmente na introdução alimentar, treino do banheiro, entrada na escola e transição para o cuidado adulto. Continência, constipação, rins/vias urinárias, coluna, puberdade, saúde sexual/reprodutiva e bem-estar emocional precisam ser revistos conforme a anatomia e as associações de cada paciente."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Prioridade máxima: suspeita de ânus ausente/bloqueado, falta de mecônio, fezes em local anormal, distensão, vômito verde, temperatura anormal ou má sucção exige avaliação imediata. Confirmar anatomia e rastrear coração, rins/vias urinárias, coluna/sacro, esôfago/traqueia, membros e genitais conforme a equipe.",
+        "3a5m": "Revisar ganho de peso, alimentação, débito da colostomia ou evacuações, pele e ferida; cumprir o calendário cirúrgico. Não iniciar dilatação, laxante ou mudança de fórmula sem plano individual.",
+        "6a11m": "Na introdução alimentar, observar se fezes mais consistentes provocam esforço, distensão, vômitos ou queda da frequência. Ajustes de água, fibra, laxante e programa intestinal devem ser guiados pela equipe.",
+        "1a": "Com maior mobilidade, proteger estoma/ferida sem restringir desnecessariamente a criança e seguir limitações cirúrgicas específicas. Registrar dor, padrão de fezes, urina e crescimento para o retorno.",
+        "2a5": "Treino do banheiro pode ser mais lento e deve ocorrer sem punição ou vergonha. Escapes podem acompanhar constipação; usar apoio para os pés e horários apenas dentro do programa definido pela equipe, sem enemas ou supositórios improvisados.",
+        "6a11": "Planejar acesso reservado ao banheiro e apoio escolar. Constipação, escapes, infecção urinária, dor nas costas/pernas, alteração da marcha ou sofrimento social justificam reavaliação multidisciplinar.",
+        "12a17": "Incluir o adolescente nas decisões com privacidade. Revisar continência, programa intestinal, trato urinário, coluna, imagem corporal, saúde mental, puberdade e saúde sexual/reprodutiva, preparando transição documentada para seguimento adulto.",
+        "unknown": "Antes de orientar, confirmar idade, sexo/anatomia, local de saída das fezes, operação e colostomia prévias, padrão atual de evacuação, alimentação, febre/vômitos/distensão, urina, comorbidades e plano da cirurgia pediátrica. Na dúvida sobre obstrução ou sepse, priorizar emergência."
+      },
+      "refs": [
+        {
+          "id": "pais_mestre_op2002_1",
+          "name": "ERN eUROGEN Clinical Practice Guideline on Anorectal Malformations (ARM) — Combined Document",
+          "url": "https://eurogen-ern.eu/wp-content/uploads/2025/08/ERN-eUROGEN-CPG-on-ARM-Combined-Document-FINAL-2025-08-19.pdf"
+        },
+        {
+          "id": "pais_mestre_op2002_2",
+          "name": "Anorectal Malformations",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/anatomic-problems-lower-gi-tract/anorectal-malformations"
+        },
+        {
+          "id": "pais_mestre_op2002_3",
+          "name": "Anorectal Malformation (imperforate anus) — Conditions A–E",
+          "url": "https://apsapedsurg.org/parents/learn-about-a-condition/a-e/"
+        },
+        {
+          "id": "pais_mestre_op2002_4",
+          "name": "Anorectal Malformations",
+          "url": "https://www.cincinnatichildrens.org/health/a/anorectal-malformations"
+        }
+      ],
+      "alwaysUrgent": true
+    },
+    {
+      "specific": true,
+      "key": "pdf1500_109",
+      "label": "Apneia da prematuridade",
+      "entity": "Apneia da prematuridade — distúrbio do controle respiratório imaturo do recém-nascido pré-termo, diagnosticado após exclusão de causas secundárias",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_NEONATAL\",\"normalized_entity\":\"Apneia da prematuridade\",\"assessment\":\"O termo é válido e descreve pausas respiratórias clinicamente significativas relacionadas à imaturidade do controle respiratório em recém-nascidos pré-termo. Os eventos podem ser centrais (sem esforço respiratório), obstrutivos (há esforço, mas o fluxo de ar está bloqueado) ou mistos; o padrão misto é frequente. É diagnóstico de exclusão: infecção, alteração de temperatura, hipoxemia, anemia, distúrbios metabólicos, doença pulmonar, cardíaca ou neurológica, efeito de medicamentos, obstrução de via aérea e problemas associados à alimentação precisam ser considerados conforme o quadro. Respiração periódica com pausas curtas, sem mudança de cor, frequência cardíaca ou estado do bebê, não é automaticamente apneia da prematuridade; a família não deve tentar classificar um evento preocupante à distância.\",\"not_equivalent_to\":[\"Respiração periódica fisiológica\",\"BRUE\",\"Apneia obstrutiva do sono\",\"Engasgo ou aspiração durante alimentação\",\"Apneia em recém-nascido a termo, lactente maior, criança ou adolescente\",\"Síndrome da morte súbita do lactente\"],\"brue_boundary\":\"BRUE é um rótulo aplicado somente após um evento breve, já resolvido, em criança com menos de 1 ano, que permanece sem explicação depois de avaliação clínica adequada. Um evento explicado pela prematuridade não é BRUE; evento ainda em curso, recorrente, com exame anormal, doença ou necessidade de ressuscitação não deve ser reduzido a BRUE.\",\"pediatric_scope\":\"A aplicação principal é neonatal e depende da idade gestacional ao nascer e da idade pós-menstrual/corrigida. Em geral os eventos desaparecem com a maturação, mas podem persistir além do termo em prematuros extremos. Um cuidador não deve usar idade isolada para decidir que o bebê está seguro ou interromper monitorização ou cafeína prescritas.\",\"counting_rule\":\"Contar como uma entidade clínica específica, preservando este nome e ID. Não reutilizar a ficha como explicação automática para pausas respiratórias em outras idades ou para eventos de causa desconhecida.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A apneia da prematuridade acontece porque o controle da respiração ainda é imaturo. É mais comum e pode durar mais quanto menor foi a idade gestacional ao nascer. Em geral melhora conforme o bebê amadurece, mas somente a equipe neonatal pode confirmar que os eventos cessaram e que a alta é segura.",
+          "A maioria dos episódios clinicamente importantes é observada e tratada no hospital. Em casa, siga apenas o plano de alta escrito pela neonatologia, com contatos, idade corrigida, alimentação, medicamentos e uso de oxigênio ou monitor, se algum deles tiver sido realmente prescrito. Não transforme esta orientação em autorização de alta ou em plano domiciliar por conta própria.",
+          "Pausa nova, mais longa, repetida ou que reaparece depois de melhora precisa de avaliação: nem toda apneia em prematuro é explicada pela imaturidade. Infecção, temperatura anormal, anemia, baixa oxigenação, alteração de glicose ou sais, doença pulmonar, cardíaca ou neurológica, obstrução da via aérea, medicamento e dificuldade durante a alimentação podem causar ou agravar eventos.",
+          "Respiração periódica pode parecer ciclos de respirações e pausas curtas sem mudança de cor, moleza ou queda do estado geral. Se houver dúvida, mudança de cor, dificuldade para despertar, necessidade de tocar para voltar a respirar ou qualquer mudança em relação ao padrão ensinado pela equipe, trate como sinal de alarme e procure avaliação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para dormir em casa, coloque o bebê sempre de barriga para cima, em superfície própria, firme, plana e sem inclinação. Não use travesseiros, rolos, ninhos, posicionadores, cobertas soltas ou objetos macios. Posição de barriga para baixo usada sob monitorização hospitalar não deve ser repetida em casa para prevenir apneia.",
+          "Mantenha ambiente sem fumaça, cigarro eletrônico ou nicotina, evite superaquecimento, lave as mãos e reduza contato com pessoas com sintomas respiratórios. Não sacuda o bebê nem use água, sustos ou manobras caseiras para fazê-lo respirar.",
+          "Se a equipe prescreveu oxigênio ou monitor cardiorrespiratório, use exatamente como treinado, confira sensores e fonte de energia e mantenha o plano de contingência acessível. Não altere limites, fluxo ou configurações. Observe primeiro o bebê e siga o plano clínico; não ignore alarmes repetidos nem dependa apenas do aparelho.",
+          "Monitores de consumo, relógios e meias inteligentes não previnem morte súbita e não substituem sono seguro, avaliação médica ou equipamento prescrito. Antes da alta, cuidadores devem receber treinamento prático sobre o plano de emergência e ressuscitação cardiopulmonar do lactente."
+        ],
+        "MEDICAMENTOS": [
+          "Cafeína é o medicamento mais usado no hospital para apneia da prematuridade, mas dose, horário, duração e momento de suspensão dependem do bebê e da observação dos eventos. Esta ficha não fornece dose e não autoriza iniciar, ajustar ou parar cafeína.",
+          "Se a equipe neonatal excepcionalmente der alta com cafeína, ofereça somente a apresentação e a medida da receita atual, no horário orientado. Em caso de dose esquecida, vômito logo após a administração, troca de concentração ou dúvida na medida, contate a equipe; não repita nem dobre por conta própria.",
+          "Não use descongestionantes, estimulantes, chás, óleos, fórmulas manipuladas ou remédios de outra criança. Medicamentos para refluxo não devem ser iniciados apenas para tentar reduzir apneias: refluxo não explica automaticamente esses eventos e tratamento sem indicação pode trazer riscos.",
+          "Avise a neonatologia sobre qualquer remédio novo, sedativo ou procedimento com anestesia. Doença viral, sedação e outros estresses podem alterar a respiração de alguns prematuros e exigem plano individual."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga o plano de leite materno, fórmula, fortificação, volume, intervalo e técnica definido para o bebê. Não dilua fórmula, não acrescente cereal ou espessante e não mude bico, fluxo, volume ou posição para tratar apneia sem avaliação da equipe.",
+          "Alimente somente quando o bebê estiver acordado, com cor e respiração habituais. Use as pausas e a técnica de ritmo ensinadas pela equipe. Pare a mamada se houver tosse, engasgo, respiração ofegante, pausa respiratória, mudança de cor, moleza, alarme com alteração do bebê ou cansaço importante; aplique o plano de emergência em vez de insistir na alimentação.",
+          "Não ofereça leite, água ou medicamento pela boca durante ou logo após um evento enquanto o bebê não estiver plenamente desperto e respirando normalmente. Não coloque o bebê para dormir inclinado depois da mamada; o sono deve continuar de barriga para cima, em superfície firme e plana.",
+          "Registre mamadas, vômitos, pausas ou mudanças de cor associadas à alimentação, fraldas molhadas e ganho de peso. Menor ingestão, menos urina, fadiga crescente ou eventos repetidos durante mamadas precisam de contato rápido com a equipe."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se o bebê não estiver respirando, ficar azul, acinzentado, muito pálido, mole, não responder ou estiver difícil de despertar, acione o SAMU 192 imediatamente. Inicie ressuscitação cardiopulmonar se foi treinado ou siga as instruções do atendente; não dê nada pela boca, não sacuda e não dirija sozinho com o bebê instável.",
+          "Mesmo que se recupere, procure avaliação imediata se houve pausa com mudança de cor ou tônus, necessidade de estimulação para voltar a respirar, evento mais longo ou diferente do habitual, episódios repetidos, engasgo importante, convulsão ou necessidade de ventilação/reanimação.",
+          "Procure atendimento urgente por respiração trabalhosa, gemido, afundamento das costelas, batimento de asas do nariz, febre ou temperatura baixa, recusa alimentar, vômitos repetidos, pouco xixi, sangue nas fezes, prostração ou piora rápida. Esses sinais podem indicar causa secundária e não devem ser atribuídos automaticamente à prematuridade.",
+          "Alarme do equipamento com bebê de cor alterada, sem respirar normalmente, pouco responsivo ou com esforço respiratório é emergência. Se o bebê parecer bem, mas houver alarmes repetidos ou possível falha do equipamento, use o plano de contingência e contate o serviço no mesmo momento; não desligue, mude limites ou espere vários episódios.",
+          "Apneia nova em recém-nascido a termo, em lactente após o período esperado ou em criança maior não deve ser chamada de 'apneia da prematuridade' em casa. Precisa de avaliação urgente para outra causa."
+        ],
+        "QUANDO REAVALIAR": [
+          "Compareça aos retornos marcados pela neonatologia e pelo seguimento de recém-nascido de alto risco. A equipe decide quando suspender cafeína, oxigênio ou monitorização e quanto tempo observar sem eventos; não existe um número único de dias ou uma idade isolada que a família possa aplicar a todos os prematuros.",
+          "Contate a equipe no mesmo dia se aumentarem as pausas, surgirem eventos nas mamadas, o monitor disparar repetidamente, houver dose de cafeína perdida ou vomitada, o equipamento falhar, a alimentação cair ou o bebê ficar mais sonolento. Sinais de emergência exigem atendimento imediato, não mensagem ou consulta agendada.",
+          "Avise a equipe antes de cirurgia, sedação ou anestesia e diante de doença respiratória, porque prematuros pequenos podem precisar de vigilância adicional. Leve ao atendimento a idade gestacional ao nascer, idade corrigida, resumo da internação, lista de medicamentos e registros dos eventos.",
+          "Mantenha vacinas e acompanhamento de crescimento, alimentação, desenvolvimento e audição/visão conforme o plano do prematuro. Um evento breve e já resolvido só pode ser chamado de BRUE após avaliação médica e exclusão de explicações; episódios recorrentes ou com causa aparente exigem investigação direcionada."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Faixa principal de aplicação, sobretudo durante internação neonatal ou após alta de prematuro ainda jovem em idade corrigida. Use idade gestacional ao nascer e idade pós-menstrual/corrigida; qualquer evento verdadeiro em casa com cor alterada, moleza, dificuldade para despertar ou necessidade de estimulação é urgência.",
+        "3a5m": "A apneia da prematuridade costuma já ter desaparecido, mas prematuros extremos podem ainda estar próximos do termo em idade corrigida ou ter plano neonatal específico. Não atribua evento novo à prematuridade sem avaliação; leve resumo de alta, idade corrigida, medicamentos e dados do monitor.",
+        "6a11m": "A apneia da prematuridade não deve ser a explicação automática nesta idade. Evento breve e resolvido pode ser classificado como BRUE somente depois de avaliação e se continuar sem explicação; evento em curso, recorrente ou com doença é emergência ou requer investigação dirigida.",
+        "1a": "Pausas respiratórias, coloração azulada, desmaio ou perda de tônus não são evolução esperada da apneia da prematuridade. Procure avaliação urgente para causas respiratórias, neurológicas, cardíacas, de via aérea ou outras conforme o quadro.",
+        "2a5": "O diagnóstico neonatal não explica apneia atual. Episódio com alteração de cor ou consciência é emergência; ronco habitual, pausas durante o sono ou esforço respiratório também exigem avaliação pediátrica para obstrução do sono ou outra causa.",
+        "6a11": "Não aplicar plano de prematuro nem cafeína neonatal. Apneia, desmaio ou cianose requerem avaliação imediata; sintomas noturnos persistentes, ronco e sonolência diurna precisam de investigação própria.",
+        "12a17": "O termo está fora do escopo esperado. Qualquer pausa respiratória com cianose, alteração de consciência ou convulsão é emergência; queixas durante o sono exigem história e investigação próprias, sem reutilizar o diagnóstico neonatal.",
+        "unknown": "Confirmar idade cronológica e corrigida, idade gestacional ao nascer, local atual (UTI, enfermaria ou casa), momento de início, duração e repetição do evento, cor, tônus, esforço respiratório, relação com mamada, intervenção necessária, medicamentos, oxigênio e monitor prescrito. Sem isso, não definir alta, cafeína, monitorização ou causa; aplicar imediatamente os sinais de alarme."
+      },
+      "refs": [
+        {
+          "id": "pais_mestre_op2005_1",
+          "name": "Apneia da Prematuridade",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24791b-DC_Apneia_da_prematuridade.pdf"
+        },
+        {
+          "id": "pais_mestre_op2005_2",
+          "name": "Apnea of Prematurity",
+          "url": "https://publications.aap.org/pediatrics/article/137/1/e20153757/52845/Apnea-of-Prematurity"
+        },
+        {
+          "id": "pais_mestre_op2005_3",
+          "name": "Discharge planning of the preterm infant",
+          "url": "https://cps.ca/en/documents/position/discharge-planning-of-the-preterm-infant"
+        },
+        {
+          "id": "pais_mestre_op2005_4",
+          "name": "Clinical Practice Guidelines: Apnoea (neonatal)",
+          "url": "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/apnoea_neonatal/"
+        },
+        {
+          "id": "pais_mestre_op2005_5",
+          "name": "Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment",
+          "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+        },
+        {
+          "id": "pais_mestre_op2005_6",
+          "name": "Management of brief resolved unexplained events (BRUE) in infants: A practice point for evidence-based practice and family-centred care",
+          "url": "https://cps.ca/en/documents/position/brief-resolved-unexplained-events-in-infants"
+        },
+        {
+          "id": "pais_mestre_op2005_7",
+          "name": "Atenção humanizada ao recém-nascido: Método Canguru — manual técnico",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/atencao_humanizada_metodo_canguru_manual_3ed.pdf"
+        },
+        {
+          "id": "pais_mestre_op2005_8",
+          "name": "Manual de Seguimento do Recém-Nascido de Alto Risco",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24651e-ManSeguimento_RN_AltoRisco.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "parents-directed-term-resolution/1",
+  "checked_at": "2026-10-24T12:00:00.000Z",
+  "baseline_version": 102,
+  "baseline_commit": "a872429498a49ce7c3f89deacf8547d168683dca",
+  "records": [
+    {"key":"pdf1500_887","label":"Intolerância à lactose primária agudo","specific":false,"clinical_entity":"Intolerância primária à lactose; episódio sintomático não define forma aguda","term_resolution":true},
+    {"key":"pdf1500_888","label":"Intolerância à lactose primária bilateral","specific":false,"clinical_entity":"Intolerância primária à lactose; bilateralidade inaplicável","term_resolution":true},
+    {"key":"pdf1500_889","label":"Intolerância à lactose primária crônico","specific":false,"clinical_entity":"Intolerância primária à lactose; cronicidade redundante","term_resolution":true},
+    {"key":"pdf1500_890","label":"Intolerância à lactose primária de origem infecciosa","specific":false,"clinical_entity":"Intolerância secundária pós-infecciosa, não primária","term_resolution":true},
+    {"key":"pdf1500_891","label":"Intolerância à lactose primária grave","specific":false,"clinical_entity":"Sintomas intensos atribuídos à lactose; gravidade exige reavaliação","term_resolution":true},
+    {"key":"pdf1500_892","label":"Intolerância à lactose primária idiopático","specific":false,"clinical_entity":"Intolerância primária à lactose; idiopático não acrescenta entidade","term_resolution":true}
+  ]
+}

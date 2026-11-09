@@ -1,0 +1,13 @@
+{
+  "schema": "parents-directed-urology-cystitis-labels/1",
+  "checked_at": "2026-10-24T09:57:00.000Z",
+  "baseline_commit": "30ddfdbf4df3d431069f78d16794832b4d482d03",
+  "records": [
+    {"key":"pdf1500_871","label":"Infecção do trato urinário baixa (Cistite) crônico"},
+    {"key":"pdf1500_872","label":"Infecção do trato urinário baixa (Cistite) de origem infecciosa"},
+    {"key":"pdf1500_874","label":"Infecção do trato urinário baixa (Cistite) idiopático"},
+    {"key":"pdf1500_876","label":"Infecção do trato urinário baixa (Cistite) leve"},
+    {"key":"pdf1500_877","label":"Infecção do trato urinário baixa (Cistite) moderado"},
+    {"key":"pdf1500_878","label":"Infecção do trato urinário baixa (Cistite) não especificado"}
+  ]
+}

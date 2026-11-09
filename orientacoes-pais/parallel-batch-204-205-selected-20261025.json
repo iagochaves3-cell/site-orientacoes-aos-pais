@@ -1,0 +1,205 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T09:15:31.676Z",
+  "records": [
+    {
+      "key": "pdf1500_1429",
+      "label": "Síndrome de Williams",
+      "entity": "Síndrome de Williams-Beuren por deleção 7q11.23 na infância e adolescência",
+      "assessment": "{\"classification\":\"VALID_MULTISYSTEM_GENETIC_CLINICAL_ENTITY\",\"normalized_entity\":\"Síndrome de Williams / síndrome de Williams-Beuren\",\"assessment\":\"O termo é válido e corresponde a uma condição genética multissistêmica causada, em geral, por deleção de 1,5 a 1,8 megabase em 7q11.23, incluindo ELN. Pode afetar artérias e coração, pressão arterial, crescimento, cálcio e rins, tireoide e puberdade, alimentação e intestino, audição e visão, articulações, desenvolvimento, aprendizagem, sono, ansiedade e comportamento. A apresentação varia muito: o diagnóstico isolado não informa quais órgãos estão afetados, a gravidade cardiovascular, o nível de desenvolvimento ou a necessidade de tratamento.\",\"not_automatically_equivalent_to\":[\"Estenose aórtica supravalvar, estenose de artéria pulmonar, coronariopatia ou hipertensão de gravidade definida sem avaliação cardiológica\",\"Hipercalcemia, hipercalciúria, nefrocalcinose, doença renal ou hipotireoidismo sem exames próprios\",\"Deficiência intelectual, TDAH, transtorno de ansiedade, perda auditiva ou limitação funcional de grau determinado\",\"Síndrome de Noonan, síndrome de Turner ou toda pessoa com baixa estatura e cardiopatia\",\"Indicação automática de cirurgia, sedação, restrição de cálcio, suplemento, medicamento ou terapia comportamental\",\"Herança familiar em todos os casos, porque a maioria das deleções ocorre de novo\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de Williams. Não contar como cobertura específica de estenose aórtica supravalvar, hipertensão, hipercalcemia, doença renal, transtorno de ansiedade, TDAH, deficiência intelectual ou outra manifestação sem diagnóstico próprio.\",\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com diagnóstico molecular confirmado ou forte suspeita em investigação. O cuidado depende da anatomia cardiovascular e arterial, pressão, cálcio e urina, rins, tireoide, crescimento, alimentação, audição, visão, desenvolvimento, comportamento, sono, medicamentos e procedimentos planejados.\",\"reason_for_specific\":\"É entidade genética reconhecida, com risco cardiovascular e anestésico próprio, vigilância multissistêmica, necessidades de desenvolvimento e orientação alimentar específica para evitar tanto suplementação inadequada quanto restrição de cálcio sem supervisão.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Williams é uma condição genética que pode afetar vários órgãos. Ela não é contagiosa, não foi causada pelos cuidados da família e não define sozinha personalidade, inteligência, autonomia ou qualidade de vida. Cada criança precisa de um plano baseado nos achados reais.",
+          "Mantenha um resumo com resultado genético, ecocardiogramas, eletrocardiogramas, pressão dos braços e pernas quando medida, cirurgias, cálcio no sangue e na urina, avaliação renal, tireoide, audição, visão, crescimento, desenvolvimento, medicamentos e alergias. Leve-o a consultas, urgências, dentista e procedimentos.",
+          "Observe cansaço para mamar ou brincar, suor excessivo, respiração rápida, coloração arroxeada, dor no peito, palpitação, desmaio, dor de cabeça intensa, fraqueza, inchaço, muita sede ou urina, vômitos, constipação importante, alimentação, crescimento, audição, sono e habilidades já adquiridas.",
+          "Avise sempre sobre a síndrome antes de sedação, anestesia, cirurgia, exame com contraste ou procedimento odontológico. Há risco cardiovascular aumentado ao redor de procedimentos; a equipe deve revisar coração, artérias, pressão, eletrocardiograma, hidratação e local adequado antes de uma intervenção programada.",
+          "Mantenha vacinação conforme o Programa Nacional de Imunizações e o plano individual. A síndrome isoladamente não exige afastamento da escola; combine apoios para aprendizagem, sensibilidade a sons, ansiedade, mobilidade e segurança sem expor desnecessariamente o diagnóstico.",
+          "Crianças com perfil muito sociável ainda precisam aprender limites com desconhecidos, privacidade e segurança corporal. Use linguagem concreta, repetição e supervisão adequada à idade, sem presumir que simpatia significa compreensão de risco ou consentimento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha cardiologia pediátrica mesmo quando a criança parece bem. Estenose aórtica supravalvar, estreitamentos de outras artérias, hipertensão e alterações de ritmo podem existir ou evoluir; atividade física deve seguir a anatomia e a orientação do cardiologista.",
+          "Acompanhe peso, comprimento ou altura e perímetro cefálico nas consultas, usando curvas apropriadas quando disponíveis. Baixo ganho, mamadas longas, refluxo, vômitos, constipação ou dor abdominal precisam de avaliação e não devem ser explicados apenas pela síndrome.",
+          "Ofereça intervenção precoce e apoios individualizados de fisioterapia, terapia ocupacional, fonoaudiologia, psicologia e educação. Avalie audição e visão de modo objetivo; sensibilidade a sons, otites, perda auditiva, estrabismo ou dificuldade visuoespacial podem exigir adaptações próprias.",
+          "Mantenha rotina previsível, sono regular e preparação gradual para mudanças. Ansiedade, fobias, desatenção, impulsividade e dificuldades visuoespaciais podem causar sofrimento; procure avaliação específica e não use punição ou exposição forçada como tratamento.",
+          "Cuide da saúde bucal e da constipação. Incentive movimento seguro e alongamentos conforme orientação, observando rigidez articular, escoliose, dor, quedas, fraqueza, alteração da marcha ou perda funcional.",
+          "Não use aparelho doméstico para concluir que pressão, saturação ou ritmo estão normais diante de sintomas. Registre valores apenas se a equipe ensinou como medir e procure atendimento pelo estado da criança, não por um número isolado."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que elimine a deleção genética. Medicamentos, cirurgias e terapias tratam manifestações documentadas, como hipertensão, cardiopatia, tireoide, ansiedade, TDAH, constipação ou outras necessidades, sempre com plano individual.",
+          "Use somente o produto, a apresentação, a quantidade e o horário prescritos. Não copie receita de outra pessoa com síndrome de Williams, não dobre dose esquecida e não interrompa medicamento cardíaco, anti-hipertensivo, tireoidiano ou de saúde mental de forma abrupta.",
+          "Não inicie cálcio, vitamina D, multivitamínico ou suplemento mineral sem revisar rótulo, exames e orientação da equipe. Também não retire esses nutrientes da dieta por conta própria; tanto excesso quanto restrição inadequada podem causar problemas.",
+          "Antes de oferecer descongestionante, estimulante, fitoterápico, energético ou produto para emagrecer, confirme com a equipe, sobretudo se houver hipertensão, estreitamento arterial, palpitação, ansiedade ou medicamento de uso contínuo.",
+          "Se houver vômito após a dose, reação, desmaio, palpitação, sonolência intensa, rigidez, agitação muito diferente, dor muscular ou divergência entre receita e rótulo, não repita nem ajuste automaticamente; contate a equipe ou procure urgência conforme a gravidade.",
+          "Sedativo ou anestésico não deve ser administrado em casa para facilitar exame ou procedimento. A escolha e a monitorização exigem equipe treinada e avaliação cardiovascular específica da síndrome."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno e/ou fórmula no bebê e alimentação variada conforme idade e segurança para engolir. Sucção fraca, refluxo, cansaço cardíaco e dificuldade de coordenação podem tornar a mamada lenta; isso precisa de avaliação, não de força ou culpa.",
+          "Durante mamadas e refeições, observe tosse, engasgo, voz molhada, suor, respiração rápida, arroxeamento, refeições muito longas, recusa ou pouco ganho. Interrompa se houver dificuldade para respirar e procure atendimento quando a recuperação não for rápida.",
+          "Não dilua fórmula, não use espessante, sonda, suplemento calórico ou dieta de alta energia sem plano. Nutrição e fonoaudiologia podem ajustar volume, textura e via conforme deglutição, crescimento, coração, cálcio, rins e intestino.",
+          "Não retire leite, derivados ou outras fontes de cálcio apenas pelo diagnóstico. Quando há hipercalcemia ou hipercalciúria, qualquer ajuste deve ser feito com pediatria, endocrinologia ou nefrologia e nutrição, mantendo ingestão suficiente para crescimento e ossos.",
+          "Não ofereça suplemento com vitamina D ou cálcio sem indicação e monitorização. Se houver deficiência suspeita, confirme exames antes de tratar. Mantenha hidratação adequada conforme o plano; cardiopatia ou doença renal pode exigir orientação própria de líquidos.",
+          "Procure avaliação se houver recusa persistente, vômitos repetidos, barriga muito distendida ou dolorosa, constipação com prostração, muita sede e urina, pouca urina, perda de peso, fraqueza ou sonolência, pois desidratação e alteração do cálcio precisam ser excluídas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência diante de dificuldade importante para respirar, lábios ou pele arroxeados, desmaio, convulsão, confusão ou criança muito sonolenta e difícil de despertar.",
+          "Procure pronto atendimento por dor no peito, palpitação persistente, desmaio ou quase desmaio, suor e cansaço súbitos, respiração rápida, queda importante da tolerância ao esforço ou piora durante alimentação, especialmente em cardiopatia conhecida.",
+          "Vá imediatamente se houver dor de cabeça súbita ou muito forte, fraqueza de um lado, fala alterada, perda visual, dificuldade para andar, pressão muito acima da meta individual com sintomas ou mudança abrupta do estado mental.",
+          "Bebê menor de 3 meses com febre, temperatura baixa anormal, recusa repetida das mamadas, prostração, respiração alterada ou vômitos precisa de avaliação hospitalar imediata.",
+          "Procure urgência se houver vômitos persistentes, desidratação, constipação com barriga muito inchada e dor, fraqueza intensa, sonolência, muita sede ou urina, pois hipercalcemia, problema renal ou outra doença aguda pode estar presente.",
+          "Após sedação, anestesia ou novo medicamento, vá à emergência se surgir desmaio, dificuldade respiratória, palidez ou arroxeamento, dor no peito, batimento muito rápido ou irregular, pressão muito baixa, reação alérgica ou dificuldade para despertar."
+        ],
+        "QUANDO REAVALIAR": [
+          "Após o diagnóstico ou forte suspeita, confirme avaliação de genética e pediatria, cardiologia com pressão adequada e exames indicados, cálcio no sangue e na urina, rins e bexiga, tireoide, crescimento e alimentação, audição, visão, desenvolvimento, comportamento e sono.",
+          "Mantenha o calendário cardiológico definido pelo especialista e antecipe diante de cansaço, desmaio, dor no peito, palpitação, dor de cabeça, hipertensão ou redução de atividade. Um exame antigo normal não substitui a vigilância indicada para idade e anatomia.",
+          "Revise crescimento, alimentação, constipação, articulações, coluna, visão, audição, aprendizagem, ansiedade, atenção e sono nas consultas. Perda de habilidade, piora escolar, isolamento, crises de pânico ou comportamento muito diferente pedem avaliação mais cedo.",
+          "Reavalie cálcio, urina, rins e tireoide no intervalo do plano e antes se houver vômitos, constipação importante, fraqueza, muita sede ou urina, desidratação, pedra nos rins, dor urinária, baixo crescimento ou mudança de energia.",
+          "Antes de sedação, anestesia, cirurgia ou procedimento odontológico, faça revisão cardiológica e anestésica específica; confirme exames, hidratação, medicamentos e local com suporte adequado. Não espere o dia do procedimento para informar a síndrome.",
+          "Na adolescência, planeje transição para genética, cardiologia e atenção adulta, saúde mental, autonomia assistida, sexualidade, fertilidade e aconselhamento genético, escola ou trabalho, pressão, metabolismo e continuidade dos apoios."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Priorize cardiologia, alimentação, ganho de peso, cálcio, tireoide, rins e audição. Febre ou temperatura baixa, recusa, suor ou cansaço para mamar, respiração rápida, arroxeamento, prostração ou vômitos exigem avaliação imediata.",
+        "3a5m": "Revise mamadas, refluxo, deglutição, crescimento, coração, pressão, cálcio e desenvolvimento. Tosse, engasgos, suor, respiração rápida, irritabilidade persistente, constipação importante ou baixo ganho precisam de avaliação.",
+        "6a11m": "Mantenha cardiologia e monitorização de cálcio, urina, tireoide, audição, visão e desenvolvimento conforme o plano. Organize intervenção precoce e introdução alimentar segura; não use suplemento vitamínico sem revisar vitamina D e cálcio.",
+        "1a": "Revise coração, pressão, crescimento, alimentação, constipação, linguagem, marcha, audição e visão. Estimule comunicação e movimento com metas funcionais e antecipe retorno por regressão, desmaio, cansaço ou muita sede e urina.",
+        "2a5": "Mantenha cardiologia, pressão, cálcio e urina, tireoide, audição, visão e desenvolvimento. Prepare escola para linguagem, aprendizagem visuoespacial, ansiedade e sensibilidade a sons; ensine segurança com desconhecidos sem assustar a criança.",
+        "6a11": "Revise coração, pressão, crescimento, coluna e articulações, audição, visão, sono, ansiedade, atenção e aprendizagem. Atividade física e procedimentos dependem do plano cardíaco; não normalize dor no peito, desmaio ou queda de rendimento.",
+        "12a17": "Inclua o adolescente nas decisões e organize transição, cardiologia, pressão, tireoide e metabolismo, puberdade, saúde mental, autonomia e aconselhamento genético. Procedimentos com sedação continuam exigindo avaliação específica.",
+        "unknown": "Antes de adaptar a orientação, confirme idade, diagnóstico molecular, anatomia cardiovascular, pressão, histórico de sedação, cálcio e urina, rins, tireoide, crescimento, alimentação, audição, visão, desenvolvimento, comportamento e medicamentos."
+      },
+      "refs": [
+        {
+          "id": "pais143_op204_1",
+          "name": "Williams Syndrome — GeneReviews®",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK1249/"
+        },
+        {
+          "id": "pais143_op204_2",
+          "name": "Health Care Supervision for Children With Williams Syndrome",
+          "url": "https://publications.aap.org/pediatrics/article-abstract/145/2/e20193761/68224/Health-Care-Supervision-for-Children-With-Williams"
+        },
+        {
+          "id": "pais143_op204_3",
+          "name": "Williams syndrome — Knowledge Hub",
+          "url": "https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/williams-syndrome/"
+        },
+        {
+          "id": "pais143_op204_4",
+          "name": "Anaesthesia recommendations for Williams syndrome",
+          "url": "https://www.orphananesthesia.eu/rare-diseases/published-guidelines/williams-syndrome.html"
+        },
+        {
+          "id": "pais143_op204_5",
+          "name": "Peri-procedural risk stratification and management of patients with Williams syndrome",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28382779/"
+        },
+        {
+          "id": "pais143_op204_6",
+          "name": "Williams syndrome",
+          "url": "https://www.chop.edu/conditions-diseases/williams-syndrome"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1430",
+      "label": "Síndrome de Wiskott-Aldrich",
+      "entity": "Síndrome de Wiskott–Aldrich (erro inato da imunidade ligado ao X, com trombocitopenia e disfunção plaquetária, imunodeficiência e eczema)",
+      "assessment": "{\"classification\":\"VALID_SPECIFIC_DIAGNOSIS\",\"normalized_entity\":\"Síndrome de Wiskott–Aldrich (WAS)\",\"assessment\":\"Termo diagnóstico válido. A síndrome de Wiskott–Aldrich é uma doença genética ligada ao cromossomo X, geralmente reconhecida em meninos, que combina plaquetas em número baixo e com função alterada, imunodeficiência e eczema. A intensidade varia, mas mesmo apresentações inicialmente menos intensas podem evoluir com hemorragia grave, infecção, autoimunidade ou câncer; a orientação não deve usar uma contagem isolada de plaquetas nem a expressão histórica ‘trombocitopenia ligada ao X’ como garantia de doença leve.\",\"not_automatically_equivalent_to\":[\"Púrpura trombocitopênica imune, trombocitopenia neonatal ou qualquer contagem baixa de plaquetas sem confirmação etiológica\",\"Hemofilia, doença de von Willebrand ou outro distúrbio de coagulação\",\"Eczema isolado, alergia alimentar isolada ou infecções comuns da infância\",\"Imunodeficiência combinada de outra causa\",\"Forma ‘leve’ sem risco futuro, apenas porque os sintomas atuais são discretos\",\"Indicação automática de transplante, terapia gênica, esplenectomia, transfusão ou esquema antimicrobiano sem avaliação especializada\"],\"counting_rule\":\"Contar como uma entidade clínica específica para este ID. Não criar entidades extras para manifestações — sangramento, infecção, eczema ou autoimunidade — nem agrupar trombocitopenias ou imunodeficiências diferentes como sinônimos.\",\"pediatric_scope\":\"Do nascimento à adolescência. A trombocitopenia pode estar presente ao nascer, e hemorragia intracraniana e pneumonia por Pneumocystis são complicações precoces potencialmente fatais. Meninas portadoras costumam ser assintomáticas, mas uma menina com quadro compatível também exige avaliação genética e imunológica; sexo feminino não exclui automaticamente a doença.\",\"contagion_and_cause\":\"É genética e não contagiosa. Eczema e infecções podem coincidir com exposição a microrganismos, mas a síndrome não é causada por falta de higiene, alimento ou culpa dos responsáveis.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Wiskott–Aldrich afeta as plaquetas e a defesa contra infecções. Pode causar manchas vermelhas pequenas, roxos, sangramento pelo nariz ou gengiva, sangue nas fezes, infecções repetidas e eczema. A intensidade varia e uma contagem de plaquetas isolada não prevê todo o risco de sangramento.",
+          "Tenha um plano escrito da imunologia/hematologia com contatos, conduta para febre, sangramento, trauma, exposição a infecções, vacinas e procedimentos. Entregue cópia a familiares, cuidadores, creche e escola.",
+          "Observe diariamente novos roxos, petéquias, sangramento de nariz ou boca, sangue nas fezes, urina ou vômito, dor de cabeça, mudança de comportamento, febre, tosse, dificuldade para respirar e feridas de eczema com dor, calor, pus ou vermelhidão crescente.",
+          "Proteja a pele: mantenha unhas curtas, evite coçar e use hidratante espesso sem perfume conforme o plano. Siga a prescrição para eczema; pele rachada ou escoriada pode facilitar infecção.",
+          "Evite quedas, pancadas e esportes de contato conforme o plano individual. Use equipamentos de proteção apropriados e avise a equipe antes de cirurgia, procedimento dentário, injeção intramuscular, circuncisão ou qualquer procedimento invasivo.",
+          "Não ofereça remédio, fitoterápico ou suplemento que possa aumentar sangramento sem conferir com hematologia/farmácia. Mantenha uma lista atualizada de todos os produtos usados e mostre-a em cada atendimento.",
+          "A criança pode frequentar escola quando estiver clinicamente bem, com plano de emergência e comunicação rápida sobre surtos ou exposição relevante. Não isole por rotina nem esconda febre ou infecção para manter atividades."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave as mãos e ensine familiares e cuidadores a fazê-lo, mantenha higiene bucal suave e não compartilhe objetos de uso pessoal. Pessoas com infecção importante devem evitar contato próximo até orientação da equipe.",
+          "Para pequeno sangramento externo, use gaze ou pano limpo e pressão contínua, sem ficar levantando para conferir. Se não parar rapidamente, for volumoso, reaparecer ou ocorrer após trauma, siga o plano e procure urgência.",
+          "Use escova dental macia e evite brincadeiras ou objetos que machuquem gengiva e boca. Não introduza termômetro, supositório ou outro objeto no reto sem autorização da equipe, devido ao risco de sangramento e infecção.",
+          "No eczema, prefira banho curto e morno, sabonete suave somente onde necessário e hidratante logo depois. Não estoure bolhas, não esprema feridas e não aplique produto caseiro, álcool ou antibiótico tópico por conta própria.",
+          "Mantenha acompanhamento conjunto com imunologia pediátrica, hematologia e equipe de transplante quando indicada. Dermatologia, alergia, infectologia, odontologia, nutrição e genética podem ser necessárias conforme manifestações.",
+          "Converse com a equipe antes de viagens, aglomerações em surtos, contato com varicela ou sarampo, animais de risco e obras com muita poeira. A orientação depende do grau de imunodeficiência e do tratamento atual.",
+          "Organize vacinação dos conviventes conforme orientação do serviço; avise a equipe da criança antes de qualquer vacina viva administrada a ela ou de exposição relevante após vacinação de contato domiciliar."
+        ],
+        "MEDICAMENTOS": [
+          "Use imunoglobulina, antimicrobiano preventivo, tratamento do eczema e outros medicamentos exatamente como prescritos. Não altere dose, intervalo, apresentação ou duração, não dobre dose esquecida e não compartilhe tratamento de outra pessoa.",
+          "Febre ou suspeita de infecção exige contato rápido e investigação própria; não inicie sobra de antibiótico nem espere a próxima consulta. A imunodeficiência pode reduzir sinais típicos e algumas infecções precisam de tratamento hospitalar.",
+          "Vacinas vivas atenuadas, como rotavírus, tríplice viral e varicela, não devem ser dadas enquanto houver imunodeficiência combinada, salvo decisão explícita da equipe após eventual restauração imune. Vacinas não vivas podem ser indicadas, mas a resposta pode ser menor; o esquema deve ser coordenado com imunologia e CRIE.",
+          "Não use por conta própria medicamentos que prejudiquem a função das plaquetas ou aumentem o sangramento. Antes de qualquer analgésico, anti-inflamatório, antitérmico, fitoterápico ou suplemento, confira o produto permitido no plano individual.",
+          "Transfusão de plaquetas não é rotina apenas para elevar a contagem; pode ser necessária em sangramento significativo ou procedimento, por decisão hospitalar. Esplenectomia não é medida caseira nem solução geral e aumenta muito o risco de infecção grave.",
+          "Transplante de células-tronco hematopoéticas é opção potencialmente curativa e deve ser avaliado cedo por centro especializado. Terapia gênica existe em contextos específicos, mas elegibilidade, disponibilidade e autorização variam; nenhum desses tratamentos deve ser prometido ou adiado sem discussão individual.",
+          "Reação após medicamento ou infusão com falta de ar, inchaço de face/língua, desmaio, palidez intensa ou lesões extensas em pele/mucosas é emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não existe dieta que cure a síndrome. Ofereça alimentação variada e líquidos adequados à idade, salvo orientação individual por alergia confirmada, deglutição, rim, fígado ou tratamento.",
+          "Não retire leite, ovo, trigo ou vários alimentos apenas por eczema ou exame isolado. Suspeita de alergia, urticária, vômito repetido ou reação após alimento precisa de avaliação; restrições amplas podem prejudicar crescimento e nutrição.",
+          "Observe fezes pretas, vermelho vivo nas fezes, vômito com sangue, dor abdominal importante ou palidez progressiva. Sangramento digestivo pode ser manifestação da doença e exige avaliação urgente.",
+          "Ferro e outros suplementos só devem ser usados quando indicados e acompanhados; anemia pode resultar de sangramento, inflamação, autoimunidade ou outras causas, e não deve ser tratada por conta própria.",
+          "Durante febre ou infecção, ofereça pequenos volumes com frequência se a criança estiver acordada e engolindo bem. Incapacidade de beber, vômitos persistentes, pouca urina, boca muito seca ou sonolência exigem avaliação no mesmo dia ou emergência conforme a intensidade.",
+          "Depois de sedação, procedimento ou reação importante, ofereça alimentos e líquidos apenas quando a equipe liberar e a criança estiver alerta, respirando confortavelmente e engolindo com segurança."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Qualquer pancada importante na cabeça, mesmo sem corte aparente, ou dor de cabeça forte/nova, vômitos repetidos, sonolência incomum, confusão, convulsão, fraqueza, fala alterada ou mudança súbita de comportamento: chame emergência e informe a trombocitopenia.",
+          "Sangramento que não para com pressão contínua, é volumoso ou reaparece; sangue em vômito, fezes ou urina; fezes pretas; sangramento pela boca/nariz em grande quantidade; palidez intensa, tontura, desmaio ou batimento acelerado.",
+          "Febre acompanhada de prostração, dificuldade para despertar, respiração rápida ou difícil, lábios arroxeados, rigidez de nuca, confusão, convulsão, manchas arroxeadas que surgem rapidamente ou piora importante do estado geral.",
+          "Bebê pequeno com febre medida, recusa alimentar, gemência, temperatura instável, menor resposta, alteração de cor ou respiração: procurar emergência sem aguardar evolução em casa.",
+          "Eczema ou ferida com vermelhidão que se espalha, dor crescente, calor, pus, bolhas, febre ou listras vermelhas; lesões dolorosas agrupadas perto de olhos ou boca também exigem avaliação rápida.",
+          "Inchaço súbito de lábios, língua ou garganta, dificuldade para respirar, chiado, voz alterada, desmaio ou reação generalizada após alimento, medicamento ou infusão: acione emergência e use apenas o plano de anafilaxia prescrito.",
+          "Após esplenectomia, febre, calafrios ou mal-estar súbito devem ser tratados como emergência por risco de sepse rapidamente progressiva; leve o cartão/plano e informe a ausência do baço.",
+          "Não dirija sozinho com a criança instável ou sangrando muito. Acione o serviço de emergência e leve lista de medicamentos, relatório diagnóstico e plano da equipe, sem atrasar a saída para procurar documentos."
+        ],
+        "QUANDO REAVALIAR": [
+          "Após diagnóstico ou forte suspeita, a avaliação por imunologia pediátrica e hematologia deve ser rápida. A equipe define confirmação genética, gravidade, prevenção de infecções, risco de sangramento e momento de discutir tratamento definitivo.",
+          "Mantenha retornos regulares mesmo quando a criança parece bem. A revisão costuma incluir história de sangramentos e infecções, pele, crescimento, hemograma/plaquetas e avaliação de autoimunidade, órgãos e risco de linfoma conforme idade e curso clínico.",
+          "Avise no mesmo dia sobre febre, nova infecção, sangramento maior que o habitual, aumento súbito de petéquias/roxos, sangue nas fezes, piora do eczema, perda de peso, cansaço progressivo ou dificuldade para usar/obter medicamento.",
+          "Antecipe o retorno por gânglio persistente ou crescente, febre prolongada sem explicação, suor noturno, perda de peso, dor/inchaço articular, urina escura ou espumosa, inchaço, icterícia ou queda súbita de plaquetas; podem indicar autoimunidade, lesão de órgão ou malignidade e não devem ser atribuídos apenas à síndrome.",
+          "Reavalie o plano antes de vacina, procedimento dentário, cirurgia, viagem, início de escola, atividade esportiva, mudança de peso, nova prescrição ou troca de cuidador. Procedimentos eletivos devem ser coordenados com hematologia/imunologia.",
+          "Após transplante ou terapia gênica, mantenha seguimento do centro: recuperação imune, revacinação, prevenção de infecção, sangramento e efeitos tardios seguem cronograma próprio; não retome vacina viva ou suspenda profilaxia por conta própria.",
+          "Ofereça aconselhamento genético à família. A confirmação de variante ajuda a avaliar parentes e futuras gestações, sem atribuir culpa à mãe ou aos responsáveis."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Trombocitopenia pode existir desde o nascimento. Sangue nas fezes, petéquias, sangramento do umbigo/circuncisão, febre, menor resposta ou alteração respiratória exigem avaliação urgente; não realizar circuncisão ou procedimento invasivo sem avaliação hematológica. Vacina contra rotavírus é viva e deve ser discutida com imunologia antes da janela de aplicação.",
+        "3a5m": "Priorizar diagnóstico rápido, prevenção de infecções e avaliação de tratamento definitivo. Sangramento digestivo, hematomas sem explicação, eczema infectado, febre ou dificuldade respiratória não devem ser observados em casa sem contato imediato com a equipe.",
+        "6a11m": "A exposição a infecções aumenta. Coordenar vacinas com imunologia/CRIE, manter plano para febre e atenção a engatinhar/quedas; não oferecer vacina viva nem medicamento que afete plaquetas sem autorização explícita.",
+        "1a": "Adaptar a casa para quedas, orientar creche sobre febre, sangramento e eczema e manter cartão de emergência. Sangue nas fezes, trauma de cabeça, prostração ou respiração difícil é urgência.",
+        "2a5": "Ensinar a criança a avisar dor, sangramento ou mal-estar, sem culpá-la. Planejar brincadeiras e escola com segurança, higiene das mãos e plano escrito; evitar esportes de impacto conforme hematologia.",
+        "6a11": "Manter participação escolar e atividade segura, com equipe escolar treinada. Revisar adesão, saúde bucal, sinais de autoimunidade, gânglios persistentes e impacto emocional; procedimentos odontológicos precisam de planejamento prévio.",
+        "12a17": "Incluir o adolescente nas decisões, transição de cuidados e reconhecimento de sangramento, infecção e efeitos do tratamento. Discutir esporte, trabalho, viagens, saúde mental, sexualidade e aconselhamento genético de forma confidencial e adequada, sem suspender prevenção ou seguimento.",
+        "unknown": "Antes de personalizar, confirmar idade, sexo, variante WAS, contagem e tamanho das plaquetas, padrão de sangramento, infecções, eczema, autoimunidade, presença de baço, vacinas, profilaxias, imunoglobulina e situação de transplante/terapia gênica. Sem esses dados, usar apenas medidas universais de segurança e o plano da equipe."
+      },
+      "refs": [
+        {
+          "id": "pais143_op205_1",
+          "name": "WAS-Related Disorders",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK1178/"
+        },
+        {
+          "id": "pais143_op205_2",
+          "name": "Wiskott-Aldrich syndrome (WAS)",
+          "url": "https://primaryimmune.org/understanding-primary-immunodeficiency/types-of-pi/wiskott-aldrich-syndrome-was"
+        },
+        {
+          "id": "pais143_op205_3",
+          "name": "How I treat Wiskott-Aldrich syndrome",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40209058/"
+        },
+        {
+          "id": "pais143_op205_4",
+          "name": "Manual dos Centros de Referência para Imunobiológicos Especiais — 6ª edição",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-manuais/2024/manual-dos-centros-de-referencia-para-imunobiologicos-especiais-6a-edicao/@@download/file"
+        },
+        {
+          "id": "pais143_op205_5",
+          "name": "FDA Approves First Gene Therapy Treatment for Wiskott-Aldrich Syndrome",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-wiskott-aldrich-syndrome"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

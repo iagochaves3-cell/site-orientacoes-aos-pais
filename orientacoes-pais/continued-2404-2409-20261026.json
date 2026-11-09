@@ -1,0 +1,611 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T14:59:49.133Z",
+  "records": [
+    {
+      "jobId": "OP-2404",
+      "specific": true,
+      "key": "pdf1500_440",
+      "label": "Doença de Chagas aguda",
+      "entity": "Doença de Chagas aguda pediátrica, fase inicial da infecção pelo protozoário Trypanosoma cruzi, adquirida por transmissão vetorial, oral, congênita, transfusional, por transplante ou exposição acidental, com risco de miocardite, insuficiência cardíaca e meningoencefalite",
+      "assessment": "{\"classification\":\"VALID_SPECIFIC_PEDIATRIC_ENTITY\",\"normalized_entity\":\"Doença de Chagas aguda\",\"assessment\":\"O termo corresponde a uma fase clínica válida e de alto risco da infecção por Trypanosoma cruzi. A fase aguda pode ser assintomática ou inespecífica, mas febre prolongada após exposição epidemiológica, surto alimentar, contato com barbeiro, acidente com material contaminado ou nascimento de mãe infectada exige avaliação rápida. O rótulo não confirma sozinho infecção, mecanismo de transmissão, gravidade nem tratamento individual.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_440\",\"canonical_label\":\"Doença de Chagas aguda\",\"relationship\":\"CANONICAL_ACUTE_PHASE_ENTITY\",\"decision\":\"Usar pdf1500_440 como ficha específica da fase aguda. Não fundir automaticamente com doença de Chagas crônica, doença congênita sem confirmação, febre prolongada de outra causa, miocardite não chagásica ou surto alimentar sem demonstração de T. cruzi.\",\"counting_effect\":\"ONE_SPECIFIC_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Doença de Chagas crônica\",\"Exposição ao barbeiro sem infecção confirmada\",\"Consumo de alimento suspeito sem investigação\",\"Febre prolongada de outra causa\",\"Miocardite de outra etiologia\",\"Infecção congênita ainda não confirmada\",\"Reativação de doença de Chagas em imunossuprimido\"],\"pediatric_scope\":\"Abrange recém-nascidos, lactentes, crianças e adolescentes com suspeita ou confirmação de infecção aguda por T. cruzi. Recém-nascidos expostos, lactentes, imunossuprimidos e crianças com sinais cardíacos, neurológicos ou respiratórios exigem avaliação urgente e acompanhamento especializado.\",\"critical_context_to_confirm\":[\"Se há confirmação laboratorial ou apenas suspeita clínico-epidemiológica\",\"Data de início e duração da febre e dos demais sintomas\",\"Possível transmissão oral, vetorial, congênita, transfusional, por transplante ou acidental\",\"Outras pessoas que consumiram o mesmo alimento ou tiveram a mesma exposição\",\"Dor no peito, palpitações, desmaio, falta de ar, edema ou intolerância ao esforço\",\"Cefaleia intensa, convulsão, alteração do comportamento, sonolência ou rigidez\",\"Hepatomegalia, esplenomegalia, anemia, plaquetopenia ou edema documentados\",\"Imunossupressão, transplante, doença renal ou hepática e medicamentos atuais\",\"Plano de tratamento prescrito, exames de controle e seguimento com vigilância em saúde\"],\"counting_rule\":\"Contar pdf1500_440 como uma entidade clínica específica da fase aguda. Não contar sintomas, vias de transmissão ou complicações isoladas como novas doenças sem diagnóstico próprio.\",\"reason\":\"A fase aguda é tratável e a chance de cura é maior quando reconhecida cedo, mas pode evoluir com complicações cardíacas ou neurológicas graves; exige confirmação adequada, tratamento médico oportuno e investigação epidemiológica.\",\"next_action\":\"Integrar como ficha específica, testar seleção por ID/nome e oito idades, preservar alerta de miocardite/meningoencefalite, prevenção conforme via de transmissão, manejo de contatos pelo serviço de saúde e ausência de dose ou duração automática.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Chagas aguda é a fase inicial da infecção pelo parasita Trypanosoma cruzi. Pode começar com febre prolongada, cansaço, dor de cabeça, inchaço, gânglios aumentados, vômitos ou diarreia; algumas crianças têm poucos sintomas, mas ainda precisam de avaliação e seguimento.",
+          "Mantenha a criança em repouso relativo, em ambiente fresco e sob observação de um adulto. Registre temperatura, aceitação de líquidos, urina, vômitos, evacuações, inchaço, dor no peito, palpitações e qualquer alteração de comportamento.",
+          "A doença não costuma passar pelo contato cotidiano, abraço, tosse, talheres ou escola. Não isole nem estigmatize a criança; a equipe de saúde orientará investigação de familiares ou de pessoas que compartilharam alimento ou exposição.",
+          "Informe à equipe se outras pessoas que comeram o mesmo alimento estão com febre ou mal-estar, se houve encontro de barbeiro, contato com suas fezes, acidente com material biológico, transfusão, transplante ou mãe com doença de Chagas.",
+          "Não esmague um barbeiro encontrado em casa. Proteja a mão, coloque o inseto em recipiente fechado e leve-o ao serviço ou posto indicado pela vigilância local, sem tentar aplicar veneno ou manipular suas fezes.",
+          "Não espere a febre desaparecer para retornar ao serviço. A suspeita de fase aguda precisa de exames específicos, avaliação do coração e comunicação rápida à vigilância pelos profissionais de saúde."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Siga exatamente o plano de consultas, exames e coleta de sangue. A fase aguda pode exigir métodos diagnósticos diferentes da fase crônica; um teste isolado ou resultado antigo não deve ser interpretado em casa.",
+          "Evite esforço físico, esportes e brincadeiras intensas até que a equipe libere, especialmente se houver dor no peito, palpitação, desmaio, falta de ar ou suspeita de inflamação do coração.",
+          "Para reduzir risco vetorial, mantenha camas afastadas de paredes rachadas quando possível, use telas ou mosquiteiros e comunique a presença de barbeiros ao serviço de saúde. A inspeção e o controle do domicílio devem ser orientados pela vigilância.",
+          "Na prevenção por alimentos, use água potável, lave frutas e verduras, inspecione ingredientes antes de triturar ou bater, mantenha a área de preparo limpa e guarde alimentos protegidos em recipientes fechados.",
+          "Não descarte, distribua ou consuma novamente um alimento suspeito sem orientação da vigilância sanitária. Preserve informações de origem, lote, local e data de consumo para a investigação, quando isso puder ser feito com segurança.",
+          "A criança só deve voltar à escola e às atividades quando estiver clinicamente bem e liberada pela equipe. A escola não precisa excluir contatos saudáveis, mas deve seguir as orientações específicas da vigilância se houver investigação de surto."
+        ],
+        "MEDICAMENTOS": [
+          "Na doença de Chagas aguda confirmada, o tratamento antiparasitário deve ser iniciado o quanto antes e acompanhado por equipe médica. O medicamento principal no SUS é o benznidazol; a escolha, a apresentação e o esquema dependem do caso e não devem ser calculados pela família.",
+          "Dê somente o medicamento prescrito, nos horários definidos, e não altere, interrompa ou prolongue o tratamento por conta própria. Se uma dose for esquecida ou houver vômito após o uso, peça orientação à equipe antes de repetir.",
+          "Avise rapidamente sobre manchas na pele, coceira intensa, febre nova, feridas na boca, palidez, sangramentos, formigamento, fraqueza importante, vômitos persistentes ou perda de apetite durante o tratamento.",
+          "Procure emergência diante de falta de ar, inchaço de lábios ou língua, bolhas ou descamação extensa da pele, desmaio ou dificuldade para despertar após qualquer medicamento.",
+          "Não use antibiótico, antiparasitário, corticoide, anti-inflamatório, chá ou produto natural para substituir o tratamento. Remédios para febre ou dor só devem ser usados se já orientados para esta criança.",
+          "Leve às consultas todos os medicamentos, suplementos e resultados de exames. Esta ficha não define produto, dose, concentração, via nem duração."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos adequados à idade em pequenas quantidades e com frequência. Observe a urina; pouca urina, boca seca, ausência de lágrimas, olhos fundos ou incapacidade de beber são sinais de urgência.",
+          "Mantenha aleitamento materno quando possível e tolerado. A doença de Chagas aguda não exige suspender o leite materno automaticamente; situações especiais, como sangramento mamilar ou tratamento materno, precisam de orientação individual.",
+          "Ofereça alimentos habituais, leves e seguros conforme a aceitação, sem forçar. Priorize preparações bem cozidas e higiene cuidadosa durante investigação de possível transmissão oral.",
+          "Não ofereça novamente alimento ou bebida ligado a um surto suspeito até receber orientação da vigilância sanitária. Outros produtos do mesmo lote ou preparo também podem precisar de avaliação.",
+          "Não faça dieta restritiva, jejum ou suplemento por conta própria. Inchaço, dor abdominal, vômitos, diarreia ou perda de peso precisam de avaliação clínica, não apenas mudança alimentar.",
+          "Se houver vômitos repetidos, sonolência, falta de ar ou incapacidade de engolir com segurança, não force comida ou líquidos; procure atendimento imediato."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Falta de ar, respiração rápida ou trabalhosa, lábios arroxeados, dor no peito, palpitações intensas, desmaio ou cansaço extremo: procure emergência agora por possível comprometimento cardíaco.",
+          "Inchaço rápido no rosto, pernas ou corpo, barriga aumentando, pouca urina ou dificuldade para deitar e respirar: atendimento imediato por possível insuficiência cardíaca ou derrame.",
+          "Convulsão, confusão, irritabilidade inconsolável, sonolência intensa, rigidez de nuca, fraqueza súbita ou dificuldade para despertar: acione o serviço de emergência por possível comprometimento neurológico.",
+          "Vômitos ou diarreia repetidos com incapacidade de beber, pouca urina, boca muito seca, olhos fundos ou prostração: avaliação imediata por risco de desidratação.",
+          "Febre com piora rápida, palidez intensa, sangramento, manchas roxas, extremidades frias ou criança muito abatida: procure pronto atendimento sem aguardar a consulta programada.",
+          "Recém-nascido ou lactente pequeno com recusa de mamadas, respiração diferente, prostração, febre ou temperatura baixa, inchaço, icterícia ou convulsão: avaliação hospitalar imediata.",
+          "Criança imunossuprimida, transplantada ou em tratamento que reduza a imunidade com febre ou sintoma neurológico/cardiovascular: procurar atendimento imediato e informar o risco de doença de Chagas."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se existe suspeita de doença de Chagas aguda, a avaliação deve ocorrer no mesmo dia, mesmo que a criança pareça bem. A equipe definirá exames, necessidade de observação ou internação e comunicação à vigilância.",
+          "Após confirmação, mantenha retorno no prazo indicado pela equipe; o acompanhamento inclui resposta clínica, exames para o parasita, sangue, fígado, rins e avaliação do coração conforme o caso.",
+          "Retorne antes do previsto se a febre persistir, reaparecer ou vier acompanhada de inchaço, falta de ar, palpitações, dor no peito, desmaio, vômitos, diarreia, recusa alimentar ou redução da urina.",
+          "Durante o tratamento, reavalie rapidamente qualquer reação de pele, formigamento, fraqueza, perda importante de apetite, sangramento, palidez ou alteração nos exames; não interrompa o medicamento sem orientação, salvo emergência.",
+          "Pergunte quando serão repetidos os exames que confirmam resposta e quais familiares, irmãos, recém-nascidos ou pessoas expostas precisam ser testados. A investigação de contatos deve ser organizada pelo serviço de saúde.",
+          "Mesmo após melhora da fase aguda, não abandone o acompanhamento. A equipe definirá como confirmar cura, observar possíveis complicações e manter o seguimento ao longo do crescimento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido de mãe infectada ou bebê com recusa de mamadas, baixo peso, prematuridade, inchaço, fígado ou baço aumentados, palidez, manchas roxas, dificuldade respiratória ou alteração neurológica precisa de avaliação especializada imediata. A sorologia materna pode permanecer no bebê; o diagnóstico segue método e calendário definidos pela equipe.",
+        "3a5m": "Febre ou temperatura baixa, choro diferente, recusa de mamadas, menos urina, vômitos, inchaço ou sonolência exige avaliação no mesmo dia, com urgência imediata se houver dificuldade respiratória, convulsão ou prostração.",
+        "6a11m": "Observe mamadas, alimentação, urina, atividade e respiração. Informe doença materna, exposição alimentar ou vetorial e qualquer falha em completar o seguimento congênito; não use resultado isolado para descartar infecção.",
+        "1a": "Nessa idade, irritabilidade, choro fácil, recusa alimentar e menos brincadeiras podem acompanhar febre e mal-estar. Dificuldade para beber, pouca urina, edema, respiração rápida ou sonolência exige avaliação urgente.",
+        "2a5": "O adulto deve registrar febre, alimento compartilhado, local da exposição e sintomas de outras pessoas. A criança não deve voltar a esforço ou escola enquanto estiver febril ou sem liberação clínica.",
+        "6a11": "Ensine a relatar palpitação, dor no peito, tontura, falta de ar ou cansaço diferente. A escola pode apoiar hidratação, retorno gradual e educação sobre barbeiros e segurança dos alimentos sem estigmatizar.",
+        "12a17": "Inclua o adolescente no plano de exames e tratamento, converse sobre reações ao medicamento e evite esporte intenso até liberação. Investigue trabalho rural, manipulação de animais/alimentos, viagem, transfusão, transplante e imunossupressão sem julgamento.",
+        "unknown": "Sem idade, peso, via de exposição, confirmação e estado clínico, não é seguro indicar medicamento, dose, alimentação especial ou observação domiciliar. Suspeita aguda requer avaliação no mesmo dia; sintomas cardíacos, neurológicos, respiratórios ou desidratação exigem emergência."
+      },
+      "refs": [
+        {
+          "id": "pais243_op2404_1",
+          "name": "Doença de Chagas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doenca-de-chagas"
+        },
+        {
+          "id": "pais243_op2404_2",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Chagas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/doenca-de-chagas/view"
+        },
+        {
+          "id": "pais243_op2404_3",
+          "name": "Guia de Vigilância em Saúde: volume 2, 6ª edição revisada",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/guia-de-vigilancia-em-saude-volume-2-6a-edicao/view"
+        },
+        {
+          "id": "pais243_op2404_4",
+          "name": "Nota Técnica nº 4/2024 — Vigilância da Doença de Chagas Aguda e da Doença de Chagas Crônica",
+          "url": "https://www.saude.df.gov.br/documents/37101/0/SEI_GDF%2B-%2B146342438%2B-%2BNota%2BT%C3%A9cnica%2Bn%C2%BA%2B4%2B-%2B2024-SES-SVS-DIVEP-GVDT_Vigil%C3%A2ncia%2Bda%2BDoen%C3%A7a%2Bde%2BChagas%2BAguda%2Be%2Bda%2BDoen%C3%A7a%2Bde%2BChagas%2BCr%C3%B4nica.pdf/ec897a32-ccf0-a1f8-66bc-0d3a37059f3d?t=1729702774893"
+        },
+        {
+          "id": "pais243_op2404_5",
+          "name": "Chagas disease (American trypanosomiasis)",
+          "url": "https://www.who.int/health-topics/chagas-disease"
+        },
+        {
+          "id": "pais243_op2404_6",
+          "name": "Clinical Care of Chagas Disease",
+          "url": "https://www.cdc.gov/chagas/hcp/clinical-care/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2405",
+      "specific": true,
+      "key": "pdf1500_441",
+      "label": "Doença de Chagas congênita",
+      "entity": "Doença de Chagas congênita, infecção do feto ou recém-nascido pelo Trypanosoma cruzi transmitido por mãe infectada durante a gestação ou o parto, muitas vezes assintomática ao nascimento, mas tratável e com alta chance de cura quando reconhecida precocemente",
+      "assessment": "{\"classification\":\"VALID_SPECIFIC_PEDIATRIC_ENTITY\",\"normalized_entity\":\"Doença de Chagas congênita\",\"assessment\":\"O termo corresponde a entidade pediátrica específica e válida. Ter mãe com doença de Chagas define exposição e necessidade de investigação, não confirma automaticamente infecção no bebê. A maioria dos bebês infectados pode não ter sintomas; exames e seguimento precisam respeitar a idade porque anticorpos maternos podem permanecer circulantes nos primeiros meses.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_441\",\"canonical_label\":\"Doença de Chagas congênita\",\"relationship\":\"SPECIFIC_CONGENITAL_PRESENTATION_OF_CHAGAS_DISEASE\",\"related_key\":\"pdf1500_440\",\"decision\":\"Manter ficha própria para transmissão congênita, com foco em recém-nascido exposto, investigação seriada, tratamento precoce após confirmação e rastreio materno-infantil; não substituir pela ficha genérica de fase aguda.\",\"counting_effect\":\"ONE_SPECIFIC_PEDIATRIC_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Recém-nascido exposto, mas ainda sem confirmação de infecção\",\"Sorologia positiva no recém-nascido explicada por anticorpos maternos\",\"Doença de Chagas aguda adquirida por via oral ou vetorial\",\"Prematuridade ou baixo peso por outra causa\",\"Infecção congênita por outro agente\",\"Cardiopatia congênita estrutural\"],\"pediatric_scope\":\"Abrange recém-nascidos e lactentes expostos por mãe infectada, bebês com confirmação parasitológica ou molecular conforme protocolo local, crianças cuja investigação neonatal foi negativa ou incompleta e precisam de sorologia na idade adequada, e irmãos de caso congênito que ainda não foram avaliados.\",\"critical_context_to_confirm\":[\"Diagnóstico e fase da doença materna, tratamento anterior e possível imunossupressão\",\"Exames do bebê já realizados, método, data da coleta e resultado\",\"Se houve repetição da amostra quando o teste neonatal foi negativo ou positivo\",\"Idade atual e se a sorologia de seguimento na idade apropriada foi concluída\",\"Prematuridade, peso ao nascer, icterícia, anemia, plaquetas, aumento de fígado ou baço e sinais neurológicos\",\"Estado clínico atual, alimentação, ganho de peso, respiração, cor, nível de alerta e diurese\",\"Se o tratamento foi prescrito, qual equipe acompanha e se houve eventos adversos\",\"Se irmãos e outros filhos da mesma mãe já foram testados\"],\"counting_rule\":\"Contar pdf1500_441 como uma entidade clínica pediátrica específica. Não contar exposição materna, anticorpos passivos, prematuridade, baixo peso ou achados isolados como confirmação automática.\",\"reason\":\"A transmissão congênita pode ser silenciosa, mas a infecção não tratada persiste e pode causar doença cardíaca ou digestiva anos depois; identificação e tratamento precoces têm alta chance de cura.\",\"next_action\":\"Integrar como ficha específica e testar por ID/nome em oito idades, distinguindo bebê exposto de caso confirmado, preservando o seguimento laboratorial por idade e impedindo qualquer medicamento ou dose automática.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Chagas congênita acontece quando o parasita Trypanosoma cruzi passa de uma mãe infectada para o bebê durante a gestação ou o parto. Não é transmitida pelo abraço, pelo colo, pela troca de fraldas ou pelo convívio comum.",
+          "Ter mãe com doença de Chagas não significa que o bebê esteja infectado. O bebê precisa de investigação e seguimento mesmo se parecer saudável, porque muitos casos não causam sintomas ao nascer.",
+          "Guarde a caderneta, os resultados maternos e todos os exames do bebê. Anote data, método e serviço que coletou cada amostra; um exame isolado fora da idade adequada pode não confirmar nem excluir a infecção.",
+          "Observe mamadas, ganho de peso, urina, cor da pele, respiração, nível de alerta e aumento da barriga. Procure ajuda se houver piora; não espere aparecer um sinal típico.",
+          "Se a criança recebeu tratamento, cumpra consultas e exames de controle até a equipe documentar a resposta. Melhorar ou permanecer sem sintomas não permite interromper o acompanhamento.",
+          "Peça à equipe para confirmar se irmãos e outros filhos da mesma mãe já foram avaliados. Isso não significa que estejam doentes, mas evita perder casos sem sintomas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Leve o bebê às coletas e consultas nas datas indicadas. Quando um teste neonatal é negativo, outras amostras e a sorologia de seguimento podem ser necessárias porque nenhum exame isolado encerra todos os casos.",
+          "Não interprete uma sorologia positiva de recém-nascido por conta própria: anticorpos da mãe podem circular no bebê durante meses. A equipe usa idade, método, repetição e evolução dos resultados para concluir.",
+          "Mantenha o acompanhamento de crescimento e desenvolvimento, incluindo peso, comprimento ou altura, perímetro cefálico nos lactentes e marcos do desenvolvimento.",
+          "Amamentação e cuidado pele a pele não devem ser interrompidos por iniciativa da família. Se a mãe estiver na fase aguda ou tiver mamilo com sangramento, fissura importante ou lesão, avise imediatamente a equipe para orientação individual antes da próxima mamada.",
+          "A infecção congênita não torna a criança perigosa para colegas. Creche e escola não exigem afastamento por contágio; informe apenas as necessidades de consulta, tratamento e sinais de alarme.",
+          "Não use inseticida doméstico diretamente no bebê. Em áreas com barbeiro, avise a vigilância ou unidade de saúde, preserve o inseto com segurança conforme orientação local e melhore barreiras da casa sem manipulação desnecessária."
+        ],
+        "MEDICAMENTOS": [
+          "Toda criança com doença de Chagas congênita confirmada deve ser avaliada rapidamente para tratamento antiparasitário. A chance de cura é maior quando o tratamento começa cedo.",
+          "Use somente o medicamento prescrito pela equipe responsável. Esta orientação não define produto, dose, apresentação, horário nem duração, porque dependem do peso, da idade, do protocolo e do acompanhamento clínico e laboratorial.",
+          "Não inicie, divida, triture, substitua ou interrompa o antiparasitário por conta própria. Se houver dificuldade para obter ou administrar a apresentação prescrita, fale com o serviço antes de modificar o plano.",
+          "Durante o tratamento, informe prontamente manchas ou bolhas na pele, inchaço, febre nova, vômitos persistentes, perda de apetite importante, sonolência incomum, formigamento, sangramento ou outro sintoma novo.",
+          "Não ofereça chás, ervas, vermífugos, antibióticos ou produtos anunciados como cura. Eles não substituem o tratamento indicado e podem causar dano ou confundir eventos adversos.",
+          "Leve à consulta todos os medicamentos e suplementos usados pela criança. A equipe decide quais exames e controles são necessários antes, durante e depois do tratamento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha leite materno ou fórmula e alimentação adequada à idade, salvo orientação individual da equipe. A doença não exige dieta especial por conta própria.",
+          "Ofereça líquidos e alimentos conforme a idade e a tolerância. Em lactentes, não dê água, chá ou solução caseira no lugar das mamadas sem orientação profissional.",
+          "Observe se o bebê cansa, sua, fica arroxeado, respira mais rápido ou precisa parar repetidamente durante a mamada. Esses sinais exigem avaliação, pois podem indicar comprometimento cardíaco ou respiratório.",
+          "Vômitos repetidos, recusa persistente, barriga muito aumentada ou dificuldade para ganhar peso precisam de reavaliação; não force grandes volumes nem atribua tudo ao medicamento.",
+          "Se houver diarreia ou vômitos leves e a criança estiver alerta, ofereça líquidos apropriados à idade em pequenas quantidades frequentes enquanto busca orientação. Pouca urina, prostração ou incapacidade de beber é urgência.",
+          "Não use vitaminas, ferro ou outros suplementos preventivamente sem exame e prescrição. Deficiências documentadas são tratadas pela equipe com produto e acompanhamento adequados."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bebê muito sonolento, muito mole, irritável de forma inconsolável, com convulsão, tremores repetidos, olhar parado ou dificuldade para despertar: acione emergência agora.",
+          "Respiração rápida ou difícil, gemência, afundamento entre as costelas, lábios arroxeados, pausas respiratórias ou cansaço intenso para mamar: atendimento imediato.",
+          "Desmaio, palidez ou arroxeamento súbito, batimento muito rápido ou irregular percebido com mal-estar, suor frio ou piora rápida: procurar emergência por possível comprometimento cardíaco.",
+          "Febre em recém-nascido ou lactente pequeno, temperatura baixa persistente, recusa de mamadas, prostração ou piora do estado geral: avaliação imediata, mesmo que ainda não exista confirmação de Chagas.",
+          "Icterícia que aumenta, sangramento, manchas roxas sem trauma, inchaço generalizado ou barriga que cresce rapidamente: procurar pronto atendimento.",
+          "Vômitos repetidos, incapacidade de mamar ou beber, pouca urina, boca seca, olhos fundos ou ausência de lágrimas: atendimento imediato por risco de desidratação.",
+          "Manchas extensas, bolhas, feridas em boca ou olhos, inchaço da face, falta de ar ou desmaio durante tratamento: suspender apenas a próxima administração até contato urgente com a equipe e ir à emergência; levar a embalagem e a prescrição."
+        ],
+        "QUANDO REAVALIAR": [
+          "Recém-nascido de mãe com doença de Chagas deve ser avaliado ainda no período neonatal e ter o plano de exames registrado antes da alta da maternidade ou assim que a exposição for reconhecida.",
+          "Se os primeiros exames não confirmarem a infecção, mantenha as novas coletas e a sorologia de seguimento na idade indicada. No protocolo brasileiro, a sorologia aos nove meses é recomendada quando a investigação neonatal foi negativa.",
+          "Resultado positivo, inconclusivo ou discordante deve ser discutido rapidamente com pediatria ou infectologia; não espere a consulta de rotina para definir repetição, confirmação e tratamento.",
+          "Após confirmação, reavalie sem demora para iniciar o tratamento e depois nos intervalos definidos pela equipe. O seguimento continua até comprovar cura ou resposta adequada, não apenas até acabar o medicamento.",
+          "Antecipe a consulta se houver dificuldade para mamar, baixo ganho de peso, febre prolongada, palidez, icterícia, inchaço, barriga aumentada, cansaço, vômitos ou qualquer possível evento adverso.",
+          "Crianças mais velhas que perderam o seguimento, irmãos não testados e filhos de mãe diagnosticada posteriormente devem retornar para investigação mesmo sem sintomas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Prioridade máxima para investigação neonatal, repetição de amostras conforme o protocolo local, avaliação de prematuridade, peso, fígado e baço, sangue, coração, respiração e neurologia. Anticorpo materno pode confundir a sorologia; não perder seguimento.",
+        "3a5m": "Confirmar quais exames já foram feitos e manter a agenda de seguimento. Sintomas ausentes não encerram a investigação. Monitorar crescimento, alimentação, desenvolvimento, fígado e baço e possíveis sinais cardíacos ou neurológicos.",
+        "6a11m": "Garantir a sorologia na idade indicada e a interpretação especializada, especialmente aos nove meses quando a investigação neonatal foi negativa. Persistência de anticorpos maternos antes da janela adequada não deve ser chamada de infecção confirmada por conta própria.",
+        "1a": "Se o seguimento foi perdido, retomar a investigação imediatamente. Criança confirmada ainda se beneficia de tratamento precoce; acompanhar peso, desenvolvimento e possíveis manifestações cardíacas, digestivas ou neurológicas.",
+        "2a5": "Investigar se houve exposição materna e exames anteriores. Explicar à creche que não há transmissão pelo convívio. Manter seguimento de crescimento e desenvolvimento e concluir controles pós-tratamento.",
+        "6a11": "Criança nascida de mãe infectada e nunca testada precisa de avaliação mesmo sem sintomas. Perguntar sobre cansaço, palpitação, desmaio, dor abdominal, constipação ou dificuldade para engolir sem presumir complicação.",
+        "12a17": "Revisar histórico materno, exames e tratamento; orientar o adolescente diretamente sobre seguimento, não estigmatização e transição para cuidado adulto. Sintomas cardíacos, digestivos ou neurológicos exigem avaliação, mas ausência de sintomas não exclui infecção.",
+        "unknown": "Sem idade, história materna e resultados, não confirmar nem excluir infecção e não prescrever tratamento. Recuperar registros, organizar avaliação pediátrica e procurar urgência diante de alteração neurológica, respiratória, cardíaca, sangramento, desidratação ou piora rápida."
+      },
+      "refs": [
+        {
+          "id": "pais243_op2405_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Chagas",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/doenca-de-chagas/@@download/file"
+        },
+        {
+          "id": "pais243_op2405_2",
+          "name": "Doença de Chagas — Saúde de A a Z",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doenca-de-chagas"
+        },
+        {
+          "id": "pais243_op2405_3",
+          "name": "Clinical Considerations for Congenital Chagas Disease",
+          "url": "https://www.cdc.gov/chagas/hcp/clinical-care/congenital.html"
+        },
+        {
+          "id": "pais243_op2405_4",
+          "name": "Chagas disease (American trypanosomiasis)",
+          "url": "https://www.who.int/health-topics/chagas-disease"
+        },
+        {
+          "id": "pais243_op2405_5",
+          "name": "Doença de Chagas",
+          "url": "https://www.paho.org/pt/topicos/doenca-chagas"
+        },
+        {
+          "id": "pais243_op2405_6",
+          "name": "Congenital Chagas Disease",
+          "url": "https://stacks.cdc.gov/view/cdc/130374/cdc_130374_DS1.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2406",
+      "specific": true,
+      "key": "pdf1500_442",
+      "label": "Doença de Crohn",
+      "entity": "Doença de Crohn pediátrica, doença inflamatória intestinal crônica imunomediada que pode comprometer qualquer segmento do trato gastrointestinal e afetar nutrição, crescimento, puberdade e outros órgãos",
+      "assessment": "{\"classification\":\"VALID_CANONICAL_PEDIATRIC_ENTITY\",\"normalized_entity\":\"Doença de Crohn pediátrica\",\"assessment\":\"O termo corresponde a entidade pediátrica válida e crônica. O rótulo isolado não informa localização, comportamento inflamatório, estenose, fístula, doença perianal, atividade, complicações, tratamento atual ou se o diagnóstico já foi confirmado; esses dados precisam ser documentados antes de individualizar cuidados.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"CANONICAL_BASE_ENTITY\",\"decision\":\"Usar pdf1500_442 como núcleo clínico específico. Não equiparar automaticamente a retocolite ulcerativa, colite infecciosa, síndrome do intestino irritável, alergia alimentar, doença celíaca ou dor abdominal funcional.\",\"counting_effect\":\"ONE_CANONICAL_CLINICAL_ENTITY\"},\"not_automatically_equivalent_to\":[\"Retocolite ulcerativa\",\"Colite infecciosa\",\"Síndrome do intestino irritável\",\"Doença celíaca\",\"Alergia alimentar\",\"Dor abdominal funcional\",\"Diarreia crônica sem diagnóstico estabelecido\"],\"pediatric_scope\":\"Abrange bebês, crianças e adolescentes com doença confirmada ou em investigação especializada. Apresentações muito precoces exigem atenção especial a imunodeficiências e causas monogênicas; em qualquer idade, crescimento, nutrição, puberdade, saúde óssea, escola e bem-estar emocional fazem parte do cuidado.\",\"critical_context_to_confirm\":[\"Se o diagnóstico foi confirmado por gastroenterologista pediátrico ou permanece em investigação\",\"Localização e comportamento da doença, inclusive estenose, fístula, abscesso ou acometimento perianal\",\"Sintomas atuais, frequência das evacuações, sangue, dor, vômitos, febre, hidratação e estado geral\",\"Peso, estatura, velocidade de crescimento, puberdade, ingestão alimentar e deficiências documentadas\",\"Medicamentos em uso, adesão, efeitos adversos, exames de segurança e plano escrito para intercorrências\",\"Cirurgias, internações, estomas, acessos, nutrição enteral ou outras necessidades já definidas\",\"Vacinação, exposição a infecções e grau real de imunossupressão\",\"Impacto na escola, sono, atividades, saúde mental, imagem corporal e transição do adolescente\"],\"counting_rule\":\"Contar pdf1500_442 como uma entidade clínica específica. Localizações, manifestações, atividade, complicações e modalidades terapêuticas não são automaticamente novas doenças.\",\"reason\":\"Doença pediátrica válida, com risco de inflamação persistente, desnutrição, atraso do crescimento e puberdade, estenose, obstrução, fístula, abscesso e necessidade de cirurgia; exige seguimento multidisciplinar e avaliação urgente diante de sinais de complicação.\",\"next_action\":\"Integrar como ficha específica e testar nome/ID, oito idades, distinção entre suspeita e diagnóstico confirmado, ausência de dieta ou medicação inventada, alertas de obstrução, sangramento, abscesso, desidratação e infecção sob imunossupressão.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn causa inflamação crônica no aparelho digestivo e pode alternar períodos de melhora e piora. Não é contagiosa e não é causada por culpa da criança, dos pais ou por um único alimento.",
+          "Observe e registre dor, evacuações, sangue ou muco, febre, vômitos, apetite, peso, cansaço, feridas na boca, dor ou secreção perto do ânus e faltas à escola. Mudanças ao longo do tempo ajudam a equipe a reconhecer atividade ou complicações.",
+          "Mantenha o plano do gastroenterologista mesmo quando a criança parece bem. Ausência de sintomas não garante que a inflamação desapareceu; exames e crescimento também orientam o acompanhamento.",
+          "Facilite acesso rápido ao banheiro, roupa extra e hidratação na escola e em passeios. Combine um plano discreto com professores e cuidadores, sem afastar a criança automaticamente das atividades que tolera.",
+          "Cuide da pele ao redor do ânus com limpeza suave e secagem sem esfregar. Dor crescente, caroço, calor, vermelhidão, pus ou secreção nessa região precisa de avaliação rápida e não deve ser espremido.",
+          "Acolha medo, tristeza, ansiedade, isolamento ou vergonha. Dor persistente, restrições e alterações do corpo podem afetar a saúde emocional; comunique a equipe e busque apoio sem tratar os sintomas como imaginários."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha consultas, exames e medidas de peso e altura no calendário. Leve a lista atualizada de medicamentos, resultados recentes e dúvidas; não altere o plano apenas porque um exame isolado melhorou ou piorou.",
+          "Sono regular, atividade física compatível com o estado clínico e pausas durante pioras ajudam o bem-estar. Evite esforço intenso quando houver febre, anemia sintomática, desidratação, dor importante ou orientação de restrição.",
+          "Não fume e não exponha a criança à fumaça. Na adolescência, converse diretamente sobre tabaco e vape, pois fumar está associado a pior evolução da doença de Crohn.",
+          "Revise a carteira de vacinação com a equipe antes de iniciar ou intensificar tratamento que reduza a imunidade. Algumas vacinas vivas podem não ser apropriadas durante imunossupressão; não adie nem aplique por conta própria sem conferir.",
+          "Combine com a escola acesso ao banheiro, água, refeições, recuperação de conteúdo e saídas para consultas. A doença pode exigir adaptações, mas não justifica isolamento nem exclusão escolar.",
+          "Não use compressas quentes sobre área abdominal muito dolorosa ou massa dolorosa e não manipule fístulas, drenos, estomas ou lesões perianais fora das orientações individuais da equipe."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos prescritos para esta criança, nos horários e pela via definidos. Esta orientação não escolhe remédio, dose, concentração ou duração.",
+          "Não interrompa corticoide, imunomodulador, biológico ou outro tratamento por conta própria, mesmo em melhora. Interrupção ou atraso pode favorecer recaída; diante de efeito adverso ou infecção, contate a equipe para orientação individual.",
+          "Não use anti-inflamatório, antidiarreico, laxante, antibiótico, corticoide, probiótico, erva ou suplemento por conta própria. Alguns podem agravar sintomas, mascarar complicações ou interagir com o tratamento.",
+          "Se houver febre, contato com doença transmissível, ferida infectada ou necessidade de vacina, avise que a criança tem Crohn e informe o tratamento atual. O grau de imunossupressão depende do medicamento e não deve ser presumido pelo nome da doença.",
+          "Faça os exames de segurança solicitados. Alterações do sangue, fígado, rim, inflamação ou concentração de medicamento podem exigir ajuste pela equipe, nunca pela família.",
+          "Em vômito logo após uma dose, dose esquecida ou dificuldade para obter o medicamento, não repita nem dobre automaticamente. Consulte o plano escrito, farmacêutico ou equipe responsável."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e suficiente para crescer, conforme tolerância e orientação do nutricionista. Não existe uma dieta caseira única que sirva para todas as crianças com Crohn.",
+          "Não retire glúten, leite, fibras, frutas, verduras ou outros grupos inteiros sem indicação. Restrições desnecessárias podem piorar desnutrição, saúde óssea, crescimento e relação com a comida.",
+          "Em períodos de pouco apetite, ofereça pequenas refeições frequentes e líquidos adequados à idade. Registre o que foi tolerado, mas não force alimentação durante dor intensa, vômitos repetidos ou suspeita de obstrução.",
+          "Nutrição enteral exclusiva ou dietas terapêuticas podem fazer parte do tratamento pediátrico, mas exigem fórmula, quantidade, duração, monitoramento e plano de reintrodução definidos pela equipe. Não improvise fórmulas ou dietas de internet.",
+          "Vitaminas, ferro e outros suplementos só devem ser usados quando houver necessidade avaliada e prescrição. Excesso também pode fazer mal e não substitui o controle da inflamação.",
+          "Diarreia e vômitos aumentam o risco de desidratação. Ofereça líquidos em pequenos volumes frequentes se a criança estiver alerta e tolerando; pouca urina, boca seca, tontura, prostração ou incapacidade de beber exige atendimento urgente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte ou crescente, barriga muito distendida, vômitos repetidos ou verdes, incapacidade de eliminar gases ou fezes: procure emergência por risco de obstrução ou outra complicação abdominal.",
+          "Sangramento em grande quantidade, fezes muito escuras, vômito com sangue, palidez intensa, desmaio, coração muito acelerado ou fraqueza importante: atendimento imediato.",
+          "Febre com prostração, calafrios, confusão, dificuldade para respirar ou piora rápida, especialmente durante tratamento que reduz a imunidade: procure atendimento imediato e informe todos os medicamentos.",
+          "Dor, inchaço, vermelhidão, calor ou secreção perto do ânus, nádega ou abdome, principalmente com febre: avaliação urgente por possível abscesso ou fístula infectada; não esprema.",
+          "Vômitos ou diarreia com incapacidade de beber, pouca urina, boca muito seca, olhos fundos, sonolência ou tontura: atendimento urgente por desidratação.",
+          "Criança difícil de acordar, confusa, desmaiando, com convulsão, muito mole ou com dor insuportável: acione o serviço de emergência.",
+          "Dor no peito, falta de ar súbita, tosse com sangue ou inchaço doloroso de uma perna: emergência, pois doença inflamatória ativa e internação podem aumentar o risco de coágulo."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se há suspeita de Crohn, marque avaliação com pediatra ou gastroenterologista pediátrico; não inicie dieta de exclusão, corticoide ou antibiótico para testar o diagnóstico.",
+          "Após diagnóstico ou mudança de tratamento, cumpra o retorno definido pela equipe. A resposta precisa ser avaliada por sintomas, crescimento e marcadores objetivos; não espere piora grave para retornar.",
+          "Antecipe a consulta se aumentarem dor, diarreia, sangue, febre, vômitos, lesões perianais, perda de peso, cansaço, faltas escolares ou necessidade de acordar à noite para evacuar.",
+          "Informe rapidamente perda de apetite, desaceleração do crescimento, atraso da puberdade, fratura, dor óssea, aftas frequentes, olho vermelho doloroso, dor ou inchaço articular ou lesões de pele.",
+          "Peça orientação antes de viagens, vacinas, cirurgias, procedimentos odontológicos importantes ou novos medicamentos. Não suspenda o tratamento preventivamente sem plano.",
+          "Na adolescência, revise adesão, saúde mental, sexualidade, fertilidade futura, álcool, tabaco e transição para o cuidado adulto de forma privada e respeitosa, mantendo apoio familiar."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crohn é incomum nessa idade. Sangue nas fezes, vômitos, distensão, febre, recusa de mamadas, pouca urina ou baixo ganho de peso exigem avaliação pediátrica rápida para causas infecciosas, alérgicas, anatômicas, imunológicas e monogênicas; não testar dieta ou remédio em casa.",
+        "3a5m": "Sintomas persistentes, sangue, lesão perianal, febre ou falha de crescimento precisam de investigação especializada e ampla. Manter alimentação adequada à idade, sem exclusões improvisadas, e procurar urgência diante de desidratação ou piora do estado geral.",
+        "6a11m": "Registre ingestão, evacuações, vômitos e curva de crescimento. Doença inflamatória intestinal muito precoce pode exigir avaliação imunológica ou genética; não atribuir sangue ou diarreia automaticamente ao Crohn já cadastrado.",
+        "1a": "Crianças pequenas desidratam e perdem peso rapidamente. Supervisionar líquidos, alimentação e urina; diarreia intensa, vômitos, prostração, distensão ou dor forte exige atendimento imediato.",
+        "2a5": "Adultos devem administrar o tratamento, observar crescimento e região perianal e combinar acesso ao banheiro e refeições com a escola. Evitar culpa por acidentes e dietas restritivas sem nutricionista.",
+        "6a11": "Acompanhar altura, peso, energia, puberdade inicial, sono e desempenho escolar. Ensinar a criança a relatar dor, sangue, febre ou lesão perianal e a pedir banheiro, mantendo o adulto responsável por medicamentos e decisões.",
+        "12a17": "Compartilhar progressivamente o manejo, revisar adesão sem julgamento e abordar imagem corporal, alimentação, escola, sexualidade, tabaco e saúde mental. Preparar transição para a equipe adulta sem interromper seguimento.",
+        "unknown": "Sem idade, confirmação, atividade e tratamento atual, não é seguro recomendar dieta, suplemento, medicamento, vacina ou intervalo de retorno individual. Manter o plano existente e procurar urgência diante de obstrução, sangramento importante, abscesso, desidratação, alteração neurológica ou piora rápida."
+      },
+      "refs": [
+        {
+          "id": "pais243_op2406_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/pcdt-doenca-de-crohn.pdf/view"
+        },
+        {
+          "id": "pais243_op2406_2",
+          "name": "Management of Pediatric Crohn's Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://academic.oup.com/ecco-jcc/article/20/8/jjag084/8766823"
+        },
+        {
+          "id": "pais243_op2406_3",
+          "name": "Crohn's disease: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/NG129/chapter/recommendations"
+        },
+        {
+          "id": "pais243_op2406_4",
+          "name": "Inflammatory Bowel Disease — Pediatric professional resources",
+          "url": "https://naspghan.org/professional-resources/medical-professional-resources/inflammatory-bowel-disease/"
+        },
+        {
+          "id": "pais243_op2406_5",
+          "name": "Definition & Facts for Crohn's Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts"
+        },
+        {
+          "id": "pais243_op2406_6",
+          "name": "Eating, Diet, & Nutrition for Crohn's Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/eating-diet-nutrition"
+        },
+        {
+          "id": "pais243_op2406_7",
+          "name": "Altered Immunocompetence — General Best Practice Guidelines for Immunization",
+          "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/altered-immunocompetence.html"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2407",
+      "specific": false,
+      "key": "pdf1500_443",
+      "label": "Doença de Crohn agudo",
+      "entity": "Doença de Crohn; ‘agudo’ não é subtipo autônomo, mas sintomas novos ou intensos podem representar exacerbação, infecção ou complicação e exigem avaliação proporcional à gravidade",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNSUPPORTED_ACUTE_QUALIFIER\",\"normalized_entity\":\"Doença de Crohn\",\"assessment\":\"A doença de Crohn é uma doença inflamatória intestinal crônica, com períodos de remissão e atividade. Diretrizes descrevem apresentação, atividade, exacerbação ou flare e classificam a doença por localização, comportamento, risco e gravidade; não reconhecem ‘Doença de Crohn agudo’ como entidade pediátrica autônoma. O qualificador isolado não confirma inflamação ativa, intensidade, infecção, obstrução, abscesso, fístula, perfuração nem indicação de tratamento. Ele deve permanecer rastreado, ser mapeado ao núcleo pdf1500_442 e levar à avaliação dos sintomas atuais, hidratação, crescimento, sinais de complicação e causas alternativas antes de qualquer mudança terapêutica.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"SAME_BASE_ENTITY_WITH_UNSUPPORTED_ACUTE_QUALIFIER\",\"decision\":\"Preservar pdf1500_443 e o nome cadastral, compartilhar a orientação clínica-base de pdf1500_442 e contar zero entidade clínica adicional. Quando houver piora rápida, tratar como possível exacerbação ou complicação a confirmar, sem inferir atividade, gravidade ou esquema terapêutico.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_442\"},\"not_automatically_equivalent_to\":[\"Exacerbação inflamatória confirmada da doença de Crohn\",\"Doença moderada, grave ou fulminante\",\"Gastroenterite ou outra infecção intestinal\",\"Obstrução, estenose, perfuração, abscesso ou fístula\",\"Sangramento gastrointestinal importante\",\"Doença perianal ativa ou abscesso perianal\",\"Falha, perda de resposta ou efeito adverso do tratamento\",\"Indicação automática de corticoide, antibiótico, biológico, dieta terapêutica, internação ou cirurgia\"],\"pediatric_scope\":\"Em crianças, Crohn pode afetar crescimento, puberdade, nutrição, escola e saúde emocional. Sintomas novos ou piores podem refletir atividade, infecção ou complicação; lactentes e crianças muito pequenas com inflamação intestinal precisam de avaliação especializada, inclusive para formas de início muito precoce. A palavra ‘agudo’ não substitui história, exame, crescimento, exames de sangue e fezes, imagem ou endoscopia quando indicados.\",\"critical_context_to_confirm\":[\"Se o diagnóstico de doença de Crohn foi confirmado por gastroenterologia pediátrica ou ainda está em investigação\",\"Dor, localização, intensidade, distensão, vômitos, evacuações, sangue, muco e sintomas noturnos\",\"Febre, prostração, palidez, perda de peso, ingestão de líquidos, urina e sinais de desidratação\",\"Eliminação de fezes e gases e presença de vômito verde, que podem sugerir obstrução\",\"Dor, inchaço, secreção, fissura ou caroço ao redor do ânus, que podem indicar doença perianal ou abscesso\",\"Medicamentos prescritos, adesão, doses perdidas, uso recente de antibiótico e imunossupressão\",\"Exposição a infecção, viagens e resultados de exames de fezes, pois infecção pode imitar exacerbação\",\"Crescimento, puberdade, anemia, alimentação, faltas escolares e impacto emocional\"],\"counting_rule\":\"Contar pdf1500_442 e pdf1500_443 como uma única entidade clínica-base. ‘Agudo’ não acrescenta doença e não comprova flare, gravidade ou complicação.\",\"reason\":\"Crohn é crônica e pode apresentar exacerbações agudas, mas ‘agudo’ não é subtipo autônomo. A atividade e as complicações precisam ser confirmadas clinicamente.\",\"next_action\":\"Mapear pdf1500_443 a pdf1500_442, preservar o rótulo e testar que a seleção não gera diagnóstico de flare, gravidade, infecção ou tratamento automático. Manter SOURCE_TERM_ISSUE e specific=false até integração coordenada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn é crônica e pode alternar períodos sem sintomas com períodos de atividade. O termo ‘agudo’ no cadastro não confirma que a doença esteja ativa nem informa a gravidade.",
+          "Se houver diagnóstico confirmado, mantenha o plano escrito da equipe e registre dor, número e aspecto das evacuações, sangue, febre, vômitos, apetite, líquidos, urina, peso e sintomas ao redor do ânus.",
+          "Avise a equipe de doença inflamatória intestinal quando os sintomas surgirem ou piorarem. Infecção intestinal pode parecer um flare, por isso não mude tratamento antes da avaliação.",
+          "Garanta acesso rápido ao banheiro, roupas de troca e apoio discreto na escola. Crohn não é contagiosa, e a criança não deve ser isolada por causa do diagnóstico.",
+          "Observe crescimento, energia, sono, puberdade e bem-estar emocional. Perda de peso, queda no crescimento ou faltas frequentes merecem revisão mesmo sem dor intensa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Durante sintomas leves, permita repouso, acesso livre ao banheiro e atividades conforme tolerância; não force exercício nem presença escolar se a criança estiver debilitada.",
+          "Leve à consulta um diário curto de sintomas, alimentação, medicamentos usados e possíveis contatos com pessoas doentes. Isso ajuda a diferenciar atividade da doença, infecção e outras causas.",
+          "Não faça jejum prolongado, limpeza intestinal, enema, desafio alimentar, dieta de exclusão ampla ou tratamento alternativo para testar se é um flare.",
+          "Em dor ou inchaço ao redor do ânus, mantenha higiene suave com água, não esprema caroços nem introduza produtos e procure avaliação, especialmente se houver febre ou secreção.",
+          "Mantenha vacinação e prevenção de infecções conforme a equipe, sobretudo se houver imunossupressão; vacinas vivas exigem decisão clínica individual."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, aumente, reduza ou interrompa corticoide, imunomodulador, biológico ou outro tratamento por causa da palavra ‘agudo’. A equipe deve confirmar a causa e a atividade.",
+          "Se usa corticoide, não pare de repente. Se usa medicamento que reduz a imunidade e apresenta febre ou aparência muito doente, contate a equipe no mesmo dia e procure urgência conforme os sinais de alarme.",
+          "Antibiótico não trata rotineiramente a inflamação de Crohn; pode ser necessário em complicação infecciosa confirmada, como abscesso, sempre por prescrição.",
+          "Evite anti-inflamatórios não esteroides sem orientação, pois podem agravar sintomas gastrointestinais. Use apenas analgésico já autorizado para a criança.",
+          "Não use antidiarreico, laxante, probiótico, suplemento ou remédio de outra pessoa para controlar uma possível crise. Leve a lista completa de medicamentos à avaliação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos com frequência e observe urina e disposição. Vômitos repetidos, incapacidade de beber ou pouca urina exigem avaliação urgente.",
+          "Se consegue comer e não há suspeita de obstrução, ofereça refeições pequenas, variadas e toleradas. Não existe uma única dieta doméstica que trate todos os casos de Crohn.",
+          "Não retire grupos alimentares nem inicie nutrição enteral exclusiva por conta própria. Estratégias nutricionais para induzir remissão precisam de gastroenterologia e nutricionista pediátrico.",
+          "Se houver distensão importante, dor forte, vômito verde ou parada de fezes e gases, não force alimentos e procure emergência imediatamente.",
+          "Em diagnóstico confirmado, peça ajuda nutricional se houver perda de peso, baixa ingestão ou crescimento insuficiente; suplementos só devem ser usados para necessidade e plano documentados."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte, contínua ou com barriga muito distendida, rigidez, vômito verde, ausência de fezes ou gases, ou piora rápida: procure emergência agora por risco de obstrução ou perfuração.",
+          "Sangue em grande quantidade nas fezes, fezes pretas, vômito com sangue, palidez intensa, desmaio, batimento muito acelerado ou fraqueza extrema: acione emergência.",
+          "Vômitos ou diarreia intensos com boca seca, olhos fundos, pouca ou nenhuma urina, mãos frias, tontura, sonolência ou incapacidade de beber: procure atendimento imediato.",
+          "Febre com dor abdominal intensa, calafrios, prostração, inchaço ou dor ao redor do ânus, especialmente durante imunossupressão: procure emergência por possível abscesso ou infecção grave.",
+          "Confusão, dificuldade para despertar, convulsão, falta de ar ou coloração arroxeada: acione o serviço de emergência imediatamente.",
+          "Bebê ou criança pequena com recusa persistente, vômitos repetidos, distensão, sangue nas fezes, pouca urina ou prostração precisa de avaliação urgente e não deve ser rotulado apenas como Crohn agudo."
+        ],
+        "QUANDO REAVALIAR": [
+          "Contate a equipe no mesmo dia se aumentarem dor, diarreia, sangue, vômitos, febre, sintomas noturnos, secreção perianal ou dificuldade para comer e beber, mesmo sem sinal de emergência.",
+          "Se o diagnóstico ainda não foi confirmado, procure avaliação pediátrica ou gastroenterológica; não trate em casa como exacerbação apenas pelo nome do cadastro.",
+          "Mantenha retornos regulares para crescimento, puberdade, nutrição, anemia, marcadores de inflamação, fezes, efeitos adversos e resposta ao tratamento conforme solicitação da equipe.",
+          "Antecipe a consulta se houver perda de peso, crescimento insuficiente, cansaço, aftas persistentes, dor articular, olho vermelho doloroso, lesões de pele ou impacto importante na escola e no humor.",
+          "Se sintomas reaparecerem durante tratamento, a equipe deve investigar adesão, infecção, inflamação objetiva, estreitamento e outras complicações antes de alterar medicamentos.",
+          "Na revisão do cadastro, documente que pdf1500_443 corresponde ao núcleo pdf1500_442 e que ‘agudo’ não prova atividade, gravidade ou necessidade de tratamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crohn é excepcional nessa idade. Sangue nas fezes, vômitos, distensão, febre, recusa de mamadas, pouca urina ou prostração exigem avaliação imediata para outras causas e doença intestinal de início muito precoce.",
+        "3a5m": "Não atribua quadro agudo ao rótulo do cadastro. Diarreia persistente, sangue, distensão, febre, perda de peso ou infecções repetidas exigem pediatria e gastroenterologia com urgência proporcional.",
+        "6a11m": "Monitore mamadas, alimentação, evacuações, sangue, peso e urina. Início antes de dois anos requer avaliação especializada; desidratação, distensão ou prostração são urgentes.",
+        "1a": "Crianças pequenas desidratam rapidamente e podem não localizar a dor. Sangue, vômitos, barriga distendida, pouca urina, queda no crescimento ou alteração perianal pedem avaliação precoce.",
+        "2a5": "Adultos registram evacuações, dor, febre, apetite e crescimento e organizam acesso ao banheiro. Não mude dieta ou remédio por conta própria diante de piora.",
+        "6a11": "Estimule a criança a contar sobre sangue, dor e sintomas noturnos sem vergonha. Garanta banheiro e hidratação na escola e monitore crescimento, anemia e energia.",
+        "12a17": "Inclua o adolescente nas decisões, revise adesão sem julgamento e proteja privacidade escolar. Perda de peso, restrição alimentar, atraso puberal, sangue ou dor crescente exigem contato rápido com a equipe.",
+        "unknown": "Sem idade, confirmação diagnóstica e descrição dos sintomas, não presuma exacerbação nem inicie dieta ou tratamento. Aplicar sinais de alarme e buscar avaliação clínica."
+      },
+      "refs": [
+        {
+          "id": "pais243_op2407_1",
+          "name": "Management of Pediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://doi.org/10.1093/ecco-jcc/jjag084"
+        },
+        {
+          "id": "pais243_op2407_2",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/pcdt-doenca-de-crohn.pdf/@@download/file"
+        },
+        {
+          "id": "pais243_op2407_3",
+          "name": "Crohn’s disease: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/NG129/chapter/recommendations"
+        },
+        {
+          "id": "pais243_op2407_4",
+          "name": "Crohn's Disease — Digestive Topics",
+          "url": "https://gikids.org/digestive-topics/crohns-disease/"
+        },
+        {
+          "id": "pais243_op2407_5",
+          "name": "Kids Health Info: Inflammatory bowel disease — Crohn disease and ulcerative colitis",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Inflammatory_bowel_disease/"
+        },
+        {
+          "id": "pais243_op2407_6",
+          "name": "Inflammatory bowel disease: a guide — self-management for relapse",
+          "url": "https://www.royalfree.nhs.uk/patients-and-visitors/patient-information-leaflets/inflammatory-bowel-disease-ibd-guide/submit/43795"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2408",
+      "specific": false,
+      "key": "pdf1500_444",
+      "label": "Doença de Crohn bilateral",
+      "entity": "Doença de Crohn pediátrica; ‘bilateral’ é qualificador anatômico inaplicável e não constitui subtipo, localização reconhecida, comportamento, atividade ou nova entidade clínica",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_INAPPLICABLE_ANATOMIC_QUALIFIER\",\"normalized_entity\":\"Doença de Crohn pediátrica\",\"assessment\":\"O núcleo ‘doença de Crohn’ é uma doença inflamatória intestinal crônica válida. A classificação pediátrica de Paris descreve idade ao diagnóstico, localização ao longo do tubo digestivo, comportamento da doença e comprometimento do crescimento; para localização usa categorias ileal, colônica, ileocolônica e trato digestivo alto. A diretriz ECCO-ESPGHAN de 2026 também estratifica risco, atividade, extensão e comportamento, sem categoria ‘bilateral’. Portanto, ‘bilateral’ é um qualificador anatômico inaplicável ao diagnóstico, não demonstra doença em dois segmentos, atividade, gravidade, complicação ou necessidade de tratamento. Essa conclusão é uma inferência nosológica diretamente apoiada pelas categorias oficiais, não uma alegação de que a doença de uma criança esteja restrita a um local específico.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"SAME_BASE_ENTITY_AS_PDF1500_442_WITH_INAPPLICABLE_BILATERAL_QUALIFIER\",\"decision\":\"Preservar pdf1500_444 e seu rótulo para busca e rastreabilidade, compartilhar a orientação clínica-base de pdf1500_442 e contar zero entidade clínica adicional.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_442\"},\"not_automatically_equivalent_to\":[\"Doença ileocolônica ou acometimento de dois segmentos do tubo digestivo\",\"Doença ativa, crise, recaída, remissão ou gravidade definida\",\"Estenose, obstrução, fístula, abscesso ou doença perianal\",\"Atraso de crescimento, anemia, desnutrição ou manifestação extraintestinal\",\"Indicação de dieta terapêutica, nutrição enteral, imunossupressor, biológico ou cirurgia\",\"Diagnóstico confirmado em uma criança específica\"],\"pediatric_scope\":\"A doença de Crohn pode começar em qualquer idade, inclusive na infância e adolescência. Em crianças, crescimento, puberdade, nutrição, escola, qualidade de vida, localização, comportamento, atividade e resposta objetiva ao tratamento precisam ser acompanhados. Em lactentes e crianças muito pequenas, o diagnóstico exige avaliação especializada e pode demandar investigação de causas monogênicas ou alternativas.\",\"critical_context_to_confirm\":[\"Se o diagnóstico está confirmado ou apenas suspeito e quais exames o sustentam\",\"Idade, crescimento, puberdade, peso recente, ingestão alimentar e sinais de deficiência nutricional\",\"Padrão habitual e mudança de dor abdominal, diarreia, sangue nas fezes, vômitos, febre, fadiga e sintomas noturnos\",\"Localização, comportamento, atividade e complicações documentadas pela gastroenterologia\",\"Dor, secreção, inchaço ou ferida ao redor do ânus e qualquer história de fístula ou abscesso\",\"Medicamentos, nutrição terapêutica e plano de monitoramento realmente prescritos\",\"Sintomas articulares, cutâneos, oculares, orais, hepáticos ou biliares\",\"Vacinação, risco de infecção e orientações específicas caso use imunossupressor ou biológico\"],\"counting_rule\":\"Contar pdf1500_442 e pdf1500_444 como uma única entidade clínica-base. Manter ambos os IDs e nomes para rastreabilidade; ‘bilateral’ não recebe contagem de nova doença, localização, gravidade, complicação ou tratamento.\",\"reason\":\"‘Bilateral’ é um descritor de lados corporais e não integra as categorias pediátricas reconhecidas de localização, comportamento, atividade ou risco da doença de Crohn. O rótulo não cria entidade clínica independente.\",\"next_action\":\"Mapear pdf1500_444 à orientação canônica de pdf1500_442 e testar que a seleção preserva o rótulo, explica o problema terminológico e não infere localização, atividade, complicação, dieta ou tratamento inexistentes. Manter SOURCE_TERM_ISSUE e specific=false até integração e revisão do coordenador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn é uma inflamação crônica do tubo digestivo que alterna períodos de melhora e atividade. ‘Bilateral’ não é uma forma reconhecida da doença e não informa onde está a inflamação, a gravidade ou o tratamento.",
+          "Se o diagnóstico estiver confirmado, siga o plano da gastroenterologia pediátrica e registre dor, evacuações, sangue, febre, apetite, energia, sintomas noturnos e faltas à escola. Mudanças persistentes ajudam a equipe a avaliar atividade e complicações.",
+          "Acompanhe peso, altura e puberdade nas consultas. Perda de peso, interrupção do crescimento, cansaço crescente ou atraso puberal podem ocorrer mesmo quando os sintomas intestinais parecem discretos e precisam ser informados.",
+          "Não atribua automaticamente todo sintoma abdominal à doença de Crohn. Infecções, efeitos de medicamentos e outras causas podem se parecer com uma recaída; avaliação objetiva é importante antes de mudar tratamento.",
+          "Avise a equipe sobre dor ou secreção ao redor do ânus, feridas na boca, dor ou inchaço articular, lesões de pele, olho vermelho doloroso ou alteração visual. Esses sinais podem exigir avaliação antecipada."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha consultas e exames de acompanhamento mesmo durante a melhora. Sintomas isolados não medem toda a inflamação; a equipe pode usar crescimento, sangue, fezes, imagem e endoscopia conforme o caso.",
+          "Organize um plano com escola e cuidadores para acesso rápido ao banheiro, hidratação, pausas, alimentação prescrita e comunicação de piora, preservando a privacidade da criança ou adolescente.",
+          "Atividade física pode ser mantida conforme tolerância e orientação da equipe. Reduza o esforço durante febre, desidratação, dor importante, sangramento ou fadiga fora do habitual e procure avaliação.",
+          "Evite fumaça de cigarro e vape. Não use terapias alternativas, probióticos, ervas, suplementos ou restrições alimentares como substitutos do acompanhamento especializado.",
+          "Se houver estoma, sonda ou nutrição enteral prescrita, siga apenas a técnica ensinada e procure a equipe diante de vazamento, obstrução, dor, lesão de pele ou dificuldade com o equipamento."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos prescritos e confira nome, via, horário e plano de monitoramento. O rótulo ‘bilateral’ não indica corticoide, imunossupressor, biológico, antibiótico ou cirurgia.",
+          "Não inicie, suspenda, reduza, dobre ou empreste remédios por conta própria, inclusive quando os sintomas melhorarem ou piorarem. A perda de resposta precisa ser confirmada e pode exigir exames antes de ajustar o tratamento.",
+          "Informe febre, infecção, contato relevante, reação, dificuldade para tomar o medicamento ou atraso de aplicação à equipe que acompanha a criança, especialmente se houver tratamento que reduza a imunidade.",
+          "Evite anti-inflamatórios não esteroides e antidiarreicos sem orientação, pois podem agravar sintomas ou ser inseguros em inflamação intensa, obstrução ou infecção.",
+          "Vacinas e prevenção de infecções devem ser revisadas com a equipe; algumas vacinas exigem planejamento quando a criança usa determinados imunossupressores. Não adie atendimento urgente para consultar o calendário."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação equilibrada e líquidos conforme tolerância e o plano individual. Não existe uma única dieta caseira adequada a todas as crianças com Crohn, e ‘bilateral’ não define restrição alimentar.",
+          "Não retire grupos alimentares, faça jejum, use dieta de eliminação ou comece nutrição enteral por conta própria. Dietas terapêuticas precisam de indicação e acompanhamento para proteger crescimento e nutrição.",
+          "Em dias de diarreia ou menor apetite, ofereça líquidos em pequenas quantidades frequentes se a criança estiver alerta e conseguir beber, sem forçar. Incapacidade de manter líquidos, menos urina ou prostração exige avaliação.",
+          "Registre alimentos que parecem se relacionar a sintomas, mas não conclua que eles causam a doença. Leve o registro à equipe antes de fazer restrições.",
+          "Suplementos de vitaminas, minerais ou calorias devem ser usados somente após avaliação. Perda de peso, desaceleração do crescimento, refeições muito difíceis ou sinais de desidratação justificam contato precoce com gastroenterologia e nutrição."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal intensa, progressiva, barriga muito distendida ou rígida, vômitos persistentes ou esverdeados, ou incapacidade de eliminar gases e fezes: procure emergência agora por possível obstrução ou outra complicação.",
+          "Sangramento intestinal volumoso, fezes negras com fraqueza, desmaio, palidez intensa, batimento muito acelerado ou dificuldade para despertar: acione emergência imediatamente.",
+          "Febre com dor abdominal localizada, massa dolorosa, secreção ou inchaço importante ao redor do ânus, calafrios ou piora rápida: procure atendimento urgente por possível abscesso ou infecção.",
+          "Diarreia ou vômitos com pouca urina, boca muito seca, olhos fundos, sonolência, tontura ou incapacidade de beber: procure atendimento imediato por possível desidratação.",
+          "Falta de ar, inchaço de face ou língua, urticária generalizada, desmaio ou reação logo após medicamento ou infusão: acione emergência e siga apenas o plano de reação já fornecido.",
+          "Olho vermelho com dor ou sensibilidade à luz, alteração visual, convulsão, confusão ou prostração intensa: avaliação imediata; não aguarde a próxima consulta."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o calendário definido pela gastroenterologia pediátrica, mesmo em remissão. O acompanhamento deve incluir sintomas, crescimento, nutrição, exames objetivos, efeitos do tratamento, saúde óssea, vacinação e qualidade de vida.",
+          "Contate a equipe no mesmo dia diante de aumento persistente da dor ou diarreia, sangue novo nas fezes, febre, acordar à noite para evacuar, queda de apetite, perda de peso, cansaço crescente ou faltas escolares por sintomas.",
+          "Peça avaliação antecipada para dor, secreção ou ferida perianal, vômitos recorrentes, dor articular, lesões de pele, feridas orais persistentes, olhos inflamados ou atraso do crescimento e da puberdade.",
+          "Após pronto atendimento, internação, infecção ou reação ao tratamento, confirme com a equipe quando repetir exames e como retomar o plano; não faça ajustes por conta própria.",
+          "Na revisão do cadastro, documente que ‘bilateral’ não é categoria de Crohn. A orientação deve permanecer vinculada a pdf1500_442, enquanto localização, comportamento, atividade e complicações só podem ser definidos pelos dados reais da criança."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Crohn é incomum nessa idade. Sangue nas fezes, diarreia persistente, febre, distensão, vômitos, recusa alimentar, pouca urina ou dificuldade para despertar exigem avaliação imediata; não aplicar automaticamente um diagnóstico cadastral.",
+        "3a5m": "Cuidador deve observar alimentação, evacuações, sangue, febre, vômitos, urina e ganho de peso. Suspeita de doença inflamatória intestinal nessa idade exige gastroenterologia pediátrica e investigação de causas alternativas.",
+        "6a11m": "Diarreia persistente, sangue, distensão, recusa alimentar, perda de peso ou infecções incomuns justificam avaliação especializada. Não iniciar restrição alimentar, fórmula especial, suplemento ou medicamento sem orientação.",
+        "1a": "Acompanhe peso, altura, alimentação e evacuações com o cuidador. Doença muito precoce pode exigir investigação ampliada; piora rápida, desidratação ou dor intensa demandam atendimento imediato.",
+        "2a5": "Família e escola devem registrar sintomas, permitir banheiro e seguir o plano alimentar e medicamentoso prescrito. Mudança de crescimento, energia ou comportamento pode ser sinal relevante mesmo sem queixa clara de dor.",
+        "6a11": "Garanta acesso ao banheiro, água e pausas na escola. Incentive a criança a relatar dor, sangue, diarreia, fadiga e sintomas perianais sem vergonha; faltas recorrentes ou queda de crescimento pedem reavaliação.",
+        "12a17": "Promova autonomia gradual sem retirar supervisão. Revise adesão, puberdade, imagem corporal, humor, tabaco e vape, saúde sexual e transição do cuidado, preservando espaço confidencial apropriado com a equipe.",
+        "unknown": "Sem idade, confirmação diagnóstica, crescimento, localização, atividade, complicações e tratamento, não é seguro inferir conduta a partir de ‘bilateral’. Usar orientação conservadora e confirmar o plano com gastroenterologia pediátrica."
+      },
+      "refs": [
+        {
+          "id": "pais243_op2408_1",
+          "name": "Management of Pediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://academic.oup.com/ecco-jcc/article/20/8/jjag084/8766823"
+        },
+        {
+          "id": "pais243_op2408_2",
+          "name": "Pediatric Modification of the Montreal Classification for Inflammatory Bowel Disease: The Paris Classification",
+          "url": "https://www.naspghan.org/files/documents/pdfs/training/curriculum-resources/ibd/Paris_Classification.pdf"
+        },
+        {
+          "id": "pais243_op2408_3",
+          "name": "Crohn’s disease: management — Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng129/chapter/recommendations"
+        },
+        {
+          "id": "pais243_op2408_4",
+          "name": "Definition & Facts for Crohn’s Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/definition-facts"
+        },
+        {
+          "id": "pais243_op2408_5",
+          "name": "Treatment for Crohn’s Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/treatment"
+        },
+        {
+          "id": "pais243_op2408_6",
+          "name": "Eating, Diet, & Nutrition for Crohn’s Disease",
+          "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/eating-diet-nutrition"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2409",
+      "specific": false,
+      "key": "pdf1500_445",
+      "label": "Doença de Crohn crônico",
+      "entity": "Doença de Crohn; ‘crônico’ é qualificador redundante e gramaticalmente inadequado, não constitui subtipo, fase, gravidade nem entidade clínica adicional",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_REDUNDANT_AND_GRAMMATICALLY_INADEQUATE_QUALIFIER\",\"normalized_entity\":\"Doença de Crohn\",\"assessment\":\"A doença de Crohn é uma doença inflamatória intestinal crônica, com períodos de atividade e remissão. Por isso, acrescentar ‘crônico’ ao nome não cria uma entidade, forma ou grau independente. O rótulo ainda apresenta discordância gramatical com ‘doença’; a forma seria ‘crônica’, embora também fosse redundante. O termo isolado não informa se a criança está em atividade, remissão, apresenta complicação, tem doença perianal, estenose, fístula, déficit nutricional ou resposta inadequada ao tratamento. A conclusão de não autonomia é uma inferência nosológica sustentada pelas diretrizes, que classificam e tratam a doença segundo atividade, risco, localização, comportamento, crescimento e complicações, e não por um subtipo chamado ‘Crohn crônico’.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_442\",\"canonical_label\":\"Doença de Crohn\",\"relationship\":\"SAME_BASE_ENTITY_AS_PDF1500_442_WITH_REDUNDANT_CHRONIC_QUALIFIER\",\"decision\":\"Preservar pdf1500_445 e seu rótulo para rastreabilidade, resolver a orientação para o núcleo pdf1500_442 e contar zero entidade clínica adicional.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_CATALOG_ID_MAPPED_TO_PDF1500_442\"},\"not_automatically_equivalent_to\":[\"doença ativa, crise, recaída ou exacerbação\",\"doença moderada, grave, refratária ou de longa duração mensurável\",\"estenose, obstrução, abscesso, fístula ou doença perianal\",\"diagnóstico confirmado apenas pelo rótulo cadastral\",\"necessidade de corticoide, imunomodulador, biológico, antibiótico, dieta terapêutica ou cirurgia\",\"falha terapêutica, falta de adesão ou indicação de alta\"],\"pediatric_scope\":\"A doença de Crohn pode ocorrer em qualquer idade pediátrica e comprometer crescimento, puberdade, nutrição, intestino e outros órgãos. Em crianças pequenas, doença inflamatória intestinal de início muito precoce pode exigir investigação especializada. O rótulo ‘crônico’ não permite inferir diagnóstico, atividade, extensão, comportamento, tratamento ou prognóstico.\",\"critical_context_to_confirm\":[\"Se o diagnóstico foi confirmado por gastroenterologia pediátrica ou ainda está em investigação\",\"Sintomas atuais: dor, diarreia, sangue, febre, vômitos, perda de peso, sintomas noturnos e alterações perianais\",\"Hidratação, ingestão, crescimento, puberdade, anemia e deficiências nutricionais\",\"Localização e comportamento da doença, cirurgias ou complicações já documentadas\",\"Medicamentos prescritos, adesão, monitorização laboratorial, efeitos adversos e plano de ação para recaída\",\"Vacinação, risco infeccioso, escola, saúde emocional e transição de cuidado na adolescência\"],\"counting_rule\":\"Contar pdf1500_442 e pdf1500_445 como uma única entidade clínica-base. Manter ambos os IDs e nomes para rastreabilidade; ‘crônico’ não recebe contagem de doença, subtipo, atividade ou gravidade.\",\"reason\":\"‘Crônico’ repete uma característica inerente à doença de Crohn, apresenta discordância gramatical e não define estado clínico, atividade, complicação ou tratamento.\",\"next_action\":\"Mapear pdf1500_445 à orientação canônica de pdf1500_442 e testar que a seleção do rótulo não infere atividade, duração, gravidade, complicação, dieta, medicamento, dose ou alta. Manter SOURCE_TERM_ISSUE e specific=false até integração e revisão do coordenador.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A doença de Crohn é uma inflamação crônica do aparelho digestivo que pode alternar períodos de melhora e de atividade. O acréscimo ‘crônico’ no cadastro é redundante e não informa como a criança está hoje.",
+          "Mantenha o plano elaborado pela gastroenterologia pediátrica mesmo quando não houver sintomas. Não interrompa, altere ou reinicie tratamento por conta própria porque a ausência de sintomas não confirma desaparecimento da inflamação.",
+          "Anote mudança do número ou aspecto das evacuações, dor, sangue, febre, vômitos, sintomas noturnos, apetite, peso, energia, faltas escolares e lesões ou dor ao redor do ânus. Essas informações ajudam a equipe a diferenciar recaída, infecção e outras causas.",
+          "A doença de Crohn não é contagiosa. A criança pode frequentar escola e conviver normalmente quando estiver bem; combine acesso livre ao banheiro, água, pausas, alimentação segura e reposição de atividades em períodos de piora.",
+          "Evite tabaco e fumaça no ambiente. Apoie sono, atividade física tolerada e saúde emocional; dor, fadiga, urgência evacuatória e preocupação com aparência ou puberdade podem afetar o bem-estar.",
+          "Cuide da pele perianal com higiene suave e secagem sem atrito. Dor crescente, inchaço, secreção, ferida ou febre precisam de avaliação rápida e não devem ser espremidos ou tratados em casa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha consultas e exames definidos pela equipe, incluindo avaliação de crescimento, puberdade, nutrição, anemia, inflamação e possíveis efeitos do tratamento. Sintomas sozinhos não medem toda a atividade da doença.",
+          "Não use dietas restritivas, testes comerciais de intolerância, jejum ou exclusão de grupos alimentares como substitutos do tratamento. Em crianças, restrições sem supervisão podem piorar crescimento e deficiências.",
+          "Converse com a escola sobre um plano individual: banheiro sem demora, hidratação, merenda adequada, flexibilidade para consultas, provas e educação física, preservando privacidade e participação social.",
+          "Revise vacinas com a equipe, especialmente antes de iniciar tratamento que reduza a imunidade. Vacinas vivas podem exigir planejamento; não aplique nem adie vacinas por conta própria.",
+          "Lave as mãos e evite contato próximo com pessoas com infecção transmissível quando a criança usar tratamento imunossupressor. Febre ou contato relevante deve ser comunicado conforme o plano do serviço.",
+          "Adolescentes devem participar progressivamente do cuidado: conhecer diagnóstico e medicamentos, saber pedir ajuda, evitar tabaco e planejar a transição para o serviço de adultos."
+        ],
+        "MEDICAMENTOS": [
+          "Use apenas os medicamentos prescritos, nos horários e pela via orientada. O rótulo ‘crônico’ não define qual tratamento é necessário e não autoriza iniciar, trocar ou aumentar remédios.",
+          "Não suspenda corticoide de forma abrupta e não reinicie corticoide de receita antiga. Se houver piora, siga o plano de ação fornecido pela equipe ou entre em contato com o serviço.",
+          "Evite anti-inflamatórios comuns por conta própria, pois podem agravar sintomas digestivos em algumas pessoas. Para dor ou febre, confirme com a equipe qual opção é segura para aquela criança.",
+          "Antes de antibióticos, antidiarreicos, laxantes, fitoterápicos, probióticos, suplementos ou medicamentos sem receita, consulte a equipe ou o farmacêutico. Alguns podem mascarar complicações ou interagir com o tratamento.",
+          "Faça a monitorização laboratorial solicitada. Febre, dor de garganta persistente, manchas roxas, sangramento incomum, icterícia, urina escura, falta de ar ou reação após medicamento exigem contato rápido ou atendimento conforme a gravidade.",
+          "Informe a todos os profissionais que a criança tem doença de Crohn e leve uma lista atualizada de medicamentos e alergias. Não atribua todo sintoma à doença nem ao tratamento sem avaliação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e suficiente para crescimento, respeitando tolerância, cultura e o plano da nutrição. Não existe uma única dieta caseira adequada para todas as crianças com doença de Crohn.",
+          "Em períodos de dor, náusea ou diarreia, ofereça porções menores e líquidos com frequência se a criança tolerar. Incapacidade de beber, pouca urina, boca seca, prostração ou vômitos repetidos exigem avaliação urgente.",
+          "Não exclua leite, glúten, fibras ou outros grupos automaticamente. A necessidade de ajustes depende de sintomas, localização da doença, estenose, cirurgia e estado nutricional, que não podem ser inferidos do rótulo.",
+          "Nutrição enteral pode ser usada como tratamento em crianças selecionadas, mas fórmula, volume, duração e forma de oferta devem ser prescritos e acompanhados pela equipe; não improvise em casa.",
+          "Acompanhe peso, estatura e apetite conforme orientação. Perda de peso, desaceleração do crescimento, atraso puberal ou recusa alimentar persistente precisam de reavaliação, mesmo sem diarreia intensa.",
+          "Se houver estoma, cirurgia ou estreitamento intestinal documentado, siga o plano alimentar específico do serviço; não aplique orientações gerais de internet para mudar consistência ou quantidade de fibras."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor abdominal forte, contínua ou em rápida piora, barriga muito distendida ou rígida, vômitos verdes ou repetidos, ou incapacidade de eliminar fezes e gases: procure emergência.",
+          "Sangue em grande quantidade nas fezes, fezes pretas, vômito com sangue, desmaio, palidez intensa, batimento muito acelerado ou fraqueza importante: procure atendimento imediatamente.",
+          "Febre com prostração, calafrios, confusão, dificuldade para respirar ou piora rápida, especialmente durante tratamento que reduz a imunidade: procure atendimento imediato e informe os medicamentos em uso.",
+          "Diarreia ou vômitos com sonolência, olhos fundos, boca muito seca, pouca urina ou incapacidade de beber: procure atendimento por risco de desidratação.",
+          "Dor intensa, inchaço, vermelhidão ou saída de pus ao redor do ânus, principalmente com febre: procure avaliação urgente por possível abscesso ou complicação perianal.",
+          "Dor no peito, falta de ar súbita, desmaio, inchaço doloroso de uma perna ou déficit neurológico súbito: acione emergência; doença inflamatória ativa pode aumentar o risco de trombose."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o diagnóstico ainda não foi confirmado, sintomas persistentes como dor, diarreia, sangue, perda de peso, atraso do crescimento ou lesão perianal exigem avaliação pediátrica e gastroenterológica; o rótulo cadastral não substitui investigação.",
+          "Com diagnóstico confirmado, mantenha o calendário do serviço mesmo quando a criança estiver bem. O acompanhamento verifica crescimento, puberdade, nutrição, atividade silenciosa da doença, efeitos do tratamento e vacinação.",
+          "Entre em contato antes da consulta programada se aumentarem dor, evacuações, sangue, sintomas noturnos, febre baixa persistente, fadiga, lesões perianais, aftas, dor articular, alteração ocular, perda de peso ou faltas escolares.",
+          "Procure revisão se houver exposição a infecção, atraso de vacina, reação adversa, doses perdidas ou dificuldade para obter ou administrar o tratamento; não compense doses sem orientação.",
+          "Reavalie com nutrição se houver perda de peso, baixa velocidade de crescimento, seletividade, medo de comer, restrições múltiplas ou uso de suplementos sem plano.",
+          "Na revisão do cadastro, documente que ‘crônico’ é redundante e gramaticalmente inadequado; a orientação deve permanecer vinculada à doença de Crohn de pdf1500_442, sem inferir atividade, gravidade ou duração."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Doença de Crohn não deve ser presumida pelo rótulo em recém-nascido ou lactente jovem. Sangue nas fezes, distensão, vômitos, febre, recusa, pouca urina ou dificuldade para despertar exigem avaliação imediata e investigação ampla.",
+        "3a5m": "Observar mamadas, urina, peso, febre, vômitos e sangue nas fezes. Doença inflamatória intestinal de início muito precoce deve ser acompanhada por equipe especializada; não aplicar dieta ou medicamento de crianças maiores.",
+        "6a11m": "Manter alimentação adequada à idade e registrar sintomas, hidratação e ganho de peso. Diarreia ou sangue precisam de avaliação para infecção e outras causas, sem atribuição automática a Crohn.",
+        "1a": "Cuidador deve observar crescimento, evacuações, sangue, febre, dor, lesões perianais e hidratação. Prostração, pouca urina, vômitos ou distensão importante exigem atendimento rápido.",
+        "2a5": "Adultos controlam medicamentos e alimentação, registram crescimento e combinam acesso ao banheiro e comunicação com a escola. Não responsabilizar a criança pelo tratamento.",
+        "6a11": "Acompanhar crescimento, puberdade inicial, fadiga e rendimento escolar. Ensinar sinais de piora e participação no cuidado sem transferir toda a responsabilidade.",
+        "12a17": "Revisar crescimento, puberdade, adesão sem culpa, tabaco, imagem corporal, saúde mental, escola e transição para cuidado adulto. Garantir espaço confidencial com a equipe conforme maturidade.",
+        "unknown": "Sem idade, confirmação diagnóstica, atividade, crescimento, complicações e tratamento, não é seguro inferir estado ou conduta de ‘crônico’. Preservar orientação conservadora e confirmar o plano com a equipe."
+      },
+      "refs": [
+        {
+          "id": "pais243_op2409_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/pcdt-doenca-de-crohn.pdf/view"
+        },
+        {
+          "id": "pais243_op2409_2",
+          "name": "The Medical Management of Paediatric Crohn’s Disease: an ECCO-ESPGHAN Guideline Update",
+          "url": "https://www.espghan.org/knowledge-center/publications/Gastroenterology/2020-The-Medical-Management-of-Paediatric-Crohn-s-Disease--an-ECCO-ESPGHAN-Guideline-Update"
+        },
+        {
+          "id": "pais243_op2409_3",
+          "name": "Crohn's disease: management",
+          "url": "https://www.nice.org.uk/guidance/ng129/resources/crohns-disease-management-pdf-66141667282885"
+        },
+        {
+          "id": "pais243_op2409_4",
+          "name": "Inflammatory Bowel Disease — professional resources",
+          "url": "https://naspghan.org/professional-resources/medical-professional-resources/inflammatory-bowel-disease/"
+        },
+        {
+          "id": "pais243_op2409_5",
+          "name": "Crohn's Disease",
+          "url": "https://gikids.org/digestive-topics/crohns-disease/"
+        },
+        {
+          "id": "pais243_op2409_6",
+          "name": "Altered Immunocompetence — General Best Practice Guidelines for Immunization",
+          "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/altered-immunocompetence.html"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-26T13:03:32.057Z",
+  "records": [
+    {
+      "jobId": "OP-2331",
+      "specific": true,
+      "key": "pdf1500_367",
+      "label": "Diabetes insípido central",
+      "entity": "Diabetes insípido central pediátrico, também chamado deficiência de arginina-vasopressina (AVP-D): síndrome de perda excessiva de água em urina diluída por produção ou liberação insuficiente de vasopressina pelo eixo hipotálamo-hipófise",
+      "assessment": "{\"classification\":\"VALID_PEDIATRIC_ENDOCRINE_ENTITY_WITH_CURRENT_AVP_DEFICIENCY_SYNONYM\",\"normalized_entity\":\"Deficiência de arginina-vasopressina (AVP-D) / diabetes insípido central pediátrico\",\"assessment\":\"O termo descreve entidade pediátrica válida. A nomenclatura internacional atual favorece ‘deficiência de arginina-vasopressina’ para reduzir confusão com diabetes mellitus; ‘diabetes insípido central’, ‘craniano’, ‘neurogênico’ e ‘neuro-hipofisário’ permanecem sinônimos clínicos pesquisáveis. A falta de AVP impede a concentração adequada da urina, causando poliúria hipotônica e polidipsia. O diagnóstico exige avaliação de água e eletrólitos, urina, glicemia e, quando indicado, investigação hipotalâmico-hipofisária; sede e urina excessivas isoladas não bastam para confirmar a doença.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_367\",\"canonical_label\":\"Diabetes insípido central\",\"preferred_clinical_term\":\"Deficiência de arginina-vasopressina (AVP-D)\",\"relationship\":\"CANONICAL_BASE_ENTITY\",\"related_pending_keys\":[\"pdf1500_368\",\"pdf1500_369\",\"pdf1500_370\",\"pdf1500_371\",\"pdf1500_372\",\"pdf1500_373\",\"pdf1500_374\",\"pdf1500_375\",\"pdf1500_376\",\"pdf1500_377\",\"pdf1500_378\",\"pdf1500_379\",\"pdf1500_380\"],\"decision\":\"Usar pdf1500_367 como núcleo clínico. Não resolver automaticamente qualificadores de curso, gravidade, lateralidade, causa ou resposta; cada ID permanece rastreado para avaliação própria. ‘Bilateral’ e ‘unilateral’ não descrevem adequadamente uma deficiência hormonal sistêmica sem outro referente anatômico explícito.\"},\"not_automatically_equivalent_to\":[\"Diabetes mellitus tipo 1 ou 2, embora também possam causar sede e urina frequente\",\"Diabetes insípido nefrogênico ou resistência à arginina-vasopressina, em que o rim não responde adequadamente à AVP\",\"Polidipsia primária ou ingestão habitual excessiva de água\",\"Poliúria por diurético, hiperglicemia, alteração de cálcio ou potássio, doença renal ou outra causa\",\"Desidratação isolada sem poliúria hipotônica\",\"Diagnóstico etiológico de tumor, trauma, cirurgia, infecção ou doença genética apenas pelo rótulo-base\",\"Indicação automática de desmopressina, dose, via, volume de água, internação ou alta\"],\"pediatric_scope\":\"Válido do período neonatal à adolescência. Lactentes e crianças pequenas podem não conseguir pedir água e apresentar irritabilidade, febre sem causa clara, dificuldade alimentar, vômitos ou crescimento lento. Crianças com sede comprometida, alteração neurológica, jejum, sedação, vômitos/diarreia ou acesso limitado a água têm risco elevado de desidratação hipernatrêmica. A doença pode coexistir com outras deficiências hipofisárias, inclusive insuficiência adrenal, e precisa de endocrinologia pediátrica.\",\"counting_rule\":\"Contar pdf1500_367 como uma entidade clínica-base específica. Manter ‘diabetes insípido central’ e ‘deficiência de arginina-vasopressina’ como sinônimos da mesma entidade, sem dupla contagem. Não somar os qualificadores pendentes como novas doenças sem avaliação terminológica própria.\",\"critical_context_to_confirm\":[\"Idade, peso, crescimento, prematuridade, capacidade de sentir e comunicar sede e acesso contínuo a água\",\"Volume e frequência urinários, urina noturna/enurese, sede noturna, ingestão real e evolução dos sintomas\",\"Estado de hidratação, peso recente, sódio, glicemia, osmolalidade plasmática e urinária e densidade urinária\",\"Vômitos, diarreia, febre, jejum, sedação, cirurgia, trauma craniano ou doença neurológica recente\",\"Causa conhecida ou investigação do hipotálamo/hipófise, visão, cefaleia, vômitos matinais, fraqueza ou alteração neurológica\",\"Outras deficiências hipofisárias, especialmente cortisol, e plano de estresse se já prescrito\",\"Desmopressina realmente prescrita, apresentação, via, horário, resposta, diurese antes da próxima dose e plano individual de líquidos\",\"Capacidade da família e da escola de permitir água/banheiro, observar sinais de desidratação e acionar o serviço\"],\"reason\":\"Entidade endócrina pediátrica válida e potencialmente perigosa por desidratação hipernatrêmica ou, durante tratamento, retenção de água e hiponatremia. O conteúdo precisa preservar acesso à água, diferenciar emergências opostas e impedir teste de restrição hídrica ou ajuste de desmopressina em casa.\",\"next_action\":\"Integrar como núcleo canônico específico; testar seleção por key, rótulo e sinônimo AVP-D, oito faixas etárias, alarmes de desidratação/hipernatremia e hiponatremia, e ausência de dose, via ou restrição hídrica automáticas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O diabetes insípido central, hoje também chamado deficiência de arginina-vasopressina, faz o corpo perder água demais em urina muito diluída. Não é o mesmo que diabetes mellitus e não significa, por si só, açúcar alto no sangue.",
+          "Se o diagnóstico é apenas suspeito, mantenha água acessível e procure avaliação pediátrica no mesmo dia. Não faça teste de ficar sem beber em casa: a restrição de água para diagnóstico só pode ocorrer com supervisão e exames, pelo risco de desidratação e alteração grave do sódio.",
+          "Quando a criança já tem plano individual, siga-o exatamente. Registre mudanças importantes na sede, quantidade/frequência de urina, despertares noturnos, peso, atividade, febre, vômitos, diarreia e capacidade de beber; leve essas informações ao serviço.",
+          "Permita acesso contínuo a água e banheiro, inclusive à noite, na escola e em viagens, salvo instrução individual explícita da equipe. Crianças pequenas, sedadas, sonolentas ou com sede reduzida não conseguem se proteger bebendo sozinhas e precisam de supervisão próxima.",
+          "Não force grandes volumes além da sede em quem usa desmopressina e não aplique uma meta genérica de água: tanto a falta quanto o excesso podem ser perigosos. Siga o plano de líquidos definido para a criança, especialmente se ela não sente sede normalmente.",
+          "Use identificação de saúde e mantenha por perto o diagnóstico, contato da endocrinologia, lista real de medicamentos e plano para doença/jejum. Avise previamente qualquer equipe de pronto atendimento, cirurgia, anestesia ou internação."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Organize água segura e banheiro sem punição ou atraso. Na escola, entregue plano escrito que permita beber, urinar e avisar imediatamente se houver sede intensa, mal-estar, vômitos, sonolência ou alteração do comportamento.",
+          "Pese a criança e meça líquidos/urina somente na frequência orientada; mudanças súbitas valem mais que um número isolado. Fraldas muito encharcadas, troca muito frequente, enurese nova ou beber durante toda a noite devem ser comunicados.",
+          "Não tente diagnosticar pelo sabor/cor da urina, por aplicativos ou por retirar água. A investigação pode incluir sangue, urina, glicemia, osmolalidade, outros hormônios e ressonância do hipotálamo/hipófise, decididos pela equipe.",
+          "Planeje viagens com água extra, medicação identificada, prescrição e rota de atendimento. Calor, exercício, febre, diarreia e vômitos aumentam o risco quando a criança não repõe as perdas.",
+          "Após neurocirurgia ou trauma craniano, a produção de urina e o sódio podem mudar rapidamente e até alternar entre perda e retenção de água. Isso exige monitorização hospitalar; não use a resposta de um dia para ajustar o plano do dia seguinte em casa.",
+          "O quadro não é contagioso. A criança pode frequentar escola e atividades quando está estável, com plano, acesso irrestrito a água/banheiro e adultos capazes de reconhecer sinais de alarme."
+        ],
+        "MEDICAMENTOS": [
+          "A desmopressina substitui a ação da vasopressina em muitos casos de diabetes insípido central, mas só deve ser iniciada, trocada, suspensa ou ajustada pela endocrinologia. O rótulo isolado não define dose, via ou horário.",
+          "Comprimido, solução, spray nasal e formas injetáveis não têm equivalência direta. Nunca converta uma apresentação em outra, repita uma dose porque a urina aumentou, dobre dose esquecida ou compartilhe medicamento.",
+          "Antes de cada dose, siga os critérios do plano individual sobre diurese, sede, líquidos e exames. Se houve pouca ou nenhuma urina, aumento rápido de peso, inchaço, dor de cabeça importante, náusea, vômitos, confusão ou sonolência, não improvise: procure orientação urgente; convulsão ou rebaixamento de consciência é emergência.",
+          "Se houver vômito após a dose, diarreia, febre, congestão nasal que prejudique um spray, dificuldade de beber, jejum para exame ou cirurgia, contate a equipe no mesmo dia. Não repita nem mude a via sem instrução.",
+          "Não interrompa desmopressina regular apenas porque a criança está doente e não dê dose extra por sede ou urina aumentadas sem avaliar hidratação e sódio. A decisão deve seguir o plano da endocrinologia ou do serviço de urgência.",
+          "Se a criança também usa reposição de cortisol, siga o plano de estresse já fornecido e avise a equipe; não crie dose de corticoide por esta ficha. Leve embalagens e horários reais ao atendimento."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Criança alerta, com sede preservada e sem restrição individual deve conseguir beber água quando quiser. Ofereça em recipiente acessível e faça pausas frequentes em calor, exercício e viagem.",
+          "Em lactentes, não substitua alimentação por água nem dilua fórmula. O volume e a forma de oferecer água/leite precisam ser definidos pela pediatria/endocrinologia, porque rim, nutrição e risco de sódio variam com a idade.",
+          "Não force líquido além da sede em criança tratada com desmopressina. Excesso de água enquanto a urina está reduzida pode causar intoxicação por água e sódio baixo.",
+          "Vômitos repetidos, diarreia, recusa de líquidos, dificuldade para engolir, sonolência ou jejum impedem compensar a perda de água e exigem contato imediato com o serviço; se a criança estiver alterada ou não conseguir beber, vá à emergência.",
+          "Não use bebidas esportivas, soro caseiro, chá, suco, água de coco ou dieta com pouco sal/proteína como tratamento automático. A composição e o volume podem ser inadequados; siga o plano individual.",
+          "Mantenha alimentação equilibrada sem restrições inventadas. Se a sede estiver ocupando o lugar das refeições ou houver perda/ganho de peso inesperado, antecipe a revisão."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Sede intensa com grande volume de urina e impossibilidade de beber, ausência de água, vômitos/diarreia repetidos, jejum, febre importante ou piora rápida: risco de desidratação e sódio alto; procure emergência agora.",
+          "Boca muito seca, olhos fundos, ausência de lágrimas, perda rápida de peso, pele fria ou manchada, batimento muito rápido, fraqueza extrema, tontura/desmaio ou pouca resposta: atendimento imediato.",
+          "Sonolência incomum, dificuldade para despertar, confusão, irritabilidade extrema, comportamento muito diferente, convulsão, desmaio ou coma: acione emergência; podem ocorrer tanto com sódio alto quanto baixo.",
+          "Dor de cabeça forte ou persistente, náusea/vômitos, inchaço ou ganho rápido de peso em criança que usa desmopressina: possível retenção de água e hiponatremia; avaliação urgente, sem dose extra ou líquido forçado.",
+          "Cefaleia nova intensa, vômitos matinais repetidos, alteração visual, fraqueza de um lado, dificuldade para andar/falar, trauma craniano ou sintomas após neurocirurgia: emergência por possível causa neurológica ou mudança aguda do equilíbrio hídrico.",
+          "Recém-nascido ou lactente pequeno com febre/temperatura alta, irritabilidade inconsolável, mamada fraca, vômitos, muitas fraldas muito molhadas, perda de peso, sonolência ou convulsão: atendimento hospitalar imediato."
+        ],
+        "QUANDO REAVALIAR": [
+          "Sede e urina excessivas novas precisam de avaliação pediátrica no mesmo dia, com exclusão de glicose alta e outras causas. Até a avaliação, não restrinja água.",
+          "Se o diagnóstico já é conhecido, antecipe contato no mesmo dia diante de mudança persistente na sede/urina, enurese nova, descontrole noturno, alteração de peso, febre, vômitos, diarreia, rinite importante com spray, jejum, cirurgia ou dificuldade de obter medicamento.",
+          "Após início, troca de apresentação ou ajuste de desmopressina, cumpra a monitorização de sódio, urina, ingestão e peso definida pela equipe. Não espere o retorno de rotina para sintomas de sódio alto ou baixo.",
+          "No acompanhamento estável, a avaliação clínica e o sódio costumam ser revistos periodicamente; o PCDT brasileiro admite intervalos de 6 a 12 meses após estabilização, mas crianças, causas novas e outras deficiências hipofisárias podem exigir visitas mais frequentes.",
+          "Reavalie crescimento, alimentação, escola, sono, visão, sintomas neurológicos e outros hormônios. Todo diabetes insípido central precisa de investigação da causa conforme endocrinologia, inclusive ressonância da região hipotalâmico-hipofisária quando indicada.",
+          "Retorno à escola e esporte depende de estabilidade, plano escrito e água/banheiro disponíveis. Adolescentes devem aprender gradualmente nome atual AVP-D, medicação, sinais de hipernatremia/hiponatremia e como pedir ajuda, sem assumir sozinhos ajustes de dose."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente pequeno pode não demonstrar sede e desidrata rapidamente. Muitas fraldas muito molhadas, febre sem foco, irritabilidade, mamada fraca, vômitos, perda de peso ou sonolência exigem hospital; não oferecer água isolada, diluir fórmula ou testar restrição hídrica em casa.",
+        "3a5m": "Supervisão contínua de mamadas, peso e fraldas; volume de água/leite deve ser prescrito. Qualquer incapacidade de beber, febre, vômitos, redução de resposta ou mudança abrupta de diurese exige avaliação urgente.",
+        "6a11m": "Mantenha líquidos adequados à idade ao alcance do cuidador e registre fraldas. Não substitua refeições por líquido nem deixe o lactente compensar sozinho; doença intercorrente e jejum requerem plano no mesmo dia.",
+        "1a": "A criança ainda pode não comunicar sede; ofereça acesso frequente e observe encharcamento de fraldas, irritabilidade e sono. Creche deve receber plano de água, banheiro/trocas, medicação e emergência.",
+        "2a5": "Ensine a pedir água e banheiro sem esperar. Não castigue enurese ou acidentes. Sede que impede brincar/comer, perda de peso, vômitos ou mudança de comportamento antecipam reavaliação.",
+        "6a11": "A escola deve liberar água e banheiro e conhecer os alarmes. A criança pode ajudar a registrar sede/urina, mas dose, via e volume continuam sob supervisão adulta.",
+        "12a17": "Adolescente deve carregar identificação, plano e reserva segura do medicamento, avisar antes de viagens, treino, festas, álcool ou jejum e nunca ajustar desmopressina ou forçar água por conta própria. Transição para endocrinologia adulta deve preservar o plano de emergência.",
+        "unknown": "Sem idade, não definir volume, medicamento, dose, via nem plano domiciliar. Manter água acessível se a criança estiver alerta e com sede preservada, buscar avaliação no mesmo dia e usar limiar conservador para lactente ou criança incapaz de pedir água."
+      },
+      "refs": [
+        {
+          "id": "pais242_op2331_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas do Diabete Insípido",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/diabete-insipido"
+        },
+        {
+          "id": "pais242_op2331_2",
+          "name": "Clinical Practice Guidelines: Diabetes insipidus",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/diabetes_insipidus/"
+        },
+        {
+          "id": "pais242_op2331_3",
+          "name": "Diabetes insipidus — Overview",
+          "url": "https://www.nhs.uk/conditions/diabetes-insipidus/"
+        },
+        {
+          "id": "pais242_op2331_4",
+          "name": "Diabetes insipidus — Symptoms",
+          "url": "https://www.nhs.uk/conditions/diabetes-insipidus/symptoms/"
+        },
+        {
+          "id": "pais242_op2331_5",
+          "name": "Diabetes insipidus — Complications",
+          "url": "https://www.nhs.uk/conditions/diabetes-insipidus/complications/"
+        },
+        {
+          "id": "pais242_op2331_6",
+          "name": "Diabetes insipidus — Treatment",
+          "url": "https://www.nhs.uk/conditions/diabetes-insipidus/treatment/"
+        },
+        {
+          "id": "pais242_op2331_7",
+          "name": "Your child is having a water deprivation test",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/procedures-and-treatments/your-child-having-water-deprivation-test/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2332",
+      "specific": true,
+      "key": "pdf1500_368",
+      "label": "Diabetes insípido central agudo",
+      "entity": "Diabetes insípido central pediátrico, atualmente denominado deficiência de arginina-vasopressina, com início ou descompensação recente e risco de perda rápida de água, hipernatremia ou, se houver excesso de desmopressina e líquidos, hiponatremia",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_NON_ADDITIVE_ACUTE_TEMPORAL_QUALIFIER\",\"normalized_entity\":\"Deficiência central de arginina-vasopressina (diabetes insípido central) em apresentação ou descompensação aguda\",\"assessment\":\"Diabetes insípido central é uma entidade pediátrica válida, causada por deficiência de arginina-vasopressina e caracterizada por incapacidade de concentrar a urina, poliúria e sede. O complemento ‘agudo’ descreve início súbito ou descompensação recente, frequentemente após cirurgia ou trauma da região hipotálamo-hipofisária, mas não constitui doença autônoma. Também não informa, sozinho, a causa, a gravidade, o sódio, a hidratação, o estado da sede ou a necessidade de desmopressina. Em criança com poliúria abrupta, perda de peso, sede intensa, alteração neurológica ou acesso limitado à água, a prioridade é avaliação hospitalar e dosagem de sódio; não se deve testar privação de água, escolher líquido ou iniciar/ajustar desmopressina em casa.\",\"nomenclature\":{\"preferred_current_term\":\"Deficiência de arginina-vasopressina (AVP-D)\",\"established_term\":\"Diabetes insípido central\",\"preservation_rule\":\"Manter integralmente o rótulo Diabetes insípido central agudo e a key pdf1500_368 na seleção, cópia, impressão e rastreabilidade; permitir busca pelos termos AVP-D, deficiência de vasopressina e diabetes insípido central.\",\"acute_interpretation\":\"Início ou descompensação recente, dependente de cronologia e contexto clínico; não é subtipo etiológico nem sinônimo automático de crise hipernatrêmica.\"},\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_367\",\"canonical_label\":\"Diabetes insípido central\",\"relationship\":\"SAME_BASE_ENTITY_WITH_ACUTE_TEMPORAL_QUALIFIER\",\"decision\":\"Compartilhar o núcleo clínico com pdf1500_367 e acrescentar barreiras de segurança para início súbito, pós-operatório, trauma, doença intercurrente, acesso reduzido à água e distúrbio agudo do sódio. Preservar os dois IDs, mas contar uma única entidade clínica.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_ADDITIONAL_CATALOG_ID_MAPPED_TO_PDF1500_367\",\"current_state\":\"No baseline v241, pdf1500_367 e as variantes pdf1500_368 a pdf1500_380 permaneciam pendentes; OP-2331 foi atribuído em paralelo ao núcleo canônico, sem resultado presumido neste arquivo.\"},\"not_automatically_equivalent_to\":[\"Diabetes mellitus ou cetoacidose diabética\",\"Diabetes insípido nefrogênico, em que o rim não responde adequadamente à vasopressina\",\"Polidipsia primária ou ingestão habitual excessiva de água\",\"Diurese osmótica por glicose, medicamentos ou outros solutos\",\"Síndrome de secreção inapropriada de hormônio antidiurético (SIADH)\",\"Hipernatremia ou desidratação grave em todo caso, pois dependem das perdas, do acesso à água e da sede\",\"Hiponatremia por excesso de desmopressina e líquidos\",\"Indicação automática de desmopressina, dose, via, reposição venosa, internação em UTI ou alta\"],\"acute_contexts_to_confirm\":[\"Cirurgia, trauma, tumor, inflamação ou infecção recente do sistema nervoso central e cronologia da poliúria\",\"Acesso real à água, capacidade de sentir sede, nível de consciência, vômitos, jejum ou sedação\",\"Volume e frequência da urina, fraldas, noctúria, enurese nova, sede, peso e balanço hídrico\",\"Sódio, glicemia, função renal, osmolalidade plasmática e urinária e densidade urinária, interpretados pela equipe\",\"Uso prévio de desmopressina: formulação, via, última dose, resposta, possível omissão, duplicação ou troca de apresentação\",\"Outras deficiências hipofisárias, especialmente insuficiência adrenal, e plano de doença já prescrito\",\"Fase pós-neurocirúrgica, pois pode haver alternância entre diabetes insípido, SIADH e diabetes insípido permanente\",\"Sinais de desidratação, hipernatremia, hiponatremia, choque, convulsão ou deterioração neurológica\"],\"pediatric_scope\":\"Aplica-se do período neonatal à adolescência. Recém-nascidos, lactentes, crianças com deficiência de sede, atraso do desenvolvimento, doença neurológica, jejum, sedação ou dependência de terceiros para beber têm risco maior porque não conseguem compensar as perdas pela urina. Crianças pós-neurocirurgia ou com pan-hipopituitarismo requerem acompanhamento conjunto de endocrinologia e equipe hospitalar.\",\"counting_rule\":\"Contar pdf1500_367 e pdf1500_368 como uma única entidade clínica. ‘Agudo’ acrescenta cronologia e uma porta de urgência, não outra doença. Manter o registro pesquisado e specific=true porque a entidade-base e a apresentação aguda exigem orientação dirigida; não somar o qualificador como nova entidade.\",\"reason\":\"O núcleo é válido e a apresentação aguda é clinicamente relevante, mas o qualificador não define causa nem gravidade. A criança pode descompensar rapidamente se perder água sem conseguir beber, e também pode desenvolver hiponatremia quando desmopressina e líquidos são excessivos; por isso a orientação impede testes e ajustes domiciliares e prioriza avaliação de sódio e estado neurológico.\",\"next_action\":\"Integrar como variante temporal do núcleo pdf1500_367, preservando a key e o rótulo. Na interface, fazer poliúria abrupta com incapacidade de beber, alteração de consciência, convulsão, pós-neurocirurgia ou suspeita de distúrbio do sódio prevalecer sobre qualquer cuidado domiciliar; testar que nenhuma dose, via, volume de líquido ou suspensão de desmopressina seja gerada automaticamente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Diabetes insípido central, hoje também chamado deficiência de arginina-vasopressina, faz o rim eliminar muita água em urina diluída porque falta o sinal hormonal que ajuda o corpo a guardar água. ‘Agudo’ significa início ou piora recente; não diz sozinho a causa nem a gravidade.",
+          "Sede intensa, muita urina clara, idas repetidas ao banheiro, fraldas muito molhadas, noctúria ou enurese nova podem aparecer rapidamente. Quando a criança não consegue beber o suficiente, pode perder água e ter aumento perigoso do sódio.",
+          "Se o quadro começou agora, após cirurgia/trauma na cabeça ou com doença neurológica, procure avaliação pediátrica no mesmo dia; se houver sonolência, confusão, convulsão, fraqueza extrema, desmaio ou incapacidade de beber, vá à emergência imediatamente.",
+          "Enquanto a criança estiver acordada, respirando bem e engolindo com segurança, não negue acesso à água durante o deslocamento. Não force grandes volumes, não use soro caseiro e não tente corrigir o sódio em casa.",
+          "Cuidados em casa só se aplicam depois de diagnóstico, estabilização e plano escrito da endocrinologia. Registre sede, urina, peso quando orientado, episódios de vômito, medicação dada e qualquer alteração de comportamento; o registro não deve atrasar socorro.",
+          "Em escola ou creche, entregue plano que garanta acesso imediato à água e ao banheiro, supervisão da medicação e contato dos responsáveis/equipe. A condição não é contagiosa e não exige isolamento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não faça teste de privação de água em casa. Esse exame pode provocar desidratação e distúrbio grave do sódio e, em crianças, só deve ocorrer sob supervisão especializada; em lactentes pequenos pode ser inadequado.",
+          "Não restrinja água para ‘ver se a urina para’ e não ofereça quantidade fixa por conta própria. Crianças com sede preservada precisam poder beber; crianças com sede alterada necessitam de prescrição individual de líquidos.",
+          "Observe sinais de perda de água: boca seca, ausência de lágrimas, olhos fundos, perda rápida de peso, tontura, pulso acelerado, menos interação ou fraqueza. A quantidade de urina isolada não prova que a hidratação está segura.",
+          "Após neurocirurgia, pode haver alternância entre muita urina e retenção de água ao longo de dias. Qualquer mudança brusca de sede, urina, peso, inchaço, dor de cabeça ou estado mental deve ser comunicada imediatamente à equipe; não ajuste o plano por conta própria.",
+          "Em febre, calor, vômitos, diarreia, jejum para exame ou impossibilidade de acessar água/banheiro, use o plano de doença fornecido pela endocrinologia e avise cedo. Se não houver plano, procure o serviço no mesmo dia.",
+          "Use identificação de condição crônica quando recomendada e leve aos atendimentos a lista real das formulações e vias da desmopressina, outras reposições hormonais e contatos da equipe, sem atrasar emergência para reunir documentos."
+        ],
+        "MEDICAMENTOS": [
+          "A desmopressina pode substituir a ação da vasopressina no diabetes insípido central, mas só deve ser iniciada ou ajustada pela endocrinologia. Esta ficha não define produto, dose, via, horário nem duração.",
+          "Administre somente a apresentação, a via e o horário escritos para a criança. Comprimido, forma nasal e injetável não são equivalentes; não converta, repita, antecipe, dobre ou troque por conta própria.",
+          "Se a criança já usa desmopressina e a dose foi esquecida, vomitada, possivelmente duplicada ou não parece funcionar, contate imediatamente a equipe que acompanha. Não suspenda nem ofereça dose extra sem orientação, sobretudo após neurocirurgia.",
+          "Desmopressina em excesso junto com ingestão excessiva de líquidos pode reter água e baixar o sódio. Dor de cabeça forte ou prolongada, náuseas/vômitos, inchaço, confusão, sonolência ou convulsão após a medicação exige avaliação urgente.",
+          "Muita urina e sede apesar da medicação também podem indicar falha de administração, necessidade de ajuste, perda aumentada ou outra causa; não conclua que a criança está segura apenas porque consegue beber.",
+          "Algumas crianças têm outras deficiências hipofisárias, inclusive cortisol. Use dose de estresse de corticoide somente se houver plano individual já prescrito; vômitos, fraqueza intensa, desmaio ou incapacidade de manter a reposição exigem emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se estiver alerta e engolindo bem, permita água conforme a sede enquanto procura avaliação. Lactentes devem manter leite materno ou fórmula habitual conforme orientação; não dilua fórmula e não substitua alimento por água sem plano médico.",
+          "Não force líquidos se houver sonolência, convulsão, vômitos repetidos, engasgo ou alteração de consciência; coloque a criança de lado se vomitar e acione emergência para evitar aspiração.",
+          "Não tente tratar sede intensa com bebida esportiva, refrigerante, chá, suco concentrado, solução caseira com sal/açúcar ou grande volume de uma vez. A composição e a velocidade de reposição dependem do sódio e precisam ser definidas pela equipe.",
+          "Após desmopressina, não incentive a criança a beber além da sede nem use metas de volume de outra pessoa. Excesso de água pode causar hiponatremia; siga exatamente a orientação individual de líquidos.",
+          "Febre, calor, vômitos e diarreia mudam a necessidade de água e podem descompensar rapidamente o equilíbrio. Se a ingestão não acompanha as perdas ou a criança não consegue manter líquidos, procure atendimento imediato.",
+          "Sede intensa pode ocupar o lugar das refeições e prejudicar peso e crescimento. Depois da estabilização, a equipe deve acompanhar alimentação, crescimento e hidratação; não restrinja água para aumentar o apetite."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Ligue para o SAMU 192 se a criança tiver convulsão, desmaio, coma, confusão importante, ficar muito difícil de acordar ou não responder normalmente. Não dê líquido nem medicamento pela boca se não estiver alerta.",
+          "Vá imediatamente se houver muita urina acompanhada de incapacidade de beber, vômitos repetidos, perda rápida de peso, boca muito seca, olhos fundos, fraqueza extrema, tontura/desmaio, pulso muito rápido ou piora rápida.",
+          "Após desmopressina, dor de cabeça intensa/prolongada, náusea ou vômitos, inchaço, redução marcante da urina, confusão, sonolência ou convulsão pode indicar água em excesso e sódio baixo; não dê dose extra e procure emergência.",
+          "Após cirurgia, trauma ou doença do cérebro, aparecimento abrupto de sede e urina excessivas, ou alternância com pouca urina/inchaço, exige contato hospitalar imediato porque o sódio pode mudar rapidamente.",
+          "Recém-nascido ou lactente com febre ou temperatura baixa, irritabilidade ou moleza, mamada fraca, vômitos, fraldas muito molhadas, perda de peso ou sinais de desidratação precisa de avaliação hospitalar imediata.",
+          "Em criança com doença hipofisária, vômitos, dor abdominal, fraqueza intensa, palidez, desmaio, glicose baixa conhecida ou incapacidade de tomar a reposição hormonal pode indicar insuficiência adrenal associada e exige emergência."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se a sede e a urina excessivas começaram agora ou pioraram de repente, a reavaliação é no mesmo dia. Após cirurgia/trauma neurológico, jejum, sedação ou alteração da consciência, procure o serviço hospitalar responsável sem aguardar consulta de rotina.",
+          "O diagnóstico exige medir sangue e urina e excluir diabetes mellitus, doença renal, polidipsia primária e outras causas. Não confirme diabetes insípido pelo aspecto claro da urina nem por medidor doméstico.",
+          "Durante início ou mudança de desmopressina, o acompanhamento de urina, peso, hidratação e sódio deve ser próximo e definido pela endocrinologia. Não use um prazo fixo desta ficha para substituir o plano do serviço.",
+          "Antecipe a revisão se sede/noctúria/enurese reaparecer, a urina aumentar ou diminuir muito, houver mudança rápida de peso, dor de cabeça, náusea, vômitos, inchaço, comportamento diferente ou dificuldade para usar a apresentação prescrita.",
+          "Mesmo após estabilização, toda criança com diabetes insípido central precisa investigar a causa e outras funções da hipófise. Quando a causa ainda não está clara, imagem e seguimento especializados podem precisar ser repetidos conforme o plano.",
+          "Antes de escola, viagem, esporte, procedimento com jejum ou transição para autocuidado, revise o plano de água, banheiro, medicação, doença e emergência com a endocrinologia e forneça uma cópia ao adulto responsável."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos e lactentes pequenos não conseguem pedir água; fraldas, fezes e peso dificultam estimar a urina. Temperatura alterada, irritabilidade ou moleza, mamada fraca, vômitos, fraldas muito molhadas, perda de peso ou desidratação exige avaliação hospitalar imediata; não faça privação hídrica em casa.",
+        "3a5m": "Lactentes dependem totalmente do cuidador para beber e podem descompensar rápido. Observe mamadas, fraldas, lágrimas, peso e alerta; sede não pode ser usada como único mecanismo de proteção.",
+        "6a11m": "Não deixe água em recipiente inseguro nem force água em vez de leite/alimento. Fraldas muito molhadas seguidas de menos interação, boca seca ou perda de peso requerem avaliação urgente.",
+        "1a": "A criança pode buscar qualquer fonte de água, ficar irritada quando impedida de beber ou molhar a fralda/cama repetidamente. Garanta água segura e supervisão, sem interpretar o comportamento como birra.",
+        "2a5": "Creche e pré-escola devem permitir água e banheiro sem demora e conhecer o plano de emergência. Enurese nova, acordar para beber, cansaço ou queda de peso merecem contato antecipado com a equipe.",
+        "6a11": "A escola não deve punir saídas para beber ou urinar. A criança pode ajudar a registrar sede e urina, mas um adulto continua responsável por medicação, sintomas neurológicos e decisões em doença aguda.",
+        "12a17": "O adolescente deve participar do plano, mas não ajustar desmopressina, restringir água para evitar banheiro ou exagerar líquidos por esporte. Festas, viagens, álcool e jejum podem atrapalhar sede, acesso à água e uso correto da medicação.",
+        "unknown": "Sem idade e contexto, não aplique meta de urina, volume de líquido ou regra de medicamento. Confirme idade, peso, acesso à água, consciência, cirurgia/trauma recentes e plano endócrino; trate alteração neurológica ou incapacidade de beber como emergência."
+      },
+      "refs": [
+        {
+          "id": "pais242_op2332_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas do Diabete Insípido",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/diabete-insipido/@@download/file"
+        },
+        {
+          "id": "pais242_op2332_2",
+          "name": "Clinical Practice Guidelines: Diabetes insipidus",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/diabetes_insipidus/"
+        },
+        {
+          "id": "pais242_op2332_3",
+          "name": "Diabetes Insipidus — new onset or transient following neurosurgery",
+          "url": "https://www.starship.org.nz/guidelines/diabetes-insipidus-new-onset-or-transient-following-neurosurgery/"
+        },
+        {
+          "id": "pais242_op2332_4",
+          "name": "Arginine Vasopressin Deficiency (Diabetes Insipidus): clinical guidance",
+          "url": "https://www.endocrinology.org/clinical-practice/clinical-guidance/arginine-vasopressin-deficiency-diabetes-insipidus/"
+        },
+        {
+          "id": "pais242_op2332_5",
+          "name": "Clinical Practice Guidelines: Hypernatraemia",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hypernatraemia/"
+        },
+        {
+          "id": "pais242_op2332_6",
+          "name": "Diabetes Insipidus",
+          "url": "https://pedsendo.org/patient-resource/diabetes-insipidus/"
+        },
+        {
+          "id": "pais242_op2332_7",
+          "name": "Idiopathic thickened pituitary stalk and/or idiopathic central diabetes insipidus — guideline for children and young people",
+          "url": "https://www.cclg.org.uk/professionals/guidelines/guidelines/endocrine/tps-and-cdi"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2333",
+      "specific": false,
+      "key": "pdf1500_369",
+      "label": "Diabetes insípido central bilateral",
+      "entity": "Deficiência de arginina vasopressina (diabetes insípido central) pediátrica, com qualificador anatômico ‘bilateral’ não reconhecido como subtipo clínico autônomo",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_UNSUPPORTED_NON_AUTONOMOUS_BILATERAL_QUALIFIER\",\"normalized_entity\":\"Deficiência de arginina vasopressina (diabetes insípido central) pediátrica\",\"assessment\":\"O núcleo ‘diabetes insípido central’ é uma entidade clínica válida, hoje também denominada deficiência de arginina vasopressina. Ela decorre de produção, transporte ou liberação inadequados de vasopressina no sistema hipotálamo–neuro-hipófise e provoca urina excessiva e diluída, sede e risco de distúrbios do sódio. As diretrizes e classificações consultadas dividem a doença por deficiência central versus resistência renal, causa adquirida/familiar, presença de sede e contexto clínico; não apresentam ‘bilateral’ como estágio, gravidade ou subtipo. O sistema hipotálamo-hipofisário é uma unidade neuroendócrina e a lateralidade de uma eventual lesão cerebral não transforma a deficiência hormonal em duas doenças. Portanto, ‘bilateral’ deve permanecer rastreável como rótulo de cadastro, mas não autoriza inferir dois focos, acometimento dos dois rins, maior gravidade, permanência, etiologia, tratamento ou dose.\",\"nomenclature\":{\"preferred_current_term\":\"Deficiência de arginina vasopressina (AVP-D)\",\"accepted_legacy_term\":\"Diabetes insípido central\",\"source_label_preserved\":\"Diabetes insípido central bilateral\",\"bilateral_interpretation\":\"Qualificador anatômico não padronizado para a doença; pode refletir importação automática de lateralidade ou descrição incompleta de uma lesão causal, que precisa ser nomeada separadamente.\",\"inference_disclosure\":\"A ausência de um subtipo ‘bilateral’ é uma inferência nosológica explícita: as fontes oficiais definem AVP-D pela deficiência hormonal no eixo hipotálamo–hipófise e não por lados. Nenhuma fonte consultada sustenta ‘bilateral’ como entidade clínica própria.\"},\"canonical_reconciliation\":{\"candidate_canonical_key\":\"pdf1500_367\",\"candidate_canonical_label\":\"Diabetes insípido central\",\"relationship\":\"SAME_BASE_ENTITY_WITH_UNSUPPORTED_LATERALITY_QUALIFIER\",\"decision\":\"Preservar pdf1500_369 e seu rótulo exato, mas compartilhar somente o núcleo clínico de pdf1500_367 depois da revisão coordenadora. Contar zero entidade clínica adicional. O texto seguro precisa explicar a inadequação de ‘bilateral’ e impedir que o rótulo altere urgência, investigação, desmopressina ou ingestão de líquidos.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_ADDITIONAL_CATALOG_ID_TRACKED\"},\"not_automatically_equivalent_to\":[\"Diabetes insípido nefrogênico ou resistência renal à arginina vasopressina\",\"Doença renal bilateral, obstrução urinária ou lesão de ambos os rins\",\"Lesão bilateral do hipotálamo, núcleos supraópticos/paraventriculares ou outra estrutura cerebral\",\"Diabetes insípido adípsico ou sede prejudicada\",\"Diabetes insípido completo, grave, permanente, agudo ou pós-operatório\",\"Hipernatremia, hiponatremia, desidratação ou intoxicação hídrica já confirmadas\",\"Deficiência de outros hormônios hipofisários, inclusive insuficiência adrenal\",\"Indicação automática de desmopressina, via, dose, frequência, suspensão, restrição de água ou internação\"],\"pediatric_scope\":\"Aplica-se do período neonatal à adolescência quando existe suspeita ou diagnóstico confirmado de AVP-D. Bebês, crianças que não conseguem pedir água, pacientes com sede prejudicada, alteração neurológica, doença intercorrente, jejum, pós-operatório, vômitos/diarreia ou acesso limitado a líquidos apresentam risco maior e precisam de plano especializado e limiar baixo para avaliação hospitalar.\",\"critical_context_to_confirm\":[\"Se o diagnóstico de AVP-D foi confirmado ou se há apenas poliúria/polidipsia ainda em investigação\",\"Idade, peso e crescimento; capacidade de reconhecer sede, pedir água e acessar líquidos sem ajuda\",\"Volume e frequência de urina, urina noturna, ingestão, sede, peso recente e sinais de desidratação\",\"Sódio, osmolalidade plasmática e urinária, glicose e outras causas de poliúria; testes somente sob supervisão\",\"Causa central e imagem do eixo hipotálamo–hipófise; sintomas neurológicos, visuais ou de outros hormônios hipofisários\",\"Desmopressina realmente prescrita, formulação/via, horários, doses administradas, resposta e plano para doença/jejum\",\"Vômitos, diarreia, febre, cirurgia, trauma craniano, infecção, sedação, dieta zero ou redução de consciência\",\"Se ‘bilateral’ descrevia uma lesão causal documentada; nesse caso, registrar a lesão separadamente sem mudar automaticamente o diagnóstico hormonal\"],\"counting_rule\":\"Contar pdf1500_367 e pdf1500_369 como uma única entidade clínica-base se a revisão do coordenador confirmar equivalência. Não somar ‘bilateral’ como doença, gravidade ou orientação específica. Manter pdf1500_369 no inventário e na busca para rastreabilidade, com status SOURCE_TERM_ISSUE até a integração resolutiva.\",\"reason\":\"‘Diabetes insípido central’ é válido, mas ‘bilateral’ não é categoria reconhecida da deficiência de vasopressina e pode induzir falsa associação com ambos os rins ou maior gravidade. A lateralidade de eventual lesão causal deve ser documentada na própria lesão, não convertida em subtipo hormonal.\",\"next_action\":\"Mapear pdf1500_369 ao núcleo canônico pdf1500_367 sem nova contagem clínica, preservar o rótulo para busca e acrescentar nota de que ‘bilateral’ não muda manejo. Testar seleção por ID/nome e confirmar que não há herança automática de gravidade, doença renal, restrição de água, dose ou procedimento.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O nome do cadastro contém ‘bilateral’, mas essa palavra não define um tipo reconhecido de diabetes insípido central. A condição relevante é a falta de arginina vasopressina, hormônio que ajuda os rins a conservar água; isso pode causar muita urina clara, sede intensa e alterações perigosas do sódio.",
+          "Não interprete ‘bilateral’ como doença nos dois rins, dois focos cerebrais ou quadro necessariamente mais grave. Se existe uma lesão cerebral descrita em exame, peça à equipe o nome exato da lesão e como ela se relaciona com o eixo hipotálamo–hipófise.",
+          "A criança com suspeita ou diagnóstico de diabetes insípido deve ter acesso livre à água e ao banheiro, inclusive à noite, salvo se a própria endocrinologia entregou um plano individual diferente. Nunca faça restrição de água em casa para testar o diagnóstico.",
+          "Siga o plano escrito da equipe para sede, ingestão, urina, peso, desmopressina, doenças intercorrentes, jejum e retorno. Registre mudanças marcantes na quantidade de urina, sede, mamadas, peso, atividade e doses realmente administradas.",
+          "Bebês, crianças que não conseguem pedir água e pessoas com sede prejudicada dependem do cuidador para receber o volume planejado. Não espere sede intensa para oferecer o que foi prescrito e não improvise grandes volumes se houver sonolência, vômitos ou alteração neurológica.",
+          "Mantenha identificação da condição e contatos da endocrinologia. Escola, creche e outros cuidadores precisam permitir água e banheiro sem demora, conhecer os sinais de desidratação e saber a quem ligar.",
+          "A evolução depende da causa central. Casos após cirurgia podem variar ao longo dos dias; casos familiares, tumorais, inflamatórios, infecciosos ou traumáticos exigem acompanhamento próprio. O qualificador ‘bilateral’ não prevê se o quadro será transitório ou permanente."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não realize prova de privação hídrica em casa. Esse teste pode causar desidratação grave e, em crianças, deve ocorrer somente com indicação e monitorização especializada; lactentes pequenos exigem cautela ainda maior.",
+          "Combine previamente um plano para cirurgia, sedação, exame com jejum, viagem longa e situações em que a criança não possa alcançar água. Avise a equipe de saúde antes de qualquer período sem ingestão e leve o plano endócrino e a lista real de medicamentos.",
+          "Facilite acesso contínuo a água potável e banheiro. Para crianças menores, pese fraldas ou anote trocas apenas se a equipe ensinou como usar esses dados; não tente corrigir perdas com fórmulas caseiras ou volumes calculados sem orientação.",
+          "Observe crescimento, ganho de peso, visão, dor de cabeça, vômitos matinais, mudança de comportamento, puberdade e energia. Esses achados podem indicar a causa central ou outra deficiência hipofisária e precisam ser informados à endocrinologia.",
+          "Em doença com febre, vômitos ou diarreia, reduza o limiar para contato no mesmo dia, porque a ingestão e as perdas podem mudar rapidamente. Se a criança não consegue beber ou está menos alerta, procure atendimento urgente.",
+          "A condição não é contagiosa e não exige afastamento escolar por si só. A criança pode frequentar escola e atividades quando estiver clinicamente bem, com plano de água/banheiro/medicação e autorização individual da equipe após descompensação."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, suspenda, atrase, repita nem ajuste desmopressina ou vasopressina a partir desta ficha. Produto, via e horários não são equivalentes e precisam ser definidos pela endocrinologia para aquela criança.",
+          "Use somente a apresentação e a medida prescritas. Não troque comprimido, formulação sublingual, spray nasal ou injeção entre si e não compartilhe medicamento; a quantidade absorvida e o risco mudam conforme a via.",
+          "Se uma dose foi esquecida, vomitada, recusada, administrada em duplicidade ou não pareceu funcionar, contate a equipe responsável. Não compense com dose extra nem restrinja água por conta própria.",
+          "Durante resfriado que dificulte uso nasal, vômitos, diarreia, jejum, pós-operatório ou mudança brusca da urina, siga o plano de doença entregue pela endocrinologia e peça orientação no mesmo dia; não improvise outra via.",
+          "Desmopressina em excesso, dose repetida ou ingestão de líquido incompatível com o plano pode causar retenção de água e hiponatremia. Dor de cabeça forte ou prolongada, náuseas/vômitos, confusão, sonolência, convulsão, inchaço ou aumento rápido de peso exigem avaliação urgente e nenhuma dose extra.",
+          "Omissão ou atraso de desmopressina em quem depende dela, especialmente sem acesso a água ou com sede prejudicada, pode causar diurese intensa, desidratação e hipernatremia. Leve a embalagem e o plano ao atendimento e informe o horário da última dose."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Água não deve ser restringida de rotina na criança com suspeita ou confirmação de diabetes insípido central. Ofereça acesso livre, salvo se a endocrinologia tiver definido um volume individual por sede prejudicada, pós-operatório ou uso de desmopressina.",
+          "Bebês devem manter leite materno ou fórmula conforme orientação pediátrica; água adicional, concentração de fórmula e reposição de perdas precisam ser individualizadas. Não dilua fórmula nem ofereça soluções caseiras para corrigir o sódio.",
+          "Crianças maiores podem manter alimentação equilibrada. Não prescreva dieta pobre em sal ou proteína por conta própria: estratégias dietéticas usadas no diabetes insípido nefrogênico não devem ser transferidas automaticamente ao tipo central.",
+          "Em calor, exercício, febre, vômitos ou diarreia, o risco muda porque aumentam as perdas ou diminuem a ingestão. Siga o plano escrito e contate a equipe; se não houver plano ou se a criança não conseguir beber, procure avaliação no mesmo dia ou emergência conforme o estado clínico.",
+          "Se houver confusão, convulsão, desmaio, engasgos ou sonolência importante, não force líquido ou alimento pela boca. Acione emergência para reduzir risco de aspiração e permitir correção monitorada do sódio.",
+          "Não use a quantidade de sede isoladamente para decidir que está tudo bem: crianças pequenas, pacientes com lesão hipotalâmica ou alteração de consciência podem perder água sem sentir ou comunicar sede adequadamente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Não consegue beber, manter líquidos ou mamar; vomita repetidamente; tem diarreia importante; urina em grande volume sem conseguir repor; boca muito seca, olhos fundos, perda rápida de peso ou aparência de desidratação: procure atendimento imediato.",
+          "Confusão, dificuldade para despertar, comportamento muito diferente, fraqueza extrema, convulsão, desmaio ou coma: acione emergência. Podem ocorrer em desidratação/hipernatremia ou retenção de água/hiponatremia.",
+          "Dor de cabeça forte ou crescente, vômitos, alteração visual, nova fraqueza, dificuldade para caminhar ou outro sinal neurológico, especialmente após cirurgia, trauma craniano ou em criança com lesão cerebral conhecida: emergência imediata.",
+          "Depois de desmopressina, pouca ou nenhuma urina acompanhada de dor de cabeça, náusea, vômitos, confusão, sonolência, inchaço ou ganho rápido de peso: possível intoxicação por água/hiponatremia e avaliação urgente; não dê dose extra.",
+          "Sede impossível de aliviar, urina muito frequente e clara, piora rápida, taquicardia, pele fria, extremidades frias, tontura, desmaio ou pouca resposta: possível perda grave de água/choque e atendimento imediato.",
+          "Recém-nascido ou lactente com febre ou temperatura baixa, irritabilidade ou moleza, mamada fraca, vômitos, perda de peso, fraldas muito molhadas ou sinais de desidratação: emergência, mesmo que não demonstre sede.",
+          "Criança em jejum, sedada, imobilizada ou internada sem acesso à água, com dose de desmopressina atrasada/omitida ou aumento importante da urina: avise a equipe imediatamente; não espere o próximo horário de rotina."
+        ],
+        "QUANDO REAVALIAR": [
+          "Sede e urina excessivas novas precisam de avaliação pediátrica no mesmo dia; diabetes mellitus, excesso de ingestão de água, doença renal e outras causas devem ser diferenciados. O termo ‘bilateral’ não confirma o diagnóstico.",
+          "Toda criança em investigação, iniciando ou modificando desmopressina deve ser acompanhada pela endocrinologia, com exames e prazos definidos pela equipe. Não use melhora da sede isolada como prova de dose correta.",
+          "Entre em contato no mesmo dia diante de febre, vômitos, diarreia, redução da ingestão, jejum planejado, resfriado que impeça uso nasal, dose perdida/duplicada ou mudança marcante da sede e da urina.",
+          "Cumpra o seguimento de crescimento, sódio e osmolalidade, outros hormônios hipofisários e imagem quando indicados. Dor de cabeça, alteração visual, queda do rendimento, mudança de puberdade ou crescimento podem exigir antecipação da consulta.",
+          "Após neurocirurgia, trauma ou diagnóstico de lesão hipotálamo-hipofisária, a necessidade de desmopressina e líquidos pode variar. A equipe deve definir monitorização e retorno; não classifique o curso como permanente nem ‘bilateral’ pelo cadastro.",
+          "Revise periodicamente o plano da escola/creche e das viagens: acesso a água e banheiro, quem administra medicamento, sinais de alarme, contatos e conduta em vômitos/jejum devem estar claros.",
+          "O ID pdf1500_369 precisa ser reconciliado com o diagnóstico-base pdf1500_367. Até isso ocorrer, ele não deve ser contado como doença adicional nem usado para alterar tratamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascidos e lactentes pequenos não conseguem comunicar sede e podem apresentar irritabilidade, febre/hipotermia, mamada fraca, vômitos, perda ou ganho inadequado de peso e fraldas muito molhadas. Suspeita de AVP-D ou alteração de líquidos/sódio requer avaliação hospitalar; não restringir água, diluir fórmula ou fazer teste em casa.",
+        "3a5m": "O cuidador controla todas as ofertas de leite/líquido e deve observar mamadas, fraldas, peso e estado de alerta. Vômitos, diarreia, menos ingestão, moleza ou mudança rápida da urina exigem contato imediato; volumes e desmopressina somente pelo plano especializado.",
+        "6a11m": "O bebê pode buscar água, mas ainda depende do adulto. Garanta acesso conforme o plano, monitore fraldas/mamadas e procure atendimento se não conseguir beber ou ficar sonolento. Prova de privação hídrica pode ser inadequada antes de 12 meses e nunca deve ser feita em casa.",
+        "1a": "A criança pequena pode não pedir água de forma confiável. Deixe copo/garrafa acessível, mantenha supervisão, informe creche e registre mudança de sede, fraldas, peso e atividade. Não use ‘bilateral’ para decidir dose ou gravidade.",
+        "2a5": "Explique que a criança precisa beber e ir ao banheiro sem castigo ou espera. Creche/escola deve conhecer o plano, os contatos e sinais como sede intensa, urina excessiva, dor de cabeça, vômitos, sonolência e mudança de comportamento.",
+        "6a11": "Ensine a levar água, reconhecer piora e avisar um adulto, sem colocar toda a responsabilidade na criança. Planeje esporte, passeio, prova escolar, jejum e viagens; preserve acesso ao banheiro e leve medicamento/plano conforme prescrição.",
+        "12a17": "O adolescente deve conhecer nome atual (AVP-D), apresentação e horários prescritos, riscos de dose omitida/extra e sinais de desidratação ou hiponatremia. Álcool, festas, esporte intenso, jejum e transição de cuidados exigem plano; autonomia deve ser progressiva e conferida pelo responsável/equipe.",
+        "unknown": "Sem idade e capacidade de sede/acesso à água, não é seguro definir cuidado domiciliar, volume de líquido, risco de jejum ou medicamento. Manter orientação geral de acesso à água, não ajustar desmopressina e buscar avaliação imediata diante de alarme."
+      },
+      "refs": [
+        {
+          "id": "pais242_op2333_1",
+          "name": "Clinical Practice Guidelines: Diabetes insipidus",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/diabetes_insipidus/"
+        },
+        {
+          "id": "pais242_op2333_2",
+          "name": "Arginine Vasopressin Disorder (Diabetes Insipidus) Clinical Pathway",
+          "url": "https://www.hopkinsmedicine.org/-/media/files/allchildrens/clinical-pathways/arginine-vasopressin-disorder-di-clinical-pathway07252025.pdf?openpdf=1"
+        },
+        {
+          "id": "pais242_op2333_3",
+          "name": "Diabetes Insipidus",
+          "url": "https://www.niddk.nih.gov/health-information/kidney-disease/diabetes-insipidus"
+        },
+        {
+          "id": "pais242_op2333_4",
+          "name": "Arginine vasopressin deficiency",
+          "url": "https://medlineplus.gov/genetics/condition/arginine-vasopressin-deficiency/"
+        },
+        {
+          "id": "pais242_op2333_5",
+          "name": "Your child is having a water deprivation test",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/procedures-and-treatments/your-child-having-water-deprivation-test/"
+        },
+        {
+          "id": "pais242_op2333_6",
+          "name": "Society for Endocrinology Clinical Guidance: Inpatient management of cranial diabetes insipidus",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6013691/"
+        },
+        {
+          "id": "pais242_op2333_7",
+          "name": "Central diabetes insipidus in children: Diagnosis and management",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32646670/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2334",
+      "specific": false,
+      "key": "pdf1500_370",
+      "label": "Diabetes insípido central crônico",
+      "entity": "Deficiência central de arginina-vasopressina (diabetes insípido central) pediátrica, com curso prolongado ou permanente ainda dependente de confirmação e seguimento etiológico",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_NON_AUTONOMOUS_CHRONIC_COURSE_QUALIFIER\",\"normalized_entity\":\"Deficiência central de arginina-vasopressina (diabetes insípido central) pediátrica\",\"assessment\":\"O núcleo é uma entidade pediátrica válida: deficiência relativa ou absoluta de arginina-vasopressina produzida no hipotálamo e liberada pela neuro-hipófise, com incapacidade de concentrar a urina, poliúria e sede compensatória. A nomenclatura internacional atual também usa ‘deficiência de arginina-vasopressina’. ‘Crônico’ descreve duração ou permanência do quadro, não uma doença adicional, causa, intensidade ou garantia de estabilidade. Após neurocirurgia pode haver fase transitória, resposta trifásica ou deficiência permanente; em casos sem causa esclarecida, a investigação e a vigilância não terminam apenas porque os sintomas duram muito tempo. O qualificador só deve ser aplicado quando o curso prolongado/permanente foi confirmado pela equipe, sem substituir a causa de base nem o plano individual de água, desmopressina e monitorização.\",\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_367\",\"canonical_label\":\"Diabetes insípido central\",\"preferred_canonical_label\":\"Deficiência central de arginina-vasopressina (diabetes insípido central)\",\"relationship\":\"SAME_BASE_ENTITY_WITH_DURATION_QUALIFIER\",\"decision\":\"Preservar pdf1500_370 e seu rótulo para rastreabilidade, mas compartilhar o núcleo clínico de pdf1500_367 e contar zero nova entidade. ‘Crônico’ acrescenta necessidade de plano continuado, vigilância da causa e preparação para doença intercorrente, escola, viagem, jejum e transição; não autoriza repetir dose, restringir ou forçar líquidos, nem suspender seguimento.\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_ADDITIONAL_CATALOG_ID_MAPPED_TO_PDF1500_367\"},\"chronic_course_interpretation\":{\"may_mean\":[\"Deficiência de vasopressina persistente ou permanente confirmada pela equipe após causa congênita, tumoral, inflamatória, traumática ou neurocirúrgica\",\"Necessidade continuada de acesso seguro a água, plano de desmopressina quando prescrito e acompanhamento endocrinológico\",\"Risco recorrente de desidratação/hipernatremia quando falta água ou tratamento e de retenção de água/hiponatremia quando há desmopressina em excesso ou ingestão inadequada\",\"Necessidade de investigar e acompanhar a causa e outros hormônios hipofisários conforme o contexto\"],\"does_not_mean\":[\"Quadro automaticamente estável, leve ou seguro para ajustes domésticos\",\"Causa idiopática, tumoral, genética, infecciosa, pós-operatória ou traumática definida pelo rótulo\",\"Sede preservada ou capacidade garantida de obter água\",\"Indicação automática de desmopressina, forma, dose, intervalo ou volume fixo de líquidos\",\"Ausência de deficiência de cortisol ou de outros hormônios hipofisários\",\"Dispensa de reavaliação se aparecerem cefaleia, vômitos, alteração visual, crescimento/puberdade anormais ou mudança da sede e diurese\"]},\"not_automatically_equivalent_to\":[\"Diabetes insípido nefrogênico ou resistência renal à arginina-vasopressina\",\"Polidipsia primária ou hábito de beber água\",\"Diabetes mellitus com glicose alta e diurese osmótica\",\"Diurese por medicamentos, hipercalcemia, hipocalemia ou doença renal\",\"Diabetes insípido central agudo/transitório após neurocirurgia\",\"Adipsia ou deficiência de sede, que exige plano de líquidos muito mais controlado\",\"Hiponatremia por desmopressina/ingestão excessiva de água\",\"Hipernatremia e desidratação por água insuficiente, doença intercorrente ou tratamento omitido\",\"Indicação automática de dose, via, duração, restrição hídrica ou alta\"],\"pediatric_scope\":\"Aplica-se a recém-nascidos, lactentes, crianças e adolescentes com deficiência central de vasopressina persistente, mas o risco muda muito com idade, sede, acesso à água, cognição, comunicação, neurodeficiência, causa hipotalâmico-hipofisária, outras deficiências hormonais e capacidade dos cuidadores. Bebês e crianças que não conseguem pedir água, pacientes adípsicos e qualquer criança doente, em jejum, sedada ou com vômitos/diarreia precisam de limiar baixo para avaliação hospitalar e plano especialista.\",\"counting_rule\":\"Contar pdf1500_367 e pdf1500_370 como uma única entidade clínica. Manter pdf1500_370 como variante cadastral de curso, specific=false, até o coordenador mapear o ID ao conteúdo canônico. Não somar duração, intensidade, lateralidade, recorrência ou resposta ao tratamento como novas doenças sem definição própria sustentada.\",\"critical_context_to_confirm\":[\"Idade, peso habitual, desenvolvimento, capacidade de comunicar sede e acesso contínuo a água\",\"Causa conhecida ou ainda investigada: congênita/genética, pós-operatória, trauma, tumor, inflamação, infecção ou idiopática\",\"Sede preservada versus adipsia, volume e padrão habitual de urina, noctúria, ingestão e perdas recentes\",\"Desmopressina realmente prescrita: apresentação, via, horário, última dose, resposta, doses omitidas ou repetidas e possibilidade de troca de via\",\"Plano escrito para doença intercorrente, jejum, cirurgia, viagem, escola e contato endocrinológico\",\"Sódio, osmolalidade, função renal, hidratação, peso e outros hormônios hipofisários conforme a equipe\",\"Cefaleia, vômitos, alteração visual, fraqueza, convulsão, consciência, crescimento e puberdade\",\"Cortisol/adrenal, tireoide e demais reposições hormonais; plano de estresse se houver insuficiência adrenal\"],\"reason\":\"‘Crônico’ é qualificador de duração do diabetes insípido central e não entidade clínica autônoma. O manejo seguro continua dependendo da sede, do acesso à água, da causa, de outras deficiências hipofisárias, do plano individual e da resposta real ao tratamento; o rótulo isolado não permite prescrever ou ajustar desmopressina e líquidos.\",\"next_action\":\"Mapear pdf1500_370 ao núcleo canônico pdf1500_367 sem nova contagem, preservando o rótulo. Na integração, acrescentar alertas de doença intercorrente, jejum/sedação, acesso à água, hipernatremia, hiponatremia e investigação etiológica continuada; testar que nenhuma dose, troca de via, restrição ou volume hídrico é gerado automaticamente.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Diabetes insípido central, também chamado deficiência central de arginina-vasopressina, faz os rins perderem água em urina muito diluída. A criança costuma urinar muito e sentir muita sede. ‘Crônico’ significa curso prolongado ou permanente confirmado pela equipe; não significa quadro sempre leve ou estável.",
+          "Mantenha água potável ao alcance e permita que a criança beba conforme a sede, salvo se o endocrinologista forneceu um plano escrito diferente. Nunca esconda água, faça teste de sede ou imponha restrição/volume extra por conta própria.",
+          "Siga o plano individual entregue pela endocrinologia. Observe mudanças em sede, número e volume das micções, noctúria, fraldas, peso quando orientado, energia e comportamento. Registre horários reais de medicamentos e episódios de vômito, diarreia, febre ou calor intenso.",
+          "Crianças pequenas, com deficiência de sede, atraso do desenvolvimento, alteração neurológica ou dificuldade de alcançar água precisam de supervisão contínua. Escola, creche e cuidadores devem garantir acesso ao banheiro e à água e saber quem contatar se a criança piorar.",
+          "Doença intercorrente pode alterar rapidamente o equilíbrio de água e sódio. Vômitos, diarreia, febre, recusa de líquidos, jejum, sonolência ou mudança importante da urina exigem contato com a equipe no mesmo dia; sinais graves exigem pronto atendimento.",
+          "Avise previamente endocrinologia e anestesia antes de cirurgia, sedação, exame com jejum ou internação. Não aceite restrição de água ou atraso/omissão de tratamento sem um plano clínico para o diabetes insípido.",
+          "A condição não é contagiosa. Com equilíbrio estável e plano na escola, a criança pode participar das atividades habituais, sempre com acesso à água, banheiro e medicação conforme prescrita."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Tenha um plano de emergência atualizado com diagnóstico, contatos, medicamentos prescritos, outras deficiências hormonais e instruções para doença, jejum e viagem. Use identificação médica se a equipe recomendar.",
+          "Não tente medir ou corrigir sódio em casa por sede, cor da urina ou volume isolado. Tanto sódio alto quanto baixo podem causar cefaleia, vômitos, confusão e convulsão; a distinção exige avaliação e exame de sangue.",
+          "Não faça teste de privação de água em casa. Quando necessário, esse teste é realizado sob supervisão especializada e pode ser inadequado para lactentes.",
+          "Compare com o padrão habitual da própria criança. Urinar muito mais, parar de urinar, beber de forma compulsiva, acordar repetidamente para beber ou molhar a cama novamente são motivos para contato antecipado.",
+          "Mantenha retornos para avaliar crescimento, puberdade, visão, outros hormônios da hipófise e a causa do quadro. Em diabetes insípido central sem causa clara, exames e imagens podem precisar ser repetidos conforme o especialista.",
+          "Em dias quentes, exercício ou viagem, planeje acesso contínuo a água, banheiro e medicação; não use um volume universal. Em voos e passeios, leve quantidade extra do medicamento na embalagem original e o plano médico.",
+          "Se a criança tiver sede reduzida ou não conseguir beber sozinha, não use ‘beber conforme a sede’ como regra. O volume e os horários de líquidos devem ser prescritos e revistos pela equipe especializada."
+        ],
+        "MEDICAMENTOS": [
+          "Se desmopressina foi prescrita, dê exatamente a apresentação, via, quantidade e horário escritos para aquela criança. Formas oral, sublingual, nasal e injetável não são equivalentes e não podem ser trocadas em casa.",
+          "Não inicie, aumente, reduza, repita, interrompa ou compense uma dose esquecida/vomitada sem orientação do serviço responsável. Pouco tratamento ou falta de água pode causar desidratação e sódio alto; desmopressina em excesso, especialmente com ingestão inadequada de líquidos, pode causar retenção de água e sódio baixo.",
+          "Se a dose estiver próxima e a criança não urinou por muitas horas, se a urina aumentou muito antes do horário, ou se houve vômito logo após a dose, contate a equipe antes de decidir o que fazer. Não dobre a próxima dose.",
+          "Em resfriado que impeça uso nasal, dificuldade para engolir, internação, jejum ou cirurgia, não mude a via por conta própria. Procure endocrinologia/farmácia, pois a potência entre vias é muito diferente.",
+          "Cefaleia forte ou prolongada, náuseas/vômitos, confusão, inchaço, queda acentuada da urina ou convulsão durante uso de desmopressina podem indicar retenção de água e hiponatremia: procure pronto atendimento e não dê dose extra.",
+          "Algumas crianças também têm insuficiência adrenal ou outras deficiências hipofisárias. Siga o plano de doença e reposições entregue para cada condição; não presuma que desmopressina cobre falta de cortisol.",
+          "Informe todos os medicamentos, inclusive diuréticos, antidepressivos, anticonvulsivantes, anti-inflamatórios e produtos sem receita. Não use chá, suplemento ou remédio para ‘diminuir a urina’ sem avaliação."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Alimentação pode ser adequada à idade, salvo orientação por outra condição. Não faça dieta com sal, proteína ou carboidrato reduzidos para diabetes insípido central sem prescrição.",
+          "Ofereça água e permita acesso fácil durante o dia e à noite. Se existe plano de volume/horários por deficiência de sede, siga exatamente esse plano; não substitua pelo conselho genérico de beber mais.",
+          "Não force grandes volumes nem restrinja água por conta própria enquanto a criança usa desmopressina. O equilíbrio depende da sede, do tratamento e do sódio; excesso e falta de água podem ser perigosos.",
+          "Lactentes não conseguem pedir água e leite não deve ser usado livremente para compensar toda sede, pois pode substituir alimentação e alterar solutos. A equipe deve definir leite, água e outras ofertas de acordo com idade, peso e exames.",
+          "Vômitos, diarreia, febre ou recusa de líquidos podem causar desidratação mesmo que a urina não pareça aumentada. Procure orientação no mesmo dia; se não consegue beber, está sonolento ou piora, vá ao pronto atendimento.",
+          "Se estiver confusa, convulsionando, muito sonolenta ou com engasgos, não ofereça líquidos pela boca. Coloque de lado se estiver convulsionando, proteja de traumas e acione emergência."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Convulsão, desmaio, confusão, dificuldade para despertar, fraqueza intensa, comportamento muito diferente ou piora neurológica: acione emergência; podem ser alterações graves de sódio ou outra doença cerebral.",
+          "Sede extrema com urina muito aumentada, boca muito seca, ausência de lágrimas, olhos fundos, perda rápida de peso, coração acelerado, pouca resposta ou incapacidade de obter/beber água: risco de desidratação e hipernatremia.",
+          "Cefaleia forte ou prolongada, náuseas/vômitos repetidos, inchaço, ganho rápido de peso, urina muito reduzida ou ausente após desmopressina: possível retenção de água e hiponatremia; não dê dose extra e procure emergência.",
+          "Vômitos ou diarreia persistentes, recusa de todos os líquidos, febre com prostração, jejum não planejado ou impossibilidade de manter o medicamento/plano de água: avaliação urgente no mesmo dia; se houver sonolência, choque ou convulsão, acione emergência.",
+          "Nova cefaleia matinal, vômitos ao acordar, visão dupla/embaçada, perda visual, fraqueza de um lado, desequilíbrio ou alteração de comportamento: investigação urgente da causa hipotalâmico-hipofisária.",
+          "Se também houver insuficiência adrenal: palidez intensa, dor abdominal, vômitos, desmaio, hipoglicemia suspeita ou choque exige o plano de emergência já prescrito e ambulância; não espere apenas a sede ou a urina mudar.",
+          "Bebê com mamada ruim, irritabilidade ou sonolência incomum, poucas lágrimas, fontanela deprimida, mudança marcante de fraldas ou temperatura alterada precisa de avaliação imediata, pois pode piorar sem expressar sede."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno regular com endocrinologia pediátrica mesmo quando a criança parece bem. O acompanhamento revê crescimento, puberdade, visão, sódio, hidratação, dose/apresentação prescrita e outros hormônios hipofisários.",
+          "Se a causa ainda é desconhecida, não encerre a investigação porque o quadro ficou crônico. A equipe pode programar imagens da hipófise/haste e outros exames ao longo do tempo para procurar causas que inicialmente não eram visíveis.",
+          "Contate a equipe no mesmo dia se sede/urina mudarem do padrão, houver nova enurese/noctúria, a dose parecer durar menos ou mais, ocorrer dose perdida/vomitada, a criança não urinar por muitas horas, ou surgirem vômitos, diarreia, febre ou recusa de líquidos.",
+          "Antes de cirurgia, sedação, exame com jejum, viagem longa, acampamento ou mudança de escola, peça um plano escrito para água, desmopressina, monitorização e contatos de urgência.",
+          "Antecipe o retorno se houver cefaleia, vômitos, alteração de visão, fraqueza, mudança de comportamento, crescimento lento, puberdade adiantada/atrasada ou sintomas de outra deficiência hormonal.",
+          "Adolescentes devem aprender gradualmente o nome atual da condição, sinais de sódio alto/baixo, como manter água e medicamento e quando pedir ajuda. A transição para o serviço adulto deve preservar o plano de emergência e o seguimento da causa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido/lactente pequeno não consegue compensar pela sede nem pedir água. Mudança de mamadas/fraldas, irritabilidade, sonolência, perda de peso, febre/hipotermia ou vômitos exige avaliação hospitalar rápida; plano de leite, água e desmopressina deve ser feito pela endocrinologia/neonatologia.",
+        "3a5m": "Cuidadores devem controlar acesso aos líquidos prescritos/oferecidos, fraldas, mamadas, peso quando orientado e estado geral. Não interpretar choro ou mamada isoladamente como sede e não fazer restrição/teste de água.",
+        "6a11m": "Introdução alimentar e ofertas de água precisam seguir plano por idade/peso; não compensar toda sede com leite. Vômitos, diarreia, febre e menor número de fraldas reduzem a margem de segurança e exigem contato precoce.",
+        "1a": "A criança pode não nomear sede e depende de adultos para água e banheiro. Creche deve reconhecer fraldas/urina muito aumentadas, sonolência, recusa de líquidos e ter contatos/plano escritos.",
+        "2a5": "Explique que pode beber água e usar o banheiro quando precisar, sem punição por escapes. Adulto administra a medicação; escola/creche não deve restringir água nem repetir dose sem ordem escrita.",
+        "6a11": "Escola precisa liberar garrafa de água e banheiro e conhecer sinais de desidratação/hiponatremia. A criança pode ajudar a anotar sede/urina, mas um adulto ainda confere medicação e plano de doença.",
+        "12a17": "Adolescente deve carregar identificação/plano, manter água e medicamento, saber que álcool, festas, esporte, jejum e viagem aumentam risco e não ajustar dose/água sozinho. Preparar transição com equipe pediátrica e adulta.",
+        "unknown": "Sem idade, capacidade de sede, acesso à água, causa, sódio e esquema real, não individualizar líquidos ou desmopressina. Manter acesso seguro a água, seguir apenas plano já prescrito e usar limiar baixo para avaliação."
+      },
+      "refs": [
+        {
+          "id": "pais242_op2334_1",
+          "name": "Clinical Practice Guidelines: Diabetes insipidus",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/diabetes_insipidus/"
+        },
+        {
+          "id": "pais242_op2334_2",
+          "name": "Idiopathic thickened pituitary stalk and/or central diabetes insipidus — guideline for investigation and management",
+          "url": "https://www.cclg.org.uk/professionals/guidelines/guidelines/endocrine/tps-and-cdi"
+        },
+        {
+          "id": "pais242_op2334_3",
+          "name": "Management of children and young people with idiopathic pituitary stalk thickening, central diabetes insipidus, or both: a national clinical practice consensus guideline",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34214482/"
+        },
+        {
+          "id": "pais242_op2334_4",
+          "name": "Disorders of Fluid Balance — Diabetes Insipidus Referral Access Criteria",
+          "url": "https://healthywa.health.wa.gov.au/sitecore/content/Corporate/Articles/N_R/Referral-Access-Criteria/Endocrinology-and-Diabetes-Paediatric-Referral-Access-Criteria/Disorders-of-Fluid-Balance-Diabetes-Insipidus-Referral-Access-Criteria"
+        },
+        {
+          "id": "pais242_op2334_5",
+          "name": "Diabetes insipidus — Overview",
+          "url": "https://www.nhs.uk/conditions/diabetes-insipidus/"
+        },
+        {
+          "id": "pais242_op2334_6",
+          "name": "Diabetes insipidus — Treatment",
+          "url": "https://www.nhs.uk/conditions/diabetes-insipidus/treatment/"
+        },
+        {
+          "id": "pais242_op2334_7",
+          "name": "Diabetes Insipidus (Arginine Vasopressin Deficiency) information",
+          "url": "https://www.endocrinology.org/clinical-practice/clinical-guidance/arginine-vasopressin-deficiency-diabetes-insipidus/diabetes-insipidus-arginine-vasopressin-deficiency-information/"
+        },
+        {
+          "id": "pais242_op2334_8",
+          "name": "Cortisol deficiency — illness guidance including children with DI taking DDAVP",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/cortisol-deficiency/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2335",
+      "specific": true,
+      "key": "pdf1500_371",
+      "label": "Diabetes insípido central de origem infecciosa",
+      "entity": "Deficiência de arginina-vasopressina (diabetes insípido central) pediátrica atribuída a infecção do sistema nervoso central ou a dano hipotalâmico-neuro-hipofisário relacionado à infecção; subtipo etiológico raro e dependente de confirmação, não agente infeccioso nem doença autônoma",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_RARE_NON_AUTONOMOUS_INFECTIOUS_CAUSAL_MODIFIER\",\"normalized_entity\":\"Deficiência de arginina-vasopressina central pediátrica associada a infecção do sistema nervoso central\",\"preferred_public_term\":\"Deficiência de vasopressina (diabetes insípido central) relacionada a infecção do sistema nervoso central\",\"assessment\":\"Diabetes insípido central corresponde à deficiência de arginina-vasopressina por comprometimento do eixo hipotálamo-neuro-hipófise. Diretrizes pediátricas listam meningite entre as causas centrais, e séries pediátricas registram infecção/inflamação do sistema nervoso central como etiologia minoritária. Portanto, 'de origem infecciosa' é um modificador causal plausível e clinicamente útil quando a infecção e o vínculo causal foram documentados. Não é sinônimo de toda febre em criança com diabetes insípido, não significa que a infecção continue ativa ou transmissível e não define bactéria, vírus, fungo, tuberculose, infecção congênita, momento da doença ou reversibilidade da deficiência hormonal.\",\"etiologic_interpretation\":{\"meaning\":\"A equipe atribuiu a deficiência de vasopressina a infecção ou inflamação infecciosa que afetou hipotálamo, haste hipofisária, neuro-hipófise ou estruturas encefálicas relacionadas.\",\"evidence_grade\":\"CAUSA_RECONHECIDA_EM_DIRETRIZES_E_SERIES_PEDIATRICAS_OBSERVACIONAIS_MAS_RARA_E_HETEROGENEA\",\"rarity\":\"Em uma série de 67 crianças, infecção respondeu por 4 casos (6%); outras séries agrupam infecção com inflamação ou insulto cerebral agudo, impedindo uma frequência universal. Relatos de meningite pneumocócica, estreptocócica, por E. coli e meningoencefalite enteroviral mostram possibilidade, não regra.\",\"requires_confirmation_of\":[\"Infecção do sistema nervoso central, congênita ou sistêmica com envolvimento hipotalâmico-neuro-hipofisário documentado ou fortemente sustentado\",\"Deficiência de vasopressina confirmada por avaliação clínica, bioquímica e endocrinológica adequada\",\"Exclusão de causas mais prováveis ou coexistentes, como tumor, cirurgia, trauma, malformação, doença infiltrativa/autoimune e polidipsia primária\",\"Estado atual da infecção: ativa, tratada, resolvida ou apenas sequela\",\"Outras deficiências hipofisárias, especialmente insuficiência adrenal, que mudam o risco durante doença intercorrente\"],\"does_not_mean\":[\"Infecção ativa ou contagiosa em toda criança com este rótulo\",\"Meningite ou encefalite presente apenas porque houve febre, sede ou muita urina\",\"Agente infeccioso definido\",\"Indicação automática de antibiótico, antiviral, antifúngico, tuberculostático ou corticoide\",\"Dose, via ou duração de desmopressina definidas pelo qualificador\",\"Deficiência transitória ou permanente já estabelecida\",\"Ausência de tumor, trauma, cirurgia, malformação, inflamação não infecciosa ou doença infiltrativa\",\"Segurança para alta ou manejo domiciliar durante sinais neurológicos, sepse ou distúrbio do sódio\"]},\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_367\",\"canonical_label\":\"Diabetes insípido central\",\"preferred_canonical_label\":\"Deficiência de arginina-vasopressina (diabetes insípido central)\",\"relationship\":\"SAME_CENTRAL_AVP_DEFICIENCY_ENTITY_WITH_RARE_DOCUMENTED_INFECTIOUS_ETIOLOGY\",\"decision\":\"Preservar pdf1500_371 para busca e rastreabilidade e compartilhar o núcleo clínico de pdf1500_367. Acrescentar somente segurança etiológica: sinais de infecção do sistema nervoso central/sepse são emergência; infecção ativa, agente e tratamento precisam de diagnóstico próprio. Contar zero nova entidade clínica.\",\"related_but_not_exact\":[{\"concept\":\"Meningite ou encefalite ativa\",\"relationship\":\"POSSIBLE_CAUSE_OR_CONCURRENT_EMERGENCY_NOT_ALIAS\",\"handling\":\"Manter diagnóstico infeccioso próprio e tratamento hospitalar; não substituí-lo pela ficha de deficiência de vasopressina.\"},{\"concept\":\"Diabetes insípido nefrogênico/resistência à vasopressina\",\"relationship\":\"DIFFERENT_PATHOPHYSIOLOGY_NOT_ALIAS\",\"handling\":\"Não aplicar desmopressina ou orientações centrais automaticamente.\"},{\"concept\":\"Síndrome de secreção inapropriada de ADH e perda cerebral de sal\",\"relationship\":\"IMPORTANT_INFECTION_RELATED_DIFFERENTIALS_WITH_OPPOSITE_FLUID_RISKS\",\"handling\":\"Não ajustar água ou desmopressina pelo rótulo; diferenciar em ambiente clínico com sódio, osmolalidades, diurese e estado volêmico.\"}]},\"not_automatically_equivalent_to\":[\"Meningite bacteriana, viral, fúngica ou tuberculosa ativa\",\"Encefalite ou meningoencefalite ativa\",\"Infecção congênita específica\",\"Sepse ou choque séptico\",\"Síndrome de secreção inapropriada de ADH\",\"Perda cerebral de sal\",\"Diabetes insípido nefrogênico\",\"Polidipsia primária ou diurese osmótica do diabetes melito\",\"Tumor hipotalâmico/hipofisário, histiocitose, cirurgia, trauma, malformação ou hipofisite\",\"Indicação automática de antimicrobiano, desmopressina, dose, via, duração, restrição ou reposição hídrica\"],\"pediatric_scope\":\"Aplica-se a recém-nascidos, lactentes, crianças e adolescentes com deficiência central de vasopressina atribuída a infecção do sistema nervoso central ou sua sequela. Neonatos, lactentes pequenos, crianças com alteração de consciência, adipsia, dependência para beber, deficiência de cortisol, imunodeficiência, shunt, neurocirurgia ou infecção ativa têm risco maior e precisam de limiar hospitalar baixo.\",\"critical_context_to_confirm\":[\"Idade, peso, prematuridade, capacidade de pedir e obter água e presença de sede normal ou adipsia\",\"Infecção documentada, agente, local, data, tratamento, transmissibilidade atual e evidência de envolvimento do sistema nervoso central\",\"Sede, volume/frequência da urina, noctúria, fraldas, peso, sinais de desidratação e evolução\",\"Sódio, glicose e osmolalidades sérica/urinária avaliados pela equipe; função renal e eletrólitos relevantes\",\"Desmopressina prescrita: produto, via, horários, última dose, resposta e plano individual para doença intercorrente\",\"Ingestão forçada, vômitos, diarreia, febre, jejum, sedação ou qualquer impedimento para beber\",\"Cefaleia, vômitos, rigidez de nuca, fotofobia, convulsão, mudança de comportamento, sonolência, déficit focal, fontanela abaulada ou rash não clareável\",\"Sinais de sepse/choque: perfusão, cor, temperatura, pulso, respiração, consciência e diurese\",\"Outras deficiências hipofisárias e plano de esteroide de estresse quando houver insuficiência adrenal confirmada\",\"Ressonância e seguimento etiológico para excluir tumor, haste hipofisária espessada, doença infiltrativa/autoimune ou outra causa coexistente\"],\"counting_rule\":\"Contar pdf1500_367 e pdf1500_371 como uma única entidade clínica-base. Manter pdf1500_371 como variante etiológica pesquisada, specific=true pela camada de segurança infecciosa, mas com zero nova entidade clínica. A infecção causadora conserva diagnóstico e tratamento próprios e não é resolvida por esta ficha.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Diabetes insípido central, hoje também chamado deficiência de arginina-vasopressina, faz a criança produzir muita urina diluída e sentir muita sede. 'De origem infecciosa' significa que uma infecção do sistema nervoso central foi apontada como causa ou antecedente; não informa sozinha qual micróbio existe nem se a infecção ainda está ativa.",
+          "Se houver suspeita de meningite, encefalite ou sepse agora, esta não é uma situação de cuidado domiciliar: febre com sonolência, confusão, convulsão, rigidez de nuca, fontanela abaulada, rash arroxeado que não clareia, fraqueza de um lado ou piora rápida exige emergência.",
+          "Quando a criança estiver estável e com plano da endocrinologia, mantenha água segura acessível e permita que beba conforme a sede. Nunca esconda água nem faça prova de restrição hídrica em casa; também não force grandes volumes além da sede quando usa desmopressina.",
+          "Siga o plano escrito para febre, vômitos, diarreia, jejum, exames, cirurgia ou dificuldade de beber. Não suspenda, repita ou mude desmopressina por conta própria; a decisão depende de urina, ingestão, sódio e avaliação clínica.",
+          "Registre horários de líquidos, urina ou fraldas, sede, temperatura, vômitos, diarreia, peso quando orientado, última dose dos medicamentos e mudanças de comportamento. Leve esse registro e a lista de remédios ao atendimento.",
+          "A melhora da sede ou da quantidade de urina nem sempre significa cura: pode ocorrer retenção excessiva de água, ação prolongada da desmopressina ou piora de outras funções hipofisárias. Mudança importante exige contato com a equipe."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha um plano de emergência e identificação dizendo 'deficiência de vasopressina/diabetes insípido central — não é diabetes melito', com contatos da endocrinologia e instruções para doença intercorrente.",
+          "Não faça restrição de água, teste de sede, reposição calculada, soro caseiro ou mudança de sal em casa para confirmar ou corrigir o diagnóstico. Esses ajustes podem causar alteração perigosa do sódio e precisam de exames e supervisão.",
+          "A equipe pode solicitar glicemia, sódio, função renal, osmolalidades de sangue e urina, avaliação de outros hormônios e ressonância de cérebro/hipófise. O rótulo infeccioso não dispensa investigação de tumor, inflamação, malformação ou outra causa coexistente.",
+          "Em escola, creche e viagens, garanta acesso imediato a água e banheiro e entregue o plano escrito a um adulto responsável. A criança não deve ser punida por beber ou urinar com frequência.",
+          "Vacinas em dia, higiene das mãos e medidas de prevenção indicadas para o agente confirmado ajudam contra novas infecções. O diabetes insípido não é contagioso; isolamento, profilaxia de contatos e retorno à escola dependem da infecção específica e da orientação do serviço.",
+          "Não use aplicativo, balança, oxímetro ou cor da urina como substituto do exame clínico e do sódio. Em criança pequena, doente, sonolenta ou sem sede, os sinais domésticos podem ser tardios."
+        ],
+        "MEDICAMENTOS": [
+          "Dê desmopressina somente se prescrita para esta criança, usando exatamente o produto, a via e os horários do plano. Formulações oral, sublingual, nasal e injetável não são equivalentes e não podem ser trocadas em casa.",
+          "Não antecipe, repita, dobre, omita ou suspenda a dose por sede, muita ou pouca urina, febre ou viagem sem orientação da endocrinologia ou do serviço de urgência. Se houver dúvida, informe a última dose, a ingestão e a urina observada.",
+          "Excesso de desmopressina junto com líquido além da sede pode reter água e baixar o sódio, causando cefaleia forte, náuseas, vômitos, inchaço, confusão, sonolência ou convulsão. Esses sinais exigem pronto atendimento e não devem ser tratados em casa com mais água.",
+          "Falta de desmopressina, absorção ruim, impossibilidade de beber ou perdas por febre, vômitos e diarreia podem elevar o sódio e desidratar rapidamente. Sede intensa, urina muito abundante, boca seca, fraqueza ou alteração de comportamento exigem avaliação no mesmo dia ou emergência se intensos.",
+          "Antibiótico, antiviral, antifúngico ou tratamento para tuberculose só deve ser usado quando a infecção e o agente forem avaliados pela equipe. Não use sobras, não compartilhe e não conclua que todo episódio febril é a mesma infecção que causou o diabetes insípido.",
+          "Algumas crianças têm insuficiência adrenal ou outra deficiência hipofisária associada. Use apenas o plano de esteroide de estresse já prescrito; não inicie corticoide por conta própria nem presuma que desmopressina trata esses outros déficits."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se estiver alerta, com sede preservada, sem engasgos e liberada pela equipe, ofereça água apropriada à idade e deixe beber conforme a sede. Lactentes dependem do cuidador e precisam de plano individual de leite e água; não improvise diluição de fórmula.",
+          "Não force grande volume de água, suco ou soro além da sede em criança que usa desmopressina, pois pode ocorrer intoxicação por água e hiponatremia. Também não negue água a uma criança com sede e urina abundante enquanto busca orientação.",
+          "Vômitos, diarreia, febre, jejum, dor ao engolir ou sonolência podem impedir a reposição das perdas. Se não consegue beber ou manter líquidos, procure atendimento imediatamente; crianças pequenas podem desidratar rápido.",
+          "Continue alimentação e amamentação conforme tolerância e plano da equipe. Ofereça porções menores se estiver cansada, sem substituir refeições por grandes volumes de bebida quando isso prejudica crescimento e nutrição.",
+          "Se houver confusão, convulsão, dificuldade para despertar, engasgos repetidos ou suspeita de meningite/encefalite grave, não ofereça nada pela boca e acione o SAMU 192.",
+          "Não use chá, água de coco, bebidas esportivas, sal, suplementos ou receitas caseiras para corrigir sódio. O líquido correto e a velocidade de correção dependem dos exames e do estado clínico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se houver convulsão, desmaio, dificuldade para despertar, confusão importante, fraqueza de um lado, fala alterada, respiração irregular ou piora neurológica súbita.",
+          "Febre com rigidez de nuca, dor de cabeça intensa, vômitos repetidos, fotofobia, fontanela abaulada, comportamento muito diferente ou rash vermelho/arroxeado que não clareia à pressão pode indicar meningite, encefalite ou sepse: procure emergência agora.",
+          "Sede extrema com urina muito abundante, boca muito seca, olhos fundos, perda de peso, fraqueza, irritabilidade ou sonolência — principalmente se a criança não consegue beber — pode indicar desidratação e sódio alto e exige atendimento urgente.",
+          "Cefaleia forte ou prolongada, náuseas, vômitos, inchaço, pouca urina, confusão, sonolência ou convulsão após desmopressina e ingestão de líquidos pode indicar sódio baixo: não dê dose extra nem force água; procure emergência.",
+          "Pele fria ou manchada, mãos e pés gelados, pulso muito rápido ou fraco, respiração difícil, pouca urina ou piora rápida do estado geral pode indicar choque/sepse, mesmo antes de a pressão cair.",
+          "Em recém-nascido ou lactente pequeno, febre ou temperatura baixa, mamada fraca, apneia, gemência, irritabilidade inconsolável, moleza, fontanela abaulada, fraldas muito secas ou encharcadas e alteração de cor são emergência.",
+          "Procure atendimento imediato sempre que a criança com deficiência de vasopressina ficar sem acesso à água por vômitos, sedação, jejum não planejado, problema de deglutição ou falha do cuidador/equipamento previsto no plano."
+        ],
+        "QUANDO REAVALIAR": [
+          "Suspeita nova de diabetes insípido central, poliúria intensa ou sede incomum precisa de avaliação pediátrica/endocrinológica no mesmo dia; diagnóstico não deve ser confirmado por restrição de água em casa.",
+          "Criança com diagnóstico conhecido deve falar com a equipe no mesmo dia em caso de febre, vômitos, diarreia, redução da ingestão, aumento importante da sede/urina, congestão que dificulte medicamento nasal, dose esquecida ou mudança de formulação.",
+          "Após meningite, encefalite ou outra infecção do sistema nervoso central, cumpra os retornos com endocrinologia e a equipe responsável pela infecção. A deficiência pode ser transitória ou permanente e outras funções hipofisárias, audição, visão e desenvolvimento podem precisar de seguimento.",
+          "Leve aos retornos o plano, registros de líquidos/urina, resultados de sódio e osmolalidade, laudos de ressonância, lista de medicamentos e horários reais. A equipe decide quando repetir exames ou imagem.",
+          "Antecipe a reavaliação se crescimento, peso, desempenho escolar, visão, energia, puberdade, sede ou urina mudarem. Mesmo com uma infecção anterior, outra causa hipotalâmico-hipofisária pode aparecer ou coexistir.",
+          "Retorno à escola depende de estabilidade do diabetes insípido e das regras da infecção específica. A escola precisa oferecer água, banheiro e adulto treinado; ausência de febre por si só não substitui a liberação da equipe."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente menor de 3 meses com temperatura alta/baixa, mamada fraca, vômitos, apneia, gemência, fontanela abaulada, moleza, alteração de cor, fraldas muito molhadas ou muito secas precisa de avaliação hospitalar imediata. Não faça restrição hídrica nem ajuste desmopressina ou fórmula em casa.",
+        "3a5m": "O bebê não consegue pedir água nem descrever sede ou cefaleia. Observe mamadas, fraldas, peso, vômitos, irritabilidade, sonolência e temperatura; qualquer piora durante infecção ou dificuldade para alimentar exige avaliação urgente.",
+        "6a11m": "Siga o plano individual de leite e água sem diluir fórmula ou oferecer grandes volumes livres por conta própria. Fraldas muito mais molhadas, sede incomum, recusa, vômitos, menos interação ou sinais neurológicos exigem contato rápido.",
+        "1a": "A criança pode mostrar sede, cefaleia ou confusão por choro, busca insistente por água, irritabilidade, tropeços ou prostração. Garanta acesso supervisionado a água e banheiro e não atribua mudança de comportamento apenas à fase da idade.",
+        "2a5": "Explique que pode beber e ir ao banheiro quando precisar. Creche/escola deve ter plano escrito e adulto responsável; febre com dor de cabeça, vômitos, rigidez, sonolência ou rash exige saída imediata para atendimento.",
+        "6a11": "Ensine a avisar sobre sede muito maior, redução incomum da urina, cefaleia, náusea, fraqueza ou confusão, mas mantenha supervisão adulta para medicamento e doença intercorrente. Escola não deve limitar água ou banheiro.",
+        "12a17": "O adolescente deve carregar identificação e plano, conhecer produto/via e última dose e evitar automodificação por esporte, festa, viagem ou desejo de urinar menos. Álcool, calor, doença e exercício aumentam risco de erro hídrico; adulto responsável ainda precisa conhecer o plano.",
+        "unknown": "Sem idade e capacidade de beber informadas, não presumir autonomia. Manter acesso a água conforme sede e plano, supervisão por adulto, nenhuma restrição/teste domiciliar e limiar baixo para avaliação se houver infecção, vômitos, alteração neurológica ou mudança importante de urina."
+      },
+      "refs": [
+        {
+          "id": "pais242_op2335_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas do Diabete Insípido",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/sbp/2025/outubro/02/PCDT.2025.Diabetes_Insi__pido.pdf"
+        },
+        {
+          "id": "pais242_op2335_2",
+          "name": "Clinical Practice Guidelines: Diabetes insipidus",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/diabetes_insipidus/"
+        },
+        {
+          "id": "pais242_op2335_3",
+          "name": "Clinical Practice Guidelines: Meningitis and encephalitis",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Meningitis_encephalitis/"
+        },
+        {
+          "id": "pais242_op2335_4",
+          "name": "Approach to the Pediatric Patient: Central Diabetes Insipidus",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34993537/"
+        },
+        {
+          "id": "pais242_op2335_5",
+          "name": "Etiologies of central diabetes insipidus in Thai children",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16128242/"
+        },
+        {
+          "id": "pais242_op2335_6",
+          "name": "Central diabetes insipidus in children with acute brain insult",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22114999/"
+        },
+        {
+          "id": "pais242_op2335_7",
+          "name": "Central Diabetes Insipidus in Children and Adolescents: Twenty-Six Year Experience from a Single Centre",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8924606/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-2336",
+      "specific": false,
+      "key": "pdf1500_372",
+      "label": "Diabetes insípido central grave",
+      "entity": "Deficiência central de arginina vasopressina (diabetes insípido central) com possível descompensação hídrica ou eletrolítica grave, cuja gravidade precisa ser definida pelo estado clínico, acesso à água, sede, balanço hídrico e sódio, e não pelo rótulo isolado",
+      "assessment": "{\"classification\":\"VALID_BASE_ENTITY_WITH_DYNAMIC_HIGH_SEVERITY_QUALIFIER_NOT_AUTONOMOUS\",\"normalized_entity\":\"Deficiência de arginina vasopressina (AVP-D; diabetes insípido central) com gravidade clínica ainda a confirmar\",\"assessment\":\"O núcleo ‘diabetes insípido central’ é uma entidade pediátrica válida, atualmente também denominada deficiência de arginina vasopressina (AVP-D). O complemento ‘grave’ não é uma subentidade padronizada nem informa, sozinho, se a deficiência hormonal é completa ou parcial, qual é o sódio, se há desidratação, choque, hipernatremia, hiponatremia por excesso de água/desmopressina, doença neurológica ou perda da sede. Quando um profissional usa ‘grave’, a interpretação segura é de possível descompensação que exige avaliação hospitalar imediata; não deve gerar orientação de alta ou esquema domiciliar automático.\",\"severity_interpretation\":{\"may_represent\":[\"Perda intensa de água por urina diluída com sede incapaz de compensar as perdas\",\"Ausência ou prejuízo da sede, falta de acesso à água, jejum, sedação, alteração de consciência, vômitos ou diarreia\",\"Desidratação hipernatrêmica, hiperosmolalidade, má perfusão ou choque\",\"Complicação neurológica ou doença causal aguda, inclusive após cirurgia, trauma ou infecção do sistema nervoso central\",\"Retenção de água e hiponatremia por excesso de líquidos e/ou efeito de desmopressina\",\"Associação com outras deficiências hipofisárias, inclusive insuficiência adrenal, que exige plano próprio\"],\"cannot_be_inferred_from_label\":[\"Valor do sódio, velocidade de instalação ou grau de desidratação\",\"Deficiência completa de AVP em vez de parcial\",\"Dose, via, intervalo ou necessidade imediata de desmopressina\",\"Tipo e volume de líquido a administrar\",\"Presença de tumor, infecção, trauma, pós-operatório ou outra causa\",\"Indicação de alta, observação em casa ou segurança para via oral\"]},\"canonical_reconciliation\":{\"canonical_key\":\"pdf1500_367\",\"canonical_label\":\"Diabetes insípido central\",\"preferred_term\":\"Deficiência de arginina vasopressina (diabetes insípido central)\",\"relationship\":\"SAME_BASE_ENTITY_WITH_DYNAMIC_HIGH_SEVERITY_QUALIFIER\",\"counting_effect\":\"ZERO_NEW_CLINICAL_ENTITY_ONE_ADDITIONAL_CATALOG_ID_TRACKED\",\"decision\":\"Preservar pdf1500_372 e seu rótulo exato para rastreabilidade, compartilhar o núcleo clínico de pdf1500_367 e acrescentar um portão de emergência. Não contar ‘grave’ como nova doença e não herdar tratamento, dose ou causa sem dados do caso.\"},\"not_automatically_equivalent_to\":[\"Diabetes insípido central completo\",\"Hipernatremia grave confirmada\",\"Desidratação grave ou choque confirmados\",\"Hiponatremia ou intoxicação hídrica por desmopressina confirmadas\",\"Diabetes insípido nefrogênico ou polidipsia primária\",\"Diabetes mellitus\",\"Tumor, infecção, trauma, pós-operatório ou malformação definidos\",\"Indicação automática de desmopressina, solução intravenosa, internação em UTI ou qualquer dose\"],\"pediatric_scope\":\"Abrange recém-nascidos, lactentes, crianças e adolescentes com AVP-D conhecida ou suspeita. O risco é maior em quem não consegue pedir ou obter água, tem sede prejudicada, alteração neurológica, vômitos/diarreia, jejum, sedação, cirurgia recente, doença hipotalâmico-hipofisária ou outras deficiências hormonais. Neonatos e lactentes podem apresentar sinais pouco específicos e precisam de limiar muito baixo para avaliação hospitalar.\",\"critical_context_to_confirm\":[\"Idade, peso atual e recente, prematuridade, diagnóstico prévio e equipe de endocrinologia responsável\",\"Estado mental, capacidade de engolir, mecanismo de sede e acesso real a água\",\"Sinais vitais, perfusão, mucosas, lágrimas, olhos, peso, frequência cardíaca e sinais de choque\",\"Volume e frequência de urina, ingestão, vômitos, diarreia, febre e perdas não urinárias\",\"Sódio, potássio, glicose, função renal e osmolalidades sérica e urinária\",\"Desmopressina realmente prescrita, formulação, via, horários administrados, dose esquecida/repetida e resposta\",\"Diminuição abrupta da urina, ganho rápido de peso, edema, cefaleia, náusea, confusão ou convulsão\",\"Cirurgia/trauma craniano, tumor, infecção do SNC, ressonância e outras funções hipofisárias, inclusive cortisol\"],\"counting_rule\":\"Contar pdf1500_367 e pdf1500_372 como uma única entidade clínica. Manter o ID grave como variante de prioridade, specific=false, e não como doença adicional. Se a gravidade foi declarada ou há qualquer sinal neurológico, circulatório, de desidratação, incapacidade de beber, vômitos persistentes, urina excessiva ou queda abrupta da urina com sintomas, a orientação é emergência imediata, sem tentativa de ajuste domiciliar.\",\"reason\":\"‘Grave’ é qualificador clínico dinâmico e não uma categoria nosológica autônoma. Pode corresponder a estados opostos e perigosos — perda de água/hipernatremia ou retenção de água/hiponatremia — que não podem ser diferenciados pelo nome e exigem avaliação clínica e laboratorial urgente.\",\"next_action\":\"Integrar como variante de alta prioridade do núcleo pdf1500_367, sem nova contagem clínica. Na interface, fazer o alerta de emergência prevalecer sobre todo cuidado domiciliar e bloquear qualquer sugestão automática de desmopressina, líquidos, restrição hídrica ou alta.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Diabetes insípido central significa que o organismo produz ou libera pouca arginina-vasopressina, hormônio que ajuda os rins a conservar água. A criança pode eliminar grande volume de urina clara e sentir muita sede; isso não é o mesmo que diabetes mellitus.",
+          "O termo ‘grave’ não permite saber, em casa, se há desidratação e sódio alto, retenção de água e sódio baixo, ou uma doença neurológica associada. Trate esse rótulo como necessidade de avaliação hospitalar imediata, não como ficha de alta.",
+          "Enquanto busca atendimento, mantenha a criança acompanhada. Se estiver desperta, respirando normalmente, sem vômitos e engolindo com segurança, deixe água ao alcance e permita que beba conforme a sede; nunca faça privação de água.",
+          "Se estiver sonolenta, confusa, convulsionando, vomitando repetidamente ou sem conseguir engolir, não force líquidos, alimentos ou remédios pela boca. Acione o serviço de emergência e coloque-a em posição segura conforme orientação do atendente.",
+          "Anote o horário da última dose realmente administrada, a apresentação e via da desmopressina, últimas micções, líquidos ingeridos, vômitos/diarreia, mudanças de peso e sintomas. Leve o plano de emergência, receitas e embalagens ao hospital.",
+          "Não aguarde sede intensa como único sinal: bebês, crianças pequenas, pacientes sedados, com deficiência de sede ou alteração neurológica podem piorar sem conseguir pedir água."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não tente teste de privação hídrica em casa. Esse teste pode provocar desidratação e distúrbio grave do sódio e deve ocorrer somente sob supervisão especializada.",
+          "Não tente corrigir o quadro com grande volume de água de uma só vez, soro caseiro, bebidas esportivas, água com sal/açúcar ou uma fórmula fixa de líquidos. A composição, o volume e a velocidade de correção dependem do exame, do sódio e do estado circulatório.",
+          "No hospital, a equipe pode precisar medir glicose, sódio e outros eletrólitos, função renal, osmolalidade do sangue e da urina, volume urinário, balanço hídrico e peso. A causa central pode exigir avaliação da hipófise e do cérebro e de outros hormônios.",
+          "Após cirurgia ou lesão da região hipofisária, a produção hormonal pode oscilar entre perda de água e retenção de água. Qualquer mudança súbita de sede, urina, peso ou estado neurológico requer contato imediato com a equipe responsável.",
+          "Escola, creche e cuidadores precisam de plano escrito: acesso livre ao banheiro e à água, reconhecimento dos alarmes, contato dos responsáveis e da endocrinologia, e proibição de restringir líquidos como punição ou rotina. Em quadro grave, a prioridade é hospital, não escola."
+        ],
+        "MEDICAMENTOS": [
+          "Não inicie, repita, dobre, reduza, suspenda ou troque a via da desmopressina por conta própria. Formulações oral, nasal e injetável não são equivalentes, e o ajuste inadequado pode causar desidratação/hipernatremia ou retenção de água/hiponatremia.",
+          "Se existe prescrição individual e plano de emergência, siga somente esse plano enquanto contata a endocrinologia ou o serviço de urgência. A palavra ‘grave’ não fornece dose, via ou intervalo seguros.",
+          "Dose esquecida, dose repetida, vômito após a tomada, nariz muito congestionado com produto nasal, jejum, cirurgia ou incapacidade de beber exigem orientação imediata da equipe; não compense automaticamente.",
+          "Cefaleia importante, náuseas/vômitos, ganho rápido de peso, inchaço, pouca ou nenhuma urina, sonolência, confusão ou convulsão após desmopressina podem indicar retenção de água e sódio baixo: procure emergência e não administre dose extra.",
+          "Sede intensa e urina muito abundante apesar do tratamento, sobretudo com boca seca, perda de peso, fraqueza ou alteração do comportamento, podem indicar controle insuficiente ou dificuldade de absorção: precisam de avaliação urgente e dosagem de sódio.",
+          "Algumas crianças também têm insuficiência adrenal ou outras deficiências hipofisárias. Use hidrocortisona de estresse apenas se houver plano previamente prescrito para aquela criança; leve o cartão/receita e informe a equipe de emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Se a criança está alerta e consegue engolir, não restrinja água. Ofereça acesso imediato e seguro para que beba conforme a sede enquanto segue para avaliação.",
+          "Não force grandes volumes se não houver sede, especialmente depois de desmopressina. Beber além do plano pode causar retenção de água e sódio baixo; a orientação individual da endocrinologia prevalece.",
+          "Vômitos repetidos, diarreia intensa, recusa de líquidos, mamada fraca ou incapacidade de manter água e medicamento tornam a situação urgente, porque a criança pode desidratar rapidamente.",
+          "Não substitua avaliação por chás, sucos, bebidas isotônicas, água de coco, soro caseiro ou suplementos. Nenhum deles permite corrigir com segurança um distúrbio de sódio desconhecido.",
+          "Se houver sonolência, confusão, convulsão ou dificuldade para engolir, não ofereça nada pela boca. Acione emergência para reduzir risco de aspiração."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Se o diagnóstico foi descrito como ‘grave’, procure pronto atendimento agora. Se a criança estiver desmaiada, convulsionando, muito confusa, difícil de despertar ou com piora rápida, acione o serviço de emergência.",
+          "Sinais de desidratação ou choque — boca muito seca, olhos fundos, ausência de lágrimas, perda de peso, coração muito acelerado, mãos/pés frios, pele manchada, tontura/desmaio, fraqueza extrema ou pouca resposta — exigem emergência.",
+          "Sede desesperada com urina muito abundante e clara, fraldas continuamente encharcadas, acordar repetidamente para beber/urinar ou incapacidade de repor o que perde exigem avaliação urgente e dosagem de sódio.",
+          "Vômitos repetidos, diarreia, febre, jejum obrigatório, dificuldade para obter água, recusa de líquidos, mamada fraca ou qualquer situação que impeça beber conforme a sede exigem atendimento imediato.",
+          "Cefaleia forte, náusea/vômito, ganho rápido de peso, inchaço, redução acentuada ou ausência de urina, irritabilidade incomum, confusão ou convulsão após desmopressina podem indicar sódio baixo e intoxicação por água.",
+          "Após cirurgia ou trauma craniano, procure emergência diante de nova poliúria/sede intensa, queda súbita da urina, cefaleia, vômitos, alteração visual, fraqueza, mudança de comportamento ou nível de consciência.",
+          "Recém-nascido ou lactente com febre ou temperatura baixa, irritabilidade/sonolência, mamada ruim, vômitos, pouca atividade, perda de peso, muitas fraldas muito molhadas ou sinais de desidratação precisa de emergência mesmo sem sede aparente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Neste registro, ‘grave’ exige reavaliação hospitalar imediata; não espere a consulta marcada nem tente observar até o dia seguinte.",
+          "Se o diagnóstico é apenas suspeito ou novo, a criança precisa de avaliação pediátrica/endocrinológica no mesmo dia e exames de sangue e urina. Não confirme nem descarte a doença por sede, volume de fraldas ou glicosímetro doméstico.",
+          "Após estabilização e alta formal, siga o prazo escrito pela endocrinologia para revisar sede, urina, peso, crescimento, sódio e outras funções hipofisárias. O intervalo depende da causa, idade e tratamento e não deve ser inventado nesta ficha.",
+          "Antecipe contato com a equipe em qualquer doença intercurrente, vômito/diarreia, febre, jejum, cirurgia, troca de formulação/via, dificuldade de obter desmopressina, mudança importante de sede/urina ou perda/ganho rápido de peso.",
+          "Leve para a reavaliação o registro de doses reais, horários, ingestão, urina, peso e sintomas. A equipe deve investigar a causa central e não presumir que ‘grave’ significa apenas aumentar medicamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Recém-nascido ou lactente menor de 3 meses pode não demonstrar sede e pode piorar rapidamente. Febre/hipotermia, irritabilidade, sonolência, mamada fraca, vômitos, perda de peso, muitas fraldas encharcadas ou sinais de desidratação exigem avaliação hospitalar imediata; não fazer privação hídrica nem ajuste doméstico de desmopressina.",
+        "3a5m": "Observe mamadas, vômitos, atividade, lágrimas, peso e quantidade de fraldas. Como o lactente não controla acesso à água, o rótulo grave ou incapacidade de manter líquidos exige pronto atendimento imediato.",
+        "6a11m": "Ofereça acesso seguro à água somente se estiver alerta e engolindo, sem substituir leite/alimentação por grandes volumes. Fraldas muito molhadas, recusa, vômitos, sonolência ou pouca urina após tratamento exigem emergência.",
+        "1a": "A criança pequena depende do cuidador para água e não descreve sintomas. Alterações de sede, fraldas, comportamento, marcha, peso, vômitos ou recusa de líquidos exigem avaliação imediata; não restringir água nem improvisar dose.",
+        "2a5": "Mantenha água e banheiro acessíveis, mas não espere a criança pedir ajuda. Sede/urina extremas, cefaleia, vômitos, irritabilidade, fraqueza, sonolência ou queda súbita da urina com ganho de peso exigem emergência.",
+        "6a11": "A criança pode relatar sede, cefaleia e tontura, mas não deve ser responsável sozinha pelo tratamento. Escola e cuidadores precisam liberar água/banheiro e acionar adultos; quadro rotulado como grave deve ir ao hospital, não permanecer em aula.",
+        "12a17": "Adolescente deve carregar identificação e plano, mas não ajustar ou duplicar desmopressina sozinho. Exercício, calor, álcool, doença, jejum ou acesso irregular ao medicamento aumentam risco; alteração neurológica, vômitos, urina/sede extremas ou queda da urina exigem emergência.",
+        "unknown": "Sem idade e dados clínicos, não é possível graduar risco ou orientar dose/líquidos. O qualificador grave exige avaliação hospitalar imediata, com proteção reforçada se a criança não consegue pedir água ou engolir com segurança."
+      },
+      "refs": [
+        {
+          "id": "pais242_op2336_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas do Diabete Insípido",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/d/diabete-insipido/@@download/file"
+        },
+        {
+          "id": "pais242_op2336_2",
+          "name": "Clinical Practice Guidelines: Diabetes insipidus",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/diabetes_insipidus/"
+        },
+        {
+          "id": "pais242_op2336_3",
+          "name": "Central Diabetes Insipidus — Inpatient Management",
+          "url": "https://resources.schn.health.nsw.gov.au/policies/policies/pdf/2023-084.pdf"
+        },
+        {
+          "id": "pais242_op2336_4",
+          "name": "Diabetes Insipidus",
+          "url": "https://pedsendo.org/patient-resource/diabetes-insipidus/"
+        },
+        {
+          "id": "pais242_op2336_5",
+          "name": "Arginine Vasopressin Deficiency (Diabetes Insipidus) — clinical guidance",
+          "url": "https://www.endocrinology.org/clinical-practice/clinical-guidance/arginine-vasopressin-deficiency-diabetes-insipidus/"
+        },
+        {
+          "id": "pais242_op2336_6",
+          "name": "Changing the Name of Diabetes Insipidus: A Position Statement of the Working Group for Renaming Diabetes Insipidus",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36355385/"
+        }
+      ],
+      "alwaysUrgent": true
+    }
+  ]
+}

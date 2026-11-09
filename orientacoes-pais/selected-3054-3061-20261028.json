@@ -1,0 +1,622 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-28T14:58:40.747Z",
+  "records": [
+    {
+      "jobId": "OP-3054",
+      "specific": true,
+      "key": "pps_catalog_17cb28f4ef6151eb",
+      "label": "Atraso constitucional do crescimento e puberdade — registro no PPS",
+      "entity": "Atraso constitucional do crescimento e da puberdade (ACCP): variante do tempo de maturação caracterizada por crescimento e início puberal mais tardios, reconhecida somente após avaliação longitudinal e exclusão de doença crônica, nutricional, endócrina, genética e de hipogonadismo permanente",
+      "assessment": "{\"classification\":\"VALID_DIAGNOSIS_OF_EXCLUSION_AFTER_LONGITUDINAL_ASSESSMENT\",\"normalized_entity\":\"Atraso constitucional do crescimento e da puberdade (ACCP)\",\"assessment\":\"O termo designa uma variante clínica válida e frequente do tempo de maturação, mas não pode ser concluído a partir de baixa estatura isolada, comparação com colegas, história familiar tardia ou uma única consulta. A confirmação depende da evolução do crescimento e da puberdade e da exclusão de causas patológicas. O sufixo 'registro no PPS' indica a origem cadastral e não modifica a entidade clínica.\",\"diagnostic_boundary\":\"Diferenciar de baixa estatura familiar, baixa velocidade de crescimento, deficiência de hormônio do crescimento, hipotireoidismo, doença celíaca ou inflamatória intestinal, doença renal ou sistêmica, ingestão energética insuficiente, exercício excessivo, transtorno alimentar, síndromes genéticas, lesão do sistema nervoso central e hipogonadismo permanente. ACCP e hipogonadismo congênito podem ser difíceis de distinguir inicialmente; progressão e seguimento são essenciais.\",\"medication_boundary\":\"Não há indicação automática de hormônio, suplemento ou medicamento. Qualquer terapia é decisão individualizada de endocrinologia pediátrica depois de confirmar o diagnóstico, avaliar evolução e impacto; esta ficha não escolhe produto, dose, via, intervalo ou duração.\",\"testing_boundary\":\"A família não deve solicitar idade óssea, painel hormonal, imagem ou outros exames por conta própria. O profissional decide se e quando são necessários, conforme idade, crescimento seriado, estágio puberal, sintomas e hipóteses clínicas.\",\"prognostic_boundary\":\"Não prometer puberdade espontânea, altura adulta, fertilidade ou prazo exato. A evolução costuma ser tardia no ACCP confirmado, mas o seguimento é necessário para verificar progressão e rever o diagnóstico.\",\"pediatric_scope\":\"O crescimento é acompanhado desde o nascimento, porém o diagnóstico combinado de atraso constitucional de crescimento e puberdade é mais pertinente no fim da infância e adolescência. Em lactentes e crianças pequenas, falha de crescimento, perda de percentis ou sintomas sistêmicos exigem avaliação própria e não devem receber esse rótulo antecipadamente.\",\"not_equivalent_to\":[\"baixa estatura isolada\",\"baixa estatura familiar\",\"deficiência de hormônio do crescimento\",\"hipogonadismo permanente\",\"atraso por doença crônica, desnutrição ou exercício excessivo\",\"indicação automática de exame ou tratamento\",\"garantia de altura adulta ou puberdade espontânea\"],\"critical_context_to_confirm\":[\"idade, sexo e estágio puberal atual\",\"altura e peso medidos corretamente em várias datas e velocidade de crescimento\",\"estatura dos pais e história familiar de maturação tardia\",\"início, sequência e progressão dos sinais puberais\",\"nutrição, atividade física, sono, doenças crônicas e medicamentos\",\"sintomas gastrointestinais, neurológicos, endócrinos e sistêmicos\",\"bullying, imagem corporal, humor, alimentação e impacto escolar ou social\"],\"resolution\":\"Entidade pediátrica válida e específica, com diagnóstico de exclusão e acompanhamento longitudinal; adicionalmente conta uma entidade quando publicada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "No atraso constitucional confirmado, o crescimento e a puberdade acontecem mais tarde do que em muitos colegas. Isso não é decidido pela altura atual: a equipe precisa observar a velocidade de crescimento, a sequência puberal e a evolução ao longo do tempo.",
+          "Mantenha consultas e medidas corretas de altura e peso na curva. Leve caderneta, medidas antigas, dados do nascimento e, se possível, alturas dos pais e a idade em que familiares tiveram estirão, desenvolvimento das mamas, aumento testicular ou menstruação.",
+          "Observe progressão, não apenas um sinal isolado. Em meninas, o desenvolvimento mamário costuma marcar o início; em meninos, o aumento testicular é avaliado pelo profissional. Pelos e odor corporal isolados não confirmam que toda a puberdade começou.",
+          "Não compare publicamente o corpo com o de colegas ou irmãos e não prometa altura final. Proteja privacidade, trate o adolescente de acordo com sua idade e pergunte sobre bullying, isolamento, ansiedade, tristeza, imagem corporal e dificuldades na escola, esporte ou relacionamentos.",
+          "Anote sintomas novos, perda de peso, mudança de apetite, dor abdominal, diarreia, cansaço, sede ou urina excessivas, dor de cabeça, alteração visual e medicamentos em uso; eles podem apontar para outra causa."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Sono adequado, atividade física regular e alimentação suficiente apoiam a saúde, mas não aceleram seletivamente o relógio puberal constitucional. Evite alongamentos, aparelhos ou programas que prometem aumentar altura.",
+          "Converse com a escola quando houver bullying ou constrangimento. Adaptações devem preservar participação e dignidade, sem infantilizar o adolescente por causa do tamanho corporal.",
+          "Não solicite nem repita radiografia de idade óssea, exame hormonal, ultrassom ou ressonância por conta própria. A equipe decide quais avaliações são pertinentes e interpreta resultados junto com curva, história e exame.",
+          "Mantenha atividade prazerosa, salvo restrição por outra condição. Exercício excessivo acompanhado de baixa ingestão, perda de peso, fratura por estresse ou interrupção menstrual precisa de avaliação.",
+          "Inclua o adolescente nas decisões e ofereça espaço confidencial adequado à idade. Apoio psicológico pode ser útil quando há sofrimento, mas não substitui investigar a causa do atraso."
+        ],
+        "MEDICAMENTOS": [
+          "Muitos jovens com ACCP confirmado são acompanhados sem medicamento. Isso não significa que todo atraso seja constitucional nem que seja seguro apenas esperar sem reavaliação.",
+          "Não inicie hormônio, anabolizante, estimulante, vitamina ou suplemento para crescer ou acelerar puberdade. Esses produtos podem causar efeitos adversos, alterar a maturação ou mascarar outra causa sem garantir maior altura adulta.",
+          "Em casos selecionados, a endocrinologia pediátrica pode discutir tratamento individualizado após confirmar o diagnóstico, a evolução e o impacto. Esta orientação não define produto, dose, via, intervalo ou duração.",
+          "Informe todos os tratamentos atuais e prévios, inclusive corticoides, estimulantes, hormônios, quimioterapia, radioterapia, manipulados e suplementos. Não suspenda nem reduza medicamento prescrito para tentar melhorar o crescimento sem falar com a equipe.",
+          "Se houver reação importante após qualquer medicamento, com falta de ar, inchaço de face ou língua, urticária disseminada, desmaio ou piora rápida, procure emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e suficiente para idade e atividade, sem forçar excesso de calorias. Baixo peso, perda de peso, seletividade intensa ou restrição voluntária podem afetar crescimento e puberdade e precisam ser avaliados.",
+          "Não use megadoses de vitaminas, proteína, cálcio, fitoterápico ou suplemento para acelerar puberdade. Suplementação só deve corrigir uma necessidade identificada e não substitui a avaliação da velocidade de crescimento.",
+          "Mantenha água e líquidos conforme sede e rotina. Sede ou urina excessivas, pouca urina, vômitos persistentes, dificuldade para engolir ou recusa de líquidos exigem avaliação.",
+          "Procure avaliação se houver dor abdominal persistente, diarreia crônica, sangue nas fezes, vômitos, perda de peso ou cansaço importante, pois doenças nutricionais, gastrointestinais e sistêmicas podem atrasar crescimento e puberdade.",
+          "Se houver convulsão, confusão, sonolência intensa ou dificuldade para engolir, não ofereça comida, líquidos ou comprimidos devido ao risco de engasgo."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Dor de cabeça intensa ou progressiva com vômitos, alteração visual, desmaio, confusão, convulsão, fraqueza de um lado ou dificuldade para acordar, especialmente junto de falha de crescimento ou atraso puberal.",
+          "Vômitos persistentes, prostração intensa, desidratação, dificuldade para respirar, alteração de consciência ou hipoglicemia conhecida ou suspeita. Não atribua piora aguda ao atraso constitucional.",
+          "Dor testicular súbita ou intensa, inchaço ou mudança de cor no escroto, principalmente com náusea ou vômito. Isso exige avaliação imediata por possível torção.",
+          "Sangramento genital intenso, palidez, tontura, falta de ar, desmaio ou dor abdominal forte.",
+          "Fala sobre morte, desejo de se machucar, tentativa de suicídio, recusa alimentar importante ou sofrimento psicológico com risco imediato. Não deixe o jovem sozinho e procure ajuda de emergência.",
+          "Falta de ar, inchaço de face ou língua, urticária disseminada ou desmaio após medicamento."
+        ],
+        "QUANDO REAVALIAR": [
+          "Retorne no prazo definido pelo pediatra ou endocrinologista para calcular a velocidade de crescimento e registrar a progressão puberal. Uma única medida ou consulta não confirma ACCP.",
+          "Procure avaliação especializada se não houver desenvolvimento das mamas até 13 anos nas meninas ou aumento testicular até 14 anos nos meninos, se a puberdade começou mas não progride, se há regressão ou se a menstruação não ocorre no tempo esperado para a sequência individual.",
+          "Antecipe a consulta se a altura cair através dos percentis depois dos primeiros anos, a velocidade diminuir, o crescimento ficar muito abaixo do potencial familiar, houver desproporção corporal, perda de peso ou sintomas de doença crônica.",
+          "Dor de cabeça ou alteração visual junto de crescimento ruim exige avaliação urgente; suspeita de múltiplas deficiências hormonais ou síndrome genética requer encaminhamento especializado e não deve ser rotulada como constitucional.",
+          "Revise nutrição, atividade física, medicamentos, sono, sintomas sistêmicos e saúde emocional em cada retorno. O diagnóstico pode precisar ser revisto se não houver a evolução esperada.",
+          "Acompanhe bullying, ansiedade, tristeza, isolamento e imagem corporal. Sofrimento relevante justifica apoio e discussão especializada, mas não torna hormônio obrigatório nem dispensa esclarecer a causa."
+        ]
+      },
+      "ageMap": {
+        "u3m": "ACCP não é diagnóstico apropriado nesta idade. Acompanhe peso, comprimento e perímetro cefálico; dificuldade para mamar, hipoglicemia, vômitos, icterícia prolongada, genital atípico ou pouca responsividade precisam de avaliação própria e podem ser urgentes.",
+        "3a5m": "O foco é crescimento, alimentação e desenvolvimento seriados, não puberdade. Queda de curva, baixo ganho de peso, vômitos, diarreia ou doença persistente não devem ser chamados de atraso constitucional.",
+        "6a11m": "Falha de crescimento no primeiro ano exige avaliação pediátrica. Registre medidas e ingestão; não espere uma futura história familiar de maturação tardia para explicar crescimento inadequado.",
+        "1a": "Mudanças de percentil podem ocorrer nos primeiros anos, mas perda importante ou contínua, desproporção, baixo peso ou sintomas exigem avaliação. O tamanho atual não permite prever puberdade constitucional.",
+        "2a5": "Crescer devagar ou cruzar percentis para baixo merece avaliação. Use medidas confiáveis, observe alimentação e sintomas e não compare com colegas; não antecipe diagnóstico puberal ou tratamento.",
+        "6a11": "Antes da puberdade, acompanhe velocidade, proporção corporal e potencial familiar. Baixa velocidade, perda de peso, doença crônica ou sinais puberais muito precoces exigem avaliação própria e não confirmam ACCP.",
+        "12a17": "Esta é a principal faixa para avaliar atraso puberal. Inclua o adolescente em conversa privada sobre progressão, nutrição, exercício, medicamentos, doenças, olfato, impacto emocional e expectativas, com endocrinologia quando indicado.",
+        "unknown": "Sem idade, sexo, medidas seriadas, velocidade, estágio puberal, história familiar e sintomas, não é possível classificar o atraso como constitucional. Confirmar esses dados e priorizar sinais de alarme."
+      },
+      "refs": [
+        {
+          "id": "pais261_op3054_1",
+          "name": "Constitutional Growth Delay",
+          "url": "https://pedsendo.org/patient-resource/constitutional-growth-delay/"
+        },
+        {
+          "id": "pais261_op3054_2",
+          "name": "Child with Suspected Delayed Puberty — Referral Guideline",
+          "url": "https://pedsendo.org/clinical-resource/child-with-suspected-delayed-puberty/"
+        },
+        {
+          "id": "pais261_op3054_3",
+          "name": "Puberdade atrasada",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/puberdade-atrasada/"
+        },
+        {
+          "id": "pais261_op3054_4",
+          "name": "Como avaliar e tratar adolescentes com puberdade atrasada",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23315d-DC_Como_avaliar_e_tratar_adl_com_puberdade_atrasada.pdf"
+        },
+        {
+          "id": "pais261_op3054_5",
+          "name": "Clinical challenge: When is delayed puberty more than a late bloomer?",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11296613/"
+        },
+        {
+          "id": "pais261_op3054_6",
+          "name": "Delayed puberty — Specialist Clinics referral guideline",
+          "url": "https://www.rch.org.au/specialist-clinics/referring-guidelines/Delayed_puberty/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3056",
+      "specific": true,
+      "key": "pps_catalog_cd44636a4ed84373",
+      "label": "Atraso global do desenvolvimento — registro no PPS",
+      "entity": "Atraso global do desenvolvimento (AGD) em criança menor de 5 anos: atraso significativo em pelo menos dois domínios do desenvolvimento, que exige avaliação clínica e funcional multidimensional, investigação etiológica orientada pelos achados, intervenção precoce e seguimento longitudinal",
+      "assessment": "{\"classification\":\"VALID_AGE_LIMITED_NEURODEVELOPMENTAL_DIAGNOSIS_REQUIRING_MULTIDOMAIN_ASSESSMENT\",\"normalized_entity\":\"Atraso global do desenvolvimento (AGD)\",\"assessment\":\"AGD é um termo clínico válido para criança menor de 5 anos com atraso significativo em pelo menos dois domínios, como movimento, fala/linguagem, cognição/aprendizagem, interação social e habilidades pessoais ou adaptativas. A conclusão combina observação clínica e avaliação estruturada; não deve ser feita por comparação informal, por um único marco ausente ou por uma lista preenchida em casa. O termo descreve o perfil atual, não revela sozinho a causa, a gravidade futura nem o potencial de aprendizagem.\",\"alias_evaluation\":\"'Atraso global do desenvolvimento' é o alias exato e preferido. Não é sinônimo automático de atraso do desenvolvimento inespecífico, atraso isolado de fala ou motor, deficiência intelectual, transtorno do espectro autista, regressão do desenvolvimento ou atraso por prematuridade sem avaliação corrigida para a idade gestacional.\",\"diagnostic_boundary\":\"Diferenciar atraso presente desde cedo de perda de habilidades já adquiridas. Revisar audição, visão, linguagem, motricidade, cognição, interação, comportamento, habilidades diárias, alimentação, sono, crescimento e exame neurológico. Causas genéticas, neurológicas, sensoriais, metabólicas, infecciosas, nutricionais, tóxicas, perinatais e ambientais são possibilidades a investigar conforme história e exame, não diagnósticos presumidos pelo rótulo.\",\"age_boundary\":\"O termo AGD é reservado principalmente a menores de 5 anos, quando uma avaliação intelectual formal ainda pode não ser confiável. Em escolares e adolescentes, revisar a nomenclatura e avaliar funcionamento intelectual, adaptativo, linguagem, aprendizagem e diagnósticos específicos; não manter AGD indefinidamente como explicação única nem concluir deficiência intelectual sem avaliação apropriada.\",\"testing_boundary\":\"Triagem de marcos não confirma AGD e não substitui avaliação padronizada. Audição e visão devem ser avaliadas, inclusive quando a triagem neonatal foi normal se houver suspeita. Exames genéticos, laboratoriais, metabólicos, eletroencefalograma ou neuroimagem não são iguais para todas as crianças e devem ser escolhidos pela equipe conforme o perfil e os sinais clínicos.\",\"treatment_boundary\":\"Apoio ao desenvolvimento e à participação não precisa aguardar o fechamento da causa, mas deve ser individualizado. A ficha não seleciona pacote de terapias, frequência, método, suplemento, medicamento ou dieta. Nenhum produto trata automaticamente o rótulo AGD.\",\"prognostic_boundary\":\"Não prometer recuperação completa, diagnóstico definitivo futuro, autonomia, desempenho escolar ou incapacidade permanente. A evolução varia com o perfil, a causa, as condições associadas, o apoio recebido e a trajetória; avaliação por domínio e seguimento longitudinal são necessários.\",\"not_equivalent_to\":[\"atraso isolado de fala ou atraso motor isolado\",\"variação individual ou comparação informal com outra criança\",\"perda ou regressão de habilidades previamente adquiridas\",\"deficiência intelectual confirmada\",\"transtorno do espectro autista, paralisia cerebral ou epilepsia\",\"síndrome genética, doença metabólica ou causa ambiental específica\",\"falta de estímulo, culpa familiar ou negligência presumida\",\"indicação automática de exame, terapia, dieta, suplemento ou medicamento\",\"prognóstico fechado ou incapacidade permanente\"],\"critical_context_to_confirm\":[\"idade cronológica, idade gestacional ao nascer e idade corrigida quando pertinente\",\"quais domínios estão atrasados, desde quando, intensidade, trajetória, pontos fortes e impacto nas atividades diárias\",\"se a habilidade nunca apareceu, estagnou ou foi perdida, e em quanto tempo ocorreu a mudança\",\"gestação, parto, prematuridade, internação neonatal, infecções, icterícia, hipoglicemia, trauma, exposições e triagens neonatais\",\"crescimento, peso, estatura/comprimento, perímetro cefálico quando aplicável e exame físico/neurológico\",\"audição, visão, linguagem, interação, comportamento, tônus, marcha, crises suspeitas, sono e dor\",\"alimentação, mastigação, deglutição, engasgos, duração das refeições e ganho de peso\",\"história familiar de dificuldades do desenvolvimento, aprendizagem, audição, visão, crises, malformações ou perdas gestacionais\",\"medicamentos, substâncias, exames, avaliações e intervenções anteriores\",\"necessidades e metas da família, saúde mental dos cuidadores, segurança, moradia, alimentação, acesso, creche/escola e rede de apoio\"],\"resolution\":\"Entidade pediátrica válida, específica e limitada pela idade; orientação redigida para reconhecer o perfil multidomínio, agir cedo e investigar sem inventar causa, prognóstico ou plano universal.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Atraso global do desenvolvimento significa que uma criança pequena está adquirindo habilidades de duas ou mais áreas mais lentamente do que o esperado. O nome descreve o perfil observado, mas não diz sozinho a causa nem permite prever até onde a criança irá evoluir.",
+          "Observe e anote o que a criança já consegue fazer e onde precisa de ajuda: movimento, uso das mãos, fala e compreensão, brincadeira, aprendizagem, interação e atividades diárias. Registre também quando uma habilidade apareceu, parou de avançar ou deixou de ocorrer.",
+          "Leve às consultas a Caderneta da Criança, relatórios da creche/escola, resultados de audição e visão, exames e avaliações anteriores. Vídeos curtos de situações habituais podem ajudar a equipe se preservarem a privacidade e nunca substituem a avaliação presencial.",
+          "Valorize pontos fortes, interesses, tentativas de comunicação e pequenas conquistas. Evite culpa, castigo por uma habilidade que a criança ainda não consegue realizar, comparações públicas, apelidos ou promessas de resultado. Dê tempo para responder e ofereça a ajuda necessária para participar.",
+          "Mantenha vacinação, saúde bucal, sono, atividade e consultas de rotina. Informe à equipe dificuldades de comportamento, dor, sono, visão, audição, alimentação, intestino, segurança ou acesso aos serviços; elas podem mudar o plano de cuidado.",
+          "Avise todos os cuidadores sobre a forma de comunicação, mobilidade, alimentação e supervisão de que a criança precisa. Adapte o ambiente para prevenir quedas, engasgos, queimaduras e acesso a medicamentos ou produtos tóxicos, sem restringir brincadeiras seguras."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Não espere descobrir a causa para iniciar apoio indicado ao desenvolvimento. O pediatra e a equipe podem encaminhar para intervenção precoce e definir fisioterapia, fonoaudiologia, terapia ocupacional, psicologia, apoio pedagógico, serviço social ou outras áreas conforme o perfil real; nem toda criança precisa do mesmo conjunto ou frequência.",
+          "Inclua aprendizagem nas rotinas: converse olhando para a criança, espere sua resposta, imite sons e gestos, leia, cante, brinque no chão em local seguro, ofereça escolhas e divida tarefas em passos pequenos. Siga metas combinadas com a equipe e evite treino exaustivo ou forçado.",
+          "Solicite avaliação profissional de audição e visão quando indicada, mesmo que a triagem neonatal tenha sido normal, especialmente se houver pouca resposta à voz, atraso de fala, aproximação excessiva dos objetos, tropeços ou dúvida da família e da escola.",
+          "Listas de marcos ajudam a acompanhar, mas não diagnosticam. Idade corrigida por prematuridade, oportunidade de aprendizagem, língua usada em casa e condições sensoriais ou motoras precisam ser consideradas por profissional qualificado.",
+          "Compartilhe com a creche ou escola as estratégias de comunicação e participação que funcionam. Peça adaptações individualizadas, objetivos funcionais e troca de informações com a saúde, sem excluir a criança das atividades por causa do rótulo.",
+          "Cuide também de quem cuida: divida tarefas, preserve pausas possíveis e informe exaustão, ansiedade, tristeza, falta de alimentos, dificuldade financeira, violência ou barreiras de acesso. Apoio ao cuidador e proteção da criança fazem parte do plano."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe medicamento que trate o rótulo 'atraso global do desenvolvimento' por si só. Um remédio só pode ser indicado para uma causa ou condição associada definida, com prescrição e acompanhamento individualizados.",
+          "Não ofereça vitaminas em megadose, hormônio, estimulante, calmante, canabidiol, fitoterápico, fórmula manipulada ou produto anunciado para 'acelerar o cérebro' sem avaliação. Benefício não comprovado, sedação, interação ou toxicidade podem prejudicar a criança e atrasar cuidados úteis.",
+          "Mantenha apenas os tratamentos prescritos e leve uma lista completa, inclusive produtos naturais e suplementos. Não inicie, suspenda ou reduza anticonvulsivante, psicotrópico ou outro medicamento por conta própria.",
+          "Procure orientação rapidamente se, após iniciar ou mudar um remédio, surgirem sonolência excessiva, irritabilidade intensa, piora da atenção, movimentos anormais, desequilíbrio, dificuldade para engolir ou perda de habilidade. Falta de ar, inchaço de face ou língua, desmaio ou reação rápida e intensa exigem urgência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação adequada à idade, em posição estável e com supervisão. Respeite sinais de fome e saciedade; não force, distraia com risco de engasgo nem deixe a criança comer sozinha se ainda não controla bem mastigação e deglutição.",
+          "Conte à equipe se houver tosse ou engasgo durante ou após comer, voz molhada, respiração ruidosa, cansaço, mudança de cor, refeições muito demoradas, recusa persistente, dificuldade com texturas, vômitos frequentes ou baixo ganho de peso. Esses sinais podem exigir avaliação de deglutição e nutrição.",
+          "Não engrosse líquidos, mude a textura, retire leite, glúten ou outros grupos alimentares nem use suplemento por conta própria. A mudança deve considerar segurança da deglutição, crescimento, alergias, nutrição e possibilidades da família.",
+          "Ofereça água e líquidos conforme idade e orientação habitual. Pouca urina, boca seca, ausência de lágrimas, sonolência, vômitos repetidos ou incapacidade de manter líquidos podem indicar desidratação e exigem avaliação.",
+          "Se a criança estiver convulsionando, inconsciente, muito sonolenta ou sem conseguir engolir, não ofereça comida, líquido ou medicamento pela boca devido ao risco de aspiração."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Perda súbita de uma habilidade, fraqueza nova ou que piora rapidamente, face torta, fala enrolada, alteração nova para andar, confusão, desmaio, dificuldade para acordar ou mudança aguda importante do comportamento. Não atribua esses sinais ao atraso já conhecido.",
+          "Primeira convulsão, convulsão que dura mais que o habitual para aquela criança, crises repetidas sem recuperação, pele ou lábios arroxeados, dificuldade para respirar ou perda de consciência. Acione o SAMU 192 se a crise for prolongada, a respiração estiver difícil ou a criança não recuperar a consciência.",
+          "Bebê que fica subitamente muito molinho, rígido ou fraco para mamar ou respirar, especialmente com febre, prostração, gemência, pele arroxeada ou alteração da consciência.",
+          "Engasgo com incapacidade de respirar, tosse ou voz fracas, coloração arroxeada, ou dificuldade respiratória após comida ou líquido. Acione o SAMU 192 se não respirar adequadamente.",
+          "Vômitos repetidos com dor de cabeça forte, rigidez de nuca, febre com alteração do comportamento, trauma importante, suspeita de intoxicação ou piora muito rápida.",
+          "Falta de ar, inchaço de face ou língua, urticária disseminada, desmaio ou reação rápida e intensa após medicamento, alimento ou outra exposição."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque avaliação pediátrica ou do desenvolvimento assim que houver preocupação consistente em duas ou mais áreas; não espere a criança 'amadurecer' ou a causa ser fechada para solicitar avaliação e apoio precoce.",
+          "A reavaliação deve ser longitudinal e revisar habilidades por domínio, crescimento e perímetro cefálico quando aplicável, exame físico e neurológico, audição, visão, alimentação, sono, comportamento, história familiar, ambiente e participação em casa e na escola.",
+          "Antecipe o retorno se a criança parar de avançar, perder habilidade, tiver nova crise suspeita, mudança de tônus, assimetria, piora para andar, falar, ouvir, enxergar, brincar, comer ou dormir, ou se a família ou escola não conseguir manter a segurança. Qualquer regressão merece avaliação médica sem demora; sinais agudos seguem a orientação de pronto atendimento.",
+          "Revise periodicamente objetivos, ganhos, barreiras e carga para a família. Leve informações dos profissionais e da escola para que o plano seja coordenado e para evitar orientações contraditórias ou repetição desnecessária de avaliações.",
+          "Audição e visão precisam estar documentadas quando há suspeita de AGD. Exames genéticos, laboratoriais, metabólicos, eletroencefalograma ou imagem são decididos pela equipe conforme história e exame; não solicite um pacote por conta própria.",
+          "A partir dos 5 anos, peça revisão da nomenclatura e avaliação apropriada de funcionamento intelectual, adaptativo, linguagem e aprendizagem. Isso preserva os apoios necessários sem transformar AGD em rótulo permanente ou presumir deficiência intelectual."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Nesta idade, a avaliação prioriza alimentação, estado de alerta, resposta a som e rosto, movimentos, simetria, tônus e crescimento; o diagnóstico AGD pode ainda não estar estabelecido. Use idade corrigida quando pertinente. Dificuldade súbita para mamar/respirar, flacidez, rigidez, febre com prostração ou pouca responsividade é urgência.",
+        "3a5m": "Observe interação e sorriso social, controle progressivo da cabeça, mãos, movimentos, vocalização e resposta a sons e rostos. Vários domínios preocupantes ou perda de resposta já presente justificam avaliação sem esperar a próxima consulta distante.",
+        "6a11m": "Acompanhe comunicação por sons e gestos, brincadeira, postura, mobilidade, uso das duas mãos e interesse social. Ofereça interação face a face e oportunidades seguras no chão; não force sentar ou andar nem use equipamento de treino sem orientação.",
+        "1a": "Avalie compreensão e expressão, gestos, brincadeira, mobilidade e autonomia inicial. Atraso de fala deve incluir avaliação de audição mesmo após teste neonatal normal; atraso em outras áreas não deve ser reduzido a 'falar tarde'.",
+        "2a5": "Esta é a principal faixa para o termo AGD. A avaliação deve abranger pelo menos dois domínios e a funcionalidade diária, com intervenção precoce e preparação para participação na educação infantil; marcos ou triagem isolados não fecham o diagnóstico.",
+        "6a11": "O termo AGD deve ser revisto. Avalie funcionamento intelectual e adaptativo, linguagem, aprendizagem, comunicação, comportamento e participação escolar; mantenha apoios e adaptações enquanto a investigação avança e não trate dificuldade como preguiça.",
+        "12a17": "AGD não é a nomenclatura habitual para adolescentes. Reavaliar diagnósticos, comunicação, aprendizagem, autonomia, funcionamento adaptativo, saúde mental, segurança e transição para a vida adulta, com participação do adolescente e respeito à sua privacidade.",
+        "unknown": "Sem idade, prematuridade, trajetória e domínios avaliados, não é possível confirmar AGD nem interpretar marcos. Priorize esclarecer perda de habilidades, sinais neurológicos, alimentação/deglutição, audição, visão e segurança; não forneça prognóstico ou pacote automático de exames/terapias."
+      },
+      "refs": [
+        {
+          "id": "pais261_op3056_1",
+          "name": "Assessing children and youth with global developmental delay and intellectual developmental disorder",
+          "url": "https://cps.ca/en/documents/position/Assessing-GDD-IDD"
+        },
+        {
+          "id": "pais261_op3056_2",
+          "name": "Nurturing care for children with developmental delays and disabilities: thematic brief",
+          "url": "https://www.who.int/publications/i/item/B09617"
+        },
+        {
+          "id": "pais261_op3056_3",
+          "name": "Caderneta da Criança — Passaporte da Cidadania",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/caderneta/caderneta"
+        },
+        {
+          "id": "pais261_op3056_4",
+          "name": "Developmental Monitoring and Screening",
+          "url": "https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html"
+        },
+        {
+          "id": "pais261_op3056_5",
+          "name": "CDC's Developmental Milestones",
+          "url": "https://www.cdc.gov/act-early/milestones/"
+        },
+        {
+          "id": "pais261_op3056_6",
+          "name": "Suspected neurological conditions: recognition and referral — recommendations for children aged under 16",
+          "url": "https://www.nice.org.uk/guidance/ng127/chapter/recommendations-for-children-aged-under-16"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3057",
+      "specific": true,
+      "key": "pps_catalog_5db33f12153b04d5",
+      "label": "Atresia de vias biliares — registro no PPS",
+      "entity": "Atresia biliar (atresia de vias biliares): colangiopatia obstrutiva progressiva que se manifesta no período neonatal, causa colestase e requer investigação e tratamento cirúrgico precoces em centro pediátrico especializado",
+      "assessment": "{\"classification\":\"VALID_NEONATAL_HEPATOBILIARY_DISEASE_REQUIRING_URGENT_SPECIALIST_EVALUATION\",\"normalized_entity\":\"Atresia biliar (atresia de vias biliares)\",\"assessment\":\"O termo do cadastro corresponde a uma doença pediátrica válida. 'Atresia biliar', 'atresia de vias biliares' e 'atresia das vias biliares' são variantes terminológicas da mesma entidade; 'AVB' é sigla contextual. O sufixo 'registro no PPS' informa apenas a origem cadastral. Icterícia persistente, bilirrubina direta/conjugada elevada, urina escura e fezes hipocólicas ou acólicas indicam colestase e levantam suspeita, mas não confirmam sozinhos atresia biliar. A confirmação e a exclusão de outras causas pertencem ao fluxo especializado. A urgência decorre da progressão do dano hepático e do melhor resultado do tratamento quando realizado precocemente.\",\"diagnostic_boundary\":\"Diferenciar de icterícia fisiológica ou associada ao aleitamento, hiperbilirrubinemia indireta, hepatites e infecções, cisto de colédoco e outras obstruções, síndrome de Alagille, fibrose cística, hipotireoidismo, galactosemia, tirosinemia, deficiência de alfa-1-antitripsina e outras colestases genéticas ou metabólicas. Fezes ainda pigmentadas, bom estado geral ou ganho de peso inicial não excluem atresia biliar.\",\"treatment_boundary\":\"A portoenterostomia de Kasai é tratamento cirúrgico especializado e não garante cura. Não concluir que a oportunidade terapêutica foi perdida por causa da idade sem avaliação do centro. A necessidade e o momento de transplante são individualizados; esta ficha não indica cirurgia ou transplante automaticamente.\",\"medication_boundary\":\"Não há medicamento caseiro que desobstrua as vias biliares. Antibióticos, vitaminas lipossolúveis, medicamentos para o fluxo biliar, imunossupressores e suplementos dependem da fase clínica e da prescrição do centro. Esta ficha não escolhe produto, dose, via, intervalo ou duração.\",\"testing_boundary\":\"A família não deve tentar confirmar ou excluir a doença interpretando isoladamente cor da pele, ultrassom ou valor laboratorial. A avaliação inicial inclui bilirrubina total e direta/conjugada conforme o profissional; a sequência de exames e a confirmação são definidas com hepatologia/gastroenterologia e cirurgia pediátricas sem atrasar o encaminhamento.\",\"prognostic_boundary\":\"Não prometer cura, drenagem biliar duradoura, preservação do fígado nativo ou ausência de transplante após Kasai. Mesmo quando a icterícia melhora, permanecem necessários seguimento de fígado, nutrição, crescimento, hipertensão portal e complicações infecciosas.\",\"pediatric_scope\":\"A apresentação típica é neonatal. Em recém-nascidos e lactentes pequenos, reconhecer colestase e encaminhar rapidamente é a prioridade. Em crianças maiores e adolescentes, o registro geralmente representa seguimento após Kasai, doença hepática crônica ou transplante, e não uma doença que começou nessa idade.\",\"not_equivalent_to\":[\"icterícia fisiológica do recém-nascido\",\"icterícia associada ao aleitamento\",\"qualquer hiperbilirrubinemia indireta\",\"toda colestase neonatal\",\"cisto de colédoco ou outra obstrução biliar\",\"diagnóstico confirmado apenas pela cor das fezes\",\"cirrose, falência hepática ou indicação automática de transplante\",\"cura garantida após portoenterostomia de Kasai\"],\"critical_context_to_confirm\":[\"idade exata em dias ou semanas e início ou persistência da icterícia\",\"cor seriada das fezes e da urina, com comparação à escala da Caderneta da Criança e fotos quando disponíveis\",\"valores e datas de bilirrubina total e direta/conjugada, com referência do laboratório\",\"mamadas, vômitos, ganho de peso, diurese, febre, sangramento, distensão abdominal e edema\",\"fase clínica: suspeita, diagnóstico confirmado, pós-Kasai, doença hepática crônica ou pós-transplante\",\"data e evolução após eventual Kasai, inclusive mudança da icterícia e da cor das fezes\",\"episódios prévios de colangite, sangramento, ascite ou outras complicações\",\"plano individual de alimentação, suplementos, medicamentos, exames e retornos do centro hepatobiliar\"],\"resolution\":\"Entidade neonatal válida, específica e tempo-dependente; os aliases foram reconciliados sem criar outra doença. Conta uma entidade adicional apenas se integrada, testada e publicada.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Atresia biliar é uma obstrução progressiva das vias que levam a bile do fígado ao intestino. A suspeita é uma urgência diagnóstica e cirúrgica: não espere a próxima consulta de rotina diante de icterícia persistente, urina escura ou fezes muito claras.",
+          "Observe a cor de todas as fraldas. Fezes creme, amarelo muito pálido, cinza ou brancas podem indicar pouco ou nenhum pigmento biliar. Compare com a escala da Caderneta da Criança e, se possível, fotografe em luz natural para mostrar à equipe.",
+          "Fezes amarelas ou pigmentadas nas primeiras semanas não excluem a doença, pois podem clarear gradualmente. O bebê também pode parecer bem e ganhar peso no início; isso não torna seguro adiar a investigação.",
+          "Anote mamadas, vômitos, fraldas molhadas, cor das fezes e da urina, febre, sangramentos e aumento da barriga. Leve caderneta, fotos, resultados, receitas e relatório cirúrgico aos atendimentos.",
+          "Depois de Kasai ou transplante, siga o plano do centro hepatobiliar e mantenha todos os retornos mesmo se a pele clarear e as fezes ganharem cor. A melhora do fluxo da bile não equivale a cura definitiva."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Se o bebê ainda está em investigação, organize avaliação médica no mesmo dia e o acesso rápido ao serviço indicado. Não adie consulta, exame, internação ou encaminhamento para tentar banho de sol, chá, dieta ou outro tratamento caseiro.",
+          "Use a escala de cores das fezes da Caderneta da Criança de forma seriada e mostre fezes ou fotos suspeitas ao profissional. Não dependa apenas da cor da pele, que pode ser difícil de perceber.",
+          "Após cirurgia, cuide da incisão, banho e atividade somente conforme o plano da equipe. Não aplique pomadas, álcool, ervas, faixas ou curativos não orientados.",
+          "Faça higiene das mãos e evite contato próximo com pessoas doentes conforme o centro orientar, especialmente no pós-operatório ou após transplante. Essas medidas não eliminam o risco de colangite e nunca devem atrasar atendimento diante de febre.",
+          "Garanta que todos os cuidadores e, nas crianças maiores, a escola saibam reconhecer febre, retorno de fezes claras, piora da icterícia, sangramento e aumento da barriga e tenham o contato e o plano de emergência do centro."
+        ],
+        "MEDICAMENTOS": [
+          "Não existe remédio caseiro que desobstrua as vias biliares. O tratamento é definido por hepatologia e cirurgia pediátricas e pode envolver Kasai, acompanhamento intensivo e, em alguns casos, transplante.",
+          "Antibióticos, vitaminas lipossolúveis, medicamentos para o fluxo biliar, imunossupressores e suplementos podem fazer parte de planos individuais, mas não são universais. Use somente o que foi prescrito para esta criança, na apresentação e nos horários registrados.",
+          "Não inicie, troque ou suspenda antibiótico, corticoide, vitamina, fitoterápico, suplemento ou imunossupressor por conta própria. Não dobre dose esquecida e não use produto indicado para outra criança.",
+          "Antes de oferecer medicamento sem receita, inclusive antitérmico, analgésico, chá ou produto natural, consulte a equipe que acompanha o fígado. Leve a lista completa de produtos a cada atendimento.",
+          "Febre após Kasai pode indicar colangite e não deve ser tratada apenas em casa nem considerada resolvida porque baixou com antitérmico. Procure atendimento hospitalar urgente."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não faça jejum, não troque leite e não restrinja gordura por conta própria. Enquanto busca avaliação, siga a última orientação médica e ofereça alimentação apenas se a criança estiver acordada, respirando bem e conseguindo mamar; jejum para exame ou cirurgia só deve ocorrer por instrução do serviço.",
+          "A redução do fluxo biliar pode dificultar a digestão de gorduras, a absorção de vitaminas e o crescimento. Fórmula especial, fortificação do leite, triglicerídeos de cadeia média, vitaminas ou alimentação por sonda só devem ser iniciados e ajustados por hepatologia e nutrição pediátricas.",
+          "Mantenha aleitamento materno ou fórmula conforme o plano individual. Não dilua nem concentre fórmula e não acrescente óleo, cereal, vitamina ou suplemento sem orientação.",
+          "Registre duração e volume aproximado das mamadas quando possível, cansaço ou suor ao mamar, engasgos, vômitos, peso e fraldas molhadas. Recusa persistente, vômitos repetidos ou redução importante da urina exigem avaliação urgente.",
+          "Após transplante, siga as regras alimentares e de segurança dos alimentos do centro, pois a imunossupressão e as interações com medicamentos mudam as recomendações."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Recém-nascido ou lactente com pele ou olhos amarelados a partir de 14 dias de vida, urina escura que mancha a fralda ou fezes creme, amarelo muito pálido, cinza ou brancas. Procure avaliação no mesmo dia e não espere a próxima consulta.",
+          "Febre, calafrios ou piora do estado geral após Kasai, principalmente com mais icterícia, urina mais escura, fezes voltando a clarear, dor ou aumento da barriga. Pode ser colangite e requer atendimento hospitalar urgente.",
+          "Sonolência incomum, dificuldade para acordar, irritabilidade intensa, bebê muito molinho, dificuldade para respirar, coloração arroxeada, pele fria ou aparência de estar muito doente. Acione o SAMU 192 se houver instabilidade ou transporte inseguro.",
+          "Vômito com sangue, fezes pretas ou com sangue, sangramento que não para, muitos roxos novos, palidez intensa ou desmaio. Pode haver complicação do fígado ou da hipertensão portal.",
+          "Barriga aumentando rapidamente, inchaço de pernas ou rosto, falta de ar, vômitos repetidos, recusa de todas as mamadas, poucas fraldas molhadas ou ausência de urina.",
+          "Após cirurgia ou transplante: abertura, secreção, vermelhidão progressiva ou sangramento da ferida, febre, piora da icterícia ou incapacidade de tomar os medicamentos prescritos."
+        ],
+        "QUANDO REAVALIAR": [
+          "Na suspeita inicial, a avaliação é no mesmo dia: icterícia a partir de 14 dias, urina escura ou fezes hipocólicas/acólicas requerem avaliação clínica e bilirrubina total e direta/conjugada conforme o profissional. Não espere alguns dias para ver se melhora sozinha.",
+          "Se a bilirrubina direta/conjugada estiver alterada ou a suspeita permanecer, cumpra o encaminhamento urgente para gastroenterologia/hepatologia e cirurgia pediátricas. Não adie esse fluxo para repetir exames ou aguardar ultrassom que pareça normal.",
+          "Após Kasai, compareça a todos os retornos e exames definidos pelo centro mesmo quando a criança parece bem. Antecipe o contato se a icterícia não diminuir como esperado, as fezes clarearem novamente, houver febre, coceira, barriga aumentada ou pouco ganho de peso.",
+          "Em criança maior ou adolescente com história de atresia, mantenha seguimento hepatológico para crescimento, nutrição, hipertensão portal, função hepática e eventual avaliação de transplante. Ausência de sintomas não é critério de alta.",
+          "Após transplante, comunique imediatamente ao centro febre, vômitos persistentes, diarreia importante, piora da icterícia ou dificuldade para tomar imunossupressores e siga o plano fornecido."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Faixa crítica para suspeita e tratamento. Icterícia a partir de 14 dias, urina escura ou fezes claras exige avaliação no mesmo dia; não presumir icterícia fisiológica ou do leite materno. Registrar idade em dias e não atrasar o encaminhamento hepatobiliar/cirúrgico.",
+        "3a5m": "Diagnóstico novo nessa idade é tardio, mas continua urgente. Fezes claras, icterícia, pouco ganho de peso, barriga aumentada ou sangramento exigem centro hepatobiliar sem demora; não concluir em casa que já não existe opção de tratamento.",
+        "6a11m": "A atresia começa no período neonatal; nesta faixa, o registro costuma indicar diagnóstico prévio, pós-Kasai ou doença hepática em seguimento. Confirmar história, cirurgia e centro responsável e vigiar febre, nutrição, crescimento e sinais de hipertensão portal.",
+        "1a": "Manter seguimento hepatológico e nutricional especializado mesmo se a criança estiver ativa. Falha de crescimento, coceira, barriga aumentada, sangramento ou piora da icterícia exigem antecipar a avaliação.",
+        "2a5": "Foco em crescimento, desenvolvimento, alimentação e adesão ao plano individual. Família, creche e escola devem conhecer os sinais de febre/colangite, sangramento e descompensação e não oferecer remédios por conta própria.",
+        "6a11": "Atresia biliar nova não começa nessa idade; confirmar que se trata do seguimento da doença neonatal, pós-Kasai ou transplante. Manter consultas e responder imediatamente a sangramento, febre, barriga aumentada ou piora da icterícia.",
+        "12a17": "Incluir o adolescente nas decisões, revisar adesão e preparar transição do cuidado. Não alterar imunossupressores ou outros medicamentos sozinho; álcool, suplementos, anabolizantes e fitoterápicos devem ser evitados e discutidos com a equipe hepatológica.",
+        "unknown": "Confirmar idade, fase clínica (suspeita, diagnóstico confirmado, pós-Kasai ou pós-transplante), cor das fezes e urina, estado nutricional, febre, sangramento e plano do centro. Sem esses dados, não gerar alta, prognóstico, dieta, dose ou cronograma automático."
+      },
+      "refs": [
+        {
+          "id": "pais261_op3057_1",
+          "name": "Atresia de vias biliares",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/atresia-de-vias-biliares/"
+        },
+        {
+          "id": "pais261_op3057_2",
+          "name": "Colestase em lactentes: Um tema do Pediatra",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/24571b-DC_Colastase_em_lactentes_Um_tema_do_pediatra.pdf"
+        },
+        {
+          "id": "pais261_op3057_3",
+          "name": "Guidance for the Primary Care Provider in Identifying Infants With Biliary Atresia by 2–4 Weeks of Life: Clinical Report",
+          "url": "https://publications.aap.org/pediatrics/article/155/3/e2024070077/201020/Guidance-for-the-Primary-Care-Provider-in"
+        },
+        {
+          "id": "pais261_op3057_4",
+          "name": "Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of NASPGHAN and ESPGHAN",
+          "url": "https://naspghan.org/files/documents/pdfs/training/curriculum-resources/biliary-disease/naspghan-guidelines/Biliary%20NASPGHAN%20Guidelines%201%20PMID%2027429428.pdf"
+        },
+        {
+          "id": "pais261_op3057_5",
+          "name": "Caderneta da Criança — Menina: Passaporte da Cidadania",
+          "url": "https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_crianca_menina_passaporte_cidadania_7ed.pdf"
+        },
+        {
+          "id": "pais261_op3057_6",
+          "name": "Treatment for Biliary Atresia",
+          "url": "https://www.niddk.nih.gov/health-information/liver-disease/biliary-atresia/treatment"
+        },
+        {
+          "id": "pais261_op3057_7",
+          "name": "Eating, Diet, & Nutrition for Biliary Atresia",
+          "url": "https://www.niddk.nih.gov/health-information/liver-disease/biliary-atresia/eating-diet-nutrition"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3058",
+      "specific": true,
+      "key": "pps_catalog_8ba7d40e3ea4afb0",
+      "label": "Atresia duodenal — registro no PPS",
+      "entity": "Atresia duodenal congênita: obstrução completa intrínseca do duodeno, geralmente manifesta no período neonatal, que requer estabilização hospitalar, avaliação por cirurgia pediátrica e correção operatória; crianças maiores em geral estão em seguimento após o reparo",
+      "assessment": "{\"classification\":\"VALID_CONGENITAL_NEONATAL_SURGICAL_ENTITY_WITH_ADMINISTRATIVE_SUFFIX\",\"normalized_entity\":\"Atresia duodenal congênita\",\"assessment\":\"O termo principal é uma entidade pediátrica válida. Atresia significa fechamento ou interrupção completa do lúmen duodenal; leite e líquidos não atravessam normalmente. O sufixo ‘registro no PPS’ informa a origem cadastral e não modifica o diagnóstico. A apresentação típica é neonatal, inclusive após suspeita pré-natal, mas o cadastro não esclarece se a criança está antes da cirurgia, no pós-operatório ou em seguimento tardio; por isso, a orientação separa esses cenários.\",\"alias_assessment\":{\"Atresia duodenal\":\"Sinônimo clínico exato e preferido.\",\"Atresia duodenal — apresentação pediátrica aguda\":\"Mesma entidade em fase sintomática; não contar separadamente.\",\"Atresia duodenal — evolução complicada/refratária\":\"Qualificador de evolução, não subtipo nosológico autônomo; requer descrever a complicação real em vez de presumir refratariedade.\",\"Atresia duodenal — forma grave/crítica\":\"Qualificador de gravidade, não entidade adicional; urgência é definida pelos sinais atuais.\"},\"diagnostic_boundary\":\"Atresia duodenal é obstrução completa. Estenose ou membrana duodenal pode permitir alguma passagem e apresentação mais tardia. Vômito bilioso também pode ocorrer em má rotação com vólvulo, outra obstrução intestinal, enterocolite necrosante ou infecção; não se deve diagnosticar a causa em casa. Obstrução proximal à entrada da bile pode produzir vômito não verde, portanto ausência de cor verde não exclui doença em recém-nascido que não tolera mamadas.\",\"treatment_boundary\":\"Não existe medicamento que abra a atresia. Descompressão por sonda, acesso venoso, exames, suporte nutricional e cirurgia pertencem ao hospital. O tipo e o momento da operação, a via de alimentação e a progressão das mamadas são individualizados pela equipe neonatal e cirúrgica.\",\"postoperative_boundary\":\"Após alta, a maioria das crianças evolui bem, mas vômito bilioso, distensão, dor, intolerância alimentar, febre ou alteração da ferida podem indicar obstrução, infecção ou problema da anastomose e exigem avaliação. Refluxo, constipação e outros sintomas gastrointestinais persistentes merecem seguimento, sem presumir que todo sintoma decorre do reparo antigo.\",\"prognostic_boundary\":\"Não prometer data de alta, tempo para iniciar mamadas, ganho ponderal, ausência de complicações ou evolução uniforme. Prognóstico e necessidades de seguimento dependem da prematuridade, recuperação intestinal, condições associadas e curso pós-operatório.\",\"pediatric_scope\":\"A fase principal é fetal/neonatal. Em lactentes maiores, crianças e adolescentes, o termo costuma representar antecedente cirúrgico; sintomas atuais devem ser avaliados por si, com atenção a obstrução tardia e à transição do cuidado.\",\"not_equivalent_to\":[\"estenose duodenal ou membrana duodenal com obstrução parcial\",\"má rotação intestinal com ou sem vólvulo\",\"pâncreas anular, duplicação intestinal ou compressão extrínseca\",\"estenose hipertrófica do piloro, refluxo ou intolerância alimentar simples\",\"qualquer causa de vômito em criança já operada\",\"alta domiciliar antes de estabilização, avaliação cirúrgica e plano da equipe\"],\"critical_context_to_confirm\":[\"idade gestacional e cronológica, peso, estabilidade respiratória e circulatória\",\"se houve suspeita pré-natal, confirmação pós-natal e quais exames foram realizados\",\"cor, volume e frequência do vômito; distensão, dor, eliminação de fezes/gases e diurese\",\"se a atresia está não corrigida, em pós-operatório hospitalar ou após alta\",\"data e tipo do reparo, presença de sonda ou acesso, plano de mamadas e nutrição\",\"ferida operatória, febre, ganho de peso e tolerância alimentar\",\"condições cardíacas, cromossômicas, renais ou intestinais associadas avaliadas pela equipe\",\"medicamentos prescritos, retorno cirúrgico e plano de emergência entregue na alta\"],\"urgency_rule\":\"Suspeita neonatal não corrigida ou vômito verde/verde-escuro em qualquer idade exige avaliação imediata. Vômito bilioso com dor, distensão, prostração, sangue, febre, choque ou sinais respiratórios é emergência tempo-dependente; não testar nova mamada nem tratar em casa.\",\"resolution\":\"Entidade válida, específica e contável uma vez. Os aliases cadastrais de fase ou gravidade são resolvidos pela mesma orientação, sem criar novas doenças.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Atresia duodenal significa que a primeira parte do intestino depois do estômago nasceu fechada. Antes da correção, leite e líquidos não conseguem seguir normalmente; um recém-nascido com suspeita ou diagnóstico não é caso para observação ou cuidado domiciliar.",
+          "Vômito verde ou verde-escuro pode conter bile e sinalizar obstrução intestinal. Mesmo que o bebê pareça bem entre os episódios ou a radiografia prévia tenha sido tranquilizadora, procure pronto atendimento imediatamente e informe que houve vômito bilioso.",
+          "Enquanto aguarda transporte, mantenha a criança aquecida, observada e em posição segura. Se vomitar, vire-a de lado para reduzir aspiração, sem pressionar o abdome nem colocar os dedos na boca. Não repita a mamada para testar e não atrase a saída para fotografar o vômito.",
+          "Cuidados em casa só começam após alta formal. Siga o plano escrito para banho, curativo, colo, posição e atividade; não retire fitas, pontos, sondas ou outros dispositivos e não aplique álcool, pó, ervas ou pomadas não orientadas na incisão.",
+          "Após a alta, observe mamadas ou refeições, vômitos, barriga, evacuações, fraldas molhadas, peso conforme combinado e ferida. Anote mudanças para relatar, mas não use o registro para adiar atendimento diante de sinal de alarme.",
+          "A atresia não foi causada por algo que a família fez. Avaliações cardíacas, genéticas, renais ou intestinais podem ser propostas porque algumas condições coexistem; não presuma uma associação sem a avaliação individual."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Confirmação, estabilização e tratamento são hospitalares. A equipe pode interromper mamadas, drenar o estômago com sonda, obter acesso venoso, fazer exames e acionar neonatologia e cirurgia pediátrica.",
+          "Não introduza, lave, reposicione, retire ou feche sonda por conta própria. Avise imediatamente a equipe se a sonda sair, parar de drenar, houver sangue, distensão ou novo vômito.",
+          "Não massageie a barriga, não faça enema ou estimulação retal e não use chá, compressa ou manobra caseira para tentar ‘desobstruir’ o intestino.",
+          "Durante a internação, informe cor e quantidade do vômito, mamadas, urina e fezes. Pergunte quando poderá fazer contato pele a pele, segurar o bebê e retomar posição de bruços acordado; isso depende da estabilidade, da ferida e dos dispositivos.",
+          "Após a alta, lave ou proteja a incisão somente como a equipe ensinou. Vermelhidão em expansão, calor, inchaço, abertura ou secreção precisa de avaliação e não deve ser coberta com produto caseiro.",
+          "Para crianças maiores já operadas, mantenha o resumo cirúrgico e contatos da equipe acessíveis à família, à escola e aos cuidadores. Atividade costuma voltar conforme recuperação, mas restrições individuais vêm do cirurgião."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum remédio abre a obstrução da atresia duodenal. Não trate vômito verde com antiemético, antirrefluxo, laxante, probiótico, antibiótico ou analgésico em casa; reduzir o sintoma pode atrasar o reconhecimento de uma emergência.",
+          "Se houver suspeita de obstrução ou vômito bilioso, não ofereça medicamento pela boca até avaliação, salvo instrução direta da equipe que está atendendo. Leve ao hospital a lista de remédios, alergias e as embalagens do que foi usado.",
+          "Líquidos intravenosos, antibióticos quando indicados, anestesia e analgesia são escolhidos no hospital conforme exames, operação, idade e estado clínico. Esta ficha não define produto, dose, intervalo ou duração.",
+          "Depois da alta, use apenas o que foi prescrito para aquela criança e pela via indicada. Não reaproveite receita, não dê dose extra após vômito e não suspenda tratamento de condição associada sem falar com a equipe.",
+          "Dificuldade para respirar, inchaço de face ou língua, urticária disseminada, desmaio ou pouca resposta após medicamento exige emergência. Erro de administração também requer orientação imediata; não tente compensar sozinho."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Recém-nascido com suspeita pré-natal de atresia deve ser avaliado pela equipe neonatal antes de iniciar alimentação. Se houver vômito verde ou suspeita de obstrução, não ofereça peito, fórmula, água, soro, chá, alimento ou remédio pela boca até avaliação urgente.",
+          "Antes da cirurgia e enquanto o intestino se recupera, líquidos e nutrição podem ser administrados pela veia, e o estômago pode ser drenado por sonda. Essas medidas são hospitalares e não significam que o leite materno foi abandonado.",
+          "O reinício e o aumento das mamadas dependem da recuperação, da drenagem, do exame e do plano da equipe. Não existe volume, intervalo, fórmula ou prazo universal; não antecipe, dilua, concentre, engrosse ou troque a dieta por conta própria.",
+          "Após a alta, siga a alimentação indicada para a idade e o plano individual. Se houver dificuldade de sucção ou deglutição, refeições muito longas, vômitos repetidos ou crescimento insuficiente, peça reavaliação sem improvisar sonda, suplemento ou dieta restritiva.",
+          "Procure atendimento no mesmo dia se a criança não mantém líquidos ou mamadas, urina menos, fica sonolenta ou tem barriga cada vez mais inchada. Vômito verde, sangue, dor forte ou prostração exigem pronto atendimento imediato e nada deve ser forçado pela boca."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Qualquer vômito verde ou verde-escuro em recém-nascido, bebê ou criança, inclusive anos após o reparo. Informe o histórico de atresia e cirurgia; não espere outra mamada, consulta ou melhora espontânea.",
+          "Barriga inchada, endurecida ou dolorosa; vômitos repetidos; sangue no vômito ou nas fezes; ausência de fezes ou gases junto de distensão; ou dor que vem em ondas e piora.",
+          "Febre em recém-nascido, pele pálida ou acinzentada, extremidades frias, respiração rápida, choro fraco, prostração, confusão ou dificuldade para acordar.",
+          "Pouca urina ou poucas fraldas molhadas, boca seca, olhos ou moleira fundos, fraqueza ou incapacidade de manter líquidos, por risco de desidratação e alteração circulatória.",
+          "Após a cirurgia, ferida que abre, fica muito vermelha, quente ou inchada, apresenta pus, secreção com mau cheiro ou sangramento; ou febre, dor, distensão e piora da alimentação.",
+          "Acione o SAMU 192 se houver dificuldade para respirar, lábios arroxeados, pausas respiratórias, engasgo persistente, desmaio, convulsão, ausência de resposta ou piora rápida. Não ofereça nada pela boca."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se a atresia foi suspeitada no pré-natal, siga o plano da obstetrícia, neonatologia e cirurgia pediátrica para local do parto e transferência. Após o nascimento, o bebê precisa de avaliação neonatal antes de alimentar, conforme o centro responsável.",
+          "Durante a internação, peça atualização sobre estabilidade, exames, sonda, recuperação intestinal, nutrição e critérios para iniciar mamadas. O ritmo varia; esta ficha não prevê dia de cirurgia, início da dieta ou alta.",
+          "Após a alta, compareça ao retorno de cirurgia pediátrica na data escrita, mesmo que a criança pareça bem. Leve resumo da internação, lista de medicamentos, registro de alimentação, vômitos, urina, fezes e peso quando disponível.",
+          "Antecipe a consulta se houver vômito não verde repetido, refluxo doloroso, distensão recorrente, constipação persistente, dificuldade para alimentar, menor ganho de peso, menos urina ou preocupação com a ferida. Vômito verde ou sinal de gravidade não aguarda consulta.",
+          "Seguimento com pediatria e, quando indicado, cardiologia, genética, nutrição, gastroenterologia ou outras áreas depende das condições associadas e da evolução; correção cirúrgica não significa alta automática de todo acompanhamento.",
+          "Na idade escolar e adolescência, revise sintomas digestivos, crescimento, alimentação e o histórico cirúrgico nas consultas. Planeje a transição do cuidado e mantenha o nome da operação e os contatos de referência acessíveis."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Faixa principal. Suspeita pré-natal, intolerância às primeiras mamadas e vômito verde ou não verde persistente podem indicar obstrução. Não iniciar ou testar mamada diante de suspeita; avaliação neonatal e cirúrgica é imediata. Após alta, seguir estritamente alimentação, ferida e retorno do plano cirúrgico.",
+        "3a5m": "Atresia completa geralmente já foi diagnosticada e corrigida; apresentação nova exige confirmar o diagnóstico e considerar obstrução parcial ou outra causa. Vômito bilioso continua sendo emergência. Em pós-operatório, vigiar hidratação, ganho de peso, ferida, distensão e tolerância alimentar.",
+        "6a11m": "Não atribuir vômito verde à dentição, refluxo ou introdução alimentar. Criança operada com distensão, recusa, vômitos ou perda de peso precisa de revisão; bilioso, prostração ou sangue exige pronto atendimento. Alimentação complementar segue idade e plano individual.",
+        "1a": "Nesta idade, o termo costuma ser antecedente cirúrgico. Não impor dieta, espessante ou restrição por conta própria. Dor, distensão, vômito verde, redução de urina ou incapacidade de manter líquidos pode indicar obstrução ou desidratação e exige avaliação urgente.",
+        "2a5": "Explique sem culpa e ensine a criança a avisar dor ou enjoo. Observe crescimento, alimentação, evacuações e sintomas persistentes. Vômito verde, barriga muito inchada, sangue, sonolência ou dor forte é emergência; não usar laxante ou antiemético para testar melhora.",
+        "6a11": "Criança escolar geralmente está no seguimento pós-correção. Escola e cuidadores devem conhecer o antecedente, contatos e sinais de alarme. Atividade e alimentação podem ser usuais se liberadas, mas dor intensa, distensão, vômito bilioso ou incapacidade de beber requer pronto atendimento.",
+        "12a17": "Inclua o adolescente no plano, preserve relatório da operação e prepare transição do cuidado. Vômito bilioso, dor abdominal forte, distensão, sangue ou incapacidade de manter líquidos pode representar obstrução tardia e exige emergência; não mascarar com medicamento ou dieta caseira.",
+        "unknown": "Confirmar idade, se a atresia foi suspeitada ou confirmada, se e quando foi corrigida, operação realizada, sintomas atuais, alimentação, dispositivos, condições associadas e equipe responsável. Até esclarecer, vômito verde é tratado como emergência em qualquer idade."
+      },
+      "refs": [
+        {
+          "id": "pais261_op3058_1",
+          "name": "Management of Bilious Vomiting in the Newborn Period and Radiological Support for Neonatal Services — A Framework for Practice",
+          "url": "https://hubble-live-assets.s3.eu-west-1.amazonaws.com/bapm/file_asset/file/2422/Bilious_Vomiting_Framework_Feb_2024.pdf"
+        },
+        {
+          "id": "pais261_op3058_2",
+          "name": "Bilious Vomiting — Parent Information Leaflet",
+          "url": "https://hubble-live-assets.s3.eu-west-1.amazonaws.com/bapm/file_asset/file/3565/Parent_info_leaflet_Bilious_Vomiting_Feb_24.pdf"
+        },
+        {
+          "id": "pais261_op3058_3",
+          "name": "Condition: Duodenal Atresia/Stenosis",
+          "url": "https://apsapedsurg.org/parents/learn-about-a-condition/a-e/"
+        },
+        {
+          "id": "pais261_op3058_4",
+          "name": "Duodenal atresia",
+          "url": "https://mft.nhs.uk/rmch/services/manchester-centre-for-neonatal-surgery/conditions-we-treat-at-mcns/duodenal-atresia/"
+        },
+        {
+          "id": "pais261_op3058_5",
+          "name": "Duodenal atresia",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/duodenal-atresia/"
+        },
+        {
+          "id": "pais261_op3058_6",
+          "name": "Long-term gastrointestinal sequelae in patients who underwent surgery for congenital duodenal obstruction",
+          "url": "https://link.springer.com/content/pdf/10.1007/s00383-025-06223-3.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3059",
+      "specific": true,
+      "key": "pps_catalog_1ed64998259ffd33",
+      "label": "Atresia jejunoileal — registro no PPS",
+      "entity": "Atresia congênita do jejuno e/ou íleo, com interrupção completa da continuidade do intestino delgado, obstrução predominantemente neonatal e necessidade de estabilização hospitalar e correção cirúrgica",
+      "assessment": "{\"classification\":\"VALID_CONGENITAL_NEONATAL_SURGICAL_ENTITY\",\"normalized_entity\":\"Atresia jejunoileal\",\"assessment\":\"O termo é nosologicamente válido e reúne atresias do jejuno e do íleo, que interrompem a continuidade do intestino delgado e causam obstrução. O rótulo isolado não informa local, tipo, número de atresias, comprimento ou função do intestino remanescente, presença da valva ileocecal, malrotação/volvo, perfuração, íleo meconial/fibrose cística, estoma, prematuridade, anomalias associadas nem dependência de nutrição parenteral. O sufixo 'registro no PPS' indica origem cadastral e não muda a entidade clínica.\",\"catalog_aliases_and_relationships\":[{\"alias\":\"Atresia jejunoileal\",\"relationship\":\"CANONICAL_TERM\"},{\"alias\":\"Atresia jejunal\",\"relationship\":\"VALID_ANATOMIC_SUBTYPE\"},{\"alias\":\"Atresia ileal\",\"relationship\":\"VALID_ANATOMIC_SUBTYPE\"},{\"alias\":\"Atresia de intestino delgado\",\"relationship\":\"BROADER_ACCEPTED_TERM_REQUIRING_ANATOMIC_CONFIRMATION\"},{\"alias\":\"Atresia jejunoileal — apresentação pediátrica aguda\",\"relationship\":\"SEVERITY_CONTEXT_NOT_SEPARATE_ENTITY\"},{\"alias\":\"Atresia jejunoileal — evolução complicada/refratária\",\"relationship\":\"COURSE_CONTEXT_NOT_SEPARATE_ENTITY\"},{\"alias\":\"Atresia jejunoileal — forma grave/crítica\",\"relationship\":\"SEVERITY_CONTEXT_NOT_SEPARATE_ENTITY\"}],\"diagnostic_boundary\":\"Diferenciar de atresia/estenose duodenal, malrotação com ou sem volvo, íleo meconial, tampão meconial, doença de Hirschsprung, enterocolite necrosante e outras causas de obstrução. Vômito verde é sinal de obstrução até prova em contrário, mas não identifica sozinho qual dessas condições está presente.\",\"preoperative_boundary\":\"Suspeita ou confirmação antes da correção não permite alta ou alimentação domiciliar. Exige avaliação neonatal e cirúrgica, jejum e medidas de estabilização definidas pela equipe; esta ficha não escolhe exame, técnica cirúrgica, acesso, antibiótico ou fluido.\",\"postoperative_boundary\":\"Cuidados de casa se aplicam somente após alta formal. Dieta, via, volume, velocidade de avanço, manejo do estoma, nutrição parenteral e retornos dependem da anatomia, prematuridade, função intestinal, cirurgia e evolução individual.\",\"pediatric_scope\":\"A apresentação típica ocorre no período neonatal. Em lactentes maiores, crianças e adolescentes, o cadastro deve representar história de atresia corrigida e seguimento de complicações como aderências, estreitamento da anastomose, nova obstrução, dificuldade alimentar/crescimento, estoma ou insuficiência intestinal; não se deve presumir atresia congênita não tratada pela idade maior.\",\"not_equivalent_to\":[\"qualquer vômito, refluxo ou cólica do recém-nascido\",\"atresia duodenal, estenose intestinal ou malrotação com volvo\",\"íleo meconial, doença de Hirschsprung ou enterocolite necrosante\",\"síndrome do intestino curto ou insuficiência intestinal obrigatória\",\"indicação automática de anastomose, estoma, fórmula, volume, velocidade de dieta ou nutrição parenteral\",\"alta domiciliar antes de estabilização, correção e tolerância alimentar confirmadas pela equipe\"],\"critical_context_to_confirm\":[\"idade gestacional e cronológica, peso e estabilidade clínica\",\"local, tipo e número de atresias e presença de outras anomalias\",\"data e tipo de cirurgia, anastomose, estoma e complicações\",\"comprimento e função intestinal remanescente e presença da valva ileocecal quando documentados\",\"via e plano de alimentação e eventual nutrição parenteral/acesso venoso\",\"cor e frequência dos vômitos, distensão, dor, fezes/gases ou débito do estoma\",\"hidratação, crescimento, ferida, estoma, febre e sinais de infecção\"],\"resolution\":\"Entidade pediátrica válida e específica, com prioridade neonatal cirúrgica e seguimento pós-operatório individualizado; conta uma entidade adicional somente após integração, testes e publicação.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A atresia jejunoileal é uma interrupção congênita do intestino delgado que impede a passagem normal do conteúdo. Antes da correção e estabilização, não é uma condição para cuidar em casa: o bebê precisa de hospital com neonatologia e cirurgia pediátrica.",
+          "Vômito verde, especialmente verde-escuro, em recém-nascido pode ser obstrução mesmo se o bebê parecer bem. Procure emergência imediatamente; não espere um segundo episódio, dor ou piora e não ofereça nova mamada enquanto busca atendimento.",
+          "Depois da cirurgia, siga a alta escrita. Guarde resumo cirúrgico, informação sobre anastomose ou estoma, plano de alimentação, medicamentos, curativo, contatos e data de retorno; apresente esses documentos em qualquer urgência.",
+          "Observe e anote aceitação da dieta, cor e número de vômitos, aumento da barriga, dor ou choro diferente, evacuações/gases ou saída do estoma, fraldas molhadas, temperatura, aspecto da ferida e peso. Não espere a consulta marcada se houver piora.",
+          "Faça curativo, banho e cuidado do estoma ou cateter exatamente como ensinados. Lave as mãos antes de tocar; não aplique álcool, pó, pomada, erva ou receita caseira e não aperte a barriga com faixa.",
+          "A atresia é congênita, não contagiosa e não foi causada por um cuidado cotidiano da família. Depois da recuperação, creche ou escola depende da liberação da equipe e, se houver estoma, dieta especial ou cateter, de um plano escrito de segurança."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Diante de suspeita de obstrução antes ou depois da cirurgia, não ofereça leite, água, chá, soro ou alimento; não provoque vômito e não faça estímulo retal, supositório ou enema. Vá imediatamente ao pronto atendimento.",
+          "Não manipule, reposicione nem desobstrua em casa sonda, dreno, estoma, cateter ou bomba sem treinamento e plano específico. Se algo sair, romper, vazar, alarmar ou parar de funcionar, contate imediatamente o serviço responsável.",
+          "Respeite as orientações do cirurgião para colo, banho, posição, transporte, esforço e tempo de bruços. A cicatriz não deve receber pressão, atrito ou produto sem autorização.",
+          "Se houver estoma, aprenda antes da alta a medir e registrar a saída, proteger a pele e reconhecer mudança de cor, inchaço, retração ou prolapso. O valor de alerta e a reposição de perdas devem vir por escrito da equipe; não improvise.",
+          "Mantenha plano de emergência acessível a todos os cuidadores e, para crianças maiores, à escola: diagnóstico, cirurgias, alergias, dieta/via, estoma ou cateter, hospital de referência e sinais que exigem atendimento imediato."
+        ],
+        "MEDICAMENTOS": [
+          "Use somente os medicamentos da alta, na apresentação, via e horários escritos. Esta ficha não define analgésico, antibiótico, antiemético, vitamina, suplemento, nutrição parenteral ou dose.",
+          "Não dê laxante, supositório, enema, remédio para gases ou para parar vômito por conta própria. Eles não corrigem uma obstrução e podem atrasar o diagnóstico ou causar dano.",
+          "Antibiótico não é tratamento domiciliar automático após toda cirurgia. Use apenas quando prescrito para a situação individual; não reutilize sobras e não interrompa sem orientação.",
+          "Se houver nutrição parenteral ou medicamento por cateter em casa, cumpra o protocolo de higiene, bomba, armazenamento e conexão ensinado pelo serviço. Não altere a velocidade nem tente desentupir o acesso por conta própria.",
+          "Falta de ar, inchaço de face ou língua, urticária disseminada, desmaio ou piora rápida após medicamento exige emergência. Leve a embalagem ou uma foto do produto sem atrasar a saída."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Antes da correção ou diante de possível nova obstrução, não ofereça nada por boca. Vômito verde e barriga inchada exigem avaliação cirúrgica urgente, não uma tentativa de hidratação em casa.",
+          "Depois da operação, a equipe decide quando o intestino está pronto para receber dieta. Pode ser necessário suporte pela veia no início e avanço gradual por sonda, peito ou mamadeira; isso varia conforme prematuridade, intestino remanescente, motilidade e complicações.",
+          "Quando viável e seguro, leite humano pode ser priorizado, mas tipo de leite/fórmula, volume, intervalo, via e velocidade de progressão pertencem ao plano individual. Não concentre, dilua, engrosse, troque fórmula ou acelere a dieta por conta própria.",
+          "Se houver estoma ou intestino curto, registre dieta, vômitos, evacuações/débito, fraldas e peso conforme a equipe. Saída muito maior que o habitual, diarreia aquosa, boca seca, ausência de lágrimas, olhos fundos, sonolência ou menos urina podem indicar desidratação.",
+          "Pare a dieta e procure urgência diante de vômito verde, distensão crescente, dor intensa, sangue nas fezes ou estoma, parada de fezes/gases/saída do estoma, prostração ou sinais de desidratação."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Vômito verde-escuro em recém-nascido ou em criança com cirurgia intestinal prévia, mesmo uma vez e mesmo se parecer bem. Não ofereça nova mamada e não espere confirmar a cor em outro episódio.",
+          "Barriga progressivamente inchada ou dolorosa, choro inconsolável, vômitos repetidos, parada de fezes/gases ou da saída do estoma, sangue nas fezes/estoma ou prostração: podem indicar obstrução, isquemia, vazamento, perfuração ou infecção.",
+          "Febre ou temperatura anormalmente baixa no recém-nascido, dificuldade para respirar, gemência, pele arroxeada ou muito pálida, extremidades frias, pouca resposta, convulsão ou dificuldade para acordar. Acione o SAMU 192 se houver instabilidade respiratória ou alteração importante da consciência.",
+          "Ferida abrindo, vermelhidão que se espalha, calor, pus, líquido com aspecto intestinal ou sangramento persistente; estoma escuro, muito pálido, muito inchado, retraído ou com prolapso novo.",
+          "Cateter com vermelhidão, dor, secreção, vazamento, ruptura ou deslocamento, especialmente com febre, calafrio, tremor, prostração ou alarme persistente da bomba.",
+          "Não consegue manter a dieta ou líquidos prescritos, urina muito menos, boca seca, olhos fundos, sonolência, perda rápida de peso ou saída do estoma muito maior que o habitual."
+        ],
+        "QUANDO REAVALIAR": [
+          "Cumpra o retorno definido na alta com cirurgia pediátrica e neonatologia, mesmo se o bebê parecer bem. Protocolos institucionais usam retorno cirúrgico precoce, por exemplo em 2 a 3 semanas, mas o prazo da equipe que operou prevalece e pode ser menor.",
+          "Leve aos retornos o resumo cirúrgico e o registro de dieta, vômitos, fezes/estoma, fraldas, temperatura, ferida e peso. A equipe deve acompanhar hidratação, cicatrização, função intestinal, crescimento e necessidade de suporte nutricional.",
+          "Antecipe a consulta se houver dificuldade para avançar a dieta, vômitos não verdes recorrentes, distensão intermitente, dor, diarreia ou débito do estoma alterado, menos urina, perda ou baixo ganho de peso, cansaço para mamar ou dificuldade com curativo, estoma ou cateter.",
+          "Criança com grande ressecção intestinal, estoma ou nutrição parenteral precisa de seguimento regular por cirurgia, gastroenterologia/nutrição e equipe do acesso. Exames, reposições e mudanças de dieta devem seguir esse plano, não uma tabela geral.",
+          "Aderências e estreitamento da anastomose podem causar obstrução meses ou anos depois. Em qualquer idade, vômito verde, distensão e parada de fezes/gases exigem urgência; não atribua automaticamente a virose, refluxo ou alimentação.",
+          "Na idade escolar e adolescência, revisar crescimento, alimentação, dor, evacuações, cicatriz/estoma, atividade, participação escolar e bem-estar emocional. Planeje gradualmente autonomia e transição de cuidado sem deixar o jovem sozinho em situações de risco."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Faixa principal de apresentação. Vômito verde, distensão, recusa alimentar ou pouca eliminação de mecônio exigem avaliação cirúrgica imediata. Não oferecer nova mamada até avaliação; cuidado domiciliar só após correção, tolerância alimentar e alta formal.",
+        "3a5m": "Atresia não tratada nessa idade seria incomum; confirmar história e cirurgia. Vômito verde, distensão, menos fezes/gases, recusa de mamadas ou prostração pode ser obstrução pós-operatória e exige urgência.",
+        "6a11m": "A ficha se aplica principalmente ao seguimento após correção. Manter plano nutricional e informar a cirurgia em qualquer atendimento; vômito verde ou distensão com redução de fezes/gases é emergência.",
+        "1a": "A criança pode mostrar dor por crises de choro, encolher as pernas, recusar líquidos ou ficar sonolenta. Não testar laxante ou alimento; leve resumo cirúrgico e procure urgência diante de sinais de obstrução.",
+        "2a5": "Vigiar crescimento, alimentação, dor e padrão intestinal. Nessa faixa, o rótulo representa atresia corrigida e possíveis sequelas; não presumir nova atresia nem usar enema ou laxante sem plano.",
+        "6a11": "Ensine a criança a avisar dor, náusea, vômito ou mudança no estoma/fezes, mas um adulto controla dieta, cateter e medicamentos. Escola deve ter plano de emergência quando houver estoma, nutrição especial ou acesso.",
+        "12a17": "O adolescente deve conhecer diagnóstico, cirurgias, anatomia relevante, dieta e sinais de obstrução, com transição progressiva e supervisionada. Abordar cicatriz, estoma, imagem corporal e privacidade; vômito verde continua sendo urgência.",
+        "unknown": "Confirmar idade, correção cirúrgica, tipo/data da cirurgia, anastomose ou estoma, intestino remanescente, via de alimentação, nutrição parenteral, vômito verde, distensão, fezes/gases, hidratação e plano da equipe antes de orientar."
+      },
+      "refs": [
+        {
+          "id": "pais261_op3059_1",
+          "name": "Jejunal or Ileal Atresia Clinical Guideline",
+          "url": "https://choc.org/files/careguidelines/Jejunal_or_Ileal_Atresia_Care_Guideline.pdf"
+        },
+        {
+          "id": "pais261_op3059_2",
+          "name": "Management of Bilious Vomiting in the Newborn Period and Radiological Support for Neonatal Services — A Framework for Practice",
+          "url": "https://hubble-live-assets.s3.eu-west-1.amazonaws.com/bapm/file_asset/file/2422/Bilious_Vomiting_Framework_Feb_2024.pdf"
+        },
+        {
+          "id": "pais261_op3059_3",
+          "name": "Bilious Vomiting — Parent Information Leaflet",
+          "url": "https://hubble-live-assets.s3.eu-west-1.amazonaws.com/bapm/file_asset/file/3565/Parent_info_leaflet_Bilious_Vomiting_Feb_24.pdf"
+        },
+        {
+          "id": "pais261_op3059_4",
+          "name": "Clinical Practice Guideline: Vomiting",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/"
+        },
+        {
+          "id": "pais261_op3059_5",
+          "name": "Small bowel atresia",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/small-bowel-atresia/"
+        },
+        {
+          "id": "pais261_op3059_6",
+          "name": "Management and Outcomes of Jejunoileal Atresia Within the United Kingdom",
+          "url": "https://eprints.soton.ac.uk/501268/"
+        },
+        {
+          "id": "pais261_op3059_7",
+          "name": "Jejunoileal Atresia: A Contemporary Review",
+          "url": "https://www.aps-journal.org/journal/view.php?doi=10.13029/aps.2023.29.2.89"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "jobId": "OP-3061",
+      "specific": true,
+      "key": "pps_catalog_e4a9468355a405ad",
+      "label": "Atresia tricúspide — registro no PPS",
+      "entity": "Atresia da valva tricúspide: cardiopatia congênita crítica em que não há comunicação valvar direta entre o átrio direito e o ventrículo direito, com fisiologia funcionalmente univentricular e anatomia, fluxo pulmonar, oxigenação e etapa paliativa variáveis",
+      "assessment": "{\"classification\":\"VALID_ENTITY_EXACT_PPS_ALIAS_OF_PUBLISHED_CANONICAL_RECORD\",\"normalized_entity\":\"Atresia da valva tricúspide\",\"assessment\":\"Atresia tricúspide é diagnóstico nosologicamente válido e específico. A valva tricúspide não se forma, impedindo o fluxo direto do átrio direito ao ventrículo direito; o ventrículo direito costuma ser hipoplásico e a circulação depende de comunicações alternativas. O sufixo ‘registro no PPS’ apenas identifica a origem cadastral. O rótulo isolado não informa comunicação interatrial/interventricular, relação das grandes artérias, obstrução pulmonar ou sistêmica, dependência do canal arterial, saturação basal, função ventricular, ritmo, procedimentos, shunt, Glenn, Fontan, fenestração, medicamentos ou prognóstico individual.\",\"alias_assessment\":[{\"alias\":\"Atresia tricúspide — apresentação pediátrica aguda\",\"relationship\":\"ADMINISTRATIVE_PRESENTATION_QUALIFIER_NOT_A_DISTINCT_ENTITY\",\"decision\":\"Pode indicar uma descompensação atual, mas não define anatomia, causa ou tratamento. Cianose pior, dificuldade respiratória, má perfusão, alteração de consciência ou alimentação muito ruim exigem avaliação imediata.\"},{\"alias\":\"Atresia tricúspide — evolução complicada/refratária\",\"relationship\":\"UNSUPPORTED_DYNAMIC_COURSE_QUALIFIER_NOT_A_DISTINCT_ENTITY\",\"decision\":\"‘Complicada’ ou ‘refratária’ só tem sentido se o problema persistente for nomeado, como arritmia, obstrução de shunt ou via de Fontan, disfunção ventricular, trombose, hipoxemia, enteropatia ou bronquite plástica, junto da intervenção e da resposta documentadas.\"},{\"alias\":\"Atresia tricúspide — forma grave/crítica\",\"relationship\":\"REDUNDANT_OR_DYNAMIC_SEVERITY_QUALIFIER_NOT_A_DISTINCT_ENTITY\",\"decision\":\"A atresia tricúspide já integra as cardiopatias congênitas críticas. ‘Grave/crítica’ não cria subtipo anatômico, não permite inferir estágio ou prognóstico e não substitui a avaliação da fisiologia atual.\"},{\"alias\":\"Atresia tricúspide\",\"relationship\":\"EXACT_CANONICAL_LABEL\",\"decision\":\"Resolver para pdf1500_152, preservando o ID PPS como alias selecionável.\"},{\"alias\":\"Atresia da valva tricúspide\",\"relationship\":\"ACCEPTED_SYNONYM\",\"decision\":\"Sinônimo anatômico aceito da mesma entidade.\"},{\"alias\":\"Coração funcionalmente univentricular\",\"relationship\":\"BROADER_PHYSIOLOGIC_CATEGORY\",\"decision\":\"Atresia tricúspide é uma causa dessa fisiologia, mas a categoria inclui outras anatomias e não é sinônimo exato.\"},{\"alias\":\"Glenn ou Fontan\",\"relationship\":\"POSSIBLE_POSTOPERATIVE_STATE_NOT_AN_ALIAS\",\"decision\":\"Aplicar orientação de etapa paliativa somente quando o procedimento estiver documentado; não presumir pela idade ou pelo diagnóstico.\"}],\"not_automatically_equivalent_to\":[\"Atresia pulmonar, anomalia de Ebstein, estenose tricúspide ou outra cardiopatia cianótica\",\"Anatomia específica das comunicações, da via pulmonar, da via sistêmica ou das grandes artérias\",\"Fluxo pulmonar reduzido em todos os casos; pode haver fluxo reduzido, equilibrado ou excessivo\",\"Dependência atual do canal arterial em todos os recém-nascidos\",\"Shunt, stent, bandagem, Glenn, Fontan, fenestração ou transplante já realizados\",\"Meta universal de saturação, oxigênio, pressão, frequência cardíaca, líquidos ou sal\",\"Cura ou circulação normal após procedimento paliativo\",\"Indicação universal de prostaglandina, diurético, antiagregante, anticoagulante, antibiótico ou profilaxia de endocardite\",\"Liberação automática para esporte competitivo, viagem, altitude, anestesia, cirurgia não cardíaca ou gestação futura\",\"Prognóstico individual dedutível pelo rótulo\"],\"pediatric_scope\":\"A malformação existe desde a vida fetal e pode causar emergência no nascimento ou logo depois. Após estabilização, o cuidado atravessa diferentes anatomias e etapas paliativas, crescimento, nutrição, neurodesenvolvimento, atividade, escola, saúde bucal, ritmo, função ventricular e, se houver Fontan documentado, vigilância multissistêmica. O seguimento especializado é por toda a vida.\",\"critical_context_to_confirm\":[\"idade, peso, prematuridade, diagnóstico fetal ou pós-natal e centro de cardiologia responsável\",\"ecocardiograma e anatomia completa: comunicações interatrial e interventricular, fluxo pulmonar, via sistêmica, grandes artérias, função ventricular e lesões associadas\",\"cor, saturação, frequência cardíaca, pressão e tolerância habituais definidas pela equipe, sem aplicar meta populacional\",\"procedimentos e datas: septostomia, shunt, stent, bandagem, Glenn, Fontan, fenestração, cateterismos e complicações\",\"sintomas atuais: cianose, trabalho respiratório, perfusão, síncope, palpitação, dor, edema, barriga distendida, diurese e nível de consciência\",\"alimentação, duração e esforço de mamada, ganho de peso, deglutição, vômitos, diarreia e plano individual de líquidos, sal e calorias\",\"medicamentos, apresentação e horários prescritos, alergias, indicação, monitorização e plano para dose esquecida, vômito, febre ou doença intercurrente\",\"plano de emergência, atividade, escola, viagens, saúde bucal, profilaxia quando realmente indicada e transição para cardiologia congênita do adulto\"],\"resolution\":\"Entidade válida e orientação específica, resolvida como alias exato do registro canônico publicado pdf1500_152; zero entidade adicional.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Atresia tricúspide é uma cardiopatia congênita crítica. Recém-nascido com diagnóstico novo, suspeita ainda não esclarecida, coloração azulada ou acinzentada, dificuldade para respirar, mamada fraca, sonolência incomum, mãos e pés frios ou pouca urina precisa de avaliação hospitalar imediata; isso não é situação para observar em casa.",
+          "Cuidado domiciliar só começa depois de estabilização e alta expressa do centro cardiológico. Antes da alta, peça um plano escrito com anatomia e procedimentos conhecidos, cor e saturação habituais, limites individuais de alerta, medicamentos, alimentação, atividade, retornos e telefones do centro e da emergência.",
+          "Cirurgias e cateterismos podem melhorar o caminho do sangue, mas são paliativos e não transformam a circulação em um coração normal de dois ventrículos. A criança precisa de cardiologia especializada por toda a vida, mesmo quando parece bem.",
+          "Observe a mudança em relação ao padrão da própria criança: cor de lábios e língua, respiração, suor e cansaço ao mamar ou brincar, aceitação alimentar, fraldas ou urina, peso quando solicitado, inchaço, barriga, febre, feridas, palpitações, tontura e estado de alerta. Registre alterações e siga o plano do centro.",
+          "Use oxímetro, balança ou monitor doméstico apenas se a equipe prescreveu e ensinou. Movimento, extremidade fria, perfusão ruim, esmalte e posicionamento podem alterar a leitura; uma criança com aparência ruim, respiração difícil, desmaio ou dificuldade para acordar precisa de ajuda mesmo com número aparentemente aceitável.",
+          "Mantenha resumo cardiológico, lista atual de medicamentos e alergias, procedimentos, saturação habitual e contatos de emergência acessíveis a todos os cuidadores e leve-os a consultas, escola e pronto atendimento.",
+          "Mantenha vacinas, acompanhamento de crescimento e desenvolvimento e saúde bucal conforme a equipe. A condição não é contagiosa; escola e convívio são possíveis com plano de segurança e atividade individualizada."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha a criança confortável e calma, evite fumaça, frio ou calor excessivos e não force esforço quando houver cansaço, tontura, palpitação, dor, falta de ar ou piora da cor. Atividade prazerosa deve ser estimulada dentro do limite definido pela cardiologia; não liberar nem proibir esporte competitivo por conta própria.",
+          "Diante de cianose ou piora, siga somente o plano emergencial ensinado pelo centro enquanto busca ajuda. Não improvise posições forçadas, compressões, oxigênio, sopro no rosto ou manobras vistas na internet e não atrase o SAMU 192 tentando corrigir a cor em casa.",
+          "Faça higiene das mãos, evite contato próximo com pessoas febris ou com infecção respiratória e procure orientação precoce se a criança adoecer. Febre, vômitos, diarreia e infecção respiratória podem descompensar mais rapidamente quem tem circulação univentricular.",
+          "Creche e escola devem conhecer o padrão habitual, as atividades liberadas, os sinais de alarme, os contatos da família e do centro e quando acionar o SAMU. Evite exclusão automática; pausas, hidratação e adaptação dependem do plano individual.",
+          "Após cirurgia ou cateterismo, siga exatamente as orientações de ferida, banho, curativo, repouso e proteção do local de punção. Não massageie, aplique produto ou retire material sem autorização.",
+          "Avise a cardiologia antes de anestesia, cirurgia não cardíaca, procedimento invasivo, viagem longa ou altitude. Tatuagem e piercing aumentam risco de infecção e devem ser discutidos na adolescência.",
+          "Boa escovação e acompanhamento odontológico ajudam a reduzir risco de infecção. Antibiótico antes de procedimento dental só deve ser usado se a equipe confirmar que a criança cumpre critérios atuais."
+        ],
+        "MEDICAMENTOS": [
+          "Dê somente os medicamentos prescritos pelo centro, na apresentação e no horário escritos. Esta ficha não escolhe prostaglandina, oxigênio, diurético, remédio para pressão ou ritmo, antiagregante, anticoagulante, antibiótico nem dose.",
+          "Prostaglandina para manter o canal arterial aberto é tratamento hospitalar de alguns recém-nascidos, não de todos, e exige monitorização. Nunca tente reproduzir esse tratamento em casa.",
+          "Não inicie, dobre, reduza, repita ou suspenda medicamento por conta própria, inclusive após vômito, diarreia ou dose esquecida. Use a orientação escrita do serviço ou contate a equipe; não compense duas doses juntas sem instrução.",
+          "Não ajuste oxigênio para atingir um número genérico. Se houver oxigênio prescrito, confirme fluxo, dispositivo, segurança, limites individuais e o que fazer quando a leitura muda; falta de ar ou cianose pior com a criança abatida exige urgência, não apenas aumentar o aparelho.",
+          "Não ofereça descongestionante, anti-inflamatório, fitoterápico, suplemento ou medicamento de outra pessoa sem conferência, pois pode haver efeito sobre coração, rim, pressão, hidratação, coagulação ou interação.",
+          "Se usa antiagregante ou anticoagulante, mantenha o acompanhamento definido pela equipe e informe quedas, trauma na cabeça, sangramento que não para, sangue em vômito, urina ou fezes, manchas extensas ou dor de cabeça súbita. Não interrompa por conta própria, mas procure emergência quando houver sangramento importante ou sintomas neurológicos.",
+          "Febre persistente ou sem explicação, especialmente com calafrios, prostração ou piora cardíaca, precisa de avaliação. Não use sobra de antibiótico antes da coleta de exames quando a criança estiver estável; isso não deve atrasar o atendimento de uma criança grave."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Siga o plano nutricional individual. Bebês podem cansar, suar, respirar rápido, fazer pausas ou ficar mais azulados ao mamar; método, volume, frequência, fortificação, tempo de mamada e eventual sonda são definidos pela equipe conforme anatomia, crescimento e segurança da deglutição.",
+          "Faça as pausas e use a posição ensinada. Interrompa a alimentação e procure avaliação se houver respiração muito trabalhosa, mudança importante da cor, suor intenso, exaustão, engasgo, tosse repetida, vômitos persistentes ou incapacidade de completar o habitual.",
+          "Não concentre ou dilua fórmula, não acrescente cereal, espessante ou suplemento e não aumente volume ou velocidade por conta própria. Essas mudanças podem causar aspiração, desidratação, sobrecarga de líquido ou alteração de sais.",
+          "Não force nem restrinja água, leite, sal ou calorias sem ordem da equipe. Desidratação pode reduzir fluxo e aumentar risco de trombose, enquanto excesso de líquido pode piorar congestão; o equilíbrio depende da etapa paliativa, função renal e medicamentos.",
+          "Vômitos, diarreia, febre, recusa de líquidos ou menos urina justificam contato no mesmo dia com o centro, sobretudo em lactente, entre etapas cirúrgicas, após Fontan ou em uso de diurético ou antitrombótico. Sonolência, perfusão ruim, cianose pior ou incapacidade de beber são emergência.",
+          "Acompanhe peso e ingestão apenas na frequência orientada. Queda ou estagnação do peso, mamadas progressivamente mais longas, suor, fadiga, engasgos ou menos fraldas precisam de reavaliação; não use o plano de outra criança.",
+          "Se houver desmaio, convulsão, dificuldade para acordar ou respiração muito alterada, não ofereça comida, bebida ou comprimidos por risco de engasgo enquanto aciona o SAMU 192."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione o SAMU 192 se lábios, língua ou pele ficarem muito mais azuis, cinzentos ou pálidos que o habitual junto de dificuldade para respirar, fraqueza, flacidez, desmaio, convulsão, confusão ou dificuldade para acordar. Não dirija sozinho com a criança instável.",
+          "Respiração muito rápida ou trabalhosa, costelas afundando, gemência, pausas respiratórias, incapacidade de chorar, falar ou mamar por falta de ar, ou tosse com sangue são emergência.",
+          "Extremidades frias ou manchadas, suor frio, pulso muito fraco, palidez, irritabilidade extrema, sonolência, pouca urina ou piora rápida podem indicar baixo débito ou choque. Acione 192 se houver alteração da respiração, circulação ou consciência.",
+          "Saturação persistentemente abaixo do limite individual escrito ou queda importante em relação ao basal exige o plano de urgência do centro. Aparência ruim ou mudança de cor é relevante mesmo sem leitura confiável; não busque uma meta universal nem ajuste oxigênio sozinho.",
+          "Palpitação persistente ou muito rápida com mal-estar, dor no peito intensa, desmaio, desmaio durante esforço ou queda súbita da tolerância exige avaliação imediata; acione 192 se houver instabilidade.",
+          "Rosto torto, fala alterada, fraqueza ou dormência de um lado, perda visual, dor de cabeça súbita intensa, confusão ou convulsão pode indicar trombo ou AVC e exige 192.",
+          "Inchaço novo ou crescente, barriga distendida, ganho rápido de peso, urina reduzida, falta de ar ao deitar, secreção com aspecto de molde ao tossir, diarreia persistente com inchaço ou piora importante da atividade pode indicar falha da circulação ou complicação de Fontan e exige avaliação urgente.",
+          "Após cirurgia ou cateterismo, procure atendimento por sangramento que não para, ferida abrindo, secreção, vermelhidão que aumenta, febre com piora geral, dor crescente, membro frio ou pálido ou mudança súbita da cor e respiração."
+        ],
+        "QUANDO REAVALIAR": [
+          "Diagnóstico novo ou suspeito no recém-nascido exige avaliação imediata por cardiologia pediátrica e ecocardiograma; não aguarde consulta eletiva se houver cianose, dificuldade respiratória, alimentação ruim, sonolência ou má perfusão.",
+          "Depois da alta, compareça a todos os retornos no prazo do centro, mesmo quando a criança parece bem. Entre procedimentos, as consultas e o monitoramento podem ser muito próximos; não os espace por melhora aparente.",
+          "Antecipe contato se houver mudança sustentada de cor ou saturação, respiração, batimentos, alimentação, peso, diurese, sono, atividade, inchaço, barriga, febre, desenvolvimento, aprendizagem ou comportamento, mesmo sem sinal de emergência.",
+          "Em cada consulta, reveja anatomia e etapa atuais, funcionamento de shunts ou conexões, função ventricular e valvar, ritmo, crescimento, nutrição, desenvolvimento, medicamentos, vacinação, atividade, escola, saúde bucal e plano de urgência. Exames e frequência são definidos pelo especialista; não existe painel universal para fazer por conta própria.",
+          "Se Glenn ou Fontan estiver documentado, o seguimento também deve considerar trombose, fígado, rim, proteínas, linfáticos, pulmões, ossos, exercício, crescimento, neurodesenvolvimento e saúde mental. Esses riscos são possíveis, não diagnóstico automático em toda criança.",
+          "Confirme antes de procedimento dental se há indicação atual de profilaxia de endocardite e avise a cardiologia antes de anestesia, cirurgia ou procedimento invasivo. Febre inexplicada persistente precisa de avaliação antes de antibiótico por conta própria.",
+          "Na adolescência, inicie transição planejada para cardiologista de adultos com experiência em cardiopatia congênita. Inclua autonomia segura com medicamentos, atividade, escola e trabalho, saúde mental, álcool, tabaco e vaping, sexualidade, contracepção e aconselhamento reprodutivo antes de qualquer gestação."
+        ]
+      },
+      "ageMap": {
+        "u3m": "É cardiopatia congênita crítica. Diagnóstico novo, cianose, apneia, respiração difícil, mamada fraca, sonolência, extremidades frias ou pouca urina exige hospital e cardiologia imediatos. Cuidado em casa só após estabilização e alta com anatomia, saturação basal, alimentação, medicamentos e retorno escritos; prostaglandina e meta de oxigenação são decisões hospitalares.",
+        "3a5m": "Pode estar antes, entre ou depois de um procedimento, sem que a idade revele qual. Vigie cor, respiração, suor e cansaço na mamada, fraldas e peso; siga o plano individual de saturação, alimentação e urgência e não altere fórmula, líquido, oxigênio ou medicamento sozinho.",
+        "6a11m": "Na introdução alimentar, preserve o plano calórico e de líquidos e observe deglutição, engasgos, fadiga e cianose. Vômito ou diarreia com menor ingestão exige contato precoce, sobretudo entre etapas paliativas ou com diurético ou antitrombótico.",
+        "1a": "Criança pequena pode mostrar baixo débito por irritabilidade, palidez, extremidades frias, pouca urina ou sonolência, e não consegue explicar palpitação ou tontura. Estimule desenvolvimento e brincadeira dentro da tolerância; adulto mantém medicamentos e plano de emergência sob controle.",
+        "2a5": "Creche e pré-escola precisam do resumo cardíaco, padrão habitual, atividades liberadas, contatos e sinais de emergência. Incentive brincadeira segura, vacinas, higiene e saúde bucal; febre, desidratação e doença respiratória justificam contato precoce com o centro.",
+        "6a11": "Prepare plano escolar com participação, pausas e educação física conforme liberação individual. Ensine a comunicar palpitação, tontura, dor, falta de ar, cansaço e piora da cor; acompanhe crescimento, aprendizagem, autoestima e exclusão social.",
+        "12a17": "Construa autonomia gradual para explicar diagnóstico, cirurgias, saturação basal, medicamentos e urgências, sem deixar o adolescente ajustar doses sozinho. Planeje transição para cardiopatia congênita do adulto e discuta atividade, saúde mental, álcool, vaping, substâncias, tatuagem/piercing, sexualidade, contracepção e risco gestacional antes de decisões.",
+        "unknown": "Confirme idade, anatomia, procedimentos, etapa paliativa, saturação habitual, sintomas, medicamentos, alimentação e centro responsável. Sem esses dados não se define dependência do canal, shunt, Glenn, Fontan, atividade ou líquidos; cianose nova, desconforto, síncope, alteração neurológica ou má perfusão continuam emergências."
+      },
+      "refs": [
+        {
+          "id": "pais261_op3061_1",
+          "name": "Tricuspid Atresia",
+          "url": "https://www.cdc.gov/heart-defects/about/tricuspid-atresia.html"
+        },
+        {
+          "id": "pais261_op3061_2",
+          "name": "Tricuspid Atresia",
+          "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/tricuspid-atresia"
+        },
+        {
+          "id": "pais261_op3061_3",
+          "name": "Clinical Screening and Diagnosis for Critical Congenital Heart Defects",
+          "url": "https://www.cdc.gov/heart-defects/hcp/screening/"
+        },
+        {
+          "id": "pais261_op3061_4",
+          "name": "Anomalias e infecções congênitas selecionadas: guia de consulta rápida",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/anomalias-congenitas/aanomalias-e-infeccoes-congenitas-selecionadas-guia-de-consulta-rapida/@@download/file"
+        },
+        {
+          "id": "pais261_op3061_5",
+          "name": "Interstage Home Monitoring for Infants With Single Ventricle Heart Disease: Education and Management",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7660817/"
+        },
+        {
+          "id": "pais261_op3061_6",
+          "name": "Evaluation and Management of the Child and Adult With Fontan Circulation — Top Things to Know",
+          "url": "https://professional.heart.org/en/science-news/evaluation-and-management-of-the-child-and-adult-with-fontan-circulation/top-things-to-know"
+        },
+        {
+          "id": "pais261_op3061_7",
+          "name": "Management of Tricuspid Atresia With Normally Related Great Arteries and Left-Sided Obstruction",
+          "url": "https://journals.sagepub.com/doi/full/10.1177/21501351241286441"
+        },
+        {
+          "id": "pais261_op3061_8",
+          "name": "The Fontan Outcomes Network: Findings After 2 Years and 1,121 Participants",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13157274/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

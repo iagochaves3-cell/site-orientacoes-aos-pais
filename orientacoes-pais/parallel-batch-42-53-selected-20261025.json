@@ -1,0 +1,556 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T06:23:09.703Z",
+  "records": [
+    {
+      "key": "pdf1500_1265",
+      "label": "Raquitismo carencial grave",
+      "entity": "Raquitismo carencial (nutricional) pediátrico com apresentação grave ou complicações",
+      "assessment": "{\"classification\":\"VALID_SEVERITY_QUALIFIER_NOT_DISTINCT_ENTITY\",\"normalized_entity\":\"Raquitismo carencial (raquitismo nutricional)\",\"assessment\":\"O termo-base é válido: raquitismo carencial ou nutricional é a falha de mineralização da placa de crescimento causada por deficiência de vitamina D e/ou baixa ingestão de cálcio em criança ou adolescente em crescimento. O acréscimo 'grave' é um qualificador clínico relevante, mas não define uma doença separada nem possui, nas fontes consultadas, um único critério universal aplicável a todas as idades. A gravidade deve ser individualizada pela combinação de sintomas, exame, alterações bioquímicas e radiográficas e complicações, como hipocalcemia sintomática, convulsão, tetania, estridor, arritmia ou comprometimento cardíaco, fratura, incapacidade funcional, deformidades extensas ou progressivas e falha importante do crescimento.\",\"not_automatically_equivalent_to\":[\"Deficiência laboratorial isolada de vitamina D sem raquitismo confirmado\",\"Toda deformidade fisiológica dos membros inferiores\",\"Raquitismo genético, renal, hepático, disabsortivo, medicamentoso ou hipofosfatêmico\",\"Presença obrigatória de qualquer complicação específica apenas porque o cadastro contém a palavra grave\"],\"counting_rule\":\"Pode compartilhar a entidade clínica do raquitismo carencial, preservando este ID e o qualificador de gravidade. Contar como orientação específica para este registro somente se os alertas, a necessidade de avaliação especializada e a ausência de critérios universais forem mantidos.\",\"pediatric_scope\":\"Aplica-se a lactentes, crianças e adolescentes com placas de crescimento abertas. Lactentes podem apresentar hipocalcemia sintomática com espasmos, convulsões ou estridor; em crianças maiores e adolescentes podem predominar dor óssea, fraqueza, alteração da marcha, deformidades, atraso do crescimento e fraturas. A idade não permite presumir causa, complicação ou tratamento.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "O raquitismo carencial acontece quando os ossos em crescimento não mineralizam adequadamente por falta de vitamina D e/ou cálcio. A palavra grave indica maior repercussão ou complicação, mas não informa sozinha qual delas está presente; a equipe precisa combinar sintomas, exame, exames de sangue e radiografias.",
+          "É uma condição tratável, porém a melhora dos exames, da força e dos ossos ocorre em tempos diferentes. Deformidades antigas ou importantes podem não corrigir completamente apenas com remédios e precisam de seguimento pediátrico, endocrinológico e, quando indicado, ortopédico.",
+          "Até a equipe liberar, evite corrida, saltos, esportes de impacto, quedas e brincadeiras que provoquem dor. Ajude a criança a levantar e se deslocar sem puxar braços ou pernas doloridos; não force articulações, não massageie deformidades e não tente endireitar os membros em casa.",
+          "Observe e anote dor, fraqueza, quedas, dificuldade para sentar, engatinhar, ficar em pé ou andar, perda de habilidade, alimentação, vômitos e uso correto do tratamento. Leve os frascos e rótulos de vitaminas, cálcio, fórmulas e outros suplementos às consultas para evitar duplicidade ou concentração errada.",
+          "Se houver dor, fraqueza ou limitação, combine com a escola ou creche adaptações temporárias para locomoção, banheiro e atividades físicas. O raquitismo carencial não é contagioso; a restrição é funcional e deve ser individualizada."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acompanhamento com pediatria ou endocrinologia pediátrica. Casos classificados como graves, com cálcio alterado, sintomas ou complicações podem precisar de avaliação hospitalar; fisioterapia, ortopedia, cardiologia, odontologia e nutrição são acrescentadas conforme os achados, não automaticamente.",
+          "A atividade física deve ser retomada de forma gradual e somente quando a equipe considerar o osso seguro. Fisioterapia e dispositivos de apoio precisam ser prescritos para a necessidade daquela criança; não use coletes, talas, palmilhas ou aparelhos de outra pessoa.",
+          "Reduza risco de queda: mantenha o caminho livre, use apoio em escadas e supervisione banho e deslocamentos se houver fraqueza. Diante de dor súbita ou suspeita de fratura, imobilize o mínimo necessário para transporte, não tente alinhar o membro e procure atendimento.",
+          "Exposição solar não substitui o tratamento do raquitismo grave. Siga a orientação individual da equipe e as medidas de proteção contra queimadura; não exponha o bebê ou a criança por períodos prolongados com a intenção de corrigir a doença.",
+          "Cuide da saúde bucal e informe atraso na dentição, defeitos do esmalte ou dor dentária. A avaliação odontológica pode ser necessária porque alterações dentárias podem acompanhar o raquitismo."
+        ],
+        "MEDICAMENTOS": [
+          "O tratamento do raquitismo carencial costuma corrigir a falta de vitamina D e garantir cálcio adequado, mas a apresentação, a concentração, a dose, a via e a duração dependem da idade, do peso, da causa confirmada, dos exames e da presença de hipocalcemia. Use somente o esquema prescrito para esta criança.",
+          "Não dê megadoses, ampolas, cápsulas de adulto, fórmulas manipuladas, cálcio, fósforo, calcitriol ou outros suplementos por conta própria. Preparações de vitamina D podem ter concentrações muito diferentes e o excesso também pode causar dano.",
+          "Confira o rótulo e o medidor antes de cada administração. Informe todos os multivitamínicos, fórmulas e suplementos usados para evitar duplicidade; não dobre a próxima tomada se uma dose for esquecida e não reutilize receita de outra criança.",
+          "Convulsão, tetania, estridor, dificuldade para respirar, desmaio, palpitação ou alteração importante do estado geral podem indicar hipocalcemia sintomática e exigem pronto atendimento. Suplemento oral em casa não substitui correção e monitorização hospitalares.",
+          "Se a criança vomitar repetidamente, não conseguir tomar o tratamento, apresentar reação após o produto ou não melhorar como esperado, contate a equipe. Não aumente a dose: falta de resposta exige conferir adesão, concentração do produto, cálcio alimentar, absorção e outras causas de raquitismo."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e adequada à idade, com fontes de cálcio e vitamina D definidas com pediatra ou nutricionista. Leite e derivados ou alternativas fortificadas podem contribuir, mas alergia, intolerância, seletividade, dieta restritiva ou doença de absorção exigem plano individual.",
+          "Em lactentes, preserve o plano de aleitamento ou fórmula orientado pela equipe e dê apenas o suplemento prescrito. Não troque, concentre ou dilua fórmulas e não acrescente vitaminas ou cálcio por conta própria.",
+          "A alimentação ajuda a recuperação e a prevenção, mas não substitui o tratamento prescrito em raquitismo grave. Não use dietas restritivas, jejum, chás ou produtos naturais como tratamento do osso.",
+          "Mantenha líquidos habituais conforme idade e orientação clínica. Procure avaliação se houver recusa persistente de líquidos, vômitos repetidos, pouca urina ou sinais de desidratação, especialmente quando isso impede o tratamento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o serviço de emergência ou vá imediatamente se houver convulsão, perda de consciência, desmaio, rigidez ou espasmos musculares, tremores intensos, formigamento ao redor da boca com piora, ou criança muito sonolenta e difícil de despertar. Esses sinais podem acompanhar hipocalcemia sintomática.",
+          "Procure atendimento imediato diante de estridor ou ruído agudo ao respirar, pausa respiratória, falta de ar, respiração muito rápida ou com esforço, lábios arroxeados ou piora súbita da alimentação em bebê. Não aguarde o suplemento fazer efeito em casa.",
+          "Vá ao pronto atendimento se houver palpitações, batimento muito rápido ou irregular, dor no peito, desmaio, palidez intensa, cansaço extremo, inchaço ou falta de ar. Hipocalcemia pode causar arritmia e o raquitismo nutricional pode, raramente, acompanhar comprometimento cardíaco.",
+          "Após queda ou mesmo trauma leve, procure atendimento se surgir dor óssea forte, inchaço, deformidade nova, estalo, incapacidade de apoiar, ficar em pé ou mexer o membro. Ossos com raquitismo confirmado têm maior risco de fratura; não tente alinhar ou massagear.",
+          "Também procure avaliação imediata se houver perda súbita de força ou de habilidade, incapacidade nova de sentar ou andar, vômitos repetidos com prostração, recusa persistente de líquidos ou piora rápida do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Raquitismo carencial classificado como grave, com sintomas, cálcio alterado ou complicações, precisa de avaliação pediátrica especializada sem aguardar uma consulta de rotina; a equipe decidirá se o cuidado deve ocorrer no hospital.",
+          "Compareça aos retornos e exames no intervalo definido pela equipe. O acompanhamento pode incluir crescimento, força, dor, marcha, deformidades, exames de sangue e urina e radiografias; não existe um único prazo seguro para todas as idades e apresentações.",
+          "Procure reavaliação antes do retorno se a dor, fraqueza, quedas, atraso motor, deformidade ou dificuldade para andar piorarem, se aparecer novo inchaço de punhos ou tornozelos, ou se a criança não tolerar ou não conseguir tomar o tratamento.",
+          "Falta de melhora não deve ser tratada em casa com dose maior. A equipe precisa revisar o diagnóstico, a concentração e o uso do produto, a ingestão de cálcio e causas como má absorção, doença renal ou hepática, medicamentos e formas genéticas.",
+          "Antes de retornar a corrida, saltos ou esportes de impacto, peça liberação. Mantenha seguimento até a recuperação clínica, bioquímica e radiográfica definida pela equipe e continue o plano de prevenção depois da fase de correção."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Raquitismo carencial clínico é incomum nessa faixa e exige avaliação especializada para confirmar causa, estado materno, prematuridade, alimentação e outras doenças. Má sucção, pausas respiratórias, estridor, tremores, rigidez, flacidez ou convulsão são sinais de emergência; não administrar megadose por conta própria.",
+        "3a5m": "Valorizar irritabilidade, dor ao manuseio, pouca movimentação, atraso motor, fontanela e alterações de punhos. Manter o plano de leite e suplemento prescrito; dificuldade para mamar, espasmos, convulsão, estridor ou dificuldade respiratória exigem atendimento imediato.",
+        "6a11m": "É uma faixa em que hipocalcemia sintomática pode aparecer com maior frequência. Observar atraso para sentar ou engatinhar, fraqueza, punhos/tornozelos aumentados e dor; convulsão, tetania, estridor, pausa respiratória ou prostração exigem emergência.",
+        "1a": "Na fase de ficar em pé e andar, observar atraso ou perda de habilidade, quedas, dor, fraqueza, aumento de punhos/tornozelos e curvatura progressiva das pernas. Não forçar a marcha e suspender impacto até avaliação se houver dor ou suspeita de fratura.",
+        "2a5": "Acompanhar crescimento, dor, marcha, cansaço, deformidade dos membros, dificuldade para correr e atraso motor. Adaptar creche e brincadeiras para prevenir quedas e seguir fisioterapia ou ortopedia somente quando prescritas.",
+        "6a11": "Valorizar dor óssea, fraqueza, alteração da marcha, quedas, limitação escolar/esportiva, crescimento insuficiente e fratura após trauma leve. Afastamento de impacto e retorno ao esporte dependem da avaliação da recuperação óssea.",
+        "12a17": "Investigar dor, fraqueza, fadiga, fraturas, dieta restritiva, pouca exposição solar segura, doença de absorção e medicamentos. Envolver o adolescente no plano, conferir adesão sem julgamento e lembrar que, após o fechamento das placas de crescimento, o quadro pode ser descrito como osteomalácia em vez de raquitismo.",
+        "unknown": "Confirmar idade, crescimento, sintomas, mobilidade, dieta, suplementos e respectivas concentrações, exames, radiografias e complicações antes de orientar. Não presumir que 'grave' significa uma complicação específica nem escolher dose ou prazo universal; aplicar imediatamente os sinais de alarme."
+      },
+      "refs": [
+        {
+          "id": "pais126_op42_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas de Raquitismo e Osteomalácia",
+          "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20220201_portal_portaria_conjunta_2_pcdt_raquitismo_e_osteomalacia.pdf"
+        },
+        {
+          "id": "pais126_op42_2",
+          "name": "Kids Health Info: Rickets",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Rickets/"
+        },
+        {
+          "id": "pais126_op42_3",
+          "name": "Clinical Practice Guidelines: Vitamin D deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Vitamin_D_deficiency/"
+        },
+        {
+          "id": "pais126_op42_4",
+          "name": "Immigrant Health Service: Low Vitamin D",
+          "url": "https://www.rch.org.au/immigranthealth/clinical/Low_Vitamin_D/"
+        },
+        {
+          "id": "pais126_op42_5",
+          "name": "Hypocalcaemia",
+          "url": "https://www.starship.org.nz/guidelines/hypocalcaemia/"
+        },
+        {
+          "id": "pais126_op42_6",
+          "name": "Global Consensus Recommendations on Prevention and Management of Nutritional Rickets",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26745253/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1268",
+      "label": "Raquitismo carencial leve",
+      "entity": "Raquitismo carencial (nutricional) pediátrico com baixa repercussão clínica/radiográfica no momento da avaliação",
+      "assessment": "{\"classification\":\"VALID_SEVERITY_QUALIFIER_NOT_DISTINCT_ENTITY\",\"normalized_entity\":\"Raquitismo carencial (raquitismo nutricional)\",\"assessment\":\"O termo-base é válido: raquitismo carencial ou nutricional é a mineralização inadequada da placa de crescimento por deficiência de vitamina D e/ou baixa ingestão de cálcio em criança ou adolescente em crescimento. 'Leve' pode descrever menor repercussão clínica, bioquímica ou radiográfica no momento da avaliação, mas não constitui doença separada e não possui um corte universal aplicável a todas as idades. Há método radiográfico de pontuação de gravidade, porém o rótulo isolado não informa o escore, os exames, a causa nem o risco individual. A ficha preserva o qualificador sem usá-lo para prometer evolução benigna, dispensar confirmação ou atrasar sinais de alarme.\",\"not_automatically_equivalent_to\":[\"Deficiência laboratorial isolada de vitamina D sem alterações de raquitismo\",\"Pernas arqueadas fisiológicas ou outra variação normal do crescimento\",\"Ausência de risco de hipocalcemia, fratura, progressão ou causa não carencial\",\"Raquitismo genético, renal, hepático, disabsortivo, medicamentoso ou hipofosfatêmico\",\"Autorização para reduzir, suspender ou trocar tratamento e acompanhamento\"],\"counting_rule\":\"Pode compartilhar a entidade clínica do raquitismo carencial, preservando este ID e o qualificador de baixa gravidade. Contar como orientação específica para este registro apenas se o texto não transformar 'leve' em garantia de segurança e mantiver confirmação diagnóstica, tratamento prescrito, monitorização e alertas.\",\"pediatric_scope\":\"Aplica-se somente a lactentes, crianças e adolescentes com placas de crescimento abertas e diagnóstico clínico-bioquímico-radiográfico de raquitismo carencial. A apresentação pode ser pouco sintomática, mas idade, exame, alimentação, bioquímica, radiografia e evolução definem o risco; em adolescentes com placas fechadas, o problema de mineralização é denominado osteomalácia, não raquitismo.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Raquitismo carencial acontece quando o osso em crescimento não mineraliza adequadamente por falta de vitamina D e/ou cálcio. A palavra leve indica pouca repercussão na avaliação atual, mas não significa apenas vitamina D baixa nem garante que o quadro não possa progredir sem correção e acompanhamento.",
+          "Dê somente o tratamento prescrito e anote o nome, a concentração e o medidor de cada vitamina, fórmula ou suplemento usado. Leve frascos, rótulos, receitas e exames aos retornos, porque produtos com nomes parecidos podem ter concentrações muito diferentes.",
+          "Observe dor, cansaço, fraqueza, quedas, atraso para sentar, engatinhar ou andar, mudança da marcha, aumento de punhos ou tornozelos e curvatura progressiva das pernas. Registre mudanças para mostrar à equipe; não tente avaliar a cura apenas pela aparência.",
+          "Não massageie com força nem tente endireitar pernas ou outras deformidades com faixas, talas, sapatos, palmilhas ou exercícios caseiros. Se houver dor ou fraqueza, reduza atividades de impacto e risco de queda até orientação profissional.",
+          "O raquitismo carencial não é contagioso. Escola ou creche podem ser mantidas se a criança estiver bem, com adaptações temporárias para dor, fraqueza ou restrição de impacto quando indicadas pela equipe."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha o acompanhamento pediátrico e os exames solicitados, mesmo que a criança pareça bem. A equipe precisa confirmar a causa, avaliar cálcio e fósforo, acompanhar crescimento e verificar cicatrização; a melhora clínica pode ocorrer antes da recuperação bioquímica ou radiográfica.",
+          "Revise com a equipe alimentação, suplementação prévia, exposição solar segura, doenças intestinais, renais ou hepáticas e medicamentos. A falta de resposta exige rever o diagnóstico e não deve ser tratada aumentando suplemento em casa.",
+          "Atividade leve e brincadeiras seguras podem ser mantidas conforme tolerância e orientação. Dor, fraqueza, deformidade ou suspeita de fratura exigem pausa de impacto; fisioterapia, órtese e retorno ao esporte devem ser individualizados.",
+          "Não use exposição solar prolongada como tratamento. Proteja contra queimaduras e siga a orientação local; não existe um tempo único de sol que substitua alimentação, suplemento prescrito e monitorização.",
+          "Cuide da saúde bucal e informe atraso na dentição, defeitos do esmalte ou dor dentária. Avaliação odontológica pode ser indicada, mas não é automática para toda criança com quadro leve."
+        ],
+        "MEDICAMENTOS": [
+          "A correção do raquitismo carencial costuma envolver vitamina D e ingestão adequada de cálcio, mas produto, concentração, quantidade, via e duração dependem da idade, alimentação, exames e gravidade. Use exatamente o esquema prescrito para esta criança.",
+          "Não combine gotas, cápsulas, polivitamínicos, fórmulas fortificadas, cálcio ou produtos manipulados sem conferir com a equipe. O excesso de vitamina D ou cálcio também pode causar dano, e o rótulo 'leve' não torna megadose segura.",
+          "Não use calcitriol, fosfato, injeção, cápsula de adulto ou produto de outra criança. Formas genéticas, renais, hepáticas, por má absorção ou por medicamentos podem exigir tratamento diferente do raquitismo carencial.",
+          "Se esquecer, vomitar ou derramar uma tomada, não repita nem dobre automaticamente. Consulte a orientação do serviço ou do farmacêutico e informe erro de produto, concentração ou medidor.",
+          "Não reduza nem suspenda o tratamento porque a dor melhorou ou o diagnóstico foi chamado de leve. A equipe define mudanças após conferir uso, alimentação, crescimento, exames e, quando necessário, radiografias."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha alimentação variada e adequada à idade, incluindo fontes de cálcio e vitamina D definidas com pediatra ou nutricionista. Leite e derivados pasteurizados ou alternativas fortificadas podem contribuir, mas precisam respeitar alergias, intolerâncias, dieta vegetariana/vegana e outras restrições.",
+          "Em lactentes, preserve aleitamento ou fórmula orientados e o suplemento já prescrito. Não dilua fórmula além do rótulo, não troque por bebida vegetal ou preparação caseira e não acrescente cálcio ou vitamina por conta própria.",
+          "Alimentação ajuda na recuperação e prevenção, mas não substitui tratamento quando o raquitismo já foi confirmado. Evite dietas restritivas, jejum, chás ou produtos naturais usados como promessa de corrigir os ossos.",
+          "Ofereça líquidos habituais conforme idade. Procure avaliação se houver vômitos repetidos, recusa persistente, pouca urina ou sinais de desidratação, especialmente quando isso impede alimentação e tratamento.",
+          "Leve ao retorno uma lista do que a criança realmente come e bebe, incluindo fórmula, bebida fortificada e suplementos; isso ajuda a equipe a corrigir deficiência sem duplicar produtos."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Procure atendimento imediato se houver convulsão, desmaio, confusão, rigidez, espasmos ou contrações das mãos e pés, tremores persistentes, formigamento ao redor da boca, fraqueza intensa ou criança muito sonolenta. Esses sinais podem ocorrer com cálcio baixo e anulam qualquer classificação prévia de quadro leve.",
+          "Vá ao pronto atendimento se aparecer ruído agudo ao respirar, pausa respiratória, falta de ar, respiração com esforço, lábios arroxeados, palpitação importante ou perda de consciência.",
+          "Após queda ou mesmo sem trauma claro, procure atendimento se houver dor óssea forte localizada, inchaço, deformidade nova, estalo, recusa súbita de mexer um membro ou incapacidade nova de ficar em pé ou apoiar.",
+          "Após possível excesso de vitamina D ou cálcio, procure orientação toxicológica e atendimento urgente se surgirem vômitos repetidos, muita sede, muita urina, desidratação, dor abdominal, fraqueza marcada, sonolência ou alteração do comportamento. Leve a embalagem.",
+          "Procure avaliação imediata se houver perda rápida de habilidades, piora importante da marcha, prostração, recusa persistente de líquidos ou piora súbita do estado geral."
+        ],
+        "QUANDO REAVALIAR": [
+          "Se o retorno ainda não estiver marcado, contate o serviço para defini-lo. Mesmo um quadro classificado como leve precisa de reavaliação para confirmar a causa, conferir o produto e avaliar crescimento, sintomas, alimentação e exames.",
+          "Compareça nos prazos indicados para exame físico e testes solicitados. Radiografia pode ser repetida quando a equipe precisar documentar cicatrização; não existe um calendário único seguro para todas as idades.",
+          "Antecipe a consulta se dor, fraqueza, quedas, irritabilidade, atraso motor, alteração da marcha, aumento de punhos/tornozelos ou deformidade surgirem ou piorarem, ou se a criança não conseguir tomar o tratamento.",
+          "Se a melhora não ocorrer como esperado, não aumente a dose. A equipe deve rever concentração e uso do produto, ingestão de cálcio, adesão, absorção e causas renais, hepáticas, medicamentosas ou genéticas.",
+          "Peça liberação antes de voltar a esporte de impacto quando houver dor, fraqueza, deformidade ou alteração radiográfica. O seguimento termina quando a equipe confirma recuperação suficiente, não apenas quando a família percebe melhora."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Raquitismo clínico tão cedo não deve ser presumido leve e exige avaliação especializada da saúde materna, prematuridade, alimentação e outras causas. Má sucção, tremores, espasmos, apneia, ruído respiratório, flacidez ou convulsão são emergência.",
+        "3a5m": "Confirmar aleitamento, fórmula e suplementos já prescritos, sem diluição ou duplicação. Observar irritabilidade, dor ao manuseio, pouca movimentação e atraso de controle da cabeça; espasmo, convulsão ou dificuldade respiratória exigem atendimento imediato.",
+        "6a11m": "Revisar introdução alimentar e fontes de cálcio sem substituir leite materno ou fórmula por bebida inadequada. Observar atraso para sentar ou engatinhar, punhos/tornozelos aumentados, fraqueza e recusa de apoiar; sinais de hipocalcemia são urgentes mesmo se o quadro foi chamado de leve.",
+        "1a": "Na fase de ficar em pé e andar, valorizar atraso ou perda de habilidade, marcha dolorosa, quedas, pernas progressivamente arqueadas e aumento de punhos/tornozelos. Não forçar marcha nem usar andador, tala ou sapato corretivo por conta própria.",
+        "2a5": "Acompanhar crescimento, corrida, subida de escadas, dor, fadiga e deformidade. Adaptar creche e brincadeiras para evitar impacto e queda quando houver sintomas, sem afastar automaticamente uma criança assintomática e liberada pela equipe.",
+        "6a11": "Revisar dieta restritiva, doenças crônicas e medicamentos, além de dor, fraqueza, fraturas e mudança da marcha. Esporte depende de sintomas e segurança óssea; o adjetivo leve não substitui liberação clínica.",
+        "12a17": "Confirmar que as placas de crescimento ainda estão abertas e revisar crescimento puberal, dieta, restrição alimentar, doenças crônicas e medicamentos. Incluir o adolescente no plano e lembrar que, após fechamento das placas, mineralização defeituosa é chamada osteomalácia.",
+        "unknown": "Confirmar idade, crescimento, sintomas, mobilidade, dieta, doenças, medicamentos, exames, radiografias, produto e concentração antes de orientar. Não aceitar 'leve' como descrição suficiente nem escolher tratamento ou prazo universal."
+      },
+      "refs": [
+        {
+          "id": "pais126_op45_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas de Raquitismo e Osteomalácia",
+          "url": "https://www.gov.br/conitec/pt-br/midias/relatorios/2022/20220131_pcdt_692_raquitismo_e_osteomalcia.pdf"
+        },
+        {
+          "id": "pais126_op45_2",
+          "name": "Global Consensus Recommendations on Prevention and Management of Nutritional Rickets",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26745253/"
+        },
+        {
+          "id": "pais126_op45_3",
+          "name": "Radiographic scoring method for the assessment of the severity of nutritional rickets",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10893912/"
+        },
+        {
+          "id": "pais126_op45_4",
+          "name": "Kids Health Info: Rickets",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Rickets/"
+        },
+        {
+          "id": "pais126_op45_5",
+          "name": "Diagnosis, treatment, and management of rickets: a position statement from the Italian Society of Pediatric Endocrinology and Diabetology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38706696/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1271",
+      "label": "Raquitismo carencial recorrente",
+      "entity": "Raquitismo carencial (nutricional) pediátrico com reaparecimento após melhora ou resolução prévia a confirmar",
+      "assessment": "{\"classification\":\"VALID_COURSE_QUALIFIER_NOT_DISTINCT_ENTITY\",\"normalized_entity\":\"Raquitismo carencial (raquitismo nutricional)\",\"assessment\":\"O termo-base é válido. 'Recorrente' descreve o reaparecimento clínico, bioquímico e/ou radiográfico do raquitismo depois de melhora ou resolução anterior; não é uma etiologia nem uma doença separada. As fontes sustentam que prevenir recorrência faz parte do tratamento e que risco persistente, ingestão insuficiente, uso incorreto do produto, baixa adesão, má absorção, doença renal ou hepática, medicamentos e causas genéticas precisam ser revistos quando o quadro volta ou não responde. O rótulo não permite presumir qual dessas causas está presente.\",\"not_automatically_equivalent_to\":[\"Raquitismo que nunca cicatrizou completamente ou resposta lenta ao tratamento\",\"Deficiência laboratorial isolada de vitamina D sem raquitismo confirmado\",\"Uso incorreto deliberado do tratamento pela família\",\"Raquitismo genético, renal, hepático, disabsortivo, medicamentoso ou hipofosfatêmico\",\"Indicação automática de repetir, aumentar ou prolongar o tratamento anterior\"],\"counting_rule\":\"Pode compartilhar a entidade clínica do raquitismo carencial, preservando este ID e o qualificador de recorrência. Contar como orientação específica para este registro somente se o texto distinguir recorrência de persistência, orientar reavaliação da causa e impedir repetição autônoma do esquema anterior.\",\"pediatric_scope\":\"Aplica-se a lactentes, crianças e adolescentes com placas de crescimento abertas e história documentada de melhora ou resolução anterior. A apresentação depende da idade: lactentes podem ter irritabilidade, atraso motor ou hipocalcemia sintomática; crianças que apoiam peso podem desenvolver deformidades dos membros; maiores podem apresentar dor, fraqueza, alteração da marcha, crescimento insuficiente ou fratura. Após fechamento das placas, defeito de mineralização é descrito como osteomalácia, não raquitismo.\",\"reason_for_specific\":\"A recorrência modifica de modo relevante o retorno e a segurança: exige confirmar se houve cicatrização prévia, revisar fatores de risco e uso real do tratamento e investigar diagnóstico alternativo ou causa persistente, sem simplesmente repetir suplemento.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Raquitismo carencial significa que o osso em crescimento não mineralizou adequadamente por falta de vitamina D e/ou cálcio. 'Recorrente' quer dizer que sinais da doença reapareceram depois de melhora ou resolução anterior; isso precisa ser confirmado por avaliação clínica e, quando indicado, exames e radiografias.",
+          "Não presuma que a volta dos sintomas tem a mesma causa da primeira vez. Leve aos retornos exames e radiografias antigos, receitas, frascos e rótulos dos produtos usados e anote quando cada tratamento começou, terminou e como foi administrado.",
+          "Observe dor, fraqueza, quedas, cansaço, atraso ou perda de habilidade motora, dificuldade para andar, crescimento, curvatura progressiva dos membros e aumento de punhos ou tornozelos. Registre também dieta, vômitos, diarreia persistente e medicamentos de uso contínuo, sem concluir sozinho qual deles causou a recorrência.",
+          "Enquanto houver dor, fraqueza ou suspeita de osso fragilizado, evite saltos, corrida, esporte de impacto e brincadeiras com risco de queda. Não massageie deformidades, não tente endireitar pernas ou braços e não force a criança a caminhar.",
+          "O raquitismo carencial não é contagioso. Escola e creche podem manter participação com adaptações de locomoção e atividade física definidas conforme dor, força e segurança óssea; não é necessário isolamento."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Marque reavaliação com pediatria ou endocrinologia pediátrica. A equipe deve distinguir verdadeira recorrência de doença que não cicatrizou, conferir crescimento, exame, alimentação, exposição solar segura, adesão, concentração do produto e fatores como má absorção, doença renal ou hepática, medicamentos e formas genéticas.",
+          "A alimentação e a rotina de prevenção precisam ser sustentáveis para a família. Peça apoio de nutricionista se houver alergia, intolerância, seletividade, dieta restritiva, dificuldade de acesso ou doença intestinal; não retire grupos alimentares sem orientação.",
+          "Exposição solar não substitui o tratamento de raquitismo confirmado e não deve causar queimadura. Siga proteção adequada à idade e ao local; não deixe bebê ou criança no sol por tempo prolongado para tentar corrigir exames.",
+          "Reduza risco de quedas, mantenha passagem e escadas seguras e ofereça ajuda para deslocamento quando houver fraqueza. Fisioterapia, palmilhas, talas ou aparelhos devem ser individualizados; não use dispositivos de outra criança.",
+          "Retome atividade física e esporte gradualmente apenas após avaliação da recuperação. Dor nova, piora da marcha ou dificuldade para apoiar exige pausa e reavaliação, não treino para 'fortalecer' por conta própria."
+        ],
+        "MEDICAMENTOS": [
+          "Não reinicie nem repita automaticamente a receita usada no episódio anterior. O tratamento depende da idade, peso, causa confirmada, exames, alimentação, produto disponível e resposta; use somente a apresentação, a concentração, a dose e a duração prescritas para este episódio.",
+          "Não dê megadoses, ampolas, cápsulas de adulto, fórmulas manipuladas, cálcio, fósforo, calcitriol ou combinações de vitaminas por conta própria. Os produtos têm concentrações muito diferentes, podem se somar e o excesso também pode causar dano.",
+          "Mostre à equipe todos os suplementos, fórmulas, multivitamínicos e medicamentos contínuos. Confira rótulo e medidor antes de administrar; se esquecer uma tomada, não dobre a seguinte sem orientação.",
+          "Se o quadro reapareceu apesar de tratamento aparentemente correto, não aumente a quantidade em casa. A equipe precisa revisar adesão sem julgamento, armazenamento e concentração do produto, ingestão de cálcio, absorção, função renal e hepática, interações e outras causas de raquitismo.",
+          "Procure orientação se a criança vomitar repetidamente, não conseguir tomar o tratamento, apresentar reação ao produto ou se houver divergência entre receita, rótulo e medidor. Convulsão, espasmos, estridor, desmaio ou dificuldade respiratória exigem emergência, não suplemento oral doméstico."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e adequada à idade com fontes de cálcio e vitamina D definidas com pediatra ou nutricionista. Leite e derivados ou alternativas fortificadas podem contribuir, mas alergia, intolerância, dieta vegana, seletividade ou doença de absorção exigem plano individual.",
+          "Em lactentes, mantenha aleitamento ou fórmula conforme orientação. Não concentre, dilua ou troque fórmulas e não acrescente vitaminas, pós ou cálcio ao leite sem prescrição; leve a embalagem ao retorno para conferir o que a criança realmente recebe.",
+          "Não use chás, receitas caseiras, dietas restritivas ou exposição solar excessiva como tratamento. Alimentação adequada ajuda na recuperação e prevenção, mas não substitui o plano prescrito nem a investigação quando a doença recorre.",
+          "Mantenha líquidos habituais conforme idade e condição clínica. Procure avaliação se houver vômitos repetidos, diarreia persistente, recusa de líquidos, pouca urina ou sinais de desidratação, especialmente se isso impedir alimentação ou tratamento."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame o serviço de emergência ou vá imediatamente se houver convulsão, perda de consciência, rigidez ou espasmos musculares, tremores intensos, formigamento ao redor da boca com piora, ou criança muito sonolenta e difícil de despertar; esses sinais podem acompanhar cálcio muito baixo.",
+          "Procure atendimento imediato diante de estridor ou ruído agudo ao respirar, pausa respiratória, falta de ar, respiração com esforço, lábios arroxeados ou piora súbita da alimentação em bebê. Não espere a vitamina ou o cálcio fazer efeito em casa.",
+          "Vá ao pronto atendimento se houver palpitação, batimento muito rápido ou irregular, dor no peito, desmaio, palidez intensa ou piora rápida do estado geral.",
+          "Após queda ou trauma mesmo leve, procure atendimento se surgir dor óssea forte, inchaço, deformidade nova, estalo, incapacidade de apoiar, ficar em pé ou mexer o membro. Não tente alinhar, massagear ou testar repetidamente o local.",
+          "Procure avaliação urgente no mesmo dia se houver perda nova de força ou habilidade, incapacidade de sentar ou andar, dor incapacitante, vômitos repetidos com prostração ou recusa persistente de líquidos."
+        ],
+        "QUANDO REAVALIAR": [
+          "A suspeita de recorrência deve ser reavaliada em curto prazo pela equipe que acompanha a criança; não espere uma consulta preventiva distante e não reinicie o tratamento anterior sem conferência.",
+          "Compareça aos exames e retornos definidos pela equipe. Acompanhamento pode incluir crescimento, dor, força, marcha, deformidades, exames de sangue e urina e radiografias; o intervalo depende da idade, gravidade, causa e resposta e não é igual para todas as crianças.",
+          "Procure antes do retorno se dor, fraqueza, quedas, atraso motor, deformidade ou dificuldade para andar piorarem, se aparecer aumento novo de punhos ou tornozelos, ou se a criança não tolerar ou não conseguir receber o tratamento.",
+          "Se não houver melhora esperada, peça revisão do diagnóstico em vez de aumentar dose. É importante diferenciar recorrência, tratamento incompleto e outras causas de raquitismo, incluindo problemas de absorção, rim, fígado, medicamentos e formas genéticas.",
+          "Mantenha o plano de prevenção e o seguimento mesmo depois da melhora. A equipe decide quando houve recuperação clínica, bioquímica e radiográfica e quando atividades de impacto podem ser retomadas com segurança."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Raquitismo clínico recorrente é incomum nessa idade e exige confirmar se houve episódio e resolução anteriores, além de avaliar prematuridade, estado materno, alimentação e outras doenças. Má sucção, pausas respiratórias, estridor, tremores, rigidez, flacidez ou convulsão são sinais de emergência.",
+        "3a5m": "Rever suplementação realmente recebida, concentração do produto, aleitamento/fórmula e fatores maternos sem culpar a família. Irritabilidade, dor ao manuseio, pouca movimentação, dificuldade para mamar, espasmos, estridor ou convulsão exigem avaliação imediata.",
+        "6a11m": "Observar atraso ou perda de habilidade para sentar e engatinhar, fraqueza, aumento de punhos/tornozelos e dor. Lactentes têm maior risco de hipocalcemia sintomática; convulsão, tetania, estridor, pausa respiratória ou prostração são emergência.",
+        "1a": "Na fase de ficar em pé e andar, observar atraso ou perda de habilidade, quedas, dor, fraqueza e curvatura progressiva das pernas. Não force marcha nem reinicie esquema antigo; leve registros do tratamento e da alimentação para reavaliação.",
+        "2a5": "Acompanhar crescimento, dor, marcha, cansaço, deformidade e dificuldade para correr. Rever dieta, rotina preventiva, vômitos ou diarreia persistentes e uso de medicamentos; adaptar brincadeiras e creche para reduzir quedas enquanto o osso é reavaliado.",
+        "6a11": "Valorizar dor óssea, fraqueza, alteração da marcha, crescimento insuficiente, fratura após trauma leve e dietas restritivas. A recorrência exige revisar fatores persistentes e recuperação anterior; afastamento e retorno ao impacto dependem da avaliação óssea.",
+        "12a17": "Investigar com o adolescente, sem julgamento, rotina de uso do tratamento, dieta, pouca exposição solar segura, doença intestinal, renal ou hepática e medicamentos. Após fechamento das placas, defeito de mineralização pode ser descrito como osteomalácia, e não como raquitismo recorrente.",
+        "unknown": "Confirmar idade, placas de crescimento, episódio anterior e sua recuperação, sintomas, mobilidade, dieta, produtos e concentrações usados, exames e radiografias antes de chamar o quadro de recorrente. Não escolher causa, dose ou duração universal; aplicar imediatamente os sinais de alarme."
+      },
+      "refs": [
+        {
+          "id": "pais126_op48_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas de Raquitismo e Osteomalácia",
+          "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20220201_portal_portaria_conjunta_2_pcdt_raquitismo_e_osteomalacia-1.pdf"
+        },
+        {
+          "id": "pais126_op48_2",
+          "name": "Raquitismo: Abordagem prática para o pediatra",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23954c-DC_-_Raquitismo-Abordagem_pratica_para_o_pediatra.pdf"
+        },
+        {
+          "id": "pais126_op48_3",
+          "name": "Global Consensus Recommendations on Prevention and Management of Nutritional Rickets",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26745253/"
+        },
+        {
+          "id": "pais126_op48_4",
+          "name": "Diagnosis, treatment, and management of rickets: a position statement from the Bone and Mineral Metabolism Group of the Italian Society of Pediatric Endocrinology and Diabetology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11066174/"
+        },
+        {
+          "id": "pais126_op48_5",
+          "name": "Clinical Practice Guidelines: Vitamin D deficiency",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Vitamin_D_deficiency/"
+        },
+        {
+          "id": "pais126_op48_6",
+          "name": "Vitamin D Deficiency Rickets",
+          "url": "https://monashhealth.org/wp-content/uploads/2021/04/Rickets-management_discussion_paper-Jan-2021.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1272",
+      "label": "Raquitismo carencial refratário",
+      "entity": "Raquitismo pediátrico sem resposta esperada a tratamento presumidamente adequado para deficiência de vitamina D e/ou cálcio, com necessidade de reconfirmar diagnóstico e causa",
+      "assessment": "{\"classification\":\"VALID_RESPONSE_QUALIFIER_REQUIRING_CAUSE_REASSESSMENT_NOT_DISTINCT_ENTITY\",\"normalized_entity\":\"Raquitismo com resposta inadequada ao tratamento presumidamente carencial\",\"assessment\":\"O termo 'raquitismo refratário' é usado na literatura para a falta de resposta a tratamento considerado terapêutico para deficiência de vitamina D. Entretanto, 'carencial refratário' não confirma por si só que a causa continua sendo apenas nutricional. Antes de chamar o quadro de refratário, a equipe precisa confirmar raquitismo ativo, tratamento realmente recebido, apresentação e concentração corretas, ingestão de cálcio, absorção e resposta objetiva; depois, investigar doença renal ou hepática, distúrbios tubulares, hipofosfatemia, medicamentos e formas genéticas. O qualificador altera de modo relevante o retorno e a segurança, mas não constitui uma doença independente.\",\"not_automatically_equivalent_to\":[\"Raquitismo carencial ainda no início da resposta ou sem acompanhamento suficiente para documentar cicatrização\",\"Deficiência laboratorial isolada de vitamina D sem raquitismo clínico e radiográfico confirmado\",\"Falha deliberada da família ou ausência de adesão presumida sem escuta e conferência do produto\",\"Raquitismo dependente ou resistente à vitamina D, hipofosfatêmico, renal, hepático, disabsortivo ou medicamentoso\",\"Autorização para aumentar, repetir ou prolongar vitamina D, cálcio, fósforo ou calcitriol por conta própria\"],\"counting_rule\":\"Pode compartilhar a entidade-base do raquitismo, preservando este ID e o qualificador de resposta inadequada. Contar como orientação específica deste registro somente se o texto exigir reavaliação diagnóstica, impedir escalada autônoma do tratamento e distinguir refratariedade de uso inadequado, resposta ainda em curso e causas não carenciais.\",\"pediatric_scope\":\"Lactentes, crianças e adolescentes com placas de crescimento abertas e raquitismo confirmado que não apresentou a melhora clínica, bioquímica e/ou radiográfica esperada no acompanhamento. Após o fechamento das placas, defeito de mineralização é descrito como osteomalácia. A apresentação e os riscos variam com idade, gravidade e causa.\",\"reason_for_specific\":\"A falta de resposta muda a conduta familiar: exige retorno antecipado com produto e registros, revisão da causa, maior proteção contra fratura e proíbe simplesmente repetir ou aumentar o esquema anterior.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Raquitismo é falha de mineralização do osso que está crescendo. 'Refratário' significa que a melhora esperada não foi demonstrada apesar de tratamento presumidamente adequado; isso precisa ser confirmado pela equipe e não permite concluir em casa que a criança precisa de uma dose maior.",
+          "Leve ao retorno receitas, frascos, rótulos, medidores, fórmulas, multivitamínicos, exames e radiografias. Anote como cada produto foi guardado e administrado, doses esquecidas ou vomitadas, alimentação real e quando dor, fraqueza, crescimento ou marcha mudaram. A revisão deve ser sem culpa ou punição.",
+          "Observe dor, fraqueza, quedas, cansaço, atraso ou perda de habilidades, dificuldade para caminhar, crescimento insuficiente, curvatura progressiva dos membros e aumento de punhos ou tornozelos. Informe também muita sede ou urina, vômitos ou diarreia persistentes e medicamentos de uso contínuo.",
+          "Enquanto houver dor, fraqueza, deformidade progressiva ou suspeita de osso fragilizado, evite corrida, saltos, esporte de impacto e situações com risco de queda. Não massageie deformidades, não tente endireitar membros e não force a criança a caminhar.",
+          "O raquitismo não é contagioso. Escola e creche não exigem isolamento, mas devem receber orientações sobre restrição de impacto, ajuda para locomoção e sinais de dor ou fratura conforme o plano da equipe."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Procure reavaliação com pediatria, endocrinologia pediátrica e, conforme os achados, nefrologia, gastroenterologia, hepatologia ou genética. A equipe deve confirmar atividade do raquitismo e separar resposta lenta, tratamento não recebido como planejado e causa diferente da carencial.",
+          "A investigação pode exigir história e exame completos, crescimento, dieta, sangue, urina e radiografias. Sede e urina excessivas, fraqueza episódica, doença renal ou hepática, diarreia crônica, baixo ganho de peso e histórico familiar são pistas importantes; não tente escolher a causa sozinho.",
+          "Peça apoio de nutricionista quando houver alergia, intolerância, seletividade, dieta vegetariana ou vegana, restrição, insegurança alimentar ou doença de absorção. Não retire grupos alimentares nem use dietas da internet para testar uma causa.",
+          "Exposição solar não substitui o tratamento nem a investigação e não deve causar queimadura. Não existe um tempo universal seguro de sol que resolva um quadro sem resposta.",
+          "Fisioterapia, órtese, palmilha, tala ou cirurgia dependem da causa, dor, força, deformidade e recuperação óssea. Não use dispositivo de outra criança e não retorne ao impacto antes da liberação profissional."
+        ],
+        "MEDICAMENTOS": [
+          "Não aumente, repita nem prolongue o tratamento anterior por conta própria. A falta de resposta pode decorrer de produto ou concentração diferentes, ingestão insuficiente de cálcio, dificuldade de absorção, interação, doença renal ou hepática, perda de fosfato ou forma genética; cada causa exige plano diferente.",
+          "Use somente a apresentação, concentração, quantidade, via e duração prescritas para esta criança. Não combine gotas, cápsulas, ampolas, multivitamínicos, cálcio, fósforo, calcitriol ou formulações manipuladas sem a equipe conferir tudo o que a criança recebe.",
+          "Mostre os medicamentos contínuos, mas não suspenda anticonvulsivante, corticoide ou outro tratamento essencial sem falar com quem o prescreveu. Alguns fármacos podem contribuir para doença óssea, porém a retirada abrupta também pode causar dano.",
+          "Se houver divergência entre receita, rótulo, conta-gotas ou medidor, pare antes de improvisar e peça conferência ao serviço ou farmacêutico. Se esquecer ou houver vômito logo após uma administração, não dobre a seguinte sem orientação.",
+          "Convulsão, espasmos, estridor, desmaio, palpitação importante ou dificuldade respiratória não devem ser tratados em casa com dose extra de vitamina ou mineral; são sinais para emergência."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e adequada à idade. Fontes de cálcio e vitamina D devem ser ajustadas por pediatria ou nutrição, respeitando alergia, intolerância, dieta vegetariana ou vegana, seletividade, doença intestinal e condição renal.",
+          "Em lactentes, mantenha aleitamento ou fórmula conforme orientação. Não dilua ou concentre fórmula, não troque por bebida vegetal caseira e não acrescente vitamina, cálcio ou pós ao leite sem prescrição; leve a embalagem ao retorno.",
+          "Não force leite ou alimento quando houver dor, vômitos ou dificuldade para engolir. Diarreia persistente, fezes gordurosas, perda de peso, distensão, vômitos repetidos ou baixo ganho podem sugerir má absorção e precisam ser informados.",
+          "Mantenha líquidos habituais conforme idade e doença de base. Muita sede e muita urina, urina muito reduzida, desidratação ou vômitos que impedem alimento, líquido ou tratamento exigem reavaliação.",
+          "Chás, megadoses, produtos naturais e dieta restritiva não corrigem refratariedade e podem atrasar o diagnóstico ou causar excesso de vitamina e minerais."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência ou vá imediatamente se houver convulsão, perda de consciência, rigidez ou espasmos musculares, tremores intensos, formigamento ao redor da boca com piora, ou criança muito sonolenta e difícil de despertar; esses sinais podem acompanhar cálcio muito baixo.",
+          "Procure atendimento imediato diante de estridor ou ruído agudo para respirar, pausas respiratórias, falta de ar, retração das costelas, lábios arroxeados ou piora súbita da alimentação em bebê.",
+          "Vá ao pronto atendimento se houver palpitação intensa ou ritmo irregular, dor no peito, desmaio, palidez importante, fraqueza súbita ou piora rápida do estado geral.",
+          "Após queda ou trauma mesmo leve, procure atendimento se aparecer dor óssea forte, inchaço, deformidade nova, estalo ou incapacidade de apoiar, ficar em pé ou mexer o membro. Não alinhe, massageie ou teste repetidamente o local.",
+          "Procure avaliação urgente no mesmo dia se houver perda nova de força ou habilidade, incapacidade de sentar ou andar, dor incapacitante, vômitos repetidos com prostração, recusa persistente de líquidos ou sinais de desidratação."
+        ],
+        "QUANDO REAVALIAR": [
+          "Falta de resposta ao tratamento deve ser reavaliada em curto prazo pela equipe que acompanha a criança. Não espere consulta preventiva distante e não use melhora parcial de dor como prova de cicatrização.",
+          "Compareça aos exames e retornos definidos. A resposta pode ser avaliada por crescimento, dor, força, marcha, deformidades, sangue, urina e radiografias; o conjunto e o intervalo dependem da idade, causa, gravidade e tratamento e não são universais.",
+          "Procure antes se dor, fraqueza, quedas, atraso motor, deformidade, dificuldade para andar ou apoiar piorarem, ou se a criança não conseguir receber o plano prescrito.",
+          "Se não houver melhora, peça revisão do diagnóstico e do tratamento efetivamente recebido. A equipe pode precisar diferenciar problema nutricional persistente de má absorção, doença renal ou hepática, distúrbio do fosfato, efeito de medicamento e formas genéticas.",
+          "Mantenha o seguimento mesmo depois de melhora subjetiva. A equipe define quando há recuperação clínica, bioquímica e radiográfica suficiente e quando atividades de impacto podem voltar com segurança."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Raquitismo clínico refratário é incomum nesta idade e exige confirmar diagnóstico, prematuridade, saúde materna, alimentação e tratamento realmente recebido. Mamada fraca, pausas respiratórias, estridor, tremores, rigidez, flacidez ou convulsão são emergência.",
+        "3a5m": "Rever aleitamento ou fórmula, suplemento realmente administrado, concentração e fatores maternos sem culpar a família. Dor ao manuseio, pouca movimentação, dificuldade para mamar, espasmos, estridor ou convulsão exigem avaliação imediata.",
+        "6a11m": "Observar atraso ou perda de habilidade para sentar e engatinhar, fraqueza, aumento de punhos ou tornozelos e recusa de apoiar. Revisar introdução alimentar e absorção; sinais de hipocalcemia continuam urgentes.",
+        "1a": "Na fase de ficar em pé e andar, valorizar atraso ou perda de habilidade, quedas, dor, fraqueza e curvatura progressiva das pernas. Não forçar marcha e não aumentar suplemento sem reavaliação.",
+        "2a5": "Acompanhar crescimento, marcha, corrida, dor, cansaço e deformidade. Informar diarreia, vômitos, seletividade e medicamentos; adaptar creche e brincadeiras para reduzir impacto e quedas enquanto a causa é revista.",
+        "6a11": "Valorizar dor óssea, fraqueza, fratura após trauma leve, alteração da marcha, crescimento insuficiente, sede ou urina excessivas e dietas restritivas. Escola e esporte devem seguir as limitações temporárias da equipe.",
+        "12a17": "Revisar com o adolescente, sem julgamento, o uso real do produto, dieta, doença intestinal, renal ou hepática e medicamentos. Confirmar placas de crescimento abertas; após o fechamento, o defeito de mineralização é descrito como osteomalácia.",
+        "unknown": "Sem idade e dados clínicos, confirmar crescimento, sintomas, mobilidade, tratamento realmente recebido, produtos e concentrações, dieta, doenças, medicamentos, sangue, urina e radiografias antes de chamar o quadro de refratário. Não escolher causa ou aumentar tratamento."
+      },
+      "refs": [
+        {
+          "id": "pais126_op49_1",
+          "name": "Protocolo Clínico e Diretrizes Terapêuticas de Raquitismo e Osteomalácia",
+          "url": "https://www.gov.br/conitec/pt-br/midias/relatorios/2022/20220131_pcdt_692_raquitismo_e_osteomalcia.pdf"
+        },
+        {
+          "id": "pais126_op49_2",
+          "name": "Refractory Rickets: Evaluation and Management",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41741919/"
+        },
+        {
+          "id": "pais126_op49_3",
+          "name": "Diagnosis, treatment, and management of rickets: a position statement",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38706696/"
+        },
+        {
+          "id": "pais126_op49_4",
+          "name": "Global Consensus Recommendations on Prevention and Management of Nutritional Rickets",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26745253/"
+        },
+        {
+          "id": "pais126_op49_5",
+          "name": "Kids Health Info: Rickets",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Rickets/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1274",
+      "label": "Refluxo vesicoureteral grau I",
+      "entity": "Refluxo vesicoureteral pediátrico grau I (baixo grau)",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY_WITH_VALID_SEVERITY_GRADE\",\"normalized_entity\":\"Refluxo vesicoureteral grau I\",\"assessment\":\"O refluxo vesicoureteral (RVU) é o retorno de urina da bexiga para um ou ambos os ureteres. Grau I é o menor grau radiológico da classificação de I a V e descreve baixo grau de refluxo; não descreve uma infecção ativa. A presença do RVU pode facilitar infecção urinária, mas febre, dor ou alteração urinária exigem investigação própria e, em geral, confirmação com exame de urina e cultura. O rótulo isolado não informa se o refluxo é primário ou secundário, unilateral ou bilateral, se há cicatriz ou anomalia renal, disfunção vesical/intestino, infecção atual nem se há indicação de antibiótico preventivo.\",\"not_automatically_equivalent_to\":[\"Infecção urinária, cistite ou pielonefrite ativa\",\"Hidronefrose, dilatação do ureter ou cicatriz renal\",\"Refluxo vesicoureteral de alto grau\",\"Doença renal crônica ou perda de função renal\",\"Indicação automática de antibiótico preventivo, cirurgia ou repetição de exames invasivos\",\"Causa primária congênita confirmada, pois refluxo secundário por alteração do esvaziamento também existe\"],\"counting_rule\":\"Contar como orientação específica para este ID porque o grau I é um qualificador radiológico válido que muda prognóstico e manejo: observação costuma ser apropriada quando a criança está sem sintomas e com rins normais, mas vigilância de infecção e fatores de risco permanece necessária. Não contar como orientação de infecção urinária ativa nem como prova de resolução do refluxo.\",\"pediatric_scope\":\"Aplica-se sobretudo a lactentes e crianças, podendo persistir até a adolescência. A probabilidade de melhora espontânea é maior nos pacientes mais jovens e nos graus baixos, sem garantia individual. O seguimento depende de idade, história de ITU febril, condição dos rins, lateralidade, função da bexiga e intestino e evolução nos exames.\",\"reason_for_specific\":\"A ficha precisa evitar dois erros de segurança: tratar o grau I como infecção ativa ou, no sentido oposto, ignorar febre e pielonefrite porque o refluxo é leve. Também precisa deixar claro que profilaxia, imagem e eventual intervenção são decisões individualizadas.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Refluxo vesicoureteral significa que parte da urina volta da bexiga para o ureter. Grau I é o grau mais baixo no exame. Muitas crianças não sentem nada por causa do refluxo, e os graus baixos frequentemente melhoram com o crescimento, mas apenas o acompanhamento confirma a evolução.",
+          "O refluxo não é uma infecção urinária. Ardor para urinar, aumento da frequência, urgência, novo escape de urina, dor abdominal ou lombar, febre, calafrios e vômitos podem indicar infecção e precisam de avaliação própria; cheiro forte ou urina escura sozinhos não confirmam o diagnóstico.",
+          "Meça e anote a temperatura quando a criança parecer doente. Procure avaliação de urina sem demora se houver febre sem outra causa clara, especialmente em bebê, ou sintomas urinários. Não espere aparecer dor ao urinar em lactentes, pois eles podem ter apenas febre, irritabilidade, recusa alimentar, vômitos ou prostração.",
+          "Mantenha as consultas programadas e leve laudos de ultrassom, uretrocistografia miccional, cintilografia, culturas e receitas anteriores. Informe episódios de febre, infecção confirmada, internação, dificuldade para urinar, constipação, perdas de urina e como os medicamentos foram realmente usados.",
+          "RVU não é contagioso e não exige isolamento. Se a criança estiver bem, pode frequentar escola ou creche; combine acesso livre ao banheiro e a líquidos e deixe os responsáveis saberem quais sinais exigem contato com a família."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Para a criança que já usa o vaso, incentive urinar regularmente, sem segurar por muitas horas, e esvaziar a bexiga com calma. A equipe pode orientar idas ao banheiro em intervalos regulares; não force micções repetidas em bebê nem acorde a criança apenas por conta própria.",
+          "Observe constipação, fezes duras ou em bolinhas, dor para evacuar, escape de fezes, urgência urinária, jato fraco, manobras para segurar a urina, molhar a roupa ou voltar a fazer xixi na cama. Disfunção da bexiga e do intestino aumenta o risco de ITU e deve ser tratada conforme plano pediátrico.",
+          "Troque fraldas sujas sem demora, faça higiene externa suave e ensine limpeza da frente para trás quando aplicável. Evite duchas internas, sabonetes perfumados, banhos de espuma irritantes e produtos caseiros na região genital se provocarem ardor.",
+          "Se solicitado, faça diário de horários e volumes aproximados de líquidos, micções, escapes, evacuações, febre e sintomas. Esse registro ajuda a equipe a diferenciar hábito miccional, constipação e possíveis infecções.",
+          "Não faça massagem, exercício, manobra abdominal ou tratamento alternativo para tentar 'fechar a válvula'. Não repita nem cancele ultrassom, uretrocistografia ou cintilografia por conta própria; cada exame responde a uma pergunta diferente e alguns usam cateter ou radiação."
+        ],
+        "MEDICAMENTOS": [
+          "Refluxo grau I não significa que toda criança precise de antibiótico preventivo. A decisão é individual e considera idade, infecções febris anteriores, rins, refluxo em um ou dois lados, disfunção da bexiga/intestino, capacidade de acesso rápido ao atendimento e preferências discutidas com a família.",
+          "Se a equipe prescreveu antibiótico preventivo, administre exatamente a apresentação e o horário da receita e não interrompa porque a criança está bem. Se esqueceu, vomitou ou houve divergência entre receita, rótulo e medidor, confirme a conduta com a equipe ou o farmacêutico; não dobre a tomada.",
+          "Se houver suspeita de infecção, procure avaliação para coleta adequada de urina e cultura sempre que possível antes do primeiro antibiótico, sem atrasar atendimento de criança doente. Não use sobra, receita antiga ou antibiótico de outra pessoa.",
+          "Uma ITU confirmada exige o tratamento indicado para aquela infecção, que é diferente da prevenção. Piora clínica, nova febre ou ausência de melhora no prazo combinado durante o tratamento precisam de reavaliação; não aumente, troque ou prolongue o medicamento em casa.",
+          "O benefício da profilaxia é maior em alguns perfis de risco, enquanto o uso prolongado também pode selecionar bactérias resistentes. Por isso, nenhuma escolha, suspensão ou duração universal é recomendada nesta ficha, e grau I isolado não é indicação automática de cirurgia."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha líquidos adequados à idade e ao estado clínico, conforme orientação da equipe. Hidratação habitual ajuda a evitar urina muito concentrada, mas beber volume excessivo não corrige o refluxo e pode ser inadequado se houver restrição por outra doença.",
+          "Em bebês, mantenha leite materno e/ou fórmula na forma orientada; não substitua mamadas por água, chá ou suco e não dilua nem concentre a fórmula para tentar aumentar líquidos. Recusa das mamadas, vômitos repetidos ou menos fraldas molhadas exigem avaliação.",
+          "Ofereça frutas, verduras, legumes, grãos e outros alimentos com fibras apropriados à idade, junto com líquidos, para favorecer fezes macias. Constipação persistente ou dolorosa precisa de plano próprio e pode exigir medicamento prescrito; não use laxante, chá ou enema por conta própria.",
+          "Não há alimento, suco, cranberry, vitamina, probiótico ou fitoterápico comprovado para fechar o refluxo. Esses produtos não substituem cultura de urina, antibiótico quando indicado nem acompanhamento do rim e da bexiga.",
+          "Se a criança estiver sonolenta, com respiração difícil ou vomitando repetidamente, não force comida ou grande volume de líquido; procure atendimento para hidratação e avaliação seguras."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bebê com menos de 3 meses e temperatura de 38 °C ou mais, temperatura anormalmente baixa, recusa importante de mamadas, prostração, irritabilidade inconsolável, vômitos repetidos ou aparência muito doente deve ser avaliado imediatamente.",
+          "Em qualquer idade, procure pronto atendimento diante de febre com calafrios, dor nas costas ou no lado do corpo, vômitos, prostração ou piora rápida. Esses sinais podem indicar infecção no rim (pielonefrite), que não deve ser tratada como simples efeito do refluxo.",
+          "Chame o serviço de emergência se houver dificuldade para respirar, lábios arroxeados, convulsão, desmaio, confusão ou criança muito sonolenta e difícil de despertar.",
+          "Procure atendimento urgente se a criança não consegue beber, vomita tudo, urina muito pouco, fica com boca muito seca, olhos fundos ou fraqueza importante, pois pode haver desidratação ou infecção grave.",
+          "Vá ao pronto atendimento se não conseguir urinar, houver sangue visível ou coágulos na urina, dor abdominal ou lombar intensa, jato muito fraco com barriga distendida, ou piora apesar do antibiótico prescrito."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o retorno com pediatria, nefrologia pediátrica ou urologia pediátrica na data combinada, mesmo sem sintomas. Grau I costuma permitir observação, mas o plano depende de como os rins estão, de infecções anteriores e do funcionamento da bexiga e do intestino.",
+          "Procure avaliação no mesmo dia se houver febre sem foco claro, ardor ao urinar, aumento da frequência, urgência, dor abdominal ou lombar, vômitos, novo escape de urina ou urina com sangue. A equipe decide a forma correta de coletar urina; cultura confirma ITU e evita tratar apenas pelo cheiro.",
+          "Antecipe o retorno após qualquer ITU febril confirmada, infecções repetidas, internação, piora do jato, retenção, constipação persistente, nova incontinência, pressão alta, crescimento insuficiente ou alteração de ultrassom, função renal ou cintilografia.",
+          "Ultrassom acompanha anatomia e crescimento dos rins, a uretrocistografia pode documentar refluxo e a cintilografia pode avaliar cicatriz em situações selecionadas. O intervalo e a necessidade de repetir cada exame devem ser individualizados; ultrassom normal sozinho não confirma que o refluxo desapareceu.",
+          "Não há necessidade de corrigir cirurgicamente todo refluxo persistente de baixo grau. Se ocorrer pielonefrite durante observação ou profilaxia, aparecer dano renal ou houver dificuldade importante de esvaziamento da bexiga, a equipe deve rever risco, prevenção, exames e opções de tratamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "RVU pode ter sido identificado após ultrassom pré-natal ou ITU. Nessa idade, infecção pode aparecer apenas como temperatura de 38 °C ou mais ou baixa, recusa alimentar, vômitos, irritabilidade, icterícia persistente, sonolência ou piora geral; procure atendimento imediato e não espere ardor ao urinar. Mantenha leite materno/fórmula e não ofereça água ou chá por conta própria.",
+        "3a5m": "Febre sem foco, mamadas menores, vômitos, irritabilidade, prostração ou menos fraldas molhadas justificam avaliação rápida de urina. Confirme com a equipe se há profilaxia prescrita e como proceder após vômito ou esquecimento; não inicie antibiótico guardado em casa.",
+        "6a11m": "Observe febre sem causa clara, recusa de leite ou alimentos, vômitos, choro ao urinar e redução de urina. Troque fraldas sujas sem demora, mantenha alimentação e líquidos próprios da idade e trate constipação conforme orientação; não force água em excesso.",
+        "1a": "A criança ainda pode não localizar a dor: febre, irritabilidade, vômitos, dor abdominal, mudança no padrão de urina ou regressão no controle merecem avaliação. Não apresse desfralde nem incentive segurar urina; informe constipação e escapes no retorno.",
+        "2a5": "No desfralde, ofereça banheiro sem pressão e em horários regulares, apoie os pés e dê tempo para esvaziar bexiga e intestino. Ardor, urgência, idas muito frequentes, novo escape, febre, dor abdominal ou urina com sangue pedem avaliação; febre com dor no lado ou costas e vômitos é urgência.",
+        "6a11": "Combine acesso ao banheiro na escola, sem punição ou vergonha, e evite que a criança segure urina por longos períodos. Pergunte sobre constipação, escapes, retorno de xixi na cama, dor ao urinar e dor lombar; febre com dor lombar ou vômitos exige atendimento no mesmo dia.",
+        "12a17": "Inclua o adolescente nas decisões e preserve privacidade. Revise adesão, constipação, hábitos miccionais e, quando pertinente e com confidencialidade, atividade sexual e possibilidade de gravidez, pois mudam a investigação e a segurança dos medicamentos. Febre com dor lombar, calafrios ou vômitos continua sendo urgência.",
+        "unknown": "Antes de personalizar, confirmar idade, sexo anatômico quando relevante ao trato urinário, se o RVU é primário ou secundário, unilateral ou bilateral, motivo e data do diagnóstico, histórico de ITU febril e culturas, condição dos rins, ultrassom/cintilografia, funcionamento da bexiga e intestino e medicamentos atuais. Até isso ser esclarecido, aplicar os sinais de alarme e não presumir profilaxia ou alta."
+      },
+      "refs": [
+        {
+          "id": "pais126_op51_1",
+          "name": "EAU Guidelines on Paediatric Urology: Vesicoureteric Reflux",
+          "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/vesicoureteric-reflux"
+        },
+        {
+          "id": "pais126_op51_2",
+          "name": "Vesicoureteral Reflux (VUR)",
+          "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/hydronephrosis-newborns/vesicoureteral-reflux"
+        },
+        {
+          "id": "pais126_op51_3",
+          "name": "Vesicoureteral Reflux (VUR) in Infants & Children",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/genitourinary-tract/Pages/Vesicoureteral-Reflux-in-Infants-Young-Children.aspx"
+        },
+        {
+          "id": "pais126_op51_4",
+          "name": "Infecção do Trato Urinário em Pediatria – Existe consenso entre os consensos? – Atualização 2021",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23183d-DC_Infec_TratoUrinario_Pediatria-Atualiz2021.pdf"
+        },
+        {
+          "id": "pais126_op51_5",
+          "name": "Disfunção Vesical e Intestinal",
+          "url": "https://www.sbp.com.br/pediatria-para-familias/doencas/disfuncao-vesical-e-intestinal/"
+        },
+        {
+          "id": "pais126_op51_6",
+          "name": "Antimicrobial Prophylaxis for Children with Vesicoureteral Reflux",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4137319/"
+        },
+        {
+          "id": "pais126_op51_7",
+          "name": "Urinary tract infection in under 16s: diagnosis and management – Recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1276",
+      "label": "Refluxo vesicoureteral grau I bilateral",
+      "entity": "Refluxo vesicoureteral pediátrico primário, grau I, bilateral",
+      "assessment": "{\"classification\":\"VALID_ANATOMICAL_QUALIFIER_NOT_DISTINCT_ENTITY\",\"normalized_entity\":\"Refluxo vesicoureteral primário de baixo grau (grau I), bilateral\",\"assessment\":\"O termo-base é válido. Refluxo vesicoureteral é a passagem retrógrada de urina da bexiga para um ou ambos os ureteres. Grau I descreve refluxo de baixo grau e 'bilateral' apenas informa acometimento dos dois lados; não é uma doença separada. A lateralidade participa da avaliação de risco e do plano de seguimento, sobretudo quando há infecção urinária febril de repetição, alteração do parênquima renal, disfunção vesical/intestinal ou crescimento inadequado, mas bilateralidade isolada em grau I não prova cicatriz renal, insuficiência renal nem necessidade de cirurgia ou profilaxia antibiótica.\",\"not_automatically_equivalent_to\":[\"Refluxo vesicoureteral de alto grau\",\"Doença renal bilateral, cicatriz renal ou função renal reduzida\",\"Infecção urinária ou pielonefrite ativa\",\"Indicação automática de antibiótico preventivo\",\"Indicação automática de cirurgia ou correção endoscópica\"],\"counting_rule\":\"Pode compartilhar a entidade clínica do refluxo vesicoureteral de baixo grau, preservando este ID, o grau I e o qualificador bilateral. Contar como orientação específica para este registro somente se o texto explicar a bilateralidade, evitar superestimar gravidade e individualizar prevenção e seguimento pelo risco de infecção urinária e pelos achados renais e vesicais.\",\"pediatric_scope\":\"Aplica-se a lactentes, crianças e adolescentes com diagnóstico documentado de refluxo vesicoureteral grau I nos dois lados. Em crianças ainda sem controle esfincteriano, febre sem foco e sinais inespecíficos podem ser a primeira manifestação de infecção urinária. Após o desfralde, retenção de urina, urgência, escapes, jato alterado e constipação precisam ser investigados.\",\"reason_for_specific\":\"A bilateralidade não muda os cuidados domésticos básicos do refluxo de baixo grau, porém deve permanecer explícita porque participa da decisão sobre exames e seguimento. O texto também precisa impedir que a família interprete 'bilateral' como dano renal certo ou use antibiótico preventivo sem indicação individual.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Refluxo vesicoureteral significa que parte da urina pode voltar da bexiga para os ureteres. Grau I é um grau baixo; 'bilateral' quer dizer que isso ocorre dos dois lados. Isso não significa, por si só, que os rins estejam machucados ou que a criança precise de cirurgia.",
+          "Muitas crianças com refluxo de baixo grau melhoram conforme crescem. O principal cuidado é reconhecer cedo uma possível infecção urinária, porque febre associada a infecção pode atingir os rins. Refluxo sozinho geralmente não causa sintomas específicos.",
+          "Meça e anote a temperatura quando a criança parecer doente. Em bebê, observe também recusa alimentar, irritabilidade, sonolência, vômitos, pouco ganho de peso ou febre sem foco. Em maiores, observe ardor para urinar, aumento da frequência, escapes novos, urina com odor diferente, dor abdominal ou nas costas.",
+          "Se a equipe pedir exame de urina durante febre ou sintomas, procure o serviço sem atraso e siga a técnica de coleta indicada. Não colha urina de saco em casa para confirmar infecção sem orientação e não comece antibiótico guardado antes da coleta, salvo instrução expressa da equipe para aquela situação.",
+          "O refluxo vesicoureteral não é contagioso. A criança pode frequentar escola ou creche quando estiver bem, com acesso livre ao banheiro, água e troca de roupa se necessário; febre ou mal-estar exigem ficar em casa e ser avaliado conforme o plano clínico."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Após o desfralde, incentive idas regulares ao banheiro, sem segurar urina por longos períodos e sem pressa para esvaziar a bexiga. Não puna escapes ou urgência; esses sinais podem fazer parte de disfunção da bexiga e precisam ser relatados.",
+          "Previna e trate constipação conforme orientação: acompanhe frequência, dor, fezes endurecidas e escapes fecais. Intestino preso pode dificultar o esvaziamento da bexiga e aumentar o risco de infecção urinária.",
+          "Mantenha higiene genital suave, sem duchas, talcos, perfumes ou produtos irritantes. Ensine limpeza da frente para trás quando aplicável e troque roupa molhada; esses cuidados não substituem avaliação de febre nem garantem prevenção total de infecção.",
+          "Leve aos retornos laudos anteriores de ultrassom, cistografia, exames de urina e culturas. Não repita exames de imagem por conta própria: o tipo e o intervalo dependem da idade, evolução, infecções, pressão arterial, crescimento e achados renais.",
+          "Bilateralidade isolada em grau I não exige restrição de brincadeiras, esporte ou convívio. Atividade só precisa ser adaptada se houver infecção, dor, mal-estar ou outra orientação médica específica."
+        ],
+        "MEDICAMENTOS": [
+          "Não dê antibiótico preventivo por conta própria. Em refluxo de baixo grau, a decisão de usar ou não profilaxia é individual e considera idade, infecções urinárias febris anteriores, função da bexiga e do intestino, achados renais e possibilidade de acesso rápido ao atendimento.",
+          "Se já foi prescrito antibiótico preventivo, use exatamente a apresentação, concentração, horário e duração da receita atual. Não interrompa, aumente, reduza, dobre após esquecimento nem troque por sobra de outro tratamento sem falar com a equipe.",
+          "Antibiótico preventivo não trata sozinho uma infecção que apareceu durante o uso. Febre ou sintomas urinários precisam de avaliação e, quando indicado, exame e cultura de urina; não ofereça dose extra do preventivo.",
+          "Se houver infecção confirmada, complete o antibiótico prescrito para aquele episódio e compareça à reavaliação. A cultura pode levar a equipe a trocar o medicamento; não use receitas antigas ou antibiótico de outra pessoa.",
+          "Informe alergias, reações, vômitos que impeçam o uso e todos os medicamentos em uso. Nenhuma dose ou duração universal é segura apenas pelo rótulo 'grau I bilateral'."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça líquidos adequados à idade ao longo do dia, sem forçar grandes volumes. Aleitamento, fórmula e alimentação habitual devem continuar conforme orientação; nenhuma bebida 'lava os rins' ou corrige o refluxo.",
+          "Não faça dieta especial, corte sal, proteína, leite ou outros alimentos apenas por causa do refluxo grau I. Restrições só são necessárias se houver outra condição renal ou recomendação individual da equipe.",
+          "Para ajudar o intestino, ofereça alimentação variada com fibras adequadas à idade e rotina de líquidos. Se a constipação persistir, causar dor ou escapes, procure orientação em vez de usar laxantes, chás ou enemas por conta própria.",
+          "Durante febre ou vômitos, ofereça pequenas quantidades de líquido com frequência se a criança estiver alerta e conseguir engolir. Recusa persistente, vômitos repetidos, boca seca, ausência de lágrimas ou pouca urina exigem avaliação urgente."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bebê com menos de 3 meses e temperatura de 38 °C ou mais deve ser avaliado imediatamente, mesmo que pareça bem. Temperatura baixa anormal, dificuldade para mamar, sonolência excessiva ou irritabilidade intensa nessa idade também exigem avaliação urgente.",
+          "Procure atendimento imediato se houver febre com dor nas costas ou no lado do abdome, calafrios, vômitos repetidos, prostração ou criança muito abatida; esses sinais podem indicar infecção atingindo os rins.",
+          "Vá imediatamente se a criança estiver difícil de acordar, confusa, com respiração rápida ou difícil, pele muito pálida ou manchada, lábios arroxeados, convulsão ou piora rápida. Chame o serviço de emergência se o transporte não for seguro.",
+          "Procure atendimento urgente se houver pouca ou nenhuma urina, incapacidade de beber, sinais de desidratação, dor intensa, sangue visível na urina ou inchaço novo.",
+          "Febre ou infecção urinária durante antibiótico preventivo precisa de avaliação no mesmo dia. Não espere a consulta programada, não dê dose extra e leve o nome do medicamento, a receita e os resultados de culturas anteriores."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha o acompanhamento indicado pela pediatria, nefrologia ou urologia pediátrica. O plano pode incluir crescimento, pressão arterial, exame de urina, ultrassom renal e de bexiga e, em situações selecionadas, nova cistografia; os intervalos são individualizados.",
+          "Procure avaliação no mesmo dia diante de febre sem foco, ardor para urinar, urgência ou frequência novas, escapes depois de já ter controle, dor abdominal ou nas costas, urina com sangue ou piora do estado geral. Em lactentes, sintomas podem ser apenas febre, recusa alimentar, vômitos ou irritabilidade.",
+          "Antecipe o retorno após qualquer infecção urinária febril, infecção de repetição ou infecção durante profilaxia. A equipe deve rever culturas, adesão, função vesical e intestinal, achados renais e se o plano continua adequado.",
+          "Relate constipação, retenção de urina, jato fraco ou entrecortado, esforço para urinar, urgência e escapes. Tratar disfunção da bexiga e do intestino reduz risco de recorrência de infecção e pode favorecer a evolução do refluxo.",
+          "Bilateralidade pode influenciar o seguimento, mas não define sozinha a gravidade. O acompanhamento é encurtado ou ampliado conforme infecções, cicatrizes ou alterações renais, crescimento e pressão arterial; não interrompa o seguimento apenas porque a criança está sem sintomas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Refluxo pode ter sido identificado em ultrassom pré-natal ou após infecção. Qualquer temperatura de 38 °C ou mais, temperatura baixa anormal, recusa para mamar, vômitos, irritabilidade, sonolência ou pouca urina exige avaliação imediata; não espere ardor para urinar.",
+        "3a5m": "Febre sem foco, recusa alimentar, vômitos, irritabilidade, prostração ou baixo ganho de peso podem ser sinais de infecção urinária. Procure avaliação no mesmo dia e siga a orientação para coleta adequada de urina antes de iniciar antibiótico, quando for seguro fazê-lo.",
+        "6a11m": "Observe febre, vômitos, choro ao urinar, mudança do padrão de urina, irritabilidade e ingestão menor. Não force líquidos e não use antibiótico restante; febre com prostração, dor aparente nas costas ou vômitos repetidos é urgência.",
+        "1a": "A criança pode não localizar a dor. Febre sem foco, choro ao urinar, urina frequente, odor diferente, vômitos ou dor abdominal precisam de avaliação. Comece rotina tranquila de banheiro apenas quando houver sinais de prontidão e cuide da constipação.",
+        "2a5": "Durante e depois do desfralde, valorize retenção de urina, urgência, escapes, esforço, jato alterado e constipação sem punir a criança. Febre com dor abdominal ou nas costas e vômitos pode indicar pielonefrite e requer atendimento rápido.",
+        "6a11": "Garanta acesso ao banheiro e à água na escola. Pergunte sobre segurar urina, ardor, urgência, escapes e evacuação; vergonha pode ocultar sintomas. Febre com dor lombar, calafrios, vômitos ou abatimento precisa de avaliação imediata.",
+        "12a17": "Inclua o adolescente nas decisões e preserve privacidade ao investigar hábitos urinários, constipação e sintomas genitais ou sexuais que possam confundir o quadro. Não abandone seguimento ou profilaxia prescrita sem revisão; febre com dor lombar e mal-estar exige atendimento rápido.",
+        "unknown": "Confirmar idade, como o diagnóstico foi feito, infecções urinárias febris anteriores, culturas, achados renais, controle esfincteriano, sintomas da bexiga e intestino e uso atual de profilaxia. Sem esses dados, não definir antibiótico, intervalo de exames ou necessidade de procedimento; aplicar imediatamente os sinais de alarme."
+      },
+      "refs": [
+        {
+          "id": "pais126_op53_1",
+          "name": "EAU Guidelines on Paediatric Urology: Vesicoureteric reflux",
+          "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/vesicoureteric-reflux"
+        },
+        {
+          "id": "pais126_op53_2",
+          "name": "Vesicoureteral Reflux Guideline",
+          "url": "https://www.auanet.org/guidelines-and-quality/guidelines/vesicoureteral-reflux-topics"
+        },
+        {
+          "id": "pais126_op53_3",
+          "name": "Vesicoureteral Reflux (VUR)",
+          "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/hydronephrosis-newborns/vesicoureteral-reflux"
+        },
+        {
+          "id": "pais126_op53_4",
+          "name": "Vesicoureteral Reflux in Infants & Young Children",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/genitourinary-tract/Pages/Vesicoureteral-Reflux-in-Infants-Young-Children.aspx"
+        },
+        {
+          "id": "pais126_op53_5",
+          "name": "Clinical Practice Guidelines: Urinary tract infection",
+          "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urinary_tract_infection/"
+        },
+        {
+          "id": "pais126_op53_6",
+          "name": "Antimicrobial Prophylaxis for Children with Vesicoureteral Reflux",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24795142/"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

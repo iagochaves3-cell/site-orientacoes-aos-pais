@@ -1,0 +1,402 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "created_at": "2026-10-25T09:04:33.132Z",
+  "records": [
+    {
+      "key": "pdf1500_1393",
+      "label": "Síndrome de Hyper-IgE",
+      "entity": "Síndromes de hiper-IgE (HIES), grupo de erros inatos da imunidade que inclui STAT3-LOF e deficiência de DOCK8",
+      "assessment": "{\"classification\":\"VALID_UMBRELLA_TERM_REQUIRES_MOLECULAR_SUBTYPE\",\"normalized_entity\":\"Síndromes de hiper-IgE (HIES)\",\"assessment\":\"O rótulo identifica um grupo clínico válido, não uma doença única. As formas mais conhecidas por perda de função de STAT3 e deficiência de DOCK8 compartilham eczema, infecções recorrentes e IgE elevada, mas diferem em herança, alergias, infecções virais, alterações dentárias/ósseas, prognóstico e indicação de transplante. IgE alta isolada não confirma HIES; história, exame, imunologia e teste genético definem a entidade e o plano.\",\"not_automatically_equivalent_to\":[\"IgE elevada isolada, eczema grave, asma, alergia alimentar ou eosinofilia\",\"Toda infecção de pele, abscesso, sinusite ou pneumonia recorrente\",\"Síndrome de Job/STAT3-LOF e deficiência de DOCK8 como se fossem a mesma doença\",\"Autorização para antibiótico, antifúngico, antiviral, imunoglobulina ou vacina sem plano individual\",\"Confirmação do subtipo, gravidade ou indicação de transplante apenas pelo nome do cadastro\"],\"counting_rule\":\"Contar como uma orientação específica de nível sindrômico para o grupo HIES. Não contar como validação separada de STAT3-LOF, DOCK8 ou outras causas genéticas e não extrapolar condutas próprias de um subtipo para os demais.\",\"pediatric_scope\":\"Recém-nascidos, lactentes, crianças e adolescentes com HIES suspeita ou confirmada. A apresentação e os riscos mudam com idade, subtipo molecular, infecções anteriores, doença pulmonar, alergias, alterações ósseas/dentárias, resposta vacinal e tratamento atual.\",\"reason_for_specific\":\"O grupo tem riscos próprios de infecções cutâneas e respiratórias, eczema, complicações pulmonares e necessidade de imunologia especializada; a ficha preserva as diferenças entre subtipos e não transforma IgE elevada em diagnóstico.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "As síndromes de hiper-IgE são doenças genéticas raras do sistema imunológico. Podem causar eczema, abscessos, candidíase e infecções repetidas de ouvido, seios da face e pulmões. O subtipo importa: STAT3-LOF pode afetar pulmões, dentes, ossos e articulações; DOCK8 costuma causar infecções virais de pele e alergias mais intensas.",
+          "Mantenha à mão o nome do gene/subtipo, contato da imunologia, alergias, medicamentos preventivos, resultados de culturas, histórico de pneumonias, doença pulmonar e plano para febre ou reação alérgica. IgE alta sozinha não define o diagnóstico nem o tratamento.",
+          "Procure orientação da equipe cedo quando surgirem tosse nova, febre, falta de ar, ferida com pus, abscesso, candidíase, herpes, molusco ou verrugas que se espalham. Na forma STAT3, uma infecção importante pode causar pouca febre, dor ou vermelhidão; aparência relativamente boa não exclui gravidade.",
+          "Observe diariamente a pele durante crises de eczema. Não esprema abscessos, não fure bolhas e não corte verrugas. Cubra áreas abertas com o curativo indicado, lave as mãos antes e depois do cuidado e não compartilhe toalhas, lâminas ou produtos que tocam a pele.",
+          "A condição genética não é contagiosa. Uma infecção associada pode exigir afastamento e precauções próprias; escola e creche devem seguir o plano da equipe, sem isolamento permanente ou exclusão automática.",
+          "Se houver alergia alimentar ou risco de anafilaxia, siga o plano escrito e mantenha o medicamento de resgate prescrito acessível. Não teste novamente um alimento que já causou reação importante sem orientação especializada."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Faça higiene suave da pele, banho morno e hidratação com produto sem perfume conforme dermatologia. Banho com antisséptico ou solução diluída só deve ser preparado se a equipe fornecer produto, concentração, tempo e frequência por escrito; mistura errada pode irritar ou queimar.",
+          "Mantenha unhas curtas e reduza coçar, calor, suor excessivo, fumaça e produtos perfumados. Procure a equipe se o eczema formar crostas, pus, dor, calor, mau cheiro ou piorar rapidamente.",
+          "Quando houver bronquiectasia ou outra lesão pulmonar, faça fisioterapia respiratória e limpeza das vias aéreas somente com técnica ensinada. Em STAT3-LOF, ossos e costelas podem ser frágeis; não improvise coletes, percussão forte ou exercícios de impacto.",
+          "Mantenha consultas odontológicas e informe a síndrome. Na forma STAT3, dentes de leite podem permanecer quando os permanentes começam a nascer; não tente arrancá-los em casa. Observe também dor após trauma leve, postura assimétrica e progressão de escoliose.",
+          "Combine com a escola um plano de infecção, alergia e emergência. Incentive atividade, aprendizagem e convívio compatíveis com o estado clínico, sem impedir participação apenas pelo diagnóstico.",
+          "Evite tabaco e vape no ambiente. Medidas especiais contra fungos ambientais ou água não tratada dependem do subtipo, da região e do histórico; siga recomendações individualizadas em vez de impor restrições amplas por conta própria."
+        ],
+        "MEDICAMENTOS": [
+          "Algumas crianças usam antimicrobiano preventivo para reduzir infecções bacterianas; outras precisam de antifúngico, antiviral ou reposição de imunoglobulina conforme subtipo, culturas, resposta a vacinas e dano pulmonar. Use apenas o esquema prescrito e não inicie, troque, compartilhe ou suspenda por conta própria.",
+          "Infecções novas precisam de avaliação e, quando possível, cultura ou outro teste para escolher o tratamento. Não use sobra de antibiótico nem pomada isolada em abscesso profundo; a equipe decide se é necessário drenar e qual medicamento alcança o local.",
+          "Use cremes, corticoides tópicos, imunomoduladores e antialérgicos somente no local e pelo tempo prescritos. Piora do eczema pode ser inflamação, infecção ou ambos; aumentar o remédio sem exame pode mascarar complicações.",
+          "O calendário de vacinas deve ser revisto pela imunologia. Pessoas com diferentes formas de HIES podem ter segurança e resposta vacinal diferentes; não aplicar nem cancelar vacina viva apenas com base no rótulo genérico.",
+          "Se adrenalina autoinjetável foi prescrita, responsáveis, adolescente e escola devem saber quando e como usar e acionar emergência depois. Antialérgico não substitui adrenalina em anafilaxia.",
+          "Transplante de células-tronco hematopoéticas é geralmente considerado para deficiência de DOCK8 e pode ser discutido em casos selecionados de STAT3-LOF grave. É decisão de centro especializado após confirmação molecular e avaliação de riscos; não é tratamento igual para todo HIES."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não existe dieta que diminua IgE ou cure HIES. Mantenha alimentação variada adequada à idade e ao crescimento, salvo alergia comprovada ou plano da equipe.",
+          "Alergia alimentar e anafilaxia são especialmente relevantes em deficiência de DOCK8. Evite somente alimentos identificados no plano; retirar muitos grupos sem nutricionista pode causar deficiência e piorar o crescimento.",
+          "Durante febre ou infecção, ofereça líquidos em pequenos volumes frequentes se a criança estiver alerta e engolindo bem. Pouca urina, boca seca, vômitos repetidos ou incapacidade de beber exigem avaliação urgente.",
+          "Em bebês, mantenha leite materno e/ou fórmula habitual; não dilua fórmula e não troque mamadas por água, chá ou suco. Dificuldade para mamar, cansaço, suor ou baixo ganho de peso precisam de reavaliação.",
+          "Algumas pessoas com DOCK8 recebem orientação específica sobre água filtrada ou engarrafada por risco de Cryptosporidium. Só aplique essa medida se a imunologia definir a necessidade e o método seguro para a família.",
+          "Registre peso, altura e, em adolescentes, perda de peso involuntária. Diarreia persistente, dor para engolir, candidíase oral, alergias múltiplas ou crescimento insuficiente justificam avaliação nutricional e investigação da causa."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência se houver falta de ar importante, lábios arroxeados, respiração muito rápida ou com esforço, desmaio, confusão, convulsão, tosse com sangue ou dor forte no peito.",
+          "Procure atendimento imediato diante de febre ou temperatura baixa com prostração, tremores, mãos frias, coração muito acelerado, pouca urina ou piora rápida. Na forma STAT3, sinais inflamatórios podem ser discretos; não espere febre alta ou vermelhidão intensa.",
+          "Use o plano de anafilaxia e acione emergência se surgir dificuldade para respirar, inchaço de língua ou garganta, voz alterada, desmaio ou reação em mais de um sistema após alimento, medicamento ou picada.",
+          "Vá imediatamente se uma lesão de pele crescer rápido, ficar muito dolorosa, escura, quente ou inchada, liberar muito pus, atingir olhos/face, ou vier com bolhas extensas ou aparência muito doente.",
+          "Procure emergência se a criança não consegue beber, vomita tudo, urina muito pouco, fica difícil de acordar ou apresenta rigidez de nuca, dor de cabeça súbita intensa, fraqueza de um lado ou alteração nova da fala/visão.",
+          "Bebê menor de 3 meses com temperatura de 38 °C ou mais, temperatura anormalmente baixa, recusa de mamadas, dificuldade respiratória, sonolência incomum ou lesão com pus precisa de avaliação imediata."
+        ],
+        "QUANDO REAVALIAR": [
+          "Entre em contato no mesmo dia com a equipe diante de tosse nova, febre, piora do eczema, pus, candidíase, herpes, molusco, verrugas em expansão ou outro sinal de infecção, mesmo que a criança pareça bem. Siga prazo ainda menor se houver plano individual.",
+          "Reavalie antes do retorno se o tratamento iniciado não produzir a melhora esperada, se surgir nova lesão, dificuldade para tomar o medicamento, reação adversa ou qualquer piora; não dobre dose nem troque o antimicrobiano em casa.",
+          "Mantenha seguimento regular com imunologia. Conforme o subtipo e as complicações, podem ser necessários pneumologia, dermatologia, infectologia, alergia, odontologia, ortopedia, genética, nutrição e equipe de transplante.",
+          "Na forma STAT3, monitore dentes permanentes, escoliose, fraturas após trauma leve e pulmões ao longo da infância e adolescência. Tosse produtiva persistente, queda de fôlego ou pneumonias repetidas exigem avaliação pulmonar antecipada.",
+          "Na deficiência de DOCK8, antecipe retorno por infecções virais de pele persistentes, alergia importante, asma descontrolada, diarreia prolongada, linfonodo que cresce, perda de peso ou suor noturno; não espere a consulta anual.",
+          "Revise vacinas, plano da escola, receita de emergência, crescimento e apoio emocional em cada fase. Na adolescência, prepare transição para cuidado adulto e confirme que o jovem sabe reconhecer infecção e anafilaxia sem esconder sintomas."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Rash no recém-nascido pode ser manifestação inicial, mas não confirma HIES. Febre de 38 °C ou mais, temperatura baixa, recusa de mamadas, respiração difícil, pouca urina, sonolência ou lesão com pus exigem emergência; IgE pode ainda não estar elevada.",
+        "3a5m": "Observe mamadas, fraldas, respiração, eczema, candidíase e infecção de pele. Não atribua prostração ou dificuldade para mamar apenas ao eczema e não faça banhos antissépticos sem receita detalhada.",
+        "6a11m": "Infecções recorrentes, eczema e reações alimentares precisam ser registradas para a imunologia. Introdução alimentar e vacina devem seguir plano individual; reação com falta de ar, inchaço ou desmaio é emergência.",
+        "1a": "Criança pequena pode não localizar dor nem falta de ar. Mudança no brincar, recusa de colo por dor, tosse nova, respiração rápida, ferida com pus ou menos fraldas molhadas justificam avaliação precoce.",
+        "2a5": "Registre pneumonias, abscessos, candidíase e infecções virais de pele. Garanta plano para escola/creche e alergia; não espere febre alta para procurar a equipe, sobretudo se o subtipo for STAT3-LOF.",
+        "6a11": "Além de pele e pulmões, acompanhe erupção dos dentes permanentes, postura, escoliose e fratura após trauma leve na forma STAT3. Incentive participação escolar com plano de segurança, sem estigma ou isolamento desnecessário.",
+        "12a17": "Ensine o adolescente a não esconder febre, tosse, feridas, reação alérgica ou falha de doses. Revise pulmões, pele, dentes, ossos, vacinas e transição; perda de peso, linfonodo crescente ou infecções virais persistentes exigem retorno antecipado.",
+        "unknown": "Antes de personalizar, confirme idade, gene/subtipo, imunofenótipo, infecções e culturas prévias, doença pulmonar, alergias/anafilaxia, vacinas, alterações dentárias/ósseas, medicamentos preventivos e plano de transplante."
+      },
+      "refs": [
+        {
+          "id": "pais141_op168_1",
+          "name": "Hyper IgE syndrome",
+          "url": "https://primaryimmune.org/understanding-primary-immunodeficiency/types-of-pi/hyper-ige-syndrome"
+        },
+        {
+          "id": "pais141_op168_2",
+          "name": "How I Treat: STAT3 hyper IgE syndrome",
+          "url": "https://rupress.org/jhi/article/2/4/e20260038/282644/How-I-Treat-STAT3-hyper-IgE-syndromeHow-I-Treat"
+        },
+        {
+          "id": "pais141_op168_3",
+          "name": "STAT3 Hyper IgE Syndrome — GeneReviews",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK25507/"
+        },
+        {
+          "id": "pais141_op168_4",
+          "name": "Vaccines",
+          "url": "https://primaryimmune.org/living-primary-immunodeficiency/nurturing-your-health/vaccines"
+        },
+        {
+          "id": "pais141_op168_5",
+          "name": "Hematopoietic cell transplantation for DOCK8 deficiency: Results from a prospective clinical trial",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39233015/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1394",
+      "label": "Síndrome de Klinefelter (47,XXY)",
+      "entity": "Síndrome de Klinefelter por cariótipo 47,XXY, condição cromossômica associada a insuficiência testicular variável e maior frequência de necessidades de linguagem, aprendizagem, desenvolvimento e saúde metabólica e óssea",
+      "assessment": "{\"classification\":\"VALID_CHROMOSOMAL_CLINICAL_ENTITY\",\"normalized_entity\":\"Síndrome de Klinefelter, cariótipo 47,XXY\",\"assessment\":\"O termo é válido. A presença de um cromossomo X adicional é confirmada por análise cromossômica, geralmente cariótipo 47,XXY. As manifestações variam muito: algumas pessoas têm poucos sinais; outras apresentam hipotonia, atraso de fala ou motor, dificuldades escolares, testículos pequenos, produção reduzida de testosterona, puberdade incompleta, ginecomastia ou infertilidade. O diagnóstico não define sozinho identidade de gênero, capacidade intelectual, necessidade de hormônio ou prognóstico individual.\",\"not_automatically_equivalent_to\":[\"Mosaicismo 46,XY/47,XXY ou outras aneuploidias, como 48,XXYY, 48,XXXY e 49,XXXXY\",\"Deficiência intelectual, autismo, TDAH, depressão ou transtorno de aprendizagem confirmados\",\"Atraso puberal ou hipogonadismo que exige testosterona sem avaliação clínica e hormonal\",\"Infertilidade absoluta ou impossibilidade de parentalidade biológica\",\"Identidade de gênero, orientação sexual ou necessidade de tratamento definida pelo cariótipo\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de Klinefelter 47,XXY. Não contar como cobertura específica de mosaicismo, outras aneuploidias, atraso puberal, hipogonadismo, ginecomastia, infertilidade, transtorno de aprendizagem, condição de saúde mental, trombose ou doença metabólica sem avaliação própria.\",\"pediatric_scope\":\"Abrange bebês com diagnóstico pré-natal ou neonatal, crianças em vigilância do desenvolvimento e da aprendizagem e adolescentes em acompanhamento puberal, endócrino, psicossocial e reprodutivo. O plano depende do cariótipo, anatomia genital, descida testicular, desenvolvimento, crescimento, puberdade, exames hormonais, saúde óssea, fatores metabólicos, preferências e maturidade da pessoa.\",\"reason_for_specific\":\"É uma condição cromossômica reconhecida, com vigilância pediátrica, de desenvolvimento, escolar, puberal, endócrina e reprodutiva próprias, sem justificar tratamento hormonal universal.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Klinefelter acontece quando existe um cromossomo X adicional, geralmente 47,XXY. Costuma resultar de um evento ao acaso na formação do óvulo ou do espermatozoide; não é causada por algo que a família fez e, em geral, não é herdada.",
+          "Os sinais variam muito e podem ser discretos. O cariótipo confirma a alteração cromossômica, mas não prevê sozinho fala, aprendizagem, puberdade, fertilidade, comportamento, identidade de gênero ou qualidade de vida da criança.",
+          "Guarde o resultado do cariótipo e os relatórios de genética, pediatria, endocrinologia, desenvolvimento, fonoaudiologia e escola. Leve a lista de tratamentos e exames às consultas; não transforme uma característica possível em diagnóstico confirmado.",
+          "Observe progressos de movimento, fala, comunicação, leitura, escrita, atenção, relações sociais e humor. Procure avaliação cedo se houver atraso, regressão, sofrimento emocional ou queda escolar; apoio iniciado quando surge a necessidade é mais útil do que esperar a criança fracassar.",
+          "Durante o crescimento, acompanhe descida e aspecto dos testículos com o profissional, evolução da puberdade, energia, força, composição corporal e desenvolvimento das mamas. Não compare o corpo com o de colegas nem faça medições íntimas repetidas em casa.",
+          "A condição não é contagiosa e não exige afastamento da creche ou escola. Preserve privacidade e dignidade: compartilhe apenas as informações necessárias para segurança e apoio, escute como a pessoa prefere ser chamada e não use o cariótipo para impor identidade ou expectativas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha seguimento com pediatria e genética; endocrinologia pediátrica participa especialmente antes e durante a puberdade. Urologia, fonoaudiologia, fisioterapia, terapia ocupacional, psicologia ou reprodução humana são incluídas conforme os achados, não automaticamente para todos.",
+          "Estimule conversa, leitura, brincadeiras motoras e participação social adequadas à idade. Se houver hipotonia, atraso de fala, coordenação ou linguagem, solicite avaliação e intervenção precoce em vez de atribuir tudo ao diagnóstico.",
+          "Na escola, peça avaliação objetiva de leitura, escrita, linguagem, atenção, memória e organização quando houver dificuldade. Combine apoio individual, instruções em etapas, tempo adequado e acompanhamento sem reduzir expectativas nem expor o diagnóstico à turma sem consentimento.",
+          "Incentive atividade física regular, exercícios com sustentação do peso e fortalecimento apropriado à idade, sono suficiente e menos tempo sedentário. Essas medidas apoiam músculos, ossos, humor e saúde metabólica; a intensidade deve respeitar outras condições clínicas.",
+          "Cuide da saúde emocional e da imagem corporal. Conversas sobre puberdade, mamas, fertilidade, sexualidade e identidade devem ser francas, privadas, respeitosas e compatíveis com a maturidade do adolescente; ofereça apoio psicológico se houver ansiedade, isolamento, bullying ou baixa autoestima.",
+          "Não faça criopreservação de tecido testicular, biópsia, exame de fertilidade ou procedimento íntimo em criança apenas por ansiedade. Essas decisões exigem indicação especializada, consentimento apropriado e participação do adolescente quando tiver maturidade."
+        ],
+        "MEDICAMENTOS": [
+          "Nenhum medicamento remove o cromossomo X adicional. Remédios tratam necessidades documentadas, como hipogonadismo, deficiência específica ou condição associada; não existe receita única para todas as pessoas com 47,XXY.",
+          "Testosterona não deve ser iniciada automaticamente só pelo cariótipo. Na adolescência, endocrinologia avalia crescimento, estágio puberal, sintomas e exames hormonais e conversa sobre fertilidade antes de indicar ou ajustar tratamento.",
+          "Não ofereça testosterona de rotina a bebês ou crianças antes da puberdade. Exceções, como algumas situações de micropênis, dependem de avaliação especializada; não use produto manipulado, gel de outra pessoa, injeção ou suplemento por conta própria.",
+          "Se houver prescrição hormonal, use apenas a apresentação e o esquema registrados e compare receita, rótulo e orientação. Não antecipe, interrompa, dobre nem altere a dose; compareça às avaliações clínicas e laboratoriais solicitadas para benefício e segurança.",
+          "Não use anabolizantes, produtos para aumentar testosterona, vitaminas em megadose, fitoterápicos ou suplementos para ganhar músculo, acelerar puberdade ou melhorar fertilidade. Podem causar dano, interagir com tratamentos e dificultar a avaliação hormonal.",
+          "Medicamentos para atenção, ansiedade, depressão ou outra condição só devem ser usados após avaliação própria. Se surgir reação importante, alteração intensa do humor, pensamento de autoagressão ou erro de administração, procure orientação imediatamente e não faça compensação caseira."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Não há dieta especial que corrija o cariótipo ou aumente a produção testicular. Ofereça alimentação variada, adequada à idade e à cultura da família, com frutas, verduras, feijões, cereais, fontes de proteína e alimentos ricos em cálcio.",
+          "Água deve ser a bebida habitual conforme a idade. Evite excesso de bebidas açucaradas, ultraprocessados e dietas restritivas, pois pessoas com a síndrome podem precisar de atenção a peso, cintura, pressão, glicose e gorduras no sangue ao longo da vida.",
+          "Para a saúde óssea, combine alimentação com cálcio e vitamina D, atividade física e exposição solar segura conforme orientação local. Suplementos só devem ser usados quando a equipe identificar necessidade e definir produto e acompanhamento.",
+          "Em bebês e crianças pequenas, mantenha leite materno e/ou fórmula e introdução alimentar usuais, salvo outra condição. Cansaço para mamar, engasgos, baixo ganho de peso ou perda de habilidades alimentares precisam de avaliação e não são explicados automaticamente pelo 47,XXY.",
+          "Na adolescência, evite dietas para alterar rapidamente altura, músculos, mamas ou formato do corpo. Mudanças bruscas de peso, compulsão, restrição alimentar, uso de anabolizante ou sofrimento com o corpo devem ser discutidos sem julgamento.",
+          "Leve ao retorno informações sobre crescimento, apetite, atividade e suplementos em uso. Não use alimento, chá ou fórmula comercial como substituto de acompanhamento endócrino, fonoaudiológico, escolar ou psicológico."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "A síndrome de Klinefelter geralmente não causa crises súbitas por si só. Mesmo assim, dor forte e repentina no testículo ou virilha, inchaço, testículo mais alto, náuseas ou vômitos exigem pronto atendimento imediato para excluir torção; não espere melhorar nem tente reposicionar.",
+          "Procure emergência se houver falta de ar súbita, dor no peito, desmaio, tosse com sangue ou uma perna muito inchada, dolorosa ou avermelhada. São sinais possíveis de coágulo e não devem esperar consulta, especialmente após imobilização, cirurgia, viagem longa ou outro fator de risco.",
+          "Chame a emergência diante de dificuldade importante para respirar, lábios arroxeados, convulsão, confusão, fraqueza súbita ou pessoa muito sonolenta e difícil de despertar; não atribua esses sinais ao diagnóstico cromossômico.",
+          "Procure ajuda urgente se o adolescente falar em morrer ou se machucar, fizer tentativa de autoagressão, apresentar agitação perigosa ou não puder ser mantido em segurança. Não deixe a pessoa sozinha e retire meios de lesão enquanto busca atendimento.",
+          "Bebê pequeno com febre ou temperatura muito baixa, recusa persistente das mamadas, vômitos repetidos, pouca urina, prostração ou aparência muito doente precisa de avaliação imediata. O 47,XXY não explica nem torna esses sinais seguros para observar em casa.",
+          "Sangramento importante, reação alérgica com inchaço de boca ou dificuldade para respirar, ou erro de dose com mal-estar após medicamento também exigem atendimento urgente e a embalagem do produto deve acompanhar a família."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha consultas de rotina com pediatria, levando a caderneta e o cariótipo. A equipe deve acompanhar crescimento, peso, pressão, desenvolvimento, saúde emocional, genitais e testículos, escola e sinais de condições associadas conforme idade e achados.",
+          "Em bebês e crianças pequenas, antecipe se houver testículo que não está na bolsa, alteração genital, hipotonia, atraso motor, pouca comunicação ou dificuldade para alimentar-se. A descida testicular e as necessidades de desenvolvimento não devem ficar sem plano definido.",
+          "Na pré-escola e escola, reavalie quando surgirem atraso de fala, dificuldade persistente em leitura ou escrita, desatenção, isolamento, bullying, frustração intensa ou queda de desempenho. Leve exemplos e relatórios para planejar fonoaudiologia, avaliação neuropsicológica ou apoio educacional quando indicado.",
+          "Antes da puberdade esperada e durante sua evolução, mantenha endocrinologia pediátrica. Antecipe diante de falta de progressão, cansaço persistente, pouca força, desenvolvimento das mamas, sofrimento com o corpo ou outros sinais de possível hipogonadismo; não decida tratamento apenas pela idade.",
+          "Na adolescência, converse de modo privado e adequado à maturidade sobre fertilidade e opções futuras antes de qualquer tratamento ou procedimento que possa interferir nessa avaliação. Nenhuma coleta, biópsia ou preservação deve ser feita de forma automática ou sem o desejo e consentimento apropriados.",
+          "Organize transição para cuidado adulto com resumo de cariótipo, desenvolvimento, puberdade, hormônios, saúde óssea, fatores metabólicos e tratamentos. Não abandone seguimento quando a puberdade parecer completa ou porque a pessoa se sente bem."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Confirme o cariótipo e registre exame genital, posição dos testículos, alimentação, tônus e desenvolvimento. Avaliação hormonal no início da vida só deve ser solicitada quando puder mudar uma conduta especializada; febre, prostração ou recusa de mamadas exigem atendimento imediato.",
+        "3a5m": "Acompanhe ganho de peso, tônus, controle da cabeça, interação e alimentação. Hipotonia, engasgos ou atraso persistente pedem avaliação de desenvolvimento e terapia dirigida; não iniciar hormônio apenas pelo cariótipo.",
+        "6a11m": "Revise sentar, engatinhar, coordenação, balbucio e resposta social e confirme a posição dos testículos. Encaminhe cedo diante de atraso, perda de habilidade ou testículo fora da bolsa escrotal.",
+        "1a": "Priorize linguagem, audição, marcha, coordenação e interação. Use as consultas para definir necessidade de fonoaudiologia, fisioterapia ou terapia ocupacional e não espere a fase escolar para agir sobre atrasos claros.",
+        "2a5": "Acompanhe fala expressiva, coordenação, brincadeira, atenção e adaptação à pré-escola. Ofereça apoio individual quando necessário, preserve privacidade e não use testosterona ou suplementos para prevenir problemas que ainda não existem.",
+        "6a11": "Observe leitura, escrita, linguagem, atenção, organização, relações sociais, crescimento e início puberal. Combine apoio escolar objetivo e programe avaliação endócrina antes e durante a puberdade, sem expor o diagnóstico aos colegas.",
+        "12a17": "Inclua o adolescente nas decisões e ofereça conversa privada sobre puberdade, corpo, identidade, saúde mental e fertilidade. Endocrinologia deve correlacionar sinais, estágio puberal e exames antes de qualquer testosterona; procedimentos reprodutivos exigem aconselhamento, maturidade e consentimento.",
+        "unknown": "Antes de personalizar, confirme idade, cariótipo e possível mosaicismo, posição dos testículos, desenvolvimento, escola, estágio puberal, sintomas de hipogonadismo, exames hormonais, saúde óssea e metabólica, saúde mental, tratamentos e preferências da pessoa."
+      },
+      "refs": [
+        {
+          "id": "pais141_op169_1",
+          "name": "Klinefelter Syndrome",
+          "url": "https://publications.aap.org/pediatriccare/article-abstract/doi/10.1542/aap.ppcqr.396474/213/Klinefelter-Syndrome"
+        },
+        {
+          "id": "pais141_op169_2",
+          "name": "Klinefelter Syndrome: A Guide for Families",
+          "url": "https://pedsendo.org/patient-resource/klinefelter-syndrome/"
+        },
+        {
+          "id": "pais141_op169_3",
+          "name": "Klinefelter syndrome",
+          "url": "https://medlineplus.gov/genetics/condition/klinefelter-syndrome/"
+        },
+        {
+          "id": "pais141_op169_4",
+          "name": "European Academy of Andrology guidelines on Klinefelter Syndrome",
+          "url": "https://www.ese-hormones.org/media/inadla4j/endorsed-gl-eaa-klinefelter-sdr-guidelines.pdf"
+        },
+        {
+          "id": "pais141_op169_5",
+          "name": "Klinefelter syndrome",
+          "url": "https://www.nhs.uk/conditions/klinefelters-syndrome/"
+        },
+        {
+          "id": "pais141_op169_6",
+          "name": "O papel do pediatra diante da criança com dificuldade escolar",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/21156d-DIRETRIZES_-Papel_pediatra_diante_crianca_DificEscolar.pdf"
+        },
+        {
+          "id": "pais141_op169_7",
+          "name": "Como avaliar e tratar adolescentes com puberdade atrasada",
+          "url": "https://www.sbp.com.br/fileadmin/user_upload/23315d-DC_Como_avaliar_e_tratar_adl_com_puberdade_atrasada.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1395",
+      "label": "Síndrome de Lennox-Gastaut",
+      "entity": "Síndrome de Lennox-Gastaut, encefalopatia do desenvolvimento e epiléptica de início na infância com crises de múltiplos tipos, incluindo crises tônicas, padrões eletroencefalográficos característicos e epilepsia frequentemente resistente a medicamentos",
+      "assessment": "{\"classification\":\"VALID_DEVELOPMENTAL_AND_EPILEPTIC_ENCEPHALOPATHY\",\"normalized_entity\":\"Síndrome de Lennox-Gastaut\",\"assessment\":\"O termo é válido, mas não deve ser usado como sinônimo de qualquer epilepsia grave, crise com queda ou epilepsia resistente. Os critérios atuais incluem crises de múltiplos tipos com início antes dos 18 anos, obrigatoriamente crises tônicas, comprometimento cognitivo ou comportamental que pode surgir depois e eletroencefalograma com ponta-onda lenta generalizada e atividade rápida paroxística generalizada no sono. A síndrome costuma começar entre 18 meses e 8 anos, pode evoluir de outra encefalopatia epiléptica infantil e exige neurologia pediátrica especializada.\",\"not_automatically_equivalent_to\":[\"Qualquer epilepsia resistente, crise convulsiva, queda ou ausência\",\"Síndrome de West, síndrome de Dravet, epilepsia mioclônico-atônica ou encefalopatia com ponta-onda ativada no sono\",\"Um único padrão de eletroencefalograma sem correlação clínica\",\"Uma causa genética, estrutural, infecciosa ou metabólica específica\",\"Indicação automática de medicamento, plano de resgate, dieta cetogênica, estimulador ou cirurgia\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de Lennox-Gastaut. Não contar como cobertura específica de cada tipo de crise, estado de mal epiléptico, causa genética ou estrutural, lesão por queda, disfagia, distúrbio do sono, condição comportamental ou terapia individual sem avaliação própria.\",\"pediatric_scope\":\"Abrange crianças e adolescentes com diagnóstico confirmado ou em evolução. A idade de início, os tipos e a duração das crises, o eletroencefalograma de vigília e sono, a etiologia, o desenvolvimento, a deglutição, o sono, as lesões, os medicamentos e o plano de resgate definem o cuidado individual.\",\"reason_for_specific\":\"É uma síndrome epiléptica reconhecida com critérios clínicos e eletroencefalográficos próprios, risco de crises com queda e estado de mal, necessidades de segurança, desenvolvimento, escola, transição e tratamento especializado.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Lennox-Gastaut é uma forma complexa de epilepsia da infância. Podem ocorrer crises tônicas com enrijecimento, perdas súbitas do tônus e quedas, ausências atípicas, abalos, crises convulsivas e períodos prolongados de menor resposta. O padrão de cada criança precisa ser descrito pela equipe; nem todo olhar parado, queda ou movimento é necessariamente crise.",
+          "Mantenha um diário com horário, duração, tipo de movimento, consciência, respiração, recuperação, possível gatilho, medicamento administrado e lesão. Quando for seguro, um vídeo curto pode ajudar a neurologia a reconhecer mudanças; nunca atrase os primeiros socorros para filmar.",
+          "Durante uma crise, fique junto, marque o tempo, afaste objetos perigosos, proteja a cabeça e afrouxe roupa apertada. Se a criança estiver caída, vire-a suavemente de lado quando possível. Não segure os movimentos, não coloque nada na boca e não ofereça água, alimento ou remédio oral até estar completamente desperta e capaz de engolir.",
+          "Siga o plano escrito de crises e resgate entregue pela neurologia. Deixe cópia acessível em casa, escola, transporte e com outros cuidadores, com contatos, tipos habituais de crise, limiar para resgate, medicamento já prescrito e critérios para chamar a emergência.",
+          "Crises tônicas ou atônicas podem causar quedas repetidas. Reduza quinas e superfícies duras, proteja escadas, evite altura, fogo e trânsito sem supervisão e discuta capacete individualmente quando houver quedas frequentes; equipamento inadequado não substitui controle de crises.",
+          "Converse com a equipe sobre risco de morte súbita relacionada à epilepsia de forma proporcional e sem alarmismo. Usar os medicamentos como prescritos, comunicar crises persistentes, dormir adequadamente e treinar cuidadores em primeiros socorros são medidas importantes."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Mantenha acompanhamento com neurologista pediátrico com experiência em epilepsia. Fisioterapia, terapia ocupacional, fonoaudiologia, avaliação de deglutição, psicologia, psiquiatria, nutrição e assistência escolar entram conforme as necessidades, não como pacote obrigatório para todos.",
+          "Priorize sono regular e suficiente. Registre noites ruins, ronco, pausas respiratórias, sonolência e crises durante o sono; privação de sono pode piorar crises e sedação excessiva também precisa ser revista.",
+          "Banho, piscina e água aberta exigem supervisão próxima e contínua de um adulto capaz de agir. Prefira chuveiro quando for seguro, não tranque a porta do banheiro e use colete adequado em atividades aquáticas; boia não substitui vigilância.",
+          "Na escola, estabeleça plano individual com primeiros socorros, critérios de emergência, medicação de resgate já prescrita, apoio após crises, prevenção de quedas e participação nas atividades. Professores e cuidadores devem saber que crises não são contagiosas e não devem colocar objeto na boca.",
+          "Estimule comunicação, movimento, brincadeira, autonomia e aprendizagem no nível da criança. Observe perda de habilidades, mudança de marcha, comportamento, atenção ou alerta; não atribua automaticamente toda regressão à síndrome ou aos medicamentos.",
+          "Dieta cetogênica, estimulação do nervo vago e cirurgia são opções especializadas para alguns casos. Não iniciar jejum, dieta muito rica em gordura, suplemento, dispositivo ou exercício restritivo sem avaliação, preparo, monitoramento e plano da equipe."
+        ],
+        "MEDICAMENTOS": [
+          "Use cada medicamento antiepiléptico exatamente na apresentação, horário e via prescritos. Não suspenda abruptamente, não dobre dose esquecida, não compartilhe e não troque marca, forma, concentração ou esquema sem conferir com neurologia e farmácia.",
+          "A síndrome costuma ser resistente a tratamento e pode exigir combinações. Isso não autoriza acrescentar, retirar ou aumentar remédios em casa; benefício, sedação, equilíbrio, comportamento, apetite, fígado e interações precisam de revisão individual.",
+          "Medicamento de resgate só deve ser usado quando já estiver prescrito em um plano escrito, com situação, via e tempo definidos para aquela criança. Se não houver plano ou se o plano falhar, procure a emergência; não improvise com comprimido, líquido ou medicamento de outra pessoa durante a crise.",
+          "Se a criança vomitar uma tomada, cuspir, esquecer dose ou receber dose duplicada, contate a equipe ou serviço de toxicologia para orientação específica. Não repita automaticamente e leve embalagem, receita e horário do ocorrido.",
+          "Avise antes de usar antialérgico, antigripal, antibiótico, fitoterápico, canabidiol, suplemento ou outro produto, pois pode haver interação, sedação ou piora de determinados tipos de crise. Produto dito natural não é isento de risco.",
+          "Procure orientação rapidamente diante de sonolência muito maior que o habitual, dificuldade para engolir, quedas novas, vômitos persistentes, pele ou olhos amarelados, manchas extensas, inchaço, mudança intensa de comportamento ou piora clara das crises."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Ofereça alimentação variada e líquidos adequados à idade, respeitando a capacidade de engolir e o plano nutricional. Não há alimento comum que substitua o tratamento da epilepsia.",
+          "Não ofereça nada pela boca durante a crise ou enquanto houver sonolência e recuperação incompleta. Tosse, engasgo, voz molhada, demora excessiva, pneumonias repetidas ou perda de peso exigem avaliação da deglutição e da nutrição.",
+          "Mantenha hidratação em febre, calor, vômitos ou diarreia conforme tolerado. Se não consegue manter líquidos, urina pouco ou fica muito sonolenta, procure avaliação; doença e desidratação podem alterar segurança dos medicamentos e frequência das crises.",
+          "Se a equipe prescrever dieta cetogênica, siga exatamente a formulação, proporções, suplementos, exames e orientações para doença intercorrente. Não faça jejum, não retire carboidratos por conta própria e confirme medicamentos e produtos que possam interferir no plano.",
+          "Registre apetite, peso, constipação, refluxo, vômitos e mudança de crescimento. Sedação e dificuldade motora podem reduzir ingestão; ganho ou perda de peso não deve ser tratado com dieta restritiva sem avaliação.",
+          "Na escola e em viagens, leve alimentos e líquidos compatíveis com o plano, lista de restrições verdadeiras e medicação em embalagem identificada. Evite proibir alimentos apenas por associação não comprovada com crises."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Acione a emergência se uma crise durar mais de 5 minutos, se atingir o limite menor definido no plano individual ou se outra crise começar sem recuperação entre elas. Use o resgate somente como prescrito e não espere o efeito além do tempo indicado no plano.",
+          "Chame a emergência se houver dificuldade para respirar, coloração arroxeada, engasgo importante, criança que não desperta ou não retorna ao padrão habitual após a crise, ou reação grave após medicamento.",
+          "Procure atendimento imediato para primeira crise, novo tipo de crise, crise muito diferente das habituais, aumento súbito em número ou duração, ou período prolongado de olhar parado, lentidão, pouca resposta ou perda de habilidades, pois pode haver estado de mal não convulsivo.",
+          "Vá ao pronto atendimento após queda ou batida com desmaio, vômitos repetidos, dor de cabeça intensa, sangramento, fraqueza nova, pupilas diferentes, alteração de marcha ou sonolência crescente. Crises com queda podem esconder traumatismo importante.",
+          "Crise na água, afogamento, queimadura, lesão importante, ingestão errada de medicamento ou impossibilidade de manter a criança segura exigem emergência, mesmo que a crise já tenha parado.",
+          "Bebê pequeno com qualquer crise, espasmos em série, febre ou temperatura baixa, recusa das mamadas, pouca urina ou prostração precisa de avaliação imediata; a síndrome raramente é definida nessa idade e outras causas graves devem ser investigadas."
+        ],
+        "QUANDO REAVALIAR": [
+          "Mantenha retornos regulares com neurologia pediátrica mesmo quando as crises parecem estáveis. Leve diário, vídeos seguros, lista de medicamentos, exames, plano de resgate, quedas, sono, alimentação, escola, comportamento e desenvolvimento.",
+          "Antecipe a consulta se surgirem crises novas, mais frequentes, mais longas ou noturnas, quedas, lesões, regressão, mudança de comportamento, sonolência, desequilíbrio, dificuldade para engolir ou baixa adesão. Não espere o retorno de rotina para uma piora clara.",
+          "O diagnóstico e a causa devem ser revistos quando os critérios ainda estão em evolução, o eletroencefalograma muda ou surgem sinais atípicos. Sono no eletroencefalograma, imagem, genética ou investigação metabólica são definidos pela neurologia; um exame isolado não substitui o conjunto clínico.",
+          "Revise o plano de crise com escola e cuidadores pelo menos quando houver mudança de medicamento, tipo de crise, limiar de resgate, peso, contato ou ambiente. Treine novos responsáveis antes de deixá-los sozinhos com a criança.",
+          "Reavalie crescimento, nutrição, osso, sono, visão, audição, mobilidade, comunicação, aprendizado, saúde mental e participação social conforme idade e etiologia. Apoios devem ser ajustados às capacidades e metas da criança, não apenas à contagem de crises.",
+          "Na adolescência, planeje transição para neurologia de adultos com resumo da etiologia, tipos de crise, exames, tratamentos tentados, reações, plano de resgate, dispositivos, dieta, desenvolvimento e preferências. Inclua o adolescente nas decisões conforme sua capacidade."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Lennox-Gastaut raramente é diagnosticada nesta idade. Qualquer crise, espasmo em série, alteração de consciência, febre, temperatura baixa, dificuldade para mamar ou respirar exige avaliação imediata e investigação de outra encefalopatia ou doença aguda.",
+        "3a5m": "Crises ou espasmos nesta faixa exigem neurologia pediátrica urgente e eletroencefalograma apropriado; a síndrome completa geralmente ainda não está definida. Registre episódios sem atrasar primeiros socorros e não inicie dieta ou medicamento por conta própria.",
+        "6a11m": "Observe espasmos, enrijecimento, quedas da cabeça, desvio ocular e perda de habilidades. Encefalopatias epilépticas infantis podem evoluir para Lennox-Gastaut, mas a confirmação depende da evolução clínica e do eletroencefalograma, inclusive no sono.",
+        "1a": "Priorize reconhecimento de crises tônicas e espasmos, proteção contra quedas, alimentação segura e desenvolvimento. Crises em série, regressão ou mudança do padrão exigem contato rápido com neurologia e podem precisar de emergência.",
+        "2a5": "É a faixa típica de início. Reforce diário e vídeo seguro, plano de resgate, proteção de cabeça e escadas, sono, linguagem, marcha e treinamento da creche ou pré-escola; não atribua toda queda ou distração à epilepsia.",
+        "6a11": "Atualize o plano escolar, prevenção de quedas, primeiros socorros, comunicação e apoio pedagógico. Acompanhe sedação, comportamento, sono, marcha, deglutição e aprendizagem, preservando participação e autonomia com segurança.",
+        "12a17": "Inclua o adolescente no diário, no plano de resgate e nas decisões conforme sua capacidade. Reforce segurança em água, trânsito, altura, sono e uso de substâncias, e organize transição com histórico completo sem interromper medicamentos abruptamente.",
+        "unknown": "Antes de personalizar, confirme idade, início, tipos e duração das crises, padrão de recuperação, eletroencefalograma de vigília e sono, etiologia, desenvolvimento, quedas, deglutição, sono, medicamentos, dieta, dispositivo e plano de resgate."
+      },
+      "refs": [
+        {
+          "id": "pais141_op170_1",
+          "name": "International League Against Epilepsy classification and definition of epilepsy syndromes with onset in childhood: Position paper by the ILAE Task Force on Nosology and Definitions",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/epi.17241"
+        },
+        {
+          "id": "pais141_op170_2",
+          "name": "Lennox-Gastaut syndrome — Diagnostic criteria",
+          "url": "https://www.epilepsydiagnosis.org/syndrome/lgs-diagcriteria.html"
+        },
+        {
+          "id": "pais141_op170_3",
+          "name": "Epilepsies in children, young people and adults — section 6.2 Lennox-Gastaut syndrome",
+          "url": "https://www.nice.org.uk/guidance/ng217/chapter/6-Treating-childhood-onset-epilepsies"
+        },
+        {
+          "id": "pais141_op170_4",
+          "name": "First Aid for Seizures",
+          "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+        },
+        {
+          "id": "pais141_op170_5",
+          "name": "Lennox Gastaut Syndrome (LGS) — Epilepsy clinician handbook",
+          "url": "https://www.schn.health.nsw.gov.au/epilepsy-clinician-handbook/syndromes/lennox-gastaut-syndrome-lgs-epilepsy-clinician-handbook"
+        },
+        {
+          "id": "pais141_op170_6",
+          "name": "Sudden unexpected death in epilepsy",
+          "url": "https://www.cdc.gov/epilepsy/sudep/"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "key": "pdf1500_1413",
+      "label": "Síndrome de Tourette",
+      "entity": "Síndrome de Tourette na infância e adolescência — transtorno do neurodesenvolvimento com tiques motores e vocais persistentes",
+      "assessment": "{\"classification\":\"VALID_NEURODEVELOPMENTAL_TIC_DISORDER\",\"normalized_entity\":\"Síndrome de Tourette / transtorno de Tourette\",\"assessment\":\"O termo é válido. A síndrome de Tourette é um transtorno do neurodesenvolvimento definido por múltiplos tiques motores e pelo menos um tique vocal, presentes por mais de um ano, com início antes dos 18 anos e não explicados por substância ou outra condição. Os tiques são movimentos ou sons súbitos, repetitivos e difíceis de controlar; variam de tipo e intensidade, podem piorar com cansaço, estresse ou excitação e frequentemente diminuem na adolescência. O diagnóstico não significa deficiência intelectual, coprolalia obrigatória, necessidade automática de remédio nem que todo movimento repetitivo seja um tique.\",\"not_automatically_equivalent_to\":[\"Tique provisório ou transtorno de tique motor ou vocal persistente sem preencher todos os critérios\",\"Crise epiléptica, distonia, estereotipia, compulsão, efeito de medicamento ou outro movimento involuntário\",\"Comportamento semelhante a tique de início funcional súbito, que exige avaliação própria\",\"Coprolalia, agressividade, deficiência intelectual, TDAH, TOC, ansiedade ou depressão\",\"Indicação automática de medicamento, terapia comportamental, afastamento escolar ou restrição de atividade\"],\"counting_rule\":\"Contar como orientação clínica específica para síndrome de Tourette neste ID. Não contar como cobertura específica de epilepsia, transtorno funcional, TDAH, TOC, ansiedade, depressão, coprolalia, reação medicamentosa ou outra causa de movimentos anormais sem diagnóstico próprio.\",\"pediatric_scope\":\"Crianças e adolescentes com síndrome de Tourette confirmada ou em investigação. Os tiques costumam começar entre 5 e 10 anos, mas idade de início, duração, tipo motor e vocal, impacto funcional, comorbidades, medicamentos e sinais neurológicos determinam a avaliação individual.\",\"reason_for_specific\":\"É entidade diagnóstica reconhecida, com história natural própria, impacto escolar e psicossocial, comorbidades frequentes e opções de observação, CBIT ou tratamento medicamentoso conforme prejuízo funcional.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A síndrome de Tourette causa tiques motores e vocais: movimentos ou sons rápidos e repetidos que a criança não escolhe fazer. Eles podem mudar, desaparecer por períodos e voltar mais fortes; isso não é desobediência, provocação nem falha dos cuidados da família.",
+          "Não mande a criança parar, não a imite, não a puna e evite comentar cada tique. Suprimir o tique por algum tempo pode exigir grande esforço e aumentar tensão; trate a criança com respeito e intervenha contra brincadeiras, exposição ou bullying.",
+          "Observe o impacto, não apenas a contagem: dor, feridas, quedas, dificuldade para ler, escrever, falar, dormir, comer, conviver ou participar da escola importam mais do que um tique visível sem prejuízo. Registre mudanças e leve vídeos curtos à consulta somente com consentimento e sem constranger.",
+          "Tiques costumam piorar com cansaço, estresse, excitação e atenção excessiva, mas não são voluntários nem apenas psicológicos. Mantenha rotina previsível, sono adequado, pausas e atividades de que a criança gosta, sem transformar toda a vida em tentativa de eliminar tiques.",
+          "Avise a equipe sobre desatenção, impulsividade, rituais, ansiedade, tristeza, irritabilidade, dificuldade de aprendizagem ou isolamento. TDAH, TOC, ansiedade e alterações do humor podem causar mais prejuízo do que os tiques e precisam de avaliação própria.",
+          "A evolução varia. Muitos jovens melhoram no fim da adolescência, mas alguns mantêm sintomas na vida adulta; piora temporária não significa deterioração neurológica. Reavalie quando o padrão mudar ou surgir prejuízo novo."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Combine com a escola uma resposta neutra aos tiques, permissão para pequenas pausas, lugar discreto quando desejado, tempo adicional e adaptação para escrita ou provas se houver prejuízo. O objetivo é acesso à aprendizagem, não esconder ou punir a criança.",
+          "Ensine professores, cuidadores e familiares que sons e movimentos podem ser involuntários. Planeje como lidar com comentários, bullying e tiques socialmente difíceis sem retirar recreio, esporte ou convivência como punição.",
+          "A Intervenção Comportamental Abrangente para Tiques, conhecida como CBIT, pode reduzir tiques e seu impacto quando feita por profissional treinado e com participação voluntária. Não tente aplicar técnicas de contenção, exposição ou resposta concorrente sem orientação.",
+          "Preserve brincadeiras, esporte e convívio conforme segurança e preferência da criança. Para tique que machuca, adapte temporariamente o ambiente, afaste quinas ou objetos perigosos e discuta proteção simples com a equipe sem imobilizar a criança.",
+          "Ajude a criança a reconhecer cansaço e situações que agravam sintomas sem fazê-la vigiar o corpo o dia inteiro. Respiração, relaxamento e pausas podem integrar um plano profissional, mas não provam que o tique seja voluntário.",
+          "Tiques novos de início muito súbito, movimentos contínuos diferentes do padrão ou perda de habilidades precisam de avaliação; não diagnostique Tourette por vídeo, aplicativo ou comparação com outra pessoa."
+        ],
+        "MEDICAMENTOS": [
+          "Muitos tiques leves não precisam de medicamento. Tratamento é considerado quando há dor, lesão, sofrimento ou prejuízo escolar, social ou funcional, após discutir prioridades e preferências com a criança, a família e a equipe.",
+          "Use somente o medicamento prescrito para aquela criança, na apresentação e horário orientados. Não use remédio de outra pessoa, cannabis, suplemento, fitoterápico ou produto anunciado para curar tiques.",
+          "Os medicamentos podem reduzir, mas raramente eliminam todos os tiques. Benefício e efeitos adversos precisam ser revistos: sonolência, tontura, desmaio, inquietação, rigidez, movimentos novos, mudança de apetite ou peso e alterações de humor devem ser comunicados.",
+          "Não aumente, reduza ou suspenda por conta própria. Alguns medicamentos usados para tiques ou condições associadas precisam de retirada gradual; interrupção brusca pode causar aumento da pressão ou movimentos de retirada.",
+          "TDAH, TOC, ansiedade e depressão têm tratamentos próprios. A presença de tiques não autoriza iniciar ou retirar estimulante, antidepressivo ou outro medicamento sem avaliação individual; às vezes tratar a condição associada reduz o prejuízo global.",
+          "CBIT costuma ser considerada antes de medicamento quando acessível e adequada. A escolha entre observar, terapia e medicamento depende do impacto real, idade, condições associadas, acesso e preferência, não da aparência isolada do tique."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Síndrome de Tourette não exige dieta especial. Ofereça alimentação variada e líquidos conforme idade; não retire açúcar, leite, glúten, corantes ou outros grupos alimentares sem indicação clínica própria.",
+          "Mantenha horários regulares e ambiente tranquilo para refeições. Se um tique de boca, pescoço ou tronco atrapalhar mastigar ou beber, permita tempo e pausas, supervisione e solicite avaliação em vez de forçar ou repreender.",
+          "Engasgos repetidos, tosse ao comer, mudança de voz depois de beber, perda de peso ou dificuldade para engolir não devem ser atribuídos automaticamente ao Tourette e precisam de avaliação pediátrica e, quando indicado, da deglutição.",
+          "Observe apetite, peso e sede quando houver medicamento, pois alguns produtos podem aumentar ou reduzir o apetite ou causar boca seca. Registre a mudança e converse com a equipe; não compense com dieta restritiva ou suplemento por conta própria.",
+          "Cafeína e energéticos podem piorar sono, ansiedade ou palpitações e não são tratamento para tiques. Evite energéticos em crianças e adolescentes e discuta consumo de cafeína com a equipe se houver piora percebida.",
+          "Se a criança estiver em atividade física, ofereça água e alimentação habitual. Não limite esporte por Tourette isoladamente; adapte apenas quando um tique específico criar risco de queda, colisão ou lesão."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Chame a emergência se houver dificuldade para respirar, arroxeamento, engasgo com incapacidade de falar ou tossir, ou movimento que impeça manter a via aérea. Não coloque objetos na boca e não imobilize à força.",
+          "Procure atendimento imediato diante de perda de consciência, convulsão, confusão, fraqueza de um lado, fala enrolada, rigidez de nuca, febre com prostração intensa ou dor de cabeça súbita muito forte; esses sinais não devem ser tratados como tique habitual.",
+          "Vá ao pronto atendimento se um tique causar trauma importante, sangramento que não para, ferida profunda, queda com possível lesão de cabeça, dor intensa, incapacidade de mover um membro ou movimentos tão repetidos que provoquem exaustão e não permitam beber.",
+          "Qualquer fala de morte, ideia ou tentativa de autoagressão, risco de machucar outra pessoa, agitação extrema ou perda de contato com a realidade exige proteção contínua e atendimento emergencial; não deixe o jovem sozinho.",
+          "Procure ajuda imediata após medicamento se houver desmaio, dificuldade respiratória, inchaço de boca ou face, rigidez intensa, febre com alteração de consciência, palpitação importante ou movimentos novos generalizados.",
+          "Movimentos ou sons muito súbitos e diferentes, associados a intoxicação, medicamento novo, infecção, alteração do estado mental ou perda de habilidades, exigem avaliação urgente para outra causa, mesmo que a criança já tenha Tourette."
+        ],
+        "QUANDO REAVALIAR": [
+          "Marque avaliação quando surgirem movimentos ou sons repetitivos para confirmar se são tiques e há quanto tempo ocorrem. Tourette exige tiques motores e vocais por mais de um ano, início antes dos 18 anos e exclusão de medicamento ou outra condição.",
+          "Reavalie se os tiques causarem dor, lesão, vergonha, bullying, dificuldade para dormir, comer, falar, escrever, aprender, conviver ou participar de atividades; esses impactos orientam a necessidade de CBIT, adaptação escolar ou tratamento.",
+          "Retorne se houver início abrupto de comportamentos semelhantes a tique, mudança muito rápida do padrão, regressão do desenvolvimento, movimentos durante perda de consciência ou sinais neurológicos. Transtorno funcional, crise epiléptica e outros movimentos precisam de avaliação própria.",
+          "Faça acompanhamento periódico de atenção, aprendizagem, compulsões, ansiedade, humor e comportamento. Antecipe a consulta se surgirem queda escolar, isolamento, tristeza persistente, ataques de pânico, rituais que ocupam muito tempo ou pensamentos de autoagressão.",
+          "Se usar medicamento, cumpra o retorno combinado para medir benefício, pressão, pulso, peso, sono, humor, movimentos e outros efeitos conforme o produto. Não espere a receita acabar nem suspenda de repente.",
+          "Na adolescência, reveja autonomia, escola, trabalho, direção, saúde mental e transição para cuidado adulto. Mesmo com melhora dos tiques, condições associadas podem continuar e precisam de plano próprio."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Síndrome de Tourette não é diagnóstico esperado nesta idade. Movimentos repetidos, tremores, pausas respiratórias, alteração de cor, dificuldade para mamar, sonolência ou perda de contato precisam de avaliação pediátrica imediata para causas neonatais e crises.",
+        "3a5m": "Tiques típicos são muito incomuns em lactentes. Filme apenas se for seguro e sem atrasar o atendimento; episódios com olhar parado, rigidez, abalos em série, alteração de cor ou consciência exigem avaliação urgente.",
+        "6a11m": "Movimentos repetitivos podem ter várias causas e não confirmam Tourette. Reavalie desenvolvimento, medicamentos e episódios de desconexão; procure atendimento imediato se houver regressão, convulsão, dificuldade respiratória ou alimentar.",
+        "1a": "Início nesta idade é atípico. Não puna nem contenha o movimento, mas solicite avaliação de pediatria ou neurologia para diferenciar tique de estereotipia, comportamento, efeito medicamentoso e crise epiléptica.",
+        "2a5": "Os primeiros tiques podem surgir no fim desta faixa, mas Tourette só se confirma pelo conjunto motor e vocal e pela duração. Observe sem chamar atenção, proteja de lesões e registre impacto no sono, linguagem, brincadeiras e pré-escola.",
+        "6a11": "É a faixa típica de início e possível pico dos tiques. Priorize adaptações escolares, combate ao bullying, sono e avaliação de TDAH, TOC, ansiedade e aprendizagem; CBIT pode ser considerada com profissional treinado.",
+        "12a17": "Muitos tiques melhoram durante a adolescência, mas isso não é garantido. Inclua o jovem nas decisões, monitore humor, autoagressão, isolamento e efeitos de medicamentos e planeje escola, trabalho e transição para o cuidado adulto.",
+        "unknown": "Antes de adaptar a orientação, confirme idade e idade de início, tipos motor e vocal, duração, variação, impacto, medicamentos, episódios de alteração da consciência, desenvolvimento, escola e sintomas de TDAH, TOC, ansiedade e humor."
+      },
+      "refs": [
+        {
+          "id": "pais141_op188_1",
+          "name": "Diagnosing Tic Disorders",
+          "url": "https://www.cdc.gov/tourette-syndrome/diagnosis/index.html"
+        },
+        {
+          "id": "pais141_op188_2",
+          "name": "Treatment of Tourette Syndrome",
+          "url": "https://www.cdc.gov/tourette-syndrome/treatment/index.html"
+        },
+        {
+          "id": "pais141_op188_3",
+          "name": "Practice guideline recommendations summary: Treatment of tics in people with Tourette syndrome and chronic tic disorders",
+          "url": "https://www.aan.com/Guidelines/Home/GetGuidelineContent/964"
+        },
+        {
+          "id": "pais141_op188_4",
+          "name": "Tic Disorders — Facts for Families No. 35",
+          "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Tic-Disorders-035.aspx"
+        },
+        {
+          "id": "pais141_op188_5",
+          "name": "Tourette Syndrome in Children: A Not-So-Frightening Diagnosis",
+          "url": "https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/pages/Tics-Tourette-Syndrome-and-OCD.aspx"
+        },
+        {
+          "id": "pais141_op188_6",
+          "name": "Tourette Syndrome",
+          "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/tourette-syndrome.pdf"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

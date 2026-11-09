@@ -1,0 +1,130 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T18:59:27.994Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pdf1500_351",
+      "label": "Dermatite seborreica do lactente",
+      "entity": "Dermatite seborreica do lactente / crosta láctea",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Forma do lactente; crosta láctea corresponde à manifestação no couro cabeludo. Não presumir mesma condição em adolescente, nem alergia ao leite pelo nome.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A crosta láctea é uma forma comum de dermatite seborreica do bebê, com escamas oleosas no couro cabeludo. Pode também afetar dobras e área da fralda. Costuma melhorar com o tempo e não é causada por falta de higiene.",
+          "Em geral não dói nem incomoda muito. Coceira intensa, dor ou secreção pedem revisão do diagnóstico. Não arranque crostas com as unhas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave suavemente com xampu infantil sem perfume. Pode ajudar soltar apenas escamas já amolecidas com escova macia, sem esfregar ou ferir. Se precisar amolecer crostas, confirme um emoliente adequado para bebê com a equipe.",
+          "Evite xampu de adulto, perfumes, óleo de amendoim e receitas caseiras. Não é preciso retirar todas as escamas de uma vez.",
+          "Não é contagiosa e não exige isolamento. Se for na fralda, troque fraldas sujas ou molhadas prontamente e mantenha cuidados suaves da pele."
+        ],
+        "MEDICAMENTOS": [
+          "Não use xampu medicamentoso, corticoide ou antifúngico por conta própria. A escolha depende da idade, local, extensão e confirmação do diagnóstico.",
+          "Se houver prescrição, confirme onde aplicar e quando parar; não leve produto do couro cabeludo aos olhos, boca ou dobras sem orientação específica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha mamadas e alimentação habituais para a idade. O nome crosta láctea não indica alergia ao leite e não justifica trocar fórmula ou restringir dieta materna.",
+          "Observe mamadas e fraldas molhadas. Redução importante da alimentação ou urina não deve ser atribuída às escamas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bebê com febre e prostração, recusa importante das mamadas, pouca urina ou dificuldade para acordar precisa de avaliação urgente. Em menor de três meses, temperatura de 38 °C ou mais exige atendimento imediato.",
+          "Pele dolorosa com vermelhidão ou inchaço em rápida expansão, pus com febre ou piora do estado geral exigem avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure a equipe se houver sangramento, líquido saindo das crostas, mau cheiro, inchaço ou incômodo. Pode haver outra condição ou infecção associada.",
+          "Reavalie se afetar grande parte do corpo, piorar ou não melhorar após algumas semanas de cuidados suaves. Em criança maior, confirme a causa das escamas em vez de assumir crosta láctea do bebê."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Observe temperatura, mamadas e urina; não atribua febre às crostas.",
+        "3a5m": "Cuidados suaves e produtos próprios para bebê; não force a retirada de escamas.",
+        "6a11m": "Evite que a criança leve produto ou escova à boca e supervisione os cuidados.",
+        "1a": "Algumas crianças ainda têm escamas nesta idade, mas persistência ou incômodo precisa de revisão.",
+        "2a5": "Confirme a causa da descamação; esta ficha descreve a forma do lactente e não escolhe tratamento para criança maior.",
+        "6a11": "A apresentação nesta idade requer revisão diagnóstica; não aplicar automaticamente cuidados medicamentosos do lactente.",
+        "12a17": "Escamas no adolescente podem ter outra apresentação; confirme diagnóstico e plano próprio, sem usar esta ficha como prescrição.",
+        "unknown": "Confirme idade e local antes de tratar; não presumir a forma do bebê em qualquer faixa etária."
+      },
+      "refs": [
+        {
+          "id": "pais207_op599_1",
+          "name": "Cradle cap",
+          "url": "https://www.nhs.uk/conditions/cradle-cap/"
+        },
+        {
+          "id": "pais207_op599_2",
+          "name": "What is Cradle Cap?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/bathing-skin-care/Pages/Cradle-Cap.aspx"
+        },
+        {
+          "id": "pais207_op599_3",
+          "name": "Cradle cap",
+          "url": "https://www.kingstonandrichmond.nhs.uk/patients-and-families/patient-leaflets/cradle-cap"
+        }
+      ],
+      "alwaysUrgent": false
+    },
+    {
+      "specific": true,
+      "key": "pps_catalog_22e1795df2dd4050",
+      "label": "Dermatite Seborreica do Lactente / Crosta Láctea — registro no PPS",
+      "entity": "Dermatite seborreica do lactente / crosta láctea",
+      "assessment": "{\"classification\":\"VALID_ENTITY\",\"assessment\":\"Forma do lactente; crosta láctea corresponde à manifestação no couro cabeludo. Não presumir mesma condição em adolescente, nem alergia ao leite pelo nome.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "A crosta láctea é uma forma comum de dermatite seborreica do bebê, com escamas oleosas no couro cabeludo. Pode também afetar dobras e área da fralda. Costuma melhorar com o tempo e não é causada por falta de higiene.",
+          "Em geral não dói nem incomoda muito. Coceira intensa, dor ou secreção pedem revisão do diagnóstico. Não arranque crostas com as unhas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Lave suavemente com xampu infantil sem perfume. Pode ajudar soltar apenas escamas já amolecidas com escova macia, sem esfregar ou ferir. Se precisar amolecer crostas, confirme um emoliente adequado para bebê com a equipe.",
+          "Evite xampu de adulto, perfumes, óleo de amendoim e receitas caseiras. Não é preciso retirar todas as escamas de uma vez.",
+          "Não é contagiosa e não exige isolamento. Se for na fralda, troque fraldas sujas ou molhadas prontamente e mantenha cuidados suaves da pele."
+        ],
+        "MEDICAMENTOS": [
+          "Não use xampu medicamentoso, corticoide ou antifúngico por conta própria. A escolha depende da idade, local, extensão e confirmação do diagnóstico.",
+          "Se houver prescrição, confirme onde aplicar e quando parar; não leve produto do couro cabeludo aos olhos, boca ou dobras sem orientação específica."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Mantenha mamadas e alimentação habituais para a idade. O nome crosta láctea não indica alergia ao leite e não justifica trocar fórmula ou restringir dieta materna.",
+          "Observe mamadas e fraldas molhadas. Redução importante da alimentação ou urina não deve ser atribuída às escamas."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Bebê com febre e prostração, recusa importante das mamadas, pouca urina ou dificuldade para acordar precisa de avaliação urgente. Em menor de três meses, temperatura de 38 °C ou mais exige atendimento imediato.",
+          "Pele dolorosa com vermelhidão ou inchaço em rápida expansão, pus com febre ou piora do estado geral exigem avaliação urgente."
+        ],
+        "QUANDO REAVALIAR": [
+          "Procure a equipe se houver sangramento, líquido saindo das crostas, mau cheiro, inchaço ou incômodo. Pode haver outra condição ou infecção associada.",
+          "Reavalie se afetar grande parte do corpo, piorar ou não melhorar após algumas semanas de cuidados suaves. Em criança maior, confirme a causa das escamas em vez de assumir crosta láctea do bebê."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Observe temperatura, mamadas e urina; não atribua febre às crostas.",
+        "3a5m": "Cuidados suaves e produtos próprios para bebê; não force a retirada de escamas.",
+        "6a11m": "Evite que a criança leve produto ou escova à boca e supervisione os cuidados.",
+        "1a": "Algumas crianças ainda têm escamas nesta idade, mas persistência ou incômodo precisa de revisão.",
+        "2a5": "Confirme a causa da descamação; esta ficha descreve a forma do lactente e não escolhe tratamento para criança maior.",
+        "6a11": "A apresentação nesta idade requer revisão diagnóstica; não aplicar automaticamente cuidados medicamentosos do lactente.",
+        "12a17": "Escamas no adolescente podem ter outra apresentação; confirme diagnóstico e plano próprio, sem usar esta ficha como prescrição.",
+        "unknown": "Confirme idade e local antes de tratar; não presumir a forma do bebê em qualquer faixa etária."
+      },
+      "refs": [
+        {
+          "id": "pais207_op600_1",
+          "name": "Cradle cap",
+          "url": "https://www.nhs.uk/conditions/cradle-cap/"
+        },
+        {
+          "id": "pais207_op600_2",
+          "name": "What is Cradle Cap?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/bathing-skin-care/Pages/Cradle-Cap.aspx"
+        },
+        {
+          "id": "pais207_op600_3",
+          "name": "Cradle cap",
+          "url": "https://www.kingstonandrichmond.nhs.uk/patients-and-families/patient-leaflets/cradle-cap"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}

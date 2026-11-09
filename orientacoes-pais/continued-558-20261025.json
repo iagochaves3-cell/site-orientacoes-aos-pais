@@ -1,0 +1,75 @@
+{
+  "schema": "orientacoes-pais-parallel-batch-v1",
+  "generated_at": "2026-10-25T17:39:00.604Z",
+  "records": [
+    {
+      "specific": true,
+      "key": "pps_catalog_528eb6e403fcee2d",
+      "label": "Asma brônquica — registro no PPS",
+      "entity": "Asma brônquica",
+      "assessment": "{\"classification\":\"VALID_CLINICAL_ENTITY\",\"assessment\":\"Entidade reconhecida; título não define gravidade, crise atual ou esquema por idade.\"}",
+      "sections": {
+        "CUIDADOS EM CASA": [
+          "Asma pode causar tosse, chiado, aperto no peito e falta de ar. O diagnóstico precisa ser confirmado pela equipe; chiado em bebê ou tosse isolada não significam automaticamente asma.",
+          "Mantenha um plano de ação escrito com o que usar no dia a dia, o que fazer na piora e quando buscar ajuda. Observe despertares noturnos, limitação para brincar e necessidade crescente do medicamento de alívio; leve esses registros às consultas."
+        ],
+        "MEDIDAS SEM REMÉDIOS": [
+          "Evite fumaça de cigarro e vape em casa, no carro e perto da criança. Identifique com a equipe os gatilhos que realmente causam sintomas, sem proibir indiscriminadamente atividades ou convívio.",
+          "Com a asma controlada, estimule participação nas atividades. Se exercício provoca sintomas, revise o plano antes de insistir no esforço. Entregue cópia do plano à escola e aos outros cuidadores, com acesso aos medicamentos prescritos."
+        ],
+        "MEDICAMENTOS": [
+          "Aprenda com a equipe a finalidade de cada inalador e peça demonstração da técnica, incluindo espaçador e máscara quando indicados para o dispositivo e a idade. Não escolha o medicamento só pela cor da embalagem.",
+          "Siga exatamente o tratamento e o plano de alívio prescritos. Alguns esquemas usam o mesmo inalador para controle e alívio; outros usam dispositivos diferentes. Esta ficha não define esquema, número de jatos ou intervalo.",
+          "Não suspenda o controle por conta própria quando a criança melhora. Se o alívio não funciona, dura menos que o previsto ou precisa ser repetido além do plano, procure atendimento; não mantenha repetições indefinidas em casa."
+        ],
+        "ALIMENTAÇÃO E LÍQUIDOS": [
+          "Quando estiver bem, mantenha alimentação e líquidos habituais, adequados à idade. Informe perda de apetite ou dificuldade para se alimentar durante os sintomas.",
+          "Se a falta de ar impede mamar, comer ou beber, procure atendimento imediato. Não force alimentação nem adie ajuda para tentar hidratar durante dificuldade respiratória importante."
+        ],
+        "VOLTE IMEDIATAMENTE AO PRONTO ATENDIMENTO": [
+          "Falta de ar importante, esforço marcado com afundamento do peito ou pescoço, dificuldade para falar, mamar ou beber, ou piora apesar do plano de alívio exigem atendimento imediato.",
+          "Com lábios azulados, sonolência incomum, confusão, exaustão ou desmaio, acione 192. Não espere acabar uma sequência de doses para chamar ajuda. Enquanto aguarda, mantenha a criança acompanhada em posição confortável e siga as instruções do serviço de emergência e seu plano individual.",
+          "Uma primeira dificuldade importante para respirar também é urgência, mesmo sem diagnóstico de asma ou sem inalador disponível."
+        ],
+        "QUANDO REAVALIAR": [
+          "Após uma crise, combine revisão precoce mesmo que haja melhora; procure a equipe para ser reavaliado em até dois dias, ou antes se a alta orientar. Persistência ou retorno da falta de ar exige avaliação imediata.",
+          "Antecipe consulta se acorda por tosse, falta às atividades ou usa alívio mais frequentemente. Leve inaladores, espaçador e plano para conferir técnica, acesso e necessidade de ajuste.",
+          "Revise o plano regularmente e sempre que houver mudança do tratamento. Dúvidas de técnica ou dificuldade para conseguir o medicamento merecem contato antes de ficar sem tratamento."
+        ]
+      },
+      "ageMap": {
+        "u3m": "Dificuldade para respirar ou mamar em bebê pequeno exige avaliação imediata. Não conclua asma nem use receita de outra criança pelo nome nesta ficha.",
+        "3a5m": "Chiado pode ter outras causas. Procure avaliação pediátrica e observe respiração e mamadas; não use o cadastro como diagnóstico.",
+        "6a11m": "Chiado ou tosse precisam avaliação própria nessa idade. Se foi prescrito inalador, peça demonstração do dispositivo adequado; não improvise técnica.",
+        "1a": "Crianças pequenas podem chiar com infecções sem ter asma persistente. Observe esforço respiratório e alimentação e mantenha o plano individual da equipe.",
+        "2a5": "Os sintomas e a resposta ao tratamento ajudam a equipe a avaliar o diagnóstico. Um adulto deve administrar e conferir a técnica do inalador.",
+        "6a11": "Ensine a reconhecer sintomas e pedir ajuda, mantendo supervisão. Escola e cuidadores devem conhecer o plano e onde fica o medicamento.",
+        "12a17": "Combine responsabilidades pelo tratamento, conferência da técnica e acesso ao inalador. Converse sobre cigarro e vape e não esconda sintomas para continuar esporte.",
+        "unknown": "Confirmar idade, diagnóstico, dispositivo e plano atual. A orientação de emergência depende dos sintomas presentes, não do nome da asma."
+      },
+      "refs": [
+        {
+          "id": "pais187_op558_1",
+          "name": "Asthma",
+          "url": "https://www.rch.org.au/kidsinfo/fact_sheets/asthma/"
+        },
+        {
+          "id": "pais187_op558_2",
+          "name": "Asthma",
+          "url": "https://www.nhs.uk/conditions/asthma/"
+        },
+        {
+          "id": "pais187_op558_3",
+          "name": "Managing Asthma",
+          "url": "https://www.nhlbi.nih.gov/health/asthma/living-with"
+        },
+        {
+          "id": "pais187_op558_4",
+          "name": "Asthma in Children",
+          "url": "https://www.nhlbi.nih.gov/health/asthma/children"
+        }
+      ],
+      "alwaysUrgent": false
+    }
+  ]
+}
