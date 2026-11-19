@@ -1,0 +1,1 @@
+window.PaisFirstAidBaseForLoad=window.PaisGuide;

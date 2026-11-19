@@ -1,0 +1,1 @@
+window.PaisAirwayForeignbodyBaseForLoad=window.PaisGuide;

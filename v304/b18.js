@@ -1,0 +1,1 @@
+window.PaisDeepNeckBaseForLoad=window.PaisGuide;

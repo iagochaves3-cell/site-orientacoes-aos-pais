@@ -1,0 +1,1 @@
+window.PaisDigestiveCommonBaseForLoad=window.PaisGuide;

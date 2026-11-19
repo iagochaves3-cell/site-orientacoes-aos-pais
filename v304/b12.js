@@ -1,0 +1,1 @@
+window.PaisRespiratoryCommonBaseForLoad=window.PaisGuide;

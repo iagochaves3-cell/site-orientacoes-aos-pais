@@ -1,0 +1,1 @@
+window.PaisRespiratoryEntBaseForLoad=window.PaisGuide;

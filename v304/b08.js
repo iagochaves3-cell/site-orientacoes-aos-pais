@@ -1,0 +1,1 @@
+window.PaisRemainingFamiliesBaseForLoad=window.PaisGuide;

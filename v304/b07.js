@@ -1,0 +1,16 @@
+
+(function(root){'use strict';const expected={"clinicalDocumentSha256":"8830d940d3ca109ac5e4b3af704cb7b6ad9aa79de021ee57789af692946392ce","aliases":["asma","Asma / broncoespasmo","Crise de chiado no peito","broncoespasmo","crise de asma","crise asmática","Faringite / amigdalite","Inflamação da garganta","faringoamigdalite","faringite","faringoamigdalite aguda","OMA","otite média aguda","otite"],"removals":[{"key":"pps_10","remove":["asma","Asma / broncoespasmo","Crise de chiado no peito","broncoespasmo","crise de asma","crise asmática"]},{"key":"pps_3","remove":["Faringite / amigdalite","Inflamação da garganta","faringoamigdalite","faringite","faringoamigdalite aguda","amigdalite","amigdalite aguda"]},{"key":"pps_95","remove":["OMA","otite média aguda","otite"]}],"preserveGenericRoutes":[{"query":"amigdalite","key":"bjhr_amigdalite"},{"query":"amigdalite aguda","key":"bjhr_amigdalite"},{"query":"otite média","key":"bjhr_om"}]},base=root.PaisRespiratoryEntBaseForLoad||root.PaisGuide,loaded=root.PaisGuide?.respiratoryEntContainment;
+const ready=!!(loaded&&loaded.clinicalDocumentSha256===expected.clinicalDocumentSha256&&typeof loaded.groupFor==='function'&&expected.preserveGenericRoutes.every(r=>root.PaisGuide.resolve(r.query)?.key===r.key));
+delete root.PaisRespiratoryEntBaseForLoad;
+root.PaisRespiratoryEntLoadStatus={ready,expectedClinicalDocumentSha256:expected.clinicalDocumentSha256,loadedClinicalDocumentSha256:loaded?.clinicalDocumentSha256||null,fallbackActive:!ready};
+if(ready||!base)return;
+const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim(),names=new Set(expected.aliases.map(norm)),changes=new Map(expected.removals.map(x=>[x.key,new Set(x.remove)]));
+const generic=new Map(expected.preserveGenericRoutes.map(r=>[norm(r.query),r.key]));
+function invalidGeneric(value){const n=norm(value);return generic.has(n)&&base.resolve(value)?.key!==generic.get(n);}
+const topics=base.topics.map(t=>changes.has(t.key)?{...t,aliases:t.aliases.filter(a=>!changes.get(t.key).has(a))}:t),byKey=new Map(topics.map(t=>[t.key,t]));
+function resolve(value){if(names.has(norm(value))||invalidGeneric(value))return null;const t=base.resolve(value);return t?(byKey.get(t.key)||t):null;}
+function build(input={}){const p=input&&typeof input==='object'?input:{};if(!names.has(norm(p.diagnosis))&&!invalidGeneric(p.diagnosis))return base.build(p);
+const N=root.PaisNeonatalGuard,P=root.PaisPopulationGuard;if(p.danger==='yes'||(typeof N?.currentEmergency==='function'&&N.currentEmergency(null,p))||(typeof P?.emergency==='function'&&P.emergency(p,null)))return base.build(p);
+return {ok:false,code:'RESPIRATORY_ENT_SCOPE_LOAD_REQUIRED',message:'Não foi possível carregar a proteção para os nomes amplos de respiração e ouvido/garganta. Nenhuma ficha específica foi gerada. Confirme a orientação adequada com a equipe; diante de sinais de alarme, procure atendimento sem esperar recarregar a página.'};}
+root.PaisGuide={...base,topics,resolve,build,respiratoryEntLoadFallback:true,audit(){return {...base.audit(),respiratoryEntContainmentLoad:{ready:false,fallbackActive:true,broadSpecificBodiesBlocked:true}};}};
+})(window);
